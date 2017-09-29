@@ -1,32 +1,43 @@
-# Pluricentric Global Wordnet
-## A multilingual wordnet browser
+# LX-WordNetBrowser
+
+## a web based browser for any individual wordnet
+## and for a Pluricentric Global Wordnet
+
 
 *Introduction*
 
 
 # Installation
-First step is downloading the zip of the repository and unpacking it somewhere. After that, create a folder where you will contain the browser.
+
+The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. 
+
 ## Requirements
 
-To be able to install and run this browser you need to have the latest [Python](https://www.python.org/downloads/) installed. 
+To install and run this browser you need to have the [Python](https://www.python.org/downloads/) 3.6.3 installed. 
 
-It is recommended that you install the requirements in a virtual environment. To do so, first install virtualenv by running the following command: ```pip3 install virtualenv```.
+<!--
+It is recommended that you install the required dependencies in a virtual environment. To do so, first install virtualenv by running the following command: ```pip3 install virtualenv```.
 
-To create a virtual environment, run the following command: ```virtualenv [browser folder path]```, or cd to browser folder path and run ```virtualenv . ```.
+To create a virtual environment, run the following command: ```virtualenv [browser folder path]```, or cd to the browser folder path and run ```virtualenv . ```.
 
 To activate the virtualenv, cd into the browser folder and run ```source bin/activate``` and ```deactivate```to exit the virtualenv on UNIX systems. For windows, to activate ```Scripts/activate``` and ```deactivate``` to exit.
 
-Once inside your virtual environment (or not if chose not to do it), to install the dependancies cd to the extracted folder from the zip you downloaded and run the following command: ```pip3 install -r requirements.txt```.
+Once inside your virtual environment (or not if chose not to do it), 
+-->
 
+To install the required dependencies cd to the folder extracted from the .zip file you downloaded and run the following command: ```pip3 install -r requirements.txt```.
+
+<!--
 You will need to have the virtual environment activated while the web server is online.
+-->
 
-With all the dependancies installed, now we can begin to configure the web browser.
+With all the dependencies installed, you can start to configure the wordnet browser.
 
-While having the working directory the folder you have your project on, execute the command ```django-adming.py startproject webapp```.
+CD to the folder where your project is, and execute the command ```django-adming.py startproject webapp```.
 
-Now drag the folders you have on your downloaded code from our repository (not requirements.txt) into the folder your project is on. 
+Copy the folders on the downloaded code (not requirements.txt) into the folder your project is on. 
 
-### Configurations
+### Configuration
 
 On settings.py under the webapp folder, insert the following:
 
@@ -42,4 +53,7 @@ STATIC_URL = '/static/'
 substitute STATICFILES_DIRS if it's there already.
 
 
+### Run
+
+to complete
 
