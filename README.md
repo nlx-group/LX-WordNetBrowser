@@ -4,14 +4,16 @@
 ## and for a Pluricentric Global Wordnet
 
 
-*Introduction*
+## Introduction
+
+page under construction
 
 
-# Installation
+## Installation
 
 The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. 
 
-## Requirements
+### Requirements
 
 To install and run this browser you need to have the [Python](https://www.python.org/downloads/) 3.6.3 installed. 
 
@@ -53,7 +55,7 @@ STATIC_URL = '/static/'
 substitute STATICFILES_DIRS if it's there already.
 
 
-### Run
+## Run
 
 to complete
 
