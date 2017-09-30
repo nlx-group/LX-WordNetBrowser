@@ -1,4 +1,4 @@
-# LX-WordNetBrowser
+# LX WordNet Browser
 
 ## a web based browser for any individual wordnet
 ## and for a Pluricentric Global Wordnet
