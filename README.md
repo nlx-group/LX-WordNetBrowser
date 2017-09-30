@@ -6,7 +6,20 @@
 
 ## Introduction
 
-page under construction
+LX WordNet Browser is a wordnet web browser, permitting the consultation of the contents of any wordnet that follows the Princeton wordnet format. 
+The browser was designed with the functionalities and interactions necessary for a new notion of pluricentric global wordnet. 
+
+Two versions are distributed that aim to achieve different tasks. One makes it possible to consult wordnet contents of a wordnet of choice, as long as it follows the Princeton wordnet format. At any point of the search, the concepts that the user finds can be directly translated to other languages, if such concept is available. The minimalist user interface can be rendered in multiple languages. At this moment, there is two languages supported: Portuguese and English. With the efforts of the community, we wish to expand this offer to many more languages, if you are interested in helping translate the interface, read more about it [here](https://github.com/nlx-group/LX-WordNetBrowser/wiki/Translations,-a-community-helping-hand).
+
+The other version of distribution was developed under the pluricentric global wordnet concept. It features all of the functionalities described above with a search function that is refined for multi-wordnet search. Instead of the search scope being limited to a single wordnet, the user can search for the concept in any language and have it being displayed. The browser will identify which language - wordnet the word belongs to, solving conflicts if necessary, and display the results. 
+
+### Feature Recap
+
++ Single and Multi-Wordnet simulataneous search
++ Lemma relations can be selected and explored.
++ Multilingual user interface
++ Translations into selected languages
++ Web-based platform independent
 
 
 ## Installation
@@ -15,7 +28,7 @@ The first step is to download the .zip file of the LX-WordNetBrowser and unpack 
 
 ### Requirements
 
-To install and run this browser you need to have the [Python](https://www.python.org/downloads/) 3.6.3 installed. 
+To install and run this browser you need to have [Python](https://www.python.org/downloads/) 3.6.3 installed (or the most recently available). 
 
 <!--
 It is recommended that you install the required dependencies in a virtual environment. To do so, first install virtualenv by running the following command: ```pip3 install virtualenv```.
