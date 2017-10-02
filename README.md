@@ -84,6 +84,8 @@ urlpatterns = [
 ]
 ```
 
+In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
+
 More configuration coming soon, for the mean time this is strictly a development configuration.
 ## Run
 
