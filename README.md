@@ -66,6 +66,10 @@ STATICFILES_DIRS = [
 STATIC_URL = '/static/'
 ```
 substitute STATICFILES_DIRS if it's there already.
++ In TEMPLATES, you will find 'DIRS' likely empty, substitute it with the following:
+```python
+[os.path.join(BASE_DIR, 'templates')]
+```
 
 + In webapp/urls.py, paste the following code:
 ```python
