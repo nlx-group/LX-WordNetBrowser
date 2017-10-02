@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My WordNet</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href='{% static "style.css" %}'>
+    <script src='{% static "language.js" %}'></script>
+    <script src='{% static "index.js" %}'></script>
+</head>
+<body>
+    <div class="container">
+        <a href="https://github.com/nlx-group/Pluricentric-Global-Wordnet" target="_blank" class="topRight">
+            <img src="/static/assets/images/GitHub-Mark-32px.png">
+        </a>
+        <header class="topHeader">
+            <span class="headerText">My WordNet</span>
+        </header>
+        <div class="row vertical-center-row">
+            <div id="langListTarget" class="col-md-12">
+                <div class="input-group" id="adv-search">
+                    <input type="text" class="form-control" id="searchInput"/>
+                    <div class="input-group-btn">
+                        <div class="btn-group" role="group">
+                            <div class="dropdown dropdown-lg" id="parent-dropdown">
+                            <button type="button" id="normal-search" data-tool-tip="tooltip" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                                <button id="globe" type="button" class="btn btn-default dropdown-toggle" data-tool-tip="tooltip" id="parentdropdown" data-toggle="dropdown" aria-expanded="false"><img src="/static/assets/images/globe.png"></button>
+                                <div class="dropdown-menu dropdown-menu-right" role="menu">
+                                    <form class="form-horizontal" role="form">
+                                        <div class="form-group">
+                                            <label id="formLabel"></label>
+                                            <select class="langmenu" multiple="multiple">
+                                            </select>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
