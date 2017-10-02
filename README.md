@@ -56,7 +56,7 @@ Copy the folders on the downloaded code (not requirements.txt) into the folder y
 
 On settings.py under the webapp folder, insert the following:
 
-+ In INSTALLED_APPS list, add 'search'
++ In INSTALLED_APPS list, add 'search' to the list
 + At the end, paste the following code:
 ```python
 STATICFILES_DIRS = [
@@ -67,8 +67,23 @@ STATIC_URL = '/static/'
 ```
 substitute STATICFILES_DIRS if it's there already.
 
++ In webapp/urls.py, paste the following code:
+```python
+from django.conf.urls import include, url
+from django.contrib import admin
+from search import urls
 
+urlpatterns = [
+    url(r'^admin/', admin.site.urls),
+    url(r'^', include(urls)),
+    
+]
+```
+
+More configuration coming soon, for the mean time this is strictly a development configuration.
 ## Run
 
-to complete
+To run the server, make sure to have your working directory inside your project folder. To start the server, run the following command ```python manage.py runserver```.
+
+Forthcoming: Integration with Apache web server for a production grade configuration.
 
