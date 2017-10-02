@@ -70,6 +70,7 @@ substitute STATICFILES_DIRS if it's there already.
 ```python
 [os.path.join(BASE_DIR, 'templates')]
 ```
++ In ALLOWED_HOSTS, insert the IP you're going to use for your website.
 
 + In webapp/urls.py, paste the following code:
 ```python
@@ -89,7 +90,7 @@ In langdata/main you should be putting your wordnet files in, along with the res
 More configuration coming soon, for the mean time this is strictly a development configuration.
 ## Run
 
-To run the server, make sure to have your working directory inside your project folder. To start the server, run the following command ```python manage.py runserver```.
+To run the server, make sure to have your working directory inside your project folder. To start the server, run the following command ```python manage.py runserver IP:PORT```.
 
 Forthcoming: Integration with Apache web server for a production grade configuration.
 
