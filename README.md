@@ -85,6 +85,8 @@ urlpatterns = [
 ]
 ```
 
+In /static/index.js search for "hostname", it is being concatenated with a string ":8000/....", change ":8000" with the port you are using.
+
 In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
 
 More configuration coming soon, for the mean time this is strictly a development configuration.
