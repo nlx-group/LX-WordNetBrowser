@@ -1,7 +1,7 @@
 "use strict";
 
 function languageSettings(type, language) {
-    var languageList = {
+    const languageList = {
         'Portuguese': {
             'concept': 'conceitos relacionados',
             'relationsMenu': {
@@ -10,13 +10,38 @@ function languageSettings(type, language) {
                 'inheritedHypernym': 'transitivos',
                 'directHyponym': 'hipónimos diretos',
                 'fullHyponym': 'transitivos',
+                'directTroponym': 'tropónimos diretos',
+                'fullTroponym': 'transitivos',
                 'memberHolonym': 'holónimos (membros de coleção)',
                 'substanceHolonym': 'holónimos (substâncias)',
                 'partHolonym': 'holónimos (partes de)',
                 'memberMeronym': 'merónimos (membros de coleção)',
                 'substanceMeronym': 'merónimos (substâncias)',
                 'partMeronym': 'merónimos (partes de)',
-                'noRelations': 'Este synset não tem relações registadas com qualquer outro'
+                'antonym': 'antônimo',
+                'instanceHypernym': 'hiperónimos instância',
+                'instanceHyponym': 'hipónimos instância',
+                'attribute': 'atributo',
+                'derivationallyRelatedForm': 'formas derivacionalmente relacionadas',
+                'entailment': 'implicação',
+                'cause': 'causa',
+                'alsoSee': 'ver também',
+                'verbGroup': 'grupo verbal',
+                'similarTo': 'semelhante a',
+                'participleOfVerb': 'particípio de verbo',
+                'pertainym': 'concerne a',
+                'derivedFromAdjective': 'derivado de adjetivo',
+                'domainCategory': 'categoria de domínio',
+                'domainTermCategory': 'termo de categoria de domínio',
+                'domainRegion': 'categoria de região',
+                'domainTermRegion': 'termo de categoria de região',
+                'domainUsage': 'categoria de uso',
+                'domainTermUsage': 'termo de categoria de uso',
+                'noRelations': 'Este synset não tem relações registadas com qualquer outro',
+                'derivationallyRelatedFormDisplay': 'Relacionado a:',
+                'concept': 'conceito',
+                'overview':'sinopse',
+                'sentenceFrame': 'quadros de subcategorização frásicos'
             },
             'searchNotFound': 'A busca não encontrou a palavra que procura.',
             'defLabel': 'definição',
@@ -27,7 +52,9 @@ function languageSettings(type, language) {
             'globe': 'traduções',
             'startPhrase': 'línguas: ',
             'languageChange': 'selecionar língua',
-            'noTransLangSelected': 'nenhuma língua selecionada'
+            'noTransLangSelected': 'nenhuma língua selecionada',
+            'collision': 'A palavra que procura existe em várias línguas. Selecione no menu abaixo qual pretende ' +
+            'explorar.'
         },
         'English': {
             'concept': 'related concepts',
@@ -37,6 +64,8 @@ function languageSettings(type, language) {
                 'inheritedHypernym': 'transitive hypernyms',
                 'directHyponym': 'direct ',
                 'fullHyponym': 'transitive hyponyms',
+                'directTroponym': 'direct ',
+                'fullTroponym': 'transitive troponym',
                 'memberHolonym': 'member holonyms',
                 'substanceHolonym': 'substance holonyms',
                 'partHolonym': 'part holonyms',
@@ -55,7 +84,18 @@ function languageSettings(type, language) {
                 'similarTo': 'similar to',
                 'participleOfVerb': 'participle of verb',
                 'pertainym': 'pertainym',
-                'noRelations': 'This synset doesn\'t have any registered relations with any others'
+                'derivedFromAdjective': 'derived from adjective',
+                'domainCategory': 'domain category',
+                'domainTermCategory': 'domain term category',
+                'domainRegion': 'domain region',
+                'domainTermRegion': 'domain term region',
+                'domainUsage': 'domain usage',
+                'domainTermUsage': 'domain term usage',
+                'noRelations': 'This synset doesn\'t have any registered relations with any others',
+                'derivationallyRelatedFormDisplay': 'Related to:',
+                'concept': 'concept',
+                'overview': 'overview',
+                'sentenceFrame': 'sentence frames'
             },
             'searchNotFound': 'The search couldn\'t find the word you were looking for.',
             'defLabel': 'definition',
@@ -66,7 +106,9 @@ function languageSettings(type, language) {
             'globe': 'translations',
             'startPhrase': 'translations to: ',
             'languageChange': 'change the display language',
-            'noTransLangSelected': 'no languages selected'
+            'noTransLangSelected': 'no languages selected',
+            'collision': 'The word you are searching for appears in more than one language. Choose which one you would'+
+            ' like to explore through in the menu below.'
         }
     };
     return languageList[language][type];
@@ -81,7 +123,7 @@ function implementedLanguageList(){
 }
 
 function countryCodes(language) {
-    var countryCodeList = {
+    const countryCodeList = {
         'Portuguese': {
             'en':'Inglês', 'fin':'Finlandês', 'afr':'Africâner', 'arb': 'Árabe','ast':'Asturiano','aze':'Azerbaijano',
             'bel':'Bielorusso','ben':'Bengali','bre':'Bretão','bul':'Búlgaro','cat':'Catalão','ces':'Tcheco',
@@ -111,7 +153,7 @@ function countryCodes(language) {
 }
 
 function wikipediaLinkList(language) {
-    var wikipediaList = {
+    const wikipediaList = {
         'English': {
             'en':'https://en.wikipedia.org/wiki/English_language',
             'fin':'https://en.wikipedia.org/wiki/Finnish_language','afr':'https://en.wikipedia.org/wiki/Afrikaans',
@@ -191,4 +233,22 @@ function wikipediaLinkList(language) {
         }
     };
     return wikipediaList[language];
+}
+
+function partOfSpeechList(language) {
+    const posList = {
+        'Portuguese': {
+            'Noun': 'Substantivo',
+            'Adj': 'Adjetivo',
+            'Verb': 'Verbo',
+            'Adv': 'Advérbio'
+        },
+        'English': {
+            'Noun': 'Noun',
+            'Adj': 'Adjective',
+            'Verb': 'Verb',
+            'Adv': 'Adverb'
+        }
+    };
+    return posList[language];
 }

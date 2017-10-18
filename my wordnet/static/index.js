@@ -3,23 +3,27 @@ var currentSearchTerm;
 var info = {};
 var otherLangs = [];
 var currentTranslatedOffset;
-var relationsShort = {'DirectHypernym': 'dhype', 'DirectHyponym': 'dhypo', 'InheritedHypernym':'ihype', 'FullHyponym': 'fhypo', 'MemberHolonym': 'mh', 'SubstanceHolonym': 'sh', 'PartHolonym': 'ph', 'MemberMeronym': 'mm', 'SubstanceMeronym': 'sm', 'PartMeronym': 'pm', 'Antonym': 'ant', 'InstanceHypernym': 'inhype', 'InstanceHyponym': 'inhypo', 'Attribute': 'attr', 'DerivationallyRelatedForm': 'derform', 'Entailment': 'ent', 'Cause': 'ca', 'AlsoSee': 'asee', 'VerbGroup': 'vgr', 'SimilarTo': 'sto', 'ParticipleOfVerb': 'pverb', 'Pertainym': 'per'};
-var partOfSpeech = {'n': 'noun', 'v': 'verb', 'a': 'adj', 's': 'adj', 'r': 'adv'};
-var main_language = 'English';
+const relationsShort = {'DirectHypernym': 'dhype', 'DirectHyponym': 'dhypo', 'DirectTroponym': 'dhypo', 'InheritedHypernym':'ihype', 'FullHyponym': 'fhypo', 'FullTroponym': 'fhypo', 'MemberHolonym': 'mh', 'SubstanceHolonym': 'sh', 'PartHolonym': 'ph', 'MemberMeronym': 'mm', 'SubstanceMeronym': 'sm', 'PartMeronym': 'pm', 'Antonym': 'ant', 'InstanceHypernym': 'inhype', 'InstanceHyponym': 'inhypo', 'Attribute': 'attr', 'DerivationallyRelatedForm': 'derform', 'Entailment': 'ent', 'Cause': 'ca', 'AlsoSee': 'asee', 'VerbGroup': 'vgr', 'SimilarTo': 'sto', 'ParticipleOfVerb': 'pverb', 'Pertainym': 'per', 'DomainCategory': 'domcat', 'DomainTermCategory': 'domtermcat', 'DomainRegion': 'domreg', 'DomainTermRegion': 'domtermreg', 'DomainUsage': 'domusage', 'DomainTermUsage': 'domtermusage', 'Overview': 'ov', 'Concept':'con', 'SentenceFrame': 'sframe'};
+const partOfSpeech = {'n': 'noun', 'v': 'verb', 'a': 'adj', 's': 'adj', 'r': 'adv'};
+const main_language = 'English';
 
 function expandedSearchFormatter(data,event,remove) {
 	for (var elem in data.relations) {
 		for (var element in data.relations[elem]) {
+			if (!info.hasOwnProperty(elem)) {
+				info[elem] = {};
+			}
 			if (!info[elem].hasOwnProperty(element)) {
 				info[elem][element] = data.relations[elem][element];
 			}
 		}
 	}
+	var language = localStorage.getItem('language');
 	if (remove) {
 		$(event.target.parentNode.children[2]).remove();
 	}
 	$(event.target.parentNode).append('<ul>' + data.line + '</ul>');
-	if (event.target.className === 'DirectHypernym' || event.target.className === 'DirectHyponym' || event.target.className === 'InheritedHypernym' || event.target.className === 'FullHyponym') {
+	if (event.target.className === 'DirectHypernym' || event.target.className === 'DirectHyponym' || event.target.className === 'InheritedHypernym' || event.target.className === 'FullHyponym' || event.target.className === 'DirectTroponym' || event.target.className == 'FullTroponym') {
 		$(event.target.parentNode.children[2]).find('a').click(function(event){expand(event)});
 		$("span.mark").each(function() {
 			var lemma = $(this).text();
@@ -34,12 +38,21 @@ function expandedSearchFormatter(data,event,remove) {
 			var lemma = $(this).text();
 			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + String(location.hostname) + ':8000/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
 		});
+		if (event.target.className === 'DerivationallyRelatedForm') {
+			var relationsMenu = languageSettings('relationsMenu', language);
+			$("span.derformMark").each(function() {
+				$(this).replaceWith(relationsMenu['derivationallyRelatedFormDisplay']);
+			});
+		}
 		$(event.target.parentNode.children[1]).addClass(event.target.className + ' search');
 		$(event.target.parentNode.children[1]).find("ul").addClass('search');
 	}
-	var language = localStorage.getItem('language');
 	$(".concept").prop('title', languageSettings('concept', language));
 	$('[data-tool-tip=tooltip]').tooltip({trigger:'hover', container:'body'});
+}
+
+function sentenceFrameFormatter(data, event) {
+	$(event.target.parentNode).append(data.line);
 }
 
 function expandRequest(event, remove=false) {
@@ -47,14 +60,25 @@ function expandRequest(event, remove=false) {
 	var className = $(event.target.parentNode).parent().parent().prop('class');
 	var offset = className.slice(0, className.length - 2);
 	var pos = className[className.length - 1];
-	history.pushState(null,null,'/search/s=' + currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos);
-	$.ajax({type:'GET',url:'.', data:'s='+ currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos}).done(function(data){expandedSearchFormatter(data, event, remove)});
+	if (searchTypeParsed === 'ov') {
+		var searchTerm = $(event.target.parentNode).parent().parent().find('a')[1].textContent.trim();
+		history.pushState(null, null, '/search/s=' + searchTerm + '&t=' + searchTypeParsed);
+		$.ajax({type:'GET',url:'.', data:'s=' + searchTerm + '&t=' + searchTypeParsed + '&st=norm2'}).done(function(data){expandedSearchFormatter(data, event, remove)});
+	}
+	else if (searchTypeParsed === 'sframe') {
+		history.pushState(null, null, '/search/s=' + currentSearchTerm + '&t=' + searchTypeParsed + '&o=' + offset + '&c=' + pos);
+		$.ajax({type:'GET', url:'.', data:'s=' + currentSearchTerm + '&t=' + searchTypeParsed + '&o=' + offset + '&st=stframe'}).done(function(data){sentenceFrameFormatter(data, event)});
+	}
+	else {
+		history.pushState(null,null,'/search/s=' + currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos);
+		$.ajax({type:'GET',url:'.', data:'s='+ currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos + '&st=exp'}).done(function(data){expandedSearchFormatter(data, event, remove)});
+	}
 }
 
 function expandedSearch(event) {
 	if (event.target.className !== 'otherLangSearch') {
 		if ($(event.target.parentNode).find("ul.search").length !== 0) {
-			if (event.target.className === 'DirectHypernym' || event.target.className === 'InheritedHypernym' || event.target.className === 'DirectHyponym' || event.target.className === 'FullHyponym') {
+			if (event.target.className === 'DirectHypernym' || event.target.className === 'InheritedHypernym' || event.target.className === 'DirectHyponym' || event.target.className === 'FullHyponym' || event.target.className === 'DirectTroponym' || event.target.className == 'FullTroponym') {
 				if ($(event.target.parentNode.children[2]).prop("class") !== event.target.className + ' search') {
 					expandRequest(event, true);
 				}
@@ -85,7 +109,8 @@ function expand(event) {
 		var id = String($("ul.expand").length);
 		var relationsMenu = languageSettings('relationsMenu', localStorage.getItem('language'));
 		var relationsMenuLines = {'@': '<li><a class="DirectHypernym" style="cursor:pointer">' + relationsMenu['directHypernym'] + '</a> | <a class="InheritedHypernym" style="cursor:pointer">' + relationsMenu['inheritedHypernym'] + '</a></li>',
-			'~': '<li><a class="DirectHyponym" style="cursor:pointer">' + relationsMenu['directHyponym'] + '</a> | <a class="FullHyponym" style="cursor:pointer">' + relationsMenu['fullHyponym'] + '</a></li>',
+			'~': ['<li><a class="DirectHyponym" style="cursor:pointer">' + relationsMenu['directHyponym'] + '</a> | <a class="FullHyponym" style="cursor:pointer">' + relationsMenu['fullHyponym'] + '</a></li>',
+			'<li><a class="DirectTroponym" style="cursor:pointer">' + relationsMenu['directTroponym'] + '</a> | <a class="FullTroponym" style="cursor:pointer">' + relationsMenu['fullTroponym'] + '</a></li>'],
 			'#m': '<li><a class="MemberHolonym" style="cursor:pointer">' + relationsMenu['memberHolonym'] + '</a></li>', '#s': '<li><a class="SubstanceHolonym" style="cursor:pointer">' + relationsMenu['substanceHolonym'] + '</a></li>',
 			'#p': '<li><a class="PartHolonym" style="cursor:pointer">' + relationsMenu['partHolonym'] + '</a></li>', '%m': '<li><a class="MemberMeronym" style="cursor:pointer">' + relationsMenu['memberMeronym'] + '</a></li>',
 			'%s': '<li><a class="SubstanceMeronym" style="cursor:pointer">' + relationsMenu['substanceMeronym'] + '</a></li>', '%p': '<li><a class="PartMeronym" style="cursor:pointer">' + relationsMenu['partMeronym'] + '</a></li>',
@@ -94,26 +119,58 @@ function expand(event) {
 			'+': '<li><a class="DerivationallyRelatedForm" style="cursor:pointer">' + relationsMenu['derivationallyRelatedForm'] + '</a></li>', '*': '<li><a class="Entailment" style="cursor:pointer">' + relationsMenu['entailment'] + '</a></li>',
 			'>': '<li><a class="Cause" style="cursor:pointer">' + relationsMenu['cause'] + '</a></li>', '^': '<li><a class="AlsoSee" style="cursor:pointer">' + relationsMenu['alsoSee'] + '</a></li>',
 			'$': '<li><a class="VerbGroup" style="cursor:pointer">' + relationsMenu['verbGroup'] + '</a></li>', '&': '<li><a class="SimilarTo" style="cursor:pointer">' + relationsMenu['similarTo'] + '</a></li>',
-			'<': '<li><a class="ParticipleOfVerb" style="cursor:pointer">' + relationsMenu['participleOfVerb'] + '</a></li>', '\\': '<li><a class="Pertainym" style="cursor:pointer">' + relationsMenu['pertainym'] + '</a></li>'};
-		list += '<li><a class="otherLangSearch" style="cursor:pointer">' + relationsMenu['translation'] + '</a></li>';
-		if (relations.length === 0) {
-			list += '<li>' + relationsMenu['noRelations'] + '</li>';
-		}
-		else {
-			for (var i = 0; i < relations.length; i++) {
-				if (relations[i] !== '+') {
-					list += relationsMenuLines[relations[i]];	
-				}
+			'<': '<li><a class="ParticipleOfVerb" style="cursor:pointer">' + relationsMenu['participleOfVerb'] + '</a></li>', '\\': ['<li><a class="Pertainym" style="cursor:pointer">' + relationsMenu['pertainym'] + '</a></li>',
+			'<li><a class="Pertainym" style="cursor:pointer">' + relationsMenu['derivedFromAdjective'] + '</a></li>'],
+			';c': '<li><a class="DomainCategory" style="cursor:pointer">' + relationsMenu['domainCategory'] + '</a></li>', '-c': '<li><a class="DomainTermCategory" style="cursor:pointer">' + relationsMenu['domainTermCategory'] + '</a></li>',
+			';r': '<li><a class="DomainRegion" style="cursor:pointer">' + relationsMenu['domainRegion'] + '</a></li>', '-r': '<li><a class="DomainTermRegion" style="cursor:pointer">' + relationsMenu['domainTermRegion'] + '</a></li>',
+			';u': '<li><a class="DomainUsage" style="cursor:pointer">' + relationsMenu['domainUsage'] + '</a></li>', '-u': '<li><a class="DomainTermUsage" style="cursor:pointer">' + relationsMenu['domainTermUsage'] + '</a></li>',
+			'overview': '<li><a class="Overview" style="cursor:pointer">' + relationsMenu['overview'] + '</a></li>', 'concept': '<li><a class="Concept" style="cursor:pointer">' + relationsMenu['concept'] + '</a></li>',
+			'sentenceFrame': '<li><a class="SentenceFrame" style="cursor:pointer">' + relationsMenu['sentenceFrame'] + '</a></li>'
+		};
+		if (!$(event.target.parentNode).parent().parent().hasClass('DerivationallyRelatedForm')) {
+			list += '<li><a class="otherLangSearch" style="cursor:pointer">' + relationsMenu['translation'] + '</a></li>';
+			if (relations.length === 0) {
+				list += '<li>' + relationsMenu['noRelations'] + '</li>';
 			}
-		}
+			else {
+				for (var i = 0; i < relations.length; i++) {
+					if (relations[i] === '\\') {
+						var linesList = relationsMenuLines[relations[i]];
+						list += linesList[(pos === 'r' ? 1 : 0)];
 
-		if ($(event.target.parentNode).find("ul.search").length === 0) {
-			$(event.target.parentNode).append('<ul class="expand" id="' + id + '">' + list + '</ul>');
+					}
+					else if (relations[i] === '~') {
+						var linesList = relationsMenuLines[relations[i]];
+						list += linesList[(pos === 'v' ? 1 : 0)]
+					}
+					else {
+						list += relationsMenuLines[relations[i]];
+					}
+				}
+				list += (pos === 'v' ? relationsMenuLines['sentenceFrame'] : '')
+			}
+			if ($(event.target.parentNode).find("ul.search").length === 0) {
+				$(event.target.parentNode).append('<ul class="expand" id="' + id + '">' + list + '</ul>');
+			}
+			else {
+				$('<ul class="expand" id="'+id+'">' + list + '</ul>').insertBefore($(event.target.parentNode).find("ul.search")[0]);
+			}
+			$("#"+id+' a').click(function(event){expandedSearch(event)});
 		}
 		else {
-			$('<ul class="expand" id="'+id+'">' + list + '</ul>').insertBefore($(event.target.parentNode).find("ul.search")[0]);
-		}		
-		$("#"+id+' a').click(function(event){expandedSearch(event)});
+			if (relations.indexOf('+') !== -1) {
+				list += relationsMenuLines['+'];
+			}
+			list += relationsMenuLines['overview'];
+			list += relationsMenuLines['concept'];
+			if ($(event.target.parentNode).find("ul.search").length === 0) {
+				$(event.target.parentNode).append('<ul class="expand" id="' + id + '">' + list + '</ul>');
+			}
+			else {
+				$('<ul class="expand" id="'+id+'">' + list + '</ul>').insertBefore($(event.target.parentNode).find("ul.search")[0]);
+			}
+			$("#"+id+' a').click(function(event){expandedSearch(event)});
+		}
 	}
 	else {
 		if ($(event.target.parentNode).find("ul.search").length === 0) {
@@ -132,8 +189,12 @@ function notFound(data) {
 function formattedResults(result) {
 	for (var elem in result.relations) {
 		if (!info.hasOwnProperty(elem)) {
-			info[elem] = result.relations[elem];
+			info[elem] = {}
 		}
+		for (var synset in result.relations[elem])
+			if (!info[elem].hasOwnProperty(synset)) {
+				info[elem][synset] = result.relations[elem][synset];
+			}
 	}
 	$("#results").append('<ul id="resultList"></ul>');
 	$("#resultList").append(result.line);
@@ -153,6 +214,10 @@ function formattedResults(result) {
 		}
 	}
 	advancedSearchLangs(lis[id].className, true);
+	var posTranslations = partOfSpeechList(localStorage.getItem('language'));
+	$("h2.pos").each(function(){
+		$(this).text(posTranslations[$(this).text()]);
+	});
 }
 
 function search(searchTerm) {
@@ -163,7 +228,7 @@ function search(searchTerm) {
     }
 	$("body").append('<div class="container" id="searchResultBox" style="margin-top:5%;max-height:90vh;"><div class="row vertical-center-row"><div class="col-md-9" id="results" style="overflow-x:scroll"></div><div class="col-md-3" id="langResults" style="padding:0 !important;max-height:90vh;overflow-y:scroll;"></div></div>');
     history.pushState(null, null, '/search/s=' + String(searchTerm));
-    var result = $.ajax({type:'GET',url:'.', data:'s=' + String(searchTerm)}).done(function(data){if(data.found === 1){formattedResults(data);found=true;} else{notFound(data);found=false;}});
+    var result = $.ajax({type:'GET',url:'.', data:'s=' + String(searchTerm) + '&st=norm1'}).done(function(data){if(data.found === 1){formattedResults(data);found=true;} else{notFound(data);found=false;}});
 }
 
 function advancedSearchLangsAppender(data) {
@@ -237,7 +302,7 @@ function advancedSearchLangs(event, classKnown=false) {
 		pos = event[event.length - 1];
 	}
 	if ($(".langmenu").select2('data').length !== 0) {
-        $.ajax({type:'GET',url:'.', data:'o=' + String(offset) + '&langs=' + JSON.stringify(otherLangs) + '&c=' + pos}).done(function(data){advancedSearchLangsAppender(data.result)});
+        $.ajax({type:'GET',url:'.', data:'o=' + String(offset) + '&langs=' + JSON.stringify(otherLangs) + '&c=' + pos + '&st=advsearch'}).done(function(data){advancedSearchLangsAppender(data.result)});
     }
 }
 
@@ -320,7 +385,7 @@ function main() {
             }
         }
         else {
-			$("#pLangList").text(startPhrase + noLangsFound);
+			$("#pLangList").html(startPhrase + '<span style="color:#999999">' + noLangsFound + '</span>');
 		}
     });
     $("#searchInput").keypress(function(e) {
@@ -350,7 +415,7 @@ function main() {
 			$("#pLangList").text(text.slice(0,-1))
 		}
 		if (otherLangs.length === 0) {
-			$("#pLangList").text($("#pLangList").text() + ' ' + languageSettings('noTransLangSelected', localStorage.getItem('language')));
+			$("#pLangList").html($("#pLangList").text() + ' ' + '<span style="color:#999999">' + languageSettings('noTransLangSelected', localStorage.getItem('language')) + '</span>');
 		}
 		if ($("#langResults").length !== 0) {
 			var langObj = $("#" + e.params.data.id + 'Results');
@@ -372,7 +437,7 @@ function main() {
     	if (currentTranslatedOffset !== undefined) {
     		var offset = currentTranslatedOffset.slice(0, currentTranslatedOffset.length - 2);
     		var pos = currentTranslatedOffset[currentTranslatedOffset.length - 1];
-			$.ajax({type:'GET',url:'.', data:'o=' + String(offset) + '&langs=' + JSON.stringify([e.params.data.id]) + '&c=' + pos}).done(function(data){advancedSearchSingleLang(data.result)});
+			$.ajax({type:'GET',url:'.', data:'o=' + String(offset) + '&langs=' + JSON.stringify([e.params.data.id]) + '&c=' + pos + '&st=advsearch'}).done(function(data){advancedSearchSingleLang(data.result)});
 		}
 	});
     $("#parent-dropdown").on('hide.bs.dropdown',function(){
@@ -403,6 +468,7 @@ function main() {
 		$("#langSelectList").append('<option value="' + languages[i] + '">' + languages[i] + '</option>');
 	}
 	$("#langSelectList").select2();
+	$("#references").prop("href", 'http://' + String(location.hostname) + ':8000/references.html');
 
 }
 $(document).ready(function(){main()});

@@ -93,11 +93,13 @@
     right:0;
     top:3px;
 }
+
 .topHeader {
     margin:1% 25% 0 25%;
     font-family: 'Fira Sans', sans-serif;
     font-size:15px;
 }
+
 .invis {
     border:none;
     box-shadow:none;
@@ -108,7 +110,8 @@
 .headerText {
     font-family: "Bebas Neue", sans-serif;
     font-size:70px;
-    border-bottom:0;
+    margin:0 0 0 25%;
+    text-align:center;
 }
 .topHeaderContainer {
     width:100%;
@@ -147,9 +150,6 @@
     height: 100%;
 }
 .pop-up p {
-    position: absolute;
-    top: 25%;
-    left: 5%;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;
     line-height: 130%;
@@ -171,10 +171,10 @@
 }
 
 .close {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      color: orange;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #1C3738;
 }
 
 .popup-img {
@@ -186,4 +186,19 @@
     position: absolute;
     top: 2%;
     left: 20%;
+}
+
+.material-icons.md-18 {
+    font-size: 18px;
+}
+
+.material-icons.md-24 {
+    font-size: 24px;
+}
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+.material-icons.md-48 {
+    font-size: 48px;
 }
