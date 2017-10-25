@@ -85,14 +85,34 @@ urlpatterns = [
 ]
 ```
 
-In /static/index.js search for "hostname", it is being concatenated with a string ":8000/....", change ":8000" with the port you are using.
+In /static/index.js search for "hostname", it is being concatenated with a string ":8000/....", change ":8000" with the port you are using. Still in index.js, for the pluricentric installation, you will want to edit the const "nodeText" to fit your institution name.
 
 In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
 
-More configuration coming soon, for the mean time this is strictly a development configuration.
+### WordNet Content Delivery Server
+
+To avoid opening and reading wordnet files everytime there’s a request, we’ll setup a WordNet content delivery server. The code for this server is contained in ‘wordnet_server.py’.
+
+Give run permissions to wordnet_server.py if on a unix system using ```chmod u+x wordnet_server.py```. Here’s the command line syntax: ```wordnet_server.py [PORT] [BROWSER_PATH] [BROWSER_TYPE]```.
+
+PORT is the port you’ll be using for Wordnet CDN Server, do not use the port you’re using for the wordnet browser.
+
+BROWSER_PATH is the path to the project folder where you have your browser. If you have the wordnet_server.py file in it you can just use ‘.’.
+
+BROWSER_TYPE has two options: pluricentric or basic. These referring to the two types of installations supplied. If you want to use this server to serve a pluricentric web browser, use pluricentric. If it’s supplying a ‘my_wordnet’ type of installation, use basic.
+
+Once you have configured your server, make sure to edit the file ```/search/views.py``` corresponding to your project to be able to access the right port. By searching ‘wordnet_server’, you will find the inicialization of the server. The port side of URL is empty so you can edit and put in the port you have chosen.
+
+The configuration currently uses localhost as the IP of the CDN server. If you wish to have an external server as a host, you will have to edit the code in order to use the right IP and port.
+
+If you have the two installations running you will have to have seperate CDN servers for each installation by using different ports and editing the views.py code to match them.
 ## Run
 
 To run the server, make sure to have your working directory inside your project folder. To start the server, run the following command ```python manage.py runserver IP:PORT```.
 
 Forthcoming: Integration with Apache web server for a production grade configuration.
+
+## Support Documentation
+
+All of the support documentation for this interface is found at http://lx-wordnetbrowser.readthedocs.io/en/latest/. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
 
