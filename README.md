@@ -1,3 +1,4 @@
+[![Documentation Status](https://readthedocs.org/projects/lx-wordnetbrowser/badge/?version=latest)](http://lx-wordnetbrowser.readthedocs.io/en/latest/?badge=latest)
 # LX WordNet Browser
 
 ## a web based browser for any individual wordnet
