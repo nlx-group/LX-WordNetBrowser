@@ -5,6 +5,7 @@ import os
 import logging
 from datetime import datetime, timedelta
 import codecs
+import xmlrpc.client
 
 pointer_map = {'Hypernym': '@', 'Hyponym': '~', 'Member_Holonym': '#m', 'Substance_Holonym': '#s', 'Part_Holonym': '#p',
                'Member_Meronym': r'%m', 'Substance_Meronym': r'%s', 'Part_Meronym': r'%p', 'Antonym': '!',
@@ -41,6 +42,7 @@ language_codes = {'English': 'en', 'Finnish': 'fin', 'Afrikaans': 'afr', 'Arabic
 
 link_file_name = None  # If not using English as a main language and want to use a custom tab link file,
 pivot_language = 'English'  # set its path here
+wordnet_server = xmlrpc.client.ServerProxy('http://127.0.0.1:9004')
 
 
 class FileCheck:
@@ -124,17 +126,14 @@ class SearchRoutines:
     def single_search(language, offset, pos, search_type):
         relations = {part_of_speech[pos]: {offset: []}}
         line = ''
-        with open(os.path.join(os.curdir, 'langdata', 'wordnets', language,
-                               'data.' + part_of_speech[pos])) as file_reader:
-            file_reader.seek(int(offset), 0)
-            offset_line = file_reader.readline()
-            split_line = offset_line.split()
-            for i in range(5 + int(split_line[3], 16) * 2,
-                           5 + int(split_line[3], 16) * 2 + int(split_line[4 + int(split_line[3], 16) * 2]) * 4, 4):
-                if split_line[i] not in relations[part_of_speech[pos]][offset]:
-                    relations[part_of_speech[pos]][offset].append(split_line[i])
-            line += '<ul>' + Parsers.line_parser(split_line, offset_line, offset, search_type, '') + '</ul>'
-            return {'line': line, 'relations': relations}
+        offset_line = wordnet_server.get_data(language, part_of_speech[pos], offset)
+        split_line = offset_line.split()
+        for i in range(5 + int(split_line[3], 16) * 2,
+                       5 + int(split_line[3], 16) * 2 + int(split_line[4 + int(split_line[3], 16) * 2]) * 4, 4):
+            if split_line[i] not in relations[part_of_speech[pos]][offset]:
+                relations[part_of_speech[pos]][offset].append(split_line[i])
+        line += '<ul>' + Parsers.line_parser(split_line, offset_line, offset, search_type, '') + '</ul>'
+        return {'line': line, 'relations': relations}
 
     def full_search(self, language, pos, offset, search_type, depth, history, max_depth=None, max_length=None):
         """
@@ -152,83 +151,80 @@ class SearchRoutines:
         line = ''
         first = True
         idnum2 = 0
-        with open(os.path.join(os.curdir, 'langdata', 'wordnets', language,
-                               'data.' + part_of_speech[pos])) as file_reader:
-            file_reader.seek(int(offset), 0)
-            offset_line = file_reader.readline()
-            split_line = offset_line.split()
-            relations_offset = []
-            for i in range(5 + int(split_line[3], 16) * 2,
-                           5 + int(split_line[3], 16) * 2 + int(split_line[4 + int(split_line[3], 16) * 2]) * 4, 4):
-                if part_of_speech[pos] not in relations:
-                    relations[part_of_speech[pos]] = {}
-                if split_line[i] == pointer:
-                    relations_offset.append(split_line[i + 1] + '-' + split_line[i + 2])
-                if split_line[0] not in relations[part_of_speech[pos]]:
-                    relations[part_of_speech[pos]][split_line[0]] = [split_line[i]]
-                else:
-                    if split_line[i] not in relations[part_of_speech[pos]][split_line[0]]:
-                        relations[part_of_speech[pos]][split_line[0]].append(split_line[i])
-            max_local_length = 0
-            if max_length is not None:
-                max_local_length = (len(relations_offset) if max_length > len(relations_offset) else max_length)
+        offset_line = wordnet_server.get_data(language, part_of_speech[pos], offset)
+        split_line = offset_line.split()
+        relations_offset = []
+        for i in range(5 + int(split_line[3], 16) * 2,
+                       5 + int(split_line[3], 16) * 2 + int(split_line[4 + int(split_line[3], 16) * 2]) * 4, 4):
+            if part_of_speech[pos] not in relations:
+                relations[part_of_speech[pos]] = {}
+            if split_line[i] == pointer:
+                relations_offset.append(split_line[i + 1] + '-' + split_line[i + 2])
+            if split_line[0] not in relations[part_of_speech[pos]]:
+                relations[part_of_speech[pos]][split_line[0]] = [split_line[i]]
             else:
-                max_local_length = len(relations_offset)
-            if max_depth == None:
-                if len(relations_offset) > 0:
-                    for _ in range(max_local_length):
-                        if first and offset != self.offset_holder:
-                            line += '<ul>' + Parsers.line_parser(split_line, offset_line, split_line[0], search_type,
-                                                                 history)
-                            first = False
-                        result = self.full_search(language, relations_offset[idnum2].split("-")[1],
-                                                  relations_offset[idnum2].split("-")[0], search_type,
-                                                  str(int(depth) + 1),
-                                                  (
-                                                      split_line if search_type == 'derform' and history == '' else history),
-                                                  max_depth,
-                                                  max_local_length)
-                        for key in result['relations']:
-                            if key not in relations:
-                                relations[key] = {}
-                            for offset in result['relations'][key]:
-                                if offset not in relations[key]:
-                                    relations[key][offset] = result['relations'][key][offset]
-                        line += result['line'] + '</li>'
-                        idnum2 += 1
-                    return {'relations': relations, 'line': line + '</ul>'}
-                else:
-                    if split_line[0] not in relations[part_of_speech[pos]]:
-                        relations[part_of_speech[pos]][split_line[0]] = []
-                    line += '<ul>' + Parsers.line_parser(split_line, offset_line, split_line[0], search_type, history)
-                    return {'line': line + '</li></ul>', 'relations': relations}
-            else:
-                if int(depth) < max_depth:
+                if split_line[i] not in relations[part_of_speech[pos]][split_line[0]]:
+                    relations[part_of_speech[pos]][split_line[0]].append(split_line[i])
+        max_local_length = 0
+        if max_length is not None:
+            max_local_length = (len(relations_offset) if max_length > len(relations_offset) else max_length)
+        else:
+            max_local_length = len(relations_offset)
+        if max_depth == None:
+            if len(relations_offset) > 0:
+                for _ in range(max_local_length):
                     if first and offset != self.offset_holder:
                         line += '<ul>' + Parsers.line_parser(split_line, offset_line, split_line[0], search_type,
                                                              history)
                         first = False
-                    for _ in range(max_local_length):
-                        result = self.full_search(language, relations_offset[idnum2].split("-")[1],
-                                                  relations_offset[idnum2].split("-")[0], search_type,
-                                                  str(int(depth) + 1),
-                                                  (
-                                                      split_line if search_type == 'derform' and history == '' else history),
-                                                  max_depth,
-                                                  max_local_length)
-                        for key in result['relations']:
-                            if key not in relations:
-                                relations[key] = {}
-                            for offset in result['relations'][key]:
-                                if offset not in relations[key]:
-                                    relations[key][offset] = result['relations'][key][offset]
-                        line += result['line'] + '</li>'
-                        idnum2 += 1
-                    if split_line[0] not in relations[part_of_speech[pos]]:
-                        relations[part_of_speech[pos]][split_line[0]] = []
-                    return {'relations': relations, 'line': line + '</ul>'}
-                else:
-                    return {'relations': relations, 'line': line}
+                    result = self.full_search(language, relations_offset[idnum2].split("-")[1],
+                                              relations_offset[idnum2].split("-")[0], search_type,
+                                              str(int(depth) + 1),
+                                              (
+                                                  split_line if search_type == 'derform' and history == '' else history),
+                                              max_depth,
+                                              max_local_length)
+                    for key in result['relations']:
+                        if key not in relations:
+                            relations[key] = {}
+                        for offset in result['relations'][key]:
+                            if offset not in relations[key]:
+                                relations[key][offset] = result['relations'][key][offset]
+                    line += result['line'] + '</li>'
+                    idnum2 += 1
+                return {'relations': relations, 'line': line + '</ul>'}
+            else:
+                if split_line[0] not in relations[part_of_speech[pos]]:
+                    relations[part_of_speech[pos]][split_line[0]] = []
+                line += '<ul>' + Parsers.line_parser(split_line, offset_line, split_line[0], search_type, history)
+                return {'line': line + '</li></ul>', 'relations': relations}
+        else:
+            if int(depth) < max_depth:
+                if first and offset != self.offset_holder:
+                    line += '<ul>' + Parsers.line_parser(split_line, offset_line, split_line[0], search_type,
+                                                         history)
+                    first = False
+                for _ in range(max_local_length):
+                    result = self.full_search(language, relations_offset[idnum2].split("-")[1],
+                                              relations_offset[idnum2].split("-")[0], search_type,
+                                              str(int(depth) + 1),
+                                              (
+                                                  split_line if search_type == 'derform' and history == '' else history),
+                                              max_depth,
+                                              max_local_length)
+                    for key in result['relations']:
+                        if key not in relations:
+                            relations[key] = {}
+                        for offset in result['relations'][key]:
+                            if offset not in relations[key]:
+                                relations[key][offset] = result['relations'][key][offset]
+                    line += result['line'] + '</li>'
+                    idnum2 += 1
+                if split_line[0] not in relations[part_of_speech[pos]]:
+                    relations[part_of_speech[pos]][split_line[0]] = []
+                return {'relations': relations, 'line': line + '</ul>'}
+            else:
+                return {'relations': relations, 'line': line}
 
     def expand_search(self, language, pos, offset, search_type):
         """
@@ -252,32 +248,25 @@ class SearchRoutines:
 
     @staticmethod
     def sentence_frame_search(language, offset):
-        split_line = ''
+        split_line = wordnet_server.get_data(language, 'verb', offset).split()
         html_line = '<ul class="search">'
         names = []
         verbs_with_examples = {}
-        with open(os.path.join(os.curdir, 'langdata', 'wordnets', language, 'data.verb')) as file_reader:
-            file_reader.seek(int(offset), 0)
-            split_line = file_reader.readline().split()
         for name in split_line[4:4 + int(split_line[3], 16) * 2:2]:
             names.append(name)
-        with open(os.path.join(os.curdir, 'langdata', 'wordnets', language, 'sentidx.vrb')) as file_reader:
-            for line in file_reader:
-                if len(verbs_with_examples) != len(names):
-                    if line.split()[0].split('%')[0] in names:
-                        verbs_with_examples[line.split()[0].split('%')[0]] = line.split()[1]
-                else:
-                    break
+        for name in names:
+            line = wordnet_server.get_sentidx(language, name)
+            if line is not None:
+                verbs_with_examples[name] = line.split()[1]
         if verbs_with_examples:
             example_sentences = {}
             for verb in verbs_with_examples:
                 for num in verbs_with_examples[verb].split(','):
                     if num not in example_sentences:
                         example_sentences[num] = ''
-            with open(os.path.join(os.curdir, 'langdata', 'wordnets', language, 'sents.vrb')) as file_reader:
-                for line in file_reader:
-                    if line.split()[0] in example_sentences:
-                        example_sentences[line.split()[0]] = line[len(line.split()[0]) + 1:].strip('\n')
+            for num in example_sentences:
+                line = wordnet_server.get_sents(language, num)
+                example_sentences[num] = line[len(line.split()[0]) + 1:]
             for verb in verbs_with_examples:
                 for sentence in verbs_with_examples[verb].split(','):
                     html_line += '<li>' + example_sentences[sentence] % ('<span style="font-weight:bold">' +
@@ -288,10 +277,10 @@ class SearchRoutines:
             frames_count = int(split_line[word_count * 2 + pointer_count * 4 + 5])
             frames = list(map(lambda x: str(int(x)), split_line[
                                                      7 + word_count * 2 + pointer_count * 4: 7 + word_count * 2 + pointer_count * 4 + 3 * frames_count: 3]))
-            with open(os.path.join(os.curdir, 'langdata', 'wordnets', language, 'frames.vrb')) as file_reader:
-                for line in file_reader:
-                    if line.split()[0] in frames:
-                        html_line += '<li>' + line[len(line.split()[0]) + 1:] + '</li>'
+            for frame in frames:
+                line = wordnet_server.get_frame(language, frame)
+                if line is not None:
+                    html_line += '<li>' + line[len(line.split()[0]) + 1:] + '</li>'
         return {'line': html_line + '</ul>'}
 
     @staticmethod
@@ -309,52 +298,49 @@ class SearchRoutines:
         html_line = ''
         relations = {}
         result = {'relations': {}, 'line': ''}
-        file_types = FileCheck.check_files(os.listdir(os.path.join(os.curdir, 'langdata', 'wordnets', language)))
-        for file in file_types:
-            with open(os.path.join(os.curdir, 'langdata', 'wordnets', language, 'index.' + file)) as file_reader:
-                for line in file_reader:
-                    if line.split()[0] == lemma:
-                        index_line = line
-                        break
-            if index_line:
-                offsets = index_line.split()[3 + int(index_line.split()[3]) + 3:]
-                with open(os.path.join(os.curdir, 'langdata', 'wordnets', language, 'data.' + file)) as file_reader:
+        file_types = wordnet_server.pos_available(language)
+        for pos in file_types:
+            if pos != 'vrb':
+                index_line = wordnet_server.get_index(language, pos, lemma)
+                if index_line is not None:
+                    offsets = index_line.split()[3 + int(index_line.split()[3]) + 3:]
                     for offset in offsets:
-                        file_reader.seek(int(offset), 0)
-                        data_lines.append(file_reader.readline())
-                for line in data_lines:
-                    split_line = line.split()
-                    line_relations = []
-                    if split_line[4 + int(split_line[3], 16) * 2] != '000':
-                        for relation in split_line[5 + int(split_line[3], 16) * 2:5 + int(split_line[3], 16) * 2 + int(
-                                split_line[4 + int(split_line[3], 16) * 2]) * 4:4]:
-                            if relation not in line_relations:
-                                line_relations.append(relation)
-                    relations[split_line[0]] = line_relations
-                    html_line += '<li class="' + split_line[
-                        0] + '-' + split_line[
-                                     2] + '"><a class="concept" data-tool-tip="tooltip" style="cursor:pointer">rels </a> <span style="color:red">(' + \
-                                 split_line[2] + ')</span>' + ''.join(
-                        [' ' + '<span class="mark">' + name.replace('_', ' ') + '</span>' + ',' for name in
-                         split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + '<span class="mark">' + \
-                                 split_line[
-                                     4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
-                    gloss_split = line.split('|')[1].split(';')
-                    descriptions = list(
-                        map(lambda x: x[(1 if x[0] == ' ' else 0):], list(filter(lambda x: '"' not in x, gloss_split))))
-                    examples = list(filter(lambda x: '"' in x, gloss_split))
-                    html_line += ' (' + ';'.join(descriptions).rstrip() + ') ' + ';'.join(
-                        list(map(lambda x: '<span style="font-style:italic">' + x + '</span>', examples)))
+                        data_lines.append(wordnet_server.get_data(language, pos, offset))
+                    for line in data_lines:
+                        split_line = line.split()
+                        line_relations = []
+                        if split_line[4 + int(split_line[3], 16) * 2] != '000':
+                            for relation in split_line[
+                                            5 + int(split_line[3], 16) * 2:5 + int(split_line[3], 16) * 2 + int(
+                                                    split_line[4 + int(split_line[3], 16) * 2]) * 4:4]:
+                                if relation not in line_relations:
+                                    line_relations.append(relation)
+                        relations[split_line[0]] = line_relations
+                        html_line += '<li class="' + split_line[
+                            0] + '-' + split_line[
+                                         2] + '"><a class="concept" data-tool-tip="tooltip" style="cursor:pointer">rels </a> <span style="color:red">(' + \
+                                     split_line[2] + ')</span>' + ''.join(
+                            [' ' + '<span class="mark">' + name.replace('_', ' ') + '</span>' + ',' for name in
+                             split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + '<span class="mark">' + \
+                                     split_line[
+                                         4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
+                        gloss_split = line.split('|')[1].split(';')
+                        descriptions = list(
+                            map(lambda x: x[(1 if x[0] == ' ' else 0):],
+                                list(filter(lambda x: '"' not in x, gloss_split))))
+                        examples = list(filter(lambda x: '"' in x, gloss_split))
+                        html_line += ' (' + ';'.join(descriptions).rstrip() + ') ' + ';'.join(
+                            list(map(lambda x: '<span style="font-style:italic">' + x + '</span>', examples)))
 
-                result['line'] += ('<h2 class="pos">' + file[0].upper() + file[
-                                                                          1:] + '</h2>' if not overview else '') + html_line + '</li>'
-                result['relations'][(file if file != 's' else 'adj')] = relations
-                result['found'] = 1
-                index_line = ''
-                data_lines = []
-                html_line = ''
-                relations = {}
-        result['line'] = '<h1>' + language + '</h1>' + result['line']
+                    result['line'] += ('<h2 class="pos">' + pos[0].upper() + pos[
+                                                                             1:] + '</h2>' if not overview else '') + html_line + '</li>'
+                    result['relations'][(pos if pos != 's' else 'adj')] = relations
+                    result['found'] = 1
+                    index_line = ''
+                    data_lines = []
+                    html_line = ''
+                    relations = {}
+        result['line'] = ('<h1>' + language + '</h1>' if not overview else '') + result['line']
         result['language'] = language
         result['conflict'] = 0
         result['found'] = 1
@@ -363,34 +349,25 @@ class SearchRoutines:
 
     @staticmethod
     def language_identifier(lemma):
+        lemma = lemma.replace(' ', '_').lower()
+        languages_available = wordnet_server.languages_available()
         languages = []
-        for root, dirs, files in os.walk(os.path.join(os.curdir, 'langdata', 'wordnets')):
-            if files:
-                files_present = FileCheck.check_files(files)
-                found = False
-                for file in files_present:
-                    if not found:
-                        try:
-                            with open(os.path.join(root, 'index.' + file)) as file_reader:
-                                for line in file_reader:
-                                    if line.split()[0] == lemma.replace(' ', '_'):
-                                        languages.append(root)
-                                        found = True
-                                        break
-                        except UnicodeDecodeError:
-                            with codecs.open(os.path.join(root, 'index.' + file), encoding='latin1') as file_reader:
-                                for line in file_reader:
-                                    if line.split()[0] == lemma.replace(' ', '_'):
-                                        languages.append(root)
-                                        found = True
-                                        break
-                    else:
-                        break
+        for language in languages_available:
+            pos_available = wordnet_server.pos_available(language)
+            i = 0
+            found = False
+            while not found and i < len(pos_available):
+                if pos_available[i] != 'vrb':
+                    line = wordnet_server.get_index(language, pos_available[i], lemma)
+                    if line is not None:
+                        found = True
+                        languages.append(language)
+                i += 1
         if len(languages) == 1:
-            return SearchRoutines.normal_search(os.path.basename(languages[0]), lemma)
+            return SearchRoutines.normal_search(languages[0], lemma)
         elif len(languages) == 0:
             return {'line': ["<p> The search couldn't find the word you were looking for. </p>"], 'found': 0}
-        return {'collision': 1, 'languages': list(map(lambda x: os.path.basename(x), languages))}
+        return {'collision': 1, 'languages': languages}
 
     @staticmethod
     def advanced_search(offset, langs, pos, source_language):
@@ -401,19 +378,15 @@ class SearchRoutines:
         pivot_language_offsets = {}
         # Method here to obtain pivot language offset if wordnet != Portuguese
         if pivot_language != source_language:
-            with open(os.path.join(os.curdir, 'langdata', 'wordnets', source_language,
-                                   'data.' + part_of_speech[pos])) as file_reader:
-                file_reader.seek(int(offset), 0)
-                split_line = file_reader.readline().split()
-                lemmas = split_line[4:4 + int(split_line[3], 16) * 2:2]
-            with open(os.path.join(os.curdir, 'langdata', 'tab files', 'wn-wikt-' + language_codes[source_language] + '.tab')) as file_reader:
-                for line in file_reader:
-                    split_line = line.split()
-                    if split_line[0] != '#':
-                        if split_line[0].split('-')[1] == pos and split_line[2] in lemmas:
-                            pivot_language_offsets[split_line[2]] = split_line[0].split('-')[0]
-                        if len(lemmas) == len(pivot_language_offsets):
-                            break
+            split_line = wordnet_server.get_data(source_language, part_of_speech[pos], offset).split()
+            lemmas = split_line[4:4 + int(split_line[3], 16) * 2:2]
+            tab_lines = wordnet_server.get_whole_tab(source_language)
+            for elem in tab_lines:
+                line = tab_lines[elem].split()
+                if line[0].split('-')[1] == pos and line[2] in lemmas:
+                    pivot_language_offsets[line[2]] = line[0].split('-')[0]
+                if len(lemmas) == len(pivot_language_offsets):
+                    break
             for lemma in lemmas:
                 if lemma in pivot_language_offsets:
                     pivot_language_offset = pivot_language_offsets[lemma]
@@ -424,32 +397,25 @@ class SearchRoutines:
             html_lines[language] = {'lemma': '', 'def': ''}
             if pivot_language_offset != '':
                 if language == 'en' and pivot_language == 'English':
-                    with open(os.path.join(os.curdir, 'langdata', 'wordnets', 'English', 'data.' + part_of_speech[pos])) as data_file:
-                        data_file.seek(int(pivot_language_offset), 0)
-                        line = data_file.readline()
-                        split_line = line.split()
-                        html_lines['en'] = {'lemma': '', 'def': ''}
-                        html_lines['en']['lemma'] = ''.join([' ' + name.replace('_', ' ') + ',' for name in
-                                                             split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + \
-                                                    split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ')
-                        html_lines['en']['def'] = ''.join(
-                            [split_line[split_line.index('|') + 1:][0]] + [' ' + elem for elem in
-                                                                           split_line[
-                                                                           split_line.index(
-                                                                               '|') + 2:]])
+                    line = wordnet_server.get_data(language, part_of_speech[pos], pivot_language_offset)
+                    split_line = line.split()
+                    html_lines['en'] = {'lemma': '', 'def': ''}
+                    html_lines['en']['lemma'] = ''.join([' ' + name.replace('_', ' ') + ',' for name in
+                                                         split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + \
+                                                split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ')
+                    html_lines['en']['def'] = ''.join(
+                        [split_line[split_line.index('|') + 1:][0]] + [' ' + elem for elem in
+                                                                       split_line[
+                                                                       split_line.index(
+                                                                           '|') + 2:]])
                 else:
-                    with open(
-                            os.path.join(os.curdir, 'langdata', 'tab files', 'wn-wikt-' + language + '.tab')) as data_file:
-                        for line in data_file:
-                            if line.split()[0] == pivot_language_offset + '-' + pos:
-                                if line.split()[1].split(':')[1] == 'lemma':
-                                    if html_lines[language]['lemma'] != '':
-                                        html_lines[language]['lemma'] += ', ' + line.split()[2]
-                                    else:
-                                        html_lines[language]['lemma'] += line.split()[2]
-                                elif 'def' in line.split()[1].split(':')[1]:
-                                    html_lines[language]['def'] += ' ' + line.split()[2]
-                                break
+                    line = wordnet_server.get_tab(language, pivot_language_offset, pos)
+                    if line is not None:
+                        line = line.split()
+                        if html_lines[language]['lemma'] != '':
+                            html_lines[language]['lemma'] += ', ' + line[2]
+                        else:
+                            html_lines[language]['lemma'] += line[2]
         return {'result': html_lines}
 
 
@@ -476,102 +442,34 @@ class Renders:
         return render(request, "references.html", {})
 
 
-class BotCheck:
-    @staticmethod
-    def check_connection_number(ip, max_connections, delta_time, line_size=42):
-        """
-        """
-        num_connections = 0
-        access_time = datetime.now()
-        with open('access.log', 'a+') as access_file:
-            access_line = ip + ',' + access_time.strftime('%Y-%m-%d %H:%M:%S.%f')
-            access_file.write(
-                access_line + (',' * (line_size - len(access_line)) if len(access_line) < line_size else '') + '\n')
-            time_delta = timedelta(seconds=delta_time)
-            access_file.seek(0, 2)
-            file_size = access_file.tell()
-            current_offset = file_size
-            flag = False
-            while current_offset > 0 and not flag:
-                access_file.seek(current_offset - line_size - 1, 0)
-                line = access_file.readline()
-                log_time = datetime.strptime(line.split(',')[1].strip('\n'), '%Y-%m-%d %H:%M:%S.%f')
-                if access_time - time_delta <= log_time <= access_time:
-                    if line.split(',')[0] == ip:
-                        num_connections += 1
-                else:
-                    flag = True
-                current_offset -= line_size + 1
-        return False if num_connections > max_connections else True
-
-
 class Initializer:
     @staticmethod
     def init(request):
         """
         Treats the request and redirects the query to their appropriate functions.
         """
-        blacklist = ''
-        whitelist = ''
-        client_IP = request.META['REMOTE_ADDR']
-        with open('blacklist.txt') as blacklist_file:
-            blacklist = blacklist_file.read()
-        with open('whitelist.txt') as whitelist_file:
-            whitelist = whitelist_file.read()
-        if client_IP not in blacklist:
-            if client_IP not in whitelist:
-                if BotCheck.check_connection_number(client_IP, 1000, 10):  # Tweak connections here
-                    if request.method == 'GET' and request.is_ajax():
-                        request_object = request.GET
-                        if request_object['st'] == 'norm1' and request_object['language'] != 'UNK':
-                            return JsonResponse(
-                                SearchRoutines.normal_search(request_object['language'], request_object['s']))
-                        elif request_object['st'] == 'norm1':
-                            return JsonResponse(SearchRoutines.language_identifier(request_object['s']))
-                        elif request_object['st'] == 'norm2':
-                            return JsonResponse(
-                                SearchRoutines.normal_search(request_object['language'], request_object['s'], True))
-                        elif request_object['st'] == 'advsearch':
-                            return JsonResponse(
-                                SearchRoutines().advanced_search(request_object['o'], request_object['langs'],
-                                                                 request_object['c'], request_object['language']))
-                        elif request_object['st'] == 'exp':
-                            return JsonResponse(
-                                SearchRoutines().expand_search(request_object['language'], request_object['c'],
-                                                               request_object['o'],
-                                                               request_object['t']))
-                        elif request_object['st'] == 'stframe':
-                            return JsonResponse(
-                                SearchRoutines().sentence_frame_search(request_object['language'], request_object['o'])
-                            )
-                    else:
-                        return Renders.index(request)
-                else:
-                    with open('blacklist.txt', 'a') as blacklist_file:
-                        blacklist_file.write(client_IP + '\n')
-            else:
-                if request.method == 'GET' and request.is_ajax():
-                    request_object = request.GET
-                    if request_object['st'] == 'norm1' and request_object['language'] != 'UNK':
-                        return JsonResponse(
-                            SearchRoutines.normal_search(request_object['language'], request_object['s']))
-                    elif request_object['st'] == 'norm1':
-                        return JsonResponse(SearchRoutines.language_identifier(request_object['s']))
-                    elif request_object['st'] == 'norm2':
-                        return JsonResponse(
-                            SearchRoutines.normal_search(request_object['language'], request_object['s'], True))
-                    elif request_object['st'] == 'advsearch':
-                        return JsonResponse(
-                            SearchRoutines().advanced_search(request_object['o'], request_object['langs'],
-                                                             request_object['c'], request_object['language']))
-                    elif request_object['st'] == 'exp':
-                        return JsonResponse(
-                            SearchRoutines().expand_search(request_object['language'], request_object['c'],
-                                                           request_object['o'],
-                                                           request_object['t']))
-                    elif request_object['st'] == 'stframe':
-                        return JsonResponse(
-                            SearchRoutines().sentence_frame_search(request_object['language'], request_object['o'])
-                        )
-                else:
-                    return Renders.index(request)
+        if request.method == 'GET' and request.is_ajax():
+            request_object = request.GET
+            if request_object['st'] == 'norm1' and request_object['language'] != 'UNK':
+                return JsonResponse(
+                    SearchRoutines.normal_search(request_object['language'], request_object['s']))
+            elif request_object['st'] == 'norm1':
+                return JsonResponse(SearchRoutines.language_identifier(request_object['s']))
+            elif request_object['st'] == 'norm2':
+                return JsonResponse(
+                    SearchRoutines.normal_search(request_object['language'], request_object['s'], True))
+            elif request_object['st'] == 'advsearch':
+                return JsonResponse(
+                    SearchRoutines().advanced_search(request_object['o'], request_object['langs'],
+                                                     request_object['c'], request_object['language']))
+            elif request_object['st'] == 'exp':
+                return JsonResponse(
+                    SearchRoutines().expand_search(request_object['language'], request_object['c'],
+                                                   request_object['o'],
+                                                   request_object['t']))
+            elif request_object['st'] == 'stframe':
+                return JsonResponse(
+                    SearchRoutines().sentence_frame_search(request_object['language'], request_object['o'])
+                )
+        else:
+            return Renders.index(request)

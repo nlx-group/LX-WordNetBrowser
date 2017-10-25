@@ -125,7 +125,7 @@ function expand(event) {
 			';c': '<li><a class="DomainCategory" style="cursor:pointer">' + relationsMenu['domainCategory'] + '</a></li>', '-c': '<li><a class="DomainTermCategory" style="cursor:pointer">' + relationsMenu['domainTermCategory'] + '</a></li>',
 			';r': '<li><a class="DomainRegion" style="cursor:pointer">' + relationsMenu['domainRegion'] + '</a></li>', '-r': '<li><a class="DomainTermRegion" style="cursor:pointer">' + relationsMenu['domainTermRegion'] + '</a></li>',
 			';u': '<li><a class="DomainUsage" style="cursor:pointer">' + relationsMenu['domainUsage'] + '</a></li>', '-u': '<li><a class="DomainTermUsage" style="cursor:pointer">' + relationsMenu['domainTermUsage'] + '</a></li>',
-			'overview': '<li><a class="Overview" style="cursor:pointer">' + relationsMenu['overview'] + '</a></li>', 'concept': '<li><a class="Concept" style="cursor:pointer">' + relationsMenu['concept'] + '</a></li>',
+			'f': '<li><a class="Overview" style="cursor:pointer">' + relationsMenu['overview'] + '</a></li>', 'concept': '<li><a class="Concept" style="cursor:pointer">' + relationsMenu['concept'] + '</a></li>',
 			'sentenceFrame': '<li><a class="SentenceFrame" style="cursor:pointer">' + relationsMenu['sentenceFrame'] + '</a></li>'
 		};
 		if (!$(event.target.parentNode).parent().parent().hasClass('DerivationallyRelatedForm')) {

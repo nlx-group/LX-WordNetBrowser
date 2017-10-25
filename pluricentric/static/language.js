@@ -59,13 +59,13 @@ function languageSettings(type, language) {
         'English': {
             'concept': 'related concepts',
             'relationsMenu': {
-                'translation': 'translate',
+                'translation': 'translations',
                 'directHypernym': 'direct ',
                 'inheritedHypernym': 'transitive hypernyms',
                 'directHyponym': 'direct ',
                 'fullHyponym': 'transitive hyponyms',
                 'directTroponym': 'direct ',
-                'fullTroponym': 'transitive troponym',
+                'fullTroponym': 'transitive troponyms',
                 'memberHolonym': 'member holonyms',
                 'substanceHolonym': 'substance holonyms',
                 'partHolonym': 'part holonyms',

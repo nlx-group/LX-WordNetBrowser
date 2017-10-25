@@ -59,13 +59,13 @@ function languageSettings(type, language) {
         'English': {
             'concept': 'related concepts',
             'relationsMenu': {
-                'translation': 'translate',
+                'translation': 'translations',
                 'directHypernym': 'direct ',
                 'inheritedHypernym': 'transitive hypernyms',
                 'directHyponym': 'direct ',
                 'fullHyponym': 'transitive hyponyms',
                 'directTroponym': 'direct ',
-                'fullTroponym': 'transitive troponym',
+                'fullTroponym': 'transitive troponyms',
                 'memberHolonym': 'member holonyms',
                 'substanceHolonym': 'substance holonyms',
                 'partHolonym': 'part holonyms',
@@ -108,14 +108,20 @@ function languageSettings(type, language) {
             'languageChange': 'change the display language',
             'noTransLangSelected': 'no languages selected',
             'collision': 'The word you are searching for appears in more than one language. Choose which one you would'+
-            ' like to explore through in the menu below.'
+            ' like to explore in the dropdown menu below.'
         }
     };
     return languageList[language][type];
 }
 
 function languageList(){
-    return ['Suomi', 'Afrikaans', 'اللغة العربية الفصحى', 'Asturianu', 'Azərbaycan dili', '\tБеларуская мова','বাংলা', 'brezhoneg', '\tбългарски', 'català', 'čeština', 'Cymraeg', 'dansk', 'Deutsch', 'ελληνικά', 'Esperanto', 'eesti keel', 'euskara', 'Føroyskt','فارسى', 'Gàidhlig', 'Gaeilge', 'Galego', 'sɜːrboʊkroʊˈeɪʃən', 'עִבְרִית', 'हिन्दी', 'magyar', 'Bahasa Indonesia', 'Íslenska', 'italiano', '\t日本語', 'ქართული', '\t한국어', 'Lingua Latina', 'latviešu valoda', 'lietuvių kalba', 'македонски', 'Nederlands', 'Nynorsk', 'Bokmål', 'polski', 'român', 'Русский язык', 'slovenčina', 'slovenščina', 'español', 'Kiswahili', 'svenska', 'తెలుగు', 'ภาษาไทย', 'Türkçe', 'Українська', 'اردو', 'tiếng việt', 'Volapük', 'Bahasa melayu'];
+    return ['Suomi', 'Afrikaans', 'اللغة العربية الفصحى', 'Asturianu', 'Azərbaycan dili', '\tБеларуская мова','বাংলা',
+        'brezhoneg', '\tбългарски', 'català', 'čeština', 'Cymraeg', 'dansk', 'Deutsch', 'ελληνικά', 'Esperanto',
+        'eesti keel', 'euskara', 'Føroyskt','فارسى', 'Gàidhlig', 'Gaeilge', 'Galego', 'sɜːrboʊkroʊˈeɪʃən', 'עִבְרִית',
+        'हिन्दी', 'magyar', 'Bahasa Indonesia', 'Íslenska', 'italiano', '\t日本語', 'ქართული', '\t한국어', 'Lingua Latina',
+        'latviešu valoda', 'lietuvių kalba', 'македонски', 'Nederlands', 'Nynorsk', 'Bokmål', 'polski', 'român',
+        'Русский язык', 'slovenčina', 'slovenščina', 'español', 'Kiswahili', 'svenska', 'తెలుగు', 'ภาษาไทย', 'Türkçe',
+        'Українська', 'اردو', 'tiếng việt', 'Volapük', 'Bahasa melayu'];
 }
 
 function implementedLanguageList(){

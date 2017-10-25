@@ -1,0 +1,27 @@
+Developer Documentation - General
+====================================
+
+Back end
+---------
+
+WordNet Content Delivery Server
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Apache
+^^^^^^
+
+Django
+^^^^^^
+
+Views.py
+^^^^^^^^
+
+Front End
+---------
+
+language.js
+^^^^^^^^^^^
+
+index.js
+^^^^^^^^
+
