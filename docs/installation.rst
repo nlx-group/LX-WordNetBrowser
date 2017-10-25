@@ -56,7 +56,7 @@ substitute STATICFILES_DIRS if it's there already.
 	    
 	]
 
-In /static/index.js search for "hostname", it is being concatenated with a string ":8000/....", change ":8000" with the port you are using.
+In /static/index.js search for "hostname", it is being concatenated with a string ":8000/....", change ":8000" with the port you are using. Still in index.js, for the pluricentric installation, you will want to edit the const "nodeText" to fit your institution name.
 
 In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
 
