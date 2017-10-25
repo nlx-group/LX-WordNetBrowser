@@ -42,4 +42,4 @@ Any synset in the results is expandable, meaning that the relations to the synse
 
 Selecting any relations will further expand search results. If you select translations, the results of the translations into the languages you have selected earlier in the translations menu will show up on the right side.
 
-.. image:: ./_static/translation-menu.png
+.. image:: ./_static/translation.png
