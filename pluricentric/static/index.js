@@ -5,7 +5,7 @@ var otherLangs = [];
 var currentTranslatedOffset;
 const relationsShort = {'DirectHypernym': 'dhype', 'DirectHyponym': 'dhypo', 'DirectTroponym': 'dhypo', 'InheritedHypernym':'ihype', 'FullHyponym': 'fhypo', 'FullTroponym': 'fhypo', 'MemberHolonym': 'mh', 'SubstanceHolonym': 'sh', 'PartHolonym': 'ph', 'MemberMeronym': 'mm', 'SubstanceMeronym': 'sm', 'PartMeronym': 'pm', 'Antonym': 'ant', 'InstanceHypernym': 'inhype', 'InstanceHyponym': 'inhypo', 'Attribute': 'attr', 'DerivationallyRelatedForm': 'derform', 'Entailment': 'ent', 'Cause': 'ca', 'AlsoSee': 'asee', 'VerbGroup': 'vgr', 'SimilarTo': 'sto', 'ParticipleOfVerb': 'pverb', 'Pertainym': 'per', 'DomainCategory': 'domcat', 'DomainTermCategory': 'domtermcat', 'DomainRegion': 'domreg', 'DomainTermRegion': 'domtermreg', 'DomainUsage': 'domusage', 'DomainTermUsage': 'domtermusage', 'Overview': 'ov', 'Concept':'con', 'SentenceFrame': 'sframe'};
 const partOfSpeech = {'n': 'noun', 'v': 'verb', 'a': 'adj', 's': 'adj', 'r': 'adv'};
-var nodeText = 'NODE: University of Lisbon';
+const nodeText = 'NODE: University of Lisbon';
 var currentSearchLanguage;
 
 function expandedSearchFormatter(data,event,remove) {
