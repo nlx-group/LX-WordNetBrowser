@@ -3,8 +3,6 @@ from django.shortcuts import render
 import json
 import os
 import logging
-from datetime import datetime, timedelta
-import codecs
 import xmlrpc.client
 
 pointer_map = {'Hypernym': '@', 'Hyponym': '~', 'Member_Holonym': '#m', 'Substance_Holonym': '#s', 'Part_Holonym': '#p',
