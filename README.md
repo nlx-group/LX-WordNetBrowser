@@ -22,10 +22,13 @@ The other version of distribution was developed under the pluricentric global wo
 + Translations into selected languages
 + Web-based platform independent
 
+## Support Documentation
+
+All of the support documentation for this interface is found at http://lx-wordnetbrowser.readthedocs.io/en/latest/. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
 
 ## Installation
 
-The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. 
+The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. Ignore the folder docs, you won't need it and can delete it.
 
 ### Requirements
 
@@ -86,7 +89,7 @@ urlpatterns = [
 ]
 ```
 
-In /static/index.js search for "hostname", it is being concatenated with a string ":8000/....", change ":8000" with the port you are using. Still in index.js, for the pluricentric installation, you will want to edit the const "nodeText" to fit your institution name.
+In /static/index.js search for “location.port”, if you are using a domain you will likely not need the port so delete the ‘:’ + location.port occurances and leave just the location.hostname. Still in index.js, for the pluricentric installation, you will want to edit the const “nodeText” to fit your institution name.
 
 In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
 
@@ -112,8 +115,4 @@ If you have the two installations running you will have to have seperate CDN ser
 To run the server, make sure to have your working directory inside your project folder. To start the server, run the following command ```python manage.py runserver IP:PORT```.
 
 Forthcoming: Integration with Apache web server for a production grade configuration.
-
-## Support Documentation
-
-All of the support documentation for this interface is found at http://lx-wordnetbrowser.readthedocs.io/en/latest/. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
 
