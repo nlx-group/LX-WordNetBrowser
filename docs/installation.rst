@@ -1,7 +1,7 @@
 Installation
 ============
 
-The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. Ignore the folder docs, you won't need it and can delete it.
+The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. **Ignore the folder docs, you won't need it and can delete it.**
 
 Requirements
 ------------
