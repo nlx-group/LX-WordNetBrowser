@@ -32,7 +32,7 @@ By clicking enter or the magnifying glass icon the search will be triggered, giv
 You can select however many languages you would like to see the translations of words on.
 
 Related concepts
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 .. image:: ./_static/search-done.png
 

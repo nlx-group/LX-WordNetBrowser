@@ -21,6 +21,7 @@ Feature Recap
 - Translations into selected languages
 - Web-based platform independent
 
+`LX-WordNet Browser Repository <https://github.com/nlx-group/LX-WordNetBrowser/>`_
 
 
 

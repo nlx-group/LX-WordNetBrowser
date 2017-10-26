@@ -219,7 +219,7 @@
 <span class="p">]</span>
 </pre></div>
 </div>
-<p>In /static/index.js search for “hostname”, it is being concatenated with a string “:8000/….”, change “:8000” with the port you are using.</p>
+<p>In /static/index.js search for “location.port”, if you are using a domain you will likely not need the port so delete the ‘:’ + location.port occurances and leave just the location.hostname. Still in index.js, for the pluricentric installation, you will want to edit the const “nodeText” to fit your institution name.</p>
 <p>In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.</p>
 <p>Back to /static/views.py, search for ‘display limit’, which will be a comment section. There you will need to decide whether you will limit the results to be shown and the number of depth you will limit it by. If not, then you will set depth to None.</p>
 </div>

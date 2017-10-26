@@ -27,7 +27,7 @@ function expandedSearchFormatter(data,event,remove) {
 		$(event.target.parentNode.children[2]).find('a').click(function(event){expand(event)});
 		$("span.mark").each(function() {
 			var lemma = $(this).text();
-			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + String(location.hostname) + ':8000/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
+			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
 		});
 		$(event.target.parentNode.children[2]).addClass(event.target.className+' search');
 		$(event.target.parentNode.children[2]).find("ul").addClass('search');
@@ -36,7 +36,7 @@ function expandedSearchFormatter(data,event,remove) {
 		$(event.target.parentNode.children[1]).find('a').click(function(event){expand(event)});
 		$("span.mark").each(function() {
 			var lemma = $(this).text();
-			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + String(location.hostname) + ':8000/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
+			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
 		});
 		if (event.target.className === 'DerivationallyRelatedForm') {
 			var relationsMenu = languageSettings('relationsMenu', language);
@@ -201,7 +201,7 @@ function formattedResults(result) {
 	$("#resultList a").click(function(event){expand(event)});
 	$("span.mark").each(function() {
 		var lemma = $(this).text();
-		$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + String(location.hostname) + ':8000/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
+		$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
 	});
 	$(".concept").prop('title', languageSettings('concept', localStorage.getItem('language')));
 	$('[data-tool-tip=tooltip]').tooltip({trigger:'hover', container:'body'});
@@ -468,7 +468,7 @@ function main() {
 		$("#langSelectList").append('<option value="' + languages[i] + '">' + languages[i] + '</option>');
 	}
 	$("#langSelectList").select2();
-	$("#references").prop("href", 'http://' + String(location.hostname) + ':8000/references.html');
+	$("#references").prop("href", 'http://' + location.hostname + ':' + location.port + '/references.html');
 
 }
 $(document).ready(function(){main()});
