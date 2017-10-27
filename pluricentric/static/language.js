@@ -54,7 +54,8 @@ function languageSettings(type, language) {
             'languageChange': 'selecionar língua',
             'noTransLangSelected': 'nenhuma língua selecionada',
             'collision': 'A palavra que procura existe em várias línguas. Selecione no menu abaixo qual pretende ' +
-            'explorar.'
+            'explorar.',
+            'langSelect': 'Selecione uma língua'
         },
         'English': {
             'concept': 'related concepts',
@@ -108,7 +109,8 @@ function languageSettings(type, language) {
             'languageChange': 'change the display language',
             'noTransLangSelected': 'no languages selected',
             'collision': 'The word you are searching for appears in more than one language. Choose which one you would'+
-            ' like to explore through in the menu below.'
+            ' like to explore through in the menu below.',
+            'langSelect': 'Select a language'
         }
     };
     return languageList[language][type];

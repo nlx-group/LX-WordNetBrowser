@@ -228,10 +228,10 @@ function formattedResults(result) {
 }
 
 function languageCollisionMenu(languages) {
-	$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><i class="material-icons close" id="popup-close">cancel</i><p>' +
+	$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><i class="material-icons close" id="popup-close">cancel</i><p class="collision-p">' +
 		languageSettings('collision', localStorage.getItem('language')) +
 		'</p><br><select id="collisionSelect"></select></div></div></div>');
-	$("#collisionSelect").append('<option value="">Choose a language</option>');
+	$("#collisionSelect").append('<option value="" disabled selected>Choose a language</option>');
 	for (var i = 0; i < languages.length; i++) {
 		$("#collisionSelect").append('<option value=' + languages[i] + '>' + languages[i] + '</option>');
 	}
@@ -359,11 +359,10 @@ function main() {
 			location.reload();
 		}
 		else {
-			$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><a href="https://' +
-				'github.com/nlx-group/Pluricentric-Global-Wordnet/wiki/Translations,-a-community-helping-hand" ' +
+			$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><a href="http://lx-wordnetbrowser.readthedocs.io/en/latest/translations.html"' +
 				'target="_blank" class="topRight"><img class="popup-img" src="/static/assets/images/GitHub-Mark-120px-plus.png">' +
 				'</a><i class="material-icons close" id="popup-close">' +
-				'cancel</i><p>' + $("#langSelectList").val() + ' is not ' +
+				'cancel</i><p class="pop-up-p">' + $(this).text() + ' is not ' +
 				'implemented yet. If you are fluent and would like to help, click on the image above to find out more.' +
 				'</p></div></div></div>');
 			$("#popup-close").click(function(){
@@ -476,11 +475,10 @@ function main() {
     		location.reload();
 		}
 		else {
-			$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><a href="https://' +
-				'github.com/nlx-group/Pluricentric-Global-Wordnet/wiki/Translations,-a-community-helping-hand" ' +
+			$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><a href="http://lx-wordnetbrowser.readthedocs.io/en/latest/translations.html"' +
 				'target="_blank" class="topRight"><img class="popup-img" src="/static/assets/images/GitHub-Mark-120px-plus.png">' +
 				'</a><i class="material-icons close" id="popup-close">' +
-				'cancel</i><p>' + $("#langSelectList").val() + ' is not ' +
+				'cancel</i><p class="pop-up-p">' + $("#langSelectList").val() + ' is not ' +
 				'implemented yet. If you are fluent and would like to help, click on the image above to find out more.' +
 				'</p></div></div></div>');
 			$("#popup-close").click(function(){
@@ -491,6 +489,7 @@ function main() {
 	});
     $(".invis").width($("#langSelectList").width()).height($("#langSelectList").height()).css({'border-radius':$("#langSelectList").css('border-radius'),'-webkit-border-radius': $("#langSelectList").css('-webkit-border-radius'), '-moz-border-radius': $("#langSelectList").css('-moz-border-radius')});
 	var languages = languageList();
+	$("#langSelectList").append('<option value="" disabled selected>' + languageSettings('langSelect', language) + '</option>');
 	for (var i = 0; i < languages.length; i++) {
 		$("#langSelectList").append('<option value="' + languages[i] + '">' + languages[i] + '</option>');
 	}

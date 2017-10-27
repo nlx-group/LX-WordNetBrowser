@@ -119,6 +119,7 @@ General Menu Interactions
 - change the display language
 - no languages selected
 - The word you are searching for appears in more than one language. Choose which one you would like to explore in the dropdown menu below.
+- Select a language
 
 Languages
 ^^^^^^^^^
