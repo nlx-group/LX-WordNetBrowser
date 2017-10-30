@@ -125,7 +125,7 @@ function expand(event) {
 			';c': '<li><a class="DomainCategory" style="cursor:pointer">' + relationsMenu['domainCategory'] + '</a></li>', '-c': '<li><a class="DomainTermCategory" style="cursor:pointer">' + relationsMenu['domainTermCategory'] + '</a></li>',
 			';r': '<li><a class="DomainRegion" style="cursor:pointer">' + relationsMenu['domainRegion'] + '</a></li>', '-r': '<li><a class="DomainTermRegion" style="cursor:pointer">' + relationsMenu['domainTermRegion'] + '</a></li>',
 			';u': '<li><a class="DomainUsage" style="cursor:pointer">' + relationsMenu['domainUsage'] + '</a></li>', '-u': '<li><a class="DomainTermUsage" style="cursor:pointer">' + relationsMenu['domainTermUsage'] + '</a></li>',
-			'f': '<li><a class="Overview" style="cursor:pointer">' + relationsMenu['overview'] + '</a></li>', 'concept': '<li><a class="Concept" style="cursor:pointer">' + relationsMenu['concept'] + '</a></li>',
+			'overview': '<li><a class="Overview" style="cursor:pointer">' + relationsMenu['overview'] + '</a></li>', 'concept': '<li><a class="Concept" style="cursor:pointer">' + relationsMenu['concept'] + '</a></li>',
 			'sentenceFrame': '<li><a class="SentenceFrame" style="cursor:pointer">' + relationsMenu['sentenceFrame'] + '</a></li>'
 		};
 		if (!$(event.target.parentNode).parent().parent().hasClass('DerivationallyRelatedForm')) {
@@ -253,7 +253,7 @@ function search(searchTerm) {
     if ($("#searchResultBox")) {
         $("#searchResultBox").remove()
     }
-	$("body").append('<div class="container" id="searchResultBox" style="margin-top:5%;max-height:90vh;"><div class="row vertical-center-row"><div class="col-md-9" id="results" style="overflow-x:scroll"></div><div class="col-md-3" id="langResults" style="padding:0 !important;max-height:90vh;overflow-y:scroll;"></div></div>');
+	$("body").append('<div class="container" id="searchResultBox" style="margin-top:5%;max-height:90vh;"><div class="row vertical-center-row"><div class="col-md-9" id="results" style="overflow:hidden"></div><div class="col-md-3" id="langResults" style="padding:0 !important;max-height:90vh;overflow-y:scroll;"></div></div>');
     history.pushState(null, null, '/search/s=' + String(searchTerm));
     var result = $.ajax({type:'GET',url:'.', data:'s=' + String(searchTerm) + '&st=norm1' + '&language=UNK'}).done(function(data){if (data.collision === 1) {languageCollisionMenu(data.languages)} else if(data.found === 1){formattedResults(data);found=true;} else{notFound(data);found=false;}});
 }

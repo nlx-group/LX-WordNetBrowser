@@ -43,7 +43,7 @@ Classes
 
 Parser
 ######
-Defines a class for parsers of lines. This is where the wordnet lines get converted to HTML formatted lines with all the relevant information such as names and glosses. All search functions other than translations will eventually call this class to format their lines.
+Defines a class for parsers of lines. This is where the wordnet lines get converted to HTML formatted lines with all the relevant information such as names and glosses. All search functions other than translations will eventually call this class to format their lines or obtain information
 
 Search Routines
 ###############
