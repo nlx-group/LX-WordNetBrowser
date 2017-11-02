@@ -93,6 +93,9 @@ In /static/index.js search for “location.port”, if you are using a domain yo
 
 In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
 
+**IMPORTANT** Read the following section in this document(http://lx-wordnetbrowser.readthedocs.io/en/latest/developer-documentation-general.html#files) of developer documentation to understand how the file locations and format works.
+
+
 ### WordNet Content Delivery Server
 
 To avoid opening and reading wordnet files everytime there’s a request, we’ll setup a WordNet content delivery server. The code for this server is contained in ‘wordnet_server.py’.
