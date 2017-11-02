@@ -82,8 +82,11 @@
 .flexbox {
     display:flex;
     justify-content:center;
+    -webkit-justify-content:center;
     align-items: center;
+    -webkit-align-items: center;
     flex-flow: column;
+    -webkit-flex-flow:column;
 }
 .langmenu {
     width:100%;
@@ -101,6 +104,8 @@
 .invis {
     border:none;
     box-shadow:none;
+    -webkit-box-shadow:none;
+    -moz-box-shadow:none;
 }
 #langSelectParent {
     display:inline-block;
@@ -211,4 +216,5 @@
 }
 #results:hover {
     overflow-x:scroll;
+    -ms-overflow-x:scroll;
 }

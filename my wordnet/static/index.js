@@ -226,7 +226,7 @@ function search(searchTerm) {
     if ($("#searchResultBox")) {
         $("#searchResultBox").remove()
     }
-	$("body").append('<div class="container" id="searchResultBox" style="margin-top:5%;max-height:90vh;"><div class="row vertical-center-row"><div class="col-md-9" id="results" style="overflow:hidden;"></div><div class="col-md-3" id="langResults" style="padding:0 !important;max-height:90vh;overflow-y:scroll;"></div></div>');
+	$("body").append('<div class="container" id="searchResultBox" style="margin-top:5%;max-height:90vh;"><div class="row vertical-center-row"><div class="col-md-9" id="results" style="overflow:hidden;"></div><div class="col-md-3" id="langResults" style="padding:0 !important;max-height:90vh;overflow-y:scroll;-ms-overflow-y:scroll;"></div></div>');
     history.pushState(null, null, '/search/s=' + String(searchTerm));
     var result = $.ajax({type:'GET',url:'.', data:'s=' + String(searchTerm) + '&st=norm1'}).done(function(data){if(data.found === 1){formattedResults(data);found=true;} else{notFound(data);found=false;}});
 }
