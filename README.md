@@ -24,7 +24,7 @@ The other version of distribution was developed under the pluricentric global wo
 
 ## Support Documentation
 
-All of the support documentation for this interface is found at http://lx-wordnetbrowser.readthedocs.io/en/latest/. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
+All of the support documentation for this interface is found at https://lx-wordnetbrowser.readthedocs.io. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
 
 ## Installation
 
