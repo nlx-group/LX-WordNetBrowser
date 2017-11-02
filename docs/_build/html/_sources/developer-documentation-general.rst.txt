@@ -12,7 +12,7 @@ As specified in the installation chapter, there's two modes to this server. It c
 
 The structure in which the wordnet is stored is a dictionary with the following structure.
 
-language > pos > data & index > offset > whole line.
+```language > pos > data & index > offset > whole line``.
 
 language on the my wordnet installation is main for the main language and pivot for the pivot language.
 
@@ -20,11 +20,11 @@ This implementation could be improved by instead of storing a whole line, storin
 
 For vrb files, the structure is the following:
 
-language > vrb > verb OR number of sent/frame > line.
+``language > vrb > verb OR number of sent/frame > line``.
 
 For the tab files, it follows the following structure:
 
-language code > pivot language offset > line.
+``language code > pivot language offset > line``.
 
 Other methods, such as get_index and get_data are implemented for the main script /search/views.py fetch information needed relevant to the users search.
 
@@ -43,7 +43,7 @@ Classes
 
 Parser
 ######
-Defines a class for parsers of lines. This is where the wordnet lines get converted to HTML formatted lines with all the relevant information such as names and glosses. All search functions other than translations will eventually call this class to format their lines.
+Defines a class for parsers of lines. This is where the wordnet lines get converted to HTML formatted lines with all the relevant information such as names and glosses. All search functions other than translations will eventually call this class to format their lines or obtain information.
 
 Search Routines
 ###############
@@ -66,6 +66,28 @@ Renders
 #######
 
 The class renders has the methods that render the webpage to the user, upon a visit.
+
+Files
+^^^^^
+My WordNet
+##########
+There is a slight difference between both versions of the browser in terms of where the wordnet files are stored. Both of them make use of ``langdata`` folder to store other folders. 
+My WordNet uses ``main`` folder to store the files for the language that you want to be browsable. ``pivot`` folder stores the wordnet files for the language you're using as a pivot for translations. 'tab files' stores the tab files necessary for translations.
+
+Pluricentric
+############
+The pluricentric version uses ``wordnets`` to store wordnet files. Inside that folder, more folders with the name of the languages that then store the files. Example: ``wordnets/English/*``.
+Like My Wordnet, ``tab files`` stores tab files.
+
+Formats
+#######
+This browser makes use of wordnets in Princeton Wordnet format. There is some tendency to use LMF format and XML format as well, which isn't supported. However, we have included some scripts and documentation for LMF to Princeton conversion and XML to Princeton conversion.
+
+*Forthcoming documentation on conversion*
+
+Tab files
+#########
+*Forthcoming documentation on tab file problems on generation*
 
 Front End
 ---------

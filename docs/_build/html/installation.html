@@ -173,7 +173,7 @@
             
   <div class="section" id="installation">
 <h1>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h1>
-<p>The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location.</p>
+<p>The first step is to download the .zip file of the LX-WordNetBrowser and unpack it at your desired location. <strong>Ignore the folder docs, you won’t need it and can delete it.</strong></p>
 <div class="section" id="requirements">
 <h2>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h2>
 <p>To install and run this browser you need to have <a class="reference external" href="https://www.python.org/downloads//">Python</a> 3.6.3 installed (or the most recently available).</p>
@@ -222,6 +222,7 @@
 <p>In /static/index.js search for “location.port”, if you are using a domain you will likely not need the port so delete the ‘:’ + location.port occurances and leave just the location.hostname. Still in index.js, for the pluricentric installation, you will want to edit the const “nodeText” to fit your institution name.</p>
 <p>In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.</p>
 <p>Back to /static/views.py, search for ‘display limit’, which will be a comment section. There you will need to decide whether you will limit the results to be shown and the number of depth you will limit it by. If not, then you will set depth to None.</p>
+<p><strong>IMPORTANT</strong> Read the <em>Files</em> section in this document (<a class="reference internal" href="developer-documentation-general.html"><span class="doc">Developer Documentation - General</span></a>) of developer documentation to understand how the file locations and format works.</p>
 </div>
 <div class="section" id="wordnet-content-delivery-server">
 <h3>WordNet Content Delivery Server<a class="headerlink" href="#wordnet-content-delivery-server" title="Permalink to this headline">¶</a></h3>

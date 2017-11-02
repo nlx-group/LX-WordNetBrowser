@@ -62,6 +62,9 @@ In langdata/main you should be putting your wordnet files in, along with the res
 
 Back to /static/views.py, search for 'display limit', which will be a comment section. There you will need to decide whether you will limit the results to be shown and the number of depth you will limit it by. If not, then you will set depth to None.
 
+**IMPORTANT** Read the *Files* section in this document (:doc:`developer-documentation-general`) of developer documentation to understand how the file locations and format works.
+
+
 WordNet Content Delivery Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
