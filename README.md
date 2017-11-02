@@ -24,7 +24,7 @@ The other version of distribution was developed under the pluricentric global wo
 
 ## Support Documentation
 
-All of the support documentation for this interface is found at http://lx-wordnetbrowser.readthedocs.io/en/latest/. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
+All of the support documentation for this interface is found at https://lx-wordnetbrowser.readthedocs.io. It features installation steps, user and development documentation. It is highly advised you read them if you want to set up your own node.
 
 ## Installation
 
@@ -92,6 +92,9 @@ urlpatterns = [
 In /static/index.js search for “location.port”, if you are using a domain you will likely not need the port so delete the ‘:’ + location.port occurances and leave just the location.hostname. Still in index.js, for the pluricentric installation, you will want to edit the const “nodeText” to fit your institution name.
 
 In langdata/main you should be putting your wordnet files in, along with the respective bridge between the pivot language.
+
+**IMPORTANT** Read the following section in this document(http://lx-wordnetbrowser.readthedocs.io/en/latest/developer-documentation-general.html#files) of developer documentation to understand how the file locations and format works.
+
 
 ### WordNet Content Delivery Server
 
