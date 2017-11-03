@@ -179,12 +179,15 @@ class WordNet:
         return None
 
     def get_tab(self, language, offset, pos):
-        if offset + '-' + pos in self.tab_content[language]:
-            return self.tab_content[language][offset + '-' + pos]
+        if language in self.tab_content:
+            if offset + '-' + pos in self.tab_content[language]:
+                return self.tab_content[language][offset + '-' + pos]
         return None
 
     def get_whole_tab(self, language):
-        return self.tab_content[language]
+        if language in self.tab_content:
+            return self.tab_content[language]
+        return None
 
     def pos_available(self, language):
         return list(self.wordnet_content[language].keys())

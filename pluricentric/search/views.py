@@ -431,10 +431,10 @@ class SearchRoutines:
         if pivot_language != source_language:
             split_line = wordnet_server.get_data(source_language, part_of_speech[pos], offset).split()
             lemmas = split_line[4:4 + int(split_line[3], 16) * 2:2]
-            tab_lines = wordnet_server.get_whole_tab(source_language)
+            tab_lines = wordnet_server.get_whole_tab(language_codes[source_language])
             for elem in tab_lines:
                 line = tab_lines[elem].split()
-                if line[0].split('-')[1] == pos and line[2] in lemmas:
+                if line[0] != '#' and line[0].split('-')[1] == pos and line[2] in lemmas:
                     pivot_language_offsets[line[2]] = line[0].split('-')[0]
                 if len(lemmas) == len(pivot_language_offsets):
                     break
@@ -448,7 +448,7 @@ class SearchRoutines:
             html_lines[language] = {'lemma': '', 'def': ''}
             if pivot_language_offset != '':
                 if language == 'en' and pivot_language == 'English':
-                    line = wordnet_server.get_data(language, part_of_speech[pos], pivot_language_offset)
+                    line = wordnet_server.get_data('English', part_of_speech[pos], pivot_language_offset)
                     split_line = line.split()
                     html_lines['en'] = {'lemma': '', 'def': ''}
                     html_lines['en']['lemma'] = ''.join([' ' + name.replace('_', ' ') + ',' for name in

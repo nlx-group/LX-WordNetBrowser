@@ -408,29 +408,38 @@ function main() {
     $(".langmenu").on('select2:unselect', function(e) {
     	otherLangs.splice(otherLangs.indexOf(e.params.data.id), 1);
 		var regex = new RegExp(' ?' + e.params.data.id + '[,]?');
-		$("#pLangList").text($("#pLangList").text().replace(regex, ''));
-		var text = $("#pLangList").text();
+		var pLangList = $("#pLangList");
+		pLangList.text(pLangList.text().replace(regex, ''));
+		var text = pLangList.text();
 		if (text[text.length - 1] === ',') {
-			$("#pLangList").text(text.slice(0,-1))
+			pLangList.text(text.slice(0,-1))
 		}
 		if (otherLangs.length === 0) {
-			$("#pLangList").html($("#pLangList").text() + ' ' + '<span style="color:#999999">' + languageSettings('noTransLangSelected', localStorage.getItem('language')) + '</span>');
+			pLangList.html(pLangList.text() + ' ' + '<span style="color:#999999">' + languageSettings('noTransLangSelected', localStorage.getItem('language')) + '</span>');
 		}
-		if ($("#langResults").length !== 0) {
+		var langResults = $("#langResults");
+		if (langResults.length !== 0) {
 			var langObj = $("#" + e.params.data.id + 'Results');
-			langObj.prev().remove();
-			langObj.remove();
+			if (langObj.is(':first-child')) {
+				langObj.next().remove();
+				langObj.remove();
+			}
+			else {
+				langObj.prev().remove();
+				langObj.remove();
+			}
 		}
 		if (otherLangs.length === 0) {
-			$("#langResults").css({'border':'none'})
+			langResults.css({'border':'none'})
 		}
 	});
     $(".langmenu").on('select2:select', function(e) {
+    	var pLangList = $("#pLangList");
 		if (otherLangs.length === 0) {
-			$("#pLangList").text(languageSettings('startPhrase', localStorage.getItem('language')) + e.params.data.id);
+			pLangList.text(languageSettings('startPhrase', localStorage.getItem('language')) + e.params.data.id);
 		}
 		else {
-			$("#pLangList").text($("#pLangList").text() + ', ' + e.params.data.id);
+			pLangList.text(pLangList.text() + ', ' + e.params.data.id);
 		}
     	otherLangs.push(e.params.data.id);
     	if (currentTranslatedOffset !== undefined) {

@@ -7,6 +7,7 @@ const relationsShort = {'DirectHypernym': 'dhype', 'DirectHyponym': 'dhypo', 'Di
 const partOfSpeech = {'n': 'noun', 'v': 'verb', 'a': 'adj', 's': 'adj', 'r': 'adv'};
 const nodeText = 'NODE: University of Lisbon';
 var currentSearchLanguage;
+var searchLangCache;
 
 function expandedSearchFormatter(data,event,remove) {
 	for (var elem in data.relations) {
@@ -71,7 +72,7 @@ function expandRequest(event, remove=false) {
 		$.ajax({type:'GET', url:'.', data:'s=' + currentSearchTerm + '&t=' + searchTypeParsed + '&o=' + offset + '&st=stframe' + '&language=' + currentSearchLanguage}).done(function(data){sentenceFrameFormatter(data, event)});
 	}
 	else {
-		history.pushState(null,null,'/search/s=' + currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos + '&language=' + currentSearchLanguage);
+		history.pushState(null, null,'/search/s=' + currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos + '&language=' + currentSearchLanguage);
 		$.ajax({type:'GET',url:'.', data:'s='+ currentSearchTerm + '&o=' + offset + '&t=' + searchTypeParsed + '&c=' + pos + '&st=exp' + '&language=' + currentSearchLanguage}).done(function(data){expandedSearchFormatter(data, event, remove)});
 	}
 }
@@ -197,10 +198,23 @@ function formattedResults(result) {
 				info[elem][synset] = result.relations[elem][synset];
 			}
 	}
-	var searchLangCache = currentSearchLanguage !== undefined ? currentSearchLanguage : null;
+	searchLangCache = currentSearchLanguage !== undefined ? currentSearchLanguage : null;
 	currentSearchLanguage = result.language;
 	if (searchLangCache !== null) {
 		$(".langmenu").append('<option value="' + CountryToCode(searchLangCache) + '">' + searchLangCache + "</option>");
+		if (otherLangs.length !== 0) {
+			otherLangs.splice(otherLangs.indexOf(currentSearchLanguage), 1);
+			var regex = new RegExp(' ?' + CountryToCode(currentSearchLanguage) + '[,]?');
+			var pLangList = $("#pLangList");
+			pLangList.text(pLangList.text().replace(regex, ''));
+			var text = pLangList.text();
+			if (text[text.length - 1] === ',') {
+				pLangList.text(text.slice(0,-1))
+			}
+			if (otherLangs.length === 0) {
+				pLangList.html(pLangList.text() + ' ' + '<span style="color:#999999">' + languageSettings('noTransLangSelected', localStorage.getItem('language')) + '</span>');
+			}
+		}
 	}
 	$('.langmenu option[value="' + CountryToCode(currentSearchLanguage) + '"]').remove();
 	$("#results").append('<ul id="resultList"></ul>');
@@ -237,8 +251,7 @@ function languageCollisionMenu(languages) {
 	}
 	$("#collisionSelect").select2();
 	$("#collisionSelect").on('select2:select', function(e) {
-		currentSearchLanguage = e.params.data.id;
-		$.ajax({type:'GET',url:'.', data:'s=' + String(currentSearchTerm) + '&st=norm1' + '&language=' + currentSearchLanguage}).done(function(data){if(data.found === 1){formattedResults(data)} else{notFound(data)}});
+		$.ajax({type:'GET',url:'.', data:'s=' + String(currentSearchTerm) + '&st=norm1' + '&language=' + e.params.data.id}).done(function(data){if(data.found === 1){formattedResults(data)} else{notFound(data)}});
 		$("#popup-close").click();
 	});
 	$("#popup-close").click(function(){
@@ -445,8 +458,14 @@ function main() {
 		}
 		if ($("#langResults").length !== 0) {
 			var langObj = $("#" + e.params.data.id + 'Results');
-			langObj.prev().remove();
-			langObj.remove();
+			if (langObj.is(':first-child')) {
+				langObj.next().remove();
+				langObj.remove();
+			}
+			else {
+				langObj.prev().remove();
+				langObj.remove();
+			}
 		}
 		if (otherLangs.length === 0) {
 			$("#langResults").css({'border':'none'})
