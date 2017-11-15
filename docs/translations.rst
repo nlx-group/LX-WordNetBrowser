@@ -113,6 +113,7 @@ General Menu Interactions
 - sentence frames
 - The search couldn't find the word you were looking for
 - definition
+- certainty
 - translations to:
 - search for a word
 - search
@@ -168,6 +169,7 @@ Languages
 - Nynorsk
 - Bokmål
 - Polish
+- Portuguese
 - Romanian
 - Russian
 - Slovak
