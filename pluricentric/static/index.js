@@ -200,7 +200,7 @@ function formattedResults(result) {
 	}
 	searchLangCache = currentSearchLanguage !== undefined ? currentSearchLanguage : null;
 	currentSearchLanguage = result.language;
-	if (searchLangCache !== null) {
+	if (searchLangCache !== null && searchLangCache !== currentSearchLanguage) {
 		$(".langmenu").append('<option value="' + CountryToCode(searchLangCache) + '">' + searchLangCache + "</option>");
 		if (otherLangs.length !== 0) {
 			otherLangs.splice(otherLangs.indexOf(currentSearchLanguage), 1);
