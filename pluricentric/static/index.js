@@ -203,16 +203,19 @@ function formattedResults(result) {
 	if (searchLangCache !== null && searchLangCache !== currentSearchLanguage) {
 		$(".langmenu").append('<option value="' + CountryToCode(searchLangCache) + '">' + searchLangCache + "</option>");
 		if (otherLangs.length !== 0) {
-			otherLangs.splice(otherLangs.indexOf(currentSearchLanguage), 1);
-			var regex = new RegExp(' ?' + CountryToCode(currentSearchLanguage) + '[,]?');
-			var pLangList = $("#pLangList");
-			pLangList.text(pLangList.text().replace(regex, ''));
-			var text = pLangList.text();
-			if (text[text.length - 1] === ',') {
-				pLangList.text(text.slice(0,-1))
+			if (otherLangs.indexOf(CountryToCode(currentSearchLanguage)) !== -1) {
+				otherLangs.splice(otherLangs.indexOf(currentSearchLanguage), 1);
+				var regex = new RegExp(' ?' + CountryToCode(currentSearchLanguage) + '[,]?');
+				var pLangList = $("#pLangList");
+				pLangList.text(pLangList.text().replace(regex, ''));
+				var text = pLangList.text();
+				if (text[text.length - 1] === ',') {
+					pLangList.text(text.slice(0,-1))
+				}
 			}
 			if (otherLangs.length === 0) {
-				pLangList.html(pLangList.text() + ' ' + '<span style="color:#999999">' + languageSettings('noTransLangSelected', localStorage.getItem('language')) + '</span>');
+				pLangList.html(languageSettings('formLabel', localStorage.getItem('language')) + '<span style="color:#999999">'
+					+ languageSettings('noTransLangSelected', localStorage.getItem('language')) + '</span>');
 			}
 		}
 	}
@@ -276,32 +279,41 @@ function advancedSearchLangsAppender(data) {
 	var countryCodeList = CodeToCountry(language);
 	var wikipediaList = wikipediaLinkList(language);
 	var deflabel = languageSettings('defLabel', language);
+	var concept = languageSettings('transConcept', language);
 	if ($("#langResults div").length === 0) {
 		$("#langResults").css({'border':'1px solid black'});
 	}
 	else {
 		$("#langResults").empty();
 	}
-	for (var elem in data) {
-        var languageName = countryCodeList[elem];
-        var concept = languageSettings('transConcept', language);
-        var link = wikipediaList[elem];
-        if (elem === otherLangs[otherLangs.length - 1]) {
-            $("#langResults").append('<div id="' + elem + 'Results" style="padding-left:15px;padding-right:15px;"><h4><a href="' + link + '" target="_blank">' + languageName + '</a></h4></div>');
-            $("#" + elem + 'Results').append('<p><span style="color:red">' + concept + ': </span>' + data[elem]['lemma'] + '</p>');
-            if (elem === 'en') {
-                $("#" + elem + 'Results').append('<p><span style="color:red">' + deflabel + '</span>: ' + data[elem]['def'] + '</p>');
-            }
-        }
-        else {
-            $("#langResults").append('<div id="' + elem + 'Results" style="padding-left:15px;padding-right:15px;"><h4><a href="' + link + '" target="_blank">' + languageName + '</a></h4></div>');
-            $("#" + elem + 'Results').append('<p><span style="color:red">' + concept + ': </span>' + data[elem]['lemma'] + '</p>');
-            if (elem === 'en') {
-                $("#" + elem + 'Results').append('<p><span style="color:red">' + deflabel + '</span>: ' + data[elem]['def'] + '</p>');
-            }
-            $("#langResults").append('<div style="width:100%;margin:0;border-bottom:1px solid black"></div>');
-        }
-    }
+	if (data.hasOwnProperty("mismatch")) {
+		$("#langResults").append('<div><p><span style="color:red">' + languageSettings('mismatchText', language) + '</span></p></div>');
+	}
+	else {
+		for (var elem in data) {
+			var languageName = countryCodeList[elem];
+			var link = wikipediaList[elem];
+			var lemma = '';
+			if (data[elem]['lemma'].length) {
+				lemma = data[elem]['lemma']
+			}
+			if (elem === otherLangs[otherLangs.length - 1]) {
+				$("#langResults").append('<div id="' + elem + 'Results" style="padding-left:15px;padding-right:15px;"><h4><a href="' + link + '" target="_blank">' + languageName + '</a></h4></div>');
+				$("#" + elem + 'Results').append('<p><span style="color:red">' + concept + ': </span>' + lemma + '</p>');
+				if (data[elem]['def'].length) {
+					$("#" + elem + 'Results').append('<p><span style="color:red">' + deflabel + '</span>: ' + data[elem]['def'][0] + '</p>');
+				}
+			}
+			else {
+				$("#langResults").append('<div id="' + elem + 'Results" style="padding-left:15px;padding-right:15px;"><h4><a href="' + link + '" target="_blank">' + languageName + '</a></h4></div>');
+				$("#" + elem + 'Results').append('<p><span style="color:red">' + concept + ': </span>' + lemma + '</p>');
+				if (data[elem]['def'].length) {
+					$("#" + elem + 'Results').append('<p><span style="color:red">' + deflabel + '</span>: ' + data[elem]['def'][0] + '</p>');
+				}
+				$("#langResults").append('<div style="width:100%;margin:0;border-bottom:1px solid black"></div>');
+			}
+		}
+	}
 }
 
 function advancedSearchSingleLang(data) {
@@ -309,20 +321,31 @@ function advancedSearchSingleLang(data) {
 	var countryCodeList = CodeToCountry(language);
 	var wikipediaList = wikipediaLinkList(language);
 	var deflabel = languageSettings('defLabel', language);
+	var concept = languageSettings('transConcept', language);
 	if ($("#langResults div").length === 0) {
 		$("#langResults").css({'border':'1px solid black'});
 	}
-	for (var elem in data) {
-		var languageName = countryCodeList[elem];
-		var concept = languageSettings('transConcept', language);
-		var link = wikipediaList[elem];
-		if ($("#langResults div").length > 0) {
-            $("#langResults").append('<div style="width:100%;margin:0;border-bottom:1px solid black"></div>');
-        }
-		$("#langResults").append('<div id="' + elem + 'Results" style="padding-left:15px;padding-right:15px;"><h4><a href="' + link + '" target="_blank">' + languageName + '</a></h4></div>');
-		$("#" + elem + 'Results').append('<p><span style="color:red">' + concept + ': </span>' + data[elem]['lemma'] + '</p>');
-		if (elem === 'en') {
-			$("#" + elem + 'Results').append('<p><span style="color:red">' + deflabel + '</span>: ' + data[elem]['def'] + '</p>');
+	if (data.hasOwnProperty("mismatch")) {
+		if ($("#langResults div").length === 0) {
+			$("#langResults").append('<div><p><span style="color:red">Interlingual paring mismatch</span></p></div>');
+		}
+	}
+	else {
+		for (var elem in data) {
+			var lemma = '';
+			if (data[elem]['lemma'].length) {
+				lemma = data[elem]['lemma']
+			}
+			var languageName = countryCodeList[elem];
+			var link = wikipediaList[elem];
+			if ($("#langResults div").length > 0) {
+				$("#langResults").append('<div style="width:100%;margin:0;border-bottom:1px solid black"></div>');
+			}
+			$("#langResults").append('<div id="' + elem + 'Results" style="padding-left:15px;padding-right:15px;"><h4><a href="' + link + '" target="_blank">' + languageName + '</a></h4></div>');
+			$("#" + elem + 'Results').append('<p><span style="color:red">' + concept + ': </span>' + lemma + '</p>');
+			if (data[elem]['def'].length) {
+				$("#" + elem + 'Results').append('<p><span style="color:red">' + deflabel + '</span>: ' + data[elem]['def'][0] + '</p>');
+			}
 		}
 	}
 }
@@ -411,7 +434,7 @@ function main() {
 		$(window).resize(function() {
 			$("#pLangList").offset({left:String($("#searchInput").offset().left)});
 		});
-		var startPhrase = languageSettings('startPhrase', language);
+		var startPhrase = languageSettings('formLabel', language);
 		var noLangsFound = languageSettings('noTransLangSelected', language);
 		if (otherLangs.length > 0 ) {
             for (var i = 0;i < otherLangs.length; i++) {
@@ -473,7 +496,7 @@ function main() {
 	});
     $(".langmenu").on('select2:select', function(e) {
 		if (otherLangs.length === 0) {
-			$("#pLangList").text(languageSettings('startPhrase', localStorage.getItem('language')) + e.params.data.id);
+			$("#pLangList").text(languageSettings('formLabel', localStorage.getItem('language')) + e.params.data.id);
 		}
 		else {
 			$("#pLangList").text($("#pLangList").text() + ', ' + e.params.data.id);

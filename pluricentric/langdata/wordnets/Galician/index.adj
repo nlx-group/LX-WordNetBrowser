@@ -1,0 +1,4910 @@
+con_rodas a 1 1 ! 1 0 00242731
+con_prexuízos a 1 2 ! & 1 0 00064924
+multiforme a 2 2 ! & 2 0 00137802 00150351
+panteísta a 1 0 1 0 00338180
+maioritario a 1 1 & 1 0 00087361
+newtoniano a 1 0 1 0 00335024
+pouco_comunicativo a 2 3 ! ^ & 2 0 00215559 00223871
+conxestionado a 1 1 & 1 0 00096580
+puntual a 1 1 ! 1 0 00031644
+gregario a 2 3 ! ;c ^ 2 0 00123520 00185113
+adiposo a 1 1 ! 1 0 00215141
+terreo a 1 2 ! ^ 1 0 00106088
+arruinado a 1 1 & 1 0 00237992
+empírico a 1 1 ! 1 0 00311342
+veterinario a 1 0 1 0 00339156
+anaeróbico a 2 1 ! 2 0 00053167 00147990
+arbóreo a 1 1 ! 1 0 00063113
+verde a 2 1 & 2 0 00112369 00123223
+compracente a 1 1 & 1 0 00052528
+bafento a 1 2 ! & 1 0 00173180
+afiado a 2 3 ! ^ & 2 0 00251976 00333254
+arrebatado a 1 1 & 1 0 00055719
+non_nativo a 1 1 ! 1 0 00216949
+atributivo a 1 2 ! ;c 1 0 00189409
+desordenado a 6 3 ! ^ & 6 0 00092990 00120767 00254571 00261285 00297603 00327339
+desaconsellábel a 1 2 ! ^ 1 0 00320379
+sen_cable a 1 1 ! 1 0 00305939
+preguerra a 1 1 ! 1 0 00147920
+inaplicábel a 2 2 ! & 2 0 00233487 00269023
+inmunocompetente a 1 1 ! 1 0 00256257
+non_metido a 1 1 ! 1 0 00330985
+presumíbel a 1 1 & 1 0 00188836
+indecoroso a 4 3 ! ^ & 4 0 00059858 00186069 00244652 00274647
+construído_en_calime a 1 2 ! ;c 1 0 00273193
+violábel a 1 1 ! 1 0 00311717
+téxtil a 1 0 1 0 00339522
+de_punta a 1 1 & 1 0 00182629
+angustioso a 1 1 & 1 0 00072698
+non_perecedoiro a 1 1 ! 1 0 00309268
+sen_terraza a 1 1 ! 1 0 00126536
+oculto a 1 3 ! ^ & 1 0 00014133
+directo a 6 4 ! ;c ^ & 6 0 00050205 00080089 00141897 00198234 00234063 00262217
+santo a 1 3 ! ^ = 1 0 00140797
+non_malicioso a 1 1 ! 1 0 00020172
+con_engrenaxe a 1 1 ! 1 0 00226779
+mesmo a 2 3 ! ^ & 2 0 00044536 00257759
+pleno a 1 2 ! & 1 0 00161287
+inócua a 1 2 ! ^ 1 0 00233910
+detectado a 1 1 ! 1 0 00145737
+retardado a 1 1 ! 1 0 00210780
+político a 1 1 ! 1 0 00071327
+coercitivo a 1 1 & 1 0 00114614
+multilateral a 1 2 ! & 1 0 00211203
+desconxelado a 1 1 ! 1 0 00325264
+groso a 3 2 ! ^ 3 0 00003263 00107123 00200662
+imparcial a 2 3 ! ^ & 2 0 00192299 00233561
+non_protector a 1 1 ! 1 0 00147499
+ordinario a 2 3 ! ^ & 2 0 00310251 00313998
+pulcro a 1 1 & 1 0 00169473
+non_palmeado a 1 1 ! 1 0 00178909
+trinucleado a 1 2 ! ;c 1 0 00287485
+dabondo a 1 1 & 1 0 00312949
+celeste a 1 2 ! ^ 1 0 00025642
+bravo a 1 3 ! ^ = 1 0 00086466
+murcho a 2 3 ! ^ & 2 0 00017592 00200440
+diplomático a 3 2 ! ^ 3 0 00073793 00142380 00328686
+deprimente a 1 3 ! ^ & 1 0 00189001
+centrípeta a 1 1 ! 1 0 00074505
+cuadrúpede a 1 1 ! 1 0 00310804
+impermeable a 3 2 ! ^ 3 0 00098167 00210390 00315128
+sen_pedúnculo a 1 2 ! ;c 1 0 00223195
+momentáneo a 1 0 1 0 00010607
+estimulante a 3 2 ! ^ 3 0 00186694 00268663 00281428
+enmarcado a 1 1 ! 1 0 00124554
+establecido a 1 2 ! & 1 0 00257342
+previsíbel a 2 3 ! ^ & 2 0 00118767 00166752
+desclasificado a 1 1 ! 1 0 00183828
+indetectábel a 1 1 ! 1 0 00307588
+entón a 1 1 & 1 0 00088771
+tenue a 1 1 ! 1 0 00233769
+terríbel a 4 3 ! ^ & 4 0 00004790 00082229 00167156 00317135
+non_arborícola a 1 1 ! 1 0 00132327
+discapacitado_mental a 1 2 ! ;c 1 0 00241803
+hipotético a 1 1 & 1 0 00318737
+non_disposto a 1 3 ! ^ = 1 0 00087731
+indispoñible a 1 2 ! = 1 0 00118956
+impracticable a 2 2 ! & 2 0 00026926 00259695
+antigo a 7 3 ! ^ & 7 0 00004983 00013513 00035979 00078344 00137046 00164890 00299640
+descuberto a 1 1 ! 1 0 00296074
+diabático a 1 2 ! ;c 1 0 00241600
+sen_estrelas a 1 1 ! 1 0 00137286
+sen_pebidas a 1 1 ! 1 0 00258111
+inquietante a 2 3 ! & = 2 0 00134319 00326164
+indocumentado a 1 1 ! 1 0 00245918
+retorcido a 1 1 & 1 0 00215863
+anelado a 1 1 ! 1 0 00062302
+organizado a 3 3 ! ^ & 3 0 00183946 00200877 00270418
+relevante a 1 2 ! & 1 0 00217129
+acídico a 1 2 ! ;c 1 0 00209793
+agradábel a 7 4 ! ;c ^ & 7 0 00124797 00155120 00173974 00191180 00198375 00215246 00222620
+non_atemorizado a 1 1 ! 1 0 00297089
+cataléptico a 1 0 1 0 00337735
+aleuto a 1 1 & 1 0 00296579
+non_ionizado a 1 1 ! 1 0 00208685
+asiático a 1 0 1 0 00336616
+frívolo a 1 3 ! ^ & 1 0 00234719
+dispoñible a 2 2 ! = 2 0 00049198 00131930
+competente a 2 2 ! ^ 2 0 00160047 00252480
+identificado a 1 1 ! 1 0 00177915
+non_adornado a 1 3 ! ^ & 1 0 00127896
+morto a 2 3 ! ^ & 2 0 00255687 00322443
+prohibitivo a 1 1 & 1 0 00074837
+óptimo a 1 1 & 1 0 00062381
+oral a 3 3 ! ;c ^ 3 0 00001882 00035199 00126678
+non_designado a 1 1 ! 1 0 00100055
+con_peito a 1 1 ! 1 0 00158840
+non_recíproco a 1 2 ! & 1 0 00307508
+non_descritivo a 1 1 ! 1 0 00052900
+permisible a 1 2 ! ^ 1 0 00153679
+corroborador a 1 1 & 1 0 00052840
+ametrópico a 1 1 ! 1 0 00110825
+con_tirador a 1 1 ! 1 0 00246653
+baldeiro a 1 1 ! 1 0 00214467
+de_sangue_quente a 1 1 ! 1 0 00256994
+pouco_esixente a 1 2 ! ^ 1 0 00332786
+non_programado a 2 1 ! 2 0 00198300 00241731
+non_científico a 1 1 ! 1 0 00318009
+conquistable a 1 2 ! ^ 1 0 00115788
+desacostumado a 1 1 & 1 0 00119052
+desconectado a 1 2 ! ^ 1 0 00237722
+épico a 1 0 1 0 00334562
+superficie-aire a 1 1 ! 1 0 00232063
+gracioso a 2 1 & 2 0 00103595 00258967
+en_xogo a 1 2 ! ;c 1 0 00246897
+non_comestible a 1 2 ! ^ 1 0 00278761
+supersticioso a 1 1 & 1 0 00101608
+esponxoso a 1 1 & 1 0 00238849
+retrógrado a 3 2 ! ;c 3 0 00017822 00224635 00270167
+toco a 1 1 & 1 0 00301065
+atribuíbel a 1 1 ! 1 0 00186825
+salino a 1 1 & 1 0 00185645
+non_alugábel a 1 1 ! 1 0 00130951
+ontolóxico a 1 0 1 0 00340042
+destinxido a 1 3 ! ^ & 1 0 00081456
+ambivalente a 1 1 & 1 0 00132815
+dorsal a 2 2 ! ;c 2 0 00200160 00256568
+en_barril a 1 1 ! 1 0 00270799
+encapotado a 1 2 ! & 1 0 00073975
+brando a 3 3 ! ^ & 3 0 00062978 00161973 00192604
+insepulto a 1 1 ! 1 0 00257980
+crecente a 5 1 ! 5 0 00098055 00255081 00279035 00325078 00337126
+subxacente a 1 1 ! 1 0 00232854
+de_diñeiro a 1 1 & 1 0 00220512
+sen_dote a 1 1 ! 1 0 00226954
+planificado a 1 2 ! ^ 1 0 00317185
+embriagado a 1 2 ! & 1 0 00144843
+inaccesible a 2 2 ! = 2 0 00010159 00283518
+con_experiencia a 1 2 ! ^ 1 0 00264082
+triste a 5 4 ! ^ & = 5 0 00189001 00197096 00264383 00279091 00307803
+invertido a 1 2 ! ;c 1 0 00033420
+imperturbable a 4 3 ! ^ & 4 0 00006228 00195368 00230102 00316309
+presentábel a 1 1 & 1 0 00299099
+choromiqueiro a 1 1 & 1 0 00307329
+pregábel a 1 1 ! 1 0 00147431
+soluble a 2 2 ! ^ 2 0 00244245 00324514
+desorganizado a 3 2 ! ^ 3 0 00120767 00204661 00261285
+gratificante a 1 2 ! ^ 1 0 00018694
+desinfectado a 1 2 ! ^ 1 0 00187790
+defendíbel a 1 1 & 1 0 00064546
+restante a 1 1 & 1 0 00100463
+engaiolado a 1 1 & 1 0 00239476
+crónico a 1 3 ! ;c & 1 0 00227149
+ambiguo a 2 2 ! ^ 2 0 00026721 00176926
+non_cobizoso a 1 1 ! 1 0 00160547
+entoado a 1 1 ! 1 0 00077899
+flexíbel a 4 3 ! ;c ^ 4 0 00049766 00077481 00133307 00259964
+autosuficiente a 1 1 & 1 0 00008186
+sincárpico a 1 2 ! ;c 1 0 00174816
+sen_fíos a 1 1 ! 1 0 00305939
+rosado a 1 1 & 1 0 00023646
+acumulado a 1 1 & 1 0 00265292
+anulábel a 1 1 ! 1 0 00032836
+irremediable a 1 1 ! 1 0 00284183
+repetible a 1 1 ! 1 0 00313823
+antecedente a 1 3 ! ^ & 1 0 00175319
+resgardado a 1 2 ! & 1 0 00034966
+céntrico a 1 1 ! 1 0 00056357
+mediterráneo a 1 0 1 0 00336353
+non_retractable a 1 1 ! 1 0 00162037
+sometida a 1 1 ! 1 0 00187394
+non_fidedigno a 1 2 ! ^ 1 0 00097931
+curtido a 1 1 ! 1 0 00163395
+intercambiábel a 2 2 ! = 2 0 00240564 00323263
+inesquecible a 2 2 ! & 2 0 00031158 00166999
+legalmente_non_capacitado a 1 1 ! 1 0 00280989
+mononucleado a 1 2 ! ;c 1 0 00244541
+afrodisíaco a 1 1 ! 1 0 00031892
+suave a 3 2 ! ^ 3 0 00172838 00286969 00311399
+non_convincente a 1 2 ! ^ 1 0 00283032
+podente a 1 1 ! 1 0 00203694
+de_investigación a 1 1 & 1 0 00099861
+espontáneo a 2 3 ! ^ & 2 0 00069213 00271196
+actinomorfo a 1 2 ! ;c 1 0 00305657
+do_día a 1 1 ! 1 0 00257434
+suplicante a 1 2 ! & 1 0 00264006
+estimábel a 1 2 ! ^ 1 0 00178969
+inescrutábel a 1 1 & 1 0 00291314
+aromático a 1 2 ! & 1 0 00091078
+abovedado a 1 1 & 1 0 00308668
+imponderábel a 1 1 ! 1 0 00004907
+trapalleiro a 1 0 1 0 00221651
+anacarado a 1 1 & 1 0 00034742
+anticolinérxico a 1 1 ! 1 0 00301229
+competente_para_os_cálculos a 1 3 ! ^ = 1 0 00313108
+vacilante a 4 3 ! ^ & 4 0 00002121 00020115 00118552 00309404
+útil a 3 4 ! ^ & = 3 0 00016430 00027827 00097347
+curable a 2 1 ! 2 0 00120245 00212619
+nominal a 1 2 ! ;c 1 0 00039544
+descentralizado a 1 1 ! 1 0 00253278
+individual a 2 4 ! ;c ^ & 2 0 00047968 00229402
+semellante a 2 3 ! ^ = 2 0 00029577 00189676
+de_ollos_secos a 1 1 ! 1 0 00304504
+chuvioso a 1 1 & 1 0 00329012
+esperable a 1 1 ! 1 0 00042968
+afable a 2 3 ! ^ & 2 0 00207859 00297459
+non_residente a 1 1 ! 1 0 00075602
+non_acostumado a 1 1 ! 1 0 00076485
+imperforábel a 1 1 ! 1 0 00160607
+sen_límites a 1 1 & 1 0 00185030
+volátil a 1 3 ! ;c ^ 1 0 00223935
+lexible a 1 1 ! 1 0 00088258
+caro a 1 3 ! ^ & 1 0 00194081
+histórico a 1 1 ! 1 0 00232184
+compacto a 1 3 ! ^ & 1 0 00254091
+ovovivíparo a 1 1 ! 1 0 00264729
+inmutable a 4 2 ! ^ 4 0 00007598 00193860 00200038 00225922
+inadoptable a 1 1 ! 1 0 00077214
+infrecuente a 1 2 ! ^ 1 0 00316528
+descalzo a 3 3 ! ;c & 3 0 00081400 00160404 00207659
+sen_pegadas a 1 1 ! 1 0 00161914
+non_decorado a 1 3 ! ^ & 1 0 00127896
+articulado a 2 3 ! ^ & 2 0 00222938 00244764
+paternal a 3 3 ! ^ & 3 0 00101080 00157920 00275433
+do_contrario a 1 1 & 1 0 00319655
+punitivo a 1 2 ! & 1 0 00095860
+infatigábel a 1 1 & 1 0 00149141
+seleccionado a 1 1 ! 1 0 00208978
+lúgubre a 2 1 & 2 0 00013621 00264383
+inconsciente a 4 2 ! ^ 4 0 00051025 00147250 00159899 00200982
+inmutábel a 3 1 ! 3 0 00007598 00193860 00200038
+antisocial a 2 2 ! ^ 2 0 00242276 00318398
+con_abotoadura_simple a 1 1 ! 1 0 00256013
+ambarino a 1 1 & 1 0 00051228
+mesiánico a 1 0 1 0 00338735
+previsor a 1 2 ! ^ 1 0 00038140
+cagón a 2 4 ! ^ & = 2 0 00097844 00100903
+xenital a 1 0 1 0 00334772
+non_dispoñíbel a 1 1 ! 1 0 00134237
+inafundíbel a 1 1 ! 1 0 00321449
+patrocinado a 1 1 ! 1 0 00184377
+sinistro a 1 2 ! ^ 1 0 00068541
+matemático a 1 1 ! 1 0 00090324
+enraizado a 1 1 & 1 0 00089280
+inmerecido a 2 2 ! & 2 0 00071179 00280514
+inexperto a 1 1 ! 1 0 00309347
+introspectivo a 1 0 1 0 00223871
+non_servil a 1 1 ! 1 0 00324647
+imperceptible a 3 3 ! ^ & 3 0 00102677 00104698 00138876
+excelente a 2 2 ;r & 2 0 00002808 00206568
+casto a 1 3 ! ^ = 1 0 00246348
+cerebral a 1 1 ! 1 0 00231360
+en_orde a 1 1 & 1 0 00317284
+contrastado a 1 1 ! 1 0 00261918
+favorábel a 7 3 ! ^ & 7 0 00003506 00059986 00065158 00144508 00171496 00236868 00267344
+nidiamente a 1 1 & 1 0 00243103
+intestinal a 1 0 1 0 00339116
+de_confianza a 1 2 ! ^ 1 0 00276400
+anubrado a 1 2 ! & 1 0 00073975
+flexionado a 2 2 ! ;c 2 0 00016317 00075298
+con_propósito a 1 2 ! ^ 1 0 00219399
+verbal a 1 1 ! 1 0 00225625
+autista a 1 1 & 1 0 00071124
+cunha_calor_abafante a 1 0 1 0 00259203
+pirético a 1 1 ! 1 0 00258426
+antiséptico a 1 2 ! ^ 1 0 00312607
+impecable a 2 1 & 2 0 00177224 00267088
+en_forma_de_cabaza a 1 2 ! ^ 1 0 00306334
+fatigante a 1 1 & 1 0 00275367
+exhausto a 1 1 ! 1 0 00205611
+sen_balcón a 1 1 ! 1 0 00126536
+lousado a 1 1 & 1 0 00209895
+láparo a 1 1 ! 1 0 00139950
+fraterno a 2 1 ! 2 0 00176302 00198098
+non_afiado a 1 1 ! 1 0 00176218
+non_nítido a 1 2 ! ^ 1 0 00041910
+dialéctico a 1 0 1 0 00338338
+inoperable a 1 1 ! 1 0 00122692
+separábel a 1 1 & 1 0 00002249
+incapaz a 5 2 ! ^ 5 0 00023029 00026812 00114998 00131152 00232970
+non_deliñábel a 1 1 ! 1 0 00156561
+alentador a 2 3 ! ^ & 2 0 00250948 00305126
+inorgánico a 2 2 ! ;c 2 0 00068029 00188650
+saciado a 1 1 ! 1 0 00033845
+invencíbel a 1 1 & 1 0 00312026
+explicable a 1 2 ! ^ 1 0 00205728
+sen_restrición a 2 3 ! ^ & 2 0 00022252 00327538
+fóra_de_forma a 1 3 ! ^ & 1 0 00045840
+incontestábel a 1 2 ! ^ 1 0 00180735
+indeciso a 2 3 ! ^ & 2 0 00182374 00200570
+de_vía_simple a 1 1 ! 1 0 00289123
+submiso a 3 2 ! ^ 3 0 00073532 00130754 00288097
+intanxíbel a 2 2 ! ^ 2 0 00036754 00143025
+metido a 1 1 ! 1 0 00187394
+non_compartido a 1 2 ! ^ 1 0 00229908
+non_admitido a 1 1 ! 1 0 00257058
+desbaldidor a 1 3 ! ^ & 1 0 00029724
+repleto a 1 1 & 1 0 00287031
+epizoico a 1 1 ! 1 0 00198042
+non_premeditado a 2 2 ! ^ 2 0 00166016 00177128
+solitario a 1 2 ! ^ 1 0 00318398
+sen_embalaxe a 1 1 ! 1 0 00158246
+sen_follas a 1 1 ! 1 0 00283113
+manchado a 2 3 ! ^ & 2 0 00231929 00255317
+recto a 4 3 ! ^ = 4 0 00001412 00101498 00117177 00272074
+pechado a 7 3 ! ;c ^ 7 0 00009303 00017219 00022594 00056601 00192129 00214590 00327105
+sostible a 1 0 1 0 00333410
+non_inventariado a 1 0 1 0 00210117
+imperante a 1 1 & 1 0 00243021
+con_cámara a 1 1 ! 1 0 00260786
+vantaxoso a 1 3 ! ^ & 1 0 00059986
+de_simetría_bilateral a 1 2 ! ;c 1 0 00081946
+tonal a 1 2 ! ;c 1 0 00017520
+desautorizado a 1 3 ! ^ & 1 0 00186580
+anglosaxón a 1 0 1 0 00337164
+inapelable a 2 1 ! 2 0 00175521 00176119
+insoluble a 1 1 ! 1 0 00012485
+de_choiva a 1 1 & 1 0 00329012
+autoafirmativo a 1 2 ! ^ 1 0 00197625
+anovado a 1 1 & 1 0 00277600
+costa_abaixo a 1 1 & 1 0 00202912
+empeorado a 1 1 ! 1 0 00245141
+axitado a 6 3 ! ^ & 6 0 00016375 00058308 00079634 00145451 00271794 00286348
+banal a 1 1 & 1 0 00199391
+sen_importancia a 1 2 ! ^ 1 0 00085046
+irónico a 1 1 & 1 0 00097068
+apetitoso a 1 2 ! ^ 1 0 00025912
+punteiro a 1 1 ! 1 0 00078655
+non_asertivo a 1 2 ! ^ 1 0 00157707
+invisíbel a 2 3 ! ^ & 2 0 00100779 00146504
+desfavorecedor a 1 1 ! 1 0 00009621
+emetrópico a 1 1 ! 1 0 00065523
+censurado a 1 1 ! 1 0 00313311
+disperso a 1 1 & 1 0 00296152
+dentro_de_liña a 1 1 ! 1 0 00145377
+con_perruca a 1 1 ! 1 0 00003112
+interior a 5 3 ! ^ = 5 0 00003171 00202351 00252291 00275500 00330603
+candente a 2 1 & 2 0 00010529 00300476
+inevitábel a 3 2 ! & 3 0 00119581 00291886 00297017
+basiscópico a 1 2 ! ;c 1 0 00224028
+navegábel a 1 1 & 1 0 00235525
+inconsistente a 1 2 ! ^ 1 0 00182521
+manipulador a 1 1 & 1 0 00177703
+abraiado a 4 1 & 4 0 00060636 00068485 00179676 00188908
+unifamiliar a 1 2 ! ;c 1 0 00229402
+sen_brazos a 1 1 ! 1 0 00315910
+flegmático a 1 1 ! 1 0 00031465
+traducíbel a 1 1 ! 1 0 00138370
+insomerxible a 1 1 ! 1 0 00260060
+sen_apoio a 1 1 ! 1 0 00251276
+carnoso a 1 0 1 0 00200662
+sen_destinado a 1 1 ! 1 0 00069290
+sen_censura a 1 1 ! 1 0 00197906
+non_perceptivo a 1 1 ! 1 0 00232256
+ateigado a 3 2 ! & 3 0 00220083 00250071 00292243
+translúcido a 1 1 & 1 0 00028031
+irracional a 1 3 ! ^ & 1 0 00220337
+entomófilo a 1 1 ! 1 0 00206644
+excitado a 1 3 ! ^ & 1 0 00107469
+desarmante a 1 1 & 1 0 00047488
+neboento a 1 1 & 1 0 00192813
+aquí a 1 1 & 1 0 00237669
+non_operativo a 1 1 ! 1 0 00179471
+a_man a 1 1 ! 1 0 00324338
+insolidario a 1 2 ! ^ 1 0 00037982
+non_prénsil a 1 1 ! 1 0 00003624
+amedrentado a 1 1 & 1 0 00168112
+asexual a 1 2 ! = 1 0 00169997
+non_adictivo a 1 1 ! 1 0 00005753
+non_amidonado a 1 1 ! 1 0 00078269
+uterino a 1 1 ! 1 0 00094630
+cara_adiante a 2 2 ! & 2 0 00052200 00145083
+horrible a 1 1 & 1 0 00167156
+sideral a 1 1 ! 1 0 00213747
+subscrito a 1 2 ! ;c 1 0 00047546
+bibliográfico a 1 0 1 0 00339962
+corrixible a 1 1 ! 1 0 00290341
+non_reembolsable a 1 1 ! 1 0 00123825
+ininterpretable a 1 1 ! 1 0 00013298
+non_bebible a 1 1 ! 1 0 00204558
+imprescindible a 1 3 ! ^ & 1 0 00142250
+revés a 1 1 ! 1 0 00217861
+renarte a 1 1 & 1 0 00092565
+interrogante a 1 3 ! ^ & 1 0 00130470
+indispensable a 1 2 ! ^ 1 0 00122596
+vulnerábel a 1 3 ! ^ & 1 0 00186163
+residencial a 1 1 ! 1 0 00057756
+fácil a 3 2 ! ^ 3 0 00171496 00305321 00325379
+frenético a 3 1 & 3 0 00006740 00095791 00271138
+intolerante a 4 2 ! ^ 4 0 00110142 00123683 00135221 00179617
+ao_azar a 1 1 ! 1 0 00054686
+sen_ollo a 1 1 ! 1 0 00115390
+sen_especialización a 1 2 ! ^ 1 0 00199932
+conservado a 1 1 ! 1 0 00298913
+impar a 1 1 ! 1 0 00104036
+aconsellable a 1 2 ! ^ 1 0 00288344
+sen_soporte a 1 1 ! 1 0 00251276
+sorprendente a 2 3 ! ^ & 2 0 00053737 00282762
+sen_atractivo a 1 3 ! ^ & 1 0 00252365
+odioso a 2 1 & 2 0 00213290 00255493
+casual a 1 1 & 1 0 00232380
+híspido a 1 2 ! & 1 0 00181480
+con_correntes a 1 0 1 0 00065704
+desempregado a 1 3 ! ^ & 1 0 00197150
+arredondado a 1 3 ! ^ & 1 0 00105499
+refrixerador a 1 0 1 0 00293471
+de_catro_pés a 1 1 ! 1 0 00310804
+con_esforzo a 1 3 ! ^ & 1 0 00074092
+fadado a 1 1 & 1 0 00304048
+coidado a 1 3 ! ^ & 1 0 00003929
+sincategoremático a 1 1 ! 1 0 00233190
+centralizado a 1 1 ! 1 0 00125888
+tanto..._coma a 1 0 1 0 00029577
+aplacable a 1 1 ! 1 0 00163809
+endoérxico a 1 2 ! ^ 1 0 00310699
+sen_emocións a 1 2 ! ^ 1 0 00113436
+querido a 1 0 1 0 00094462
+non_planeado a 1 1 ! 1 0 00177128
+de_merda a 1 0 1 0 00158077
+acomodado a 1 2 ! ;c 1 0 00222851
+precario a 3 3 ! ^ & 3 0 00024581 00091662 00325531
+non_mesturable a 1 2 ! ;c 1 0 00040992
+conxelado a 1 1 ! 1 0 00174759
+encanecido a 1 1 & 1 0 00071530
+desestruturado a 1 2 ! ^ 1 0 00204661
+enerxético a 1 3 ! ^ & 1 0 00087089
+antártico a 1 1 & 1 0 00202576
+inconquistábel a 1 3 ! ^ & 1 0 00012684
+plantígrado a 1 2 ! ;c 1 0 00227318
+mal_usado a 1 1 ! 1 0 00093887
+non_fisíbel a 1 2 ! ;c 1 0 00248171
+terra-aire a 1 1 ! 1 0 00232063
+antipersoa a 1 1 & 1 0 00212452
+de_algas a 1 0 1 0 00333545
+cromático a 2 5 ! ;c ^ & = 2 0 00075786 00288725
+non_iónico a 1 1 ! 1 0 00208685
+cambiante a 2 3 ! ^ & 2 0 00089837 00293777
+inconvertíbel a 1 2 ! = 1 0 00124935
+inoxidábel a 1 1 ! 1 0 00155922
+cincento a 1 1 & 1 0 00151547
+inadaptativo a 1 1 ! 1 0 00282630
+desdentado a 1 1 ! 1 0 00329714
+endóxeno a 1 1 ! 1 0 00218282
+relucente a 2 1 & 2 0 00065017 00174416
+favorecedor a 1 2 ! & 1 0 00272841
+staccato a 1 2 ! ;c 1 0 00289255
+futurista a 1 0 1 0 00339637
+comprometido a 3 3 ! ^ & 3 0 00201114 00231665 00303746
+secular a 3 2 ! ^ 3 0 00014322 00084538 00092188
+non_impulsado a 1 1 ! 1 0 00300239
+perforable a 1 1 ! 1 0 00096996
+enérxico a 1 2 ! & 1 0 00010939
+abarrotado a 1 2 ! & 1 0 00250071
+sen_dedos a 2 1 ! 2 0 00205991 00274951
+repentino a 1 2 ! ^ 1 0 00073211
+non_nato a 1 1 ! 1 0 00035907
+non_escalable a 1 1 ! 1 0 00172023
+enguedellado a 1 1 ! 1 0 00059410
+para_quentar_a_boca a 1 1 ! 1 0 00072020
+psicótropo a 1 1 ! 1 0 00287353
+homocerco a 1 2 ! ;c 1 0 00043119
+caprichoso a 1 1 & 1 0 00289399
+innegable a 1 2 ! ^ 1 0 00306700
+rifado a 1 1 & 1 0 00044414
+ultravioleta a 1 1 & 1 0 00005521
+garimoso a 1 1 & 1 0 00053360
+adxunto a 1 1 ! 1 0 00012296
+tremendo a 1 1 & 1 0 00229699
+interdependente a 1 1 & 1 0 00259253
+indisciplinado a 1 1 & 1 0 00077288
+islámico a 1 0 1 0 00336697
+defendible a 1 1 & 1 0 00064546
+civil a 2 1 ! 2 0 00194469 00229155
+desbotable a 1 1 ! 1 0 00148366
+profanado a 1 1 ! 1 0 00185821
+inimaxinable a 1 1 & 1 0 00228233
+progresista a 2 3 ! ^ & 2 0 00058086 00319521
+piadoso a 2 4 ! ^ & = 2 0 00073359 00258537
+leal a 2 2 ! ^ 2 0 00095004 00145006
+estrañado a 1 1 & 1 0 00060636
+atónito a 1 1 & 1 0 00060636
+de_desprezo a 1 1 & 1 0 00205019
+con_carburante a 1 1 ! 1 0 00148166
+subsidiario a 1 1 & 1 0 00197566
+porco a 1 3 ! ^ & 1 0 00171307
+rancio a 1 3 ! ^ & 1 0 00200440
+aromatizado a 1 1 & 1 0 00314749
+nocivo a 2 3 ! ^ & 2 0 00051757 00152942
+non_dixerible a 1 2 ! ^ 1 0 00277124
+paciente a 1 2 ! ^ 1 0 00111819
+sindical a 1 1 ! 1 0 00228601
+combinatorio a 1 1 ! 1 0 00137362
+con_cama a 1 1 ! 1 0 00002455
+impresionábel a 1 1 ! 1 0 00283592
+desagradecido a 1 1 ! 1 0 00321185
+purificado a 1 1 ! 1 0 00268965
+convencional a 3 3 ! ^ & 3 0 00030457 00042120 00316450
+unicameral a 1 1 ! 1 0 00094220
+daquela a 1 1 & 1 0 00088771
+san a 7 4 ! ^ & = 7 0 00026151 00040139 00183105 00221897 00286005 00311543 00329514
+conceptual a 1 1 & 1 0 00268550
+topográfico a 1 0 1 0 00333839
+icomparábel a 1 3 ! ^ & 1 0 00207320
+indiscreto a 3 2 ! ^ 3 0 00213560 00329080 00330715
+procesual a 1 1 ! 1 0 00024855
+monoovular a 1 1 ! 1 0 00276263
+tántrico a 1 0 1 0 00333747
+non_causal a 1 1 ! 1 0 00059576
+gutural a 1 0 1 0 00262796
+non_timbrado a 1 1 ! 1 0 00157448
+sen_calzado a 1 2 ! & 1 0 00160404
+sen_acompañamento a 1 1 ! 1 0 00129528
+amorfo a 1 1 ! 1 0 00242048
+de_comportamento a 1 0 1 0 00338938
+arqueolóxico a 1 0 1 0 00340729
+ningún a 1 1 ! 1 0 00084789
+difundido a 1 1 ! 1 0 00286413
+larpeiro a 1 1 ! 1 0 00139950
+visíbel a 2 3 ! ^ & 2 0 00180022 00251362
+de_cabelo_claro a 1 1 ! 1 0 00055399
+multirracial a 1 1 & 1 0 00027377
+sen_clave a 1 2 ! ;c 1 0 00240746
+asindético a 1 2 ! ;c 1 0 00136157
+acolchado a 1 1 & 1 0 00022333
+embarrilado a 1 1 ! 1 0 00270799
+descortés a 4 3 ! ^ & 4 0 00007923 00061512 00129042 00147181
+maior a 2 2 ! ^ 2 0 00177350 00298251
+sen_desexo a 1 1 ! 1 0 00103022
+intratable a 1 2 ! ^ 1 0 00049466
+necio a 1 1 & 1 0 00115735
+osudo a 1 1 ! 1 0 00273401
+animado a 7 4 ! ;c ^ & 7 0 00064124 00099926 00107469 00192694 00235740 00299715 00302265
+caníbal a 1 0 1 0 00335702
+braquicéfalo a 1 1 ! 1 0 00071826
+semipermanente a 1 0 1 0 00277865
+premeditado a 2 2 ! ^ 2 0 00011988 00104943
+non_aliñado a 1 1 ! 1 0 00175964
+de_popa a 1 2 ! ^ 1 0 00187540
+renegado a 1 1 & 1 0 00011545
+imperforable a 1 1 ! 1 0 00160607
+agre a 1 2 ! ^ 1 0 00085144
+continente a 1 1 ! 1 0 00056414
+cara_atrás a 2 2 ! ^ 2 0 00239964 00321952
+vendido a 1 1 ! 1 0 00159026
+apaixonado a 2 3 ! ^ & 2 0 00236132 00253866
+insolúbel a 1 1 ! 1 0 00012485
+descruzado a 1 1 ! 1 0 00174701
+sinxelo a 3 4 ! ^ & = 3 0 00031259 00080420 00207980
+catastrofista a 1 0 1 0 00339236
+irritábel a 1 2 ! ^ 1 0 00086988
+conseguinte a 1 1 & 1 0 00189112
+vivaz a 1 1 & 1 0 00313055
+non_desbotable a 1 1 ! 1 0 00165303
+non_ético a 1 2 ! ^ 1 0 00121712
+reservado a 4 3 ! ^ & 4 0 00089051 00137860 00215559 00245030
+artesanal a 1 1 ! 1 0 00172167
+zancudo a 1 1 & 1 0 00036624
+non_emprendedor a 1 2 ! ^ 1 0 00125509
+identificábel a 1 0 1 0 00082583
+non_dinámico a 1 1 ! 1 0 00135716
+trimestral a 1 0 1 0 00336146
+con_receita_médica a 1 2 ! ;c 1 0 00326001
+lendario a 1 1 & 1 0 00080950
+tristemente_célebre a 1 1 & 1 0 00278427
+adnato a 1 2 ! ;c 1 0 00029043
+drástico a 1 1 & 1 0 00249005
+decisorio a 1 3 ! ^ & 1 0 00116035
+suboficial a 1 1 ! 1 0 00110084
+saudable a 6 4 ! ^ & = 6 0 00026151 00033563 00040139 00280777 00287226 00329514
+festivo a 2 1 & 2 0 00173845 00182466
+timbrado a 1 1 ! 1 0 00286725
+catastrófico a 2 1 & 2 0 00048245 00305735
+solvente a 1 1 ! 1 0 00285107
+diante a 1 1 & 1 0 00052200
+comunista a 1 0 1 0 00337244
+diversos a 1 0 1 0 00007005
+non_fiable a 2 2 ! ^ 2 0 00097931 00144638
+irreverente a 1 3 ! ^ & 1 0 00134081
+admitido a 1 2 ! ^ 1 0 00163602
+mortal a 2 2 ! & 2 0 00085593 00269289
+desaparellado a 1 1 ! 1 0 00134176
+lavable a 1 1 ! 1 0 00246282
+preocupante a 2 3 ! & = 2 0 00134319 00319226
+sedentario a 1 1 & 1 0 00302763
+non_castrado a 1 1 ! 1 0 00011775
+desaliñado a 1 3 ! ^ & 1 0 00297603
+enfeitizado a 2 1 & 2 0 00141428 00168195
+imperturbábel a 4 3 ! ^ & 4 0 00006228 00195368 00230102 00316309
+agonizante a 2 2 ! & 2 0 00072698 00208134
+cornudo a 1 1 ! 1 0 00248679
+exocéntrico a 1 2 ! ;c 1 0 00291958
+sen_fins_de_lucro a 1 1 & 1 0 00314355
+inutilizábel a 1 1 & 1 0 00235993
+rh-negativo a 1 1 ! 1 0 00112903
+non_planificado a 1 1 ! 1 0 00177128
+racional a 1 2 ! ^ 1 0 00139781
+desprendido a 1 1 ! 1 0 00201174
+inafundible a 1 1 ! 1 0 00321449
+revogable a 2 1 ! 2 0 00032836 00304580
+por_riba_da_cabeza a 1 2 ! ;c 1 0 00071595
+inerte a 1 2 ! ;c 1 0 00166660
+recuberto a 2 2 ! & 2 0 00262727 00283405
+de_bo_corazón a 1 1 ! 1 0 00269902
+non_diluído a 1 1 ! 1 0 00001635
+á_dereita a 1 2 ! ^ 1 0 00181704
+heliocéntrico a 1 1 ! 1 0 00093060
+abandonado a 1 1 & 1 0 00206048
+laxante a 1 1 ! 1 0 00131453
+inalterado a 3 3 ! ^ & 3 0 00004539 00044088 00066351
+solicitado a 2 2 ! & 2 0 00034274 00267213
+beneficiado a 1 1 ! 1 0 00298984
+de_ferro a 1 1 & 1 0 00246141
+transeúnte a 1 1 ! 1 0 00075602
+educado a 2 1 ! 2 0 00191115 00332506
+desconexo a 1 2 ! ^ 1 0 00237722
+inconciliábel a 1 1 ! 1 0 00061268
+inmóbil a 2 0 2 0 00200038 00280731
+propicio a 3 3 ! ^ & 3 0 00065158 00133635 00191820
+entreaberto a 1 1 & 1 0 00255758
+non_derrogábel a 1 1 ! 1 0 00287869
+malsán a 1 3 ! ^ & 1 0 00253341
+devandito a 1 1 & 1 0 00300024
+inclusivo a 1 1 ! 1 0 00063359
+preocupado a 1 2 ! ^ 1 0 00045209
+posíbel a 4 2 ! & 4 0 00101432 00112962 00131027 00185385
+de_menos a 1 1 ! 1 0 00111524
+aterrado a 2 1 & 2 0 00168112 00317845
+despectivo a 2 1 & 2 0 00205019 00276809
+mollado a 2 2 ! & 2 0 00155731 00180340
+celular a 1 2 ! ;c 1 0 00271384
+transparente a 2 2 ! & 2 0 00073096 00192813
+expreso a 1 2 ! ^ 1 0 00015749
+sobresaliente a 1 1 & 1 0 00053959
+datable a 1 1 ! 1 0 00313368
+sen_tecer a 1 1 ! 1 0 00140409
+exorbitante a 1 0 1 0 00124350
+cobizoso a 1 1 ! 1 0 00138176
+termoplástico a 1 1 ! 1 0 00168768
+de_iure a 1 1 ! 1 0 00332451
+xubilado a 1 1 & 1 0 00050464
+non_condutor a 1 1 ! 1 0 00034597
+estilizado a 1 1 ! 1 0 00224732
+enmarañado a 1 1 ! 1 0 00059410
+adolescente a 1 1 & 1 0 00184971
+conquistábel a 1 2 ! ^ 1 0 00115788
+paifoco a 1 1 & 1 0 00102129
+poboado a 1 0 1 0 00241455
+mestizo a 1 2 ! & 1 0 00297887
+innegábel a 1 2 ! ^ 1 0 00306700
+negábel a 1 1 ! 1 0 00236441
+anticlímax a 1 1 ! 1 0 00043882
+mundano a 1 2 ! ^ 1 0 00014322
+inconcibíbel a 2 3 ! ^ & 2 0 00019537 00228233
+antiafrodisíaco a 1 1 ! 1 0 00185757
+salvaxe a 2 2 ! ^ 2 0 00266592 00306627
+profético a 1 1 ! 1 0 00249627
+extensible a 1 1 ! 1 0 00285163
+seguro a 9 4 ! ^ & = 9 0 00005813 00008248 00106257 00166097 00174362 00194504 00218483 00246825 00331709
+admisíbel a 1 2 ! = 1 0 00064618
+de_espora_curta a 1 1 ! 1 0 00004410
+coa_cara_lavada a 1 1 ! 1 0 00273023
+seguinte a 3 3 ! ^ & 3 0 00187881 00208886 00298381
+insociábel a 1 2 ! ^ 1 0 00242276
+periférico a 1 1 ! 1 0 00271849
+ouvinte a 1 1 ! 1 0 00183344
+desafiante a 1 2 ! ^ 1 0 00202634
+punzante a 1 0 1 0 00268815
+de_vía_múltiple a 1 1 ! 1 0 00144431
+compatible a 4 4 ! ;c ^ & 4 0 00014849 00064016 00203562 00330088
+en_color a 1 1 ! 1 0 00091862
+inequívoco a 2 2 ! ^ 2 0 00051669 00222415
+simétrico a 1 2 ! ^ 1 0 00287684
+dotado a 1 1 ! 1 0 00249573
+demandado a 1 3 ! ^ & 1 0 00249745
+irrevogábel a 2 1 ! 2 0 00202007 00287869
+agoirento a 1 1 & 1 0 00101551
+traballador_independente a 1 1 ! 1 0 00314878
+sen_cama a 1 1 ! 1 0 00219166
+enxeñoso a 3 3 ! ^ & 3 0 00038735 00091184 00296579
+soportado a 1 1 ! 1 0 00054753
+concentrado a 4 3 ! ^ & 4 0 00226015 00229768 00254753 00315443
+percibido a 1 1 ! 1 0 00043062
+transitorio a 2 1 & 2 0 00025473 00123613
+bestial a 1 0 1 0 00235296
+resistíbel a 1 1 ! 1 0 00253794
+destro a 3 3 ! ^ & 3 0 00074397 00240831 00251177
+para_fóra a 1 1 ! 1 0 00221333
+indoloro a 1 2 ! ^ 1 0 00161156
+dispneico a 1 3 ! ^ & 1 0 00087960
+dócil a 1 2 ! ^ 1 0 00130754
+asesor a 1 0 1 0 00030347
+feito_á_man a 1 1 ! 1 0 00172167
+perlado a 1 1 & 1 0 00034742
+non_sexual a 1 2 ! = 1 0 00169997
+embaixo a 1 2 ! ^ 1 0 00312525
+traballador_por_conta_propia a 1 1 ! 1 0 00314878
+emprendedor a 1 2 ! ^ 1 0 00264807
+invertible a 1 1 ! 1 0 00192410
+auxiliado a 1 1 ! 1 0 00224567
+constante a 6 3 ! ^ & 6 0 00018197 00130085 00146365 00218123 00269351 00330088
+a_tempo_parcial a 1 1 ! 1 0 00213666
+invicto a 1 2 ! ^ 1 0 00160259
+interpretable a 1 1 ! 1 0 00316605
+debilitante a 1 1 ! 1 0 00275138
+mensual a 1 1 & 1 0 00041703
+non_estrinxido a 1 1 ! 1 0 00269964
+continuo a 5 4 ! ;c ^ & 5 0 00083425 00130085 00146365 00218123 00318574
+de_cabelo_gris a 1 1 & 1 0 00024191
+non_relatado a 1 1 ! 1 0 00248371
+médico a 1 1 ! 1 0 00137231
+non_aguzado a 1 1 ! 1 0 00176218
+desabrochado a 1 1 ! 1 0 00201174
+ortodoxo a 1 2 ! ^ 1 0 00290128
+non_periódico a 1 1 ! 1 0 00154746
+árido a 2 2 ! & 2 0 00030828 00115075
+deshumanizado a 1 0 1 0 00088066
+contábel a 1 1 & 1 0 00124115
+emendado a 1 1 ! 1 0 00106322
+indemne a 1 2 ! ^ 1 0 00265550
+consoante a 1 1 ! 1 0 00324820
+minguado a 1 1 ! 1 0 00011288
+civilizado a 1 2 ! ^ 1 0 00181386
+ventilado a 1 1 ! 1 0 00329772
+desaproveitado a 1 1 ! 1 0 00011288
+relatado a 1 1 ! 1 0 00014008
+ampliado a 1 1 ! 1 0 00231466
+acantilado a 1 1 ! 1 0 00114511
+esvaradío a 1 2 ! ^ 1 0 00241285
+vibrante a 2 1 & 2 0 00183890 00302821
+notorio a 1 1 & 1 0 00278427
+que_respira a 1 1 ! 1 0 00097277
+non_declarábel a 1 1 ! 1 0 00151603
+resumido a 1 1 ! 1 0 00069729
+respectable a 2 3 ! ^ & 2 0 00014452 00154931
+sincronizado a 1 3 ! ^ & 1 0 00041197
+estábel a 2 2 ! ^ 2 0 00074942 00269351
+sabio a 1 2 ! ^ 1 0 00115129
+vendible a 1 1 ! 1 0 00180106
+ansiado a 1 1 & 1 0 00229586
+afundible a 1 1 ! 1 0 00047754
+inamovible a 1 1 ! 1 0 00007598
+desapracíbel a 1 3 ! ^ & 1 0 00278582
+cristalino a 1 1 ! 1 0 00252763
+dixerible a 1 2 ! ^ 1 0 00274300
+amoblado a 1 2 ! ;c 1 0 00033913
+frecuentado a 1 1 ! 1 0 00184377
+no_exterior a 1 1 & 1 0 00075385
+non_estimulante a 1 2 ! ^ 1 0 00259316
+non_integral a 1 1 ! 1 0 00140568
+homoxéneo a 1 1 ^ 1 0 00250181
+adiantado a 2 2 ! & 2 0 00052200 00152500
+do_oeste a 1 1 ! 1 0 00019694
+non_tributable a 1 2 ! ^ 1 0 00243674
+non_decisivo a 2 3 ! ^ = 2 0 00062750 00120311
+fumegante a 1 1 & 1 0 00240948
+sen_nubes a 1 1 & 1 0 00135298
+unipolar a 1 1 ! 1 0 00022743
+non_político a 1 2 ! ^ 1 0 00310941
+algún a 1 1 ! 1 0 00112663
+prendido a 1 2 ! & 1 0 00227397
+interpersoal a 1 1 & 1 0 00092307
+anónimo a 3 2 ! & 3 0 00060783 00097788 00290413
+invulnerable a 1 3 ! ^ & 1 0 00272504
+estral a 1 2 ! ;c 1 0 00108240
+trasmontano a 1 1 ! 1 0 00244956
+de_temporada a 1 0 1 0 00215204
+zonal a 1 1 ! 1 0 00292913
+gordo a 2 3 ! ^ & 2 0 00003263 00081785
+rachado a 1 1 ! 1 0 00035603
+cúbico a 2 2 ! & 2 0 00254516 00305549
+descargado a 1 2 ! ;c 1 0 00216297
+xenoxénico a 1 1 ! 1 0 00204834
+combativo a 1 1 & 1 0 00294559
+inaceptábel a 1 2 ! ^ 1 0 00015950
+non_teatral a 1 1 ! 1 0 00210000
+desanimado a 2 2 ! & 2 0 00048081 00156973
+brunido a 1 1 & 1 0 00193795
+sen_lingüeta a 1 1 ! 1 0 00185470
+ensimesmado a 1 1 & 1 0 00034683
+stalinista a 1 0 1 0 00333671
+neutral a 1 1 & 1 0 00217639
+atractivo a 7 5 ! ;c ^ & = 7 0 00007043 00051085 00063565 00102821 00197495 00229519 00328090
+estirado a 1 1 & 1 0 00303159
+exploratorio a 1 2 ! & 1 0 00096265
+de_tapa_dura a 1 1 & 1 0 00152557
+outro a 2 3 ! ^ & 2 0 00211510 00214252
+retractable a 1 1 ! 1 0 00097714
+asombroso a 2 1 & 2 0 00061666 00303964
+cara_ao_norte a 1 1 ! 1 0 00102254
+baleirado a 1 1 ! 1 0 00116157
+acelular a 1 2 ! & 1 0 00275293
+apelable a 1 1 ! 1 0 00166280
+transitábel a 1 2 ! & 1 0 00072476
+non_sarcástico a 1 2 ! = 1 0 00038059
+non_rexenerado a 1 2 ! ^ 1 0 00140914
+somerxible a 1 1 ! 1 0 00199162
+extraterritorial a 1 1 ! 1 0 00330220
+territorial a 2 2 ! ;c 2 0 00097655 00220663
+sen_obxectivo a 1 3 ! ^ & 1 0 00005099
+retentivo a 1 2 ! ^ 1 0 00140168
+sen_aire a 1 1 & 1 0 00241229
+ignorante a 1 2 ! ^ 1 0 00062587
+coroado a 1 1 ! 1 0 00078792
+especial a 1 1 & 1 0 00130189
+estruturado a 1 2 ! ^ 1 0 00283729
+non_arrepentido a 2 1 ! 2 0 00315366 00316309
+inimaxinábel a 1 1 & 1 0 00228233
+elipsoidal a 1 1 & 1 0 00167508
+inaceptable a 1 2 ! ^ 1 0 00015950
+irrecoñecible a 1 0 1 0 00091304
+sexuado a 1 2 ! = 1 0 00099436
+devorador a 1 1 & 1 0 00192756
+hormonal a 1 0 1 0 00340365
+inapreciábel a 1 1 ! 1 0 00104698
+malicioso a 2 2 ! & 2 0 00319082 00326729
+non_deducíbel a 1 1 ! 1 0 00046112
+diminuto a 1 0 1 0 00014076
+rasposo a 1 1 & 1 0 00288802
+fugaz a 1 0 1 0 00010607
+agradecido a 1 1 ! 1 0 00159587
+rutineiro a 1 1 & 1 0 00221146
+inelixíbel a 1 2 ! ^ 1 0 00283171
+teórico a 2 2 ! & 2 0 00173900 00292037
+tribal a 1 0 1 0 00339406
+confiado a 3 3 ! ^ & 3 0 00005813 00136418 00331789
+continuado a 1 1 ! 1 0 00111466
+non_equilibrado a 1 2 ! & 1 0 00245198
+caulinar a 2 2 ! ;c 2 0 00042311 00136766
+de_bo_humor a 1 3 ! ^ & 1 0 00297459
+non_procesado a 1 2 ! ^ 1 0 00323512
+inmaturo a 2 3 ! ^ & 2 0 00106888 00255261
+egocéntrico a 2 3 ! ^ & 2 0 00130410 00195730
+inseparábel a 1 1 & 1 0 00190871
+malo a 2 4 ! ^ & = 2 0 00185230 00226168
+non_modificábel a 1 1 ! 1 0 00309186
+en_curso a 3 3 ! ^ & 3 0 00025790 00068225 00277280
+caulescente a 1 2 ! ;c 1 0 00136766
+sen_malicia a 1 1 ! 1 0 00143881
+presumible a 1 1 & 1 0 00188836
+de_baixa_voltaxe a 1 2 ! ;c 1 0 00260899
+con_forma a 1 1 ! 1 0 00161490
+alporizado a 1 1 & 1 0 00113842
+demográfico a 1 0 1 0 00340121
+alleo a 1 1 & 1 0 00310443
+desfavorábel a 5 3 ! ^ & 5 0 00002511 00005581 00026368 00239162 00273901
+con_combustíbel a 1 1 ! 1 0 00148166
+desleal a 3 3 ! ^ & 3 0 00072207 00153237 00264977
+con_columnas a 1 1 ! 1 0 00128498
+sen_paredes_medianeiras a 1 2 ! ;c 1 0 00229402
+contraproducente a 1 1 & 1 0 00319876
+impracticábel a 2 2 ! & 2 0 00026926 00259695
+sen_cabeza a 1 1 ! 1 0 00097219
+rápido a 3 5 ! ;c ^ & = 3 0 00010029 00058518 00247164
+non_sacerdotal a 1 1 ! 1 0 00100519
+maldito a 2 2 ! & 2 0 00110230 00256082
+de_segunda_clase a 1 1 & 1 0 00017024
+mal_definido a 1 1 ! 1 0 00258700
+encantador a 2 1 & 2 0 00120504 00169273
+reflexivo a 1 1 & 1 0 00039952
+reducido a 3 2 ! ^ 3 0 00011288 00215026 00270682
+non_presidencial a 1 2 ! ^ 1 0 00171080
+distinguíbel a 1 1 ! 1 0 00000770
+xurásico a 1 0 1 0 00338656
+anfibio a 1 1 ! 1 0 00019382
+sacrificial a 1 0 1 0 00340524
+diacrónico a 1 1 ! 1 0 00232184
+inapreciable a 1 1 ! 1 0 00104698
+non_corrixido a 2 1 ! 2 0 00037392 00044088
+arbitrábel a 1 1 ! 1 0 00023371
+con_lingüeta a 1 1 ! 1 0 00122441
+condutor a 1 1 ! 1 0 00227893
+primixenio a 1 1 & 1 0 00198838
+eferente a 1 1 ! 1 0 00331902
+prebélico a 1 1 ! 1 0 00147920
+sancionado a 1 1 ! 1 0 00012555
+tallado a 1 1 ! 1 0 00140641
+proporcionado a 3 2 ! ^ 3 0 00249142 00276721 00320049
+condrítico a 1 1 ! 1 0 00148758
+hidrográfico a 1 0 1 0 00340163
+hidratado a 1 2 ! ;c 1 0 00162289
+de_dereitas a 3 3 ! ^ & 3 0 00246712 00286166 00306275
+cociñado a 1 2 ! & 1 0 00213026
+executábel a 1 1 ! 1 0 00242797
+vexetal a 1 0 1 0 00340772
+desabastecido a 1 1 ! 1 0 00035278
+con_babadeiro a 1 1 ! 1 0 00102068
+marrón a 1 1 & 1 0 00314420
+multiétnico a 1 1 & 1 0 00170715
+máis_fondo a 1 1 & 1 0 00026867
+non_sorprendente a 1 2 ! ^ 1 0 00250312
+reverberante a 1 2 ! & 1 0 00099518
+vago a 1 2 ! ^ 1 0 00176024
+semiótico a 1 0 1 0 00333922
+desapiadado a 1 1 ! 1 0 00031406
+asustadizo a 2 4 ! ^ & = 2 0 00097844 00100903
+dicigótico a 1 1 ! 1 0 00312153
+secuencial a 1 1 & 1 0 00103740
+covarde a 2 4 ! ^ & = 2 0 00097844 00100903
+non_escrito a 2 1 ! 2 0 00222250 00235814
+despexado a 2 2 ! & 2 0 00025585 00135298
+cóncavo a 1 1 ! 1 0 00281562
+pendente a 3 2 ! & 3 0 00108141 00114511 00322360
+incondicional a 2 2 ! ^ 2 0 00122134 00293568
+acristalado a 1 1 ! 1 0 00288285
+tranquilizador a 1 3 ! ^ = 1 0 00290559
+con_cortina a 1 1 ! 1 0 00023707
+global a 1 1 & 1 0 00044177
+sen_orellas a 1 1 ! 1 0 00280160
+en_miniatura a 1 0 1 0 00313781
+inviolable a 1 1 ! 1 0 00086319
+non_expansivo a 1 1 ! 1 0 00114236
+truculento a 1 1 & 1 0 00332204
+ingrato a 2 1 ! 2 0 00248264 00321185
+non_particulado a 1 1 ! 1 0 00121367
+básico a 1 1 ! 1 0 00200385
+sociábel a 1 3 ! ^ & 1 0 00016121
+irrepresentable a 1 1 ! 1 0 00160177
+natal a 1 1 ! 1 0 00172374
+incrementable a 1 1 & 1 0 00018864
+inimigo a 1 0 1 0 00073174
+tácito a 1 1 & 1 0 00258912
+existente a 4 3 ! ^ = 4 0 00079559 00099669 00174972 00320668
+húmido a 5 2 ! & 5 0 00002319 00098645 00155731 00180340 00210837
+diáfano a 1 1 & 1 0 00192813
+xordo a 3 1 ! 3 0 00079743 00129701 00140356
+escarpado a 1 1 ! 1 0 00114511
+abouxado a 1 1 & 1 0 00179676
+sen_combustíbel a 1 1 ! 1 0 00035278
+roxo a 1 1 ! 1 0 00055399
+pouco_rendíbel a 1 1 & 1 0 00282249
+constituído a 1 2 ! & 1 0 00257342
+biauricular a 1 1 ! 1 0 00096697
+calumnioso a 1 1 & 1 0 00165829
+compresible a 1 1 ! 1 0 00172446
+sen_explotar a 2 1 ! 2 0 00147577 00323888
+desenredado a 1 1 ! 1 0 00070387
+discerníbel a 1 1 ! 1 0 00044311
+poscomunista a 1 0 1 0 00340206
+populoso a 1 0 1 0 00241455
+anterógrado a 1 1 ! 1 0 00022873
+ario a 1 0 1 0 00338064
+de_primeira a 1 1 & 1 0 00159081
+non_sometido a 1 1 ! 1 0 00330985
+tráxico a 1 0 1 0 00224694
+intolerábel a 1 3 ! ^ & 1 0 00001953
+indiscriminado a 2 3 ! ^ & 2 0 00148678 00329138
+anticlimático a 1 1 ! 1 0 00043882
+baleiro a 3 1 ! 3 0 00004473 00113381 00214467
+snob a 1 1 & 1 0 00274899
+non_axeitado a 1 1 ! 1 0 00296908
+informal a 2 3 ! ^ & 2 0 00045623 00245385
+non_declarable a 1 1 ! 1 0 00151603
+oblato a 1 2 ! ^ 1 0 00306334
+deserto a 1 1 & 1 0 00274466
+engraxado a 2 1 ! 2 0 00049697 00197429
+feminino a 1 0 1 0 00298213
+terminado a 1 1 ! 1 0 00281339
+encadernado a 1 1 ! 1 0 00115331
+autógamo a 1 2 ! ;c 1 0 00244433
+seis_veces a 1 1 & 1 0 00094755
+poliploide a 1 2 ! ;c 1 0 00121559
+largo a 1 3 ! ^ = 1 0 00039744
+inservible a 2 2 ! ^ 2 0 00137973 00304102
+confirmado a 1 1 ! 1 0 00059039
+dominante a 4 4 ! ;c ^ & 4 0 00032357 00033268 00129437 00243021
+monumental a 1 0 1 0 00336438
+saturado a 3 3 ! ;c & 3 0 00093622 00103183 00254753
+subtractivo a 1 1 ! 1 0 00332392
+sen_alento a 1 3 ! ^ & 1 0 00087960
+anormal a 1 3 ! ^ & 1 0 00284943
+sen_un_céntimo a 1 1 & 1 0 00272765
+inmaculado a 1 2 ! ^ 1 0 00126409
+indiscerníbel a 1 1 ! 1 0 00278200
+testador a 1 1 ! 1 0 00007999
+subdesenvolto a 1 2 ! & 1 0 00281893
+tumultuoso a 2 1 & 2 0 00116873 00117736
+discutíbel a 1 0 1 0 00142971
+inconstitucional a 1 1 ! 1 0 00002677
+inatinxíbel a 1 1 & 1 0 00299380
+con_dono a 1 1 ! 1 0 00253222
+proaborto a 1 1 ! 1 0 00067490
+non_rabiado a 1 1 ! 1 0 00121788
+anualmente a 1 1 & 1 0 00046549
+sen_corte a 1 1 ! 1 0 00157377
+alienábel a 1 1 ! 1 0 00069797
+desunido a 2 2 ! & 2 0 00211730 00228120
+con_contraventás a 1 1 ! 1 0 00212023
+conqueríbel a 1 2 ! ^ 1 0 00115788
+postmeridiano a 1 1 ! 1 0 00069136
+aplicable a 1 1 & 1 0 00269832
+descritivo a 2 2 ! ;c 2 0 00266475 00279918
+en_condicións_de_voar a 1 1 ! 1 0 00289185
+por_baixo_da_cabeza a 1 2 ! ;c 1 0 00312439
+sen_babadeiro a 1 1 ! 1 0 00229847
+optativo a 1 1 ! 1 0 00301492
+involuntario a 3 3 ! ^ & 3 0 00026073 00083009 00147250
+indetectable a 1 1 ! 1 0 00307588
+gorentoso a 1 0 1 0 00139194
+preponderante a 1 1 & 1 0 00053959
+rehabilitábel a 1 1 ! 1 0 00028517
+tenaz a 1 1 & 1 0 00228770
+fiel a 4 2 ! ^ 4 0 00064706 00095004 00145006 00177986
+responsable a 2 3 ! ^ & 2 0 00121430 00243289
+incesante a 1 1 & 1 0 00218123
+non_fixado a 1 2 ! ^ 1 0 00067077
+seca a 2 1 ! 2 0 00137692 00260275
+pedante a 2 1 & 2 0 00202521 00326632
+físil a 1 1 ! 1 0 00272450
+cheo a 2 2 ! & 2 0 00082377 00161287
+non_físil a 1 1 ! 1 0 00089161
+audaz a 1 3 ! ^ & 1 0 00038429
+esmacelado a 1 1 & 1 0 00062235
+caloso a 1 1 & 1 0 00023823
+aberrante a 1 1 & 1 0 00061666
+monocorial a 1 1 ! 1 0 00276263
+regresivo a 2 4 ! ;c ^ & 2 0 00238113 00293335
+decepcionado a 1 1 & 1 0 00031782
+esquemático a 1 1 & 1 0 00223511
+ipsolateral a 1 1 ! 1 0 00086201
+á_medida a 2 2 ! & 2 0 00025855 00260327
+sen_enerxía a 1 1 ! 1 0 00070318
+atómico a 1 1 ! 1 0 00259806
+transitado a 1 1 ! 1 0 00165958
+mate a 1 3 ! ^ = 1 0 00187613
+envexábel a 1 1 & 1 0 00052130
+valente a 3 4 ! ^ & = 3 0 00086466 00093122 00294616
+de_moda a 2 2 ! & 2 0 00058199 00067794
+metodolóxico a 1 0 1 0 00336265
+ramificado a 1 1 ! 1 0 00309949
+conmutable a 1 1 ! 1 0 00248802
+negro_como_o_acibeche a 1 1 & 1 0 00321830
+non_puntual a 1 2 ! & 1 0 00242397
+certo a 5 4 ! ^ & = 5 0 00008248 00082047 00166097 00194504 00331709
+ignominioso a 1 0 1 0 00313957
+sen_prexuízos a 1 2 ! ^ 1 0 00233561
+calzado a 2 1 ! 2 0 00013444 00158022
+eufónico a 1 1 ! 1 0 00325134
+impalpable a 2 2 ! ^ 2 0 00036754 00256904
+exergónico a 1 2 ! ;c 1 0 00313507
+desenfocado a 1 1 ! 1 0 00257905
+sacrosanto a 1 1 & 1 0 00045745
+con_rima a 1 1 ! 1 0 00070589
+retrorso a 1 2 ! ;c 1 0 00286484
+indeterminábel a 1 2 ! ^ 1 0 00067625
+labrado a 1 1 ! 1 0 00140641
+atávico a 1 1 & 1 0 00105172
+endoparasito a 1 1 ! 1 0 00007796
+benéfico a 1 1 ! 1 0 00100581
+do_congreso a 1 0 1 0 00338599
+impoñente a 1 0 1 0 00235687
+selado a 3 2 ! ^ 3 0 00082047 00192129 00286725
+vinculante a 2 1 & 2 0 00058967 00072769
+non_imaxinativo a 1 3 ! ^ = 1 0 00127568
+de_bo_gusto a 1 2 ! ^ 1 0 00117406
+insignificante a 4 3 ! ^ & 4 0 00009559 00085046 00090192 00276356
+irresponsable a 1 2 ! & 1 0 00021774
+por_diante a 1 1 & 1 0 00052200
+odorífero a 1 1 ! 1 0 00228474
+agradable a 8 4 ! ;c ^ & 8 0 00124797 00155120 00173974 00191180 00198375 00215246 00222620 00302547
+non_preparado a 2 3 ! ^ & 2 0 00309745 00332725
+con_mangas a 1 1 ! 1 0 00187732
+asado a 1 1 & 1 0 00063789
+cultivábel a 2 2 ! & 2 0 00102749 00261629
+participativo a 1 1 & 1 0 00206920
+indiferenciado a 1 1 ! 1 0 00103522
+caseiro a 1 1 ! 1 0 00127421
+incoloro a 2 3 ! ^ = 2 0 00179543 00252948
+axiña a 1 1 & 1 0 00236628
+explosivo a 1 1 ! 1 0 00301355
+fedento a 1 2 ! & 1 0 00173180
+non_axitado a 2 2 ! ^ 2 0 00279452 00298310
+cirúrxico a 1 1 ! 1 0 00034461
+curativo a 1 1 & 1 0 00108379
+doente a 2 3 ! ^ & 2 0 00263642 00274024
+inexplicable a 1 3 ! ^ & 1 0 00262034
+exixente a 1 3 ! ^ & 1 0 00184868
+con_talle a 1 2 ! & 1 0 00205241
+infértil a 2 3 ! ^ & 2 0 00008310 00221518
+invasor a 1 1 & 1 0 00096000
+ben_feito a 1 1 & 1 0 00181329
+orientado_ao_futuro a 1 1 & 1 0 00298618
+relixioso a 2 2 ! ^ 2 0 00203395 00284259
+contrito a 1 1 & 1 0 00209169
+decepcionante a 1 1 & 1 0 00255373
+in_situ a 1 1 ! 1 0 00114358
+ideográfico a 1 2 ! ;c 1 0 00004124
+polo_demais a 1 1 & 1 0 00319655
+do_sur a 2 2 ! & 2 0 00050589 00269772
+preexistente a 1 1 & 1 0 00028307
+condutivo a 1 1 ! 1 0 00227893
+grego a 1 0 1 0 00340444
+insalvábel a 2 2 ! ^ 2 0 00118161 00237487
+concorde a 1 1 ! 1 0 00324820
+susceptíbel a 3 4 ! ^ & = 3 0 00133635 00148049 00304284
+desconforme a 1 1 ! 1 0 00214179
+miscíbel a 1 2 ! ;c 1 0 00030233
+fosfórico a 1 0 1 0 00341031
+paleontolóxico a 1 0 1 0 00337367
+ignífugo a 1 1 & 1 0 00109862
+non_efervescente a 2 1 ! 2 0 00099981 00304210
+experimentado a 1 2 ! ^ 1 0 00264082
+mal_aconsellado a 1 2 ! ^ 1 0 00114748
+de_metal a 1 0 1 0 00240404
+non_xogable a 1 1 ! 1 0 00013298
+vello a 3 3 ! ^ & 3 0 00078344 00177556 00222996
+irrevocábel a 1 1 ! 1 0 00202007
+irreprochable a 1 2 ! ^ 1 0 00126409
+resignado a 1 2 ! ^ 1 0 00094278
+significativo a 3 4 ! ;c ^ & 3 0 00008055 00048639 00079214
+inestable a 4 3 ! ^ & 4 0 00199020 00245198 00309404 00322360
+intermitente a 1 1 & 1 0 00156641
+amigable a 2 3 ! ^ & 2 0 00078059 00300300
+que_ten_rima a 1 1 ! 1 0 00070589
+superficie a 1 1 ! 1 0 00053226
+sen_voto a 1 1 ! 1 0 00264539
+finito a 2 2 ! ;c 2 0 00032630 00279379
+derivado a 1 1 ! 1 0 00076391
+entrecortado a 2 3 ! ;c & 2 0 00002121 00289255
+domesticado a 1 2 ! ^ 1 0 00265095
+financeiro a 1 0 1 0 00216051
+en_transformación a 1 1 & 1 0 00293777
+adiante a 1 1 & 1 0 00052200
+hirsuto a 1 2 ! & 1 0 00181480
+consonántico a 1 1 ! 1 0 00217430
+axustable a 1 1 ! 1 0 00205836
+reintegrable a 1 1 ! 1 0 00079080
+adaxial a 1 2 ! ;c 1 0 00017646
+de_madeira a 1 1 ! 1 0 00130580
+aplicado a 1 1 ! 1 0 00128558
+secundario a 4 3 ! ^ & 4 0 00086722 00121654 00123742 00329310
+mandibular a 1 1 ! 1 0 00069521
+primario a 1 2 ! ^ 1 0 00333049
+radiolóxico a 1 0 1 0 00337006
+observábel a 1 0 1 0 00070956
+plurilingüe a 1 2 ! & 1 0 00162598
+non_enviado a 1 1 ! 1 0 00131858
+non_estrelado a 1 1 ! 1 0 00137286
+non_adulador a 1 3 ! ^ & 1 0 00112243
+impresentábel a 1 1 & 1 0 00204406
+descolorido a 1 2 ;c & 1 0 00274388
+inseparable a 1 1 & 1 0 00190871
+bacteriano a 1 0 1 0 00336787
+de_antano a 1 1 & 1 0 00299640
+diúrno a 1 2 ! ;c 1 0 00319447
+correcto a 4 2 ! ^ 4 0 00063852 00151007 00316735 00323698
+coa_cabeza_descuberta a 1 1 & 1 0 00104874
+non_evidente a 1 1 ! 1 0 00107212
+lambón a 1 1 ! 1 0 00139950
+crispado a 1 0 1 0 00184339
+dactilar a 1 1 ! 1 0 00062900
+citrino a 1 1 & 1 0 00108937
+danado a 3 3 ! ^ & 3 0 00027683 00132928 00156701
+moreno a 2 3 ! ;u & 2 0 00092695 00108732
+derrotado a 1 2 ! ^ 1 0 00013817
+arborizado a 1 2 ! & 1 0 00050388
+bobo a 2 2 ! & 2 0 00241121 00263350
+xurado a 1 1 ! 1 0 00204334
+estupefacto a 1 1 & 1 0 00060636
+procesado a 2 2 ! ^ 2 0 00020952 00067256
+empático a 1 2 ! ^ 1 0 00167272
+reproducible a 2 1 ! 2 0 00272127 00316605
+de_absorción_de_enerxía a 1 2 ! ^ 1 0 00310699
+sen_creatividade a 1 3 ! ^ = 1 0 00127568
+non_estratificado a 1 2 ! ;c 1 0 00294957
+xeocéntrico a 1 1 ! 1 0 00068165
+non_relixioso a 1 3 ! ^ & 1 0 00206382
+intelectual a 1 1 ! 1 0 00231360
+abafante a 2 0 2 0 00209950 00300476
+aleitado_con_biberón a 1 1 ! 1 0 00055789
+antagonista a 2 1 ! 2 0 00067400 00126877
+adiñeirado a 3 2 ! & 3 0 00203694 00220512 00269211
+acalorado a 1 0 1 0 00042444
+menor a 1 1 ! 1 0 00270682
+mozo a 1 3 ! ^ & 1 0 00106888
+empregado a 1 2 ! ^ 1 0 00322917
+amuado a 1 1 & 1 0 00105917
+satisfactorio a 2 2 ! ^ 2 0 00018694 00242924
+autárquico a 1 0 1 0 00339029
+dentro_da_orde_establecida a 1 1 ! 1 0 00025388
+forte a 8 3 ! ^ & 8 0 00010939 00057613 00101287 00141832 00199567 00267816 00293855 00302265
+inseguro a 8 4 ! ^ & = 8 0 00060140 00136101 00158306 00176505 00178568 00212378 00234524 00294866
+experimentador a 1 2 ! ^ 1 0 00264082
+non_disimulado a 1 2 ! ^ 1 0 00179135
+amábel a 1 1 & 1 0 00282086
+crédulo a 1 2 ! ^ 1 0 00222323
+monolingüe a 1 1 ! 1 0 00173310
+sombreado a 2 1 ! 2 0 00052783 00214410
+irrecoñecíbel a 1 0 1 0 00091304
+non_académico a 1 1 ! 1 0 00128980
+suficiente a 2 3 ! ^ & 2 0 00012130 00312949
+deplorábel a 1 1 & 1 0 00308569
+corcovado a 1 1 & 1 0 00211281
+sen_misericordia a 1 2 ! ^ 1 0 00224856
+gravoso a 1 0 1 0 00266962
+peiteado a 1 1 ! 1 0 00138820
+a_viño a 1 1 & 1 0 00040617
+inválido a 1 2 ! & 1 0 00320134
+sen_entusiasmo a 1 2 ! ^ 1 0 00321523
+segundo a 2 2 ! ;c 2 0 00098433 00325324
+non_respectable a 1 1 ! 1 0 00120936
+superficie-ar a 1 1 ! 1 0 00232063
+infundado a 4 2 ! & 4 0 00154166 00165715 00306923 00329903
+anfótero a 1 2 ! ;c 1 0 00055625
+abreviado a 1 1 ! 1 0 00069729
+incoherente a 4 2 ! ^ 4 0 00018344 00035393 00182521 00328764
+manipulado a 1 1 ! 1 0 00093762
+falante a 1 1 ! 1 0 00312098
+sen_virar a 1 1 ! 1 0 00226635
+sen_guerla a 1 1 ! 1 0 00213119
+apoucado a 1 1 ! 1 0 00294866
+altruísta a 2 2 ! ^ 2 0 00021352 00221406
+delicado a 1 2 ! ^ 1 0 00058857
+non_razoable a 1 3 ! ^ & 1 0 00190747
+florentino a 1 0 1 0 00338421
+obrigatorio a 3 3 ! ^ & 3 0 00058967 00072769 00158426
+perdoable a 2 2 ! & 2 0 00147343 00305796
+sano a 1 1 ! 1 0 00280777
+audíbel a 1 3 ! ^ = 1 0 00196310
+sen_rodas a 1 1 ! 1 0 00302079
+amoroso a 1 2 ^ & 1 0 00088324
+con_ollo a 1 2 ! & 1 0 00098756
+obstruído a 1 2 ! ^ 1 0 00134585
+non_pechado a 1 1 ! 1 0 00036679
+eufórico a 2 3 ! ^ & 2 0 00037889 00064417
+rigoroso a 2 2 ! & 2 0 00005914 00084878
+anticlinal a 1 2 ! ;c 1 0 00115254
+irreparábel a 1 1 ! 1 0 00212710
+suntuoso a 1 1 & 1 0 00037719
+salgado a 1 3 ! ^ & 1 0 00128389
+acendido a 2 2 ! & 2 0 00078885 00227397
+en_escena a 1 1 ! 1 0 00098507
+senatorial a 1 0 1 0 00336225
+sinclinal a 1 2 ! ;c 1 0 00211892
+converxente a 2 2 ! ^ 2 0 00091366 00239825
+plano a 2 1 ! 2 0 00041518 00076790
+non_poroso a 1 1 ! 1 0 00182961
+imaxinábel a 1 1 & 1 0 00095662
+divisible a 1 2 ! & 1 0 00106465
+impronunciable a 1 1 ! 1 0 00111079
+explicábel a 1 2 ! ^ 1 0 00205728
+non_reembolsábel a 1 1 ! 1 0 00123825
+colectivo a 2 3 ! ^ & 2 0 00153906 00302436
+non_susceptible a 2 3 ! ^ = 2 0 00098167 00307390
+irrepresentábel a 1 1 ! 1 0 00160177
+xeomorfolóxico a 1 1 ;c 1 0 00077995
+exotrópico a 1 1 ! 1 0 00182813
+elástico a 1 2 ! ^ 1 0 00319580
+holofítico a 1 1 ! 1 0 00232565
+aleatorio a 1 1 ! 1 0 00054686
+acceso a 1 2 ! & 1 0 00227397
+procesal a 1 1 ! 1 0 00024855
+sen_deda a 1 1 ! 1 0 00274951
+inexperimentado a 1 3 ! ^ & 1 0 00302951
+muscular a 1 2 ! ;c 1 0 00167834
+desbotábel a 1 1 ! 1 0 00148366
+fiscal a 1 0 1 0 00216051
+arado a 1 1 ! 1 0 00133452
+no_estranxeiro a 1 1 & 1 0 00075385
+inmanexable a 2 2 ! ^ 2 0 00049466 00089974
+violento a 1 2 ! ^ 1 0 00328473
+nómade a 1 1 & 1 0 00255147
+post_bellum a 1 1 ! 1 0 00148828
+non_tallado a 1 1 ! 1 0 00210578
+previo a 1 1 & 1 0 00327444
+non_fiábel a 2 2 ! ^ 2 0 00097931 00144638
+español a 1 0 1 0 00338142
+formal a 3 2 ! ^ 3 0 00045361 00054532 00210892
+con_brazos a 1 2 ! & 1 0 00135367
+bilingüe a 1 1 & 1 0 00238711
+vestido a 1 3 ! ^ & 1 0 00133990
+sésil a 2 2 ! ;c 2 0 00152350 00223195
+firme a 1 1 ! 1 0 00011892
+doado a 2 2 ! ^ 2 0 00305321 00325379
+informe a 1 1 ! 1 0 00242048
+nacido a 1 1 ! 1 0 00078594
+borroso a 1 2 ! ^ 1 0 00041910
+arestado a 1 1 ! 1 0 00299852
+atrevido a 2 3 ! ^ & 2 0 00038429 00090395
+espléndido a 2 1 & 2 0 00095934 00158954
+cumprido a 2 2 ! ;c 2 0 00124256 00141675
+privado a 1 3 ! ^ & 1 0 00055919
+embarazado a 1 1 ! 1 0 00189226
+non_vixiante a 1 2 ! ^ 1 0 00300661
+contundente a 1 2 ! & 1 0 00010939
+medio a 4 3 ! ;c & 4 0 00002374 00094630 00260191 00285447
+cheo_de_xermes a 1 2 ! ^ 1 0 00217037
+contraprudecente a 1 1 & 1 0 00129113
+partidario a 1 1 ! 1 0 00114165
+aferente a 1 1 ! 1 0 00083992
+sen_perruca a 1 1 ! 1 0 00168463
+asignado a 1 1 ! 1 0 00296273
+campilótropo a 1 2 ! ;c 1 0 00173656
+conxénito a 1 0 1 0 00233447
+anticuado a 2 1 & 2 0 00149752 00230608
+sensíbel a 4 2 ! ^ 4 0 00006351 00193959 00285809 00299715
+inexistente a 1 4 ! ^ & = 1 0 00234871
+dez_veces a 1 1 & 1 0 00022020
+rabioso a 1 2 ! & 1 0 00274024
+superficial a 3 3 ! ^ & 3 0 00026285 00046858 00287426
+non_virulento a 1 1 ! 1 0 00114937
+extinguíbel a 1 1 ! 1 0 00040298
+cen a 1 1 & 1 0 00008135
+culto a 2 3 ! ^ & 2 0 00086669 00295526
+sepultado a 1 1 ! 1 0 00237588
+nomeado a 2 1 ! 2 0 00075062 00296273
+non_correspondido a 1 1 & 1 0 00196167
+reumático a 1 1 & 1 0 00193061
+desenrolado a 1 1 ! 1 0 00006109
+desvestido a 1 3 ! ^ & 1 0 00122877
+de_pé_abducto a 1 1 ! 1 0 00231298
+extenso a 1 1 & 1 0 00087664
+non_pretensioso a 2 2 ! ^ 2 0 00041769 00076602
+en_testo a 1 1 ! 1 0 00040083
+non_probado a 1 1 ! 1 0 00329903
+tridimensional a 1 2 ! & 1 0 00305549
+verosímil a 2 3 ! ^ = 2 0 00133176 00278895
+de_incógnito a 1 1 & 1 0 00105856
+negativo a 4 4 ! ;c ^ = 4 0 00032981 00071384 00232798 00273901
+atribuíble a 1 1 ! 1 0 00186825
+sen_estilo a 1 1 ! 1 0 00149271
+acaído a 1 2 ! ^ 1 0 00014849
+inoperante a 1 1 ! 1 0 00056923
+aloumiñado_polo_vento a 1 0 1 0 00152149
+con_dedos a 1 1 ! 1 0 00062900
+solidario a 1 1 & 1 0 00233256
+deflacionista a 1 2 ! ;c 1 0 00021503
+incivilizado a 1 2 ! ^ 1 0 00193258
+con_montura a 1 1 ! 1 0 00162365
+con_cara_redonda a 1 1 & 1 0 00265681
+ao_estranxeiro a 1 1 & 1 0 00075385
+exportable a 1 1 ! 1 0 00027305
+non_migratorio a 1 1 ! 1 0 00117590
+consistente a 2 3 ! ^ & 2 0 00247387 00330088
+limpo a 4 4 ! ;c ^ & 4 0 00017301 00143477 00249856 00256173
+empregábel a 1 1 ! 1 0 00070077
+non_reintegrábel a 1 1 ! 1 0 00123825
+consumista a 1 1 ! 1 0 00183770
+inicial a 1 1 ! 1 0 00028901
+inescrutable a 1 1 & 1 0 00291314
+non_silenciado a 1 1 ! 1 0 00191273
+magnífico a 2 1 & 2 0 00095934 00158954
+trinuclear a 1 2 ! ;c 1 0 00287485
+reformado a 1 2 ! & 1 0 00212846
+acústico a 1 0 1 0 00339197
+permisivo a 2 1 ! 2 0 00020661 00240454
+macizo a 1 1 ! 1 0 00106760
+ensanguentado a 1 1 & 1 0 00078731
+usado a 2 3 ! ^ & 2 0 00132726 00143336
+inelixible a 1 2 ! ^ 1 0 00283171
+enleado a 1 1 ! 1 0 00059410
+non_fresco a 1 3 ! ^ & 1 0 00200440
+capitalista a 1 1 ! 1 0 00061060
+de_segunda_orde a 1 1 & 1 0 00017024
+controvertido a 1 1 ! 1 0 00099596
+equilibrado a 1 1 ! 1 0 00283670
+enredado a 1 1 ! 1 0 00059410
+oco a 1 3 ! ^ & 1 0 00252538
+claro a 4 3 ! ^ & 4 0 00044468 00081660 00168280 00252220
+sen_pintura a 2 2 ! ^ 2 0 00273023 00278278
+lótico a 1 1 ! 1 0 00308858
+principiante a 1 3 ! ^ & 1 0 00302951
+acaudado a 1 1 ! 1 0 00210522
+abastecido a 1 1 ! 1 0 00148166
+prescritivo a 1 2 ! ;c 1 0 00239072
+relacionado a 2 2 ! & 2 0 00082170 00226547
+axustado a 2 1 ! 2 0 00017219 00019259
+incontinente a 1 1 ! 1 0 00255627
+letrado a 1 1 & 1 0 00225481
+de_baviera a 1 0 1 0 00335586
+peninsular a 1 0 1 0 00339722
+miope a 1 1 ! 1 0 00310007
+recomendable a 1 2 ! ^ 1 0 00288344
+non_cabeza_de_serie a 1 1 ! 1 0 00310128
+inarticulado a 2 3 ! ^ & 2 0 00022933 00164118
+reticulado a 1 2 ! & 1 0 00280289
+enfocado a 1 1 ! 1 0 00020346
+pracenteiro a 3 3 ! ^ & 3 0 00015309 00215246 00222620
+despreocupado a 1 3 ! ^ & 1 0 00076276
+non_esixente a 2 2 ! ^ 2 0 00029270 00332786
+requirido a 1 1 & 1 0 00253656
+excitábel a 1 2 ! & 1 0 00188551
+non_curtido a 1 1 ! 1 0 00247653
+desorientado a 2 2 ! ^ 2 0 00059257 00195290
+fóra_de_escena a 1 1 ! 1 0 00072943
+non_reversíbel a 2 1 ! 2 0 00303525 00320818
+intranquilizador a 1 2 ! = 1 0 00319226
+benigno a 3 3 ! ;c ^ 3 0 00014642 00147653 00239751
+ledo a 1 1 & 1 0 00005970
+enganchado a 1 2 ! ^ 1 0 00231816
+inigualable a 1 3 ! ^ & 1 0 00207320
+constitucional a 1 1 ! 1 0 00309683
+falta a 1 1 ! 1 0 00063908
+preparado a 3 2 ! ^ 3 0 00047165 00049330 00170979
+non_partidista a 1 1 ! 1 0 00297380
+subseguinte a 1 3 ! ^ & 1 0 00298381
+cualitativo a 1 1 ! 1 0 00118897
+cuberto a 6 2 ! & 6 0 00073975 00173369 00220083 00254014 00285290 00303605
+terrestre a 3 3 ! ^ & 3 0 00106088 00312856 00331362
+resentido a 1 2 ! & 1 0 00169747
+espido a 2 3 ! ^ & 2 0 00122877 00319940
+desusado a 1 1 ! 1 0 00056923
+inquedante a 1 1 & 1 0 00244375
+realista a 1 3 ! ^ & 1 0 00126749
+sindético a 1 2 ! ;c 1 0 00291390
+non_aventureiro a 1 2 ! ^ 1 0 00090627
+extinguido a 2 2 ! ^ 2 0 00123015 00318241
+estreito a 4 5 ! ;u ^ & = 4 0 00106390 00110142 00155198 00292374
+abstracto a 1 3 ! ^ & 1 0 00192895
+alsaciano a 1 0 1 0 00340248
+corrixido a 2 1 ! 2 0 00106322 00316735
+electivo a 1 1 ! 1 0 00002193
+distal a 2 2 ! ;c 2 0 00034332 00328324
+habelencioso a 2 2 ! & 2 0 00107589 00137475
+indiscutible a 2 2 ! & 2 0 00094499 00169343
+aventureiro a 2 3 ! ^ & 2 0 00117794 00133393
+extravagante a 1 1 & 1 0 00146967
+cómodo a 4 4 ! ;u ^ & 4 0 00190311 00220741 00273281 00299173
+distraído a 1 1 ! 1 0 00177762
+embrutecedor a 1 1 & 1 0 00238206
+inxenuo a 2 2 ! ^ 2 0 00143881 00311452
+dentro_dos_plans a 1 1 ! 1 0 00050052
+urxente a 1 1 & 1 0 00010529
+inadvertido a 1 2 ! & 1 0 00144338
+irreconciliable a 1 1 ! 1 0 00061268
+envaiñado a 1 1 ! 1 0 00303605
+moito a 1 1 & 1 0 00243516
+doméstico a 1 1 ! 1 0 00242662
+deplorable a 1 1 & 1 0 00308569
+inadecuado a 7 3 ! ^ & 7 0 00080892 00117501 00165552 00181872 00216374 00288879 00296908
+comellón a 1 1 ! 1 0 00139950
+perfumado a 1 2 ! & 1 0 00091078
+punxente a 1 1 & 1 0 00306788
+disfemístico a 1 1 ! 1 0 00256651
+cabaleiroso a 1 1 & 1 0 00093122
+non_crítico a 1 1 ! 1 0 00196232
+váxil a 1 1 ! 1 0 00294186
+esquecedizo a 1 2 ! ^ 1 0 00152056
+persoal a 2 3 ! ^ & 2 0 00047968 00322826
+capaz a 3 3 ! ^ & 3 0 00180461 00273704 00291544
+inoperábel a 1 1 ! 1 0 00122692
+montañoso a 1 1 & 1 0 00302196
+con_pausa_versal a 1 1 ! 1 0 00208822
+laboral a 1 0 1 0 00336736
+non_dirixido a 1 1 ! 1 0 00069290
+caritativo a 1 2 ! ^ 1 0 00290052
+bailable a 1 1 & 1 0 00119916
+acataléctico a 1 1 ! 1 0 00265745
+acroscópico a 1 2 ! ;c 1 0 00110942
+conciliador a 2 1 ! 2 0 00253735 00259964
+non_atraente a 1 2 ! ^ 1 0 00271965
+fundido a 1 0 1 0 00045803
+arraigado a 1 1 & 1 0 00089280
+de_doutoramento a 1 0 1 0 00333583
+non_relacionado a 1 1 ! 1 0 00179408
+non_alugable a 1 1 ! 1 0 00130951
+indestrutible a 1 1 ! 1 0 00289045
+non_cristalino a 1 1 ! 1 0 00240185
+adusto a 1 1 & 1 0 00062235
+de_raza a 1 1 ! 1 0 00093191
+respectivo a 1 1 & 1 0 00066293
+somerxíbel a 1 1 ! 1 0 00199162
+afectado a 3 3 ! ^ & 3 0 00084374 00209574 00269656
+centrífugo a 1 1 ! 1 0 00113096
+superior a 5 4 ! ;c ^ & 5 0 00042796 00157519 00177350 00184181 00210982
+centrado a 1 1 ! 1 0 00020346
+inaudible a 1 3 ! ^ = 1 0 00235114
+conxuntivo a 1 1 ! 1 0 00071010
+multivía a 1 1 ! 1 0 00144431
+enfadoso a 1 0 1 0 00295203
+deducíbel a 1 2 ! ;c 1 0 00178283
+pedagóxico a 1 0 1 0 00339442
+incomprensíbel a 2 3 ! ^ & 2 0 00010823 00262034
+depravado a 1 1 & 1 0 00269599
+venerado a 1 0 1 0 00076447
+itinerante a 1 1 & 1 0 00138300
+non_seleccionado a 1 1 ! 1 0 00238422
+pola_contra a 1 1 & 1 0 00319655
+fóra a 1 1 & 1 0 00075385
+analóxico a 1 2 ! ;c 1 0 00175624
+pícnico a 1 2 ! ^ 1 0 00300554
+absorbible a 1 1 ! 1 0 00266108
+quincuaxésimo a 1 1 & 1 0 00005037
+enfundado a 2 2 ! ;c 2 0 00303605 00317339
+espeso a 1 1 ! 1 0 00009747
+desinteresado a 3 3 ! ^ & 3 0 00021352 00138514 00311250
+felino a 1 0 1 0 00333711
+apropiado a 4 3 ! ^ = 4 0 00002977 00151007 00178733 00246538
+favorable a 7 3 ! ^ & 7 0 00003506 00059986 00065158 00144508 00171496 00236868 00267344
+vestido_de_uniforme_(de_librea) a 1 0 1 0 00049405
+afumado a 2 2 ! & 2 0 00225867 00240691
+de_abaixo_para_arriba a 1 1 ! 1 0 00261468
+cada_mes a 1 1 & 1 0 00041703
+inodoro a 1 1 ! 1 0 00000985
+parado a 2 3 ! ^ & 2 0 00197150 00264284
+non_orixinal a 1 3 ! ^ & 1 0 00044753
+claustral a 1 1 & 1 0 00014252
+comparable a 1 2 ! ^ 1 0 00318643
+evocador a 1 1 & 1 0 00030625
+a_tempo_completo a 1 1 ! 1 0 00172310
+non_acristalado a 1 1 ! 1 0 00247087
+desmoblado a 1 1 ! 1 0 00160332
+convertíbel a 1 2 ! = 1 0 00240564
+endógamo a 1 2 ! ;c 1 0 00263189
+mononuclear a 1 2 ! ;c 1 0 00244541
+estresante a 1 1 & 1 0 00185531
+infalíbel a 2 2 ! & 2 0 00060896 00266892
+compresíbel a 1 1 ! 1 0 00172446
+anabólico a 1 1 ! 1 0 00138575
+psiquiátrico a 1 0 1 0 00333962
+unidimensional a 2 1 ! 2 0 00124465 00246476
+óseo a 1 1 ! 1 0 00273401
+servíbel a 2 2 ! ^ 2 0 00027827 00040549
+autoécico a 1 1 ! 1 0 00229263
+contestábel a 1 2 ! ^ 1 0 00206703
+sen_testo a 1 1 ! 1 0 00084127
+desgastado a 1 1 & 1 0 00170576
+eventual a 1 1 & 1 0 00295274
+que_non_ofende a 1 1 ! 1 0 00246207
+pediatra a 1 0 1 0 00338775
+entusiasmado a 1 3 ! ^ & 1 0 00100145
+impresionable a 1 1 ! 1 0 00283592
+reclamante a 1 2 ! & 1 0 00228033
+con_follas a 1 1 ! 1 0 00301724
+do_mar a 1 0 1 0 00124899
+sen_compañía a 1 1 ! 1 0 00129528
+belo a 1 4 ! ^ & = 1 0 00291004
+impenetrable a 1 1 ! 1 0 00193605
+potencial a 2 2 ! ^ 2 0 00021676 00112962
+locuaz a 2 3 ! ^ & 2 0 00122274 00201700
+complicado a 2 4 ! ^ & = 2 0 00152201 00308178
+hexagonal a 1 0 1 0 00341071
+convincente a 2 2 ! ^ 2 0 00146633 00288577
+non_gregario a 2 3 ! ;c ^ 2 0 00043395 00301945
+vagaroso a 1 1 ! 1 0 00004473
+non_tradicional a 1 1 ! 1 0 00208759
+incondicionado a 1 1 ! 1 0 00219908
+non_dramático a 1 1 ! 1 0 00232448
+pregado a 1 2 ! & 1 0 00324717
+desperdiciado a 1 1 ! 1 0 00011288
+infatigable a 1 1 & 1 0 00149141
+discernible a 1 1 ! 1 0 00044311
+interminábel a 2 1 & 2 0 00116423 00143795
+caudado a 1 1 ! 1 0 00231538
+inconquistable a 1 3 ! ^ & 1 0 00012684
+sen_sangue a 1 1 ! 1 0 00070205
+paterno a 1 3 ! ^ & 1 0 00157920
+unívoco a 1 2 ! ^ 1 0 00051669
+desgustado a 1 3 ! ^ & 1 0 00182074
+rudo a 2 3 ! ^ & 2 0 00003263 00210269
+repetitivo a 1 1 ! 1 0 00197358
+presuntuoso a 1 1 & 1 0 00146574
+euxenésico a 1 0 1 0 00175108
+masivo a 1 1 & 1 0 00153906
+politeísta a 1 1 ! 1 0 00016695
+non_asinado a 1 1 ! 1 0 00155994
+nu a 3 3 ! ^ & 3 0 00115929 00122877 00296074
+inflamábel a 2 2 ! & 2 0 00095590 00164590
+sen_cristal a 1 1 ! 1 0 00247087
+irreprochábel a 1 2 ! ^ 1 0 00126409
+non_adsorbente a 1 1 ! 1 0 00035845
+encuberto a 2 2 ! ^ 2 0 00042556 00128726
+sen_pé a 1 1 ! 1 0 00211968
+desaprehensivo a 1 1 & 1 0 00217973
+sen_fillos a 1 1 & 1 0 00236507
+arable a 1 1 & 1 0 00261629
+indigno a 2 3 ! ^ & 2 0 00194246 00212510
+sen_brillo a 1 3 ! ^ = 1 0 00187613
+puro a 4 2 ! ^ 4 0 00001635 00093622 00207734 00221058
+multidimensional a 1 1 ! 1 0 00313893
+retroactivo a 1 2 ! ;c 1 0 00185936
+vencido a 1 1 ! 1 0 00281339
+incongruente a 2 2 ! ;c 2 0 00223300 00233709
+de_fábrica a 1 2 ! & 1 0 00223434
+xeopolítico a 1 0 1 0 00338379
+irrompible a 1 1 ! 1 0 00039279
+aclamídeo a 1 2 ! ;c 1 0 00032684
+estimable a 1 2 ! ^ 1 0 00178969
+vivo a 3 2 ! ^ 3 0 00142124 00192694 00203305
+irremediábel a 1 1 ! 1 0 00284183
+bimodal a 1 2 ! ;c 1 0 00130258
+azul a 1 1 & 1 0 00142605
+non_enselado a 1 2 ! & 1 0 00327016
+abufardado a 1 0 1 0 00327498
+non_reverberante a 1 1 ! 1 0 00326513
+non_oficial a 1 2 ! ^ 1 0 00272688
+con_acompañamento a 1 1 ! 1 0 00104549
+remoto a 2 3 ! & = 2 0 00060984 00234984
+endotérmico a 1 2 ! ^ 1 0 00068633
+non_misericordioso a 1 2 ! ^ 1 0 00224856
+non_derrogable a 1 1 ! 1 0 00287869
+ofensivo a 6 3 ! ^ & 6 0 00166542 00198782 00201843 00214734 00256651 00279995
+ocupado a 3 2 ! ^ 3 0 00018942 00229208 00298698
+silábico a 3 1 ! 3 0 00056710 00082878 00093385
+non_sobrecargado a 1 1 ! 1 0 00129177
+tocado_con_arco a 1 2 ! ;c 1 0 00019455
+ulceroso a 1 1 & 1 0 00098700
+isotónico a 2 1 ! 2 0 00067324 00121945
+impune a 1 1 ! 1 0 00022077
+riscado a 1 1 ! 1 0 00190122
+receptivo a 2 1 ! 2 0 00172101 00295469
+esgotador a 1 0 1 0 00295203
+de_clase_baixa a 1 2 ! ^ 1 0 00042870
+extinguible a 1 1 ! 1 0 00040298
+de_clase_alta a 1 1 ! 1 0 00102598
+sinónimo a 1 1 ! 1 0 00168406
+en_branco_e_negro a 1 1 ! 1 0 00024790
+inconsolable a 1 0 1 0 00015495
+écrino a 1 1 ! 1 0 00189171
+teleolóxico a 1 0 1 0 00340604
+sen_imaxinación a 1 3 ! ^ = 1 0 00127568
+ter_vergoña a 1 2 ! ^ 1 0 00078149
+titánico a 1 0 1 0 00160777
+asasinado a 1 1 & 1 0 00265181
+non_blindado a 2 1 ! 2 0 00070896 00158575
+sensato a 3 3 ! ^ & 3 0 00037337 00113155 00330865
+guapo a 1 1 & 1 0 00144953
+invulnerábel a 1 3 ! ^ & 1 0 00272504
+habitual a 3 3 ! ^ & 3 0 00068225 00114442 00121018
+galopante a 1 1 & 1 0 00224992
+metódico a 1 1 & 1 0 00035711
+insaciábel a 1 2 ! & 1 0 00298021
+imposto a 1 1 ! 1 0 00188709
+sedutor a 2 3 ! ^ & 2 0 00051085 00229519
+herboso a 1 1 ! 1 0 00178092
+necesario a 1 1 & 1 0 00253656
+oportuno a 4 3 ! ^ & 4 0 00002977 00072316 00246538 00277791
+non_gañado a 1 2 ! & 1 0 00280514
+legato a 1 2 ! ;c 1 0 00019922
+inexecutable a 1 1 ! 1 0 00269023
+imparábel a 1 1 ! 1 0 00153537
+mental a 1 1 ! 1 0 00089719
+cruel a 3 1 ! 3 0 00053833 00084878 00282051
+inmaterial a 3 2 ! ^ 3 0 00044920 00050129 00066049
+inferior a 4 4 ! ;c ^ & 4 0 00052962 00209719 00249925 00261537
+non_coroado a 1 1 ! 1 0 00247971
+distinguible a 1 1 ! 1 0 00000770
+reprensible a 1 1 & 1 0 00116799
+inclemente a 3 2 ! ^ 3 0 00008870 00084878 00201767
+iluminado a 1 2 ! & 1 0 00057815
+pouco_apetecíbel a 1 2 ! ^ 1 0 00054063
+apócrino a 1 1 ! 1 0 00165772
+non_ríxido a 1 2 ! ;c 1 0 00319148
+separable a 1 1 & 1 0 00002249
+de_troia a 1 0 1 0 00337454
+envexable a 1 1 & 1 0 00052130
+desalentado a 2 3 ! ^ & 2 0 00115612 00125468
+sen_recubrimento a 1 1 ! 1 0 00038305
+imperdoable a 3 2 ! & 3 0 00022799 00272376 00296727
+monástico a 1 1 & 1 0 00014252
+erradicábel a 1 1 ! 1 0 00183031
+marital a 1 1 ! 1 0 00285235
+desdeñoso a 1 1 & 1 0 00205019
+convencido a 1 1 ! 1 0 00292855
+non_cultivable a 1 1 ! 1 0 00142044
+aplacentario a 1 1 ! 1 0 00103871
+estarrecedor a 1 1 & 1 0 00181943
+non_datábel a 1 1 ! 1 0 00007722
+sereno a 2 3 ! ^ & 2 0 00030571 00081191
+exitoso a 1 3 ! ^ & 1 0 00275886
+espirituoso a 1 1 & 1 0 00130695
+burlón a 2 1 & 2 0 00026666 00108665
+incrementábel a 1 1 & 1 0 00018864
+sobrenatural a 1 2 ^ & 1 0 00038998
+non_neurótico a 1 1 ! 1 0 00274224
+non_dividido a 1 3 ! ;c ^ 1 0 00188195
+bivalvo a 1 1 ! 1 0 00196048
+exotérico a 1 2 ! ^ 1 0 00120860
+incuestionable a 1 3 ! ^ & 1 0 00027549
+polémico a 1 1 ! 1 0 00099596
+prolato a 1 2 ! ^ 1 0 00236346
+non_ramificado a 1 1 ! 1 0 00097526
+incontable a 1 1 & 1 0 00199808
+tanxible a 3 2 ! ^ 3 0 00075129 00091938 00254644
+fóra_de_xogo a 1 2 ! ;c 1 0 00233983
+con_pegadas a 1 1 ! 1 0 00286910
+conxenial a 1 2 ! ^ 1 0 00014849
+pouco_impresionábel a 2 1 ! 2 0 00006228 00061178
+sen_bordos a 1 1 ! 1 0 00254901
+afastado a 4 4 ! ^ & = 4 0 00060984 00105228 00184747 00234984
+específico a 2 4 ! ;c ^ & 2 0 00016927 00266180
+interno a 3 3 ! ^ = 3 0 00069986 00283261 00313585
+sen_nervios a 1 1 ! 1 0 00030991
+de_arriba_para_abaixo a 1 1 ! 1 0 00233841
+contrarrevolucionario a 1 1 ! 1 0 00280604
+patentado a 1 1 ! 1 0 00015239
+actinal a 1 2 ! ;c 1 0 00302877
+bautizado a 1 1 ! 1 0 00308337
+vixésimo a 1 1 & 1 0 00224107
+numeroso a 2 1 & 2 0 00199808 00318072
+regular a 4 2 ! ^ 4 0 00052399 00064308 00260136 00269964
+autóxeno a 1 1 ! 1 0 00164833
+lisa a 1 1 ! 1 0 00248319
+comestible a 1 2 ! ^ 1 0 00253040
+alterable a 1 1 ! 1 0 00219067
+inflacionista a 1 2 ! ;c 1 0 00106680
+acíclico a 3 2 ! ;c 3 0 00033788 00051463 00317609
+pasaxeiro a 1 0 1 0 00010607
+non_significativo a 1 2 ! ;c 1 0 00133852
+non_aborixe a 1 1 ! 1 0 00216949
+miserento a 4 3 ! ^ & 4 0 00001716 00013110 00091662 00154338
+preferible a 1 1 & 1 0 00192057
+lúcido a 1 1 ! 1 0 00180285
+cataléctico a 1 1 ! 1 0 00150641
+inesperable a 1 1 ! 1 0 00140466
+disuasorio a 1 2 ! ^ 1 0 00309861
+enorme a 2 0 2 0 00131093 00207804
+espacial a 1 0 1 0 00130332
+variable a 4 2 ! ^ 4 0 00089837 00109773 00186898 00219979
+sen_luar a 1 1 ! 1 0 00010668
+recorrible a 1 1 ! 1 0 00166280
+polivalente a 1 1 & 1 0 00224164
+pectoral a 1 0 1 0 00335064
+demagóxico a 1 0 1 0 00333881
+impávido a 1 1 & 1 0 00155406
+renovado a 1 1 & 1 0 00277600
+pro a 1 1 ! 1 0 00168560
+impresionado a 1 1 & 1 0 00306215
+saínte a 2 1 ! 2 0 00095553 00101873
+mutable a 2 2 ! ^ 2 0 00089837 00109773
+asimétrico a 1 2 ! ^ 1 0 00180907
+parcial a 3 3 ! ^ & 3 0 00060474 00159320 00270882
+destemido a 1 3 ! ^ & 1 0 00038429
+a_pelo a 1 1 & 1 0 00158521
+irreversíbel a 1 1 ! 1 0 00191688
+agudo a 3 2 ! ;c 3 0 00089108 00199567 00296351
+sen_carpelo a 1 2 ! ;c 1 0 00245658
+anemófilo a 1 1 ! 1 0 00241005
+monoteísta a 1 1 ! 1 0 00328627
+antropolóxico a 1 0 1 0 00334980
+incompatible a 5 3 ! ;c ^ 5 0 00067400 00182521 00289739 00293979 00332646
+liberal a 1 3 ! ^ = 1 0 00090726
+sobrescrito a 1 2 ! ;c 1 0 00161394
+raro a 5 3 ! ^ & 5 0 00028227 00034056 00050891 00070734 00326233
+insostíbel a 1 1 & 1 0 00252691
+tremente a 2 1 & 2 0 00203193 00230493
+anastigmático a 1 1 ! 1 0 00094693
+espallado a 2 1 & 2 0 00087664 00296152
+non_vixente a 1 1 ! 1 0 00056923
+aliviado a 1 1 ! 1 0 00047640
+en_liña a 2 1 ! 2 0 00010103 00145377
+herbáceo a 1 1 & 1 0 00212321
+haploide a 1 2 ! ;c 1 0 00088678
+ungulado a 2 1 ! 2 0 00077158 00196903
+alopátrida a 1 2 ! ;c 1 0 00312301
+non_resentido a 1 1 ! 1 0 00162484
+recíproco a 1 1 ! 1 0 00113533
+contemplativo a 1 1 & 1 0 00050695
+intransitábel a 1 1 ! 1 0 00259695
+reducible a 1 1 ! 1 0 00015368
+crible a 1 3 ! ^ = 1 0 00133176
+desbordante a 1 1 & 1 0 00255434
+vesgo a 2 1 ! 2 0 00091366 00182813
+urbano a 1 1 ! 1 0 00252821
+parecido a 1 0 1 0 00029577
+non_progresista a 1 2 ! & 1 0 00194771
+respiratorio a 1 0 1 0 00335814
+apétalo a 1 1 ! 1 0 00323627
+sen_límite a 1 1 ! 1 0 00205441
+vangardista a 1 1 & 1 0 00313708
+incumprido a 1 2 ! ;c 1 0 00164926
+de_seda a 1 1 & 1 0 00263125
+tanxido a 1 2 ! ;c 1 0 00080556
+asegurado a 1 1 ! 1 0 00328942
+anglicano a 1 1 ;c 1 0 00210059
+irrecuperable a 1 1 ! 1 0 00147842
+anabático a 1 1 ! 1 0 00250890
+aleitado a 1 1 ! 1 0 00069080
+sensacional a 1 1 ! 1 0 00061119
+desmoralizador a 1 1 & 1 0 00176370
+cacofónico a 1 3 ! ^ & 1 0 00024677
+sincrónico a 3 3 ! ^ & 3 0 00041197 00082429 00299563
+cariñoso a 4 3 ! ^ & 4 0 00028956 00053360 00130638 00168999
+irrompíbel a 1 1 ! 1 0 00039279
+adstrinxente a 2 1 ! 2 0 00038369 00293215
+tentador a 1 3 ! ^ & 1 0 00051085
+arrendado a 1 1 ! 1 0 00179945
+redutor a 1 0 1 0 00335509
+sen_diñeiro a 1 1 ! 1 0 00266712
+non_rabioso a 1 1 ! 1 0 00121788
+burocrático a 1 0 1 0 00335187
+manexable a 2 2 ! ^ 2 0 00123276 00173736
+similar a 1 3 ! ^ = 1 0 00189676
+oscilante a 1 1 & 1 0 00118552
+normal a 4 4 ! ;c ^ & 4 0 00015019 00029116 00237042 00310251
+insoportable a 1 3 ! ^ & 1 0 00001953
+desalugado a 1 1 ! 1 0 00292578
+honrado a 1 2 ! ^ 1 0 00113725
+estranxeiro a 2 2 ! & 2 0 00000584 00304727
+cortés a 5 3 ! ^ & 5 0 00085493 00149877 00191115 00287594 00332506
+artesiano a 1 1 ! 1 0 00257195
+polifacético a 1 1 ! 1 0 00150179
+silencioso a 2 3 ! ^ & 2 0 00096153 00262833
+cognitivo a 1 0 1 0 00336577
+expansivo a 1 1 ! 1 0 00163088
+desagradábel a 11 4 ! ;c ^ & 11 0 00004790 00048510 00061512 00094353 00105917 00266780 00278582 00304815 00311250 00318936 00327846
+vixente a 2 1 ! 2 0 00097588 00277280
+competente_nos_cálculos a 1 3 ! ^ = 1 0 00313108
+incompatíbel a 2 2 ! ^ 2 0 00067400 00293979
+branco a 2 2 ! ^ 2 0 00008432 00254235
+pestilente a 2 2 ! & 2 0 00173180 00188511
+nuclear a 1 1 ! 1 0 00259806
+sinérxico a 1 1 ! 1 0 00295835
+aprendido a 1 2 ! ;c 1 0 00173030
+crucial a 2 3 ! ^ & 2 0 00022131 00169607
+convertible a 1 2 ! = 1 0 00240564
+gañado a 1 1 ! 1 0 00222195
+non_refinado a 2 3 ! ^ & 2 0 00074564 00220815
+implícito a 1 3 ! ^ & 1 0 00072568
+conquerible a 1 2 ! ^ 1 0 00115788
+con_seguro a 1 1 ! 1 0 00328942
+desde_hai_moitos_anos a 1 1 & 1 0 00104629
+resultante a 1 1 & 1 0 00211672
+prógnato a 1 1 ! 1 0 00139026
+antinatural a 2 3 ! ^ & 2 0 00084374 00284943
+curioso a 1 3 ! ^ & 1 0 00105284
+non_plantado a 1 1 ! 1 0 00248619
+non_silábico a 2 1 ! 2 0 00092916 00307839
+espontaneamente a 1 1 & 1 0 00055485
+culinario a 1 0 1 0 00339845
+dixestivo a 1 0 1 0 00333371
+magoado a 1 1 & 1 0 00209169
+tolo a 3 3 ! ^ & 3 0 00206213 00263350 00268061
+de_folla_perenne a 1 2 ! ;c 1 0 00330284
+non_desexado a 1 2 ! ^ 1 0 00228367
+basipetálico a 1 2 ! ;c 1 0 00139458
+incuestionábel a 1 3 ! ^ & 1 0 00027549
+adoptable a 1 1 ! 1 0 00183627
+tanxíbel a 3 2 ! ^ 3 0 00075129 00091938 00254644
+anegado a 1 1 ! 1 0 00199684
+provida a 1 1 ! 1 0 00154565
+non_crucial a 2 1 ! 2 0 00320267 00331179
+reflexo a 1 1 & 1 0 00225679
+considerábel a 2 2 ! & 2 0 00015163 00294240
+pasivo a 3 2 ! ;c 3 0 00012065 00056472 00135716
+circunstancial a 1 1 & 1 0 00226892
+empregable a 1 1 ! 1 0 00070077
+inmencionábel a 1 1 & 1 0 00315968
+encerado a 1 1 ! 1 0 00121889
+racial a 1 2 ! & 1 0 00170643
+de_organización a 1 0 1 0 00335463
+aloxénico a 1 1 ! 1 0 00286790
+consultivo a 1 0 1 0 00030347
+de_atrás a 1 1 & 1 0 00243221
+sen_carburante a 1 1 ! 1 0 00035278
+sen_xermes a 1 2 ! ^ 1 0 00187790
+restrinxido a 2 3 ! ^ & 2 0 00225173 00268127
+imprevisíbel a 1 2 ! ^ 1 0 00221692
+etnográfico a 1 0 1 0 00335856
+construído_en_tope a 1 2 ! ;c 1 0 00143193
+sen_maquillaxe a 1 1 ! 1 0 00273023
+sen_ferrollos a 1 1 & 1 0 00250563
+gastronómico a 1 0 1 0 00337324
+irrecorrible a 1 1 ! 1 0 00175521
+reembolsábel a 1 1 ! 1 0 00079080
+paralelo a 1 2 ! ^ 1 0 00095429
+innumerábel a 1 1 & 1 0 00199808
+escalábel a 1 1 ! 1 0 00071756
+adulterado a 1 1 ! 1 0 00045565
+norte a 2 1 ! 2 0 00102254 00208380
+rizado a 1 1 ! 1 0 00291597
+valioso a 1 3 ! ^ & 1 0 00131508
+irresponsábel a 1 2 ! & 1 0 00021774
+escandaloso a 1 0 1 0 00063961
+molesto a 2 1 & 2 0 00273757 00306788
+non_comprensíbel a 1 1 ! 1 0 00283950
+apto a 1 2 ! ^ 1 0 00246538
+reanimado a 1 2 ! & 1 0 00024342
+ben_intencionado a 1 0 1 0 00203763
+non_retornábel a 1 1 ! 1 0 00123825
+apresurado a 1 2 ^ & 1 0 00065835
+irredutíbel a 2 3 ! ^ & 2 0 00012684 00048436
+sen_cinto a 1 1 ! 1 0 00117291
+desapracible a 1 3 ! ^ & 1 0 00278582
+inigualábel a 1 3 ! ^ & 1 0 00207320
+susceptible a 3 4 ! ^ & = 3 0 00133635 00148049 00304284
+provincial a 1 1 ! 1 0 00080031
+relaxado a 2 2 ! ^ 2 0 00121228 00277925
+ininterrompido a 2 3 ! ^ & 2 0 00146365 00255547
+enfermo a 2 4 ! ^ & = 2 0 00009016 00263642
+emocionante a 1 3 ! ^ & 1 0 00330377
+ecuatorial a 1 1 ! 1 0 00132609
+bravío a 2 3 ! ^ = 2 0 00086466 00294616
+queixoso a 2 2 ! & 2 0 00228033 00306159
+con_terraza a 1 1 ! 1 0 00280087
+amable a 1 1 & 1 0 00282086
+sen_orde a 1 1 ! 1 0 00092990
+non_fisible a 1 2 ! ;c 1 0 00248171
+estadista a 1 2 ! ^ 1 0 00146025
+totalmente_novo a 1 1 & 1 0 00263032
+persistente a 1 2 ! ;c 1 0 00150033
+de_non_curmán a 1 1 ! 1 0 00037222
+virulento a 1 1 ! 1 0 00254972
+enciclopédico a 1 1 & 1 0 00232318
+non_absorbente a 1 1 ! 1 0 00103809
+sen_arar a 1 1 ! 1 0 00145288
+perceptíbel a 2 2 ! ^ 2 0 00044311 00057976
+desenrizado a 1 1 ! 1 0 00070387
+altivo a 1 1 & 1 0 00146118
+non_glaseado a 1 1 ! 1 0 00028443
+leste a 1 1 ! 1 0 00275197
+crebado a 3 3 ! ;c ^ 3 0 00047824 00082488 00164926
+imaxinativo a 2 4 ! ^ & = 2 0 00066139 00314808
+postal a 1 0 1 0 00336884
+acusador a 1 1 & 1 0 00181648
+frito a 1 1 & 1 0 00314483
+con_boca a 1 2 ! ;c 1 0 00027062
+inmoderado a 1 1 ! 1 0 00150892
+inaplicable a 2 2 ! & 2 0 00233487 00269023
+non_susceptíbel a 2 3 ! ^ = 2 0 00098167 00307390
+angular a 1 3 ! ^ & 1 0 00139538
+optimista a 1 3 ! ^ & 1 0 00323948
+intransixente a 2 2 ! & 2 0 00011892 00205117
+sen_sustento a 1 1 ! 1 0 00251276
+atrasado a 3 2 ! & 3 0 00070786 00188400 00279299
+castrado a 1 1 ! 1 0 00142857
+non_confuso a 1 1 ! 1 0 00290282
+particulado a 1 1 ! 1 0 00009500
+desesperanzador a 1 3 ! ^ & 1 0 00016813
+de_cooperación a 1 1 & 1 0 00151927
+non_beneficiado a 1 1 ! 1 0 00330802
+adepto a 1 1 & 1 0 00192482
+de_devoción a 1 1 & 1 0 00252160
+manco a 1 1 ! 1 0 00006175
+átono a 2 1 ! 2 0 00096414 00120585
+infantil a 2 1 & 2 0 00070542 00216536
+non_manual a 1 2 ! ^ 1 0 00282554
+sen_faceta a 1 1 ! 1 0 00050531
+facultativo a 1 2 ! ;c 1 0 00174894
+con_fondo a 1 1 ! 1 0 00143279
+áptero a 1 1 ! 1 0 00306519
+aterrador a 1 1 & 1 0 00082229
+afectuoso a 1 2 ! ^ 1 0 00028956
+non_indíxena a 1 1 ! 1 0 00216949
+funcional a 2 3 ! ;c ^ 2 0 00090817 00226092
+solteiro a 1 0 1 0 00267869
+extraordinario a 4 3 ! ^ & 4 0 00010251 00282762 00303964 00312721
+transixente a 1 1 ! 1 0 00259964
+insectívoro a 1 2 ! ;c 1 0 00014715
+excéntrico a 1 1 ! 1 0 00195970
+inapto a 1 1 ! 1 0 00296908
+reprodutivo a 1 1 & 1 0 00200101
+con_pouco_xeito a 1 1 & 1 0 00321754
+orientado a 3 3 ! ^ & 3 0 00039151 00268740 00279843
+alto a 2 3 ! ^ & 2 0 00084593 00177350
+adictivo a 2 2 ! & 2 0 00040231 00260436
+do_fondo a 1 1 ! 1 0 00172782
+inaturábel a 2 3 ! ^ & 2 0 00001953 00202972
+dextro a 1 2 ! ^ 1 0 00251177
+bidimensional a 1 1 ! 1 0 00076790
+pregable a 1 1 ! 1 0 00147431
+inestimable a 2 1 & 2 0 00016243 00107658
+divisíbel a 1 2 ! & 1 0 00106465
+impotente a 3 2 ! ^ 3 0 00023029 00159411 00207512
+non_causativo a 1 1 ! 1 0 00059576
+aliñado a 1 1 ! 1 0 00199628
+para_adiante a 1 1 & 1 0 00052200
+insoportábel a 1 3 ! ^ & 1 0 00001953
+con_remorsos a 1 1 ! 1 0 00294394
+impublicábel a 2 1 ! 2 0 00180831 00227575
+indubidábel a 1 1 & 1 0 00052002
+renovábel a 1 1 ! 1 0 00141010
+autorizado a 1 3 ! ^ & 1 0 00177609
+rouco a 1 1 & 1 0 00141375
+absoluto a 1 1 ! 1 0 00180405
+non_adoito a 1 1 ! 1 0 00076485
+cordial a 1 1 ! 1 0 00078059
+sucesivo a 1 1 & 1 0 00103740
+soleado a 1 1 & 1 0 00071945
+atomístico a 1 1 ! 1 0 00001342
+adoito a 1 1 ! 1 0 00157821
+non_esculpido a 1 1 ! 1 0 00210578
+sen_labios a 1 1 ! 1 0 00254901
+indivisible a 1 2 ! & 1 0 00203470
+drenado a 1 1 ! 1 0 00116157
+anulable a 1 1 ! 1 0 00032836
+potente a 3 3 ! ^ & 3 0 00182182 00281772 00293855
+anádromo a 1 1 ! 1 0 00251552
+non_tosquiado a 1 1 ! 1 0 00316803
+non_atribuíbel a 1 1 ! 1 0 00239605
+académico a 1 3 ! ^ & 1 0 00331958
+rochoso a 1 1 ! 1 0 00151410
+exógamo a 1 2 ! ;c 1 0 00246035
+invidente a 1 2 ! & 1 0 00193431
+inicuo a 1 1 & 1 0 00265238
+nobre a 2 2 ! & 2 0 00295985 00320326
+práctica a 1 1 & 1 0 00108992
+combustíbel a 1 2 ! & 1 0 00164590
+termoendurecíbel a 1 1 ! 1 0 00227491
+bo a 5 3 ! ^ = 5 0 00013677 00116247 00191180 00192211 00323698
+demasiado a 1 1 & 1 0 00023766
+delgado a 2 3 ! ^ & 2 0 00219222 00317703
+coránico a 1 0 1 0 00336186
+vedado a 1 1 & 1 0 00157031
+revolto a 1 1 & 1 0 00011164
+barriga_plana a 1 1 ! 1 0 00258784
+combatente a 1 1 & 1 0 00144728
+desfavorable a 5 3 ! ^ & 5 0 00002511 00005581 00026368 00239162 00273901
+con_abotoadura_dobre a 1 1 ! 1 0 00134949
+que_mete_medo a 1 1 & 1 0 00205316
+obxectivo a 1 1 ! 1 0 00003684
+non_especializado a 1 2 ! ^ 1 0 00199932
+absurdo a 1 1 & 1 0 00115557
+rematado a 3 2 ! ^ 3 0 00085804 00175710 00281339
+de_mala_reputación a 1 3 ! ^ & 1 0 00190626
+descoidado a 3 3 ! ^ & 3 0 00111282 00253580 00297603
+sen_nariz a 1 1 ! 1 0 00244318
+non_cruzado a 1 1 ! 1 0 00161557
+mudo a 2 2 ! & 2 0 00032562 00280852
+desexoso a 1 2 ! & 1 0 00127476
+indubidable a 1 1 & 1 0 00052002
+monocotiledóneo a 1 2 ! ;c 1 0 00090451
+non_retornable a 1 1 ! 1 0 00123825
+revogábel a 2 1 ! 2 0 00032836 00304580
+profundo a 3 2 ! ^ 3 0 00124391 00182018 00285727
+doloroso a 2 3 ! ^ & 2 0 00077030 00295743
+na_rúa a 1 1 ! 1 0 00163547
+extensíbel a 1 1 ! 1 0 00285163
+non_potable a 1 1 ! 1 0 00204558
+dispensábel a 2 3 ! ^ & 2 0 00060283 00285537
+determinábel a 1 2 ! ^ 1 0 00258170
+intraducible a 1 1 ! 1 0 00132141
+sacerdotal a 1 1 ! 1 0 00234338
+hipertrofiado a 1 1 ! 1 0 00231466
+nulo a 1 1 & 1 0 00056305
+con_malas_herbas a 1 1 ! 1 0 00278971
+intemporal a 1 1 & 1 0 00288667
+binucleado a 1 2 ! ;c 1 0 00227730
+ríxido a 3 3 ! ;c & 3 0 00111650 00119168 00202296
+non_radioactivo a 1 1 ! 1 0 00111159
+contraído a 1 1 ! 1 0 00300897
+reentrante a 1 1 ! 1 0 00191000
+lánguida a 1 1 & 1 0 00126609
+impersoal a 1 1 ! 1 0 00327789
+difícil a 1 3 ! ^ & 1 0 00320497
+deliñábel a 1 1 ! 1 0 00294488
+tarabeleiro a 1 1 & 1 0 00061956
+cambiado a 1 1 ! 1 0 00092132
+non_apaixonado a 1 2 ! ^ 1 0 00127177
+reverencial a 1 1 & 1 0 00281618
+non_estandarizado a 1 2 ! ;c 1 0 00150409
+mal_deseñado a 1 1 & 1 0 00117230
+non_manchado a 1 1 ! 1 0 00184557
+non_cooperativo a 1 2 ! ^ 1 0 00327179
+inoxidable a 1 1 ! 1 0 00155922
+absorbente a 1 1 ! 1 0 00076877
+dispoñíbel a 1 1 ! 1 0 00049198
+sen_talo a 1 1 ! 1 0 00048921
+elegante a 5 3 ! ^ & 5 0 00168705 00170775 00197255 00217547 00224732
+sen_esforzo a 1 2 ! ^ 1 0 00325379
+prosaico a 1 0 1 0 00079324
+non_actual a 1 3 ! ^ & 1 0 00156783
+abaixo a 1 2 ! ^ 1 0 00312525
+inconmutable a 1 1 ! 1 0 00290657
+non_imposto a 1 1 ! 1 0 00295041
+perturbador a 1 3 ! ^ & 1 0 00136855
+indefenso a 1 1 & 1 0 00310060
+suprimido a 1 1 ! 1 0 00131280
+reactivo a 1 2 ! ;c 1 0 00160683
+escintilante a 2 1 & 2 0 00162424 00203809
+erróneo a 2 3 ! ^ & 2 0 00019326 00034131
+cigomorfo a 1 2 ! ;c 1 0 00081946
+eslavo a 1 0 1 0 00340006
+efémero a 2 4 ! ^ & = 2 0 00123613 00171686
+cínico a 1 1 & 1 0 00080702
+invariable a 3 2 ! ^ 3 0 00007598 00262291 00269128
+inverso a 1 2 ! ;c 1 0 00162823
+determinable a 1 2 ! ^ 1 0 00258170
+desequilibrado a 1 1 ! 1 0 00326804
+con_sola a 1 1 ! 1 0 00135933
+voltaico a 1 1 ;c 1 0 00065275
+somnolento a 2 1 & 2 0 00117934 00179270
+inmensurábel a 1 0 1 0 00042386
+non_voluntario a 1 2 ! ^ 1 0 00083009
+contestable a 1 2 ! ^ 1 0 00206703
+aire-superficie a 1 1 ! 1 0 00290788
+subartesiano a 1 1 ! 1 0 00144050
+rechamante a 2 3 ! ^ & 2 0 00043714 00163450
+xenófobo a 1 1 & 1 0 00312244
+orgánico a 3 2 ! ;c 3 0 00046492 00084462 00092840
+branquiado a 1 1 ! 1 0 00088524
+instruído a 1 1 & 1 0 00225481
+invertíbel a 1 1 ! 1 0 00192410
+antipatriótico a 1 2 ! ^ 1 0 00072207
+xeral a 3 3 ! ^ & 3 0 00037468 00277666 00323159
+inviolábel a 1 1 ! 1 0 00086319
+atrofiado a 1 1 ! 1 0 00011288
+mareiro a 1 1 ! 1 0 00196959
+partidista a 1 1 ! 1 0 00114165
+inverosímil a 2 3 ! ^ = 2 0 00260613 00295907
+orzamentario a 1 0 1 0 00336655
+viciado a 1 1 ! 1 0 00104146
+opresivo a 1 1 & 1 0 00092006
+mediano a 1 1 & 1 0 00223379
+serio a 2 1 ! 2 0 00054532 00309630
+lunar a 1 0 1 0 00337492
+alado a 1 1 ! 1 0 00162545
+impensable a 2 3 ! ^ & 2 0 00019537 00228233
+gañador a 1 1 & 1 0 00234282
+pacífico a 3 3 ! ^ & 3 0 00066766 00218834 00297459
+romántico a 1 0 1 0 00337695
+imprudente a 3 2 ! ^ 3 0 00035452 00114748 00200273
+encantado a 2 2 ! & 2 0 00037529 00168195
+horrendo a 1 1 & 1 0 00082229
+non_restritivo a 1 1 ! 1 0 00094044
+dolicocéfalo a 1 2 ! & 1 0 00138045
+sen_columnas a 1 1 ! 1 0 00293275
+heterocerco a 1 2 ! ;c 1 0 00291808
+deliñalo a 1 1 ! 1 0 00294488
+rexistrado a 3 2 ! ;c 3 0 00015239 00116481 00180213
+impaciente a 1 2 ! ^ 1 0 00086988
+que_non_ten_sentido a 1 2 ! ^ 1 0 00328764
+críbel a 1 3 ! ^ = 1 0 00133176
+semicircular a 1 1 & 1 0 00036280
+de_terceira_categoría a 1 1 & 1 0 00051878
+de_múltiple_elección a 1 1 ! 1 0 00141305
+puritano a 1 0 1 0 00073058
+físico a 1 2 ! & 1 0 00318110
+non_diplomático a 1 1 ! 1 0 00066427
+non_cortado a 2 1 ! 2 0 00157377 00186455
+pop a 1 2 ;c & 1 0 00063260
+estativo a 1 2 ! ;c 1 0 00323813
+de_baixa_tensión a 1 2 ! ;c 1 0 00260899
+supervisado a 1 1 ! 1 0 00127771
+oval a 1 1 & 1 0 00129984
+en_ruínas a 1 1 & 1 0 00276990
+asistemático a 1 2 ! ^ 1 0 00087863
+medorento a 1 4 ! ^ & = 1 0 00196533
+de_imitación a 1 1 & 1 0 00332331
+póstumo a 1 1 & 1 0 00275574
+entusiasta a 1 3 ! ^ & 1 0 00100145
+caloroso a 1 2 ! ^ 1 0 00149398
+de_único_cano a 1 1 ! 1 0 00093309
+viral a 1 0 1 0 00335353
+en_vías_de_desenvolvemento a 1 0 1 0 00006948
+equívoco a 2 2 ! ^ 2 0 00079859 00176926
+azulado a 1 1 & 1 0 00142605
+medroso a 4 4 ! ^ & = 4 0 00092785 00097844 00100903 00196533
+infectado a 1 2 ! ^ 1 0 00217037
+uniforme a 3 2 ! ^ 3 0 00103522 00269128 00286225
+relegado a 1 1 ^ 1 0 00052454
+ponderábel a 1 1 ! 1 0 00118269
+triásico a 1 0 1 0 00335270
+con_nome a 1 1 ! 1 0 00177915
+sensual a 1 1 & 1 0 00083707
+insondábel a 1 2 ! ^ 1 0 00082643
+ponteable a 1 1 ! 1 0 00237823
+dominador a 1 2 ! & 1 0 00180660
+sen_sola a 1 1 ! 1 0 00140112
+arquetípico a 1 1 & 1 0 00293411
+á_man a 1 1 ! 1 0 00172167
+cosmopolita a 2 1 ! 2 0 00181243 00299793
+impertérrito a 3 2 ! & 3 0 00082109 00178222 00316309
+rítmico a 1 3 ! ^ & 1 0 00125948
+definido a 3 2 ! ^ 3 0 00008559 00079417 00234396
+escaso a 5 3 ! ^ & 5 0 00056656 00091662 00186514 00233313 00260845
+faiscante a 1 1 & 1 0 00089651
+recatado a 1 0 1 0 00189880
+con_dedo a 1 1 ! 1 0 00182746
+adutor a 1 1 ! 1 0 00284381
+arbitrario a 1 2 ! & 1 0 00009370
+á_baixa a 1 1 ! 1 0 00066562
+ó_aire_libre a 1 1 & 1 0 00303394
+central a 3 2 ! & 3 0 00002374 00036033 00065450
+prénsil a 1 1 ! 1 0 00283462
+lactante a 2 1 ! 2 0 00110674 00216230
+de_curto_alcance a 1 1 & 1 0 00231023
+insatisfactorio a 1 3 ! ^ & 1 0 00080162
+sobrio a 2 2 ! & 2 0 00251793 00271330
+de_pel a 1 1 ! 1 0 00051948
+platónico a 1 0 1 0 00338695
+sen_combustible a 1 1 ! 1 0 00035278
+agarimoso a 2 2 ^ & 2 0 00053360 00088324
+non_embarazado a 1 1 ! 1 0 00201506
+lúdico a 1 1 ! 1 0 00002741
+barrigán a 1 1 ! 1 0 00256385
+apoiado a 2 2 ! & 2 0 00053886 00054753
+astrolóxico a 1 0 1 0 00335102
+imprevisible a 1 2 ! ^ 1 0 00221692
+isométrico a 1 1 ! 1 0 00287294
+non_influente a 1 1 ! 1 0 00120443
+con_gas a 2 1 ! 2 0 00124672 00162949
+con_bico a 1 1 ! 1 0 00239686
+marabilloso a 2 1 & 2 0 00243598 00312721
+tardío a 4 3 ! ;c & 4 0 00018105 00070786 00163200 00279299
+contaminado a 2 1 ! 2 0 00032433 00272317
+de_mal_humor a 1 3 ! ^ & 1 0 00266311
+con_cuncha a 1 1 ! 1 0 00061348
+de_rapaza a 1 1 & 1 0 00271273
+non_especificado a 1 1 ! 1 0 00227023
+incompetente_para_as_matemáticas a 1 2 ! = 1 0 00321256
+mellorado a 1 1 ! 1 0 00150950
+doce a 4 3 ! ^ & 4 0 00088324 00113293 00210163 00281990
+indescritíbel a 3 2 ! & 3 0 00066632 00099047 00179811
+resolto a 2 1 ! 2 0 00020233 00244014
+ostensivo a 1 1 ! 1 0 00015092
+non_arborizado a 1 1 ! 1 0 00261156
+síncrono a 1 3 ! ^ & 1 0 00041197
+non_arbitrábel a 1 1 ! 1 0 00219644
+reprensíbel a 1 1 & 1 0 00116799
+non_psicoactivo a 1 1 ! 1 0 00125140
+sucio a 6 4 ! ;c ^ & 6 0 00032433 00037284 00081347 00166542 00171307 00205512
+empapado a 1 1 ! 1 0 00199684
+incompetente a 1 2 ! ^ 1 0 00256454
+calcícola a 1 1 ! 1 0 00155062
+exquisito a 1 1 & 1 0 00099301
+cuestionábel a 1 3 ! ^ & 1 0 00311785
+inaccesíbel a 2 2 ! = 2 0 00010159 00283518
+velado a 1 1 ! 1 0 00092641
+radiotransparente a 1 1 ! 1 0 00209639
+acuático a 1 1 ! 1 0 00181573
+estratificado a 1 2 ! ;c 1 0 00292093
+deforme a 2 3 ! ^ & 2 0 00068764 00109049
+nolex a 3 1 ! 3 0 00039226 00042180 00315645
+rillado a 1 1 & 1 0 00052728
+obrigado a 2 3 ! ;c ^ 2 0 00262653 00292299
+cingalés a 1 0 1 0 00339279
+pernicioso a 1 2 ! ^ 1 0 00051757
+descritible a 1 1 ! 1 0 00202174
+inquebrantable a 1 1 ! 1 0 00039279
+con_escrúpulos a 1 1 ! 1 0 00217217
+insomerxíbel a 1 1 ! 1 0 00260060
+sen_dicir a 1 1 & 1 0 00164118
+sacrificable a 1 1 & 1 0 00277048
+conectado a 2 2 ! ^ 2 0 00203305 00242546
+tosquiado a 1 1 ! 1 0 00244069
+non_exixente a 1 2 ! ^ 1 0 00332786
+non_labrado a 1 1 ! 1 0 00210578
+non_lavable a 1 1 ! 1 0 00211818
+catabólico a 1 1 ! 1 0 00054833
+afundíbel a 1 1 ! 1 0 00047754
+fóra_da_rúa a 1 1 ! 1 0 00324400
+improvisado a 3 2 ! & 3 0 00055485 00137619 00222250
+heteroico a 1 1 ! 1 0 00282690
+efeminado a 2 0 2 0 00134716 00208646
+salubre a 2 2 ! ^ 2 0 00221897 00286005
+vistoso a 1 2 ! ^ 1 0 00163450
+experto a 2 2 ! & 2 0 00166213 00192482
+incombinativo a 1 1 ! 1 0 00042233
+sen_apéndice a 1 1 ! 1 0 00021226
+flexional a 1 1 ! 1 0 00021159
+máxico a 2 1 & 2 0 00129762 00305884
+ávido a 1 2 ! ^ 1 0 00250394
+obsoleto a 1 1 & 1 0 00206048
+non_confirmado a 1 1 ! 1 0 00261720
+dixitígrado a 1 2 ! ;c 1 0 00145143
+non_nomeado a 1 1 ! 1 0 00100055
+externo a 3 3 ! ^ = 3 0 00063428 00072841 00315220
+inconsecuente a 1 0 1 0 00108197
+soterrado a 1 1 ! 1 0 00237588
+empresarial a 1 0 1 0 00337283
+incontábel a 1 1 & 1 0 00199808
+especificado a 1 1 ! 1 0 00277220
+solar a 1 0 1 0 00334080
+elevado a 1 1 ! 1 0 00166433
+recomendábel a 1 2 ! ^ 1 0 00288344
+heterodoxo a 1 2 ! & 1 0 00247560
+con_grans a 1 1 & 1 0 00311969
+máis_lonxe a 1 1 & 1 0 00214252
+non_tóxico a 1 2 ! ^ 1 0 00314993
+engurrado a 2 2 ! & 2 0 00129927 00324717
+florido a 1 1 ! 1 0 00085665
+común a 2 2 ! ^ 2 0 00183555 00288487
+fortuíto a 1 0 1 0 00289574
+non_acompañado a 2 1 ! 2 0 00129528 00225402
+non_virado a 1 1 ! 1 0 00226635
+torpe a 4 3 ! ^ & 4 0 00114998 00241121 00281103 00296819
+non_meticuloso a 2 3 ! ;c ^ 2 0 00029479 00049766
+inextensíbel a 1 1 ! 1 0 00273117
+fosforescente a 1 1 & 1 0 00089219
+sen_pluma a 1 1 ! 1 0 00323206
+pago a 1 1 ! 1 0 00019033
+periódico a 1 2 ! & 1 0 00136564
+temible a 1 1 & 1 0 00082229
+vivíparo a 1 1 ! 1 0 00323437
+de_percepción a 1 0 1 0 00336920
+impreciso a 3 2 ! ^ 3 0 00034131 00150240 00176024
+non_reintegrable a 1 1 ! 1 0 00123825
+vixiante a 2 3 ! ^ & 2 0 00047028 00109602
+incontrolado a 1 1 & 1 0 00329829
+cativador a 2 2 ^ & 2 0 00169273 00193738
+sen_propósito a 1 3 ! ^ & 1 0 00005099
+non_adhesivo a 1 1 ! 1 0 00178508
+evitábel a 2 1 ! 2 0 00091010 00198166
+perpendicular a 1 1 ! 1 0 00240325
+oportunista a 1 1 & 1 0 00105702
+coexistente a 1 1 & 1 0 00285048
+alá a 1 1 & 1 0 00064256
+de_arxila a 1 0 1 0 00337645
+con_amidón a 1 1 ! 1 0 00209359
+alcanforado a 1 1 ! 1 0 00271567
+intercambiable a 2 2 ! = 2 0 00240564 00323263
+de_barril a 1 1 ! 1 0 00270799
+de_felicitación a 1 1 & 1 0 00009683
+sustentado a 2 1 ! 2 0 00054753 00223717
+ausente a 1 1 ! 1 0 00193006
+atenuado a 1 1 ! 1 0 00233769
+unidireccional a 1 2 ! & 1 0 00261002
+inexacto a 2 2 ! ^ 2 0 00034131 00108435
+uníparo a 1 2 ! ;c 1 0 00036871
+adhesivo a 1 2 ! & 1 0 00037775
+distante a 3 4 ! ^ & = 3 0 00060984 00184747 00234984
+nutritivo a 2 1 & 2 0 00179754 00333786
+sen_pulir a 1 2 ! ^ 1 0 00087256
+sen_lúa a 1 1 ! 1 0 00010668
+reembolsable a 1 1 ! 1 0 00079080
+agrario a 1 1 & 1 0 00288042
+a_favor a 1 1 ! 1 0 00168560
+balorecido a 1 1 & 1 0 00141561
+desaxustado a 1 2 ! ;c 1 0 00101669
+rectángulo a 1 1 & 1 0 00246971
+bicorial a 1 1 ! 1 0 00312153
+temperado a 1 2 ! ^ 1 0 00173581
+non_empático a 1 2 ! ^ 1 0 00180984
+de_última_hora a 1 1 & 1 0 00068366
+razoable a 1 3 ! ^ & 1 0 00113155
+xentil a 1 2 ! ^ 1 0 00085493
+períptero a 1 1 ! 1 0 00184631
+sen_manchas a 1 1 ! 1 0 00184557
+clímax a 1 1 ! 1 0 00322224
+non_residencial a 1 1 ! 1 0 00009909
+longo a 1 0 1 0 00000351
+con_borde a 1 2 ! ^ 1 0 00036181
+castigado a 1 1 ! 1 0 00012555
+desacougante a 4 3 ! & = 4 0 00061666 00134319 00176370 00181943
+substituíble a 2 3 ! ^ & 2 0 00140243 00284033
+colado a 1 1 ! 1 0 00073296
+herético a 1 1 & 1 0 00131801
+sincero a 1 3 ! ^ & 1 0 00175776
+escuro a 3 3 ! ^ & 3 0 00095281 00258264 00314224
+non_incluído a 1 1 ! 1 0 00036679
+castaño a 1 1 & 1 0 00149215
+pobre a 5 3 ! ^ & 5 0 00035658 00091662 00183255 00266712 00296220
+pequeno a 3 2 ! & 3 0 00014076 00243435 00276867
+sostíbel a 1 0 1 0 00333410
+esnaquizado a 1 1 & 1 0 00314296
+crespo a 1 1 ! 1 0 00291597
+imitado a 1 3 ! ^ & 1 0 00081006
+impublicable a 2 1 ! 2 0 00180831 00227575
+sen_base a 1 1 & 1 0 00154166
+invendible a 1 1 ! 1 0 00263934
+inacabado a 2 3 ! ^ & 2 0 00003741 00216780
+morganático a 1 0 1 0 00185188
+cuadraxésimo a 1 1 & 1 0 00016060
+non_acertado a 1 2 ! ^ 1 0 00165552
+anti a 1 1 ! 1 0 00256321
+rural a 1 2 ! & 1 0 00214663
+tenso a 5 2 ! ^ 5 0 00048586 00073664 00129701 00143950 00316970
+íntegro a 2 2 ! ^ 2 0 00273487 00309094
+non_profesional a 2 1 ! 2 0 00174540 00184256
+pouco_profesional a 1 1 ! 1 0 00184256
+tributable a 1 2 ! ^ 1 0 00195518
+incipiente a 1 1 ! 1 0 00248734
+barato a 2 2 ! & 2 0 00077755 00228657
+inmanexábel a 1 2 ! ^ 1 0 00049466
+principal a 4 3 ! ;c & 4 0 00040372 00053959 00240059 00323159
+neto a 1 1 ! 1 0 00255029
+sen_mangas a 1 1 ! 1 0 00065332
+decoroso a 3 4 ! ^ & = 3 0 00031524 00212102 00246348
+non_estadista a 1 2 ! ^ 1 0 00139379
+inquieto a 1 2 ! ^ 1 0 00126936
+craso a 1 1 & 1 0 00263297
+sen_escrúpulos a 1 1 ! 1 0 00166918
+intelixente a 2 3 ! ^ & 2 0 00082801 00156224
+non_nervioso a 1 1 ! 1 0 00030991
+estéril a 1 2 ! ^ 1 0 00008310
+non_obrigado a 1 1 ! 1 0 00100284
+descontento a 2 3 ! ^ & 2 0 00167380 00182074
+admisible a 1 2 ! = 1 0 00064618
+ambicioso a 1 2 ! ^ 1 0 00213937
+de_facto a 1 2 ! ^ 1 0 00265883
+limitado a 5 2 ! ^ 5 0 00036181 00113040 00125626 00215026 00238768
+avesío a 1 1 & 1 0 00299908
+dehiscente a 1 1 ! 1 0 00121309
+absorbíbel a 1 1 ! 1 0 00266108
+grandioso a 1 0 1 0 00095934
+holístico a 1 1 ! 1 0 00151253
+máis_meridional a 1 1 & 1 0 00238049
+potábel a 1 1 ! 1 0 00250476
+non_riscado a 1 1 ! 1 0 00161557
+crecho a 1 1 ! 1 0 00291597
+concreto a 1 2 ! ^ 1 0 00050781
+preliminar a 1 1 & 1 0 00117348
+supraxacente a 1 1 ! 1 0 00079020
+sexista a 1 1 & 1 0 00317080
+silenciado a 1 1 ! 1 0 00301171
+non_interrogante a 1 1 ! 1 0 00147099
+rebelde a 3 3 ! ^ & 3 0 00165660 00202634 00266592
+enselado a 1 1 ! 1 0 00213802
+descendente a 2 3 ! ^ & 2 0 00066562 00076935
+de_talle_único a 1 1 ! 1 0 00003852
+agronómico a 1 0 1 0 00334115
+nocturno a 2 3 ! ;c & 2 0 00119506 00190197
+considerado a 2 3 ! ^ & 2 0 00040672 00193336
+salvable a 2 2 ! ^ 2 0 00223785 00237823
+endémico a 1 1 ! 1 0 00218648
+independente a 4 5 ! ;c ^ & = 4 0 00040372 00152674 00215330 00250702
+eufemístico a 1 1 ! 1 0 00311056
+enfronte a 1 1 & 1 0 00052200
+non_declarado a 2 1 ! 2 0 00162119 00248371
+inxustificado a 1 1 & 1 0 00154166
+argumentativo a 1 1 ! 1 0 00288224
+doutro_xeito a 1 1 & 1 0 00319655
+irresolúbel a 1 2 ! ^ 1 0 00217753
+impensábel a 2 3 ! ^ & 2 0 00019537 00228233
+cruzado a 2 1 ! 2 0 00190122 00290733
+sen_precedente a 1 1 ! 1 0 00212784
+demoníaco a 1 1 & 1 0 00289457
+ionizado a 1 1 ! 1 0 00195914
+ascendente a 1 3 ! ^ & 1 0 00237393
+fundamental a 2 3 ! ^ & 2 0 00077954 00142250
+se_non a 1 1 & 1 0 00319655
+frecuente a 1 2 ! & 1 0 00132252
+violable a 1 1 ! 1 0 00311717
+sanguento a 1 2 ! & 1 0 00006857
+adscrito a 1 2 ! ;c 1 0 00006647
+non_reflectido a 1 1 ! 1 0 00085742
+a_bravo a 1 1 ! 1 0 00145288
+penetrable a 1 1 ! 1 0 00029652
+empinado a 1 1 ! 1 0 00114511
+entreforrado a 1 1 ! 1 0 00187937
+inutilizable a 1 1 & 1 0 00235993
+perinatal a 1 1 ! 1 0 00299305
+retornábel a 1 1 ! 1 0 00079080
+non_elegante a 2 2 ! ^ 2 0 00149271 00313998
+non_arbóreo a 1 1 ! 1 0 00132327
+cualificado a 2 3 ! ^ & 2 0 00024060 00333159
+sintético a 3 3 ! ;c ^ 3 0 00109715 00248928 00282956
+arrepiado a 1 1 & 1 0 00060636
+inesgotábel a 3 2 ! & 3 0 00047300 00082935 00141970
+ventral a 2 2 ! ;c 2 0 00008504 00017646
+adicto a 1 1 ! 1 0 00104146
+regordecho a 1 1 & 1 0 00307033
+listo a 2 3 ! ^ & 2 0 00100650 00170979
+á_esquerda a 1 2 ! ^ 1 0 00001183
+infrahumano a 1 0 1 0 00068926
+non_argumentativo a 1 1 ! 1 0 00041638
+indomábel a 2 3 ! ^ & 2 0 00118697 00266592
+desnutrido a 1 2 ! & 1 0 00061880
+vizoso a 1 3 ! ^ & 1 0 00191916
+moribundo a 1 1 ! 1 0 00208134
+criptográfico a 1 0 1 0 00338098
+clásico a 1 1 ! 1 0 00153320
+sen_boca a 1 2 ! ;c 1 0 00032761
+non_uniforme a 1 3 ! ^ & 1 0 00159762
+sen_marco a 1 1 ! 1 0 00321638
+enviado a 1 1 ! 1 0 00326577
+adiabático a 1 2 ! ;c 1 0 00034519
+en_sentido_das_agullas_do_reloxo a 1 2 ! ^ 1 0 00132511
+animada a 1 2 ! ^ 1 0 00171878
+con_pebidas a 1 1 ! 1 0 00126244
+apocárpico a 1 2 ! ;c 1 0 00098909
+carpelado a 1 2 ! ;c 1 0 00149053
+non_anulable a 1 1 ! 1 0 00287869
+terrorífico a 2 1 & 2 0 00066932 00168621
+verdadeiro_ou_falso a 1 1 ! 1 0 00033721
+acromático a 1 4 ! ^ & = 1 0 00033056
+sen_terra a 1 1 ! 1 0 00165078
+dixeríbel a 1 2 ! ^ 1 0 00274300
+antónimo a 1 1 ! 1 0 00122003
+axeitado a 6 4 ! ^ & = 6 0 00002977 00014849 00135443 00178733 00246538 00282086
+inexpresivo a 2 1 & 2 0 00202853 00217694
+inexplicábel a 1 3 ! ^ & 1 0 00262034
+á_fronte a 1 1 & 1 0 00052200
+retornable a 1 1 ! 1 0 00079080
+esgotable a 1 1 ! 1 0 00238768
+clasificado a 2 1 ! 2 0 00088619 00322047
+de_tres_pezas a 1 1 ! 1 0 00001501
+inculpatorio a 1 1 ! 1 0 00194852
+afundido a 1 1 & 1 0 00059354
+sen_resolver a 1 1 ! 1 0 00203044
+ortopédico a 1 0 1 0 00337858
+malfadado a 1 1 ^ 1 0 00314546
+repoludo a 1 1 & 1 0 00199234
+sen_arestas a 1 1 ! 1 0 00122060
+discutible a 1 0 1 0 00142971
+benvido a 1 2 ! ^ 1 0 00134755
+canceríxeno a 1 0 1 0 00334898
+insensíbel a 5 3 ! ^ & 5 0 00015553 00046615 00056041 00117652 00278074
+sen_preparación a 1 3 ! ^ & 1 0 00309745
+sen_aderezos a 1 1 & 1 0 00307197
+preferente a 1 1 & 1 0 00020288
+perenne a 2 2 ! ;c 2 0 00126040 00330284
+imparable a 1 1 ! 1 0 00153537
+sen_sucos a 1 1 ! 1 0 00203869
+enluarado a 1 1 ! 1 0 00125072
+poderoso a 2 3 ! ^ & 2 0 00182182 00270036
+arriba a 1 3 ! ^ & 1 0 00075503
+frustrado a 2 1 & 2 0 00031782 00048081
+apolítico a 2 2 ! & 2 0 00101928 00205933
+indispensábel a 1 2 ! ^ 1 0 00122596
+espazado a 1 1 ! 1 0 00154110
+sen_barriga a 1 1 ! 1 0 00258784
+patriótico a 1 2 ! ^ 1 0 00095004
+non_pavimentado a 1 1 ! 1 0 00328547
+non_arandelado a 1 1 ! 1 0 00085298
+prolongado a 1 0 1 0 00000351
+alcohólico a 1 2 ! & 1 0 00139873
+intransitable a 1 1 ! 1 0 00259695
+práctico a 1 3 ! ^ = 1 0 00135786
+supranacional a 1 0 1 0 00275250
+sen_tirador a 1 1 ! 1 0 00165135
+cálido a 2 2 ! = 2 0 00063649 00160492
+ilegal a 1 1 ^ 1 0 00300171
+non_reversible a 2 1 ! 2 0 00303525 00320818
+cooperativo a 1 3 ! ^ & 1 0 00282402
+calculábel a 1 2 ! ^ 1 0 00112037
+torto a 3 4 ! ^ & = 3 0 00176747 00231751 00268912
+implacábel a 3 2 ! & 3 0 00164473 00176119 00187459
+ataviado a 1 1 & 1 0 00292966
+excitable a 1 2 ! & 1 0 00188551
+fendida a 1 1 ! 1 0 00056767
+enmeigado a 1 1 & 1 0 00141428
+desenvolto a 2 1 ! 2 0 00042038 00308785
+en_forma a 1 2 ! ^ 1 0 00031296
+adaptado a 3 3 ! ;c ^ 3 0 00014849 00157821 00222851
+insinuante a 1 1 & 1 0 00192546
+ateniense a 1 0 1 0 00335663
+proxectado a 1 2 ! ^ 1 0 00104943
+característico a 1 2 ! ^ 1 0 00014544
+interrompido a 3 2 ! ^ 3 0 00028636 00082488 00225049
+explicativo a 1 1 & 1 0 00143134
+vertixinoso a 1 1 & 1 0 00293098
+con_combustible a 1 1 ! 1 0 00148166
+brasileiro a 1 0 1 0 00334356
+aguzado a 1 3 ! ^ & 1 0 00251976
+infinito a 4 4 ! ;c ^ & 4 0 00019171 00116649 00185030 00218123
+non_reflector a 1 1 ! 1 0 00080279
+escalable a 1 1 ! 1 0 00071756
+non_reanimado a 1 1 ! 1 0 00151866
+non_apetitoso a 1 2 ! ^ 1 0 00054063
+detectábel a 1 1 ! 1 0 00077827
+esotérico a 1 3 ! ^ & 1 0 00169885
+hipertónico a 2 1 ! 2 0 00039618 00150719
+respectábel a 1 2 ! ^ 1 0 00014452
+bruto a 2 1 ! 2 0 00074564 00138756
+irrepetible a 1 1 ! 1 0 00218049
+negro a 2 2 ! ^ 2 0 00056870 00218763
+inmensurable a 1 0 1 0 00042386
+asertivo a 2 2 ! ^ 2 0 00191459 00197625
+pitagórico a 1 0 1 0 00335229
+por_outra_parte a 1 1 & 1 0 00319655
+radiolúcido a 1 1 ! 1 0 00209639
+imperioso a 1 1 & 1 0 00146118
+de_alaska a 1 0 1 0 00337777
+ridículo a 1 1 & 1 0 00262456
+almeado a 1 1 & 1 0 00085243
+non_fretado a 1 1 ! 1 0 00292578
+corrixíbel a 1 1 ! 1 0 00290341
+unimodal a 1 2 ! ;c 1 0 00119373
+afábel a 2 3 ! ^ & 2 0 00207859 00297459
+non_restrinxido a 1 2 ! ^ 1 0 00293568
+fóra_do_lugar a 1 1 ! 1 0 00092426
+desabotoado a 1 1 ! 1 0 00201174
+repetíbel a 1 1 ! 1 0 00313823
+intratábel a 1 2 ! ^ 1 0 00049466
+diminuído a 1 1 ! 1 0 00011288
+vergonzoso a 1 1 ! 1 0 00003349
+inadaptado a 3 3 ! ;c ^ 3 0 00076485 00101669 00289739
+condicionado a 1 2 ! ;c 1 0 00173030
+non_detectado a 1 2 ! & 1 0 00217351
+prevalente a 1 1 & 1 0 00243021
+dixital a 2 2 ! ;c 2 0 00062900 00308913
+endogámico a 2 2 ! ;c 2 0 00023568 00263189
+expresábel a 3 2 ! & 3 0 00189978 00202174 00289866
+non_bautizado a 1 1 ! 1 0 00029837
+teitado a 1 1 ! 1 0 00254014
+cegador a 1 1 & 1 0 00224411
+falado a 1 2 ! ^ 1 0 00035199
+sur a 2 2 ! & 2 0 00050589 00269772
+sen_rasurar a 1 1 ! 1 0 00181170
+impuro a 3 3 ! ;c ^ 3 0 00028696 00205512 00224477
+correccional a 1 1 & 1 0 00302136
+de_la a 1 0 1 0 00337527
+graxo a 1 1 ! 1 0 00215141
+afiliada a 1 1 & 1 0 00154395
+antipirético a 1 1 ! 1 0 00096092
+quedo a 1 0 1 0 00280731
+con_incrustacións a 1 1 & 1 0 00032006
+de_espora_longa a 1 1 ! 1 0 00247497
+chairo a 1 2 ! ^ 1 0 00286225
+oloroso a 1 1 ! 1 0 00228474
+traballador a 1 1 & 1 0 00132667
+seco a 4 3 ! ^ & 4 0 00010477 00090254 00103095 00190574
+desintricábel a 1 1 ! 1 0 00172952
+non_prometedor a 1 1 ! 1 0 00325738
+non_renovable a 1 1 ! 1 0 00099358
+birollo a 2 1 ! 2 0 00091366 00182813
+inexorábel a 1 0 1 0 00187459
+sen_espiñas a 1 1 ! 1 0 00089427
+desprevido a 1 2 ! ^ 1 0 00189780
+lampantín a 1 1 ! 1 0 00139950
+incólume a 1 2 ! ^ 1 0 00265550
+de_verdade a 1 1 ! 1 0 00066491
+virado a 1 1 ! 1 0 00072153
+lapadoiras a 1 1 ! 1 0 00139950
+variado a 2 3 ! ^ & 2 0 00043195 00137176
+pesimista a 1 3 ! ^ & 1 0 00055149
+vingativo a 1 1 & 1 0 00278525
+sen_bágoas a 1 1 ! 1 0 00304504
+inculto a 1 2 ! ^ 1 0 00299454
+asinado a 1 1 ! 1 0 00095095
+desenvolvido a 2 1 ! 2 0 00042038 00308785
+frontal a 1 2 ! ^ 1 0 00194680
+cara_ó_norte a 1 1 ! 1 0 00102254
+non_cristián a 1 1 ! 1 0 00299963
+aluarado a 1 1 ! 1 0 00125072
+provocativo a 1 3 ! ^ & 1 0 00071219
+indulxente a 1 1 ! 1 0 00080630
+irritante a 1 0 1 0 00257866
+empaquetado a 2 1 ! 2 0 00292184 00318504
+astuto a 3 3 ! ^ & 3 0 00091184 00092565 00319082
+visible a 2 3 ! ^ & 2 0 00180022 00251362
+adorable a 2 2 ^ & 2 0 00158635 00164709
+quincenalmente a 1 1 & 1 0 00324041
+exponencial a 1 0 1 0 00336496
+cabal a 1 1 & 1 0 00224164
+de_ollos_de_lince a 1 1 & 1 0 00088842
+farfantón a 1 1 & 1 0 00129629
+confortable a 1 2 ! & 1 0 00273281
+loábel a 1 1 & 1 0 00254289
+reintegrábel a 1 1 ! 1 0 00079080
+miserable a 1 1 & 1 0 00267583
+aristotélico a 1 0 1 0 00334519
+non_emocional a 1 2 ! ^ 1 0 00096468
+manso a 1 2 ! ^ 1 0 00295330
+algareiro a 1 1 ! 1 0 00002741
+impermeábel a 3 2 ! ^ 3 0 00098167 00210390 00315128
+non_agresivo a 1 2 ! ^ 1 0 00016537
+vindeiro a 1 1 & 1 0 00314682
+hipócrita a 1 2 ! ^ 1 0 00101136
+abatido a 2 3 ! ^ & 2 0 00023994 00115612
+sólido a 3 2 ! ^ 3 0 00030900 00221897 00286005
+sen_herba a 1 1 ! 1 0 00222794
+cru a 1 1 ! 1 0 00245867
+de_sobremesa a 1 1 ! 1 0 00255858
+saudábel a 4 4 ! ^ & = 4 0 00033563 00280777 00287226 00329514
+vernáculo a 1 1 & 1 0 00210332
+revelador a 2 1 ! 2 0 00234680 00316178
+masoquista a 1 1 ! 1 0 00232912
+sen_temón a 1 1 & 1 0 00068107
+impopular a 1 2 ! = 1 0 00307122
+non_competitivo a 1 1 ! 1 0 00220449
+dentro_do_estándar a 1 2 ! ;c 1 0 00170405
+non_en_forma a 1 3 ! ^ & 1 0 00045840
+ocre a 1 1 & 1 0 00054254
+mouco a 1 1 ! 1 0 00107846
+instrutivo a 1 1 & 1 0 00118621
+severo a 1 1 ! 1 0 00084878
+sen_cuncha a 1 1 ! 1 0 00076720
+permeábel a 2 2 ! ^ 2 0 00112815 00148049
+non_espazado a 1 1 ! 1 0 00332913
+elocuente a 1 1 & 1 0 00059519
+arrogante a 1 1 & 1 0 00317415
+crepuscular a 1 1 & 1 0 00006798
+namorado a 2 1 & 2 0 00099733 00137917
+non_permisivo a 2 1 ! 2 0 00132405 00238650
+con_cautela a 1 1 & 1 0 00197847
+ateigado_de_estrelas a 1 1 & 1 0 00206795
+típico a 1 2 ! ^ 1 0 00125741
+de_enerxía_de_liberación a 1 2 ! ^ 1 0 00007435
+flexible a 5 3 ! ;c ^ 5 0 00049766 00077481 00126303 00133307 00259964
+anoxado a 1 1 & 1 0 00033508
+ar-superficie a 1 1 ! 1 0 00290788
+considerable a 2 2 ! & 2 0 00015163 00294240
+alcalino a 1 2 ! ;c 1 0 00073882
+irregular a 7 4 ! ;c ^ & 7 0 00051539 00151410 00159762 00216100 00278017 00289995 00301559
+das_terras_baixas a 1 0 1 0 00294755
+triclínico a 1 2 ! ;c 1 0 00005675
+acorde a 2 2 ! ^ 2 0 00276721 00324820
+último a 2 2 ! & 2 0 00183156 00247808
+incapacitado a 1 1 ! 1 0 00280989
+desintricable a 1 1 ! 1 0 00172952
+ambulante a 1 1 & 1 0 00138300
+discreto a 3 2 ! ^ 3 0 00073793 00102677 00185589
+non_intercambiábel a 1 1 ! 1 0 00015661
+derrogable a 1 1 ! 1 0 00032836
+discordante a 1 1 ! 1 0 00214179
+diádromo a 1 1 ! 1 0 00113956
+ambidextro a 1 1 ! 1 0 00024923
+documentado a 1 1 ! 1 0 00242603
+indiferente a 2 2 ! & 2 0 00177011 00217973
+interdisciplinar a 1 0 1 0 00334396
+errada a 1 1 ! 1 0 00037005
+xusto a 5 2 ! ^ 5 0 00084663 00103651 00113725 00128103 00263832
+incómodo a 3 3 ! ^ & 3 0 00053451 00179351 00265957
+alarbe a 1 1 ! 1 0 00139950
+insubstancial a 1 2 ! ^ 1 0 00044920
+enteiro a 2 2 ! ^ 2 0 00168351 00309094
+solto a 4 3 ! ^ & 4 0 00005405 00011111 00052675 00201174
+proximal a 1 2 ! ;c 1 0 00184026
+perplexo a 2 1 & 2 0 00179676 00188908
+no_poder a 1 1 & 1 0 00129437
+leproso a 1 0 1 0 00339559
+sen_confianza a 1 1 & 1 0 00124611
+reloucante a 1 0 1 0 00024637
+feito_á_medida a 1 2 ! & 1 0 00260327
+de_moi_bo_corazón a 1 0 1 0 00088907
+amarrado a 3 2 ! ^ 3 0 00174134 00231816 00296645
+protector a 1 2 ! ^ 1 0 00096756
+materno a 1 3 ! ^ & 1 0 00224231
+tolerable a 1 2 ! ^ 1 0 00083122
+non_certificado a 1 1 ! 1 0 00236565
+de_pelo_canoso a 1 1 & 1 0 00024191
+intranquilo a 1 2 ! ^ 1 0 00126936
+macroeconómico a 1 0 1 0 00338984
+sectario a 1 1 ! 1 0 00007233
+cardinal a 1 2 ! & 1 0 00193531
+hidrofílico a 1 2 ! ;c 1 0 00140718
+pouco_evidente a 1 1 ! 1 0 00107212
+recuperable a 2 2 ! & 2 0 00199290 00245736
+inchado a 1 1 & 1 0 00244876
+con_voto a 1 1 ! 1 0 00080815
+unitario a 1 1 ! 1 0 00011413
+pleurocárpico a 1 1 ! 1 0 00326342
+ben_aconsellado a 1 2 ! ^ 1 0 00212934
+das_mareas a 1 0 1 0 00336537
+inflamable a 2 2 ! & 2 0 00095590 00164590
+impresionante a 1 0 1 0 00303964
+par a 1 1 ! 1 0 00194977
+aflixido a 1 1 & 1 0 00210667
+conspirador a 1 0 1 0 00340822
+federal a 1 1 ! 1 0 00070263
+final a 2 2 ! & 2 0 00183156 00189623
+estudado a 1 2 ! ^ 1 0 00104943
+amarelado a 1 1 & 1 0 00217294
+arábel a 1 1 & 1 0 00261629
+administrativo a 1 0 1 0 00334728
+non_asociativo a 1 1 ! 1 0 00011713
+acugulado a 1 2 ! & 1 0 00250071
+eloxioso a 1 2 ! ^ 1 0 00247712
+voluntario a 2 2 ! ^ 2 0 00060578 00061418
+indestrutíbel a 1 1 ! 1 0 00289045
+ponteábel a 1 1 ! 1 0 00237823
+consecuente a 1 2 ! ^ 1 0 00170303
+sen_gas a 2 1 ! 2 0 00099981 00304210
+sen_palabras a 1 1 & 1 0 00249685
+sonoro a 3 3 ! ^ = 3 0 00012233 00196310 00231430
+sedoso a 1 1 & 1 0 00263125
+descansado a 2 2 ! ^ 2 0 00121228 00316046
+bebible a 1 1 ! 1 0 00250476
+inmiscíbel a 1 2 ! ;c 1 0 00040992
+imperfecto a 2 3 ! ^ & 2 0 00221968 00231929
+líquido a 1 1 ! 1 0 00042722
+non_leñoso a 1 2 ! & 1 0 00108805
+descontrolado a 1 3 ! ^ & 1 0 00040776
+sen_neurose a 1 1 ! 1 0 00274224
+mitolóxico a 1 1 & 1 0 00163019
+exculpatorio a 1 2 ! & 1 0 00240247
+reconciliable a 1 1 ! 1 0 00148912
+non_viciado a 1 1 ! 1 0 00220205
+sen_emoción a 1 2 ! ^ 1 0 00096468
+irrelevante a 1 2 ! & 1 0 00221203
+conformista a 1 1 ! 1 0 00032298
+non_modificable a 1 1 ! 1 0 00309186
+posnatal a 1 1 ! 1 0 00060375
+publicitado a 1 1 ! 1 0 00286413
+pasado a 2 3 ! ^ & 2 0 00067849 00299640
+adsorbible a 1 1 ! 1 0 00141760
+mestre a 1 1 ! 1 0 00240059
+permanente a 2 4 ! ^ & = 2 0 00177070 00190414
+rendíbel a 1 3 ! ^ & 1 0 00120048
+raso a 1 1 ! 1 0 00026285
+áspero a 3 3 ! ^ & 3 0 00019750 00085144 00288802
+infiel a 3 3 ! ^ & 3 0 00009801 00264977 00301011
+escenificado a 1 1 ! 1 0 00243161
+sen_contras a 1 1 ! 1 0 00083913
+sen_branca a 1 1 & 1 0 00272765
+lavábel a 1 1 ! 1 0 00246282
+sentencioso a 1 1 ! 1 0 00107289
+non_acorde a 1 2 ! ^ 1 0 00172520
+non_estruturado a 1 2 ! ^ 1 0 00204661
+destrutíbel a 1 1 ! 1 0 00051389
+vendíbel a 1 1 ! 1 0 00180106
+superfluo a 1 3 ! ^ & 1 0 00275630
+palpábel a 2 2 ! ^ 2 0 00075129 00254644
+semanalmente a 1 1 & 1 0 00102441
+norteño a 1 1 ! 1 0 00141619
+concertado a 1 1 & 1 0 00325596
+imponderable a 1 1 ! 1 0 00004907
+inextricable a 1 1 ! 1 0 00282173
+máis_alto a 1 1 & 1 0 00064866
+vexetativo a 1 0 1 0 00340772
+público a 1 2 ! ^ 1 0 00062436
+respectuoso a 1 2 ! ^ 1 0 00136235
+letárxico a 1 3 ! ^ & 1 0 00011601
+non_cristalizado a 1 1 ! 1 0 00073729
+conectable a 1 1 ! 1 0 00205836
+terra-ar a 1 1 ! 1 0 00232063
+reversible a 2 1 ! 2 0 00099789 00280365
+ben_formado a 1 1 ! 1 0 00320049
+neutro a 2 4 ! ^ & = 2 0 00033056 00057407
+reducíbel a 1 1 ! 1 0 00015368
+novo a 3 3 ! ^ & 3 0 00004615 00106888 00324103
+efervescente a 2 1 ! 2 0 00124672 00162949
+maculado a 1 3 ! ^ & 1 0 00231929
+nutrido a 1 1 ! 1 0 00020413
+inconmutábel a 1 1 ! 1 0 00290657
+insán a 3 3 ! ^ & 3 0 00072087 00206213 00253341
+disonante a 1 1 & 1 0 00288802
+autodestrutivo a 1 1 & 1 0 00029417
+dirección_única a 1 1 & 1 0 00325013
+refinado a 4 3 ! ^ & 4 0 00049870 00067256 00197255 00286559
+bípede a 1 1 ! 1 0 00154620
+en_condicións_de_navegar a 1 1 ! 1 0 00267271
+tónico a 1 1 ! 1 0 00173460
+interminable a 2 1 & 2 0 00116423 00143795
+con_cabeza a 1 1 ! 1 0 00049272
+hipotenso a 1 1 ! 1 0 00211128
+miúdo a 2 1 & 2 0 00014076 00209574
+ético a 1 2 ! ^ 1 0 00250762
+non_sindical a 1 1 ! 1 0 00308725
+zurdo a 1 2 ! ^ 1 0 00068819
+frouxo a 1 1 ! 1 0 00012233
+rizo a 1 1 ! 1 0 00291597
+inadoptábel a 1 1 ! 1 0 00077214
+tímido a 4 3 ! ^ & 4 0 00207265 00213397 00219835 00294866
+palabra_por_palabra a 1 1 & 1 0 00041571
+non_exploratorio a 1 1 ! 1 0 00205377
+tendencioso a 1 1 & 1 0 00218223
+de_ollo a 1 2 ! & 1 0 00098756
+falto_de_preparación a 1 2 ! ^ 1 0 00189780
+interestatal a 1 0 1 0 00269730
+reinante a 1 1 & 1 0 00129437
+non_previsor a 1 2 ! ^ 1 0 00088955
+efusivo a 1 2 ! ^ 1 0 00280904
+humilde a 2 2 ! & 2 0 00043322 00302024
+sonado a 1 1 & 1 0 00095207
+avarento a 1 1 & 1 0 00036568
+socialista a 1 2 ! ^ 1 0 00006571
+piramidal a 1 1 & 1 0 00219724
+maléfico a 1 2 ! ^ 1 0 00160882
+fraternal a 2 1 ! 2 0 00176302 00198098
+desarrendado a 1 1 ! 1 0 00292578
+en_sentido_oposto_ás_agullas_do_reloxo a 1 2 ! ^ 1 0 00069579
+non_consumado a 1 1 ! 1 0 00055858
+inconexo a 2 3 ! ^ & 2 0 00233653 00237722
+fervoroso a 1 3 ! ^ & 1 0 00100145
+con_contras a 1 1 ! 1 0 00212023
+cara_ó_sur a 1 2 ! & 1 0 00050589
+incorrupto a 1 1 ! 1 0 00273487
+non_mortal a 1 1 ! 1 0 00018806
+perforábel a 1 1 ! 1 0 00096996
+xustificábel a 1 1 & 1 0 00071680
+evanescente a 1 1 & 1 0 00016754
+non_territorial a 1 2 ! ;c 1 0 00034884
+en_conserva a 1 2 ! & 1 0 00034966
+consciente a 5 3 ! ^ & 5 0 00039867 00100405 00155601 00170108 00201363
+citramontano a 1 1 ! 1 0 00252875
+frutuoso a 1 3 ! ^ & 1 0 00275886
+preservado a 2 2 ! & 2 0 00034966 00298913
+catádromo a 1 1 ! 1 0 00143401
+termoendurecible a 1 1 ! 1 0 00227491
+que_encolle a 1 1 ! 1 0 00005231
+disxunto a 1 2 ! ;c 1 0 00034809
+biovular a 1 1 ! 1 0 00312153
+sen_remorso a 1 1 ! 1 0 00315366
+dentado a 2 2 ! & 2 0 00119113 00267158
+cáustico a 1 1 & 1 0 00104492
+luxurioso a 1 1 & 1 0 00107359
+parábel a 1 1 ! 1 0 00012990
+esperado a 2 2 ! ^ 2 0 00042968 00141161
+interesante a 2 3 ! ^ & 2 0 00172669 00197495
+incompetente_nos_cálculos a 1 2 ! = 1 0 00321256
+corrupto a 1 2 ! & 1 0 00324908
+non_dotado a 1 1 ! 1 0 00226954
+non_dixeríbel a 1 2 ! ^ 1 0 00277124
+adormecido a 2 2 ! & 2 0 00179270 00277375
+cotián a 2 1 & 2 0 00077426 00268608
+de_sangue_frío a 1 1 ! 1 0 00000922
+con_apéndice a 1 1 ! 1 0 00147038
+determinado a 3 2 ! ;c 3 0 00109469 00134828 00265824
+non_escoltado a 1 1 ! 1 0 00225402
+murmurante a 1 0 1 0 00037849
+filial a 1 1 ! 1 0 00059097
+domado a 2 2 ! ^ 2 0 00265095 00295330
+publicado a 1 1 ! 1 0 00083308
+mutábel a 2 2 ! ^ 2 0 00089837 00109773
+subversivo a 1 1 & 1 0 00041337
+navegable a 1 1 & 1 0 00235525
+altricial a 1 1 ! 1 0 00004067
+escatolóxico a 1 1 & 1 0 00103258
+modesto a 1 1 ! 1 0 00041769
+que_funciona a 1 1 ! 1 0 00198722
+centrista a 1 1 & 1 0 00060839
+conectábel a 1 1 ! 1 0 00205836
+flotante a 1 1 ! 1 0 00115979
+perceptible a 2 2 ! ^ 2 0 00044311 00057976
+diluído a 1 1 ! 1 0 00038792
+irrepetíbel a 1 1 ! 1 0 00218049
+non_tratado a 2 2 ! ^ 2 0 00243937 00307913
+desamarrado a 2 1 ! 2 0 00120697 00141235
+dunha_soa_peza a 1 1 ! 1 0 00044231
+lubricado a 1 1 ! 1 0 00049697
+sen_lueiro a 1 1 ! 1 0 00010668
+frondoso a 1 1 ! 1 0 00301724
+non_rendible a 1 2 ! ^ 1 0 00043958
+exemplar a 1 1 & 1 0 00071068
+frío a 1 2 ! ^ 1 0 00308987
+irresoluble a 1 2 ! ^ 1 0 00217753
+exotérmico a 1 2 ! ^ 1 0 00251100
+afeito a 1 1 ! 1 0 00157821
+abstemio a 1 1 ! 1 0 00157085
+descritíbel a 1 1 ! 1 0 00202174
+inusitado a 1 1 ! 1 0 00034056
+non_respectábel a 1 1 ! 1 0 00120936
+sexual a 1 2 ! = 1 0 00099436
+de_segunda_categoría a 1 1 & 1 0 00098840
+incurable a 1 1 ! 1 0 00322756
+prenominal a 1 2 ! ;c 1 0 00189409
+manuscrito a 1 1 & 1 0 00109159
+con_talo a 1 1 ! 1 0 00299043
+ladrón a 1 0 1 0 00186418
+implacable a 4 2 ! & 4 0 00084878 00164473 00176119 00187459
+encharcado a 1 1 ! 1 0 00199684
+alóctono a 1 1 ! 1 0 00011835
+disfórico a 1 2 ! ^ 1 0 00157141
+simbiótico a 1 2 ;c & 1 0 00179057
+acrítico a 4 3 ! ;c ^ 4 0 00175224 00228176 00283875 00331179
+alimentario a 1 0 1 0 00333786
+gordecho a 1 1 & 1 0 00307033
+consagrado a 1 2 ! ^ 1 0 00051284
+ilusorio a 1 1 & 1 0 00260557
+oleofóbico a 1 1 ! 1 0 00255202
+non_axustado a 1 1 ! 1 0 00296423
+encomiábel a 2 1 & 2 0 00063565 00080340
+derivativo a 1 1 ! 1 0 00005290
+curábel a 2 1 ! 2 0 00120245 00212619
+centígrado a 1 0 1 0 00340863
+presidencial a 1 2 ! ^ 1 0 00139647
+horríbel a 1 1 & 1 0 00167156
+decorativo a 1 1 & 1 0 00177844
+na_cintura a 1 1 & 1 0 00142787
+non_formado a 1 1 ! 1 0 00242048
+corrompido a 1 2 ! & 1 0 00324908
+anano a 1 0 1 0 00287649
+perverso a 1 3 ! ^ & 1 0 00163936
+sen_pedicelo a 1 2 ! ;c 1 0 00223195
+inconfortábel a 1 1 ! 1 0 00053451
+de_desenvolvemento a 1 0 1 0 00339358
+antemeridiano a 1 1 ! 1 0 00249203
+sádico a 1 1 ! 1 0 00156444
+electromagnético a 1 0 1 0 00334809
+tranquilo a 7 3 ! ^ & 7 0 00081191 00121228 00163690 00190311 00218834 00262949 00279452
+centralizador a 1 1 ! 1 0 00187241
+furtivo a 1 1 & 1 0 00203639
+desenguedellado a 1 1 ! 1 0 00070387
+regulado a 2 1 ! 2 0 00019259 00132085
+precoz a 2 1 ! 2 0 00013567 00199513
+non_escrupuloso a 1 1 ! 1 0 00166918
+adoptábel a 1 1 ! 1 0 00183627
+palpitante a 1 1 & 1 0 00182903
+de_abondo a 1 3 ! ^ & 1 0 00167942
+con_patrón a 1 2 ! & 1 0 00093685
+idéntico a 1 1 ! 1 0 00276263
+enlouquecido a 1 1 & 1 0 00273757
+non_confinado a 1 2 ! ^ 1 0 00037078
+sobrehumano a 1 0 1 0 00083872
+monetario a 1 0 1 0 00335424
+incalculábel a 1 3 ! ^ & 1 0 00204145
+produtivo a 2 3 ! ^ & 2 0 00152875 00243772
+intransitivo a 1 2 ! ;c 1 0 00213858
+apelábel a 1 1 ! 1 0 00166280
+xeneroso a 2 3 ! ^ & 2 0 00274771 00324209
+pornográfico a 1 1 & 1 0 00054625
+sen_dono a 1 1 ! 1 0 00123167
+fóra_do_estándar a 3 3 ! ;c = 3 0 00074297 00150409 00197014
+fretado a 1 1 ! 1 0 00179945
+penitente a 1 3 ! ^ & 1 0 00131617
+non_maltratado a 1 1 ! 1 0 00069924
+coñecedor a 1 2 ! ^ 1 0 00201363
+por_separado a 1 3 ! ^ & 1 0 00152674
+alarmante a 4 3 ! & = 4 0 00066932 00082229 00134319 00168621
+interpretábel a 1 1 ! 1 0 00316605
+emérito a 1 1 & 1 0 00285611
+perecedoiro a 1 2 ! ^ 1 0 00063183
+conxunto a 2 4 ! ;c ^ & 2 0 00104359 00139233
+desenleado a 1 1 ! 1 0 00070387
+sen_enviar a 1 1 ! 1 0 00131858
+acropetálico a 1 2 ! ;c 1 0 00169527
+instintivo a 1 1 & 1 0 00071887
+igual a 3 3 ! ^ & 3 0 00029577 00208521 00286225
+innecesario a 3 3 ! ^ & 3 0 00255918 00275630 00278368
+non_doméstico a 1 1 ! 1 0 00264652
+subalterno a 1 2 ! ^ 1 0 00123073
+bienal a 1 2 ! ;c 1 0 00059151
+inmiscible a 1 2 ! ;c 1 0 00040992
+monoclínico a 1 2 ! ;c 1 0 00267982
+embarrancado a 1 1 ! 1 0 00271007
+compartimentado a 1 1 ! 1 0 00148990
+abstraído a 1 1 & 1 0 00153983
+desencerado a 1 1 ! 1 0 00086260
+insubordinado a 1 2 ! ^ 1 0 00227651
+proactivo a 1 2 ! ;c 1 0 00000846
+decisivo a 4 4 ! ^ & = 4 0 00062015 00116035 00148495 00162767
+inútil a 4 4 ! ^ & = 4 0 00035768 00109217 00179215 00271458
+parable a 1 1 ! 1 0 00012990
+en_po a 1 1 & 1 0 00240511
+absolto a 1 0 1 0 00222583
+identificable a 1 0 1 0 00082583
+non_erradicábel a 1 3 ! ^ & 1 0 00035081
+lánguido a 1 1 & 1 0 00126609
+sen_cheiro a 2 1 ! 2 0 00000985 00118839
+non_mundano a 1 3 ! ^ & 1 0 00270494
+no_cadril a 1 1 & 1 0 00142787
+trenzado a 1 1 ! 1 0 00189499
+imperialista a 1 0 1 0 00337899
+non_supervisado a 1 1 ! 1 0 00055562
+retentivo_anal a 1 2 ! ;c 1 0 00062662
+raiada a 1 1 ! 1 0 00056767
+comprobado a 1 1 ! 1 0 00212253
+unilateral a 1 1 ! 1 0 00165020
+indeclarable a 1 1 ! 1 0 00151603
+con_restrición a 1 3 ! ^ & 1 0 00225173
+esgotábel a 1 1 ! 1 0 00238768
+competente_nas_matemáticas a 1 3 ! ^ = 1 0 00313108
+non_manipulado a 1 1 ! 1 0 00188774
+sen_puír a 1 2 ! ^ 1 0 00087256
+non_sustentado a 1 2 ! & 1 0 00306923
+incomparábel a 2 3 ! ^ & 2 0 00098296 00207320
+napoleónico a 1 0 1 0 00337816
+de_prezo_fixo a 1 1 ! 1 0 00257434
+non_estético a 1 1 ! 1 0 00230180
+non_sensacional a 1 1 ! 1 0 00178670
+in_fraganti a 1 0 1 0 00323396
+con_dereito_a_voto a 1 1 ! 1 0 00080815
+non_patentado a 1 1 ! 1 0 00306081
+temporal a 2 4 ! ^ & = 2 0 00014322 00171686
+non_patrocinado a 1 1 ! 1 0 00036340
+predicativo a 1 2 ! ;c 1 0 00132007
+sobresaínte a 1 1 & 1 0 00053959
+desembeleñado a 1 1 ! 1 0 00070387
+ilexible a 2 2 ! & 2 0 00022450 00149809
+unido a 3 2 ! ^ 3 0 00012296 00175432 00231665
+vermello a 1 1 & 1 0 00261218
+con_punta a 1 3 ! ^ & 1 0 00251976
+esofórico a 1 1 ! 1 0 00091366
+sen_amidón a 1 1 ! 1 0 00078269
+atípico a 1 2 ! ^ 1 0 00197734
+inmemorial a 1 1 & 1 0 00320209
+inundado a 1 1 ! 1 0 00199684
+múltiple a 3 2 ! & 3 0 00191058 00199808 00230834
+non_sentencioso a 1 1 ! 1 0 00196232
+desexábel a 1 3 ! ^ & 1 0 00268376
+arborícola a 1 1 ! 1 0 00063113
+alfabético a 1 1 ! 1 0 00321695
+desarmado a 2 1 ! 2 0 00024285 00264920
+botánico a 1 0 1 0 00340565
+turbador a 1 0 1 0 00326164
+dependente a 3 5 ! ;c ^ & = 3 0 00154395 00214896 00264448
+excesivo a 1 1 & 1 0 00318342
+ceibe a 1 3 ! ^ & 1 0 00005405
+equipado a 2 2 ! ;c 2 0 00033913 00106201
+hermafrodita a 1 1 ;c 1 0 00175903
+de_a a 1 0 1 0 00135660
+espectral a 1 1 & 1 0 00098564
+preso a 5 2 ! ^ 5 0 00017219 00174134 00231816 00254353 00296645
+incerto a 5 4 ! ^ & = 5 0 00060140 00079362 00158306 00178568 00234524
+luminoso a 3 2 ! & 3 0 00057815 00174416 00224411
+lento a 2 5 ! ;c ^ & = 2 0 00020826 00109919
+insubmiso a 1 1 ! 1 0 00324647
+residente a 1 1 ! 1 0 00117992
+sen_casca a 1 1 ! 1 0 00076720
+non_familiar a 1 1 ! 1 0 00264652
+non_repetitivo a 1 1 ! 1 0 00017933
+dormente a 1 1 ! 1 0 00277375
+supersónico a 1 1 ! 1 0 00250624
+nada_de a 1 1 ! 1 0 00084789
+incorpóreo a 1 2 ! ^ 1 0 00066049
+astigmático a 1 1 ! 1 0 00136986
+reverente a 2 3 ! ^ & 2 0 00025295 00045152
+meteorolóxico a 1 0 1 0 00336010
+resucitado a 1 1 & 1 0 00105441
+malvado a 1 3 ! ^ & 1 0 00008679
+rabiado a 1 2 ! & 1 0 00274024
+abaxial a 1 2 ! ;c 1 0 00256568
+sen_ventilación a 1 3 ! ^ & 1 0 00029170
+maligno a 3 4 ! ;c ^ & 3 0 00008679 00152259 00248042
+irrespectuoso a 1 3 ! ^ & 1 0 00239307
+heteróxeno a 1 1 ! 1 0 00151194
+arrebatador a 1 1 & 1 0 00012625
+operábel a 1 1 ! 1 0 00099233
+célebre a 2 1 & 2 0 00095207 00278427
+estatístico a 1 0 1 0 00336396
+substituíbel a 2 3 ! ^ & 2 0 00140243 00284033
+argolado a 1 1 ! 1 0 00062302
+escrupuloso a 1 1 ! 1 0 00217217
+causante a 1 2 ! & 1 0 00017730
+sen_pavimentar a 1 1 ! 1 0 00328547
+encallado a 1 1 ! 1 0 00271007
+inextinguible a 1 1 ! 1 0 00194602
+multicolor a 1 1 & 1 0 00048378
+cultivable a 2 2 ! & 2 0 00102749 00261629
+en_lapas a 1 0 1 0 00300476
+relativo a 2 2 ! & 2 0 00226547 00264214
+analítico a 3 3 ! ;c ^ 3 0 00029898 00133118 00211338
+infrutífera a 1 3 ! ^ & 1 0 00221518
+somático a 1 1 & 1 0 00177499
+pouco_exixente a 1 2 ! ^ 1 0 00332786
+sen_montura a 1 1 ! 1 0 00048977
+automático a 1 1 ! 1 0 00228542
+eterno a 1 1 & 1 0 00218123
+non_adicto a 1 1 ! 1 0 00220205
+único a 2 3 ! ^ & 2 0 00047968 00132874
+espiñento a 1 1 ! 1 0 00273401
+declarativo a 1 1 ! 1 0 00191459
+non_volátil a 1 1 ! 1 0 00189918
+colorido a 2 2 ! ^ 2 0 00139725 00163450
+non_empregábel a 1 1 ! 1 0 00321105
+infalible a 2 2 ! & 2 0 00060896 00266892
+non_reticulado a 1 1 ! 1 0 00328262
+cortesán a 1 1 & 1 0 00269483
+sen_orientación a 1 2 ! ^ 1 0 00059257
+inexorable a 1 0 1 0 00187459
+preciso a 4 3 ! ^ & 4 0 00079417 00084663 00086834 00253656
+impactante a 1 1 & 1 0 00009245
+fóra_da_orde_establecida a 1 2 ! & 1 0 00327339
+tradicional a 1 1 ! 1 0 00189564
+endocéntrico a 1 2 ! ;c 1 0 00225322
+insaturado a 3 2 ! ;c 3 0 00218705 00270305 00280437
+observable a 1 0 1 0 00070956
+escurecido a 1 1 & 1 0 00095371
+igualitario a 1 1 & 1 0 00312797
+opaco a 2 3 ! ^ = 2 0 00096343 00187613
+efectivo a 1 2 ! ^ 1 0 00149597
+non_renovábel a 1 1 ! 1 0 00099358
+agochado a 1 3 ! ^ & 1 0 00014133
+hídrico a 1 1 ! 1 0 00084300
+de_dous_canos a 1 1 ! 1 0 00316235
+sen_filtro a 1 1 ! 1 0 00125339
+de_pelo_claro a 1 1 ! 1 0 00055399
+incauto a 1 1 ! 1 0 00038250
+lamentable a 2 1 & 2 0 00227961 00308569
+non_encadernado a 1 1 ! 1 0 00069458
+cano a 1 1 & 1 0 00071530
+atroz a 2 1 & 2 0 00021287 00323343
+imperceptíbel a 2 3 ! ^ & 2 0 00104698 00138876
+étnico a 1 1 & 1 0 00152001
+fresco a 4 3 ! ^ = 4 0 00052076 00146253 00209038 00289345
+non_excitable a 1 1 ! 1 0 00047222
+non_oposto a 1 1 ! 1 0 00116741
+río_arriba a 1 1 ! 1 0 00036946
+preferíbel a 1 1 & 1 0 00192057
+a_priori a 1 2 ! ^ 1 0 00135017
+sutil a 1 1 ! 1 0 00233769
+medicinal a 1 1 & 1 0 00193681
+sen_medo a 1 1 ! 1 0 00106257
+non_arestado a 1 1 ! 1 0 00122060
+suficientemente a 1 1 & 1 0 00312949
+de_réptil a 1 1 & 1 0 00230377
+basal a 1 2 ! ;c 1 0 00147760
+decrépito a 1 1 & 1 0 00145959
+palatal a 1 1 ! 1 0 00161973
+entozoico a 1 1 ! 1 0 00007796
+cómico a 1 1 & 1 0 00195675
+insociable a 1 2 ! ^ 1 0 00242276
+económico a 1 1 & 1 0 00057108
+manexado a 1 1 ! 1 0 00093762
+neurótico a 1 1 ! 1 0 00227242
+aire-terra a 1 1 ! 1 0 00290788
+glorioso a 1 2 ! ^ 1 0 00004262
+acentuado a 1 1 ! 1 0 00073664
+non_compracente a 1 1 ! 1 0 00132405
+competente_para_as_matemáticas a 1 3 ! ^ = 1 0 00313108
+inalienábel a 1 1 ! 1 0 00123983
+positivo a 6 5 ! ;c ^ & = 6 0 00000643 00030772 00112422 00144508 00191764 00270607
+analizado a 1 1 ! 1 0 00036124
+salobre a 1 1 & 1 0 00163145
+ansioso a 1 2 ! ^ 1 0 00250394
+prudente a 2 3 ! ^ & 2 0 00174216 00212934
+compartido a 1 2 ! ^ 1 0 00230682
+fundado a 1 1 ! 1 0 00223717
+non_datable a 1 1 ! 1 0 00007722
+pouco_ortodoxo a 1 2 ! & 1 0 00247560
+verdadeiro a 3 2 ! ^ 3 0 00066491 00236682 00315509
+cabalístico a 1 1 & 1 0 00318796
+de_sumatra a 1 0 1 0 00340287
+aperiódico a 1 1 ! 1 0 00154746
+inexpugnábel a 1 3 ! ^ & 1 0 00012684
+non_entusiasta a 1 2 ! ^ 1 0 00321523
+engruñado a 1 1 & 1 0 00007540
+en_sentido_contrario_ás_agullas_do_reloxo a 1 2 ! ^ 1 0 00069579
+consular a 1 0 1 0 00340083
+monocromático a 1 1 ! 1 0 00230298
+achegado a 2 3 ! & = 2 0 00067153 00331058
+cruento a 1 1 & 1 0 00328184
+penetrábel a 1 1 ! 1 0 00029652
+disidente a 1 1 & 1 0 00013951
+con_raias a 1 1 & 1 0 00245810
+cataclinal a 1 2 ! ;c 1 0 00096919
+residual a 1 0 1 0 00335972
+con_fío a 1 1 ! 1 0 00169147
+comprensivo a 1 1 ! 1 0 00080630
+mal_preparado a 1 1 & 1 0 00074632
+eficiente a 1 2 ! ^ 1 0 00119223
+alugado a 1 1 ! 1 0 00179945
+non_bromista a 1 1 ! 1 0 00054532
+creativo a 1 4 ! ^ & = 1 0 00066139
+non_receptivo a 1 1 ! 1 0 00084184
+letal a 1 1 & 1 0 00269289
+irrevogable a 2 1 ! 2 0 00202007 00287869
+orixinal a 2 3 ! ^ & 2 0 00238486 00315509
+florecido a 1 1 ! 1 0 00085665
+prenatal a 1 1 ! 1 0 00053541
+mítico a 1 1 & 1 0 00163019
+vidente a 1 2 ! & 1 0 00238999
+non_compasivo a 1 2 ! ^ 1 0 00224856
+con_pluma a 1 1 ! 1 0 00320761
+plural a 2 1 ! 2 0 00039450 00119862
+sen_fume a 1 1 ! 1 0 00179889
+abouxante a 1 0 1 0 00173806
+ordenado a 6 3 ! ^ & 6 0 00003929 00025388 00106814 00183946 00200877 00247387
+recuperábel a 2 2 ! & 2 0 00199290 00245736
+posparto a 1 1 ! 1 0 00060375
+sociable a 1 3 ! ^ & 1 0 00016121
+accesible a 2 3 ! ^ = 2 0 00091556 00155531
+completo a 3 3 ! ^ & 3 0 00118341 00161287 00198445
+alegre a 6 3 ! ^ & 6 0 00005970 00012359 00020061 00071945 00187997 00317901
+transónico a 1 1 ! 1 0 00302676
+non a 1 1 ! 1 0 00084789
+meticuloso a 2 3 ! ;c ^ 2 0 00083613 00167746
+explícito a 1 2 ! ^ 1 0 00015749
+espiñoso a 2 1 ! 2 0 00272966 00273401
+intransitado a 1 1 ! 1 0 00083365
+de_pasos_silenciosos a 1 0 1 0 00236992
+estupendo a 1 0 1 0 00243598
+tratábel a 1 2 ! ^ 1 0 00123276
+curvado a 2 2 ! & 2 0 00028110 00248116
+distópico a 1 1 ! 1 0 00110026
+non_deliñable a 1 1 ! 1 0 00156561
+sen_corpo a 1 2 ! ^ 1 0 00332571
+perfecto a 2 3 ! ^ & 2 0 00164190 00286669
+inanimado a 4 3 ! ;c ^ 4 0 00057537 00082733 00146820 00257252
+que_non_funciona a 1 1 ! 1 0 00037005
+profano a 2 3 ! ^ = 2 0 00007362 00092188
+eficaz a 2 3 ! ^ = 2 0 00146877 00149597
+antropomórfico a 1 0 1 0 00126199
+sen_bico a 1 1 ! 1 0 00237283
+satírico a 1 1 & 1 0 00097068
+desconfiado a 2 3 ! ^ & 2 0 00026462 00294866
+inusual a 3 3 ! ^ & 3 0 00028227 00050891 00325191
+activo a 12 4 ! ;c ^ & 12 0 00041395 00062846 00086111 00103379 00119789 00135588 00136029 00196759 00221825 00235413 00294701 00314151
+non_anulábel a 1 1 ! 1 0 00287869
+declaratorio a 1 1 ! 1 0 00191459
+non_comestíbel a 1 2 ! ^ 1 0 00278761
+aforrador a 1 3 ! ^ & 1 0 00201270
+non_traducíbel a 1 1 ! 1 0 00132141
+heteroécico a 1 1 ! 1 0 00282690
+non_explotado a 1 1 ! 1 0 00147577
+perspicaz a 1 1 & 1 0 00092565
+insubstituíble a 2 2 ! ^ 2 0 00200707 00238266
+sen_prestar_atención a 1 1 ! 1 0 00177762
+declarable a 1 1 ! 1 0 00044681
+conmovido a 1 1 & 1 0 00085924
+ebrio a 1 1 & 1 0 00196103
+transcendental a 2 1 & 2 0 00032500 00078532
+sen_patrón a 1 1 ! 1 0 00153471
+incorrixible a 1 2 ! ^ 1 0 00241890
+pavimentado a 1 1 ! 1 0 00028842
+alegórico a 1 1 & 1 0 00103464
+munificiente a 1 1 & 1 0 00259143
+en_segunda_clase a 1 1 & 1 0 00017024
+prometedor a 1 2 ! ^ 1 0 00191820
+maleducado a 1 1 ! 1 0 00129042
+sondábel a 1 1 ! 1 0 00319322
+céltico a 1 0 1 0 00339676
+sondable a 1 1 ! 1 0 00319322
+desencantado a 1 2 ! ^ 1 0 00251627
+esquerda a 1 2 ! ^ 1 0 00001183
+sen_encolar a 1 1 ! 1 0 00249264
+pulido a 1 3 ! ^ & 1 0 00151311
+inalienable a 1 1 ! 1 0 00123983
+abraiante a 1 1 & 1 0 00061666
+sistemático a 1 2 ! ^ 1 0 00265454
+dereita a 1 2 ! ^ 1 0 00181704
+inquedo a 3 3 ! ^ & 3 0 00126936 00145451 00286348
+homocéntrico a 1 1 ! 1 0 00225791
+anal a 1 2 ! ;c 1 0 00062662
+endomórfico a 1 2 ! ^ 1 0 00300554
+sen_reserva a 2 2 ! ^ 2 0 00153376 00295410
+en_xestación a 1 1 ! 1 0 00035907
+indeterminable a 1 2 ! ^ 1 0 00067625
+esquecido a 1 1 & 1 0 00144786
+familiar a 3 2 ! ^ 3 0 00226705 00227837 00242662
+non_bebíbel a 1 1 ! 1 0 00204558
+alcalófilo a 1 2 ! ;c 1 0 00241377
+incontestable a 1 2 ! ^ 1 0 00180735
+doutrinal a 1 0 1 0 00334442
+lamentábel a 2 1 & 2 0 00227961 00308569
+total a 2 3 ! ^ & 2 0 00037468 00309094
+humillante a 1 1 & 1 0 00326106
+fausto a 1 2 ! ^ 1 0 00191820
+indehiscente a 1 1 ! 1 0 00023877
+irrecorríbel a 1 1 ! 1 0 00175521
+transitable a 1 2 ! & 1 0 00072476
+de_curmán a 1 1 ! 1 0 00119448
+non_lavábel a 1 1 ! 1 0 00211818
+desproporcionado a 4 3 ! ^ & 4 0 00074896 00102004 00109049 00172520
+indispoñíbel a 1 2 ! = 1 0 00118956
+próspero a 3 3 ! ^ & 3 0 00102184 00120048 00269211
+acanalado a 1 1 & 1 0 00322292
+cos_pés_na_terra a 1 1 & 1 0 00284316
+non_racial a 1 1 ! 1 0 00079501
+afeitado a 1 1 ! 1 0 00126132
+malva a 1 1 & 1 0 00107416
+non_comercial a 1 3 ! & = 1 0 00284846
+inservíbel a 2 2 ! ^ 2 0 00137973 00304102
+desigual a 3 3 ! ^ & 3 0 00125814 00127830 00159762
+adicional a 2 2 ! & 2 0 00045451 00123742
+defensivo a 1 2 ! ^ 1 0 00203118
+sen_cortar a 1 1 ! 1 0 00331419
+oposto a 4 2 ! ;c 4 0 00013056 00178472 00237339 00254429
+especializado a 1 2 ! ^ 1 0 00123441
+curvo a 1 2 ! & 1 0 00028110
+atonal a 2 2 ! ;c 2 0 00214125 00240746
+dianteiro a 1 2 ! ^ 1 0 00331598
+arrepentido a 3 3 ! ^ & 3 0 00131617 00294394 00330526
+erótico a 1 1 & 1 0 00011232
+cinematográfico a 1 0 1 0 00339070
+abondoso a 1 3 ! ^ & 1 0 00167942
+gravitacional a 1 0 1 0 00340646
+científico a 1 1 ! 1 0 00251493
+debido a 2 1 ! 2 0 00241677 00248874
+de_proveito a 1 3 ! ^ & 1 0 00120048
+inducido a 1 1 ! 1 0 00276098
+nubrado a 1 2 ! & 1 0 00073975
+non_desbotábel a 1 1 ! 1 0 00165303
+racheado a 1 1 & 1 0 00160826
+comprensible a 2 3 ! ^ & 2 0 00001053 00328397
+sen_alfombra a 1 1 ! 1 0 00263510
+ondulado a 1 1 & 1 0 00322292
+ornamental a 1 1 & 1 0 00177844
+non_potábel a 1 1 ! 1 0 00204558
+controlado a 1 2 ! ^ 1 0 00028367
+mouro a 2 1 & 2 0 00183408 00340996
+programado a 3 1 ! 3 0 00050052 00078885 00092074
+chan a 1 2 ! ^ 1 0 00286225
+audible a 1 3 ! ^ = 1 0 00196310
+intolerable a 1 3 ! ^ & 1 0 00001953
+non_expirado a 1 1 ! 1 0 00277280
+centésimo a 1 1 & 1 0 00110884
+cónico a 1 0 1 0 00334681
+remediábel a 1 1 ! 1 0 00153607
+afortunado a 2 3 ! ^ & 2 0 00056203 00327687
+atado a 4 2 ! ^ 4 0 00017219 00174134 00231816 00296645
+fascinante a 1 1 & 1 0 00120504
+desamparado a 1 1 ! 1 0 00299246
+hipercataléctico a 1 1 ! 1 0 00297297
+funxicida a 1 0 1 0 00339483
+non_pago a 1 3 ! ^ & 1 0 00087484
+habitable a 1 0 1 0 00181118
+con_guerla a 1 1 ! 1 0 00088524
+miscible a 1 2 ! ;c 1 0 00030233
+avaro a 3 3 ! ^ & 3 0 00001716 00013110 00091662
+barrigudo a 1 1 ! 1 0 00256385
+non_simpatizante a 1 2 ! ^ 1 0 00180984
+alterábel a 1 1 ! 1 0 00219067
+non_desexoso a 1 1 ! 1 0 00103022
+nidífugo a 1 1 ! 1 0 00170519
+de_crecemento_rápido a 1 0 1 0 00196708
+desaconsellable a 1 2 ! ^ 1 0 00320379
+de_alta_voltaxe a 1 2 ! ;c 1 0 00298753
+vergoñoso a 2 2 ! & 2 0 00003349 00118103
+cismontano a 1 1 ! 1 0 00252875
+inestimábel a 2 1 & 2 0 00016243 00107658
+connotativo a 1 2 ! ^ 1 0 00114860
+desatento a 2 3 ! ^ & 2 0 00061512 00150530
+luído a 1 1 & 1 0 00170576
+monstruoso a 1 1 & 1 0 00061666
+operativo a 3 1 ! 3 0 00041395 00078885 00097588
+non_creativo a 1 3 ! ^ = 1 0 00127568
+ponderable a 1 1 ! 1 0 00118269
+multicultural a 1 0 1 0 00333460
+sen_pétalos a 1 1 ! 1 0 00323627
+extraconxugal a 1 0 1 0 00326973
+sinuoso a 1 1 & 1 0 00027494
+impertinente a 1 1 & 1 0 00022390
+con_terra a 1 1 ! 1 0 00023937
+blindado a 2 1 ! 2 0 00135091 00329254
+avellentado a 1 1 & 1 0 00163200
+de_idade a 1 3 ! ^ & 1 0 00222996
+diatónico a 1 2 ! ;c 1 0 00112586
+dirixido a 1 1 ! 1 0 00138232
+sen_sela a 1 2 ! & 1 0 00327016
+xeofísico a 1 0 1 0 00337048
+sen_flores a 1 1 ! 1 0 00020540
+amoreado a 1 1 & 1 0 00270951
+non_presente a 1 3 ! ^ & 1 0 00156783
+exclusivo a 1 1 ! 1 0 00259638
+non_improvisado a 1 1 ! 1 0 00183697
+remiso a 1 1 ^ 1 0 00195028
+pantasmal a 1 1 & 1 0 00098564
+oeste a 1 1 ! 1 0 00324461
+irresistible a 1 2 ! & 1 0 00305455
+non_xogábel a 1 1 ! 1 0 00013298
+irreal a 4 3 ! ^ & 4 0 00044920 00054892 00077549 00118049
+previsto a 1 2 ! ^ 1 0 00317185
+falsificado a 2 3 ! ^ & 2 0 00081006 00112202
+xigantesco a 5 0 5 0 00131093 00205688 00216496 00235687 00243598
+exóxeno a 1 1 ! 1 0 00124294
+feo a 1 4 ! ^ & = 1 0 00151714
+trastornado a 1 1 & 1 0 00268061
+baixo_xuramento a 1 1 ! 1 0 00204334
+pensativo a 1 1 & 1 0 00050695
+errado a 2 3 ! ^ & 2 0 00079859 00288879
+plantado a 1 1 ! 1 0 00220149
+maniqueo a 1 0 1 0 00334481
+guillado a 1 1 & 1 0 00263350
+alucinante a 1 1 & 1 0 00235467
+comestíbel a 1 2 ! ^ 1 0 00253040
+nervioso a 4 3 ! ^ & 4 0 00058308 00143950 00177294 00188551
+maquillado a 1 1 ! 1 0 00026005
+obsceno a 2 3 ! ^ & 2 0 00059858 00293513
+desconcertado a 5 3 ! ^ & 5 0 00031782 00060636 00098372 00156301 00188908
+saboroso a 2 3 ! ^ & 2 0 00173974 00259397
+non_executado a 1 1 ! 1 0 00295041
+dramático a 2 3 ! & = 2 0 00134319 00184689
+sen_gala a 1 1 ! 1 0 00213119
+pasado_de_moda a 2 3 ! ^ & 2 0 00006455 00230608
+esculpido a 1 1 ! 1 0 00140641
+previsible a 2 3 ! ^ & 2 0 00118767 00166752
+nato a 1 1 ! 1 0 00078594
+miserábel a 1 1 & 1 0 00267583
+fritido a 1 1 & 1 0 00314483
+eupneico a 1 1 ! 1 0 00097277
+esporádico a 1 3 ! ^ & 1 0 00094813
+responsábel a 2 3 ! ^ & 2 0 00121430 00243289
+egoísta a 5 3 ! ^ & 5 0 00001716 00013110 00195730 00235595 00325800
+senil a 1 1 & 1 0 00145959
+estendido a 1 1 ! 1 0 00181243
+fóra_de_liña a 2 1 ! 2 0 00161813 00286848
+biomédico a 1 0 1 0 00338858
+gramatical a 1 1 ! 1 0 00262891
+contento a 3 3 ! ^ & 3 0 00045989 00071945 00311612
+hidroeléctrico a 1 0 1 0 00338813
+retórico a 1 3 ! ^ & 1 0 00032072
+sen_pais a 1 1 ! 1 0 00174484
+salvábel a 2 2 ! ^ 2 0 00223785 00237823
+non_escenificado a 1 1 ! 1 0 00241984
+posguerra a 1 1 ! 1 0 00148828
+borracho a 2 2 ! & 2 0 00144843 00196103
+formado a 2 1 ! 2 0 00161490 00320049
+nacional a 2 1 ! 2 0 00249517 00313585
+burlesco a 1 0 1 0 00335934
+non_flexionado a 3 2 ! ;c 3 0 00141499 00211338 00296498
+ríspeto a 1 2 ! ^ 1 0 00085144
+indeterminado a 3 3 ! ;c ^ 3 0 00030064 00292739 00301412
+meditativo a 1 1 & 1 0 00050695
+fatigoso a 1 1 & 1 0 00328184
+intoxicado a 1 2 ! & 1 0 00144843
+disxuntivo a 1 1 ! 1 0 00222137
+axeito a 1 2 ! ^ 1 0 00002977
+inmunodeficiente a 1 1 ! 1 0 00089773
+esencial a 3 3 ! ^ & 3 0 00062015 00099177 00223571
+colinérxico a 1 1 ! 1 0 00285667
+axustábel a 1 1 ! 1 0 00205836
+antiestético a 1 1 & 1 0 00261782
+brillante a 4 3 ! & = 4 0 00065017 00141832 00279642 00326285
+inaudíbel a 1 3 ! ^ = 1 0 00235114
+pródigo a 1 1 & 1 0 00010421
+de_masas a 1 1 & 1 0 00153906
+lineal a 2 2 ! ;c 2 0 00124465 00175624
+non_excitábel a 1 1 ! 1 0 00047222
+bidireccional a 1 1 ! 1 0 00182685
+de_arriba a 1 1 ! 1 0 00154041
+arborado a 1 1 & 1 0 00142194
+ineficaz a 3 3 ! ^ = 3 0 00056923 00159160 00259872
+incluído a 2 1 ! 2 0 00009303 00063359
+encaixado a 1 2 ! ;c 1 0 00105761
+preparto a 1 1 ! 1 0 00053541
+sen_esmalte a 1 1 ! 1 0 00028443
+anterior a 1 3 ! ^ = 1 0 00233098
+autoico a 1 1 ! 1 0 00229263
+partido a 1 2 ! ^ 1 0 00047824
+cursorial a 1 1 ! 1 0 00247030
+con_galada a 1 1 ! 1 0 00088524
+estándar a 3 4 ! ;c ^ = 3 0 00010748 00021583 00170405
+omnipotente a 1 1 & 1 0 00135147
+subsónico a 1 1 ! 1 0 00054456
+modelo a 1 1 & 1 0 00083500
+sen_traballar a 1 1 ! 1 0 00145288
+accesíbel a 2 3 ! ^ = 2 0 00091556 00155531
+sen_sol a 1 1 & 1 0 00285290
+non_asegurado a 1 1 ! 1 0 00300752
+predisposto a 1 1 & 1 0 00062528
+ilexíbel a 2 2 ! & 2 0 00022450 00149809
+enésimo a 1 1 & 1 0 00236812
+viábel a 1 1 & 1 0 00185385
+chamado a 1 1 & 1 0 00156169
+erradicable a 1 1 ! 1 0 00183031
+non_dedicado a 1 1 ! 1 0 00270245
+abstruso a 1 1 & 1 0 00230945
+cara_ao_sur a 1 2 ! & 1 0 00050589
+abdutor a 1 1 ! 1 0 00211617
+seguro_de_si_mesmo a 1 1 & 1 0 00145222
+maduro a 2 3 ! ^ & 2 0 00042038 00222996
+intraducíbel a 1 1 ! 1 0 00132141
+disoluto a 1 0 1 0 00168522
+dividido a 1 3 ! ^ & 1 0 00310496
+endergónico a 1 2 ! ;c 1 0 00144259
+paradoxal a 1 1 & 1 0 00104089
+subdesenvolvido a 1 2 ! & 1 0 00281893
+descentralizador a 1 1 ! 1 0 00170239
+sen_espírito a 1 2 ! ^ 1 0 00216611
+arrítmico a 1 2 ! ^ 1 0 00077350
+dilixente a 1 3 ! ^ & 1 0 00053626
+indesexable a 2 2 ! ^ 2 0 00228367 00330715
+fétido a 1 2 ! & 1 0 00173180
+arduo a 1 1 & 1 0 00108088
+inventivo a 1 4 ! ^ & = 1 0 00066139
+non_reformado a 1 2 ! ^ 1 0 00140914
+impalpábel a 2 2 ! ^ 2 0 00036754 00256904
+memorábel a 1 1 & 1 0 00031158
+incomparable a 2 3 ! ^ & 2 0 00098296 00207320
+obcecado a 1 1 & 1 0 00228770
+concéntrico a 1 1 ! 1 0 00225791
+non_autorizado a 1 3 ! ^ & 1 0 00186580
+sureño a 1 1 ! 1 0 00231101
+normotenso a 1 1 ! 1 0 00293022
+non_afectado a 2 2 ! ^ 2 0 00240125 00322514
+occidental a 2 2 ! & 2 0 00002865 00100703
+adecuado a 5 2 ! ^ 5 0 00002977 00135443 00151007 00155308 00246538
+británico a 1 0 1 0 00340904
+retraído a 1 2 ! ^ 1 0 00229080
+florecente a 1 1 & 1 0 00102184
+alterno a 2 2 ! ;c 2 0 00104210 00275812
+fraco a 1 3 ! ^ & 1 0 00317703
+autónomo a 3 2 ! & 3 0 00025733 00261977 00314878
+asentado a 1 1 ! 1 0 00081604
+non_preventivo a 1 1 ! 1 0 00147499
+indebido a 2 1 ! 2 0 00204502 00304448
+desharmónico a 1 2 ! ^ 1 0 00202774
+exento a 1 1 ! 1 0 00297833
+aparente a 1 1 & 1 0 00021870
+legalmente_incapacitado a 1 1 ! 1 0 00280989
+conforme a 1 1 ! 1 0 00324820
+hixiénico a 1 1 & 1 0 00176447
+indeclarábel a 1 1 ! 1 0 00151603
+de_enriba a 1 1 ! 1 0 00154041
+de_pelo_gris a 1 1 & 1 0 00024191
+quente a 1 2 ! = 1 0 00063649
+atento a 6 3 ! ^ & 6 0 00039867 00040672 00047028 00216895 00229768 00277455
+cabeza_de_serie a 1 1 ! 1 0 00271626
+inconveniente a 2 2 ! ^ 2 0 00100344 00180550
+inexecutábel a 1 1 ! 1 0 00269023
+neglixente a 1 2 ! ^ 1 0 00323065
+executable a 1 1 ! 1 0 00242797
+reciclable a 1 1 & 1 0 00199290
+homocromático a 1 1 ! 1 0 00230298
+posible a 5 3 ! ^ & 5 0 00062090 00101432 00112962 00131027 00185385
+redundante a 1 1 ! 1 0 00197358
+indistinguible a 1 1 ! 1 0 00318856
+tripartito a 1 1 & 1 0 00259085
+descoñecido a 2 3 ! ^ & 2 0 00206479 00290413
+héctico a 1 1 & 1 0 00095791
+facheiro a 1 1 & 1 0 00108313
+autopolinizante a 1 1 ;c 1 0 00039386
+incompetente_para_os_cálculos a 1 2 ! = 1 0 00321256
+descoñecedor a 1 2 ! ^ 1 0 00159899
+estrelado a 2 2 ! & 2 0 00095734 00270092
+bastante a 1 1 & 1 0 00312949
+climático a 2 1 ! 2 0 00322224 00334156
+granular a 1 1 ! 1 0 00148758
+rosa a 1 1 & 1 0 00023646
+parlamentario a 1 0 1 0 00338599
+desocupado a 2 1 ! 2 0 00061822 00080757
+ás_toas a 1 1 & 1 0 00098111
+persuasivo a 1 2 ! ^ 1 0 00288577
+á_máquina a 1 1 ! 1 0 00041118
+aborixe a 1 1 ! 1 0 00315834
+imaxinable a 1 1 & 1 0 00095662
+charlatán a 1 1 & 1 0 00201700
+conxugal a 3 1 ! 3 0 00196477 00336094 00340944
+garrido a 1 2 ;r & 1 0 00321021
+periodístico a 1 0 1 0 00338540
+imponteábel a 1 1 ! 1 0 00237487
+orgulloso a 2 2 ! & 2 0 00146118 00231156
+sen_carga a 1 1 ! 1 0 00129177
+deficiente a 1 3 ! ^ & 1 0 00326404
+gastado a 2 2 ! & 2 0 00020771 00205611
+palmeado a 1 1 ! 1 0 00046190
+sentimental a 1 1 & 1 0 00122818
+dobrado a 1 1 & 1 0 00125203
+encerellado a 1 1 ! 1 0 00059410
+desnatado a 1 1 ! 1 0 00234213
+rugoso a 2 3 ! ^ & 2 0 00019750 00172615
+estúpido a 1 2 ! & 1 0 00241121
+de_primeira_clase a 1 1 & 1 0 00159081
+xogábel a 1 1 ! 1 0 00316605
+entolecido a 1 1 & 1 0 00315070
+enterrado a 1 1 ! 1 0 00237588
+non_clásico a 1 2 ! & 1 0 00211432
+sen_pagar a 1 3 ! ^ & 1 0 00087484
+decrecente a 2 1 ! 2 0 00024999 00281835
+memorable a 1 1 & 1 0 00031158
+pedunculado a 1 2 ! ;c 1 0 00328012
+laxo a 2 1 ! 2 0 00226840 00254183
+reflectido a 1 1 ! 1 0 00245327
+ovíparo a 1 1 ! 1 0 00261082
+matrimonial a 2 0 2 0 00336094 00340944
+simpático a 1 2 ! ;c 1 0 00124797
+contralateral a 1 1 ! 1 0 00156053
+topolóxico a 1 0 1 0 00337983
+desvergonzado a 1 2 ! ^ 1 0 00127070
+retorto a 1 1 & 1 0 00094575
+non_atribuíble a 1 1 ! 1 0 00239605
+diverxente a 2 2 ! ^ 2 0 00182813 00201624
+pardo a 1 1 & 1 0 00314420
+con_zapatos a 1 1 ! 1 0 00013444
+non_marcado a 1 1 ! 1 0 00161557
+trilingüe a 1 1 & 1 0 00280673
+pavoroso a 1 1 & 1 0 00082229
+descarado a 1 2 ! ^ 1 0 00127070
+sentido a 1 1 & 1 0 00001580
+sen_receita_médica a 1 2 ! ;c 1 0 00265349
+indiscutíbel a 2 2 ! & 2 0 00094499 00169343
+lateral a 1 1 ! 1 0 00023150
+desequipado a 2 2 ! & 2 0 00160332 00294109
+de_máis a 2 2 ! & 2 0 00000643 00243516
+sen_teito a 1 1 ! 1 0 00005348
+imprevisto a 2 2 ! & 2 0 00198300 00237132
+confeccionado a 1 1 ! 1 0 00276037
+non_asignado a 1 1 ! 1 0 00100055
+irritado a 1 2 ! & 1 0 00274024
+univalvo a 1 1 ! 1 0 00129269
+inadmisible a 2 4 ! ^ & = 2 0 00218957 00285355
+sen_talento a 1 1 ! 1 0 00114998
+ar-ar a 1 1 ! 1 0 00158757
+inconsiderado a 1 2 ! ^ 1 0 00198594
+flamengo a 1 0 1 0 00334318
+matriarcal a 1 2 ! ^ 1 0 00210446
+desenfundado a 1 1 ! 1 0 00296074
+parsimonioso a 1 1 & 1 0 00075238
+a_longo_prazo a 1 0 1 0 00277865
+fedorento a 2 2 ! & 2 0 00173180 00283806
+rico a 4 4 ! ;c ^ & 4 0 00099125 00215739 00269211 00300081
+insípido a 2 3 ! ^ & 2 0 00017409 00058644
+metropolitano a 1 0 1 0 00333628
+inocuo a 1 2 ! ^ 1 0 00055242
+non_exento a 1 1 ! 1 0 00331304
+infecundo a 1 3 ! ^ & 1 0 00221518
+malhumorado a 2 3 ! ^ & 2 0 00204275 00266311
+presumido a 1 1 & 1 0 00244876
+vertebrado a 1 1 ! 1 0 00217915
+non_inquisitivo a 1 1 ! 1 0 00147099
+cada_hora a 1 1 & 1 0 00037165
+calado a 1 1 ! 1 0 00199684
+maltratado a 2 2 ! & 2 0 00124057 00229641
+sen_engurras a 1 1 ! 1 0 00203869
+amatorio a 1 1 & 1 0 00310195
+non_deducible a 1 1 ! 1 0 00046112
+inapelábel a 2 1 ! 2 0 00175521 00176119
+non_diversificado a 1 2 ! ^ 1 0 00097136
+teimoso a 1 3 ! ^ & 1 0 00057250
+non_recoñecido a 1 1 ! 1 0 00257058
+non_condutivo a 1 1 ! 1 0 00034597
+coherente a 5 3 ! ^ & 5 0 00052342 00170303 00238365 00247387 00330088
+exogámico a 2 2 ! ;c 2 0 00246035 00291467
+bonito a 1 4 ! ^ & = 1 0 00291004
+costeiro a 2 1 ! 2 0 00070149 00114511
+ardente a 2 1 & 2 0 00236132 00300476
+azonal a 1 1 ! 1 0 00308124
+subsolo a 1 1 ! 1 0 00019098
+non_combustible a 1 2 ! & 1 0 00046759
+misericordioso a 2 3 ! ^ & 2 0 00073359 00147653
+ordinal a 1 2 ! & 1 0 00267653
+arxiloso a 1 1 ! 1 0 00053111
+indulxente_consigo_mesmo a 1 0 1 0 00310389
+sen_financiamento a 1 1 ! 1 0 00193193
+insalvable a 2 2 ! ^ 2 0 00118161 00237487
+sorprendido a 2 2 ! & 2 0 00060636 00110730
+compasivo a 3 3 ! ^ & 3 0 00003506 00073359 00147653
+sen_tamaño a 1 1 ! 1 0 00003852
+acertado a 1 2 ! ^ 1 0 00155308
+lóxico a 1 2 ! ^ 1 0 00247387
+non_embarrilada a 1 1 ! 1 0 00169822
+azucrado a 2 3 ! ^ & 2 0 00129817 00250834
+permeable a 2 2 ! ^ 2 0 00112815 00148049
+necesarios a 1 3 ! ^ & 1 0 00195100
+impulsado a 1 1 ! 1 0 00163879
+falible a 1 1 ! 1 0 00252625
+inofensivo a 6 2 ! ^ 6 0 00055242 00204087 00235873 00246207 00256173 00311056
+silvestre a 1 2 ! ^ 1 0 00266592
+previamente a 1 1 & 1 0 00218339
+con_orellas a 1 1 ! 1 0 00200214
+con_bordos_con_labios a 1 1 ! 1 0 00332262
+defectuoso a 1 1 & 1 0 00181872
+indisputábel a 1 1 & 1 0 00187165
+pouco_atractivo a 1 1 & 1 0 00204406
+sensible a 6 2 ! ^ 6 0 00006351 00085360 00193959 00285809 00299715 00330865
+aceso a 3 3 ! ^ & 3 0 00203305 00300476 00321899
+reciclábel a 1 1 & 1 0 00199290
+indistinguíbel a 1 1 ! 1 0 00318856
+vulgar a 2 3 ! ^ & 2 0 00311915 00313998
+viscoso a 1 1 & 1 0 00004667
+cardíaco a 1 0 1 0 00337205
+subxectivo a 1 1 ! 1 0 00047696
+escrito a 3 3 ! ^ & 3 0 00108882 00183697 00319785
+categoremático a 1 1 ! 1 0 00189284
+que_se_pode_pintar a 1 1 ! 1 0 00202174
+irrevocable a 1 1 ! 1 0 00202007
+rubicundo a 1 1 & 1 0 00069867
+ancho a 2 3 ! ^ = 2 0 00039744 00257698
+extinto a 1 2 ! ^ 1 0 00318241
+fraccional a 1 3 ! ^ & 1 0 00060474
+de_proa a 1 2 ! ^ 1 0 00116558
+planeado a 2 2 ! ^ 2 0 00104943 00317185
+non_provocativo a 1 3 ! ^ & 1 0 00105055
+rancoroso a 1 1 & 1 0 00272260
+sen_pretensións a 1 2 ! ^ 1 0 00076602
+fisíbel a 1 2 ! ;c 1 0 00176662
+estilístico a 1 1 & 1 0 00058797
+normativo a 1 2 ! ;c 1 0 00239072
+desfavorecido a 1 2 ! ^ 1 0 00241503
+desvelado a 1 1 ! 1 0 00151490
+non_cualificado a 2 3 ! ^ & 2 0 00107912 00108527
+tecido a 1 1 ! 1 0 00189499
+con_filtro a 1 1 ! 1 0 00037622
+incompleto a 2 3 ! ^ & 2 0 00048151 00140568
+habituado a 1 1 ! 1 0 00157821
+non_rendíbel a 1 2 ! ^ 1 0 00043958
+personalizado a 1 2 ! & 1 0 00260327
+fondo a 1 2 ! ^ 1 0 00285727
+non_algareiro a 1 1 ! 1 0 00054532
+técnico a 1 1 ! 1 0 00150123
+fachendoso a 2 1 & 2 0 00244876 00317415
+maternal a 3 3 ! ^ & 3 0 00068967 00224231 00275433
+non_compresible a 1 1 ! 1 0 00283950
+ermo a 1 1 ! 1 0 00145288
+válido a 1 3 ! ^ & 1 0 00024490
+semestral a 1 1 & 1 0 00218591
+auditivo a 1 0 1 0 00339884
+inhumano a 3 1 & 3 0 00061666 00088066 00101817
+retirado a 1 1 & 1 0 00050464
+incompetente_nas_matemáticas a 1 2 ! = 1 0 00321256
+financiado a 1 1 ! 1 0 00325473
+circular a 1 2 ! ^ 1 0 00208296
+de_folla_caduca a 1 2 ! ;c 1 0 00271689
+gasoso a 1 1 ! 1 0 00308052
+dirimíbel a 1 1 ! 1 0 00032836
+rubio a 1 1 & 1 0 00020718
+estandarizado a 1 2 ! ;c 1 0 00170405
+indiscernible a 1 1 ! 1 0 00278200
+xocoso a 1 1 & 1 0 00020898
+asincrónico a 2 1 ! 2 0 00254841 00325928
+de_dúas_pezas a 1 1 ! 1 0 00184101
+indefectíbel a 1 1 & 1 0 00045076
+dun_ano a 1 2 ! ;c 1 0 00178372
+apagado a 4 3 ! ^ = 4 0 00104819 00187613 00241731 00276154
+sen_pel a 1 1 ! 1 0 00159707
+feudal a 1 0 1 0 00335388
+fiábel a 2 2 ! ^ 2 0 00257568 00276400
+encomiable a 2 1 & 2 0 00063565 00080340
+vergoñento a 3 2 ! ^ 3 0 00003349 00063961 00078149
+interrogativo a 1 1 ! 1 0 00128025
+cuantitativo a 2 2 ! & 2 0 00248447 00268298
+distribuído a 2 3 ! ^ & 2 0 00181243 00194355
+escoltado a 1 1 ! 1 0 00325667
+combinativo a 1 1 ! 1 0 00137362
+cobreado a 1 1 & 1 0 00217491
+retractábel a 1 1 ! 1 0 00097714
+non_contaminado a 1 1 ! 1 0 00020598
+enchoupado a 2 2 ! & 2 0 00144201 00199684
+pouco_práctico a 1 3 ! ^ = 1 0 00133518
+caduco a 2 2 ! ;c 2 0 00024417 00271689
+oínte a 1 1 ! 1 0 00183344
+inxusto a 4 2 ! ^ 4 0 00034131 00127830 00153237 00162180
+mesturable a 1 2 ! ;c 1 0 00030233
+fráxil a 3 3 ! ^ & 3 0 00054199 00315275 00319994
+insensible a 5 3 ! ^ & 5 0 00015553 00046615 00056041 00117652 00278074
+corpóreo a 2 2 ! ^ 2 0 00040463 00175149
+acondrítico a 1 1 ! 1 0 00191399
+comunicativo a 1 3 ! ^ & 1 0 00038848
+peludo a 2 2 ! & 2 0 00032183 00181480
+non_selado a 1 2 ! ^ 1 0 00298126
+tenebroso a 1 1 & 1 0 00168621
+de_alta_tensión a 1 2 ! ;c 1 0 00298753
+tormentoso a 2 3 ! ^ & 2 0 00116873 00163269
+en_contra a 1 1 ! 1 0 00256321
+oneroso a 1 3 ! ^ & 1 0 00194081
+larpán a 1 1 ! 1 0 00139950
+incombinatorio a 1 1 ! 1 0 00042233
+adsorbíbel a 1 1 ! 1 0 00141760
+auténtico a 1 2 ! ^ 1 0 00315509
+darwinista a 1 0 1 0 00335546
+á_carta a 1 1 ! 1 0 00192243
+bebíbel a 1 1 ! 1 0 00250476
+desapegado a 1 1 ! 1 0 00211730
+tratado a 2 2 ! ^ 2 0 00042483 00170184
+opcional a 1 1 ! 1 0 00301492
+mesomórfico a 1 2 ! ;c 1 0 00167834
+próximo a 6 3 ! & = 6 0 00067153 00111971 00198234 00275019 00314682 00331058
+expresivo a 2 3 ! ^ & 2 0 00158897 00280904
+do_centenario a 1 0 1 0 00337602
+non_inventivo a 1 3 ! ^ = 1 0 00127568
+indirecto a 2 2 ! ^ 2 0 00011054 00112127
+sen_fento a 1 1 ! 1 0 00194189
+fóra_de_foco a 1 1 ! 1 0 00257905
+atmosférico a 1 0 1 0 00336964
+desarticulado a 1 1 ! 1 0 00216719
+cano_dobre a 1 1 ! 1 0 00316235
+pantanoso a 1 1 & 1 0 00152617
+atraente a 1 3 ! ^ & 1 0 00051085
+precedente a 2 3 ! ^ & 2 0 00059800 00129325
+declarado a 2 1 ! 2 0 00014008 00048807
+adorábel a 2 2 ^ & 2 0 00158635 00164709
+dinámico a 2 4 ! ;c ^ & 2 0 00018012 00103379
+en_van a 1 1 & 1 0 00035768
+congruente a 2 3 ! ;c ^ 2 0 00170303 00259561
+inconvertible a 1 2 ! = 1 0 00124935
+bocho a 1 1 & 1 0 00307033
+desobediente a 1 3 ! ^ & 1 0 00027137
+ante_mortem a 1 1 ! 1 0 00122382
+sen_costura a 1 1 ! 1 0 00108029
+xurdio a 1 1 & 1 0 00107589
+rendible a 1 3 ! ^ & 1 0 00120048
+duro a 12 3 ! ^ & 12 0 00017881 00059650 00093246 00101287 00111222 00148278 00205117 00293855 00308453 00315443 00317485 00320497
+distributivo a 1 2 ! ^ 1 0 00206117
+narrativo a 1 1 & 1 0 00107732
+bicameral a 1 1 ! 1 0 00128669
+representativo a 2 2 ! & 2 0 00142667 00237203
+sobresaturado a 1 1 & 1 0 00030396
+aceptable a 2 2 ! ^ 2 0 00173974 00251705
+sen_selo a 2 2 ! ^ 2 0 00157448 00298126
+mellor a 3 3 ! ^ & 3 0 00081550 00133936 00167566
+de_embaixo a 1 1 ! 1 0 00204017
+totipotente a 1 1 ;c 1 0 00229988
+calmo a 2 2 ! ^ 2 0 00163690 00235342
+sen_ás a 1 1 ! 1 0 00190945
+cuestionable a 1 3 ! ^ & 1 0 00311785
+laborioso a 2 1 & 2 0 00281505 00328184
+de_orgullo a 1 2 ! & 1 0 00231156
+sen_sombra a 2 1 ! 2 0 00045303 00165383
+feito_á_máquina a 1 1 ! 1 0 00041118
+disposto a 1 4 ! ^ & = 1 0 00236200
+asombrado a 1 1 & 1 0 00046321
+incidental a 1 1 ! 1 0 00123742
+antipático a 2 3 ! ;c ^ 2 0 00065582 00094353
+non_redundante a 1 1 ! 1 0 00017933
+esburacado a 1 1 ! 1 0 00151410
+fúnebre a 1 0 1 0 00078847
+honorario a 1 1 & 1 0 00069023
+construtivo a 1 2 ! ^ 1 0 00291237
+expirado a 1 1 ! 1 0 00281339
+substancial a 1 2 ! ^ 1 0 00242126
+prexudicial a 2 3 ! ^ & 2 0 00083554 00152942
+incognito a 1 0 1 0 00137436
+ben a 1 2 ! ^ 1 0 00295116
+reparábel a 1 1 ! 1 0 00212619
+noxento a 2 1 & 2 0 00022215 00216175
+duradeiro a 2 5 ! ;c ^ & = 2 0 00150033 00190414
+insensato a 4 3 ! ^ & 4 0 00036421 00117652 00190747 00263350
+paranormal a 2 2 ! ^ 2 0 00267490 00322148
+sufocante a 2 1 & 2 0 00092006 00209950
+inminente a 2 1 & 2 0 00035546 00276867
+bendito a 1 1 ! 1 0 00270363
+sospeitoso a 1 1 ! 1 0 00042968
+oleoso a 1 1 ! 1 0 00197429
+fisible a 1 2 ! ;c 1 0 00176662
+destrutible a 1 1 ! 1 0 00051389
+prospectivo a 1 2 ! ^ 1 0 00021676
+xustificable a 1 1 & 1 0 00071680
+dispensable a 2 3 ! ^ & 2 0 00060283 00285537
+encolado a 1 1 ! 1 0 00154690
+non_mesturábel a 1 2 ! ;c 1 0 00040992
+confuso a 7 3 ! ^ & 7 0 00041910 00075677 00084245 00156301 00162694 00188908 00258700
+con_pé a 1 1 ! 1 0 00242869
+linfático a 1 0 1 0 00334641
+diversificado a 1 1 ! 1 0 00032237
+despedido a 1 1 & 1 0 00282497
+non_arbitrario a 1 1 ! 1 0 00156499
+patas_arriba a 1 1 & 1 0 00114105
+descontinuo a 2 3 ! ;c ^ 2 0 00225049 00263432
+repulsivo a 1 2 ! ;c 1 0 00087588
+non_atento a 2 2 ! ^ 2 0 00198594 00300661
+transitivo a 1 2 ! ;c 1 0 00197965
+por_resolver a 1 1 ! 1 0 00322360
+innato a 1 1 ! 1 0 00219908
+xerador a 1 1 ! 1 0 00152875
+tenro a 3 3 ! ^ & 3 0 00048736 00221280 00229331
+unicelular a 1 1 & 1 0 00169215
+sen_criterio a 1 2 ! ^ 1 0 00029270
+antidemocrático a 1 1 ! 1 0 00157313
+ruín a 1 3 ! ^ & 1 0 00189001
+insospeitado a 1 1 ! 1 0 00140466
+adaptábel a 1 1 ! 1 0 00136348
+logo a 1 1 & 1 0 00088771
+sen_cortina a 1 1 ! 1 0 00306864
+designado a 2 1 ! 2 0 00075062 00296273
+invertebrado a 2 1 ! 2 0 00177439 00206981
+herbívoro a 1 1 ! 1 0 00248525
+mésico a 1 1 ! 1 0 00133779
+prematuro a 1 1 ! 1 0 00023279
+lucrativo a 1 1 & 1 0 00101760
+exiguo a 1 3 ! ^ & 1 0 00091662
+profesional a 3 1 ! 3 0 00060224 00230549 00336736
+sen_branquia a 1 1 ! 1 0 00213119
+condenado a 1 1 & 1 0 00165901
+acedo a 1 1 & 1 0 00200824
+ácido a 2 4 ! ;c ^ & 2 0 00113599 00209793
+inexpresable a 2 2 ! & 2 0 00066632 00322662
+indeleble a 1 1 & 1 0 00280219
+lexíbel a 1 1 ! 1 0 00088258
+hipertenso a 1 1 ! 1 0 00332973
+inalterable a 2 1 ! 2 0 00193860 00316309
+frugal a 1 1 & 1 0 00078966
+elixible a 1 2 ! ^ 1 0 00160957
+pouco_claro a 1 1 ! 1 0 00258700
+pretensioso a 2 2 ! ^ 2 0 00015092 00148601
+de_esquerdas a 1 2 ! ^ 1 0 00202407
+máis_alá a 1 1 & 1 0 00214252
+estereotipado a 1 1 & 1 0 00297960
+deshabitado a 2 1 & 2 0 00209110 00301793
+equitativa a 1 2 ! ^ 1 0 00263832
+elaborado a 1 3 ! ^ & 1 0 00083197
+inmencionable a 1 1 & 1 0 00315968
+sarcástico a 1 4 ! ^ & = 1 0 00055018
+interactivo a 1 1 ! 1 0 00295835
+infrutuoso a 3 3 ! ^ & 3 0 00035768 00191544 00221518
+sen_afeitar a 1 1 ! 1 0 00181170
+decente a 2 3 ! ^ = 2 0 00031524 00246348
+desprovisto a 1 1 & 1 0 00013892
+clave a 1 1 & 1 0 00062015
+dourado a 1 1 & 1 0 00324283
+enreixado a 1 1 & 1 0 00009972
+do_interior a 1 1 ! 1 0 00298854
+acreditado a 1 1 & 1 0 00234608
+certificado a 2 2 ! ^ 2 0 00180213 00187070
+non_analizado a 1 1 ! 1 0 00303685
+agresivo a 2 3 ! ^ & 2 0 00282900 00284624
+ortotrópico a 1 2 ! ;c 1 0 00274145
+non_rachado a 1 1 ! 1 0 00268853
+en_camas a 1 2 ! ;c 1 0 00292093
+intestado a 1 1 ! 1 0 00107789
+ectomórfico a 1 2 ! ^ 1 0 00047392
+coidadoso a 2 3 ! ^ & 2 0 00142458 00305252
+de_antemán a 1 1 & 1 0 00218339
+cauteloso a 2 3 ! ^ & 2 0 00165441 00305252
+sen_poros a 1 1 ! 1 0 00182961
+indefinido a 3 2 ! ^ 3 0 00041910 00176024 00284734
+atestado a 1 2 ! & 1 0 00250071
+insuficientemente a 1 1 & 1 0 00125397
+non_regulado a 2 1 ! 2 0 00296423 00332144
+pronunciable a 1 1 ! 1 0 00219568
+angustiado a 1 2 ! ^ 1 0 00157141
+a_baixo_xuro a 1 0 1 0 00326687
+inevitable a 3 2 ! & 3 0 00119581 00291886 00297017
+virtuoso a 1 2 ! ^ 1 0 00110378
+desaugado a 1 1 ! 1 0 00116157
+apreciábel a 2 2 ! & 2 0 00009446 00294240
+aeróbico a 2 1 ! 2 0 00161230 00289938
+provocante a 1 3 ! ^ & 1 0 00071219
+hipotónico a 2 1 ! 2 0 00131742 00315698
+non_atractivo a 2 2 ! ^ 2 0 00122213 00271965
+non_engraxado a 2 1 ! 2 0 00057031 00328881
+destetado a 1 2 ! ;c 1 0 00234137
+monoauricular a 1 1 ! 1 0 00114297
+desconsiderado a 2 3 ! ^ & 2 0 00061512 00249062
+con_pais a 1 1 ! 1 0 00253166
+conservador a 1 3 ! ^ = 1 0 00214012
+desafortunado a 2 3 ! ^ & 2 0 00128156 00266999
+dexenerativo a 1 1 & 1 0 00098987
+de_moito_xenio a 1 1 & 1 0 00233385
+feliz a 4 4 ! ^ & = 4 0 00056203 00067741 00128783 00327687
+a_curto_prazo a 1 0 1 0 00219356
+sen_pintar a 1 2 ! ^ 1 0 00278278
+mariñeiro a 1 0 1 0 00146325
+brutal a 2 1 & 2 0 00029363 00235296
+asexuado a 1 2 ! = 1 0 00169997
+con_cheiro a 1 1 ! 1 0 00166860
+a_media_xornada a 1 1 ! 1 0 00213666
+con_prescrición a 1 2 ! ;c 1 0 00326001
+usual a 2 3 ! ^ & 2 0 00014544 00121018
+non_convencido a 1 1 ! 1 0 00259023
+desmontable a 1 1 ! 1 0 00040009
+estar_ao_tanto_(de) a 1 0 1 0 00135660
+admirado a 1 0 1 0 00301870
+arandelado a 1 1 ! 1 0 00062302
+complexo a 2 4 ! ^ & = 2 0 00228891 00308178
+irreversible a 1 1 ! 1 0 00191688
+alexandrino a 1 0 1 0 00340403
+binuclear a 1 2 ! ;c 1 0 00227730
+ameazante a 1 1 & 1 0 00006052
+sensibilizado a 1 1 ! 1 0 00138633
+derrogábel a 1 1 ! 1 0 00032836
+ecléctico a 1 1 & 1 0 00104434
+inexpresábel a 2 2 ! & 2 0 00066632 00322662
+crítico a 5 3 ! ;c ^ 5 0 00012896 00022131 00069366 00107289 00273612
+non_tentador a 1 2 ! ^ 1 0 00271965
+bipolar a 1 1 ! 1 0 00042667
+tolo_polo_sexo a 1 1 & 1 0 00134887
+diferente a 3 4 ! ^ & = 3 0 00041842 00287086 00304981
+inespecífico a 1 2 ! ;c 1 0 00232681
+leñoso a 1 1 ! 1 0 00109547
+pampo a 1 1 & 1 0 00258859
+moderado a 1 1 ! 1 0 00093831
+bondadoso a 1 1 ! 1 0 00147653
+non_razoábel a 1 3 ! ^ & 1 0 00190747
+acatador a 1 2 ! ^ 1 0 00073532
+recoñecido a 3 3 ! ^ & 3 0 00163602 00234608 00301870
+inoportuno a 4 3 ! ^ & 4 0 00021926 00180550 00225549 00296908
+discriminado a 1 2 ! ^ 1 0 00224333
+inesgotable a 3 2 ! & 3 0 00047300 00082935 00141970
+puído a 1 3 ! ^ & 1 0 00151311
+coñecido a 1 2 ^ & 1 0 00139083
+en_dous a 1 1 & 1 0 00186014
+anhidro a 1 2 ! ;c 1 0 00053037
+viril a 2 1 ! 2 0 00264617 00281772
+hábil a 1 3 ! ^ & 1 0 00240831
+coloquial a 1 3 ! ^ & 1 0 00045623
+bébedo a 1 2 ! & 1 0 00144843
+impío a 1 3 ! ^ = 1 0 00274521
+dentro_do_lugar a 1 1 ! 1 0 00114358
+cargado_de_misterio a 1 1 & 1 0 00230945
+destacado a 1 1 ! 1 0 00078655
+carismático a 1 1 & 1 0 00247327
+oriental a 3 3 ! & = 3 0 00034405 00208204 00316122
+accidental a 1 0 1 0 00289574
+fiable a 2 2 ! ^ 2 0 00257568 00276400
+tocado a 1 1 ! 1 0 00002923
+malfeito a 1 4 ! ^ & = 1 0 00151714
+pensábel a 1 3 ! ^ & 1 0 00262513
+esperábel a 1 1 ! 1 0 00042968
+setentrional a 1 1 ! 1 0 00208380
+connato a 1 2 ! ;c 1 0 00193119
+sofisticado a 1 3 ! ^ & 1 0 00145588
+irrisorio a 1 1 & 1 0 00186514
+anticipado a 1 2 ! ;c 1 0 00326866
+encoirado a 1 3 ! ^ & 1 0 00122877
+elixíbel a 1 2 ! ^ 1 0 00160957
+liso a 6 3 ! ;c ^ 6 0 00006109 00038628 00153471 00172838 00269540 00286225
+non_partidario a 1 1 ! 1 0 00297380
+inflexíbel a 6 3 ! ^ & 6 0 00011892 00029974 00126303 00132405 00164473 00207569
+pegañento a 2 1 & 2 0 00004667 00110560
+bicudo a 2 1 ! 2 0 00239686 00306427
+rexenerado a 1 2 ! & 1 0 00212846
+da_clase_media a 1 1 ! 1 0 00112735
+anestro a 1 2 ! ;c 1 0 00044607
+famento a 1 0 1 0 00130036
+manexábel a 2 2 ! ^ 2 0 00123276 00173736
+calculable a 1 2 ! ^ 1 0 00112037
+ao_aire_libre a 2 3 ! ^ & 2 0 00161644 00303394
+invisible a 3 3 ! ^ & 3 0 00100779 00104698 00146504
+teolóxico a 1 0 1 0 00338898
+non_doente a 1 1 ! 1 0 00121788
+esperanzador a 1 3 ! ^ & 1 0 00305126
+denotativo a 1 2 ! ^ 1 0 00203941
+máis a 1 1 & 1 0 00214252
+psiconeurótico a 1 1 ! 1 0 00227242
+asediado a 1 1 & 1 0 00310060
+sangrado a 1 1 ! 1 0 00168886
+emocional a 2 3 ! ^ & 2 0 00039094 00209248
+represivo a 1 1 & 1 0 00015438
+peor a 3 2 ! ^ 3 0 00065747 00073006 00138124
+expresable a 3 2 ! & 3 0 00189978 00202174 00289866
+con_teito a 1 1 ! 1 0 00254014
+aire-aire a 1 1 ! 1 0 00158757
+desatado a 4 3 ! ^ & 4 0 00005405 00120697 00141235 00303329
+non_funcional a 1 3 ! ^ & 1 0 00102501
+digno a 3 3 ! ^ & 3 0 00080340 00116944 00149490
+contido a 1 2 ! ^ 1 0 00125626
+cuberto_de_rosada a 1 1 & 1 0 00194912
+non_correcto a 1 1 ! 1 0 00037392
+condescendente a 1 1 & 1 0 00290220
+non_excitado a 1 2 ! ^ 1 0 00257252
+abondo a 2 3 ! ^ & 2 0 00012130 00312949
+futuro a 2 3 ! ^ & 2 0 00021676 00247863
+río_abaixo a 1 1 ! 1 0 00228711
+apreciable a 2 2 ! & 2 0 00009446 00294240
+servil a 2 2 ! & 2 0 00303471 00325531
+non_finito a 1 2 ! ;c 1 0 00019171
+inveterado a 1 1 & 1 0 00022536
+propio a 2 3 ! ^ & 2 0 00014544 00159653
+material a 3 2 ! ^ 3 0 00040463 00242126 00292665
+autogámico a 1 2 ! ;c 1 0 00244433
+venal a 1 1 & 1 0 00213344
+antes_mencionado a 1 1 & 1 0 00294802
+servible a 2 2 ! ^ 2 0 00027827 00040549
+falíbel a 1 1 ! 1 0 00252625
+non_rexistrado a 3 2 ! ;c 3 0 00016633 00065968 00306081
+catabático a 1 1 ! 1 0 00308394
+detectable a 1 1 ! 1 0 00077827
+arbitrable a 1 1 ! 1 0 00023371
+extraescolar a 1 1 & 1 0 00003446
+desexable a 1 3 ! ^ & 1 0 00268376
+con_costura a 1 1 ! 1 0 00133720
+enferruxado a 1 1 ! 1 0 00320898
+anátropo a 1 2 ! ;c 1 0 00033420
+fecundo a 1 3 ! ^ & 1 0 00191916
+radiante a 1 1 & 1 0 00089651
+a_posteriori a 1 2 ! ^ 1 0 00324569
+con_gala a 1 1 ! 1 0 00088524
+desamañado a 1 1 ! 1 0 00254571
+inconsolábel a 1 0 1 0 00015495
+abotoado a 1 1 ! 1 0 00254353
+litúrxico a 1 0 1 0 00339922
+de_luxo a 1 1 & 1 0 00108313
+asistido a 1 1 ! 1 0 00224567
+sen_coroa a 2 2 ! ;c 2 0 00237916 00247971
+exacto a 4 3 ! ^ & 4 0 00031644 00084663 00086834 00204893
+chic a 1 1 & 1 0 00168705
+amigábel a 2 3 ! ^ & 2 0 00078059 00300300
+importante a 3 3 ! ^ & 3 0 00079214 00169607 00294240
+non_resolto a 1 1 ! 1 0 00203044
+non_intercambiable a 1 1 ! 1 0 00015661
+non_afagador a 1 3 ! ^ & 1 0 00112243
+multíparo a 1 2 ! ;c 1 0 00152423
+retrospectivo a 1 2 ! ^ 1 0 00084048
+transmontano a 1 1 ! 1 0 00244956
+conveniente a 3 3 ! ^ & 3 0 00072316 00251005 00268376
+atribulado a 1 1 & 1 0 00209169
+acostumado a 2 2 ! & 2 0 00114442 00157821
+insuficiente a 1 3 ! ^ & 1 0 00326404
+falso a 8 3 ! ^ & 8 0 00063512 00077549 00081006 00101136 00109362 00153769 00239534 00283352
+indelébel a 1 1 & 1 0 00280219
+cíclico a 3 2 ! ;c 3 0 00057901 00207118 00245979
+indivisíbel a 1 2 ! & 1 0 00203470
+fosorial a 1 1 ! 1 0 00094106
+luxoso a 2 2 ! & 2 0 00020468 00110506
+acompañado a 2 1 ! 2 0 00104549 00325667
+mal_representado a 1 1 & 1 0 00125203
+non_lubricado a 1 1 ! 1 0 00057031
+afrontoso a 1 1 ! 1 0 00003349
+animista a 1 0 1 0 00337088
+avergonzado a 1 2 ! ^ 1 0 00078149
+pouco_sólido a 2 2 ! ^ 2 0 00132928 00156701
+decidido a 5 4 ! ^ & = 5 0 00070660 00083762 00086466 00229768 00294616
+desconcertante a 4 1 & 4 0 00138694 00208459 00227087 00326164
+sacrificábel a 1 1 & 1 0 00277048
+non_solicitado a 1 1 ! 1 0 00106026
+manchado_de_tinta a 1 1 & 1 0 00149968
+confinado a 1 2 ! ^ 1 0 00215026
+asoballador a 1 1 & 1 0 00064197
+desapercibido a 1 2 ! & 1 0 00144338
+regordete a 1 1 & 1 0 00307033
+fantasmal a 1 1 & 1 0 00098564
+inactivo a 9 4 ! ;c ^ & 9 0 00012065 00028768 00088120 00168830 00179471 00186343 00277375 00295651 00303908
+non_estándar a 3 3 ! ;c = 3 0 00074297 00150409 00197014
+tolerante a 2 2 ! ^ 2 0 00168942 00238906
+subliminal a 1 1 & 1 0 00066874
+sen_vender a 1 1 ! 1 0 00138442
+non_alfombrado a 1 1 ! 1 0 00263510
+adulador a 1 2 ! ^ 1 0 00247712
+espantoso a 3 1 & 3 0 00061666 00167156 00303964
+cheo_de_frustación a 1 1 & 1 0 00031782
+sen_prescrición a 1 2 ! ;c 1 0 00265349
+ingobernable a 1 0 1 0 00166375
+con_obxectivo a 1 2 ! ^ 1 0 00219399
+perdoábel a 2 2 ! & 2 0 00147343 00305796
+lucente a 1 1 & 1 0 00193795
+non_esvaradío a 1 2 ! ^ 1 0 00268218
+esgotado a 2 1 ! 2 0 00116157 00205611
+desenfreado a 2 3 ! ^ & 2 0 00327538 00329829
+sen_engrenaxe a 1 1 ! 1 0 00282839
+non_eloxioso a 1 3 ! ^ & 1 0 00112243
+pouco_apetecible a 1 2 ! ^ 1 0 00054063
+sen_graxa a 1 1 ! 1 0 00234213
+innumerable a 1 1 & 1 0 00199808
+algorítmico a 1 1 ! 1 0 00143735
+sen_respaldo a 1 1 ! 1 0 00220277
+non_libre a 1 3 ! ^ & 1 0 00303746
+inmediato a 1 1 ! 1 0 00107066
+férreo a 1 1 & 1 0 00246141
+causal a 1 1 & 1 0 00230048
+sen_borde a 1 1 ! 1 0 00205441
+cargado a 2 1 ! 2 0 00157258 00232510
+afagador a 2 3 ! ^ & 2 0 00247712 00272841
+non_vendido a 1 1 ! 1 0 00138442
+non_sectario a 1 1 ! 1 0 00079971
+simple a 5 5 ! ;c ^ & = 5 0 00080420 00188195 00207980 00242492 00306008
+resistible a 1 1 ! 1 0 00253794
+inconfortable a 1 1 ! 1 0 00053451
+gratuíto a 1 1 & 1 0 00319025
+publicable a 2 1 ! 2 0 00207193 00231593
+perceptivo a 1 1 ! 1 0 00018636
+groseiro a 2 2 ! & 2 0 00147181 00210269
+xeolóxico a 1 0 1 0 00334196
+exportábel a 1 1 ! 1 0 00027305
+guía a 1 1 ! 1 0 00078655
+temíbel a 1 1 & 1 0 00082229
+recesivo a 1 2 ! ;c 1 0 00046246
+con_balcón a 1 1 ! 1 0 00280087
+pensable a 1 3 ! ^ & 1 0 00262513
+bulicioso a 1 1 & 1 0 00222080
+cano_único a 1 1 ! 1 0 00093309
+policromático a 1 1 ! 1 0 00059738
+adaptativo a 1 1 ! 1 0 00241063
+instantáneo a 1 1 & 1 0 00040873
+semántico a 1 0 1 0 00340689
+anual a 2 3 ! ;c & 2 0 00046549 00178372
+oblicuo a 2 2 ! ^ 2 0 00026629 00050279
+redondo a 2 2 ! ^ 2 0 00208296 00334681
+paso_a_paso a 1 1 & 1 0 00231023
+simpátrico a 1 2 ! ;c 1 0 00220585
+sen_xuramento a 1 1 ! 1 0 00215498
+radioactivo a 1 1 ! 1 0 00004203
+sen_solución a 1 2 ! ^ 1 0 00217753
+inmenso a 3 0 3 0 00131093 00160777 00207804
+posterior a 2 4 ! ^ & = 2 0 00171575 00298381
+non_produtivo a 1 3 ! ^ & 1 0 00143602
+post_meridiem a 1 1 ! 1 0 00069136
+pagán a 1 1 & 1 0 00136510
+ferido a 2 2 ^ & 2 0 00190068 00256796
+sen_contraventás a 1 1 ! 1 0 00083913
+non_dirimible a 1 1 ! 1 0 00287869
+pueril a 1 0 1 0 00070542
+metálico a 1 0 1 0 00240404
+equidistante a 1 1 & 1 0 00291686
+desensibilizado a 1 2 ! & 1 0 00188319
+utópico a 1 2 ! ^ 1 0 00215977
+laso a 1 1 ! 1 0 00269540
+exánime a 1 2 ! ^ 1 0 00216611
+inflexible a 6 3 ! ^ & 6 0 00011892 00029974 00084878 00132405 00164473 00207569
+social a 2 3 ! ^ & 2 0 00049036 00335898
+estrito a 1 1 & 1 0 00128614
+impenetrábel a 1 1 ! 1 0 00193605
+post_mortem a 1 1 ! 1 0 00212194
+asalariado a 1 1 ! 1 0 00027004
+xemelgo a 2 1 ! 2 0 00276263 00312153
+migratorio a 2 2 ! & 2 0 00111021 00293157
+polo_miúdo a 1 1 & 1 0 00021444
+rabuxento a 1 1 & 1 0 00105917
+ligado a 1 2 ! ;c 1 0 00019922
+varudo a 1 3 ! ^ = 1 0 00086466
+tarde a 1 2 ! & 1 0 00070786
+publicábel a 2 1 ! 2 0 00207193 00231593
+recorrente a 2 1 & 2 0 00318574 00331477
+non_sexuado a 1 2 ! = 1 0 00169997
+presumida a 1 1 & 1 0 00230241
+papal a 1 0 1 0 00335779
+tostado a 1 1 & 1 0 00063789
+mal_equipado a 1 1 & 1 0 00074632
+inconformista a 1 1 ! 1 0 00065097
+gradual a 2 3 ! ^ & 2 0 00287778 00292800
+desposuído a 1 1 & 1 0 00289515
+permisíbel a 1 2 ! ^ 1 0 00153679
+con_deda a 1 1 ! 1 0 00182746
+abrasador a 1 0 1 0 00108626
+privilexiado a 1 2 ! ^ 1 0 00021063
+por_adiantado a 1 1 & 1 0 00218339
+preparatorio a 1 1 & 1 0 00058737
+de_estrea a 1 1 & 1 0 00263032
+mínimo a 1 1 & 1 0 00161101
+que_vale_a_pena a 1 1 & 1 0 00236069
+terminal a 1 1 ! 1 0 00306463
+durmido a 3 3 ! ^ & 3 0 00045021 00106553 00179270
+asmático a 1 1 & 1 0 00290502
+penúltimo a 1 1 & 1 0 00090952
+perigoso a 4 3 ! ^ & 4 0 00152942 00176505 00201568 00209518
+cristalizado a 1 1 ! 1 0 00214350
+con_casca a 1 1 ! 1 0 00061348
+discontinuo a 1 3 ! ^ & 1 0 00094813
+sensorial a 1 1 ! 1 0 00096862
+por_unanimidade a 1 1 ! 1 0 00164354
+aplacábel a 1 1 ! 1 0 00163809
+aritmético a 1 0 1 0 00339596
+sexy a 1 3 ! ^ & 1 0 00007043
+acaule a 1 2 ! ;c 1 0 00089578
+depresivo a 1 1 ! 1 0 00093460
+non_irritado a 1 1 ! 1 0 00121788
+declarábel a 1 1 ! 1 0 00044681
+cada a 1 1 & 1 0 00173121
+intricado a 1 1 & 1 0 00319390
+custoso a 1 3 ! ^ & 1 0 00194081
+representábel a 1 1 ! 1 0 00067547
+non_exportable a 1 1 ! 1 0 00089498
+impúdico a 1 3 ! ^ & 1 0 00059858
+non_violento a 1 2 ! ^ 1 0 00066766
+da_mariña a 1 0 1 0 00337562
+omnipresente a 1 1 & 1 0 00065390
+desprezábel a 2 3 ! ^ & 2 0 00004336 00043772
+traballado a 1 1 ! 1 0 00133452
+parecido_a_un_fío a 1 1 & 1 0 00039678
+acabado a 2 2 ! ^ 2 0 00085804 00175710
+débil a 2 2 ! ^ 2 0 00064758 00070318
+concluínte a 1 3 ! ^ = 1 0 00148495
+de_arrepentimento a 1 1 ! 1 0 00294394
+incrédulo a 1 2 ! ^ 1 0 00017125
+nostálxico a 1 1 & 1 0 00315775
+de_shakespeare a 1 0 1 0 00335309
+inconstante a 2 2 ! ^ 2 0 00186898 00225049
+traseiro a 3 3 ! ^ & 3 0 00243221 00285895 00330659
+indisputable a 1 1 & 1 0 00187165
+ingobernábel a 1 0 1 0 00166375
+hispanofalante a 1 1 & 1 0 00301293
+sen_tacto a 1 2 ! ^ 1 0 00213560
+fabricado_en_serie a 1 1 & 1 0 00105375
+esgrevio a 1 1 & 1 0 00302196
+clamídeo a 1 2 ! ;c 1 0 00303083
+sen_dereito_de_voto a 1 1 ! 1 0 00264539
+amplo a 2 3 ! ^ = 2 0 00039744 00257698
+inconcibible a 2 3 ! ^ & 2 0 00019537 00228233
+comparativo a 1 1 ! 1 0 00264214
+probado a 1 1 ! 1 0 00212253
+asolagado a 1 1 ! 1 0 00199684
+grato a 2 1 ! 2 0 00155120 00159587
+posbélico a 1 1 ! 1 0 00148828
+estraño a 3 3 ! ^ & 3 0 00034056 00146967 00206479
+insalubre a 6 4 ! ^ & = 6 0 00009016 00072087 00115446 00132928 00156701 00253341
+desvantaxoso a 1 2 ! ^ 1 0 00239162
+sen_punta a 1 1 ! 1 0 00176218
+insolvente a 1 2 ! & 1 0 00292502
+talentoso a 1 1 ! 1 0 00137475
+de_mediana_idade a 1 1 & 1 0 00087420
+indecente a 2 3 ! ^ & 2 0 00059858 00274647
+asfáltico a 1 0 1 0 00334040
+inquebrantábel a 1 1 ! 1 0 00039279
+exhaustivo a 1 1 & 1 0 00266050
+parvo a 1 1 & 1 0 00306574
+ostentoso a 1 0 1 0 00037680
+acentual a 1 1 ! 1 0 00273827
+transcultural a 1 0 1 0 00335144
+ilimitado a 1 1 & 1 0 00185030
+pretencioso a 1 1 & 1 0 00129629
+pronunciábel a 1 1 ! 1 0 00219568
+non_alcanforado a 1 1 ! 1 0 00331535
+disolto a 1 0 1 0 00250275
+terrible a 5 3 ! ^ & 5 0 00004790 00061666 00082229 00167156 00317135
+indesexábel a 2 2 ! ^ 2 0 00228367 00330715
+extasiado a 1 1 & 1 0 00055719
+abactinal a 1 1 ! 1 0 00207923
+do_norte a 2 1 ! 2 0 00102254 00208380
+non_patriótico a 1 2 ! ^ 1 0 00072207
+sen_diluír a 1 1 ! 1 0 00001635
+destinado a 1 1 ! 1 0 00138232
+cego a 3 2 ! & 3 0 00162897 00193431 00251847
+celoso a 1 1 & 1 0 00198966
+non_permanente a 1 4 ! ^ & = 1 0 00171686
+léntico a 1 2 ! ;c 1 0 00267907
+tóxico a 1 2 ! ^ 1 0 00154822
+revestido a 1 1 ! 1 0 00262727
+adoptivo a 1 1 ! 1 0 00249323
+xinecolóxico a 1 0 1 0 00339802
+a_medio_camiño a 1 1 & 1 0 00257505
+entretido a 1 1 & 1 0 00199444
+calcífugo a 1 1 ! 1 0 00230435
+sen_compaixón a 1 2 ! ^ 1 0 00224856
+non_dirimíbel a 1 1 ! 1 0 00287869
+preventivo a 2 3 ! ^ & 2 0 00025057 00096756
+precioso a 1 1 & 1 0 00084990
+escocés a 1 0 1 0 00340327
+representable a 1 1 ! 1 0 00067547
+caducifolio a 1 2 ! ;c 1 0 00271689
+a_destempo a 1 1 & 1 0 00318183
+non_enerxético a 1 3 ! ^ & 1 0 00011601
+divertido a 4 1 & 4 0 00005970 00095150 00108665 00199444
+aboral a 1 2 ! ;c 1 0 00067004
+local a 1 1 ! 1 0 00270746
+séptico a 1 2 ! ^ 1 0 00103931
+protexido a 3 3 ! ^ & 3 0 00031065 00034966 00045508
+chosco a 1 1 & 1 0 00155254
+mal a 1 1 & 1 0 00125397
+exultante a 1 1 & 1 0 00271908
+confortábel a 1 2 ! & 1 0 00273281
+celta a 1 0 1 0 00339676
+innobre a 1 2 ! ^ 1 0 00144110
+simplista a 1 1 & 1 0 00206863
+asociada a 1 1 & 1 0 00154395
+gorxón a 1 1 ! 1 0 00139950
+inextricábel a 1 1 ! 1 0 00282173
+valoroso a 2 4 ! ^ & = 2 0 00038429 00086466
+amedoñado a 1 1 & 1 0 00168112
+obtuso a 1 1 ! 1 0 00031952
+ocioso a 2 2 ! ^ 2 0 00166506 00264284
+enfeitizada a 1 1 & 1 0 00168195
+particular a 2 3 ! ^ & 2 0 00055919 00130189
+de_paredes_medianeiras a 1 2 ! ;c 1 0 00093517
+anómalo a 1 1 & 1 0 00023223
+que_non_se_pode_pintar a 1 1 ! 1 0 00066632
+de_pé_adducto a 1 1 ! 1 0 00291746
+esquecible a 1 1 ! 1 0 00137547
+exterior a 7 4 ! ^ & = 7 0 00027957 00031708 00063428 00072841 00121136 00161644 00304727
+incontaminado a 1 1 ! 1 0 00249856
+pegado a 1 1 ! 1 0 00073296
+colosal a 1 0 1 0 00243598
+alterado a 1 1 ! 1 0 00068429
+inapropiado a 4 4 ! ^ & = 4 0 00000399 00216374 00288879 00296908
+remunerado a 2 2 ! & 2 0 00019033 00142913
+nomoteta a 1 2 ! ;c 1 0 00178147
+con_pétalos a 1 1 ! 1 0 00000710
+inquisitivo a 1 3 ! ^ & 1 0 00130470
+presente a 3 3 ! ^ & 3 0 00068225 00159504 00187302
+illante a 1 1 ! 1 0 00034597
+endurecido a 1 1 & 1 0 00235238
+mesial a 1 2 ! ;c 1 0 00313434
+destruído a 1 3 ! ^ & 1 0 00013204
+adestrado a 1 1 ! 1 0 00166213
+irreproducíbel a 2 1 ! 2 0 00013298 00307972
+ruidoso a 1 3 ! ^ & 1 0 00090042
+sen_cámara a 1 1 ! 1 0 00266533
+oficial a 2 2 ! ^ 2 0 00233025 00253525
+aluvial a 1 0 1 0 00338220
+aceptábel a 2 2 ! ^ 2 0 00173974 00251705
+ineficiente a 3 2 ! ^ 3 0 00056923 00150797 00159160
+radiopaco a 1 1 ! 1 0 00228834
+lapón a 1 1 ! 1 0 00139950
+dubidoso a 1 1 & 1 0 00203249
+imposible a 1 3 ! ^ & 1 0 00145794
+fértil a 2 3 ! ^ & 2 0 00191916 00244136
+non_profético a 1 1 ! 1 0 00239902
+arrepiante a 5 1 & 5 0 00061666 00082229 00167156 00185699 00229699
+xeracional a 1 0 1 0 00339762
+viciante a 2 2 ! & 2 0 00040231 00260436
+aristocrático a 1 1 & 1 0 00235931
+pistilado a 1 2 ! ;c 1 0 00149053
+sagrado a 2 4 ! ^ & = 2 0 00140797 00297152
+non_ambicioso a 1 2 ! ^ 1 0 00314603
+ininterpretábel a 1 1 ! 1 0 00013298
+coralino a 1 1 & 1 0 00056545
+evidente a 4 3 ! ^ & 4 0 00114031 00251362 00294240 00298499
+máis_tarde a 1 1 ! 1 0 00279299
+enrolado a 1 1 ! 1 0 00276934
+traxicómico a 1 1 & 1 0 00284564
+inédito a 1 1 ! 1 0 00158190
+anulado a 1 1 ! 1 0 00007289
+carnívoro a 1 2 ! ;c 1 0 00289626
+regulamentario a 1 1 & 1 0 00310879
+inadmisíbel a 2 4 ! ^ & = 2 0 00218957 00285355
+infeccioso a 1 2 ! ^ 1 0 00103931
+imponteable a 1 1 ! 1 0 00237487
+exoérxico a 1 2 ! ^ 1 0 00007435
+dirimible a 1 1 ! 1 0 00032836
+comprensíbel a 2 3 ! ^ & 2 0 00001053 00328397
+intacto a 4 3 ! ;c ^ 4 0 00102350 00141675 00265550 00303215
+actual a 4 3 ! ^ & 4 0 00025790 00068225 00076222 00159504
+baixo a 1 2 ! & 1 0 00243435
+non_traducible a 1 1 ! 1 0 00132141
+tedioso a 2 1 & 2 0 00295203 00306788
+adsorbente a 1 1 ! 1 0 00049639
+fragmentado a 1 1 & 1 0 00270882
+incrible a 1 3 ! ^ = 1 0 00260613
+teatral a 1 1 ! 1 0 00156114
+esfameado a 2 1 & 2 0 00074708 00130036
+maquiavélico a 1 0 1 0 00334598
+frutífero a 2 3 ! ^ & 2 0 00191916 00275886
+viable a 1 1 & 1 0 00185385
+non_entreforrado a 1 1 ! 1 0 00094940
+irredutible a 2 3 ! ^ & 2 0 00012684 00048436
+infeliz a 4 4 ! ^ & = 4 0 00128156 00157141 00266999 00279091
+dicotiledóneo a 1 2 ! ;c 1 0 00141080
+sen_peito a 1 1 ! 1 0 00210723
+colorado a 3 3 ! & = 3 0 00091862 00261218 00332070
+licencioso a 1 1 & 1 0 00063731
+non_habituado a 1 1 ! 1 0 00076485
+gástrico a 1 0 1 0 00334236
+alfombrado a 1 1 ! 1 0 00043473
+non_tributábel a 2 2 ! ^ 2 0 00195518 00243674
+nítido a 1 2 ! ^ 1 0 00008559
+mor a 1 1 ! 1 0 00298251
+aconsellábel a 1 2 ! ^ 1 0 00288344
+adornado a 1 3 ! ^ & 1 0 00307664
+intanxible a 2 2 ! ^ 2 0 00036754 00143025
+incorrixíbel a 1 2 ! ^ 1 0 00241890
+estimado a 1 0 1 0 00301870
+irreparable a 1 1 ! 1 0 00212710
+famoso a 2 1 & 2 0 00095207 00278427
+desventurado a 1 1 & 1 0 00058573
+harmonioso a 2 2 ! ^ 2 0 00039504 00114672
+xuvenil a 2 1 & 2 0 00216536 00218428
+holozoico a 1 1 ! 1 0 00020004
+bacteriolóxico a 1 0 1 0 00336787
+sanitario a 1 2 ! & 1 0 00040139
+decorado a 2 3 ! ^ & 2 0 00113900 00307664
+difuso a 1 1 ! 1 0 00286969
+habitábel a 1 0 1 0 00181118
+insubstituíbel a 2 2 ! ^ 2 0 00200707 00238266
+sen_iniciativas a 1 2 ! ^ 1 0 00125509
+non_cultivábel a 1 1 ! 1 0 00142044
+irreproducible a 2 1 ! 2 0 00013298 00307972
+incríbel a 1 3 ! ^ = 1 0 00260613
+en_medianeira a 1 2 ! ;c 1 0 00093517
+cronolóxico a 1 0 1 0 00337412
+simpatizante a 1 2 ! ^ 1 0 00167272
+evitable a 2 1 ! 2 0 00091010 00198166
+deitado a 1 0 1 0 00143097
+xerárquico a 1 0 1 0 00255817
+inaxeitado a 1 2 ! ^ 1 0 00117501
+desaparecido a 1 2 ! ^ 1 0 00318241
+insultante a 1 1 & 1 0 00205019
+evolucionista a 1 0 1 0 00334275
+sen_incidentes_notables a 1 1 ! 1 0 00262949
+inadaptable a 1 1 ! 1 0 00171422
+sen_óso a 1 1 ! 1 0 00089427
+aburrido a 1 0 1 0 00295203
+de_barro a 1 0 1 0 00337645
+acolledor a 4 2 ! & 4 0 00078059 00146196 00221786 00282086
+clandestino a 2 2 ^ & 2 0 00249458 00300171
+recorríbel a 1 1 ! 1 0 00166280
+suburbano a 1 0 1 0 00336845
+distinto a 3 4 ! ^ & = 3 0 00041842 00287086 00304981
+xogable a 1 1 ! 1 0 00316605
+octogonal a 1 0 1 0 00335740
+cheirento a 2 2 ! & 2 0 00173180 00283806
+provisional a 3 1 & 3 0 00023509 00025473 00137619
+fino a 3 3 ! ^ & 3 0 00154250 00219222 00317703
+estrinxido a 1 1 ! 1 0 00198908
+desesperado a 3 1 & 3 0 00028595 00033361 00125031
+negable a 1 1 ! 1 0 00236441
+sen_fondo a 1 1 ! 1 0 00262399
+pluralista a 1 0 1 0 00334940
+impronunciábel a 1 1 ! 1 0 00111079
+autóctono a 2 2 ! & 2 0 00008946 00267432
+hidrofóbico a 1 2 ! ;c 1 0 00327260
+abdominal a 1 0 1 0 00338257
+rasurado a 1 1 ! 1 0 00126132
+en_alza a 1 1 ! 1 0 00255081
+pouco_orixinal a 1 3 ! ^ & 1 0 00044753
+mediado a 1 1 ! 1 0 00134661
+coordinado a 2 3 ! ;c & 2 0 00228947 00325596
+atomista a 1 1 ! 1 0 00001342
+abafado a 1 0 1 0 00096055
+autobiográfico a 1 0 1 0 00333326
+inesquecíbel a 2 2 ! & 2 0 00031158 00166999
+esquecíbel a 1 1 ! 1 0 00137547
+marcado a 1 1 ! 1 0 00190122
+primeiro a 3 4 ! ;c ^ & 3 0 00023279 00127275 00153831
+non_inflamables a 1 2 ! & 1 0 00046759
+cortado a 4 1 ! 4 0 00124742 00224801 00244069 00263587
+arquitectónico a 1 0 1 0 00336438
+non_establecido a 1 1 ! 1 0 00156910
+minguante a 1 1 ! 1 0 00174603
+non_comprometido a 2 1 ! 2 0 00079907 00211730
+incomprensible a 2 3 ! ^ & 2 0 00010823 00262034
+con_criterio a 1 2 ! ^ 1 0 00184450
+inventor a 1 1 & 1 0 00314808
+calculador a 1 1 & 1 0 00161043
+sen_queixo a 1 1 & 1 0 00226489
+fóra_dos_plans a 1 1 ! 1 0 00007289
+con_nariz a 1 1 ! 1 0 00272203
+flexivo a 2 2 ! ;c 2 0 00021159 00075298
+en_cor a 1 1 ! 1 0 00091862
+non_variado a 1 2 ! ^ 1 0 00251899
+non_emendado a 1 1 ! 1 0 00044088
+mutuo a 1 1 ! 1 0 00113533
+inesperábel a 1 1 ! 1 0 00140466
+natural a 2 2 ! ^ 2 0 00172374 00322514
+antrorso a 1 2 ! ;c 1 0 00261843
+acidófilo a 1 2 ! ;c 1 0 00195837
+hipodérmico a 1 0 1 0 00337941
+inaturable a 2 3 ! ^ & 2 0 00001953 00202972
+manual a 3 2 ! ^ 3 0 00074765 00149344 00324338
+oleofílico a 1 2 ! ;c 1 0 00089349
+non_vencido a 1 1 ! 1 0 00277280
+subordinado a 4 3 ! ;c ^ 4 0 00157629 00264448 00276497 00290909
+aberto a 7 4 ! ;c ^ & 7 0 00154475 00171234 00172101 00261378 00298499 00303329 00307257
+nativo a 3 2 ! & 3 0 00171162 00172374 00315834
+delimitado a 1 2 ! ^ 1 0 00036181
+amidonado a 1 1 ! 1 0 00209359
+desprezable a 2 3 ! ^ & 2 0 00004336 00043772
+costa_arriba a 1 1 & 1 0 00195230
+escorregadizo a 1 2 ! ^ 1 0 00241285
+benfeitor a 1 1 ! 1 0 00100581
+prolixo a 1 2 ! ^ 1 0 00124183
+desvergoñado a 1 2 ! ^ 1 0 00127070
+proscénico a 1 1 ! 1 0 00257136
+pouco_rendible a 1 1 & 1 0 00282249
+inesperado a 3 3 ! ^ & 3 0 00140466 00183461 00237132
+forzado a 2 2 ! & 2 0 00146710 00188709
+abrochado a 1 1 ! 1 0 00254353
+corpulento a 2 1 & 2 0 00120639 00142729
+suxestivo a 1 0 1 0 00025546
+reversíbel a 2 1 ! 2 0 00099789 00280365
+irrecuperábel a 1 1 ! 1 0 00147842
+sen_precedentes a 1 1 & 1 0 00195612
+explotado a 1 1 ! 1 0 00054306
+non_explosivo a 1 1 ! 1 0 00015889
+taciturno a 2 3 ! ^ & 2 0 00110285 00215559
+repugnante a 2 2 ! & 2 0 00185878 00318936
+roto a 3 3 ! ;c ^ 3 0 00047824 00082488 00164926
+expandido a 1 1 ! 1 0 00275755
+mioqueiro a 1 1 & 1 0 00105917
+non_erradicable a 1 3 ! ^ & 1 0 00035081
+omnívoro a 1 1 ! 1 0 00316877
+semitransparente a 1 1 & 1 0 00028031
+imaxinario a 1 1 & 1 0 00170921
+envolto a 1 0 1 0 00272929
+vocálico a 1 1 ! 1 0 00027437
+con_cable a 1 1 ! 1 0 00169147
+alienable a 1 1 ! 1 0 00069797
+choroso a 1 1 ! 1 0 00284128
+loxístico a 1 0 1 0 00336054
+popular a 2 4 ! ;c & = 2 0 00063260 00282329
+non_exitoso a 1 3 ! ^ & 1 0 00191544
+vaxinal a 1 0 1 0 00335626
+temperán a 3 4 ! ;c ^ & 3 0 00023279 00276592 00326866
+non_representativo a 3 4 ! ;c ^ & 3 0 00173515 00197734 00311129
+progresivo a 1 2 ! ;c 1 0 00207041
+invariábel a 3 2 ! ^ 3 0 00007598 00262291 00269128
+pouco_impresionable a 2 1 ! 2 0 00006228 00061178
+novo_do_trinque a 1 1 & 1 0 00263032
+robusto a 4 4 ! ;r ^ & 4 0 00219513 00245477 00308453 00321021
+xudeu a 1 0 1 0 00334005
+impenitente a 1 2 ! ^ 1 0 00111724
+indignado a 1 1 & 1 0 00331845
+carísimo a 1 1 & 1 0 00148438
+maxenta a 1 1 & 1 0 00007868
+polar a 2 2 ! & 2 0 00001271 00063068
+inadaptábel a 1 1 ! 1 0 00171422
+modificábel a 2 1 ! 2 0 00219067 00258037
+simultáneo a 1 1 & 1 0 00232380
+aplicábel a 1 1 & 1 0 00269832
+desempaquetado a 1 1 ! 1 0 00172248
+utilizado a 1 1 ! 1 0 00143336
+modificable a 2 1 ! 2 0 00219067 00258037
+sen_azucre a 1 2 ! ^ 1 0 00011469
+que_non_encolle a 1 1 ! 1 0 00079796
+fidedigno a 1 2 ! ^ 1 0 00257568
+placentario a 1 1 ! 1 0 00155472
+visionario a 1 1 & 1 0 00298618
+pesado a 4 2 ! & 4 0 00089974 00244710 00275367 00320967
+non_empregable a 1 1 ! 1 0 00321105
+leiteira a 1 1 ! 1 0 00216230
+xornalístico a 1 0 1 0 00338540
+mesturábel a 1 2 ! ;c 1 0 00030233
+terreño a 1 2 ! ^ 1 0 00106088
+conmutábel a 1 1 ! 1 0 00248802
+non_vivo a 1 1 ! 1 0 00082733
+sen_interese a 1 1 ! 1 0 00312379
+incorrecto a 3 3 ! ^ & 3 0 00053302 00185230 00288879
+en_paralelo a 2 3 ! ;c ^ 2 0 00095429 00254429
+cara_a_fóra a 1 1 ! 1 0 00221333
+composto a 2 3 ! ;c ^ 2 0 00158115 00284435
+interrogatorio a 1 1 ! 1 0 00128025
+plácido a 1 2 ! ^ 1 0 00279452
+non_rapado a 1 1 ! 1 0 00316803
+conciso a 1 2 ! ^ 1 0 00322992
+sen_cornos a 1 1 ! 1 0 00107846
+potable a 1 1 ! 1 0 00250476
+temido a 1 3 ! & = 1 0 00134319
+abundante a 2 3 ! ^ & 2 0 00090534 00167942
+inatinxible a 1 1 & 1 0 00299380
+cristián a 1 1 ! 1 0 00048864
+non_concéntrico a 1 1 ! 1 0 00195970
+loable a 1 1 & 1 0 00254289
+afirmativo a 1 2 ! ^ 1 0 00144508
+dirixente a 1 1 & 1 0 00129437
+autoritario a 2 1 & 2 0 00092367 00174660
+asilábico a 2 1 ! 2 0 00092916 00307839
+anfítropo a 1 2 ! ;c 1 0 00092488
+dedicado a 2 2 ! ^ 2 0 00051284 00096641
+de_baixo_custo a 1 1 & 1 0 00057108
+fato a 1 3 ! ^ & 1 0 00052587
+non_alcohólico a 1 1 ! 1 0 00088195
+contable a 1 1 & 1 0 00124115
+ademais a 1 1 & 1 0 00214252
+mutante a 1 0 1 0 00338461
+rh-positivo a 1 1 ! 1 0 00303270
+destrutivo a 1 3 ! ^ & 1 0 00293665
+despeiteado a 1 1 ! 1 0 00085434
+proveitoso a 1 3 ! ^ & 1 0 00120048
+larfón a 1 1 ! 1 0 00139950
+cadrado a 1 3 ! ^ & 1 0 00169056
+de_abaixo a 1 1 ! 1 0 00204017
+sen_rima a 1 1 ! 1 0 00110618
+embalado a 1 1 ! 1 0 00318504
+oxidado a 1 1 ! 1 0 00320898
+didáctico a 1 1 & 1 0 00057479
+sobrecargado a 1 1 ! 1 0 00135528
+meritorio a 2 1 & 2 0 00215920 00317023
+imperdoábel a 3 2 ! & 3 0 00022799 00272376 00296727
+numérico a 1 1 ! 1 0 00090324
+incalculable a 1 3 ! ^ & 1 0 00204145
+revolucionario a 1 1 ! 1 0 00104297
+a_nivel_nacional a 1 1 & 1 0 00202110
+difamatorio a 1 1 & 1 0 00165829
+invencible a 1 1 & 1 0 00312026
+velar a 1 1 ! 1 0 00111222
+transatlántico a 1 0 1 0 00340479
+febril a 1 1 & 1 0 00122764
+sen_pelos a 1 1 ! 1 0 00109658
+abourado a 1 1 & 1 0 00023994
+reconciliábel a 1 1 ! 1 0 00148912
+desenmarañado a 1 1 ! 1 0 00070387
+desleixado a 2 2 ! & 2 0 00011164 00190253
+inmortal a 2 2 ^ & 2 0 00281247 00300955
+non_aleatorio a 1 1 ! 1 0 00161752
+flagrante a 1 1 & 1 0 00021287
+inalterábel a 2 1 ! 2 0 00193860 00316309
+bailábel a 1 1 & 1 0 00119916
+clarividente a 1 1 ! 1 0 00111911
+democrático a 1 3 ! ^ & 1 0 00046378
+integral a 2 3 ! ^ & 2 0 00118341 00205185
+fresca a 1 1 ! 1 0 00281990
+inelástico a 1 2 ! ^ 1 0 00304650
+en_flor a 1 1 ! 1 0 00085665
+imprescindíbel a 1 3 ! ^ & 1 0 00142250
+resplandecente a 1 1 & 1 0 00125277
+amañado a 2 2 ! ^ 2 0 00074223 00183946
+púnico a 1 1 & 1 0 00131225
+inextinguíbel a 1 1 ! 1 0 00194602
+con_malta a 1 0 1 0 00180174
+acastañado a 1 1 & 1 0 00281188
+afectivo a 1 1 & 1 0 00053360
+rodado a 1 1 ! 1 0 00242731
+cebro a 1 2 ! ^ 1 0 00085144
+de_orixe_humilde a 1 3 ! ^ & 1 0 00093944
+farrapento a 1 1 & 1 0 00321754
+millonésimo a 1 1 & 1 0 00119729
+renegrido a 1 1 & 1 0 00221001
+apreciado a 1 0 1 0 00301870
+irresistíbel a 1 2 ! & 1 0 00305455
+clemente a 2 2 ! ^ 2 0 00147653 00213216
+sen_oralidade a 1 1 ! 1 0 00032562
+collido a 3 2 ! ^ 3 0 00174134 00231816 00296645
+todopoderoso a 2 1 & 2 0 00135147 00226429
+non_retórico a 1 2 ! ^ 1 0 00130854
+estable a 2 2 ! ^ 2 0 00074942 00269351
+restritivo a 2 3 ! ^ & 2 0 00122502 00125626
+non_retractábel a 1 1 ! 1 0 00162037
+pintado a 2 2 ! ^ 2 0 00026005 00222510
+condicional a 2 3 ! ^ & 2 0 00268127 00281677
+non_afeito a 1 1 ! 1 0 00076485
+sen_compartimento a 1 1 ! 1 0 00226364
+desaxeitado a 2 2 ! ^ 2 0 00216374 00281103
+adaptable a 1 1 ! 1 0 00136348
+posmoderno a 1 0 1 0 00339318
+pouco_profundo a 1 1 ! 1 0 00026285
+singular a 2 1 ! 2 0 00164417 00196421
+crencho a 1 1 ! 1 0 00291597
+impecábel a 2 1 & 2 0 00177224 00267088
+inamovíbel a 1 1 ! 1 0 00007598
+alternante a 1 2 ! ;c 1 0 00104210
+estalicado a 1 0 1 0 00022703
+post_partum a 1 1 ! 1 0 00060375
+patriarcal a 1 2 ! ^ 1 0 00230758
+combustible a 1 2 ! & 1 0 00164590
+esixente a 3 4 ! ;c ^ & 3 0 00167746 00184450 00184868
+insondable a 1 2 ! ^ 1 0 00082643
+poroso a 1 1 ! 1 0 00252106
+nidícola a 1 1 ! 1 0 00214533
+libre a 6 4 ! ;c ^ & 6 0 00005405 00018421 00030681 00037078 00073479 00300826
+indescritible a 3 2 ! & 3 0 00066632 00099047 00179811
+sanguinolento a 1 2 ! & 1 0 00006857
+armado a 2 1 ! 2 0 00219781 00258483
+deducible a 1 2 ! ;c 1 0 00178283
+desmontábel a 1 1 ! 1 0 00040009
+irritable a 1 2 ! ^ 1 0 00086988
+fanático a 1 1 & 1 0 00065911
+non_dispoñible a 1 1 ! 1 0 00134237
+obstinado a 1 3 ! ^ & 1 0 00057250
+en_grupo a 1 1 & 1 0 00151927
+en_forma_de_sandía a 1 2 ! ^ 1 0 00236346
+hemorráxico a 1 0 1 0 00333503
+vulnerable a 1 3 ! ^ & 1 0 00186163
+repousado a 1 1 ! 1 0 00298310
+non_controvertido a 1 2 ! & 1 0 00169343
+disuasivo a 2 3 ! ^ & 2 0 00309861 00313651
+radical a 1 2 ! ;c 1 0 00147760
+sen_invención a 1 3 ! ^ = 1 0 00127568
+non_exportábel a 1 1 ! 1 0 00089498
+de_dous_anos a 1 2 ! ;c 1 0 00059151
+remediable a 1 1 ! 1 0 00153607
+súbito a 1 2 ! ^ 1 0 00073211
+consumado a 1 1 ! 1 0 00033999
+insatisfeito a 3 3 ! ^ & 3 0 00090892 00167380 00298021
+non_clasificado a 1 1 ! 1 0 00167093
+influente a 1 1 ! 1 0 00131396
+atenuante a 1 1 & 1 0 00232624
+palpable a 2 2 ! ^ 2 0 00075129 00254644
+invendíbel a 1 1 ! 1 0 00263934
+obediente a 3 3 ! ^ & 3 0 00043531 00073532 00119316
+fermoso a 3 4 ! ^ & = 3 0 00120504 00277545 00291004
+apremante a 1 1 & 1 0 00010529
+intrépido a 1 3 ! ^ & 1 0 00038429
+comercial a 1 2 ! = 1 0 00086391
+real a 5 4 ! ;c ^ & 5 0 00085981 00099669 00174972 00214844 00242126
+fentoso a 1 1 ! 1 0 00121504
+non_escalábel a 1 1 ! 1 0 00172023
+satisfeito a 3 3 ! ^ & 3 0 00033845 00045989 00311612
+mentireiro a 2 2 ! ^ 2 0 00101136 00130370
+inextensible a 1 1 ! 1 0 00273117
+presentable a 1 1 & 1 0 00299099
+aparellado a 1 1 ! 1 0 00094162
+cos_ollos_vendados a 1 1 & 1 0 00023443
+sónico a 1 1 ! 1 0 00302676
+desprotexido a 1 2 ! ^ 1 0 00329974
+prexuizoso a 1 2 ! & 1 0 00064924
+melancólico a 1 0 1 0 00322106
+reflector a 1 1 ! 1 0 00225734
+extrasensorial a 1 2 ! ^ 1 0 00267490
+non_retentivo a 1 2 ! ^ 1 0 00152056
+apampado a 1 1 & 1 0 00060636
+decadente a 1 0 1 0 00056831
+ó_estranxeiro a 1 1 & 1 0 00075385
+asociativo a 2 2 ! ;c 2 0 00131337 00137744
+non_técnico a 1 1 ! 1 0 00234811
+operable a 1 1 ! 1 0 00099233
+acrocárpico a 1 1 ! 1 0 00322602
+lindante a 1 1 & 1 0 00273556
+sen_mandíbula a 1 1 ! 1 0 00189347
+traducible a 1 1 ! 1 0 00138370
+pertinente a 2 3 ! ^ & 2 0 00155308 00217129
+indefectible a 1 1 & 1 0 00045076
+tempestuoso a 1 3 ! ^ & 1 0 00163269
+horizontal a 1 0 1 0 00135989
+non_alfabético a 1 1 ! 1 0 00275075
+variábel a 4 2 ! ^ 4 0 00089837 00109773 00186898 00219979
+enriba a 1 3 ! ^ & 1 0 00075503
+convexo a 1 1 ! 1 0 00004735
+incurábel a 1 1 ! 1 0 00322756
+con_cinto a 1 1 ! 1 0 00041461
+asíncrono a 1 1 ! 1 0 00325928
+resistente a 1 3 ! ^ & 1 0 00101287
+desastroso a 1 1 & 1 0 00048245
+non_esencial a 1 2 ! ^ 1 0 00329310
+ártico a 1 0 1 0 00063068
+xovial a 3 1 & 3 0 00005970 00151140 00216536
+impresentable a 1 1 & 1 0 00204406
+areoso a 1 1 ! 1 0 00331250
+escravo a 1 2 ! ^ 1 0 00256723
+pirata a 1 1 & 1 0 00153769
+parco a 1 3 ! ^ & 1 0 00091662
+de_ombreiros_anchos a 1 1 & 1 0 00057183
+pésimo a 1 1 & 1 0 00146765
+voluptuoso a 1 0 1 0 00216855
+indíxena a 2 2 ! & 2 0 00008946 00315834
+avergoñado a 1 2 ! ^ 1 0 00078149
+desensarillado a 1 1 ! 1 0 00070387
+morado a 1 1 & 1 0 00030179
+non_convencional a 2 3 ! ^ & 2 0 00091456 00181790
+rehabilitable a 1 1 ! 1 0 00028517
+non_polémico a 1 2 ! & 1 0 00169343
+hedonista a 1 0 1 0 00161875
+esperto a 3 3 ! ^ & 3 0 00165194 00188456 00242221
+veciño a 1 1 & 1 0 00111971
+non_frecuentado a 1 1 ! 1 0 00036340
+todo a 2 2 ! & 2 0 00173121 00209430
+da_información a 1 0 1 0 00336308
+voyeurista a 1 0 1 0 00338024
+reproducíbel a 2 1 ! 2 0 00272127 00316605
+fortalecido a 1 1 & 1 0 00086052
+diploide a 1 2 ! ;c 1 0 00054363
+helenístico a 1 0 1 0 00338296
+indomable a 2 3 ! ^ & 2 0 00118697 00266592
+toldado a 1 2 ! & 1 0 00073975
+diferenciado a 1 1 ! 1 0 00103319
+de_cadea_aberta a 1 2 ! ;c 1 0 00317609
+primitivo a 2 2 ! & 2 0 00023279 00198838
+non_alarmante a 1 2 ! = 1 0 00249379
+estético a 1 2 ! & 1 0 00310624
+inexpugnable a 1 3 ! ^ & 1 0 00012684
+estrepitoso a 1 1 & 1 0 00271079
+heurístico a 1 1 ! 1 0 00204775
+desalentador a 1 3 ! ^ & 1 0 00016813
+inestábel a 2 3 ! ^ & 2 0 00199020 00309404
+hostil a 2 2 ! ^ 2 0 00065582 00301117
+de_vangarda a 1 1 & 1 0 00313708
+reparable a 1 1 ! 1 0 00212619
+intermedio a 1 2 ! & 1 0 00260191
+pouco_político a 1 2 ! ^ 1 0 00310941
+imperecedoiro a 1 1 ! 1 0 00309268
+alugable a 1 1 ! 1 0 00164777
+anaclinal a 1 2 ! ;c 1 0 00137100
+tratable a 1 2 ! ^ 1 0 00123276
+canso a 2 2 ! & 2 0 00068711 00196832
+de_dous_pés a 1 1 ! 1 0 00154620
+agramatical a 1 1 ! 1 0 00305067
+non_pertinente a 1 2 ! ^ 1 0 00165552
+magoante a 1 1 & 1 0 00058573
+sacrílego a 1 1 & 1 0 00119671
+inclinado a 3 1 & 3 0 00046989 00198555 00231751
+renovable a 1 1 ! 1 0 00141010
+grande a 3 2 ! & 3 0 00207804 00240023 00294240
+de_boa_gana a 1 1 & 1 0 00040933
+non_adstrinxente a 1 1 ! 1 0 00119984
+sen_fin a 1 1 & 1 0 00143795
+non_concluínte a 1 3 ! ^ = 1 0 00120311
+híbrido a 1 1 & 1 0 00229024
+racionalista a 1 0 1 0 00338498
+ar-terra a 1 1 ! 1 0 00290788
+non_arbitrable a 1 1 ! 1 0 00219644
+sen_malas_herbas a 1 1 ! 1 0 00191335
+datábel a 1 1 ! 1 0 00313368
+compatíbel a 2 2 ! ^ 2 0 00014849 00064016
+sen_madeira a 1 1 ! 1 0 00090133
+nacente a 1 1 ! 1 0 00248734
+afouto a 7 4 ! ^ & = 7 0 00025169 00026575 00038429 00086466 00117794 00155406 00294616
+insostible a 1 1 & 1 0 00252691
+en_bruto a 2 1 ! 2 0 00093246 00138756
+psicoactivo a 1 1 ! 1 0 00287353
+insaciable a 1 2 ! & 1 0 00298021
+ben_definido a 1 1 ! 1 0 00044468
+sen_seguro a 1 1 ! 1 0 00300752
+encabalgado a 1 1 ! 1 0 00329455
+fixo a 1 2 ! ^ 1 0 00111580
+sen_galada a 1 1 ! 1 0 00213119
+emblemático a 1 0 1 0 00334856
+no_lugar a 1 1 ! 1 0 00114358
+flamante a 1 1 & 1 0 00065017
+desagradable a 11 4 ! ;c ^ & 11 0 00004790 00048510 00061512 00094353 00105917 00266780 00278582 00304815 00311250 00318936 00327846
+libre_de_peso a 1 1 ! 1 0 00129177
+competitivo a 1 1 ! 1 0 00048319

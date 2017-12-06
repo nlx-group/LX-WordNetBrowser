@@ -1,0 +1,304 @@
+  cro_wn30_2012-12-13.xml
+  utf-8
+00000034 00 a 03 umjeren 0 slab 0 blag 0 001 ! 00020381 a 0000 | onaj koji je izražen u maloj mjeri svojega osnovnog svojstva; onaj koji je udaljen od ekstrema
+00000195 00 a 01 nepostojeći 0 002 ^ 00031422 a 0000 ! 00025400 a 0000 | onaj koji ne postoji; onaj koji ne egzistira; koji je izmišljen
+00000334 00 a 04 hladnjikav 0 hladan 0 prozračan 0 prohladan 0 002 ^ 00008423 a 0000 ! 00043664 a 0000 | onaj koji nije ni topao ni veoma hladan; onaj koji olakšava vrucinu
+00000509 00 a 03 nematerijalan 0 bestjelesan 0 netvaran 0 001 ! 00034321 a 0000 | onaj koji se ne sastoji od materije
+00000627 00 a 01 žensko 0 003 ! 00017187 a 0000 ! 00014802 a 0000 ;c 00351440 n 0000 | spol koji stvara gamete (jajašca) koje se oplođuju i iz kojih se razvija potomak
+00000798 00 a 07 zamrljan 0 nečist 0 prljav 0 uprljan 0 umrljan 0 zamazan 0 zaprljan 0 001 ! 00035501 a 0000 | onaj koji ima ili stvara mrlje ili prljavštinu
+00000958 00 a 03 tjelesan 0 fizički 0 materijalan 0 001 ! 00040420 a 0000 | onaj koji se odnosi na tjelesno, fizičko ili materijalno
+00001093 00 a 01 nefunkcionalan 0 001 ! 00041342 a 0000 | onaj koji ne služi nikakvoj svrsi
+00001186 00 a 04 udružen 0 zajednički 0 združen 0 skupan 0 002 ^ 00001805 a 0000 ! 00039449 a 0000 | onaj koji je s kim ili s čim povezan u kakvu zajednicu ili cjelinu
+00001358 00 a 05 zločest 0 zao 0 opak 0 pokvaren 0 grješan 0 003 ^ 00016316 a 0000 ^ 00020191 a 0000 ! 00001507 a 0000 | onaj koji je moralno loš
+00001507 00 a 03 krasan 0 divan 0 dobar 0 003 ^ 00013560 a 0000 ^ 00037609 a 0000 ! 00001358 a 0000 | onaj koji je moralno izvrstan i izaziva divljenje
+00001659 00 a 04 inteligentan 0 razuman 0 uman 0 pametan 0 001 ! 00007211 a 0000 | onaj koji ima natprosječnu sposobnost mišljenja i shvaćanja
+00001805 00 a 03 javni 0 opći 0 zajednički 0 002 ^ 00001186 a 0000 ! 00010432 a 0000 | onaj koji je svakome dostupan; onaj koji pripada cijeloj zajednici i kojega svi mogu uživati
+00001988 00 a 05 završen 0 besprijekoran 0 savršen 0 potpun 0 perfektan 0 001 ! 00015166 a 0000 | onaj koji nema nikakve mane ili nedostatka; onaj koji je došao do krajnje točke razvoja
+00002178 00 a 03 nevažan 0 neznačajan 0 beznačajan 0 002 ^ 00003408 a 0000 ! 00043815 a 0000 | onaj koji nema veliko značenje ili učinak
+00002320 00 a 02 neživ 0 mrtav 0 001 ! 00042019 a 0000 | onaj koji nije svojstven životu
+00002411 00 a 02 nestandardan 0 neuobičajen 0 001 ! 00019815 a 0000 | onaj koji ne odgovara ustaljenim mjerilima; koji odudara od standarda
+00002552 00 a 01 nespecifičan 0 002 ! 00025959 a 0000 ! 00026728 a 0000 | onaj koji nema poznatog uzročnika; koristi se i za boje ili mrlje na mikroskopskim preparatima
+00002723 00 a 03 žestok 0 vruć 0 nagao 0 001 ! 00006405 a 0000 | onaj koji ima vatrenu ćud; onaj koji je aktualan; onaj koji pokazuje ili pobuđuje intenzivne osjećaje
+00002895 00 a 02 isti 0 jednak 0 002 ^ 00003859 a 0000 ! 00032363 a 0000 | onaj koji je veoma sličan ili odgovara prema vrsti ili obliku ili kvaliteti ili kvantiteti ili stupnju
+00003074 00 a 02 odsutan 0 rastresen 0 001 ! 00041093 a 0000 | onaj koji se psihički ili fizički ne nalazi na određenom mjestu
+00003204 00 a 03 neobičan 0 nekonvencionalan 0 neuobičajen 0 003 ! 00043401 a 0000 ! 00022131 a 0000 & 00027156 a 0000 | onaj koji izlazi iz konvencija ili normi i koji se ne drži uobičajenih pravila
+00003408 00 a 03 nevažan 0 nebitan 0 beznačajan 0 002 ^ 00002178 a 0000 ! 00017351 a 0000 | onaj koji nema veliko značenje ili vrijednost
+00003549 00 a 05 otvoren 0 vrijedan 0 vrijedeći 0 djelatan 0 aktivan 0 001 ! 00018926 a 0000 | onaj koji je uključen u trajne aktivnosti; onaj koji djeluje; onaj koji je pun aktivnosti
+00003736 00 a 02 prethodan 0 prednji 0 001 ! 00034685 a 0000 | onaj koji se zbiva ili dolazi prije onoga o čemu je riječ
+00003859 00 a 04 srodan 0 istovjetan 0 nalik 0 sličan 0 002 ^ 00002895 a 0000 ! 00037164 a 0000 | onaj koji čemu odgovara po kakvome svojstvu
+00004003 00 a 03 desno 0 nadesno 0 desni 0 001 ! 00034165 a 0000 | onaj koji je smješten na istočnoj strani tijela ako je tijelo okrenuto prema sjeveru
+00004157 00 a 02 pažljiv 0 oprezan 0 001 ! 00010235 a 0000 | onaj koji radi s pažnjom; koji ne donosi nesmotrene odluke
+00004279 00 a 02 snažan 0 jak 0 000 | onaj koji posjeduje iznimnu fizičku snagu ili silu
+00004370 00 a 02 štetan 0 nezdrav 0 001 ! 00018028 a 0000 | onaj koji je opasan po zdravlje; onaj koji nije dobroga fizičkoga ili psihičkoga zdravlja; onaj koji je bolestan
+00004546 00 a 05 neefektivan 0 nedjelotvoran 0 neefikasan 0 neefektan 0 neučinkovit 0 003 ^ 00012645 a 0000 ^ 00032562 a 0000 ! 00029197 a 0000 | onaj koji ne proizvodi željeni rezultat ili učinak
+00004746 00 a 03 rubni 0 vanjski 0 periferni 0 001 ! 00016008 a 0000 | onaj koji se nalazi vani ili je udaljen od središta
+00004870 00 a 02 mlad 0 nezreo 0 004 ^ 00033094 a 0000 & 00021510 a 0000 ;c 01083058 n 0000 ! 00031263 a 0000 | (za živa bića, osobito ljude) onaj koji je u ranom periodu razvoja ili rasta; onaj koji nije proživio mnogo vremena
+00005101 00 a 05 voljan 0 entuzijastičan 0 željan 0 spreman 0 dobrovoljan 0 001 ! 00039686 a 0000 | onaj koji stavlja svoje usluge na raspolaganje; onaj koji cemu naginje
+00005274 00 a 02 elementaran 0 osnovan 0 000 | onaj koji je sastavni ili temeljni dio čega
+00005366 00 a 02 dobrog_ukusa 0 ukusan 0 001 ! 00008659 a 0000 | onaj koji ima sposobnost razlikovanja lijepoga od ružnoga; onaj koji je izrađen s ukusom
+00005522 00 a 03 navlažen 0 vlažan 0 mokar 0 001 ! 00040710 a 0000 | onaj koji je poliven ili natopljen tekucinom, obicno vodom
+00005652 00 a 02 lagan 0 slab 0 001 ! 00028160 a 0000 | onaj koji nije velik u stupnju ili broju ili količini
+00005763 00 a 02 hitar 0 brz 0 001 ! 00029427 a 0000 | onaj koji djeluje ili se kreće velikom brzinom; onaj koji ima sposobnost brza djelovanja ili kretanja
+00005921 00 a 08 istančan 0 nježan 0 profinjen 0 delikatan 0 osjetljiv 0 slabašan 0 krhak 0 fin 0 002 ^ 00038313 a 0000 ! 00030833 a 0000 | onaj koji je sklon oštećivanju; onaj koji je izrazito emocionalno osjetljiv ili osjetljive građe
+00006164 00 a 03 misaoni 0 intelektualan 0 umni 0 001 ! 00018367 a 0000 | onaj koji koristi um ili se na njega poziva
+00006282 00 a 01 retrogradan 0 001 ! 00022279 a 0000 | (o amneziji) onaj koji se odnosi na vrijeme neposredno prije traume
+00006405 00 a 02 hladan 0 ravnodušan 0 001 ! 00002723 a 0000 | onaj koji ne pokazuje intenzivne osjećaje; onaj koji ostaje miran u neugodnim ili uznemirujućim situacijama
+00006579 00 a 02 jednovalentan 0 monovalentan 0 002 ! 00012844 a 0000 ;c 00325796 n 0000 | onaj koji ima valenciju 1
+00006696 00 a 02 neugodan 0 neudoban 0 001 ! 00026627 a 0000 | onaj koji dovodi do fizičke nelagode
+00006797 00 a 02 privlačan 0 atraktivan 0 001 ! 00042844 a 0000 | onaj koji pobuđuje zanimanje svojom ljepotom i/ili šarmom
+00006924 00 a 04 mjerodavan 0 autoritativan 0 važan 0 utjecajan 0 000 | onaj koji ima utjecaj na koga ili što i čije se odluke prihvaćaju kao važeće
+00007079 00 a 02 veliki 0 stariji 0 000 | stariji brat ili sestra; brat ili sestra koji su se rodili prije onoga o kojemu je riječ
+00007211 00 a 03 tup 0 glup 0 neinteligentan 0 001 ! 00001659 a 0000 | onaj koji je umno ograničen
+00007311 00 a 03 interni 0 unutarnji 0 unutrašnji 0 001 ! 00031110 a 0000 | onaj koji se događa ili je smješten unutar kakvih granica ili posebnih površina
+00007471 00 a 05 bezvoljan 0 letargičan 0 pokunjen 0 mlitav 0 malodušan 0 002 ^ 00007906 a 0000 ! 00029583 a 0000 | onaj kojemu nedostaje energije, zanosa, ustrajnosti ili živosti
+00007654 00 a 02 u_boji 0 obojen 0 002 ! 00024898 a 0000 ;c 01376538 n 0000 | onaj koji ima boju/boje ili koji ju/ih je sposoban proizvesti/proizvoditi
+00007806 00 a 02 izmjeriv 0 mjeriljiv 0 001 ! 00022025 a 0000 | onaj kojemu se može odrediti mjera
+00007906 00 a 04 sumoran 0 tmuran 0 nezanimljiv 0 dosadan 0 002 ^ 00007471 a 0000 ! 00012131 a 0000 | onaj koji pobuđuje dosadu; onaj kojemu nedostaje živosti i ne pobuđuje zanimanje
+00008092 00 a 05 pokvaren 0 grešan 0 bludan 0 nečist 0 prljav 0 001 ! 00008905 a 0000 | onaj koji nije moralno čist
+00008211 00 a 03 današnji 0 sadašnji 0 trenutačni 0 002 ! 00042155 a 0000 ! 00009978 a 0000 | onaj koji se nalazi između prošlosti i budućnosti; onaj koji se događa ili postoji sada (u trenutku govorenja)
+00008423 00 a 02 hladan 0 studen 0 002 ^ 00000334 a 0000 ! 00020877 a 0000 | onaj koji ima vrlo nisku temperaturu; onaj koji stvara osjećaj hladnoće
+00008574 00 a 03 ostali 0 drugi 0 ini 0 000 | bilo koji drugi; oni koji su preostali
+00008659 00 a 03 neukusan 0 bez_ukusa 0 bezukusan 0 001 ! 00005366 a 0000 | onaj kojemu nedostaje estetskog ili društvenog ukusa; koji nije sposoban razlikovati lijepo od ružnoga (u svojim ili tuđim materijalnim stvarima, izgledu, ponašanju)
+00008905 00 a 04 bezgrešan 0 pošten 0 nevin 0 čist 0 001 ! 00008092 a 0000 | onaj koji je bez grijeha
+00009010 00 a 01 nekomercijalan 0 001 ! 00024623 a 0000 | onaj koji nije povezan s trgovačkim društvima ili u njima ne sudjeluje
+00009141 00 a 03 naporan 0 mučan 0 težak 0 001 ! 00011548 a 0000 | onaj koji zahtijeva velik fizički ili mentalni napor da bi se razumio ili ostvario ili podnio
+00009305 00 a 01 odgovoran 0 001 ! 00043957 a 0000 | onaj kojemu se može vjerovati ili na kojega se može osloniti
+00009421 00 a 01 slobodan 0 002 ^ 00022762 a 0000 ! 00036088 a 0000 | onaj koji može djelovati bez ikakvih ograničenja; onaj koji nije ničim vezan
+00009571 00 a 03 širokogrudan 0 velikodušan 0 plemenit 0 000 | onaj koji je nesebičan, tolerantan i suosjećajan
+00009687 00 a 04 moćan 0 snažan 0 silan 0 jak 0 004 ^ 00029197 a 0000 ^ 00032893 a 0000 ^ 00038120 a 0000 ! 00012645 a 0000 | onaj koji ima veliku moć, snagu ili učinak
+00009860 00 a 01 tekuć 0 002 ! 00018774 a 0000 ! 00025301 a 0000 | onaj koji ima svojstva tekućine; onaj koji teče
+00009978 00 a 01 budući 0 003 ^ 00030556 a 0000 ! 00042155 a 0000 ! 00008211 a 0000 | onaj koji se tek treba dogoditi
+00010097 00 a 01 nekreativan 0 002 ^ 00040910 a 0000 ! 00036359 a 0000 | onaj koji nema moć stvaranja ili inovacije, koji nije kreativan
+00010235 00 a 06 neoprezan 0 neobziran 0 nepažljiv 0 nepromišljen 0 nebrižan 0 nemaran 0 001 ! 00004157 a 0000 | onaj kojeg odlikuje nedostatak pažnje, obzira, promišljenosti ili temeljitosti
+00010432 00 a 04 pojedinačan 0 individualan 0 osoban 0 zaseban 0 002 ^ 00039449 a 0000 ! 00001805 a 0000 | onaj koji je karakterističan za pojedinu stvar ili osobu; onaj koji se odnosi na samo jednu stvar ili osobu
+00010649 00 a 01 konzervativan 0 002 ^ 00014578 a 0000 ! 00027556 a 0000 | onaj koji se opire promjenama; onaj koji se protivi novitetima i modernitetu i teži očuvanju staroga sustava vrijednosti i poretka
+00010857 00 a 03 nemoguć 0 nevjerojatan 0 nezamisliv 0 001 ! 00019688 a 0000 | onaj koji se ne može dogoditi ili zamisliti; onaj čije postojanje nije ostvarivo
+00011020 00 a 02 u_boji 0 obojen 0 001 ! 00037312 a 0000 | onaj koji ima ili može producirati boje
+00011120 00 a 01 bezbožan 0 001 ! 00022619 a 0000 | onaj koji ne iskazuje poštovanje kakvom božanstvu; onaj koji ne vjeruje ni u kakvo božanstvo
+00011269 00 a 04 bespomoćan 0 nemoćan 0 slab 0 impotentan 0 002 ^ 00012645 a 0000 ! 00032893 a 0000 | onaj kojemu nedostaje snage ili moći
+00011411 00 a 03 povezan 0 spojen 0 vezan 0 001 ! 00011958 a 0000 | onaj koji je stavljen zajedno s čime; onaj koji je čemu pridružen
+00011548 00 a 03 lagan 0 jednostavan 0 lak 0 001 ! 00009141 a 0000 | onaj koji ne zahtijeva mnogo napora da bi se ostvario ili razumio ili podnio
+00011694 00 a 03 neuljudan 0 neljubazan 0 neprijazan 0 001 ! 00013382 a 0000 | onaj koji nije voljan pomoći; onaj koji nije ugodan u ophođenju s drugima
+00011849 00 a 03 nužan 0 neophodan 0 prijeko_potreban 0 001 ! 00034061 a 0000 | onaj bez kojega se ne može
+00011958 00 a 02 nevezan 0 nepovezan 0 001 ! 00011411 a 0000 | onaj koji nije povezan ili stavljen zajedno s čime ili čemu pridružen; onaj koji je rastavljen na dijelove
+00012131 00 a 02 živ 0 živahan 0 003 ^ 00029583 a 0000 ^ 00044087 a 0000 ! 00007906 a 0000 | onaj koji je pun života i energije
+00012262 00 a 02 nezanimljiv 0 neinteresantan 0 001 ! 00031973 a 0000 | onaj koji ne pobuđuje pažnju ili znatiželju
+00012381 00 a 03 bezbrižan 0 neobazriv 0 nepažljiv 0 001 ! 00031700 a 0000 | onaj koji ne obraća mnogo pažnje na što; onaj koji se ne brine
+00012526 00 a 03 oskudan 0 siromašan 0 potrebit 0 001 ! 00032258 a 0000 | onaj koji nema dovoljno materijalnih dobara
+00012645 00 a 05 nemoćan 0 nejak 0 slab 0 impotentan 0 slabašan 0 004 ^ 00004546 a 0000 ^ 00011269 a 0000 ^ 00038313 a 0000 ! 00009687 a 0000 | onaj koji je male snage; onaj kojemu nedostaje moći
+00012844 00 a 02 polivalentan 0 multivalentan 0 002 ! 00006579 a 0000 ;c 00325796 n 0000 | onaj koji ima više od jedne valencije ili koji ima valenciju 3 ili više
+00013009 00 a 03 sljedeći 0 naredni 0 idući 0 001 & 00034685 a 0000 | onaj koji slijedi, koji je na redu
+00013116 00 a 02 potencijalan 0 moguć 0 001 ! 00036529 a 0000 | onaj koji može biti; onaj koji se može dogoditi
+00013231 00 a 05 koristan 0 uporabiv 0 upotrebljiv 0 uporabljiv 0 utilitaran 0 002 ^ 00029197 a 0000 ! 00032562 a 0000 | onaj koji služi kakvoj svrsi
+00013382 00 a 05 susretljiv 0 uljudan 0 prijazan 0 srdačan 0 ljubazan 0 001 ! 00011694 a 0000 | onaj koji je ugodan u ophođenju s drugima; onaj koji pokazuje želju da pomogne
+00013560 00 a 02 prikladan 0 dobar 0 002 ^ 00001507 a 0000 ! 00016316 a 0000 | onaj koji je poželjan ili ima pozitivne osobine; onaj koji je iskoristiv u određene svrhe
+00013731 00 a 07 hladan 0 neprijazan 0 flegmatičan 0 ravnodušan 0 neugodan 0 nenaklonjen 0 indiferentan 0 002 ^ 00024450 a 0000 ! 00029838 a 0000 | onaj koji ne izražava osjecaje u teškim i napetim trenucima; onaj koji nije prijateljski raspoložen i nema razumijevanja; onaj koji iskazuje ili izaziva neugodne osjecaje
+00014055 00 a 02 mlad 0 nov 0 001 ! 00034573 a 0000 | onaj koji je tek nastao ili je tek otkriven
+00014153 00 a 02 lagan 0 lak 0 001 ! 00041924 a 0000 | onaj koji ima malu tjelesnu masu
+00014241 00 a 02 interni 0 unutarnji 0 001 ! 00042698 a 0000 | onaj koji je smješten ili prikladan za korištenje unutar zgrade
+00014370 00 a 04 inertan 0 pasivan 0 neaktivan 0 trom 0 001 ! 00044087 a 0000 | onaj koji tjelesno ili mentalno nije aktivan; koji ne sudjeluje ili ne želi sudjelovati u tjelesnim ili mentalnim aktivnostima
+00014578 00 a 03 uobičajen 0 pravovjeran 0 ortodoksan 0 002 ^ 00010649 a 0000 ! 00030400 a 0000 | onaj koji se odnosi na široko prihvaćena načela; onaj koji se pridržava široko prihvaćenih načela ili kakvoga učenja
+00014802 00 a 02 dvospolac 0 androgin 0 002 ! 00017187 a 0000 ! 00000627 a 0000 | organizam koji ima muške i ženske karakteristike
+00014935 00 a 02 nemoralan 0 amoralan 0 002 ! 00037609 a 0000 ! 00020191 a 0000 | onaj koji nema usađenih moralnih načela
+00015059 00 a 01 svjestan 0 001 ! 00026514 a 0000 | onaj koji ima spoznaju čega; onaj koji što percipira
+00015166 00 a 03 nedovršen 0 nesavršen 0 nepotpun 0 002 ^ 00041603 a 0000 ! 00001988 a 0000 | onaj koji ima mana ili nedostataka; onaj koji nije došao do krajnje točke razvoja
+00015346 00 a 04 miran 0 u_stanju_mirovanja 0 neaktivan 0 uspavan 0 002 ! 00020590 a 0000 ! 00031422 a 0000 | onaj koji privremeno ništa ne izbacuje (obično vulkan)
+00015513 00 a 02 nepomičan 0 nepokretan 0 001 ! 00022403 a 0000 | onaj koji nije u pokretu ili se ne može kretati ili premještati
+00015646 00 a 0b oštar 0 žestok 0 snažan 0 grozomoran 0 užasan 0 jeziv 0 ozbiljan 0 jak 0 strašan 0 težak 0 grozan 0 001 & 00020381 a 0000 | onaj koji je izrazito neugodan i intenzivan u stupnju ili naravi
+00015858 00 a 01 nizak 0 001 ! 00042974 a 0000 | onaj koji je na nižem stupnju ili je slabiji ili ga ima u manjoj količini nego što je uobičajeno
+00016008 00 a 04 centralni 0 unutarnji 0 središnji 0 unutrašnji 0 001 ! 00004746 a 0000 | onaj koji je smješten ili se pojavljuje u središtu ili blizu središta
+00016173 00 a 01 kasan 0 002 ! 00023589 a 0000 ! 00040243 a 0000 | onaj koji se događa ili dolazi poslije uobičajenoga ili očekivanoga roka
+00016316 00 a 04 loš 0 slab 0 negativan 0 neprikladan 0 002 ^ 00001358 a 0000 ! 00013560 a 0000 | onaj koji ima nepoželjne ili negativne kvalitete; onaj koji nije iskoristiv u određene svrhe
+00016510 00 a 02 nesposoban 0 nemoćan 0 001 ! 00025161 a 0000 | onaj koji nema potrebne sposobnosti ili sredstva da što učini
+00016639 00 a 03 velik 0 obiman 0 krupan 0 001 ! 00033386 a 0000 | onaj koji je nadprosječno velik, brojan, snažan ili opsežan
+00016769 00 a 02 podložan 0 prijemčiv 0 001 ! 00019373 a 0000 | onaj koji ima sklonost čemu; koji je čemu izložen
+00016888 00 a 02 dalek 0 udaljen 0 001 ! 00041455 a 0000 | onaj koji je na velikoj udaljenosti u odnosu na prostor, vrijeme ili stupanj
+00017024 00 a 01 iz_viših_slojeva 0 002 ! 00017581 a 0000 ! 00025645 a 0000 | oni koji se prema socioekonomskom statusu nalaze na samom vrhu društvene ljestvice
+00017187 00 a 01 muško 0 003 ! 00000627 a 0000 ! 00014802 a 0000 ;c 00351440 n 0000 | spol koji stvara gamete (spermije ili spermalne stanice) koje vrše oplodnju
+00017351 00 a 03 značajan 0 važan 0 bitan 0 002 ! 00003408 a 0000 & 00028384 a 0000 | onaj koji ima veliko značenje ili vrijednost
+00017485 00 a 02 velik 0 makroskopski 0 001 ! 00033386 a 0000 | onaj koji je vidljiv golim okom
+00017581 00 a 01 iz_nižih_slojeva 0 002 ! 00025645 a 0000 ! 00017024 a 0000 | onaj koji se prema socioekonomskome statusu nalazi na dnu društvene ljestvice
+00017739 00 a 02 neambiciozan 0 bez_ambicije 0 001 ! 00038485 a 0000 | onaj koji ima slabu želju za uspjehom ili postignućima
+00017867 00 a 03 neiskristaliziran 0 nekristaliziran 0 nedovršen 0 001 ! 00024787 a 0000 | onaj koji nije potpuno oblikovan; onaj koji nije napravljen do kraja
+00018028 00 a 01 zdrav 0 001 ! 00004370 a 0000 | onaj koji je dobra tjelesnoga ili duševnoga zdravlja; onaj koji nije opasan po zdravlje
+00018166 00 a 03 zreo 0 sazreo 0 odrastao 0 002 ;c 01225678 n 0000 & 00044764 a 0000 | onaj koji je potpuno razvijen; koji je sposoban za samostalan život; koji je dospio u posljednji stupanj razvoja
+00018367 00 a 02 neintelektualan 0 bezuman 0 001 ! 00006164 a 0000 | onaj koji se ne koristi umom
+00018465 00 a 01 mahunast 0 001 + 01008624 n 0000 | koji je nalik mahuni ili kojemu je plod mahuna
+00018564 00 a 03 nesiguran 0 neizvjestan 0 nejasan 0 001 ! 00022515 a 0000 | onaj koji nije nedvojbeno utvrđen
+00018676 00 a 02 zloban 0 pakostan 0 001 ! 00028665 a 0000 | onaj koji ima lošu i neugodnu narav
+00018774 00 a 02 krut 0 čvrst 0 002 ! 00009860 a 0000 ! 00025301 a 0000 | onaj koji ima jasan oblik ili volumen; onaj koji nije ni tekući ni plinovit
+00018926 00 a 05 napušten 0 neaktivan 0 neupotrebljen 0 nedjelatan 0 zatvoren 0 001 ! 00003549 a 0000 | onaj kojemu nedostaje aktivnosti; onaj koji stoji neiskorišten
+00019095 00 a 04 nemirisav 0 bezmirisan 0 nemirišljav 0 bez_mirisa 0 001 ! 00033241 a 0000 | onaj koji nema mirisa
+00019211 00 a 04 kritičan 0 presudan 0 opasan 0 ključan 0 001 ! 00035194 a 0000 | onaj koji je na granici izdržljivosti ili opasnosti ili krize ili postojanja
+00019373 00 a 03 otporan 0 nepodložan 0 neprijemčiv 0 001 ! 00016769 a 0000 | onaj koji nije ni pod čijom vlašću ili utjecajem; koji je izdržljiv
+00019525 00 a 07 izjavljen 0 rečen 0 iskazan 0 izrečen 0 proglašen 0 očitovan 0 deklariran 0 000 | onaj koji je izričito naveden ili objavljen kao činjenica
+00019688 00 a 01 moguć 0 001 ! 00010857 a 0000 | onaj čije je ostvarenje ili postojanje moguće; onaj koji se može dogoditi
+00019815 00 a 03 standardan 0 normalan 0 uobičajen 0 002 ^ 00020002 a 0000 ! 00002411 a 0000 | onaj koji odgovara ustaljenim mjerilima ili vrijednostima; onaj koji je široko prihvaćen
+00020002 00 a 03 normalan 0 uobičajen 0 običan 0 002 ^ 00019815 a 0000 ! 00024320 a 0000 | onaj koji je u skladu s normom ili standardom ili stupnjem ili vrstom ili društvenim pravilima
+00020191 00 a 03 nemoralan 0 nećudoredan 0 amoralan 0 003 ^ 00001358 a 0000 ! 00037609 a 0000 ! 00014935 a 0000 | onaj koji krši principe dobra i zla; onaj koji ne slijedi moralna načela
+00020381 00 a 08 moćan 0 intenzivan 0 snažan 0 silovit 0 žestok 0 silan 0 jak 0 izrazit 0 002 ! 00000034 a 0000 & 00015646 a 0000 | onaj koji je izražen u velikoj mjeri, iznadprosječan po jačini i snazi
+00020590 00 a 01 aktivan 0 002 ! 00015346 a 0000 ! 00031422 a 0000 | onaj koji što izbacuje ili bi mogao što izbacivati (obično vulkan)
+00020729 00 a 01 homoseksualan 0 002 ! 00035613 a 0000 ! 00039302 a 0000 | onaj koji osjeća seksualnu privlačnost prema pripadnicima istoga spola
+00020877 00 a 03 topao 0 vruć 0 vreo 0 002 ^ 00043664 a 0000 ! 00008423 a 0000 | onaj koji ima vrlo visoku temperaturu; onaj koji je jako zagrijan; onaj koji stvara osjećaj topline
+00021060 00 a 05 bezvoljan 0 inertan 0 pasivan 0 lijen 0 trom 0 001 ! 00041218 a 0000 | onaj kojemu nedostaje energije ili volje
+00021189 00 a 03 pravocrtan 0 pravilan 0 ravan 0 001 ! 00023271 a 0000 | onaj koji nema nikakvih krivina; koji nema nikakvih otklona od ravnine
+00021333 00 a 04 parcijalan 0 razlomljen 0 djelomičan 0 frakcionalan 0 001 ! 00028546 a 0000 | onaj koji nije cijelovit; onaj koji obuhvaća samo jedan dio kakve veće cjeline
+00021510 00 a 02 malen 0 mali 0 001 & 00004870 a 0000 | onaj koji nije razvijen u potpunosti
+00021603 00 a 04 odbojan 0 gadan 0 rugoban 0 ružan 0 002 ^ 00042844 a 0000 ! 00037971 a 0000 | onaj koji pobuđuje neugodne osjećaje ili koji se suprotstavlja moralnim vrijednostima
+00021787 00 a 01 ovisan 0 002 ^ 00036088 a 0000 ! 00022762 a 0000 | onaj koji materijalno ili moralno ovisi o komu ili čemu
+00021912 00 a 04 kratkotrajan 0 kratak 0 malen 0 mali 0 000 | onaj koji je ispodprosječnog trajanja ili duljine
+00022025 00 a 02 neizmjeriv 0 nemjerljiv 0 001 ! 00007806 a 0000 | onaj kojemu se ne može odrediti mjera
+00022131 00 a 02 konvencionalan 0 uobičajen 0 001 ! 00003204 a 0000 | onaj koji nije inovativan; onaj koji je unutar uobičajenih pravila i oblika
+00022279 00 a 01 anterogradan 0 001 ! 00006282 a 0000 | (o amneziji) onaj koji se odnosi na vrijeme neposredno nakon traume
+00022403 00 a 02 pomični 0 pokretan 0 001 ! 00015513 a 0000 | onaj koji je u pokretu ili se može premještati
+00022515 00 a 03 jasan 0 siguran 0 izvjestan 0 001 ! 00018564 a 0000 | onaj koji je nedvojbeno utvrđen
+00022619 00 a 01 pobožan 0 001 ! 00011120 a 0000 | onaj koji iskazuje poštovanje kakvom božanstvu; onaj koji je prožet vjerom u božanstvo
+00022762 00 a 02 neovisan 0 nezavisan 0 003 ^ 00009421 a 0000 ^ 00039449 a 0000 ! 00021787 a 0000 | onaj koji je slobodan od ograničenja; koji ne ovisi ni o kome
+00022925 00 a 04 zakonski 0 legalan 0 pravni 0 zakonit 0 002 ^ 00043273 a 0000 ! 00044444 a 0000 | onaj koji je utemeljen na zakonu ili općeprihvaćenim pravilima
+00023089 00 a 05 dobrohotan 0 dobrostiv 0 dobronamjeran 0 dobar 0 benevolentan 0 001 ! 00035329 a 0000 | onaj koji djeluje u želji da koga usreći; onaj koji djeluje za tuđe dobro
+00023271 00 a 06 vijugav 0 kriv 0 iskrivljen 0 nakrivljen 0 zavinut 0 naheren 0 001 ! 00021189 a 0000 | onaj koji ima otklone od ravnine; koji nije ravan ni pravocrtan
+00023439 00 a 02 bez_straha 0 neustrašiv 0 001 ! 00028746 a 0000 | onaj koji se hrabro suočava s opasnostima; onaj koji im se smireno suprotstavlja
+00023589 00 a 03 ran 0 prijevremen 0 uranio 0 002 ! 00040243 a 0000 ! 00016173 a 0000 | onaj koji se javlja ili događa prije uobičajenoga ili očekivanoga vremena
+00023754 00 a 04 cijeli 0 cio 0 čitav 0 neslomljen 0 001 ! 00041603 a 0000 | onaj koji ima sve dijelove, koji je cjelovit
+00023877 00 a 07 ugovoren 0 dan 0 ustanovljen 0 dogovoren 0 predodređen 0 fiksan 0 utvrđen 0 000 | onaj koji je unaprijed određen
+00024010 00 a 01 elementaran 0 001 + 01014556 n 0000 | onaj koji se nalazi u elementarnome stanju; onaj koji se sastoji od istovrsnih atoma ili homoatomnih molekula
+00024175 00 a 03 neutralan 0 srednji 0 neodređen 0 002 ! 00032714 a 0000 ! 00033561 a 0000 | onaj koji nema razlikovna ili specifična svojstva
+00024320 00 a 03 abnormalan 0 nenormalan 0 neuobičajen 0 001 ! 00020002 a 0000 | onaj koji nije u skladu s normom ili standardom
+00024450 00 a 03 bezosjećajan 0 neemotivan 0 neemocionalan 0 002 ^ 00013731 a 0000 ! 00038994 a 0000 | onaj koji ne pokazuje osjećaje; onaj koji je siromašan osjećajima
+00024623 00 a 02 tržišni 0 komercijalan 0 001 ! 00009010 a 0000 | onaj koji je povezan s trgovinom ili trgovačkim društvima ili ga ona sponzoriraju ili koriste
+00024787 00 a 02 iskristaliziran 0 kristaliziran 0 001 ! 00017867 a 0000 | onaj koji je zadobio konačan oblik
+00024898 00 a 01 crno-bijel 0 002 ! 00007654 a 0000 ;c 01376538 n 0000 | onaj koji ima ili može prikazivati samo crnu i bijelu boju
+00025031 00 a 03 pričvršćen 0 fiksiran 0 učvršćen 0 000 | onaj koji je sigurno smješten ili osiguran tako da se ne pomiče
+00025161 00 a 03 sposoban 0 kadar 0 umješan 0 001 ! 00016510 a 0000 | onaj koji  ima potrebne vještine ili znanje ili moć da što učini
+00025301 00 a 01 plinovit 0 002 ! 00018774 a 0000 ! 00009860 a 0000 | onaj koji ima svojstva plina
+00025400 00 a 02 postojeći 0 sadašnji 0 001 ! 00000195 a 0000 | onaj koji postoji; onaj koji jest i koji egzistira
+00025517 00 a 04 nevažan 0 bezvrijedan 0 nevrijedan 0 beznačajan 0 000 | onaj koji ima malo ili nimalo važnosti ili značaja
+00025645 00 a 02 iz_srednjeg_sloja 0 građanski 0 002 ! 00017581 a 0000 ! 00017024 a 0000 | onaj koji se prema socioekonomskome statusu nalazi na sredini društvene ljestvice, između nižih slojeva i bogatih
+00025854 00 a 02 siguran 0 uvjeren 0 001 ! 00036256 a 0000 | onaj koji ne osjeća sumnju ili nesigurnost
+00025959 00 a 03 karakterističan 0 poseban 0 specifičan 0 002 ! 00026132 a 0000 ! 00002552 a 0000 | onaj koji ima kakvo (jedinstveno) svojstvo koje ga razlikuje od drugih
+00026132 00 a 04 općenit 0 generalan 0 opći 0 prosječan 0 001 ! 00025959 a 0000 | onaj koji se odnosi na sve članove ili na većinu članova kakve kategorije ili grupe
+00026304 00 a 04 dostojanstven 0 gord 0 ponosit 0 ponosan 0 001 ! 00041807 a 0000 | onaj koji osjeća poštovaanje ili zadovoljstvo zbog svojeg ili tuđeg postignuća ili onaj koji je ispunjen samopoštovanjem
+00026514 00 a 01 nesvjestan 0 001 ! 00015059 a 0000 | onaj koji što ne percipira; onaj koji nema spoznaju čega
+00026627 00 a 02 udoban 0 ugodan 0 001 ! 00006696 a 0000 | onaj koji omogućuje zadovoljstvo i ugodu
+00026728 00 a 02 svojstven 0 specifičan 0 001 ! 00002552 a 0000 | onaj koji je uzročnik bolesti ili je učinkovit u liječenju bolesti uzrokovane pojedinim mikroorganizmima ili stanjima; koristi se i za boje koje se koriste u pripremi mikroskopskih preparata
+00026989 00 a 03 iregularan 0 nepravilan 0 nezakonit 0 002 ^ 00044444 a 0000 ! 00027712 a 0000 | onaj koji je u suprotnosti s prihvaćenim pravilima ili zakonitostima
+00027156 00 a 06 otkačen 0 šašav 0 čudan 0 nekonvencionalan 0 ekscentričan 0 bizaran 0 001 & 00003204 a 0000 | izrazito i iznenađujuće neobičan
+00027308 00 a 06 oštar 0 akutan 0 intenzivan 0 snažan 0 žestok 0 jak 0 000 | onaj koji je trenutno vrlo ozbiljan i neugodan i koji naglo počinje
+00027457 00 a 01 neuspravljen 0 001 ! 00030971 a 0000 | onaj koji nije ravan i usmjeren prema gore
+00027556 00 a 02 slobodouman 0 liberalan 0 001 ! 00010649 a 0000 | onaj koji prihvaća promjene; koji nije sputan tradicijom, autoritetima ili ortodoksijom
+00027712 00 a 03 regularan 0 pravilan 0 zakonit 0 001 ! 00026989 a 0000 | onaj koji je u skladu s pravilima ili zakonitostima
+00027838 00 a 02 izlazni 0 odlazeći 0 002 ^ 00042155 a 0000 ! 00030556 a 0000 | onaj koji iz čega izlazi ili postaje dijelom prošlosti
+00027976 00 a 04 zavisan 0 subordiniran 0 podređen 0 niže_razine 0 001 ! 00043130 a 0000 | onaj koji je na nižem položaju u hijerarhiji; onaj koji ima manje utjecaja ili važnosti
+00028160 00 a 01 težak 0 001 ! 00005652 a 0000 | onaj koji je izrazito velik u stupnju ili količini
+00028262 00 a 01 prijepodnevni 0 001 ! 00034432 a 0000 | onaj koji se odnosi na prijepodne ili traje tijekom prijepodneva
+00028384 00 a 07 uvažen 0 poznat 0 istaknut 0 cijenjen 0 vrstan 0 eminentan 0 ugledan 0 001 & 00017351 a 0000 | (o osobama) onaj koji uživa ugled i poštovanje
+00028546 00 a 04 cijeli 0 cio 0 čitav 0 sav 0 001 ! 00021333 a 0000 | onaj koji ima sve dijelove; onaj koji je potpun
+00028665 00 a 01 dobroćudan 0 001 ! 00018676 a 0000 | onaj koji ima dobru narav
+00028746 00 a 03 preplašen 0 prestrašen 0 ustrašen 0 001 ! 00023439 a 0000 | onaj koji je ispunjen strahom
+00028856 00 a 03 bespravan 0 nezakonit 0 protupravni 0 002 ^ 00044444 a 0000 ! 00043273 a 0000 | onaj koji se suprotstavlja zakonu ili je njime zabranjen
+00029010 00 a 04 tvrdoglav 0 nepodesan 0 neukrotiv 0 nepodatan 0 001 ! 00033736 a 0000 | onaj koji nije pokoran ni popustljiv; onaj kojim je teško upravljati, kojega je teško smekšati
+00029197 00 a 05 efikasan 0 efektivan 0 efektan 0 učinkovit 0 djelotvoran 0 003 ^ 00009687 a 0000 ^ 00013231 a 0000 ! 00004546 a 0000 | onaj koji proizvodi ili može proizvesti željeni rezultat; onaj koji ima izvanredan učinak
+00029427 00 a 03 spor 0 usporen 0 polagan 0 001 ! 00005763 a 0000 | onaj kojemu je potrebno mnogo vremena da što učini; onaj koji se kreće malom brzinom
+00029583 00 a 04 vatren 0 srčan 0 energičan 0 živahan 0 002 ^ 00012131 a 0000 ! 00007471 a 0000 | onaj koji je pun energije, zanosa ili živosti
+00029731 00 a 01 znanstven 0 001 ! 00037859 a 0000 | onaj koji počiva na znanstvenim načelima i metodama
+00029838 00 a 06 topao 0 ljubazan 0 naklonjen 0 srdačan 0 ugodan 0 prijazan 0 001 ! 00013731 a 0000 | onaj koji iskazuje ili izaziva ugodne osjecaje; onaj koji je prijateljski raspoložen i pun razumijevanja
+00030047 00 a 01 živ 0 002 ^ 00042019 a 0000 ! 00032089 a 0000 | onaj koji posjeduje život, koji je pun života
+00030161 00 a 04 drugi 0 drugačiji 0 drukčiji 0 različit 0 000 | onaj koji se razlikuje od nekog drugog
+00030268 00 a 02 prednji_dio 0 anteriorni_dio 0 001 ! 00035767 a 0000 | dio tijela oko glave, tj. dio prema prednjoj ravnini tijela
+00030400 00 a 03 neobičan 0 netradicionalan 0 neortodoksan 0 001 ! 00014578 a 0000 | onaj koji se ne pridržava konvencija; onaj koji raskida s tradicijom
+00030556 00 a 02 pristigao 0 ulazni 0 002 ^ 00009978 a 0000 ! 00027838 a 0000 | onaj koji u što ulazi ili dolazi u budućnosti
+00030684 00 a 07 golem 0 znatan 0 važan 0 ogroman 0 velik 0 značajan 0 krupan 0 001 & 00043815 a 0000 | onaj koji ima veliko značenje ili utjecaj
+00030833 00 a 03 otporan 0 čvrst 0 grub 0 002 ^ 00038120 a 0000 ! 00005921 a 0000 | onaj koji je snažne građe; onaj koji je izdržljiv
+00030971 00 a 05 uzdignut 0 uspravan 0 vertikalan 0 uspravljen 0 okomit 0 001 ! 00027457 a 0000 | onaj koji je ravan i usmjeren prema gore
+00031110 00 a 02 eksterni 0 vanjski 0 001 ! 00007311 a 0000 | onaj koji se događa ili je smješten vani ili izvan kakvih granica ili posebnih površina
+00031263 00 a 01 star 0 002 ^ 00044764 a 0000 ! 00004870 a 0000 | (za živa bića, posebno ljude) onaj koji je živio dugo; onaj koji je doživio mnogo godina
+00031422 00 a 02 ugasli 0 neaktivan 0 003 ^ 00000195 a 0000 ! 00020590 a 0000 ! 00015346 a 0000 | onaj koji je zauvijek prestao što izbacivati (obično vulkan)
+00031583 00 a 04 osim 0 izuzevši 0 izuzimajući 0 izuzev 0 000 | being distinct from that or those first considered
+00031700 00 a 03 brižan 0 pažljiv 0 obazriv 0 001 ! 00012381 a 0000 | onaj koji čemu posvećuje mnogo pažnje
+00031813 00 a 04 drugi 0 drugačiji 0 drukčiji 0 različit 0 000 | onaj koji je vrlo neobičan i različit u svojstvima i karakteru od normalnog i očekivanog
+00031973 00 a 02 interesantan 0 zanimljiv 0 001 ! 00012262 a 0000 | onaj koji pobuđuje ili zadržava čiju pažnju
+00032089 00 a 01 mrtav 0 001 ! 00030047 a 0000 | onaj koji više ne posjeduje život ili se ne čini, odnosno ne očekuje da ga posjeduje; onaj koji je prestao živjeti
+00032258 00 a 02 imućan 0 bogat 0 001 ! 00012526 a 0000 | onaj koji posjeduje mnogo materijalnih dobara
+00032363 00 a 03 raznovrstan 0 raznolik 0 različit 0 002 ^ 00037164 a 0000 ! 00002895 a 0000 | onaj koji nije sličan ili ne odgovara prema vrsti ili obliku ili kvaliteti ili kvantiteti ili stupnju
+00032562 00 a 02 neupotrebljiv 0 beskoristan 0 002 ^ 00004546 a 0000 ! 00013231 a 0000 | onaj koji nije od pomoći ili se ne može za što upotrijebiti
+00032714 00 a 03 povoljan 0 pozitivan 0 dobar 0 002 ! 00033561 a 0000 ! 00024175 a 0000 | onaj koji izražava ili kojeg karakterizira prihvaćanje ili sigurnost ili potvrda čega
+00032893 00 a 04 moćan 0 snažan 0 potentan 0 jak 0 002 ^ 00009687 a 0000 ! 00011269 a 0000 | onaj koji ima intenzivan fiziološki ili kemijski učinak; onaj koji se odlikuje velikom snagom ili moći
+00033094 00 a 02 nezreo 0 nerazvijen 0 002 ^ 00004870 a 0000 ! 00044764 a 0000 | organizam ili dio organizma koji još nije završio rast i razvoj
+00033241 00 a 03 mirisan 0 mirisav 0 mirišljav 0 001 ! 00019095 a 0000 | onaj koji je pun ugodnoga mirisa; onaj koji ima karakterističan miris
+00033386 00 a 03 tanak 0 sitan 0 malen 0 002 ! 00016639 a 0000 ! 00017485 a 0000 | onaj koji je prostorno ograničen ili ispodprosječan u broju ili količini ili intenzitetu
+00033561 00 a 03 loš 0 nepovoljan 0 negativan 0 002 ! 00032714 a 0000 ! 00024175 a 0000 | onaj koji izražava ili kojega karakterizira negacija ili otpor ili odbijanje čega
+00033736 00 a 03 poslušan 0 pokoran 0 podatan 0 001 ! 00029010 a 0000 | onaj koji je pod kontrolom i kojim se lako manipulira; koji se ne opire tuđim naredbama; koji se lako obrađuje
+00033922 00 a 01 nizak 0 001 ! 00040104 a 0000 | onaj koji je niži od prosječne visine u svojoj vrsti; onaj koji ima izrazito malen rast
+00034061 00 a 03 nepotreban 0 izlišan 0 bespotreban 0 001 ! 00011849 a 0000 | onaj bez kojega se može
+00034165 00 a 03 lijevo 0 nalijevo 0 lijevi 0 001 ! 00004003 a 0000 | onaj koji je smješten na zapadnoj strani tijela ako je tijelo okrenuto prema sjeveru
+00034321 00 a 01 materijalan 0 001 ! 00000509 a 0000 | onaj koji je izveden ili koji postoji u obliku materije
+00034432 00 a 02 poslijepodnevni 0 popodnevni 0 001 ! 00028262 a 0000 | onaj koji se odnosi na poslijepodne ili traje tijekom poslijepodneva
+00034573 00 a 02 star 0 dug 0 002 ^ 00042155 a 0000 ! 00014055 a 0000 | onaj koji je dugoga vijeka ili trajanja
+00034685 00 a 04 sljedeći 0 sukcesivan 0 naredni 0 idući 0 002 ! 00003736 a 0000 & 00013009 a 0000 | onaj koji se zbiva ili dolazi nakon onoga o čemu je riječ
+00034848 00 a 05 prvobitan 0 jedinstven 0 izvoran 0 pravi 0 originalan 0 003 ^ 00036866 a 0000 ^ 00036359 a 0000 ! 00040910 a 0000 | onaj koji prethodi svima drugima u vremenu, koji je prvi ili nov
+00035046 00 a 02 dalek 0 udaljen 0 001 ! 00044262 a 0000 | onaj koji je odvojen u prostoru ili vremenu; koji dolazi iz daljine ili odlazi u daljinu
+00035194 00 a 01 nekritičan 0 001 ! 00019211 a 0000 | onaj koji nije na granici izdržljivosti ili opasnosti ili krize ili postojanja
+00035329 00 a 05 zlonamjeran 0 maliciozan 0 podmukao 0 zloban 0 pakostan 0 001 ! 00023089 a 0000 | onaj koji djeluje u želji da drugome naudi; onaj koji drugome želi zlo
+00035501 00 a 01 čist 0 001 ! 00000798 a 0000 | onaj koji je bez mrlja ili prljavštine ili se održava takvim
+00035613 00 a 01 heteroseksualan 0 002 ! 00020729 a 0000 ! 00039302 a 0000 | onaj koji osjeća seksualnu privlačnost prema pripadnicima suprotnoga spola
+00035767 00 a 02 stražnji_dio 0 posteriorni_dio 0 001 ! 00030268 a 0000 | dio tijela oko stražnjice, tj. dio prema stražnjoj ravnini tijela (kod dvonožnih životinja prema kraju kralježnice)
+00035963 00 a 06 omanji 0 majušan 0 sitan 0 omalen 0 malen 0 mali 0 000 | onaj koji je ispodprosječne veličine ili opsega
+00036088 00 a 02 ograničen 0 neslobodan 0 002 ^ 00021787 a 0000 ! 00009421 a 0000 | onaj koji ne može slobodno djelovati; onaj kojemu su nametnuta kakva ograničenja
+00036256 00 a 01 nesiguran 0 001 ! 00025854 a 0000 | onaj kojemu nedostaje uvjerenja ili samopouzdanja
+00036359 00 a 03 stvaralački 0 kreativan 0 maštovit 0 002 ^ 00034848 a 0000 ! 00010097 a 0000 | onaj koji ima sposobnost ili moć stvaranja, obično čega inovativnoga
+00036529 00 a 07 postojeći 0 prezentan 0 aktualan 0 stvaran 0 zbiljski 0 prisutan 0 sadašnji 0 001 ! 00013116 a 0000 | onaj kojega ima u onome o čemu se govori; onaj koji se stvarno pojavljuje, a nije samo potencijalan ili moguć
+00036762 00 a 02 neznatan 0 malen 0 001 ! 00043560 a 0000 | onaj kojega ima u maloj količini ili broju
+00036866 00 a 02 nekonvencionalan 0 neuobičajen 0 002 ^ 00034848 a 0000 ! 00043401 a 0000 | onaj koji se ne pridržava uobičajenih pravila i običaja
+00037018 00 a 05 istaknut 0 čuven 0 znamenit 0 ugledan 0 glasovit 0 000 | onaj koji je izdvojen između drugih zbog visokog položaja ili ugleda
+00037164 00 a 03 raznovrstan 0 raznolik 0 različit 0 002 ^ 00032363 a 0000 ! 00003859 a 0000 | onaj koji nije sličan ili istovrstan čemu drugome
+00037312 00 a 01 bezbojan 0 001 ! 00011020 a 0000 | onaj koji nema boja
+00037384 00 a 04 slabašan 0 slab 0 malen 0 mali 0 000 | (o glasu) onaj koji je tih ili nejak
+00037478 00 a 02 nepopularan 0 neomiljen 0 001 ! 00042370 a 0000 | onaj koji ne uživa simpatije ili naklonost većega broja ljudi
+00037609 00 a 03 krepostan 0 ćudoredan 0 moralan 0 003 ^ 00001507 a 0000 ! 00020191 a 0000 ! 00014935 a 0000 | onaj koji se tiče principa dobra i zla ili se pokorava standardima ponašanja ili se na njima temelji; onaj koji slijedi moralna načela
+00037859 00 a 01 neznanstven 0 001 ! 00029731 a 0000 | onaj koji ne počiva na znanstvenim načelima i metodama
+00037971 00 a 03 krasan 0 prekrasan 0 lijep 0 001 ! 00021603 a 0000 | onaj koji uzbuđuje osjetila ili pobuđuje osjećaj divljenja ili zadovoljstva
+00038120 00 a 06 moćan 0 snažan 0 potentan 0 čvrst 0 kršan 0 jak 0 003 ^ 00030833 a 0000 ^ 00009687 a 0000 ! 00038313 a 0000 | onaj koji ima iznadprosječnu ili neočekivanu snagu ili moć
+00038313 00 a 05 krhak 0 nemoćan 0 nejak 0 slab 0 slabašan 0 003 ^ 00005921 a 0000 ^ 00012645 a 0000 ! 00038120 a 0000 | onaj kojemu nedostaje tjelesne ili duhovne snage
+00038485 00 a 01 ambiciozan 0 001 ! 00017739 a 0000 | onaj koji ima snažnu želju za uspjesima ili postignućima
+00038599 00 a 03 radostan 0 sretan 0 veseo 0 001 ! 00042527 a 0000 | onaj koji živi u sreći; onaj koji je ispunjen i zrači srećom i zadovoljstvom
+00038749 00 a 03 darežljiv 0 izdašan 0 velikodušan 0 001 ! 00039842 a 0000 | onaj koji rado daje i dijeli
+00038858 00 a 02 spolan 0 seksualan 0 001 ! 00039146 a 0000 | onaj koji se odnosi na razmnožavanje spajanjem muških i ženskih gameta
+00038994 00 a 04 emotivan 0 emocionalan 0 osjećajan 0 uzbuđen 0 001 ! 00024450 a 0000 | onaj koji je pun jakih osjećaja ili pobuđuje jake osjećaje
+00039146 00 a 03 aseksualan 0 bespolan 0 neseksualan 0 001 ! 00038858 a 0000 | onaj koji se odnosi na razmnožavanje bez spajanja muških i ženskih gameta
+00039302 00 a 01 biseksualan 0 002 ! 00035613 a 0000 ! 00020729 a 0000 | onaj koji osjeća seksualnu privlačnost prema pripadnicima obaju spolova
+00039449 00 a 08 odijeljen 0 poseban 0 odvojen 0 separiran 0 razdijeljen 0 zaseban 0 nezavisan 0 samostalan 0 003 ^ 00010432 a 0000 ^ 00022762 a 0000 ! 00001186 a 0000 | onaj koji je izdvojen; onaj koji nije ni s kim ili s čim združen
+00039686 00 a 02 bezvoljan 0 nevoljan 0 001 ! 00005101 a 0000 | onak koji nije uvijek na raspolaganju; onaj koji nije motiviran za što i ne naginje nicemu
+00039842 00 a 01 škrt 0 001 ! 00038749 a 0000 | onaj koji nerado i rijetko daje; onaj koji je pretjerano uzdržljiv u trošenju i davanju
+00039981 00 a 02 puno_više 0 mnogo_više 0 000 | onaj koji je količinski mnogo veći od očekivanog ili od čega drugoga
+00040104 00 a 01 visok 0 001 ! 00033922 a 0000 | onaj koji je viši od prosječne visine u svojoj vrsti; onaj koji ima izrazito velik rast
+00040243 00 a 03 sredovječan 0 srednji 0 srednje_dobi 0 002 ! 00023589 a 0000 ! 00016173 a 0000 | onaj koji je u sredini kakva vremenskoga trajanja (obično ljudskoga života)
+00040420 00 a 03 nematerijalan 0 bestjelesan 0 netjelesan 0 001 ! 00000958 a 0000 | onaj koji ne posjeduje materijalan oblik; koji nije materijaliziran u tijelu
+00040581 00 a 02 ljudski 0 čovječan 0 001 ! 00044648 a 0000 | onaj koji ima osjećaja za tuđu patnju i pokušava je olakšati
+00040710 00 a 05 isušen 0 suh 0 posušen 0 osušen 0 sasušen 0 001 ! 00005522 a 0000 | onaj koji ne sadrži tekucinu ili vlagu; onaj kojemu nedostaje prirodne vlažnosti; onaj koji više nije mokar
+00040910 00 a 01 neoriginalan 0 003 ^ 00043401 a 0000 ^ 00010097 a 0000 ! 00034848 a 0000 | onaj koji nije izvoran; onaj koji ne donosi ili ne predstavlja ništa novo i neuobičajeno
+00041093 00 a 02 prisutan 0 nazočan 0 001 ! 00003074 a 0000 | onaj koji fizički postoji ili se nalazi na određenom mjestu
+00041218 00 a 03 djelatan 0 živ 0 aktivan 0 001 ! 00021060 a 0000 | onaj koji preuzima inicijativu; koji u čemu sudjeluje
+00041342 00 a 01 funkcionalan 0 001 ! 00001093 a 0000 | onaj koji je napravljen tako da koristi određenoj svrsi
+00041455 00 a 03 blizak 0 obližnji 0 nedaleki 0 001 ! 00016888 a 0000 | onaj koji je na maloj udaljenosti u odnosu na prostor, vrijeme ili stupanj
+00041603 00 a 03 slomljen 0 razlomljen 0 razoren 0 002 ^ 00015166 a 0000 ! 00023754 a 0000 | onaj koji je uporabom snage ili sile razbijen u više dijelova; onaj koji je zakonski ili emocionalno uništen
+00041807 00 a 03 pokoran 0 ponizan 0 skroman 0 001 ! 00026304 a 0000 | onaj koji se ne razmeće svojim postignućima
+00041924 00 a 02 težak 0 masivan 0 001 ! 00014153 a 0000 | onaj koji ima veliku tjelesnu masu
+00042019 00 a 01 živ 0 002 ^ 00030047 a 0000 ! 00002320 a 0000 | onaj koji je svojstven životinjskome, za razliku od biljnoga života
+00042155 00 a 03 povijesni 0 prošli 0 minuli 0 004 ^ 00027838 a 0000 ^ 00034573 a 0000 ! 00008211 a 0000 ! 00009978 a 0000 | onaj koji se događa prije sadašnjeg vremena; onaj koji više ne postoji ili ne vrijedi
+00042370 00 a 02 omiljen 0 popularan 0 001 ! 00037478 a 0000 | onaj koji je simpatičan širokom krugu ljudi; onaj koji uživa naklonost velikog broja ljudi
+00042527 00 a 04 neveseo 0 žalostan 0 nesretan 0 tužan 0 001 ! 00038599 a 0000 | onaj koji je pun tuge ili žalosti ili nezadovoljstva ili koji uzrokuje takve osjećaje
+00042698 00 a 02 eksterni 0 vanjski 0 001 ! 00014241 a 0000 | onaj koji je smješten ili prikladan za korištenje vani ili izvan kakve građevine
+00042844 00 a 02 neprivlačan 0 neatraktivan 0 002 ^ 00021603 a 0000 ! 00006797 a 0000 | onaj kojemu nedostaje ljepote ili šarma
+00042974 00 a 02 velik 0 visok 0 001 ! 00015858 a 0000 | onaj koji je na višem stupnju ili je jači ili ga ima u većoj količini nego što je uobičajeno
+00043130 00 a 02 nadmoćan 0 dominantan 0 001 ! 00027976 a 0000 | onaj koji prevladava; onaj koji ima najviše kontrole ili moći ili utjecaja
+00043273 00 a 02 zakonski 0 zakonit 0 002 ^ 00022925 a 0000 ! 00028856 a 0000 | onaj koji poštuje zakon ili je njime dopušten
+00043401 00 a 02 konvencionalan 0 konzervativan 0 003 ^ 00040910 a 0000 ! 00036866 a 0000 ! 00003204 a 0000 | onaj koji slijedi uobičajena pravila i običaje
+00043560 00 a 02 velik 0 znatan 0 001 ! 00036762 a 0000 | onaj kojega ima u velikoj količini ili broju
+00043664 00 a 01 topao 0 002 ^ 00020877 a 0000 ! 00000334 a 0000 | onaj koji ima ili stvara ugodan stupanj topline; onaj koji daje ili zadr?va toplinu
+00043815 00 a 04 značajan 0 važan 0 ključan 0 bitan 0 002 ! 00002178 a 0000 & 00030684 a 0000 | onaj koji ima važno značenje ili učinak
+00043957 00 a 01 neodgovoran 0 001 ! 00009305 a 0000 | onaj na kojega se ne može osloniti; onaj koji nema osjećaja odgovornosti
+00044087 00 a 04 živ 0 živahan 0 energičan 0 aktivan 0 002 ^ 00012131 a 0000 ! 00014370 a 0000 | onaj koji je neprestano u pokretu; koji je zaokupljen brojnim aktivnostima
+00044262 00 a 03 blizak 0 obližnji 0 nedaleki 0 001 ! 00035046 a 0000 | koji je na maloj udaljenosti u odnosu na prostor, vrijeme ili stupanj; čiji su dijelovi blizu jedan drugome
+00044444 00 a 05 nedopušten 0 bespravan 0 nelegalan 0 nezakonit 0 protupravan 0 003 ^ 00028856 a 0000 ^ 00026989 a 0000 ! 00022925 a 0000 | onaj koji je zabranjen zakonom ili općeprihvaćenim pravilima
+00044648 00 a 02 neljudski 0 nečovječan 0 001 ! 00040581 a 0000 | onaj kojemu nedostaje suosjećanja i ljudskosti
+00044764 00 a 02 zreo 0 odrastao 0 003 ^ 00031263 a 0000 & 00018166 a 0000 ! 00033094 a 0000 | organizam ili neki njegov dio koji je dospio u posljednji stupanj rasta ili razvoja

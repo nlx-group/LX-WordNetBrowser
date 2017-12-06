@@ -1,0 +1,619 @@
+  01 This file is a derivation of the wn-glg-lmf.xml file; the original glg-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: http://adimen.si.ehu.es/web/MCR/
+  06 language: glg
+  07 label: Multilingual
+00000351 00 v 01 venderse_por 0 000 01 + 00 00 |    
+00000404 00 v 03 gozar 0 desfrutar 0 gustar 0 001 * 00027977 v 0000 01 + 00 00 |    
+00000489 00 v 02 sobresaír 0 resaltar 0 000 01 + 00 00 |    
+00000551 00 v 03 soportar 0 soster 0 aguantar 0 000 01 + 00 00 |    
+00000620 00 v 02 axudar 0 salvar 0 000 01 + 00 00 |    
+00000676 00 v 05 ocultar 0 tapar 0 agochar 0 esconder 0 encubrir 0 000 01 + 00 00 |    
+00000764 00 v 02 renderse 0 ceder 0 000 01 + 00 00 |    
+00000821 00 v 03 actuar 0 proceder 0 obrar 0 001 ! 00013071 v 0000 01 + 00 00 |    
+00000905 00 v 04 desesperanzar 0 desmoralizar 0 desanimar 0 desesperar 0 000 01 + 00 00 |    
+00000999 00 v 02 acompañar 0 traer 0 000 01 + 00 00 |    
+00001058 00 v 02 continuar_co_embarazo 0 ter 0 000 01 + 00 00 |    
+00001126 00 v 01 saber 0 000 01 + 00 00 |    
+00001172 00 v 02 reverberar 0 reflectir 0 001 ;c 00192646 n 0000 01 + 00 00 |    
+00001254 00 v 02 resistir 0 aguantar 0 000 01 + 00 00 |    
+00001314 00 v 02 moverse 0 desprazarse 0 002 ~ 00023620 v 0000 > 00010341 v 0000 01 + 00 00 |    
+00001412 00 v 02 absterse 0 deixar 0 001 ! 00020762 v 0000 01 + 00 00 |    
+00001488 00 v 02 calcular 0 contar 0 000 01 + 00 00 |    
+00001546 00 v 04 subministrar 0 proporcionar 0 facilitar 0 prover 0 001 @ 00005884 v 0000 01 + 00 00 |    
+00001653 00 v 05 precisar 0 ter_que 0 deber_de 0 necesitar 0 requirir 0 000 01 + 00 00 |    
+00001746 00 v 01 ter 0 000 01 + 00 00 |    
+00001790 00 v 03 fincar 0 asegurar 0 fixar 0 001 @ 00018572 v 0000 01 + 00 00 |    
+00001874 00 v 01 dar_froito 0 000 01 + 00 00 |    
+00001925 00 v 03 enxordar 0 axordar 0 enxordecer 0 000 01 + 00 00 |    
+00001997 00 v 03 agardar 0 contar 0 esperar 0 000 01 + 00 00 |    
+00002064 00 v 02 filtrar 0 coar 0 000 01 + 00 00 |    
+00002119 00 v 05 pasar 0 ceder 0 entregar 0 traspasar 0 dar 0 001 @ 00003811 v 0000 01 + 00 00 |    
+00002220 00 v 02 relacionarse 0 referirse 0 000 01 + 00 00 |    
+00002285 00 v 06 poñerse_de_acordo 0 acordar 0 concordar 0 convir 0 pórse_de_acordo 0 avir 0 000 01 + 00 00 |    
+00002401 00 v 03 anteceder 0 acontecer_antes 0 preceder 0 001 ! 00034417 v 0000 01 + 00 00 |    
+00002498 00 v 06 aledar 0 contentar 0 agradar 0 alegrar 0 compraced 0 gustar 0 000 01 + 00 00 |    
+00002598 00 v 01 librar 0 000 01 + 00 00 |    
+00002645 00 v 01 quedarse 0 001 ! 00031982 v 0000 01 + 00 00 |    
+00002712 00 v 02 incorporarse 0 unirse 0 000 01 + 00 00 |    
+00002774 00 v 02 asomar 0 aparecer 0 001 ! 00026737 v 0000 01 + 00 00 |    
+00002850 00 v 03 desprender 0 despedir 0 emitir 0 001 ! 00033130 v 0000 01 + 00 00 |    
+00002939 00 v 05 brillar 0 refulxir 0 resplandecer 0 relucir 0 lucir 0 000 01 + 00 00 |    
+00003031 00 v 05 pasar 0 ocorrer 0 suceder 0 acaecer 0 acontecer 0 000 01 + 00 00 |    
+00003119 00 v 02 fortificar 0 armar 0 001 ! 00004322 v 0000 01 + 00 00 |    
+00003196 00 v 02 designar 0 nomear 0 001 ~ 00021108 v 0000 01 + 00 00 |    
+00003272 00 v 01 redobrar 0 000 01 + 00 00 |    
+00003321 00 v 01 saltar 0 000 01 + 00 00 |    
+00003368 00 v 05 resolver 0 acordar 0 determinar 0 tomar_unha_decisión 0 decidir 0 001 ~ 00022299 v 0000 01 + 00 00 |    
+00003491 00 v 03 desencantar 0 defraudar 0 decepcionar 0 000 01 + 00 00 |    
+00003569 00 v 03 descubrir 0 ver 0 decatarse 0 000 01 + 00 00 |    
+00003637 00 v 01 vivir 0 001 * 00032361 v 0000 01 + 00 00 |    
+00003701 00 v 02 quitar 0 sacar 0 000 01 + 00 00 |    
+00003756 00 v 02 errar 0 fallar 0 000 01 + 00 00 |    
+00003811 00 v 01 transferir 0 003 ~ 00002119 v 0000 ~ 00005884 v 0000 * 00001314 v 0000 01 + 00 00 |    
+00003916 00 v 01 asentar 0 000 01 + 00 00 |    
+00003964 00 v 01 perder_a_virxindade 0 000 01 + 00 00 |    
+00004024 00 v 05 iniciarse 0 principiar 0 comezar 0 empezar 0 encomezar 0 000 01 + 00 00 |    
+00004119 00 v 01 calcular 0 001 * 00013489 v 0000 01 + 00 00 |    
+00004186 00 v 02 descoñecer 0 ignorar 0 001 ! 00011969 v 0000 01 + 00 00 |    
+00004266 00 v 02 pensar 0 razoar 0 000 01 + 00 00 |    
+00004322 00 v 02 desarmar 0 desmilitarizar 0 001 ! 00003119 v 0000 01 + 00 00 |    
+00004406 00 v 03 deitarse 0 ir_para_a_cama 0 retirarse 0 001 ! 00029005 v 0000 01 + 00 00 |    
+00004502 00 v 03 lograr 0 acadar 0 alcanzar 0 001 * 00031982 v 0000 01 + 00 00 |    
+00004587 00 v 02 vacilar 0 dubidar 0 000 01 + 00 00 |    
+00004645 00 v 01 eliminar 0 001 ! 00019413 v 0000 01 + 00 00 |    
+00004712 00 v 01 traballar 0 000 01 + 00 00 |    
+00004762 00 v 02 rexeitar 0 non_admitir 0 000 01 + 00 00 |    
+00004825 00 v 03 atopar 0 verse 0 encontrarse 0 000 01 + 00 00 |    
+00004894 00 v 01 criticar 0 000 01 + 00 00 |    
+00004943 00 v 01 aceptar_de_mala_gana 0 000 01 + 00 00 |    
+00005004 00 v 02 posuír 0 ter 0 000 01 + 00 00 |    
+00005058 00 v 02 desagradar 0 desgustar 0 001 > 00009168 v 0000 01 + 00 00 |    
+00005139 00 v 01 comerciar 0 002 ;c 00822062 n 0000 * 00019843 v 0000 01 + 00 00 |    
+00005226 00 v 03 informar 0 transmitir 0 comunicar 0 001 @ 00020354 v 0000 01 + 00 00 |    
+00005318 00 v 01 pagar 0 001 @ 00005884 v 0000 01 + 00 00 |    
+00005382 00 v 05 retirar 0 quitar 0 sacar 0 apartar 0 afastar 0 000 01 + 00 00 |    
+00005467 00 v 01 viaxar 0 001 > 00031982 v 0000 01 + 00 00 |    
+00005532 00 v 02 deixar 0 deixar_atrás 0 001 * 00010206 v 0000 01 + 00 00 |    
+00005613 00 v 05 acabar 0 concluír 0 rematar 0 cesar 0 terminar 0 000 01 + 00 00 |    
+00005701 00 v 03 soletrear 0 deletrear 0 escribir 0 000 01 + 00 00 |    
+00005774 00 v 05 acabar 0 concluír 0 finalizar 0 rematar 0 terminar 0 001 ! 00012129 v 0000 01 + 00 00 |    
+00005884 00 v 03 transferir 0 ceder 0 dar 0 005 ! 00030776 v 0000 @ 00003811 v 0000 ~ 00001546 v 0000 ~ 00005318 v 0000 > 00001746 v 0000 01 + 00 00 |    
+00006039 00 v 05 absolver 0 exonerar 0 eximir 0 exculpar 0 dispensar 0 000 01 + 00 00 |    
+00006131 00 v 03 sazonar 0 condimentar 0 aderezar 0 001 > 00011350 v 0000 01 + 00 00 |    
+00006222 00 v 01 omitir 0 000 01 + 00 00 |    
+00006269 00 v 03 competir 0 rivalizar 0 contender 0 001 ~ 00021984 v 0000 01 + 00 00 |    
+00006360 00 v 03 dividir 0 separar 0 apartar 0 000 01 + 00 00 |    
+00006428 00 v 02 articular 0 pronunciar 0 001 * 00027511 v 0000 01 + 00 00 |    
+00006509 00 v 03 pór_fóra 0 quitar 0 sacar 0 001 > 00010341 v 0000 01 + 00 00 |    
+00006595 00 v 03 instalarse 0 establecerse 0 estabelecerse 0 001 * 00017527 v 0000 01 + 00 00 |    
+00006695 00 v 01 deber 0 000 01 + 00 00 |    
+00006741 00 v 02 acompañar 0 vir_con 0 000 01 + 00 00 |    
+00006802 00 v 04 quedar 0 continuar 0 persistir 0 permanecer 0 000 01 + 00 00 |    
+00006886 00 v 03 desordenar 0 desorganizar 0 desamañar 0 000 01 + 00 00 |    
+00006965 00 v 05 pillar 0 atrapar 0 adiantar 0 alcanzar 0 coller 0 001 * 00006269 v 0000 01 + 00 00 |    
+00007071 00 v 04 diferenciarse 0 discordar 0 diverxer 0 diferir 0 001 ! 00029831 v 0000 01 + 00 00 |    
+00007176 00 v 03 discernir 0 diferenciar 0 distinguir 0 000 01 + 00 00 |    
+00007253 00 v 02 caer 0 precipitarse 0 000 01 + 00 00 |    
+00007313 00 v 02 emitir_sons 0 pronunciar 0 000 01 + 00 00 |    
+00007378 00 v 01 ser 0 000 01 + 00 00 |    
+00007422 00 v 01 presentarse 0 000 01 + 00 00 |    
+00007474 00 v 01 fracasar 0 001 ! 00018664 v 0000 01 + 00 00 |    
+00007541 00 v 02 vir_de 0 provir 0 000 01 + 00 00 |    
+00007597 00 v 01 matar 0 000 01 + 00 00 |    
+00007643 00 v 02 renunciar 0 deixar 0 000 01 + 00 00 |    
+00007702 00 v 02 ter_envexa 0 ofenderse 0 000 01 + 00 00 |    
+00007765 00 v 04 amolar 0 resentir 0 enfastiar 0 amargar 0 000 01 + 00 00 |    
+00007845 00 v 01 apoiar 0 000 01 + 00 00 |    
+00007892 00 v 03 denunciar 0 acusar 0 axuizar 0 001 ! 00030109 v 0000 01 + 00 00 |    
+00007979 00 v 01 facer 0 000 01 + 00 00 |    
+00008025 00 v 01 eliminar 0 000 01 + 00 00 |    
+00008074 00 v 02 dispersarse 0 desbandarse 0 000 01 + 00 00 |    
+00008140 00 v 03 identificar 0 recoñecer 0 distinguir 0 001 * 00020704 v 0000 01 + 00 00 |    
+00008236 00 v 01 deixar_de_recoñecer 0 000 01 + 00 00 |    
+00008297 00 v 02 engadir 0 agregar 0 001 @ 00022804 v 0000 01 + 00 00 |    
+00008373 00 v 01 morrer 0 001 ;c 00819429 n 0000 01 + 00 00 |    
+00008439 00 v 03 deisgnar 0 denominar 0 chamar 0 000 01 + 00 00 |    
+00008509 00 v 02 evitar 0 impedir 0 001 ! 00014291 v 0000 01 + 00 00 |    
+00008584 00 v 01 apoiar 0 000 01 + 00 00 |    
+00008631 00 v 01 saír_a_escena 0 000 01 + 00 00 |    
+00008686 00 v 04 producir 0 presentar 0 sacar 0 publicar 0 001 > 00002774 v 0000 01 + 00 00 |    
+00008784 00 v 04 preferir 0 escoller 0 optar 0 elixir 0 000 01 + 00 00 |    
+00008861 00 v 01 ter_un_alcance 0 000 01 + 00 00 |    
+00008916 00 v 07 fregar 0 cofar 0 arreluar 0 refregar 0 cofear 0 cozar 0 fretar 0 002 @ 00025135 v 0000 * 00027670 v 0000 01 + 00 00 |    
+00009055 00 v 03 usar 0 utilizar 0 empregar 0 000 01 + 00 00 |    
+00009122 00 v 01 saber 0 000 01 + 00 00 |    
+00009168 00 v 01 desagradar 0 001 ! 00027977 v 0000 01 + 00 00 |    
+00009237 00 v 01 pasar 0 000 01 + 00 00 |    
+00009283 00 v 03 agocharse 0 ocultarse 0 esconderse 0 000 01 + 00 00 |    
+00009358 00 v 05 descubrir 0 espor 0 espir 0 destapar 0 espoñer 0 001 ! 00015038 v 0000 01 + 00 00 |    
+00009464 00 v 01 someter 0 000 01 + 00 00 |    
+00009512 00 v 01 analizar 0 000 01 + 00 00 |    
+00009561 00 v 03 apagar 0 extinguir 0 sufocar 0 000 01 + 00 00 |    
+00009630 00 v 01 absorber 0 000 01 + 00 00 |    
+00009679 00 v 02 ferir 0 lesionar 0 000 01 + 00 00 |    
+00009736 00 v 03 ir 0 traballar 0 funcionar 0 000 01 + 00 00 |    
+00009803 00 v 02 recordar 0 pensar_en 0 001 ! 00022147 v 0000 01 + 00 00 |    
+00009882 00 v 01 levar 0 000 01 + 00 00 |    
+00009928 00 v 03 tocar 0 soar 0 facer_soar 0 001 > 00027764 v 0000 01 + 00 00 |    
+00010012 00 v 05 non_dar_un_chío 0 calar 0 estar_en_silencio 0 pechar_o_bico 0 coser_a_boca 0 000 01 + 00 00 |    
+00010128 00 v 04 obter 0 conseguir 0 lograr 0 adquirir 0 000 01 + 00 00 |    
+00010206 00 v 04 ir 0 partir 0 saír 0 marchar 0 001 ! 00015272 v 0000 01 + 00 00 |    
+00010294 00 v 01 emitir 0 000 01 + 00 00 |    
+00010341 00 v 02 trasladar 0 mover 0 001 ! 00022916 v 0000 01 + 00 00 |    
+00010417 00 v 05 pelaxar 0 batallar 0 loitar 0 lidar 0 combater 0 001 * 00006269 v 0000 01 + 00 00 |    
+00010522 00 v 04 renderse 0 abandonar 0 deixar 0 darse_por_vencido 0 001 ! 00032409 v 0000 01 + 00 00 |    
+00010630 00 v 02 practicar 0 aplicar 0 000 01 + 00 00 |    
+00010690 00 v 05 confundirse 0 equivocarse 0 errar 0 fallar 0 enganarse 0 000 01 + 00 00 |    
+00010785 00 v 02 ofrecer 0 poxar 0 001 * 00032778 v 0000 01 + 00 00 |    
+00010859 00 v 03 representar 0 constituír 0 ser 0 000 01 + 00 00 |    
+00010931 00 v 05 estender 0 espallar 0 propagar 0 difundir 0 divulgar 0 000 01 + 00 00 |    
+00011024 00 v 01 estrear 0 000 01 + 00 00 |    
+00011072 00 v 02 celebrar 0 oficiar 0 000 01 + 00 00 |    
+00011131 00 v 05 coincidir 0 encaixar 0 concordar 0 axustarse 0 corresponderse 0 001 @ 00029831 v 0000 01 + 00 00 |    
+00011251 00 v 01 metabolizar 0 000 01 + 00 00 |    
+00011303 00 v 01 rabiar 0 000 01 + 00 00 |    
+00011350 00 v 03 degustar 0 saborear 0 probar 0 000 01 + 00 00 |    
+00011419 00 v 02 asaltar 0 atacar 0 000 01 + 00 00 |    
+00011476 00 v 01 conter_o_vómito 0 000 01 + 00 00 |    
+00011533 00 v 03 xurdir 0 aparecer 0 saír 0 000 01 + 00 00 |    
+00011599 00 v 01 cultivar 0 001 ;c 00440211 n 0000 01 + 00 00 |    
+00011667 00 v 03 ocupar 0 situarse 0 acharse 0 001 @ 00032964 v 0000 01 + 00 00 |    
+00011753 00 v 02 deixar 0 sobrevivir 0 000 01 + 00 00 |    
+00011813 00 v 02 porse_de_morros 0 enfurruñar 0 000 01 + 00 00 |    
+00011883 00 v 04 congregarse 0 reunirse 0 xuntarse 0 agruparse 0 000 01 + 00 00 |    
+00011969 00 v 02 coñecer 0 saber 0 001 ! 00004186 v 0000 01 + 00 00 |    
+00012044 00 v 03 prender 0 arrestar 0 deter 0 001 ! 00020036 v 0000 01 + 00 00 |    
+00012129 00 v 03 iniciar 0 comezar 0 empezar 0 001 ! 00005774 v 0000 01 + 00 00 |    
+00012215 00 v 02 coincidir 0 estar_de_acordo 0 001 ! 00021256 v 0000 01 + 00 00 |    
+00012301 00 v 06 ganar 0 adiantar 0 avanzar 0 gañar 0 ganar_terreo 0 gañar_terreo 0 000 01 + 00 00 |    
+00012408 00 v 06 chapicar 0 batuxar 0 chapinar 0 zarrapicar 0 chapuzar 0 salpicar 0 000 01 + 00 00 |    
+00012513 00 v 02 levar 0 vestir 0 000 01 + 00 00 |    
+00012568 00 v 02 notar 0 observar 0 001 * 00020704 v 0000 01 + 00 00 |    
+00012643 00 v 03 non_permitir 0 impedir 0 imposibilitar 0 000 01 + 00 00 |    
+00012722 00 v 03 exercer 0 practicar 0 levar_a_cabo 0 001 * 00004712 v 0000 01 + 00 00 |    
+00012815 00 v 03 expresar_os_sentimentos 0 emocionarse 0 expresar_as_emocións 0 000 01 + 00 00 |    
+00012917 00 v 01 abrir 0 001 ! 00023432 v 0000 01 + 00 00 |    
+00012981 00 v 03 examinar 0 inspeccionar 0 mirar 0 001 * 00014928 v 0000 01 + 00 00 |    
+00013071 00 v 02 absterse_de 0 privarse_de 0 001 ! 00000821 v 0000 01 + 00 00 |    
+00013155 00 v 02 liberar 0 descargar 0 000 01 + 00 00 |    
+00013215 00 v 01 aforrar 0 000 01 + 00 00 |    
+00013263 00 v 03 desvelar 0 manterse_esperto 0 manter_esperto 0 000 01 + 00 00 |    
+00013348 00 v 03 animar 0 alegrar 0 divertir 0 000 01 + 00 00 |    
+00013416 00 v 04 ceder 0 entregar 0 regalar 0 dar 0 000 01 + 00 00 |    
+00013489 00 v 02 calcular 0 computar 0 001 ;c 00173610 n 0000 01 + 00 00 |    
+00013568 00 v 05 despexar 0 aclarar 0 mellorar 0 desencapotarse 0 abrir_o_día 0 000 01 + 00 00 |    
+00013670 00 v 03 destruír 0 estragar 0 arruinar 0 001 @ 00031831 v 0000 01 + 00 00 |    
+00013760 00 v 02 executar 0 facer 0 000 01 + 00 00 |    
+00013817 00 v 03 confeccionar 0 facer 0 crear 0 000 01 + 00 00 |    
+00013886 00 v 02 desexar 0 querer 0 000 01 + 00 00 |    
+00013943 00 v 02 retar 0 desafiar 0 000 01 + 00 00 |    
+00014000 00 v 02 facerse_claro 0 decatarse 0 001 > 00020996 v 0000 01 + 00 00 |    
+00014084 00 v 03 pedir 0 solicitar 0 reservar 0 000 01 + 00 00 |    
+00014153 00 v 03 ver 0 ollar 0 observar 0 001 * 00014928 v 0000 01 + 00 00 |    
+00014234 00 v 02 ter_medo 0 temer 0 000 01 + 00 00 |    
+00014291 00 v 02 deixar 0 permitir 0 001 ! 00008509 v 0000 01 + 00 00 |    
+00014367 00 v 01 facer_percibir 0 001 ~ 00027764 v 0000 01 + 00 00 |    
+00014440 00 v 05 alicerzar 0 cimentar 0 fundar 0 fundamentar 0 basear 0 000 01 + 00 00 |    
+00014533 00 v 01 interpretar 0 000 01 + 00 00 |    
+00014585 00 v 02 destacar 0 sobresaír 0 000 01 + 00 00 |    
+00014647 00 v 01 montar 0 000 01 + 00 00 |    
+00014694 00 v 02 parar 0 deter 0 001 ! 00018403 v 0000 01 + 00 00 |    
+00014766 00 v 03 actuar 0 comportarse 0 obrar 0 000 01 + 00 00 |    
+00014835 00 v 05 iniciar 0 principiar 0 comezar 0 empezar 0 encomezar 0 000 01 + 00 00 |    
+00014928 00 v 01 mirar 0 000 01 + 00 00 |    
+00014974 00 v 03 educar 0 coidar 0 criar 0 000 01 + 00 00 |    
+00015038 00 v 02 recubrir 0 cubrir 0 001 ! 00009358 v 0000 01 + 00 00 |    
+00015114 00 v 02 treboar 0 tronar 0 000 01 + 00 00 |    
+00015171 00 v 01 sensibilizar 0 000 01 + 00 00 |    
+00015224 00 v 01 aplicar 0 000 01 + 00 00 |    
+00015272 00 v 02 chegar 0 arribar 0 001 ! 00010206 v 0000 01 + 00 00 |    
+00015347 00 v 02 abater 0 degradar 0 000 01 + 00 00 |    
+00015405 00 v 02 estar_parado 0 estar_desconectado 0 000 01 + 00 00 |    
+00015479 00 v 01 xutar 0 000 01 + 00 00 |    
+00015525 00 v 02 regresar 0 facer_volver 0 000 01 + 00 00 |    
+00015589 00 v 05 vixiar 0 andar_con_ollo 0 estar_alerta 0 ter_coidado 0 ter_conta 0 000 01 + 00 00 |    
+00015694 00 v 02 acordarse 0 lembrarse 0 000 01 + 00 00 |    
+00015756 00 v 02 adormecer 0 durmir 0 000 01 + 00 00 |    
+00015815 00 v 01 cumprir 0 000 01 + 00 00 |    
+00015863 00 v 02 haber_temporal 0 treboar 0 000 01 + 00 00 |    
+00015928 00 v 01 entrar 0 000 01 + 00 00 |    
+00015975 00 v 03 lamentarse 0 laiarse 0 queixarse 0 000 01 + 00 00 |    
+00016048 00 v 03 recordar 0 acordarse 0 lembrarse 0 000 01 + 00 00 |    
+00016121 00 v 01 sobrevivir 0 001 * 00038488 v 0000 01 + 00 00 |    
+00016190 00 v 02 cursar 0 estudar 0 000 01 + 00 00 |    
+00016247 00 v 04 atoarse 0 atascarse 0 obstruír 0 atrancarse 0 000 01 + 00 00 |    
+00016332 00 v 01 liderar 0 001 * 00006269 v 0000 01 + 00 00 |    
+00016398 00 v 02 vivir_de 0 sobrevivir 0 001 * 00038488 v 0000 01 + 00 00 |    
+00016478 00 v 03 agasallar 0 regalar 0 dar 0 000 01 + 00 00 |    
+00016544 00 v 01 aparecer 0 000 01 + 00 00 |    
+00016593 00 v 02 querer_dicir 0 significar 0 000 01 + 00 00 |    
+00016659 00 v 01 quitar 0 000 01 + 00 00 |    
+00016706 00 v 04 nostrar 0 expresar 0 amosar 0 manifestar 0 000 01 + 00 00 |    
+00016787 00 v 01 tomar_a_palabra 0 001 * 00029521 v 0000 01 + 00 00 |    
+00016861 00 v 03 quedar 0 permanecer 0 estar 0 000 01 + 00 00 |    
+00016929 00 v 01 cambiar 0 000 01 + 00 00 |    
+00016977 00 v 04 rememorar 0 recordar 0 lembrar 0 acordarse 0 001 ! 00030843 v 0000 01 + 00 00 |    
+00017078 00 v 03 disparar 0 abrir_fogo 0 descargar 0 001 > 00036466 v 0000 01 + 00 00 |    
+00017170 00 v 02 agarrar 0 coller 0 001 ~ 00029303 v 0000 01 + 00 00 |    
+00017245 00 v 05 confluír 0 ligar 0 unir 0 converxer 0 conectar 0 000 01 + 00 00 |    
+00017333 00 v 02 cativar 0 atraer 0 000 01 + 00 00 |    
+00017390 00 v 01 entrar_en_campaña 0 000 01 + 00 00 |    
+00017449 00 v 02 xogar 0 enforntarse 0 001 * 00006269 v 0000 01 + 00 00 |    
+00017527 00 v 02 trasladarse 0 mudar 0 000 01 + 00 00 |    
+00017587 00 v 04 pingar 0 deitar 0 gotear 0 zumegar 0 000 01 + 00 00 |    
+00017662 00 v 02 rebuldar 0 trebellar 0 000 01 + 00 00 |    
+00017723 00 v 05 descubrir 0 describir 0 identificar 0 nomear 0 denominar 0 000 01 + 00 00 |    
+00017820 00 v 01 cambiar 0 000 01 + 00 00 |    
+00017868 00 v 02 pasar 0 entregar 0 000 01 + 00 00 |    
+00017925 00 v 02 amar 0 querer 0 000 01 + 00 00 |    
+00017979 00 v 02 penalizar 0 castigar 0 000 01 + 00 00 |    
+00018040 00 v 03 renunciar 0 abandonar 0 deixar 0 000 01 + 00 00 |    
+00018111 00 v 02 reprimir 0 conter 0 000 01 + 00 00 |    
+00018169 00 v 01 perder 0 000 01 + 00 00 |    
+00018216 00 v 02 mergullar 0 somerxer 0 000 01 + 00 00 |    
+00018277 00 v 02 residir 0 orixinarse 0 000 01 + 00 00 |    
+00018338 00 v 01 resoar 0 001 > 00020996 v 0000 01 + 00 00 |    
+00018403 00 v 04 iniciar 0 principiar 0 comezar 0 empezar 0 001 ! 00014694 v 0000 01 + 00 00 |    
+00018502 00 v 03 afirmar 0 aseverar 0 asegurar 0 000 01 + 00 00 |    
+00018572 00 v 02 suxeitar 0 unir 0 002 @ 00031591 v 0000 ~ 00001790 v 0000 01 + 00 00 |    
+00018664 00 v 03 conseguir 0 ter_éxito 0 triunfar 0 001 ! 00007474 v 0000 01 + 00 00 |    
+00018756 00 v 01 preceder 0 001 ! 00023018 v 0000 01 + 00 00 |    
+00018823 00 v 04 acusar 0 imputar 0 incriminar 0 procesar 0 000 01 + 00 00 |    
+00018904 00 v 01 introducir 0 000 01 + 00 00 |    
+00018955 00 v 03 destruír 0 estragar 0 arruinar 0 000 01 + 00 00 |    
+00019027 00 v 01 interromper 0 000 01 + 00 00 |    
+00019079 00 v 04 reafirmar 0 constatar 0 confirmar 0 corroborar 0 000 01 + 00 00 |    
+00019166 00 v 06 palpar 0 tentar 0 apaxar 0 apalpar 0 tentear 0 apoupiñar 0 001 * 00027670 v 0000 01 + 00 00 |    
+00019282 00 v 03 mostrar 0 ensinar 0 amosar 0 001 ! 00022398 v 0000 01 + 00 00 |    
+00019367 00 v 01 cegar 0 000 01 + 00 00 |    
+00019413 00 v 05 precisar 0 pedir 0 esixir 0 necesitar 0 requirir 0 001 ! 00004645 v 0000 01 + 00 00 |    
+00019520 00 v 01 abolir 0 000 01 + 00 00 |    
+00019567 00 v 02 desatender 0 descoidar 0 000 01 + 00 00 |    
+00019630 00 v 02 confluír 0 converxer 0 001 ! 00024800 v 0000 01 + 00 00 |    
+00019710 00 v 02 complacer 0 satisfacer 0 000 01 + 00 00 |    
+00019773 00 v 03 deixar 0 permitir 0 consentir 0 000 01 + 00 00 |    
+00019843 00 v 01 vender 0 002 ;c 00822062 n 0000 * 00005884 v 0000 01 + 00 00 |    
+00019927 00 v 02 desatender 0 descoidar 0 000 01 + 00 00 |    
+00019990 00 v 01 gozar 0 000 01 + 00 00 |    
+00020036 00 v 03 desatar 0 soltar 0 liberar 0 001 ! 00012044 v 0000 01 + 00 00 |    
+00020121 00 v 01 procesar 0 001 * 00018823 v 0000 01 + 00 00 |    
+00020188 00 v 01 quedar_a_pre 0 001 ! 00030374 v 0000 01 + 00 00 |    
+00020259 00 v 04 mudar 0 variar 0 modificar 0 cambiar 0 001 > 00017820 v 0000 01 + 00 00 |    
+00020354 00 v 01 comunicar 0 002 ~ 00005226 v 0000 ~ 00027511 v 0000 01 + 00 00 |    
+00020440 00 v 01 ser 0 000 01 + 00 00 |    
+00020484 00 v 03 arder 0 abrasar 0 queimar 0 000 01 + 00 00 |    
+00020550 00 v 01 representar 0 000 01 + 00 00 |    
+00020602 00 v 02 soltar 0 liberar 0 000 01 + 00 00 |    
+00020659 00 v 01 voar 0 000 01 + 00 00 |    
+00020704 00 v 02 sentir 0 percibir 0 000 01 + 00 00 |    
+00020762 00 v 03 inxerir 0 tomar 0 consumir 0 001 ! 00001412 v 0000 01 + 00 00 |    
+00020847 00 v 02 escusarse 0 desculparse 0 000 01 + 00 00 |    
+00020911 00 v 04 sobrepasar 0 superar 0 exceder 0 transcender 0 000 01 + 00 00 |    
+00020996 00 v 02 comprender 0 entender 0 000 01 + 00 00 |    
+00021058 00 v 01 manipular 0 000 01 + 00 00 |    
+00021108 00 v 03 delegar 0 designar 0 nomear 0 001 @ 00003196 v 0000 01 + 00 00 |    
+00021194 00 v 02 sentir 0 experimentar 0 000 01 + 00 00 |    
+00021256 00 v 05 discordar 0 diverxer 0 disentir 0 discrepar 0 diferir 0 001 ! 00012215 v 0000 01 + 00 00 |    
+00021368 00 v 01 recordar 0 001 > 00016977 v 0000 01 + 00 00 |    
+00021435 00 v 03 derrotar 0 superar 0 vencer 0 001 ~ 00021791 v 0000 01 + 00 00 |    
+00021521 00 v 02 esmagar 0 oprimir 0 000 01 + 00 00 |    
+00021579 00 v 01 golpear 0 001 * 00034002 v 0000 01 + 00 00 |    
+00021645 00 v 02 estribar 0 radicar 0 000 01 + 00 00 |    
+00021704 00 v 03 minguar 0 reducir 0 diminuir 0 001 ! 00022804 v 0000 01 + 00 00 |    
+00021791 00 v 02 abandonar 0 deixar_fóra 0 002 @ 00021435 v 0000 * 00027208 v 0000 01 + 00 00 |    
+00021892 00 v 01 chamar 0 000 01 + 00 00 |    
+00021939 00 v 01 soar 0 000 01 + 00 00 |    
+00021984 00 v 02 practicar 0 xogar 0 001 @ 00006269 v 0000 01 + 00 00 |    
+00022060 00 v 03 rexistrar 0 recordar 0 saber 0 001 * 00020704 v 0000 01 + 00 00 |    
+00022147 00 v 01 esquecer 0 001 ! 00009803 v 0000 01 + 00 00 |    
+00022214 00 v 02 adestrar 0 facer_exercicio 0 001 * 00010341 v 0000 01 + 00 00 |    
+00022299 00 v 04 escoller 0 seleccionar 0 elixir 0 coller 0 001 @ 00003368 v 0000 01 + 00 00 |    
+00022398 00 v 05 ocultar 0 tapar 0 agochar 0 esconder 0 encubrir 0 001 ! 00019282 v 0000 01 + 00 00 |    
+00022504 00 v 01 apretar_o_gatillo 0 001 * 00017078 v 0000 01 + 00 00 |    
+00022580 00 v 02 parar 0 deter 0 002 ! 00024004 v 0000 > 00014694 v 0000 01 + 00 00 |    
+00022670 00 v 02 deixar 0 deixar_ir 0 001 ! 00027583 v 0000 01 + 00 00 |    
+00022747 00 v 02 aceptar 0 asumir 0 000 01 + 00 00 |    
+00022804 00 v 03 aumentar 0 acrecentar 0 incrementar 0 002 ! 00021704 v 0000 ~ 00008297 v 0000 01 + 00 00 |    
+00022916 00 v 03 quedar_quieto 0 estar_inmóbil 0 estar_fixo 0 001 ! 00010341 v 0000 01 + 00 00 |    
+00023018 00 v 02 suceder 0 vir_despois 0 001 ! 00018756 v 0000 01 + 00 00 |    
+00023098 00 v 01 sentar 0 001 ! 00031511 v 0000 01 + 00 00 |    
+00023163 00 v 03 continuar 0 seguir 0 manterse 0 001 * 00006269 v 0000 01 + 00 00 |    
+00023251 00 v 05 gastar 0 consumir_totalmente 0 acabar 0 rematar 0 esgotar 0 000 01 + 00 00 |    
+00023349 00 v 01 perder 0 002 ! 00027208 v 0000 * 00006269 v 0000 01 + 00 00 |    
+00023432 00 v 03 fechar 0 cerrar 0 pechar 0 001 ! 00012917 v 0000 01 + 00 00 |    
+00023515 00 v 02 tratar 0 procesar 0 000 01 + 00 00 |    
+00023573 00 v 01 soprar 0 000 01 + 00 00 |    
+00023620 00 v 03 pór 0 poñer 0 colocar 0 001 @ 00001314 v 0000 01 + 00 00 |    
+00023702 00 v 01 entender 0 000 01 + 00 00 |    
+00023751 00 v 01 cobrar 0 000 01 + 00 00 |    
+00023798 00 v 03 colgar 0 suspender 0 pendurar 0 000 01 + 00 00 |    
+00023868 00 v 03 eludir 0 esquivar 0 evitar 0 000 01 + 00 00 |    
+00023935 00 v 03 revestir 0 recubrir 0 cubrir 0 000 01 + 00 00 |    
+00024004 00 v 03 arrincar 0 moverse 0 arrancar 0 002 ! 00022580 v 0000 > 00018403 v 0000 01 + 00 00 |    
+00024110 00 v 05 iniciar 0 principiar 0 comezar 0 empezar 0 encomezar 0 001 > 00012129 v 0000 01 + 00 00 |    
+00024221 00 v 03 tropezar 0 trancarse 0 atrancarse 0 000 01 + 00 00 |    
+00024295 00 v 01 cazar 0 000 01 + 00 00 |    
+00024341 00 v 01 matar_sen_intención 0 000 01 + 00 00 |    
+00024402 00 v 01 cortar 0 000 01 + 00 00 |    
+00024449 00 v 01 tomar 0 000 01 + 00 00 |    
+00024495 00 v 02 denegar 0 desestimar 0 000 01 + 00 00 |    
+00024556 00 v 01 descubrir 0 001 * 00020704 v 0000 01 + 00 00 |    
+00024624 00 v 03 reducir 0 diminuír 0 recortar 0 000 01 + 00 00 |    
+00024695 00 v 02 manter 0 conservar 0 000 01 + 00 00 |    
+00024754 00 v 01 saber 0 000 01 + 00 00 |    
+00024800 00 v 01 diverxer 0 001 ! 00019630 v 0000 01 + 00 00 |    
+00024867 00 v 01 quedar_durmido 0 000 01 + 00 00 |    
+00024922 00 v 04 agrupar 0 congregar 0 xuntar 0 reunir 0 000 01 + 00 00 |    
+00025000 00 v 04 mudar 0 variar 0 modificar 0 cambiar 0 000 01 + 00 00 |    
+00025077 00 v 02 recibir 0 acoller 0 000 01 + 00 00 |    
+00025135 00 v 01 pasar 0 001 ~ 00008916 v 0000 01 + 00 00 |    
+00025199 00 v 03 rexistrar 0 facer_constar 0 consignar 0 000 01 + 00 00 |    
+00025277 00 v 02 inducir 0 causar 0 000 01 + 00 00 |    
+00025334 00 v 02 converter 0 devir 0 000 01 + 00 00 |    
+00025392 00 v 02 garantizar 0 asegurar 0 000 01 + 00 00 |    
+00025454 00 v 03 controverter 0 debater 0 discutir 0 000 01 + 00 00 |    
+00025528 00 v 07 animar 0 incitar 0 estimular 0 alentar 0 afoutar 0 impulsar 0 exhortar 0 000 01 + 00 00 |    
+00025639 00 v 02 determinar 0 fixar 0 000 01 + 00 00 |    
+00025698 00 v 02 chocar 0 colidir 0 000 01 + 00 00 |    
+00025755 00 v 04 xuntar 0 reunir 0 axeitar 0 axustar 0 001 @ 00031591 v 0000 01 + 00 00 |    
+00025849 00 v 03 descompensarse 0 desnivelarse 0 desequilibrar 0 000 01 + 00 00 |    
+00025935 00 v 02 inaugurar 0 abrir 0 001 ! 00028760 v 0000 01 + 00 00 |    
+00026011 00 v 03 abandonar 0 deixar 0 esquecer 0 000 01 + 00 00 |    
+00026081 00 v 06 causar 0 realizar 0 ocasionar 0 provocar 0 crear 0 xerar 0 000 01 + 00 00 |    
+00026178 00 v 01 faltar 0 001 ! 00031692 v 0000 01 + 00 00 |    
+00026243 00 v 04 ventar 0 ulir 0 cheirar 0 olfactear 0 000 01 + 00 00 |    
+00026319 00 v 04 entolecer 0 tolear 0 louquear 0 enlouquecer 0 000 01 + 00 00 |    
+00026403 00 v 01 redimir 0 001 ;c 00619657 n 0000 01 + 00 00 |    
+00026470 00 v 02 alentar 0 respirar 0 000 01 + 00 00 |    
+00026529 00 v 01 instalar 0 000 01 + 00 00 |    
+00026578 00 v 03 incluír 0 comprender 0 conter 0 001 * 00031692 v 0000 01 + 00 00 |    
+00026667 00 v 02 ter_o_mesmo_valor 0 equivaler 0 000 01 + 00 00 |    
+00026737 00 v 01 desaparecer 0 001 ! 00002774 v 0000 01 + 00 00 |    
+00026807 00 v 01 ser_efectivo 0 000 01 + 00 00 |    
+00026860 00 v 03 gozar 0 deleitarse 0 divertirse 0 001 * 00023251 v 0000 01 + 00 00 |    
+00026950 00 v 04 estender 0 espallar 0 propagar 0 difundir 0 001 ! 00027319 v 0000 01 + 00 00 |    
+00027050 00 v 04 resolver 0 determinar 0 concluír 0 fixar 0 000 01 + 00 00 |    
+00027132 00 v 04 fechar 0 encerrar 0 pechar 0 cercar 0 000 01 + 00 00 |    
+00027208 00 v 04 ganar 0 vencer 0 gañar 0 triunfar 0 002 ! 00023349 v 0000 * 00006269 v 0000 01 + 00 00 |    
+00027319 00 v 03 xuntar 0 reunir 0 recoller 0 001 ! 00026950 v 0000 01 + 00 00 |    
+00027404 00 v 01 mirar 0 000 01 + 00 00 |    
+00027450 00 v 02 empregar 0 contratar 0 000 01 + 00 00 |    
+00027511 00 v 02 dicir 0 falar 0 001 @ 00020354 v 0000 01 + 00 00 |    
+00027583 00 v 03 suxeitar 0 soster 0 aguantar 0 001 ! 00022670 v 0000 01 + 00 00 |    
+00027670 00 v 02 tocar 0 contactar 0 002 ~ 00032136 v 0000 ~ 00034002 v 0000 01 + 00 00 |    
+00027764 00 v 01 facer_ruído 0 001 @ 00014367 v 0000 01 + 00 00 |    
+00027835 00 v 01 perder 0 000 01 + 00 00 |    
+00027882 00 v 03 interpretar 0 representar 0 figurar 0 001 ;c 00711858 n 0000 01 + 00 00 |    
+00027977 00 v 01 gustar 0 001 ! 00009168 v 0000 01 + 00 00 |    
+00028042 00 v 01 declarar 0 000 01 + 00 00 |    
+00028091 00 v 02 calar 0 estar_calado 0 000 01 + 00 00 |    
+00028152 00 v 03 aparentar 0 finxir 0 simular 0 000 01 + 00 00 |    
+00028221 00 v 01 tocar 0 000 01 + 00 00 |    
+00028267 00 v 01 coroar 0 000 01 + 00 00 |    
+00028314 00 v 03 producir 0 facer 0 crear 0 000 01 + 00 00 |    
+00028379 00 v 01 alumar 0 001 > 00002939 v 0000 01 + 00 00 |    
+00028444 00 v 06 arranxarse 0 adobiarse 0 acicalarse 0 amañarse 0 enfeitarse 0 compoñerse 0 000 01 + 00 00 |    
+00028559 00 v 03 ter_capacidade 0 aforamento 0 ter 0 000 01 + 00 00 |    
+00028633 00 v 02 expeler 0 expulsar 0 000 01 + 00 00 |    
+00028692 00 v 01 traballar 0 001 ! 00033207 v 0000 01 + 00 00 |    
+00028760 00 v 04 fechar 0 cerrar 0 clausurar 0 pechar 0 001 ! 00025935 v 0000 01 + 00 00 |    
+00028855 00 v 02 obedecer 0 axustarse 0 000 01 + 00 00 |    
+00028916 00 v 03 desoír 0 desatender 0 ignorar 0 001 ! 00032487 v 0000 01 + 00 00 |    
+00029005 00 v 04 levantarse 0 erguerse 0 poñerse_de_pé 0 saír_da_cama 0 001 ! 00004406 v 0000 01 + 00 00 |    
+00029119 00 v 03 disuadir 0 desanimar 0 desalentar 0 000 01 + 00 00 |    
+00029193 00 v 07 amparar 0 guarecer 0 defender 0 protexer 0 abrigar 0 coidar 0 gorecer 0 000 01 + 00 00 |    
+00029303 00 v 05 agarrar 0 suxeitar 0 prender 0 asir 0 coller 0 001 @ 00017170 v 0000 01 + 00 00 |    
+00029406 00 v 03 preparar 0 facer 0 cociñar 0 000 01 + 00 00 |    
+00029474 00 v 01 perder 0 000 01 + 00 00 |    
+00029521 00 v 02 dicir 0 falar 0 000 01 + 00 00 |    
+00029575 00 v 01 comunicarse 0 000 01 + 00 00 |    
+00029627 00 v 02 preocuparse 0 inquietarse 0 000 01 + 00 00 |    
+00029693 00 v 04 deprender 0 ilustrarse 0 instruírse 0 aprender 0 000 01 + 00 00 |    
+00029781 00 v 01 someterse 0 000 01 + 00 00 |    
+00029831 00 v 02 ter_o_mesmo_valor 0 equivaler 0 002 ! 00007071 v 0000 ~ 00011131 v 0000 01 + 00 00 |    
+00029937 00 v 02 romper 0 fracturar 0 000 01 + 00 00 |    
+00029996 00 v 02 estar_activo 0 moverse 0 000 01 + 00 00 |    
+00030059 00 v 01 deshonrar 0 000 01 + 00 00 |    
+00030109 00 v 02 representar 0 defender 0 001 ! 00007892 v 0000 01 + 00 00 |    
+00030190 00 v 01 aforrar 0 000 01 + 00 00 |    
+00030238 00 v 03 compoñer 0 compor 0 escribir 0 001 * 00005701 v 0000 01 + 00 00 |    
+00030326 00 v 01 ignorar 0 000 01 + 00 00 |    
+00030374 00 v 01 perder 0 001 ! 00020188 v 0000 01 + 00 00 |    
+00030439 00 v 06 animar 0 aliviar 0 confortar 0 alentar 0 afoutar 0 consolar 0 000 01 + 00 00 |    
+00030539 00 v 03 prevalecer 0 dominar 0 predominar 0 000 01 + 00 00 |    
+00030613 00 v 01 insistir 0 000 01 + 00 00 |    
+00030662 00 v 01 perder 0 000 01 + 00 00 |    
+00030709 00 v 03 forxar 0 moldear 0 fraguar 0 000 01 + 00 00 |    
+00030776 00 v 01 apropiar 0 001 ! 00005884 v 0000 01 + 00 00 |    
+00030843 00 v 01 esquecer 0 001 ! 00016977 v 0000 01 + 00 00 |    
+00030910 00 v 03 ter_a_intención 0 pensar 0 proporse 0 000 01 + 00 00 |    
+00030987 00 v 01 mover 0 001 * 00021984 v 0000 01 + 00 00 |    
+00031051 00 v 02 encher 0 completar 0 000 01 + 00 00 |    
+00031110 00 v 03 ocuparse_de 0 tratar 0 coidar 0 000 01 + 00 00 |    
+00031180 00 v 03 flotar 0 levitar 0 aboiar 0 000 01 + 00 00 |    
+00031246 00 v 03 avaliar 0 taxar 0 valorar 0 000 01 + 00 00 |    
+00031312 00 v 01 cheirar 0 000 01 + 00 00 |    
+00031360 00 v 01 estudar 0 000 01 + 00 00 |    
+00031408 00 v 01 matar 0 000 01 + 00 00 |    
+00031454 00 v 02 ver 0 considerar 0 000 01 + 00 00 |    
+00031511 00 v 02 xacer 0 estar_deitado 0 001 ! 00023098 v 0000 01 + 00 00 |    
+00031591 00 v 03 unir 0 xuntar 0 conectar 0 002 ~ 00018572 v 0000 ~ 00025755 v 0000 01 + 00 00 |    
+00031692 00 v 02 posuír 0 ter 0 001 ! 00026178 v 0000 01 + 00 00 |    
+00031764 00 v 01 empuxar 0 001 ;c 00810520 n 0000 01 + 00 00 |    
+00031831 00 v 02 desfacer 0 anular 0 001 ~ 00013670 v 0000 01 + 00 00 |    
+00031907 00 v 03 verbalizar 0 expresar 0 manifestar 0 000 01 + 00 00 |    
+00031982 00 v 03 ir 0 moverse 0 desprazarse 0 001 ! 00002645 v 0000 01 + 00 00 |    
+00032067 00 v 01 concordar 0 001 ;c 00942952 n 0000 01 + 00 00 |    
+00032136 00 v 02 pegar 0 golpear 0 001 @ 00027670 v 0000 01 + 00 00 |    
+00032210 00 v 03 recordar 0 acordarse 0 lembrarse 0 000 01 + 00 00 |    
+00032283 00 v 04 retirar 0 quitar 0 sacar 0 desfacerse 0 000 01 + 00 00 |    
+00032361 00 v 01 existir 0 000 01 + 00 00 |    
+00032409 00 v 02 participar 0 entrar 0 001 ! 00010522 v 0000 01 + 00 00 |    
+00032487 00 v 03 notar 0 percibir 0 observar 0 002 ! 00028916 v 0000 * 00020704 v 0000 01 + 00 00 |    
+00032591 00 v 03 refusar 0 rexeitar 0 declinar 0 000 01 + 00 00 |    
+00032661 00 v 01 degradar 0 000 01 + 00 00 |    
+00032710 00 v 03 subsistir 0 existir 0 vivir 0 000 01 + 00 00 |    
+00032778 00 v 01 preguntar 0 000 01 + 00 00 |    
+00032828 00 v 02 renunciar 0 abandonar 0 000 01 + 00 00 |    
+00032890 00 v 03 estar_farto 0 encherse 0 fartarse 0 000 01 + 00 00 |    
+00032964 00 v 01 estar 0 001 ~ 00011667 v 0000 01 + 00 00 |    
+00033028 00 v 01 ser_incapaz_de 0 000 01 + 00 00 |    
+00033083 00 v 01 fluír 0 000 01 + 00 00 |    
+00033130 00 v 02 recibir 0 absorber 0 001 ! 00002850 v 0000 01 + 00 00 |    
+00033207 00 v 05 lacazanear 0 langranear 0 non_facer_nada 0 folgazanear 0 galbanear 0 001 ! 00028692 v 0000 01 + 00 00 |    
+00033332 00 v 02 suspender 0 fracasar 0 000 01 + 00 00 |    
+00033393 00 v 03 buscar 0 rexistrar 0 explorar 0 000 01 + 00 00 |    
+00033463 00 v 01 ter 0 000 01 + 00 00 |    
+00033507 00 v 04 dirixir 0 conducir 0 levar 0 guiar 0 000 01 + 00 00 |    
+00033582 00 v 01 analizar 0 000 01 + 00 00 |    
+00033631 00 v 01 afectar 0 001 > 00021194 v 0000 01 + 00 00 |    
+00033697 00 v 05 romper 0 quebrantar 0 transgredir 0 violar 0 vulnerar 0 000 01 + 00 00 |    
+00033791 00 v 02 estar_condicionado 0 depender 0 000 01 + 00 00 |    
+00033861 00 v 03 integrarse 0 mesturarse 0 relacionarse 0 000 01 + 00 00 |    
+00033940 00 v 02 determinar 0 pescudar 0 000 01 + 00 00 |    
+00034002 00 v 04 pegar 0 arrear 0 bater 0 golpear 0 001 @ 00027670 v 0000 01 + 00 00 |    
+00034093 00 v 02 descansar 0 estar_inactivo 0 000 01 + 00 00 |    
+00034160 00 v 04 rescindir 0 suspender 0 cancelar 0 anular 0 000 01 + 00 00 |    
+00034242 00 v 03 eludir 0 absterse 0 evitar 0 000 01 + 00 00 |    
+00034309 00 v 01 separarse 0 000 01 + 00 00 |    
+00034359 00 v 02 agardar 0 esperar 0 000 01 + 00 00 |    
+00034417 00 v 03 suceder 0 seguir 0 vir_detrás_de 0 001 ! 00002401 v 0000 01 + 00 00 |    
+00034509 00 v 06 encher 0 aborrecer 0 fatigar 0 fartar 0 aburrir 0 cansar 0 000 01 + 00 00 |    
+00034606 00 v 02 estar_pendente 0 estar_alerta 0 000 01 + 00 00 |    
+00034676 00 v 03 exonerar 0 eximir 0 liberar 0 000 01 + 00 00 |    
+00034744 00 v 02 controlar 0 mandar 0 000 01 + 00 00 |    
+00034803 00 v 02 analizar 0 estudar 0 000 01 + 00 00 |    
+00034862 00 v 01 irse 0 000 01 + 00 00 |    
+00034907 00 v 04 dopar 0 colocarse 0 drogarse 0 doparse 0 000 01 + 00 00 |    
+00034986 00 v 01 recibir 0 000 01 + 00 00 |    
+00035034 00 v 04 pillar 0 agarrar 0 atrapar 0 coller 0 000 01 + 00 00 |    
+00035110 00 v 01 sobresaír 0 000 01 + 00 00 |    
+00035161 00 v 01 herdar 0 000 01 + 00 00 |    
+00035208 00 v 01 confiar 0 000 01 + 00 00 |    
+00035256 00 v 02 atrincheirar 0 asegurar 0 000 01 + 00 00 |    
+00035320 00 v 01 interpretar 0 000 01 + 00 00 |    
+00035372 00 v 03 ir 0 ir_para 0 destinar 0 000 01 + 00 00 |    
+00035436 00 v 01 confiar 0 000 01 + 00 00 |    
+00035484 00 v 04 pór 0 poñer 0 instalar 0 colocar 0 000 01 + 00 00 |    
+00035559 00 v 01 crecer 0 000 01 + 00 00 |    
+00035606 00 v 02 fotografar 0 retratar 0 000 01 + 00 00 |    
+00035668 00 v 02 presentar 0 confrontar 0 000 01 + 00 00 |    
+00035731 00 v 01 conmemorar 0 000 01 + 00 00 |    
+00035782 00 v 01 ordenarse 0 000 01 + 00 00 |    
+00035832 00 v 02 ter_cariño 0 gustar 0 000 01 + 00 00 |    
+00035893 00 v 01 refuxiarse 0 000 01 + 00 00 |    
+00035944 00 v 01 sobreser 0 000 01 + 00 00 |    
+00035993 00 v 03 renunciar 0 abandonar 0 desistir 0 000 01 + 00 00 |    
+00036066 00 v 01 votar 0 000 01 + 00 00 |    
+00036112 00 v 03 permitir 0 deixar_entrar 0 admitir 0 000 01 + 00 00 |    
+00036187 00 v 02 representar 0 significar 0 000 01 + 00 00 |    
+00036252 00 v 02 dividir 0 separar 0 000 01 + 00 00 |    
+00036310 00 v 02 ondular 0 ondear 0 000 01 + 00 00 |    
+00036367 00 v 01 ser_castigado 0 000 01 + 00 00 |    
+00036421 00 v 01 soar 0 000 01 + 00 00 |    
+00036466 00 v 01 dispararse 0 000 01 + 00 00 |    
+00036517 00 v 05 alterar 0 trastornar 0 alborotar 0 desorganizar 0 perturbar 0 000 01 + 00 00 |    
+00036617 00 v 02 outorgar 0 conceder 0 000 01 + 00 00 |    
+00036677 00 v 02 cativar 0 atraer 0 000 01 + 00 00 |    
+00036734 00 v 02 ceder 0 dar 0 000 01 + 00 00 |    
+00036786 00 v 03 arrepentirse 0 lamentarse 0 apesararse 0 000 01 + 00 00 |    
+00036865 00 v 02 colgar 0 pendurar 0 000 01 + 00 00 |    
+00036923 00 v 02 mergullarse 0 somerxerse 0 000 01 + 00 00 |    
+00036988 00 v 01 permitirse 0 000 01 + 00 00 |    
+00037039 00 v 03 chamado 0 chamar 0 ser 0 000 01 + 00 00 |    
+00037102 00 v 02 fender 0 cortar 0 000 01 + 00 00 |    
+00037158 00 v 03 ir 0 inxerir 0 baixar 0 000 01 + 00 00 |    
+00037220 00 v 02 colgar 0 pairar 0 000 01 + 00 00 |    
+00037276 00 v 03 levar 0 transportar 0 guiar 0 000 01 + 00 00 |    
+00037344 00 v 02 vir_de_sócato 0 golpear 0 000 01 + 00 00 |    
+00037409 00 v 01 embazar 0 000 01 + 00 00 |    
+00037457 00 v 03 visitar 0 revisar 0 inspeccionar 0 000 01 + 00 00 |    
+00037530 00 v 01 saír 0 000 01 + 00 00 |    
+00037576 00 v 01 ver 0 000 01 + 00 00 |    
+00037620 00 v 02 ser_competente 0 ter_capacidade_para 0 000 01 + 00 00 |    
+00037697 00 v 01 estender 0 000 01 + 00 00 |    
+00037746 00 v 01 sentir_empatía 0 000 01 + 00 00 |    
+00037802 00 v 01 sobrecargar 0 000 01 + 00 00 |    
+00037854 00 v 01 estar_inactivo 0 000 01 + 00 00 |    
+00037909 00 v 02 quebrar 0 crebar 0 000 01 + 00 00 |    
+00037966 00 v 03 derrubar 0 derribar 0 tirar 0 000 01 + 00 00 |    
+00038034 00 v 01 vivir 0 000 01 + 00 00 |    
+00038080 00 v 06 apañarse 0 arranxarse 0 amañarse 0 gobernarse 0 desenvolverse 0 defenderse 0 000 01 + 00 00 |    
+00038197 00 v 04 pillar 0 atrapar 0 inmobilizar 0 coller 0 000 01 + 00 00 |    
+00038277 00 v 03 acudir 0 presentarse 0 comparecer 0 000 01 + 00 00 |    
+00038351 00 v 04 pór_os_pelos_dereitos 0 pór_os_pelos_de_punta 0 poñer_os_pelos_de_espeto 0 arrepiar_as_carnes 0 000 01 + 00 00 |    
+00038488 00 v 02 existir 0 vivir 0 000 01 + 00 00 |    
+00038544 00 v 03 inquietar 0 desacougar 0 preocupar 0 000 01 + 00 00 |    
+00038619 00 v 01 ser_múltiplo 0 000 01 + 00 00 |    
+00038673 00 v 04 pasar 0 ocorrer 0 suceder 0 acontecer 0 000 01 + 00 00 |    
+00038751 00 v 02 haber_de 0 estar_a_piques_de 0 000 01 + 00 00 |    
+00038820 00 v 01 perder_de_vista 0 000 01 + 00 00 |    
+00038876 00 v 01 levar_o_ritmo 0 000 01 + 00 00 |    
+00038930 00 v 01 pagar_o_décimo 0 000 01 + 00 00 |    
+00038986 00 v 01 recoller 0 000 01 + 00 00 |    
+00039035 00 v 02 permitir 0 admitir 0 000 01 + 00 00 |    
+00039094 00 v 02 eliminar 0 rexeitar 0 000 01 + 00 00 |    
+00039154 00 v 04 verificar 0 comprobar 0 confirmar 0 probar 0 000 01 + 00 00 |    
+00039237 00 v 02 fallar 0 fracasar 0 000 01 + 00 00 |    
+00039295 00 v 01 ser_castigado 0 000 01 + 00 00 |    
+00039349 00 v 03 aliviar 0 eximir 0 cesar 0 000 01 + 00 00 |    
+00039414 00 v 02 centrar_a_atención 0 interesarse 0 000 01 + 00 00 |    
+00039488 00 v 04 colgar 0 pendurar 0 exhibir 0 expoñer 0 000 01 + 00 00 |    
+00039567 00 v 01 pensar 0 000 01 + 00 00 |    
+00039614 00 v 01 coñecer 0 000 01 + 00 00 |    
+00039663 00 v 03 iniciar 0 principiar 0 comezar 0 000 01 + 00 00 |    
+00039734 00 v 03 experimentar 0 ensaiar 0 probar 0 000 01 + 00 00 |    
+00039806 00 v 03 esgotarse 0 non_abondar 0 ser_insuficiente 0 000 01 + 00 00 |    
+00039889 00 v 02 habituar 0 acostumar 0 000 01 + 00 00 |    
+00039950 00 v 03 atopar 0 achar 0 encontrar 0 000 01 + 00 00 |    
+00040017 00 v 02 pretender 0 cortexar 0 000 01 + 00 00 |    
+00040078 00 v 02 ser_equívoco 0 ser_ambiguo 0 000 01 + 00 00 |    
+00040146 00 v 01 chegar 0 000 01 + 00 00 |    
+00040193 00 v 01 picar 0 000 01 + 00 00 |    
+00040239 00 v 03 dedicar 0 investir 0 destinar 0 000 01 + 00 00 |    
+00040309 00 v 01 caer 0 000 01 + 00 00 |    
+00040354 00 v 02 vomitar 0 trousar 0 000 01 + 00 00 |    
+00040412 00 v 01 gravar 0 000 01 + 00 00 |    
+00040459 00 v 01 ser 0 000 01 + 00 00 |    
+00040503 00 v 02 ser_indiferente 0 ser_apático 0 000 01 + 00 00 |    
+00040574 00 v 02 interesar 0 preocupar 0 000 01 + 00 00 |    
+00040636 00 v 01 succionar 0 000 01 + 00 00 |    
+00040686 00 v 02 gardar_para_si 0 ser_introvertido 0 000 01 + 00 00 |    
+00040760 00 v 02 entreterse 0 divertirse 0 000 01 + 00 00 |    
+00040824 00 v 01 mesturarse 0 000 01 + 00 00 |    
+00040875 00 v 04 dicir 0 declarar 0 expoñer 0 expor 0 000 01 + 00 00 |    
+00040951 00 v 01 ser_recordado 0 000 01 + 00 00 |    
+00041005 00 v 01 arrastrar 0 000 01 + 00 00 |    
+00041055 00 v 03 estar_ao_día 0 seguir 0 manterse_informado 0 000 01 + 00 00 |    
+00041139 00 v 01 aparecer 0 000 01 + 00 00 |    
+00041188 00 v 03 descubrir 0 saír_á_luz 0 revelar 0 000 01 + 00 00 |    
+00041263 00 v 03 estourar 0 detonar 0 estoupar 0 000 01 + 00 00 |    
+00041333 00 v 02 estar_perdido 0 perderse 0 000 01 + 00 00 |    
+00041398 00 v 01 vixiar 0 000 01 + 00 00 |    
+00041445 00 v 01 abrir 0 000 01 + 00 00 |    
+00041491 00 v 01 formar 0 000 01 + 00 00 |    
+00041538 00 v 02 ir 0 pasar 0 000 01 + 00 00 |    
+00041589 00 v 02 coñecer 0 coñecerse 0 000 01 + 00 00 |    
+00041651 00 v 03 descender 0 proceder 0 provir 0 000 01 + 00 00 |    
+00041721 00 v 03 moderarse 0 conterse 0 retirarse 0 000 01 + 00 00 |    
+00041794 00 v 01 recibir 0 000 01 + 00 00 |    
+00041842 00 v 03 agarrar 0 asir 0 aferrar 0 000 01 + 00 00 |    
+00041907 00 v 01 acompañar 0 000 01 + 00 00 |    
+00041958 00 v 01 herdar 0 000 01 + 00 00 |    
+00042005 00 v 03 abrirse 0 dar_acceso 0 comunicar 0 000 01 + 00 00 |    
+00042078 00 v 02 ter_en_conta 0 considerar 0 000 01 + 00 00 |    
+00042144 00 v 03 ser_coraxento 0 ter_valor 0 ter_coraxe 0 000 01 + 00 00 |    
+00042223 00 v 02 asirse 0 aferrarse 0 000 01 + 00 00 |    
+00042282 00 v 01 facer_un_arco 0 000 01 + 00 00 |    
+00042336 00 v 01 perder 0 000 01 + 00 00 |    
+00042383 00 v 02 interpoñerse 0 interporse 0 000 01 + 00 00 |    
+00042450 00 v 02 escalar 0 ascender 0 000 01 + 00 00 |    
+00042509 00 v 03 habituar 0 dedicarse_a 0 acostumar 0 000 01 + 00 00 |    
+00042584 00 v 02 conducir 0 levar 0 000 01 + 00 00 |    
+00042641 00 v 01 comezar_a_aprender 0 000 01 + 00 00 |    
+00042700 00 v 01 picar 0 000 01 + 00 00 |    
+00042746 00 v 02 xear 0 axear 0 000 01 + 00 00 |    
+00042799 00 v 03 topenear 0 cotelear 0 monear 0 000 01 + 00 00 |    

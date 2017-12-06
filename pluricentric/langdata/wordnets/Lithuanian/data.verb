@@ -1,0 +1,539 @@
+  01 This file is a derivation of the wn-lit-lmf.xml file; the original lit-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: lit
+  07 label: Lithuanian
+00000319 00 v 01 suspėti 0 001 @ 00031481 v 0000 01 + 00 00 |    
+00000386 00 v 03 prižadėti 0 pažadėti 0 žadėti 0 000 01 + 00 00 |    
+00000462 00 v 01 planuoti 0 002 @ 00004794 v 0000 ~ 00021169 v 0000 01 + 00 00 |    
+00000547 00 v 01 išspjauti 0 001 ~ 00001963 v 0000 01 + 00 00 |    
+00000616 00 v 03 palaikyti 0 laikyti 0 paremti 0 000 01 + 00 00 |    
+00000686 00 v 02 tyrinėti 0 nagrinėti 0 000 01 + 00 00 |    
+00000749 00 v 02 paviršutiniškai_domėtis 0 mėgėjiškai_dirbti 0 000 01 + 00 00 |    
+00000839 00 v 02 išgelbėti 0 apsaugoti 0 000 01 + 00 00 |    
+00000903 00 v 03 daryti 0 veikti 0 vykdyti 0 008 ! 00014834 v 0000 ~ 00013966 v 0000 ~ 00017404 v 0000 ~ 00019417 v 0000 ~ 00001164 v 0000 ~ 00020390 v 0000 ~ 00036631 v 0000 ~ 00022237 v 0000 01 + 00 00 |    
+00001113 00 v 01 užsiminti 0 000 01 + 00 00 |    
+00001164 00 v 01 tęsti 0 001 @ 00000903 v 0000 01 + 00 00 |    
+00001229 00 v 01 bėgti 0 000 01 + 00 00 |    
+00001276 00 v 02 kikenti 0 krizenti 0 001 @ 00023616 v 0000 01 + 00 00 |    
+00001353 00 v 02 aplankyti 0 lankyti 0 000 01 + 00 00 |    
+00001413 00 v 04 stumdyti 0 stumdytis 0 spausti 0 spaustis 0 001 @ 00029845 v 0000 01 + 00 00 |    
+00001513 00 v 02 pagroti 0 groti 0 001 ;c 00392844 n 0000 01 + 00 00 |    
+00001588 00 v 02 išsiųsti 0 siųsti 0 001 @ 00008488 v 0000 01 + 00 00 |    
+00001667 00 v 02 gulėti 0 atsigulti 0 000 01 + 00 00 |    
+00001727 00 v 02 atspindėti 0 atsispindėti 0 001 ;c 00089010 n 0000 01 + 00 00 |    
+00001814 00 v 02 atsisakyti 0 uždrausti 0 001 @ 00037077 v 0000 01 + 00 00 |    
+00001896 00 v 01 žiemoti 0 001 @ 00012999 v 0000 01 + 00 00 |    
+00001963 00 v 01 kosėti 0 001 @ 00000547 v 0000 01 + 00 00 |    
+00002029 00 v 02 prašyti 0 paprašyti 0 001 ~ 00026703 v 0000 01 + 00 00 |    
+00002109 00 v 01 įrašyti 0 000 01 + 00 00 |    
+00002159 00 v 03 aprūpinti 0 išduoti 0 tiekti 0 000 01 + 00 00 |    
+00002230 00 v 01 augti 0 001 @ 00035095 v 0000 01 + 00 00 |    
+00002294 00 v 01 turėti 0 001 ~ 00037077 v 0000 01 + 00 00 |    
+00002360 00 v 01 kursuoti 0 001 @ 00036416 v 0000 01 + 00 00 |    
+00002427 00 v 03 plūsti 0 tekėti 0 srūti 0 000 01 + 00 00 |    
+00002494 00 v 02 tikėtis 0 laukti 0 000 01 + 00 00 |    
+00002552 00 v 02 vykdyti 0 paleisti 0 000 01 + 00 00 |    
+00002611 00 v 03 prausti 0 valyti 0 švarinti 0 001 ~ 00013806 v 0000 01 + 00 00 |    
+00002698 00 v 02 padėti 0 pagelbėti 0 002 @ 00010540 v 0000 ~ 00033677 v 0000 01 + 00 00 |    
+00002795 00 v 02 suskaityti 0 suskaičiuoti 0 001 @ 00029402 v 0000 01 + 00 00 |    
+00002880 00 v 03 duoti 0 įduoti 0 paduoti 0 001 ~ 00026482 v 0000 01 + 00 00 |    
+00002964 00 v 01 balsuoti 0 000 01 + 00 00 |    
+00003013 00 v 02 sietis 0 liesti 0 001 ~ 00028879 v 0000 01 + 00 00 |    
+00003087 00 v 01 pavadinti 0 001 @ 00003272 v 0000 01 + 00 00 |    
+00003155 00 v 01 atgaivinti 0 001 @ 00010689 v 0000 01 + 00 00 |    
+00003224 00 v 01 patarti 0 000 01 + 00 00 |    
+00003272 00 v 01 pavadinti 0 002 @ 00026843 v 0000 ~ 00003087 v 0000 01 + 00 00 |    
+00003358 00 v 02 užpildyti 0 pripildyti 0 002 ~ 00012100 v 0000 > 00023321 v 0000 01 + 00 00 |    
+00003458 00 v 02 skleisti 0 išskirti 0 003 ! 00037960 v 0000 ~ 00007207 v 0000 ~ 00019742 v 0000 01 + 00 00 |    
+00003573 00 v 01 šviesti 0 000 01 + 00 00 |    
+00003622 00 v 03 vykti 0 darytis 0 įvykti 0 000 01 + 00 00 |    
+00003688 00 v 01 siūlyti 0 000 01 + 00 00 |    
+00003737 00 v 02 nurodyti 0 reikšti 0 000 01 + 00 00 |    
+00003797 00 v 01 šokti 0 002 @ 00012169 v 0000 ;c 00312967 n 0000 01 + 00 00 |    
+00003881 00 v 01 ieškoti 0 000 01 + 00 00 |    
+00003930 00 v 01 sutikti 0 000 01 + 00 00 |    
+00003978 00 v 02 nuspręsti 0 apsispręsti 0 000 01 + 00 00 |    
+00004044 00 v 01 nujausti 0 000 01 + 00 00 |    
+00004093 00 v 01 sužinoti 0 000 01 + 00 00 |    
+00004143 00 v 02 suprakaituoti 0 prakaituoti 0 000 01 + 00 00 |    
+00004211 00 v 01 gyventi 0 001 * 00036848 v 0000 01 + 00 00 |    
+00004277 00 v 02 nusakyti 0 apibrėžti 0 000 01 + 00 00 |    
+00004340 00 v 03 praleisti 0 prašauti 0 nepataikyti 0 001 ! 00029577 v 0000 01 + 00 00 |    
+00004434 00 v 03 smaginti 0 linksminti 0 linksmintis 0 000 01 + 00 00 |    
+00004510 00 v 01 papildyti 0 000 01 + 00 00 |    
+00004560 00 v 01 kritikuoti 0 000 01 + 00 00 |    
+00004611 00 v 03 iškastruoti 0 kastruoti 0 sterilizuoti 0 000 01 + 00 00 |    
+00004691 00 v 02 vaipytis 0 daryti_grimasas 0 002 ~ 00018896 v 0000 ~ 00031984 v 0000 01 + 00 00 |    
+00004794 00 v 05 svarstyti 0 galvoti 0 apmąstyti 0 mąstyti 0 samprotauti 0 002 ~ 00021501 v 0000 ~ 00000462 v 0000 01 + 00 00 |    
+00004928 00 v 02 gultis 0 eiti_miegoti 0 001 ~ 00036777 v 0000 01 + 00 00 |    
+00005008 00 v 01 pasiekti 0 001 * 00036416 v 0000 01 + 00 00 |    
+00005075 00 v 04 prispirti 0 versti 0 priversti 0 spausti 0 001 > 00000903 v 0000 01 + 00 00 |    
+00005174 00 v 02 atrasti 0 aptikti 0 000 01 + 00 00 |    
+00005232 00 v 01 dirbti 0 000 01 + 00 00 |    
+00005279 00 v 02 tvirtinti 0 teigti 0 000 01 + 00 00 |    
+00005338 00 v 02 sutikti 0 susitikti 0 000 01 + 00 00 |    
+00005398 00 v 02 valdyti 0 turėti 0 000 01 + 00 00 |    
+00005456 00 v 01 klestėti 0 000 01 + 00 00 |    
+00005506 00 v 01 atsišakoti 0 000 01 + 00 00 |    
+00005558 00 v 03 pranešti 0 sužinoti 0 informuoti 0 003 ~ 00035307 v 0000 ~ 00033592 v 0000 ~ 00027193 v 0000 01 + 00 00 |    
+00005687 00 v 02 išgražinti 0 išpuošti 0 000 01 + 00 00 |    
+00005753 00 v 05 nulemti 0 lemti 0 sąlygoti 0 sukelti 0 kelti 0 000 01 + 00 00 |    
+00005839 00 v 04 užmokėti 0 apmokėti 0 mokėti 0 sumokėti 0 002 @ 00006986 v 0000 ~ 00011589 v 0000 01 + 00 00 |    
+00005960 00 v 02 žavėtis 0 gėrėtis 0 000 01 + 00 00 |    
+00006022 00 v 01 įkvėpti 0 003 @ 00030610 v 0000 ~ 00020321 v 0000 ~ 00013585 v 0000 01 + 00 00 |    
+00006126 00 v 01 teisėjauti 0 001 ;c 00347529 n 0000 01 + 00 00 |    
+00006197 00 v 03 eksponuoti 0 demonstruoti 0 rodyti 0 000 01 + 00 00 |    
+00006272 00 v 04 vaikštinėti 0 vaikščioti 0 pereiti 0 praeiti 0 001 @ 00024016 v 0000 01 + 00 00 |    
+00006379 00 v 01 išskirti 0 000 01 + 00 00 |    
+00006429 00 v 02 skaudėti 0 kentėti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00006508 00 v 04 įvykdyti 0 realizuoti 0 atlikti 0 vykdyti 0 001 @ 00031393 v 0000 01 + 00 00 |    
+00006609 00 v 02 sveikti 0 gyti 0 000 01 + 00 00 |    
+00006664 00 v 02 siųsti 0 perduoti 0 001 @ 00008488 v 0000 01 + 00 00 |    
+00006741 00 v 02 įgyti 0 gauti 0 000 01 + 00 00 |    
+00006796 00 v 01 šlapintis 0 000 01 + 00 00 |    
+00006847 00 v 02 pasibaigti 0 baigtis 0 000 01 + 00 00 |    
+00006908 00 v 02 drebėti 0 purtytis 0 001 @ 00016009 v 0000 01 + 00 00 |    
+00006986 00 v 01 duoti 0 005 ! 00034891 v 0000 ~ 00009630 v 0000 ~ 00016907 v 0000 ~ 00005839 v 0000 > 00002294 v 0000 01 + 00 00 |    
+00007122 00 v 02 priminti 0 būti_panašiam 0 001 ~ 00007540 v 0000 01 + 00 00 |    
+00007207 00 v 02 žaižaruoti 0 kibirkščiuoti 0 001 @ 00003458 v 0000 01 + 00 00 |    
+00007296 00 v 01 susidurti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00007364 00 v 02 atskirti 0 padalinti 0 000 01 + 00 00 |    
+00007425 00 v 01 apriboti 0 001 @ 00019519 v 0000 01 + 00 00 |    
+00007492 00 v 01 mylėti 0 000 01 + 00 00 |    
+00007540 00 v 02 būti_panašiam 0 atrodyti 0 001 @ 00007122 v 0000 01 + 00 00 |    
+00007625 00 v 01 būti_skolingam 0 000 01 + 00 00 |    
+00007681 00 v 03 manyti 0 galvoti 0 mąstyti 0 000 01 + 00 00 |    
+00007749 00 v 01 dusti 0 001 @ 00030610 v 0000 01 + 00 00 |    
+00007813 00 v 02 sekti 0 eiti_paskui 0 001 @ 00036416 v 0000 01 + 00 00 |    
+00007891 00 v 01 ilgai_miegoti 0 001 @ 00012999 v 0000 01 + 00 00 |    
+00007963 00 v 02 apalpti 0 nualpti 0 000 01 + 00 00 |    
+00008021 00 v 01 tręšti 0 001 ;c 00196682 n 0000 01 + 00 00 |    
+00008089 00 v 02 verkti 0 ašaroti 0 002 ! 00023616 v 0000 ~ 00022314 v 0000 01 + 00 00 |    
+00008183 00 v 02 sietis 0 jungtis 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00008258 00 v 02 išvykti 0 nueiti 0 001 @ 00017139 v 0000 01 + 00 00 |    
+00008334 00 v 01 pleiskanoti 0 001 @ 00020839 v 0000 01 + 00 00 |    
+00008404 00 v 01 knarkti 0 002 @ 00030610 v 0000 * 00012999 v 0000 01 + 00 00 |    
+00008488 00 v 02 pervesti 0 perkelti 0 003 ~ 00001588 v 0000 ~ 00006664 v 0000 ~ 00017862 v 0000 01 + 00 00 |    
+00008602 00 v 02 perduoti_linkėjimus 0 pasveikinti 0 001 @ 00034148 v 0000 01 + 00 00 |    
+00008695 00 v 01 peržengti 0 001 @ 00011746 v 0000 01 + 00 00 |    
+00008764 00 v 02 pavyti 0 pasivyti 0 000 01 + 00 00 |    
+00008822 00 v 01 saugoti 0 001 @ 00037077 v 0000 01 + 00 00 |    
+00008888 00 v 01 nustatyti_vietą 0 001 @ 00029402 v 0000 01 + 00 00 |    
+00008963 00 v 02 degti 0 sudegti 0 001 ~ 00022017 v 0000 01 + 00 00 |    
+00009037 00 v 01 tepti_pomada 0 000 01 + 00 00 |    
+00009090 00 v 01 čiaudėti 0 001 @ 00037376 v 0000 01 + 00 00 |    
+00009159 00 v 01 būti 0 011 ~ 00036195 v 0000 ~ 00017315 v 0000 ~ 00024459 v 0000 ~ 00028530 v 0000 ~ 00006429 v 0000 ~ 00022171 v 0000 ~ 00013374 v 0000 ~ 00024789 v 0000 ~ 00008183 v 0000 ~ 00007296 v 0000 ~ 00017249 v 0000 01 + 00 00 |    
+00009403 00 v 02 patvirtinti 0 pagrįsti 0 000 01 + 00 00 |    
+00009467 00 v 05 pasakoti 0 kalbėti 0 šnekėti 0 pasikalbėti 0 kalbėtis 0 000 01 + 00 00 |    
+00009566 00 v 01 gerti 0 001 ~ 00021365 v 0000 01 + 00 00 |    
+00009630 00 v 03 aprūpinti 0 parūpinti 0 tiekti 0 002 @ 00006986 v 0000 ~ 00038389 v 0000 01 + 00 00 |    
+00009739 00 v 02 bendrauti 0 susidėti 0 000 01 + 00 00 |    
+00009801 00 v 01 eiti_į_kompromisą 0 001 * 00014387 v 0000 01 + 00 00 |    
+00009879 00 v 03 nepavykti 0 žlugti 0 nepasisekti 0 001 ! 00022508 v 0000 01 + 00 00 |    
+00009971 00 v 01 kilti 0 000 01 + 00 00 |    
+00010017 00 v 02 pasimatuoti 0 pamatuoti 0 000 01 + 00 00 |    
+00010081 00 v 02 nužudyti 0 užmušti 0 001 > 00028670 v 0000 01 + 00 00 |    
+00010161 00 v 01 atsiminti 0 000 01 + 00 00 |    
+00010211 00 v 02 apimti 0 įtraukti 0 001 @ 00030804 v 0000 01 + 00 00 |    
+00010288 00 v 01 įtraukti 0 000 01 + 00 00 |    
+00010338 00 v 03 aprašyti 0 nupasakoti 0 apibūdinti 0 000 01 + 00 00 |    
+00010415 00 v 01 joti 0 001 @ 00036416 v 0000 01 + 00 00 |    
+00010478 00 v 02 įkvėpti 0 šniaukti 0 000 01 + 00 00 |    
+00010540 00 v 03 palaikyti 0 remti 0 paremti 0 001 ~ 00002698 v 0000 01 + 00 00 |    
+00010626 00 v 02 užmiršti 0 pamiršti 0 000 01 + 00 00 |    
+00010689 00 v 02 sužadinti 0 stimuliuoti 0 003 ! 00018566 v 0000 @ 00016337 v 0000 ~ 00003155 v 0000 01 + 00 00 |    
+00010808 00 v 02 užtekti 0 pakakti 0 000 01 + 00 00 |    
+00010867 00 v 01 apmalšinti 0 000 01 + 00 00 |    
+00010919 00 v 02 apsukti 0 pasukti 0 000 01 + 00 00 |    
+00010977 00 v 04 naudoti 0 panaudoti 0 pavartoti 0 vartoti 0 000 01 + 00 00 |    
+00011059 00 v 02 nemėgti 0 nepatikti 0 001 ! 00031858 v 0000 01 + 00 00 |    
+00011138 00 v 02 praleisti 0 leisti 0 000 01 + 00 00 |    
+00011197 00 v 02 snausti 0 nusnūsti 0 002 @ 00012999 v 0000 ~ 00028023 v 0000 01 + 00 00 |    
+00011293 00 v 02 slėptis 0 pasislėpti 0 000 01 + 00 00 |    
+00011356 00 v 02 užpūsti 0 užgesinti 0 000 01 + 00 00 |    
+00011419 00 v 01 atsisveikinti 0 000 01 + 00 00 |    
+00011473 00 v 01 persišaldyti 0 000 01 + 00 00 |    
+00011527 00 v 02 funkcionuoti 0 veikti 0 000 01 + 00 00 |    
+00011589 00 v 02 išleisti 0 sunaudoti 0 002 @ 00005839 v 0000 ~ 00032058 v 0000 01 + 00 00 |    
+00011687 00 v 02 nešioti 0 laikyti 0 000 01 + 00 00 |    
+00011746 00 v 03 prabėgti 0 pravažiuoti 0 praeiti 0 002 @ 00036416 v 0000 ~ 00008695 v 0000 01 + 00 00 |    
+00011857 00 v 02 nutilti 0 užsičiaupti 0 000 01 + 00 00 |    
+00011921 00 v 03 išvažiuoti 0 išvykti 0 išeiti 0 002 ! 00017638 v 0000 ~ 00020932 v 0000 01 + 00 00 |    
+00012031 00 v 01 pažymėti 0 001 @ 00025448 v 0000 01 + 00 00 |    
+00012100 00 v 01 pripildyti 0 001 @ 00003358 v 0000 01 + 00 00 |    
+00012169 00 v 02 pajudėti 0 perkelti 0 006 ~ 00017139 v 0000 ~ 00003797 v 0000 ~ 00016725 v 0000 ~ 00013723 v 0000 ~ 00012538 v 0000 ~ 00016009 v 0000 01 + 00 00 |    
+00012338 00 v 01 sulaikyti 0 000 01 + 00 00 |    
+00012388 00 v 04 pasmaugti 0 dusinti 0 smaugti 0 uždusinti 0 001 > 00007749 v 0000 01 + 00 00 |    
+00012489 00 v 01 pridėti 0 000 01 + 00 00 |    
+00012538 00 v 03 pulsuoti 0 mušti 0 plakti 0 001 @ 00012169 v 0000 01 + 00 00 |    
+00012623 00 v 02 sudaryti 0 būti 0 001 ~ 00037010 v 0000 01 + 00 00 |    
+00012698 00 v 04 užsirašyti 0 pažymėti 0 pasižymėti 0 parašyti 0 001 @ 00038824 v 0000 01 + 00 00 |    
+00012809 00 v 02 pasiduoti 0 kapituliuoti 0 000 01 + 00 00 |    
+00012874 00 v 02 kurti 0 sukurti 0 000 01 + 00 00 |    
+00012930 00 v 03 diegti 0 sopėti 0 skaudėti 0 000 01 + 00 00 |    
+00012999 00 v 01 miegoti 0 005 ! 00038728 v 0000 @ 00029760 v 0000 ~ 00011197 v 0000 ~ 00001896 v 0000 ~ 00007891 v 0000 01 + 00 00 |    
+00013137 00 v 03 sudalyvauti 0 lankyti 0 dalyvauti 0 001 @ 00037595 v 0000 01 + 00 00 |    
+00013229 00 v 02 rodyti_pagarbą 0 gerbti 0 001 @ 00032944 v 0000 01 + 00 00 |    
+00013312 00 v 02 susidoroti 0 spręsti 0 000 01 + 00 00 |    
+00013374 00 v 01 valyti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00013439 00 v 01 apkaltinti 0 001 @ 00015619 v 0000 01 + 00 00 |    
+00013508 00 v 01 raitytis_iš_juoko 0 001 @ 00023616 v 0000 01 + 00 00 |    
+00013585 00 v 02 išsiurbti 0 ištraukti 0 001 @ 00006022 v 0000 01 + 00 00 |    
+00013667 00 v 02 kovoti 0 kautis 0 000 01 + 00 00 |    
+00013723 00 v 02 apsisukti 0 nusigręžti 0 001 @ 00012169 v 0000 01 + 00 00 |    
+00013806 00 v 01 maudytis 0 001 @ 00002611 v 0000 01 + 00 00 |    
+00013873 00 v 05 patvirtinti 0 reikšti 0 įrodyti 0 rodyti 0 liudyti 0 000 01 + 00 00 |    
+00013966 00 v 02 skubėti 0 paskubėti 0 001 @ 00000903 v 0000 01 + 00 00 |    
+00014046 00 v 03 drausti 0 uždrausti 0 neleisti 0 000 01 + 00 00 |    
+00014118 00 v 02 grasinti 0 gąsdinti 0 000 01 + 00 00 |    
+00014179 00 v 02 padėkoti 0 dėkoti 0 000 01 + 00 00 |    
+00014239 00 v 01 palikti 0 002 @ 00014834 v 0000 ~ 00028813 v 0000 01 + 00 00 |    
+00014323 00 v 01 gimti 0 001 ! 00028670 v 0000 01 + 00 00 |    
+00014387 00 v 02 sutikti 0 susitarti 0 002 ! 00025684 v 0000 ~ 00034513 v 0000 01 + 00 00 |    
+00014483 00 v 02 plauti 0 išplauti 0 001 @ 00035230 v 0000 01 + 00 00 |    
+00014560 00 v 04 prisiartinti 0 artėti 0 artintis 0 priartėti 0 001 * 00032274 v 0000 01 + 00 00 |    
+00014665 00 v 01 žaisti 0 001 @ 00016505 v 0000 01 + 00 00 |    
+00014731 00 v 04 atsiverti 0 atsidaryti 0 atidaryti 0 atverti 0 001 > 00018406 v 0000 01 + 00 00 |    
+00014834 00 v 02 susilaikyti 0 susiturėti 0 003 ! 00000903 v 0000 ~ 00033245 v 0000 ~ 00014239 v 0000 01 + 00 00 |    
+00014954 00 v 06 numalšinti 0 maldyti 0 malšinti 0 raminti 0 numaldyti 0 nuraminti 0 000 01 + 00 00 |    
+00015062 00 v 01 sapnuoti 0 001 * 00012999 v 0000 01 + 00 00 |    
+00015129 00 v 02 sustiprinti 0 sutvirtinti 0 000 01 + 00 00 |    
+00015195 00 v 03 pavirsti 0 pasikeisti 0 persimainyti 0 000 01 + 00 00 |    
+00015272 00 v 01 rekomenduoti 0 000 01 + 00 00 |    
+00015325 00 v 01 pakeisti 0 000 01 + 00 00 |    
+00015374 00 v 01 komentuoti 0 000 01 + 00 00 |    
+00015425 00 v 04 ardyti 0 sugriauti 0 sunaikinti 0 naikinti 0 000 01 + 00 00 |    
+00015508 00 v 01 laikyti 0 000 01 + 00 00 |    
+00015556 00 v 02 atsisėsti 0 pasodinti 0 000 01 + 00 00 |    
+00015619 00 v 01 apkaltinti 0 001 ~ 00013439 v 0000 01 + 00 00 |    
+00015688 00 v 03 pageidauti 0 trokšti 0 norėti 0 003 ~ 00018309 v 0000 ~ 00018469 v 0000 ~ 00033129 v 0000 01 + 00 00 |    
+00015814 00 v 01 atšviežinti 0 000 01 + 00 00 |    
+00015868 00 v 02 susidurti 0 susitikti 0 000 01 + 00 00 |    
+00015930 00 v 02 atsidusti 0 dūsauti 0 001 @ 00030610 v 0000 01 + 00 00 |    
+00016009 00 v 01 sujudėti 0 004 @ 00012169 v 0000 ~ 00033763 v 0000 ~ 00006908 v 0000 ~ 00033904 v 0000 01 + 00 00 |    
+00016131 00 v 02 stebėti 0 žiūrėti 0 001 ~ 00025909 v 0000 01 + 00 00 |    
+00016211 00 v 02 bijoti 0 baimintis 0 000 01 + 00 00 |    
+00016270 00 v 02 sudaryti_sąlygas 0 leisti 0 000 01 + 00 00 |    
+00016337 00 v 02 veikti 0 paveikti 0 003 ~ 00010689 v 0000 ~ 00035468 v 0000 ~ 00018566 v 0000 01 + 00 00 |    
+00016449 00 v 02 kristi 0 smukti 0 000 01 + 00 00 |    
+00016505 00 v 01 elgtis 0 006 ~ 00039123 v 0000 ~ 00014665 v 0000 ~ 00026924 v 0000 ~ 00032712 v 0000 ~ 00022691 v 0000 ~ 00037376 v 0000 01 + 00 00 |    
+00016660 00 v 01 lietis 0 001 @ 00036848 v 0000 01 + 00 00 |    
+00016725 00 v 02 sklisti 0 plisti 0 001 @ 00012169 v 0000 01 + 00 00 |    
+00016800 00 v 01 skųstis 0 000 01 + 00 00 |    
+00016849 00 v 02 tikėtis 0 laukti 0 000 01 + 00 00 |    
+00016907 00 v 02 išsiversti 0 apsieiti 0 001 @ 00006986 v 0000 01 + 00 00 |    
+00016988 00 v 02 rūpintis 0 pasirūpinti 0 001 @ 00033677 v 0000 01 + 00 00 |    
+00017071 00 v 01 glūdėti 0 001 @ 00036848 v 0000 01 + 00 00 |    
+00017139 00 v 03 išvažiuoti 0 išvykti 0 išeiti 0 002 @ 00012169 v 0000 ~ 00008258 v 0000 01 + 00 00 |    
+00017249 00 v 01 jaustis 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00017315 00 v 02 būti_sustingusiam 0 sustingti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00017404 00 v 02 atsiliepti 0 reaguoti 0 002 @ 00000903 v 0000 ~ 00031778 v 0000 01 + 00 00 |    
+00017502 00 v 01 įsivaizduoti 0 001 ~ 00039487 v 0000 01 + 00 00 |    
+00017574 00 v 02 išlaikyti 0 išsaugoti 0 000 01 + 00 00 |    
+00017638 00 v 04 atvykti 0 ateiti 0 pasiekti 0 atvažiuoti 0 002 ! 00011921 v 0000 ~ 00028414 v 0000 01 + 00 00 |    
+00017756 00 v 03 nuvežti 0 nunešti 0 nuvesti 0 002 ! 00022911 v 0000 * 00011921 v 0000 01 + 00 00 |    
+00017862 00 v 01 atsiųsti 0 001 @ 00008488 v 0000 01 + 00 00 |    
+00017930 00 v 02 keltis 0 kilti 0 001 @ 00036416 v 0000 01 + 00 00 |    
+00018003 00 v 03 svarstyti 0 diskutuoti 0 aptarti 0 000 01 + 00 00 |    
+00018076 00 v 01 lydėti 0 001 * 00033081 v 0000 01 + 00 00 |    
+00018142 00 v 01 pateikti 0 003 @ 00019039 v 0000 ~ 00033517 v 0000 ~ 00025377 v 0000 01 + 00 00 |    
+00018245 00 v 01 rasti 0 001 ! 00033315 v 0000 01 + 00 00 |    
+00018309 00 v 02 pageidauti 0 norėti 0 002 @ 00015688 v 0000 ~ 00033381 v 0000 01 + 00 00 |    
+00018406 00 v 02 atsiverti 0 atsidaryti 0 000 01 + 00 00 |    
+00018469 00 v 02 pasigesti 0 ilgėtis 0 002 @ 00015688 v 0000 * 00037842 v 0000 01 + 00 00 |    
+00018566 00 v 02 raminti 0 nuraminti 0 002 ! 00010689 v 0000 @ 00016337 v 0000 01 + 00 00 |    
+00018662 00 v 02 audroti 0 šėlti 0 000 01 + 00 00 |    
+00018720 00 v 01 žagsėti 0 001 @ 00030610 v 0000 01 + 00 00 |    
+00018788 00 v 01 studijuoti 0 000 01 + 00 00 |    
+00018839 00 v 02 manyti 0 galvoti 0 000 01 + 00 00 |    
+00018896 00 v 02 susukti 0 suraukti 0 001 @ 00004691 v 0000 01 + 00 00 |    
+00018973 00 v 03 tartis 0 derėtis 0 lygti 0 000 01 + 00 00 |    
+00019039 00 v 02 sakyti 0 pasakyti 0 002 ~ 00033987 v 0000 ~ 00018142 v 0000 01 + 00 00 |    
+00019133 00 v 02 įkainoti 0 įvertinti 0 000 01 + 00 00 |    
+00019196 00 v 01 apsišlapinti 0 000 01 + 00 00 |    
+00019250 00 v 01 apibrėžti 0 000 01 + 00 00 |    
+00019302 00 v 02 išdėstyti 0 išdėlioti 0 000 01 + 00 00 |    
+00019368 00 v 01 dovanoti 0 000 01 + 00 00 |    
+00019417 00 v 04 keistis 0 kaitalioti 0 keisti 0 kaitaliotis 0 001 @ 00000903 v 0000 01 + 00 00 |    
+00019519 00 v 01 valdyti 0 001 ~ 00007425 v 0000 01 + 00 00 |    
+00019585 00 v 02 išleisti_garsą 0 triukšmauti 0 000 01 + 00 00 |    
+00019657 00 v 01 stovėti 0 002 ! 00027291 v 0000 ! 00036093 v 0000 01 + 00 00 |    
+00019742 00 v 01 blizgėti 0 001 @ 00003458 v 0000 01 + 00 00 |    
+00019810 00 v 02 atsiminti 0 prisiminti 0 000 01 + 00 00 |    
+00019873 00 v 01 gūžtelėti_pečiais 0 000 01 + 00 00 |    
+00019935 00 v 02 permerkti 0 užlieti 0 000 01 + 00 00 |    
+00019996 00 v 02 negulti 0 neiti_miegoti 0 001 @ 00038728 v 0000 01 + 00 00 |    
+00020078 00 v 01 uždirbti 0 000 01 + 00 00 |    
+00020128 00 v 02 atskleisti 0 atidengti 0 000 01 + 00 00 |    
+00020191 00 v 03 nusitaikyti 0 nutaikyti 0 taikyti 0 000 01 + 00 00 |    
+00020265 00 v 01 bendradarbiauti 0 000 01 + 00 00 |    
+00020321 00 v 01 šnirpšti 0 001 @ 00006022 v 0000 01 + 00 00 |    
+00020390 00 v 02 dalytis 0 dalintis 0 001 @ 00000903 v 0000 01 + 00 00 |    
+00020467 00 v 02 išsekti 0 išdžiūti 0 000 01 + 00 00 |    
+00020530 00 v 03 įvykdyti 0 atlikti 0 pasiekti 0 001 @ 00022508 v 0000 01 + 00 00 |    
+00020619 00 v 02 išversti 0 versti 0 001 @ 00024721 v 0000 01 + 00 00 |    
+00020696 00 v 02 nešti 0 pakelti 0 001 * 00012169 v 0000 01 + 00 00 |    
+00020771 00 v 03 atakuoti 0 pulti 0 užpulti 0 000 01 + 00 00 |    
+00020839 00 v 03 nertis 0 šertis 0 mesti_plunksnas 0 001 ~ 00008334 v 0000 01 + 00 00 |    
+00020932 00 v 02 staiga_išeiti 0 pradingti 0 001 @ 00011921 v 0000 01 + 00 00 |    
+00021017 00 v 02 nukelti 0 atidėti 0 001 * 00038526 v 0000 01 + 00 00 |    
+00021094 00 v 03 svarstyti 0 diskutuoti 0 ginčytis 0 000 01 + 00 00 |    
+00021169 00 v 02 suplanuoti 0 numatyti 0 001 @ 00000462 v 0000 01 + 00 00 |    
+00021249 00 v 02 sutapti 0 įvykti_kartu 0 000 01 + 00 00 |    
+00021313 00 v 01 anestezuoti 0 000 01 + 00 00 |    
+00021365 00 v 02 žįsti 0 čiulpti 0 001 @ 00009566 v 0000 01 + 00 00 |    
+00021442 00 v 02 įkišti 0 įdėti 0 000 01 + 00 00 |    
+00021501 00 v 03 galvoti 0 mąstyti 0 sugalvoti 0 001 @ 00004794 v 0000 01 + 00 00 |    
+00021590 00 v 02 raugėti 0 atsirūgti 0 000 01 + 00 00 |    
+00021652 00 v 01 kastruoti 0 000 01 + 00 00 |    
+00021702 00 v 01 dirginti 0 000 01 + 00 00 |    
+00021751 00 v 03 justi 0 pajusti 0 jausti 0 000 01 + 00 00 |    
+00021816 00 v 02 pervargti 0 pervarginti 0 000 01 + 00 00 |    
+00021880 00 v 03 sušalti 0 užšalti 0 suledėti 0 000 01 + 00 00 |    
+00021953 00 v 02 atvėsti 0 atsigaivinti 0 000 01 + 00 00 |    
+00022017 00 v 02 pliskėti 0 žibėti 0 001 @ 00008963 v 0000 01 + 00 00 |    
+00022096 00 v 03 sukonstruoti 0 pastatyti 0 statyti 0 000 01 + 00 00 |    
+00022171 00 v 01 tupėti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00022237 00 v 02 mėginti 0 bandyti 0 001 @ 00000903 v 0000 01 + 00 00 |    
+00022314 00 v 01 šaukti 0 001 @ 00008089 v 0000 01 + 00 00 |    
+00022380 00 v 03 subręsti 0 suaugti 0 užaugti 0 000 01 + 00 00 |    
+00022451 00 v 02 trukti 0 tęstis 0 000 01 + 00 00 |    
+00022508 00 v 02 pavykti 0 pasisekti 0 004 ! 00009879 v 0000 ~ 00032540 v 0000 ~ 00020530 v 0000 * 00022237 v 0000 01 + 00 00 |    
+00022640 00 v 01 susijungti 0 000 01 + 00 00 |    
+00022691 00 v 01 grasinti 0 001 @ 00016505 v 0000 01 + 00 00 |    
+00022758 00 v 03 griūti 0 kristi 0 virsti 0 000 01 + 00 00 |    
+00022824 00 v 01 džiaugtis 0 002 @ 00025528 v 0000 ~ 00035991 v 0000 01 + 00 00 |    
+00022911 00 v 02 atnešti 0 atgabenti 0 002 ! 00017756 v 0000 ~ 00038647 v 0000 01 + 00 00 |    
+00023008 00 v 02 prižiūrėti 0 vadovauti 0 000 01 + 00 00 |    
+00023074 00 v 02 pasiduoti 0 nusileisti 0 000 01 + 00 00 |    
+00023137 00 v 01 dezinfekuoti 0 000 01 + 00 00 |    
+00023190 00 v 02 trukti 0 tęstis 0 000 01 + 00 00 |    
+00023247 00 v 02 klaidingai_aiškinti 0 nesuprasti 0 000 01 + 00 00 |    
+00023321 00 v 02 prisipildyti 0 užsipildyti 0 000 01 + 00 00 |    
+00023389 00 v 01 vėl_pabudinti 0 001 @ 00026297 v 0000 01 + 00 00 |    
+00023462 00 v 03 atskleisti 0 įrodyti 0 demonstruoti 0 001 ~ 00029674 v 0000 01 + 00 00 |    
+00023557 00 v 02 susidurti 0 sueiti 0 000 01 + 00 00 |    
+00023616 00 v 02 juoktis 0 nusijuokti 0 005 ! 00008089 v 0000 ~ 00001276 v 0000 ~ 00030235 v 0000 ~ 00025037 v 0000 ~ 00013508 v 0000 01 + 00 00 |    
+00023767 00 v 01 klausyti 0 001 * 00033196 v 0000 01 + 00 00 |    
+00023834 00 v 03 įvykdyti 0 realizuoti 0 įgyvendinti 0 000 01 + 00 00 |    
+00023912 00 v 01 parduoti 0 003 ! 00028972 v 0000 ;c 00367783 n 0000 * 00006986 v 0000 01 + 00 00 |    
+00024016 00 v 03 vaikščioti 0 eiti 0 žingsniuoti 0 003 @ 00036416 v 0000 ~ 00030321 v 0000 ~ 00006272 v 0000 01 + 00 00 |    
+00024145 00 v 02 mirkčioti 0 mirksėti 0 001 @ 00030389 v 0000 01 + 00 00 |    
+00024226 00 v 02 pakviesti 0 kviesti 0 000 01 + 00 00 |    
+00024286 00 v 02 reprezentuoti 0 atstovauti 0 000 01 + 00 00 |    
+00024353 00 v 02 dalinti 0 dalyti 0 000 01 + 00 00 |    
+00024410 00 v 01 nuteisti 0 000 01 + 00 00 |    
+00024459 00 v 01 būti_parduodamam 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00024535 00 v 02 charakterizuoti 0 apibūdinti 0 000 01 + 00 00 |    
+00024605 00 v 02 perskaityti 0 skaityti 0 000 01 + 00 00 |    
+00024668 00 v 01 apgyvendinti 0 000 01 + 00 00 |    
+00024721 00 v 01 pakartoti 0 001 ~ 00020619 v 0000 01 + 00 00 |    
+00024789 00 v 01 būti_neatidėliotinam 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00024870 00 v 02 sviesti 0 mesti 0 000 01 + 00 00 |    
+00024926 00 v 01 pasiūlyti 0 000 01 + 00 00 |    
+00024977 00 v 02 iškęsti 0 patirti 0 000 01 + 00 00 |    
+00025037 00 v 02 kvatotis 0 kvatoti 0 001 @ 00023616 v 0000 01 + 00 00 |    
+00025114 00 v 01 susiraukti 0 000 01 + 00 00 |    
+00025165 00 v 03 bjaurėtis 0 neapkęsti 0 šlykštėtis 0 000 01 + 00 00 |    
+00025245 00 v 02 pasižiūrėti 0 pažiūrėti 0 000 01 + 00 00 |    
+00025315 00 v 02 užimti 0 kolonizuoti 0 000 01 + 00 00 |    
+00025377 00 v 01 argumentuoti 0 001 @ 00018142 v 0000 01 + 00 00 |    
+00025448 00 v 02 žymėti 0 pažymėti 0 001 ~ 00012031 v 0000 01 + 00 00 |    
+00025528 00 v 02 jaustis 0 jausti 0 002 ~ 00037842 v 0000 ~ 00022824 v 0000 01 + 00 00 |    
+00025621 00 v 02 spręsti 0 išspręsti 0 000 01 + 00 00 |    
+00025684 00 v 02 nesutarti 0 nesutikti 0 001 ! 00014387 v 0000 01 + 00 00 |    
+00025764 00 v 04 griebti 0 stverti 0 čiupti 0 gaudyti 0 000 01 + 00 00 |    
+00025842 00 v 01 priminti 0 001 > 00019810 v 0000 01 + 00 00 |    
+00025909 00 v 02 stebėti 0 sekti 0 001 @ 00016131 v 0000 01 + 00 00 |    
+00025984 00 v 02 įveikti 0 nugalėti 0 000 01 + 00 00 |    
+00026045 00 v 02 sumušti 0 mušti 0 000 01 + 00 00 |    
+00026103 00 v 01 priklausyti 0 000 01 + 00 00 |    
+00026155 00 v 01 atminti 0 001 @ 00034148 v 0000 01 + 00 00 |    
+00026221 00 v 03 atkurti 0 atnaujinti 0 atsinaujinti 0 000 01 + 00 00 |    
+00026297 00 v 06 pažadinti 0 pabudinti 0 žadinti 0 budinti 0 kelti 0 vėl_pabusti 0 001 ~ 00023389 v 0000 01 + 00 00 |    
+00026422 00 v 02 žaisti 0 sužaisti 0 000 01 + 00 00 |    
+00026482 00 v 02 įduoti 0 perduoti 0 001 @ 00002880 v 0000 01 + 00 00 |    
+00026559 00 v 02 skristi 0 skraidyti 0 001 @ 00036416 v 0000 01 + 00 00 |    
+00026637 00 v 02 įsiklausyti 0 paklausyti 0 000 01 + 00 00 |    
+00026703 00 v 02 prašyti 0 paprašyti 0 001 @ 00002029 v 0000 01 + 00 00 |    
+00026783 00 v 02 paslėpti 0 slėpti 0 000 01 + 00 00 |    
+00026843 00 v 02 pažymėti 0 priskirti 0 001 ~ 00003272 v 0000 01 + 00 00 |    
+00026924 00 v 01 vaidinti 0 001 @ 00016505 v 0000 01 + 00 00 |    
+00026991 00 v 02 atleisti 0 paleisti 0 001 ! 00031557 v 0000 01 + 00 00 |    
+00027069 00 v 02 treniruoti 0 mankštinti 0 000 01 + 00 00 |    
+00027134 00 v 02 kankinti 0 kamuoti 0 000 01 + 00 00 |    
+00027193 00 v 02 paskelbti 0 pranešti 0 002 @ 00005558 v 0000 ~ 00034067 v 0000 01 + 00 00 |    
+00027291 00 v 01 sėdėti 0 003 ! 00019657 v 0000 ! 00036093 v 0000 * 00015556 v 0000 01 + 00 00 |    
+00027394 00 v 03 priblokšti 0 papiktinti 0 šokiruoti 0 000 01 + 00 00 |    
+00027472 00 v 01 pralaimėti 0 000 01 + 00 00 |    
+00027524 00 v 02 nepasitikėti 0 įtarti 0 000 01 + 00 00 |    
+00027588 00 v 03 tuoktis 0 tekėti 0 vesti 0 000 01 + 00 00 |    
+00027654 00 v 03 pastatyti 0 dėti 0 padėti 0 001 ~ 00035776 v 0000 01 + 00 00 |    
+00027740 00 v 02 suvokti 0 suprasti 0 000 01 + 00 00 |    
+00027799 00 v 04 užrašyti 0 užsirašyti 0 pažymėti 0 pasižymėti 0 001 @ 00038824 v 0000 01 + 00 00 |    
+00027911 00 v 02 dūsuoti 0 šnopuoti 0 000 01 + 00 00 |    
+00027972 00 v 01 įvertinti 0 000 01 + 00 00 |    
+00028023 00 v 02 snausti 0 snūduriuoti 0 001 @ 00011197 v 0000 01 + 00 00 |    
+00028104 00 v 01 perkelti 0 000 01 + 00 00 |    
+00028153 00 v 01 valgyti 0 000 01 + 00 00 |    
+00028201 00 v 03 užvesti 0 įjungti 0 paleisti 0 000 01 + 00 00 |    
+00028272 00 v 05 reikštis 0 parodyti 0 rodytis 0 pasirodyti 0 rodyti 0 000 01 + 00 00 |    
+00028365 00 v 01 keliauti 0 000 01 + 00 00 |    
+00028414 00 v 01 pasiekti 0 001 @ 00017638 v 0000 01 + 00 00 |    
+00028481 00 v 01 patempti 0 000 01 + 00 00 |    
+00028530 00 v 02 siautėti 0 šėlti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00028608 00 v 02 spoksoti 0 stebeilyti 0 000 01 + 00 00 |    
+00028670 00 v 04 kristi 0 nugaišti 0 numirti 0 mirti 0 001 ! 00014323 v 0000 01 + 00 00 |    
+00028765 00 v 01 atrasti 0 000 01 + 00 00 |    
+00028813 00 v 01 palikti 0 001 @ 00014239 v 0000 01 + 00 00 |    
+00028879 00 v 03 koncentruoti 0 telkti 0 susitelkti 0 001 @ 00003013 v 0000 01 + 00 00 |    
+00028972 00 v 01 pirkti 0 003 ! 00023912 v 0000 ;c 00367783 n 0000 * 00005839 v 0000 01 + 00 00 |    
+00029074 00 v 01 kelti_pasibjaurėjimą 0 000 01 + 00 00 |    
+00029137 00 v 01 pramiegoti 0 001 * 00012999 v 0000 01 + 00 00 |    
+00029206 00 v 08 mainyti 0 keistis 0 mainytis 0 pertvarkyti 0 pasikeisti 0 keisti 0 persimainyti 0 pakeisti 0 000 01 + 00 00 |    
+00029337 00 v 03 tapti 0 darytis 0 rastis 0 000 01 + 00 00 |    
+00029402 00 v 02 nustatyti 0 išaiškinti 0 002 ~ 00008888 v 0000 ~ 00002795 v 0000 01 + 00 00 |    
+00029503 00 v 02 pabusti 0 busti 0 001 * 00012999 v 0000 01 + 00 00 |    
+00029577 00 v 02 susidurti 0 trenktis 0 002 ! 00004340 v 0000 @ 00031645 v 0000 01 + 00 00 |    
+00029674 00 v 01 įrodyti 0 002 @ 00023462 v 0000 ;c 00082087 n 0000 01 + 00 00 |    
+00029760 00 v 01 ilsėtis 0 002 ~ 00034442 v 0000 ~ 00012999 v 0000 01 + 00 00 |    
+00029845 00 v 04 nustumti 0 stumti 0 pastumti 0 spausti 0 002 ~ 00001413 v 0000 * 00012169 v 0000 01 + 00 00 |    
+00029960 00 v 01 cenzūruoti 0 001 @ 00035611 v 0000 01 + 00 00 |    
+00030030 00 v 02 suprasti 0 pagauti 0 000 01 + 00 00 |    
+00030089 00 v 01 palikti 0 000 01 + 00 00 |    
+00030137 00 v 04 užburti 0 sukelti_transą 0 pakerėti 0 sukelti_ekstazę 0 000 01 + 00 00 |    
+00030235 00 v 02 kvatotis 0 verkti_iš_juoko 0 001 @ 00023616 v 0000 01 + 00 00 |    
+00030321 00 v 01 žygiuoti 0 001 @ 00024016 v 0000 01 + 00 00 |    
+00030389 00 v 02 mirkčioti 0 mirksėti 0 003 @ 00037376 v 0000 ~ 00038994 v 0000 ~ 00024145 v 0000 01 + 00 00 |    
+00030506 00 v 04 plėsti 0 praplėsti 0 praplatinti 0 platinti 0 001 @ 00039369 v 0000 01 + 00 00 |    
+00030610 00 v 01 kvėpuoti 0 008 ~ 00036346 v 0000 ~ 00032876 v 0000 ~ 00015930 v 0000 ~ 00007749 v 0000 ~ 00006022 v 0000 ~ 00018720 v 0000 ~ 00008404 v 0000 * 00006022 v 0000 01 + 00 00 |    
+00030804 00 v 02 apimti 0 turėti 0 001 ~ 00010211 v 0000 01 + 00 00 |    
+00030879 00 v 04 prapulti 0 išnykti 0 dingti 0 pradingti 0 000 01 + 00 00 |    
+00030960 00 v 02 skleisti 0 platinti 0 000 01 + 00 00 |    
+00031020 00 v 02 imtis 0 pradėti 0 000 01 + 00 00 |    
+00031077 00 v 01 siūlyti 0 000 01 + 00 00 |    
+00031126 00 v 02 perdėti 0 perkelti 0 000 01 + 00 00 |    
+00031186 00 v 02 išperėti 0 perėti 0 001 * 00015556 v 0000 01 + 00 00 |    
+00031265 00 v 02 duoti_parodymus 0 liudyti 0 000 01 + 00 00 |    
+00031331 00 v 02 ištiesti 0 ištempti 0 000 01 + 00 00 |    
+00031393 00 v 03 baigti 0 užbaigti 0 pabaigti 0 001 ~ 00006508 v 0000 01 + 00 00 |    
+00031481 00 v 02 sėsti 0 laipinti 0 001 ~ 00000319 v 0000 01 + 00 00 |    
+00031557 00 v 03 palaikyti 0 turėti 0 laikyti 0 001 ! 00026991 v 0000 01 + 00 00 |    
+00031645 00 v 02 prisiliesti 0 paliesti 0 001 ~ 00029577 v 0000 01 + 00 00 |    
+00031726 00 v 01 purkštauti 0 000 01 + 00 00 |    
+00031778 00 v 02 stebėtis 0 žavėtis 0 001 @ 00017404 v 0000 01 + 00 00 |    
+00031858 00 v 02 patikti 0 mėgti 0 001 ! 00011059 v 0000 01 + 00 00 |    
+00031933 00 v 01 nustebinti 0 000 01 + 00 00 |    
+00031984 00 v 01 patempti_lūpą 0 001 @ 00004691 v 0000 01 + 00 00 |    
+00032058 00 v 01 investuoti 0 001 @ 00011589 v 0000 01 + 00 00 |    
+00032127 00 v 02 nualinti 0 išvarginti 0 001 @ 00039216 v 0000 01 + 00 00 |    
+00032208 00 v 03 tempti 0 vilkti 0 traukti 0 000 01 + 00 00 |    
+00032274 00 v 02 judėti_į_priekį 0 progresuoti 0 001 @ 00036416 v 0000 01 + 00 00 |    
+00032365 00 v 01 tvirtinti 0 000 01 + 00 00 |    
+00032415 00 v 01 ištiesti 0 000 01 + 00 00 |    
+00032465 00 v 02 kurti 0 rašyti 0 001 ;c 00392844 n 0000 01 + 00 00 |    
+00032540 00 v 01 veikti 0 001 @ 00022508 v 0000 01 + 00 00 |    
+00032605 00 v 06 parengti 0 pasirengti 0 pasiruošti 0 paruošti 0 rengti 0 ruošti 0 000 01 + 00 00 |    
+00032712 00 v 02 puikuotis 0 didžiuotis 0 001 @ 00016505 v 0000 01 + 00 00 |    
+00032794 00 v 04 nutrūkti 0 trūkti 0 plyšti 0 suplyšti 0 000 01 + 00 00 |    
+00032876 00 v 01 žiovauti 0 001 @ 00030610 v 0000 01 + 00 00 |    
+00032944 00 v 02 sutikti 0 priimti 0 001 ~ 00013229 v 0000 01 + 00 00 |    
+00033020 00 v 02 kalbėti 0 šnekėti 0 000 01 + 00 00 |    
+00033081 00 v 01 saugoti 0 000 01 + 00 00 |    
+00033129 00 v 01 linkėti 0 001 @ 00015688 v 0000 01 + 00 00 |    
+00033196 00 v 01 girdėti 0 000 01 + 00 00 |    
+00033245 00 v 01 susilaikyti 0 001 @ 00014834 v 0000 01 + 00 00 |    
+00033315 00 v 01 pamesti 0 001 ! 00018245 v 0000 01 + 00 00 |    
+00033381 00 v 02 viltis 0 tikėtis 0 001 @ 00018309 v 0000 01 + 00 00 |    
+00033457 00 v 02 uždegti 0 įpūsti 0 000 01 + 00 00 |    
+00033517 00 v 02 rodyti 0 liudyti 0 001 @ 00018142 v 0000 01 + 00 00 |    
+00033592 00 v 02 supažindinti 0 pristatyti 0 001 @ 00005558 v 0000 01 + 00 00 |    
+00033677 00 v 01 rūpintis 0 002 @ 00002698 v 0000 ~ 00016988 v 0000 01 + 00 00 |    
+00033763 00 v 03 virpėti 0 drebėti 0 tirtėti 0 001 @ 00016009 v 0000 01 + 00 00 |    
+00033852 00 v 01 prisijungti 0 000 01 + 00 00 |    
+00033904 00 v 02 trūkčioti 0 timpčioti 0 001 @ 00016009 v 0000 01 + 00 00 |    
+00033987 00 v 02 atsakyti 0 atsiliepti 0 001 @ 00019039 v 0000 01 + 00 00 |    
+00034067 00 v 02 raportuoti 0 pranešti 0 001 @ 00027193 v 0000 01 + 00 00 |    
+00034148 00 v 01 paminėti 0 002 ~ 00008602 v 0000 ~ 00026155 v 0000 01 + 00 00 |    
+00034234 00 v 01 iškristi 0 000 01 + 00 00 |    
+00034284 00 v 03 atlenkti 0 sulenkti 0 užlenkti 0 000 01 + 00 00 |    
+00034356 00 v 03 apniaukti 0 aptraukti_debesimis 0 apsiniaukti 0 000 01 + 00 00 |    
+00034442 00 v 01 snūduriuoti 0 001 @ 00029760 v 0000 01 + 00 00 |    
+00034513 00 v 02 surengti 0 suorganizuoti 0 001 @ 00014387 v 0000 01 + 00 00 |    
+00034596 00 v 02 šikti 0 tuštintis 0 000 01 + 00 00 |    
+00034656 00 v 02 atlikti 0 interpretuoti 0 000 01 + 00 00 |    
+00034720 00 v 02 dominuoti 0 vyrauti 0 000 01 + 00 00 |    
+00034780 00 v 02 sutrinti 0 susmulkinti 0 000 01 + 00 00 |    
+00034843 00 v 01 pakelti 0 000 01 + 00 00 |    
+00034891 00 v 02 paimti 0 imti 0 001 ! 00006986 v 0000 01 + 00 00 |    
+00034963 00 v 02 treniruoti 0 mankštinti 0 001 @ 00035307 v 0000 01 + 00 00 |    
+00035046 00 v 01 švęsti 0 000 01 + 00 00 |    
+00035095 00 v 02 vystytis 0 vystyti 0 001 ~ 00002230 v 0000 01 + 00 00 |    
+00035172 00 v 02 melsti 0 maldauti 0 000 01 + 00 00 |    
+00035230 00 v 02 rūpintis 0 gydyti 0 001 ~ 00014483 v 0000 01 + 00 00 |    
+00035307 00 v 02 išmokyti 0 mokyti 0 002 @ 00005558 v 0000 ~ 00034963 v 0000 01 + 00 00 |    
+00035402 00 v 01 gyventi 0 001 @ 00037677 v 0000 01 + 00 00 |    
+00035468 00 v 02 suparalyžiuoti 0 sutraukti 0 001 @ 00016337 v 0000 01 + 00 00 |    
+00035554 00 v 02 melstis 0 melsti 0 000 01 + 00 00 |    
+00035611 00 v 08 įkainoti 0 įvertinti 0 nuspręsti 0 išmatuoti 0 apsvarstyti 0 nustatyti_svorį 0 įkainioti 0 apgalvoti 0 001 ~ 00029960 v 0000 01 + 00 00 |    
+00035776 00 v 02 paguldyti 0 guldyti 0 002 @ 00027654 v 0000 > 00036093 v 0000 01 + 00 00 |    
+00035872 00 v 02 saugoti 0 apsaugoti 0 000 01 + 00 00 |    
+00035932 00 v 02 vadinti 0 kreiptis 0 000 01 + 00 00 |    
+00035991 00 v 03 pradžiugti 0 pradžiuginti 0 apsidžiaugti 0 001 @ 00022824 v 0000 01 + 00 00 |    
+00036093 00 v 01 gulėti 0 003 ! 00027291 v 0000 ! 00019657 v 0000 * 00001667 v 0000 01 + 00 00 |    
+00036195 00 v 01 priklausyti 0 001 @ 00009159 v 0000 01 + 00 00 |    
+00036265 00 v 02 vaidinti 0 suvaidinti 0 001 ;c 00473676 n 0000 01 + 00 00 |    
+00036346 00 v 01 atsikvėpti 0 001 @ 00030610 v 0000 01 + 00 00 |    
+00036416 00 v 03 judėti 0 keliauti 0 važiuoti 0 008 ~ 00002360 v 0000 ~ 00007813 v 0000 ~ 00011746 v 0000 ~ 00024016 v 0000 ~ 00017930 v 0000 ~ 00026559 v 0000 ~ 00032274 v 0000 ~ 00010415 v 0000 01 + 00 00 |    
+00036631 00 v 02 įvykdyti 0 padaryti 0 001 @ 00000903 v 0000 01 + 00 00 |    
+00036710 00 v 01 derėti 0 001 ;c 00419716 n 0000 01 + 00 00 |    
+00036777 00 v 01 eiti_miegoti 0 001 @ 00004928 v 0000 01 + 00 00 |    
+00036848 00 v 02 egzistuoti 0 būti 0 002 ~ 00016660 v 0000 ~ 00017071 v 0000 01 + 00 00 |    
+00036943 00 v 03 atitikti 0 tikti 0 derėti 0 000 01 + 00 00 |    
+00037010 00 v 01 sudaryti 0 001 @ 00012623 v 0000 01 + 00 00 |    
+00037077 00 v 03 palikti 0 išlaikyti 0 išsaugoti 0 003 @ 00002294 v 0000 ~ 00008822 v 0000 ~ 00001814 v 0000 01 + 00 00 |    
+00037205 00 v 02 atmesti 0 atsisakyti 0 000 01 + 00 00 |    
+00037266 00 v 02 atmesti 0 atstumti 0 000 01 + 00 00 |    
+00037325 00 v 01 debiutuoti 0 000 01 + 00 00 |    
+00037376 00 v 02 daryti 0 vykdyti 0 003 @ 00016505 v 0000 ~ 00030389 v 0000 ~ 00009090 v 0000 01 + 00 00 |    
+00037487 00 v 02 sverti 0 pasverti 0 000 01 + 00 00 |    
+00037545 00 v 01 atsigauti 0 000 01 + 00 00 |    
+00037595 00 v 01 būti 0 002 ~ 00037677 v 0000 ~ 00013137 v 0000 01 + 00 00 |    
+00037677 00 v 03 apgyventi 0 gyventi 0 įsikurti 0 002 @ 00037595 v 0000 ~ 00035402 v 0000 01 + 00 00 |    
+00037785 00 v 02 šaukti 0 rėkti 0 000 01 + 00 00 |    
+00037842 00 v 01 gailėts 0 001 @ 00025528 v 0000 01 + 00 00 |    
+00037909 00 v 01 žiūrėti 0 000 01 + 00 00 |    
+00037960 00 v 03 sugerti 0 absorbuoti 0 susiurbti 0 001 ! 00003458 v 0000 01 + 00 00 |    
+00038051 00 v 03 dėtis 0 apsimesti 0 simuliuoti 0 000 01 + 00 00 |    
+00038123 00 v 02 šauti 0 šaudyti 0 000 01 + 00 00 |    
+00038181 00 v 02 likti 0 pasilikti 0 000 01 + 00 00 |    
+00038239 00 v 04 steigti 0 įsteigti 0 kurti 0 įkurti 0 000 01 + 00 00 |    
+00038317 00 v 03 paklausti 0 teirautis 0 klausti 0 000 01 + 00 00 |    
+00038389 00 v 02 patiekti 0 paduoti 0 001 @ 00009630 v 0000 01 + 00 00 |    
+00038466 00 v 01 atimti_gyvybingumą 0 000 01 + 00 00 |    
+00038526 00 v 02 panaikinti 0 atšaukti 0 000 01 + 00 00 |    
+00038589 00 v 02 palaukti 0 laukti 0 000 01 + 00 00 |    
+00038647 00 v 02 atgabenti 0 pristatyti 0 001 @ 00022911 v 0000 01 + 00 00 |    
+00038728 00 v 02 budėti 0 nemiegoti 0 002 ! 00012999 v 0000 ~ 00019996 v 0000 01 + 00 00 |    
+00038824 00 v 02 rašyti 0 parašyti 0 003 ~ 00039299 v 0000 ~ 00012698 v 0000 ~ 00027799 v 0000 01 + 00 00 |    
+00038938 00 v 02 sunokti 0 nokti 0 000 01 + 00 00 |    
+00038994 00 v 01 mirktelėti 0 001 @ 00030389 v 0000 01 + 00 00 |    
+00039064 00 v 01 daryti_pedikiūrą 0 000 01 + 00 00 |    
+00039123 00 v 01 šundaktariauti 0 002 @ 00016505 v 0000 ;c 00195936 n 0000 01 + 00 00 |    
+00039216 00 v 02 išsekinti 0 išvarginti 0 001 ~ 00032127 v 0000 01 + 00 00 |    
+00039299 00 v 01 pasirašyti 0 001 @ 00038824 v 0000 01 + 00 00 |    
+00039369 00 v 05 plėsti 0 išsiplėsti 0 plėstis 0 praplėsti 0 išplėsti 0 001 ~ 00030506 v 0000 01 + 00 00 |    
+00039487 00 v 02 fantazuoti 0 svajoti 0 001 @ 00017502 v 0000 01 + 00 00 |    
+00039566 00 v 01 gauti 0 000 01 + 00 00 |    
+00039612 00 v 01 reikšti 0 000 01 + 00 00 |    
+00039661 00 v 02 nutikti 0 būti 0 000 01 + 00 00 |    
+00039717 00 v 04 protauti 0 galvoti 0 mąstyti 0 samprotauti 0 000 01 + 00 00 |    
+00039801 00 v 02 pažinti 0 žinoti 0 000 01 + 00 00 |    
+00039860 00 v 01 žiaukčioti 0 000 01 + 00 00 |    
+00039913 00 v 01 būti 0 000 01 + 00 00 |    
+00039959 00 v 01 reikėti 0 000 01 + 00 00 |    
+00040008 00 v 03 trūkti 0 ne_būti 0 dingti 0 000 01 + 00 00 |    
+00040076 00 v 02 knapsėti 0 linkčioti 0 000 01 + 00 00 |    

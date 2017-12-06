@@ -1,0 +1,820 @@
+stumdytis v 1 1 @ 1 0 00001413
+numalšinti v 1 0 1 0 00014954
+nesutikti v 1 1 ! 1 0 00025684
+gyti v 1 0 1 0 00006609
+sutvirtinti v 1 0 1 0 00015129
+dėti v 1 1 ~ 1 0 00027654
+kapituliuoti v 1 0 1 0 00012809
+susmulkinti v 1 0 1 0 00034780
+nusitaikyti v 1 0 1 0 00020191
+priimti v 1 1 ~ 1 0 00032944
+atidengti v 1 0 1 0 00020128
+pasveikinti v 1 1 @ 1 0 00008602
+kurti v 3 1 ;c 3 0 00012874 00032465 00038239
+pageidauti v 2 2 ~ @ 2 0 00015688 00018309
+išdėstyti v 1 0 1 0 00019302
+teisėjauti v 1 1 ;c 1 0 00006126
+daryti_pedikiūrą v 1 0 1 0 00039064
+tęsti v 1 1 @ 1 0 00001164
+priblokšti v 1 0 1 0 00027394
+judėti v 1 1 ~ 1 0 00036416
+išskirti v 2 2 ! ~ 2 0 00003458 00006379
+kvatoti v 1 1 @ 1 0 00025037
+juoktis v 1 2 ! ~ 1 0 00023616
+daryti v 2 3 ! ~ @ 2 0 00000903 00037376
+spausti v 3 4 ~ @ * > 3 0 00001413 00005075 00029845
+išleisti_garsą v 1 0 1 0 00019585
+derėtis v 1 0 1 0 00018973
+sklisti v 1 1 @ 1 0 00016725
+plakti v 1 1 @ 1 0 00012538
+surengti v 1 1 @ 1 0 00034513
+linksmintis v 1 0 1 0 00004434
+užmušti v 1 1 > 1 0 00010081
+sopėti v 1 0 1 0 00012930
+mokėti v 1 2 ~ @ 1 0 00005839
+pasakoti v 1 0 1 0 00009467
+dingti v 2 0 2 0 00030879 00040008
+išspjauti v 1 1 ~ 1 0 00000547
+susilaikyti v 2 3 ! ~ @ 2 0 00014834 00033245
+atstumti v 1 0 1 0 00037266
+suplanuoti v 1 1 @ 1 0 00021169
+atgabenti v 2 3 ! ~ @ 2 0 00022911 00038647
+išsiversti v 1 1 @ 1 0 00016907
+smaugti v 1 1 > 1 0 00012388
+laukti v 3 0 3 0 00002494 00016849 00038589
+šauti v 1 0 1 0 00038123
+šaukti v 2 1 @ 2 0 00022314 00037785
+įtraukti v 2 1 @ 2 0 00010211 00010288
+imtis v 1 0 1 0 00031020
+ašaroti v 1 2 ! ~ 1 0 00008089
+pleiskanoti v 1 1 @ 1 0 00008334
+perėti v 1 1 * 1 0 00031186
+išplėsti v 1 1 ~ 1 0 00039369
+parduoti v 1 3 ! ;c * 1 0 00023912
+justi v 1 0 1 0 00021751
+fantazuoti v 1 1 @ 1 0 00039487
+traukti v 1 0 1 0 00032208
+skaityti v 1 0 1 0 00024605
+apsaugoti v 2 0 2 0 00000839 00035872
+pakeisti v 2 0 2 0 00015325 00029206
+vykdyti v 4 3 ! ~ @ 4 0 00000903 00002552 00006508 00037376
+suorganizuoti v 1 1 @ 1 0 00034513
+prašyti v 2 2 ~ @ 2 0 00002029 00026703
+sutrinti v 1 0 1 0 00034780
+klausyti v 1 1 * 1 0 00023767
+informuoti v 1 1 ~ 1 0 00005558
+linksminti v 1 0 1 0 00004434
+šėlti v 2 1 @ 2 0 00018662 00028530
+pasodinti v 1 0 1 0 00015556
+anestezuoti v 1 0 1 0 00021313
+lydėti v 1 1 * 1 0 00018076
+maldyti v 1 0 1 0 00014954
+purkštauti v 1 0 1 0 00031726
+suspėti v 1 1 @ 1 0 00000319
+patvirtinti v 2 0 2 0 00009403 00013873
+įgyti v 1 0 1 0 00006741
+pamiršti v 1 0 1 0 00010626
+įsivaizduoti v 1 1 ~ 1 0 00017502
+lietis v 1 1 @ 1 0 00016660
+įveikti v 1 0 1 0 00025984
+siūlyti v 2 0 2 0 00003688 00031077
+nulemti v 1 0 1 0 00005753
+rūpintis v 3 2 ~ @ 3 0 00016988 00033677 00035230
+apsimesti v 1 0 1 0 00038051
+džiaugtis v 1 2 ~ @ 1 0 00022824
+susiurbti v 1 1 ! 1 0 00037960
+sverti v 1 0 1 0 00037487
+paveikti v 1 1 ~ 1 0 00016337
+įvykdyti v 4 1 @ 4 0 00006508 00020530 00023834 00036631
+jungtis v 1 1 @ 1 0 00008183
+kamuoti v 1 0 1 0 00027134
+išvažiuoti v 2 3 ! ~ @ 2 0 00011921 00017139
+ištiesti v 2 0 2 0 00031331 00032415
+išnykti v 1 0 1 0 00030879
+knarkti v 1 2 @ * 1 0 00008404
+šertis v 1 1 ~ 1 0 00020839
+palaikyti v 3 2 ! ~ 3 0 00000616 00010540 00031557
+maudytis v 1 1 @ 1 0 00013806
+atsisakyti v 2 1 @ 2 0 00001814 00037205
+pažinti v 1 0 1 0 00039801
+čiaudėti v 1 1 @ 1 0 00009090
+kviesti v 1 0 1 0 00024226
+apibrėžti v 2 0 2 0 00004277 00019250
+kristi v 3 1 ! 3 0 00016449 00022758 00028670
+atvykti v 1 2 ! ~ 1 0 00017638
+eiti_miegoti v 2 2 ~ @ 2 0 00004928 00036777
+rodytis v 1 0 1 0 00028272
+bendrauti v 1 0 1 0 00009739
+įpūsti v 1 0 1 0 00033457
+norėti v 2 2 ~ @ 2 0 00015688 00018309
+duoti v 2 3 ! ~ > 2 0 00002880 00006986
+pravažiuoti v 1 2 ~ @ 1 0 00011746
+išpuošti v 1 0 1 0 00005687
+nualpti v 1 0 1 0 00007963
+nemėgti v 1 1 ! 1 0 00011059
+krizenti v 1 1 @ 1 0 00001276
+puikuotis v 1 1 @ 1 0 00032712
+stebėtis v 1 1 @ 1 0 00031778
+duoti_parodymus v 1 0 1 0 00031265
+parašyti v 2 2 ~ @ 2 0 00012698 00038824
+sugerti v 1 1 ! 1 0 00037960
+prisipildyti v 1 0 1 0 00023321
+pakelti v 2 1 * 2 0 00020696 00034843
+diskutuoti v 2 0 2 0 00018003 00021094
+būti_skolingam v 1 0 1 0 00007625
+rodyti_pagarbą v 1 1 @ 1 0 00013229
+rašyti v 2 2 ~ ;c 2 0 00032465 00038824
+nepasitikėti v 1 0 1 0 00027524
+bjaurėtis v 1 0 1 0 00025165
+užlieti v 1 0 1 0 00019935
+atidaryti v 1 1 > 1 0 00014731
+nualinti v 1 1 @ 1 0 00032127
+mirti v 1 1 ! 1 0 00028670
+apniaukti v 1 0 1 0 00034356
+plauti v 1 1 @ 1 0 00014483
+baigtis v 1 0 1 0 00006847
+sukurti v 1 0 1 0 00012874
+sugalvoti v 1 1 @ 1 0 00021501
+nepavykti v 1 1 ! 1 0 00009879
+likti v 1 0 1 0 00038181
+nagrinėti v 1 0 1 0 00000686
+degti v 1 1 ~ 1 0 00008963
+išsekti v 1 0 1 0 00020467
+kvėpuoti v 1 2 ~ * 1 0 00030610
+gailėts v 1 1 @ 1 0 00037842
+knapsėti v 1 0 1 0 00040076
+busti v 1 1 * 1 0 00029503
+kvatotis v 2 1 @ 2 0 00025037 00030235
+nusileisti v 1 0 1 0 00023074
+audroti v 1 0 1 0 00018662
+numaldyti v 1 0 1 0 00014954
+paviršutiniškai_domėtis v 1 0 1 0 00000749
+bendradarbiauti v 1 0 1 0 00020265
+sudaryti_sąlygas v 1 0 1 0 00016270
+neapkęsti v 1 0 1 0 00025165
+pramiegoti v 1 1 * 1 0 00029137
+nupasakoti v 1 0 1 0 00010338
+pradžiugti v 1 1 @ 1 0 00035991
+pasirūpinti v 1 1 @ 1 0 00016988
+paklausti v 1 0 1 0 00038317
+paimti v 1 1 ! 1 0 00034891
+sterilizuoti v 1 0 1 0 00004611
+pasverti v 1 0 1 0 00037487
+susitikti v 2 0 2 0 00005338 00015868
+pavyti v 1 0 1 0 00008764
+apibūdinti v 2 0 2 0 00010338 00024535
+sviesti v 1 0 1 0 00024870
+atakuoti v 1 0 1 0 00020771
+priminti v 2 2 ~ > 2 0 00007122 00025842
+verkti_iš_juoko v 1 1 @ 1 0 00030235
+neleisti v 1 0 1 0 00014046
+pasiekti v 4 4 ! ~ @ * 4 0 00005008 00017638 00020530 00028414
+atšviežinti v 1 0 1 0 00015814
+vaipytis v 1 1 ~ 1 0 00004691
+darytis v 2 0 2 0 00003622 00029337
+atskleisti v 2 1 ~ 2 0 00020128 00023462
+užbaigti v 1 1 ~ 1 0 00031393
+apkaltinti v 2 2 ~ @ 2 0 00013439 00015619
+siųsti v 2 1 @ 2 0 00001588 00006664
+pristatyti v 2 1 @ 2 0 00033592 00038647
+apsukti v 1 0 1 0 00010919
+vaikščioti v 2 2 ~ @ 2 0 00006272 00024016
+įvykti v 1 0 1 0 00003622
+kreiptis v 1 0 1 0 00035932
+uždegti v 1 0 1 0 00033457
+statyti v 1 0 1 0 00022096
+valyti v 2 2 ~ @ 2 0 00002611 00013374
+grasinti v 2 1 @ 2 0 00014118 00022691
+gūžtelėti_pečiais v 1 0 1 0 00019873
+pabusti v 1 1 * 1 0 00029503
+užrašyti v 1 1 @ 1 0 00027799
+svajoti v 1 1 @ 1 0 00039487
+mokyti v 1 2 ~ @ 1 0 00035307
+melstis v 1 0 1 0 00035554
+mėginti v 1 1 @ 1 0 00022237
+pridėti v 1 0 1 0 00012489
+virpėti v 1 1 @ 1 0 00033763
+atsirūgti v 1 0 1 0 00021590
+eksponuoti v 1 0 1 0 00006197
+susiturėti v 1 2 ! ~ 1 0 00014834
+dovanoti v 1 0 1 0 00019368
+atvažiuoti v 1 2 ! ~ 1 0 00017638
+stverti v 1 0 1 0 00025764
+blizgėti v 1 1 @ 1 0 00019742
+atsakyti v 1 1 @ 1 0 00033987
+dezinfekuoti v 1 0 1 0 00023137
+sapnuoti v 1 1 * 1 0 00015062
+nugalėti v 1 0 1 0 00025984
+atvėsti v 1 0 1 0 00021953
+paruošti v 1 0 1 0 00032605
+išsaugoti v 2 2 ~ @ 2 0 00017574 00037077
+žygiuoti v 1 1 @ 1 0 00030321
+įjungti v 1 0 1 0 00028201
+teigti v 1 0 1 0 00005279
+simuliuoti v 1 0 1 0 00038051
+skųstis v 1 0 1 0 00016800
+sustiprinti v 1 0 1 0 00015129
+išvykti v 3 3 ! ~ @ 3 0 00008258 00011921 00017139
+galvoti v 5 2 ~ @ 5 0 00004794 00007681 00018839 00021501 00039717
+atrasti v 2 0 2 0 00005174 00028765
+apsispręsti v 1 0 1 0 00003978
+gerbti v 1 1 @ 1 0 00013229
+prisijungti v 1 0 1 0 00033852
+vadinti v 1 0 1 0 00035932
+kalbėti v 2 0 2 0 00009467 00033020
+protauti v 1 0 1 0 00039717
+perskaityti v 1 0 1 0 00024605
+pervargti v 1 0 1 0 00021816
+prapulti v 1 0 1 0 00030879
+atmesti v 2 0 2 0 00037205 00037266
+palaukti v 1 0 1 0 00038589
+diegti v 1 0 1 0 00012930
+tirtėti v 1 1 @ 1 0 00033763
+derėti v 2 1 ;c 2 0 00036710 00036943
+suparalyžiuoti v 1 1 @ 1 0 00035468
+valdyti v 2 1 ~ 2 0 00005398 00019519
+aptarti v 1 0 1 0 00018003
+imti v 1 1 ! 1 0 00034891
+paliesti v 1 1 ~ 1 0 00031645
+iškristi v 1 0 1 0 00034234
+ieškoti v 1 0 1 0 00003881
+neiti_miegoti v 1 1 @ 1 0 00019996
+atsinaujinti v 1 0 1 0 00026221
+žiovauti v 1 1 @ 1 0 00032876
+pasirengti v 1 0 1 0 00032605
+pasukti v 1 0 1 0 00010919
+ilgai_miegoti v 1 1 @ 1 0 00007891
+prausti v 1 1 ~ 1 0 00002611
+nugaišti v 1 1 ! 1 0 00028670
+mėgėjiškai_dirbti v 1 0 1 0 00000749
+patempti v 1 0 1 0 00028481
+pažiūrėti v 1 0 1 0 00025245
+kastruoti v 2 0 2 0 00004611 00021652
+pasimatuoti v 1 0 1 0 00010017
+timpčioti v 1 1 @ 1 0 00033904
+didžiuotis v 1 1 @ 1 0 00032712
+mirkčioti v 2 2 ~ @ 2 0 00024145 00030389
+apmalšinti v 1 0 1 0 00010867
+pliskėti v 1 1 @ 1 0 00022017
+manyti v 2 0 2 0 00007681 00018839
+žįsti v 1 1 @ 1 0 00021365
+atsikvėpti v 1 1 @ 1 0 00036346
+plūsti v 1 0 1 0 00002427
+vesti v 1 0 1 0 00027588
+pasirodyti v 1 0 1 0 00028272
+sukelti_ekstazę v 1 0 1 0 00030137
+kritikuoti v 1 0 1 0 00004560
+laipinti v 1 1 ~ 1 0 00031481
+raugėti v 1 0 1 0 00021590
+sveikti v 1 0 1 0 00006609
+aptikti v 1 0 1 0 00005174
+naudoti v 1 0 1 0 00010977
+artintis v 1 1 * 1 0 00014560
+dusinti v 1 1 > 1 0 00012388
+skubėti v 1 1 @ 1 0 00013966
+apgyventi v 1 2 ~ @ 1 0 00037677
+sutikti v 4 2 ! ~ 4 0 00003930 00005338 00014387 00032944
+šnopuoti v 1 0 1 0 00027911
+cenzūruoti v 1 1 @ 1 0 00029960
+tęstis v 2 0 2 0 00022451 00023190
+žinoti v 1 0 1 0 00039801
+pasiūlyti v 1 0 1 0 00024926
+trokšti v 1 1 ~ 1 0 00015688
+būti v 6 1 ~ 6 0 00009159 00012623 00036848 00037595 00039661 00039913
+apalpti v 1 0 1 0 00007963
+žagsėti v 1 1 @ 1 0 00018720
+vilkti v 1 0 1 0 00032208
+trūkčioti v 1 1 @ 1 0 00033904
+vadovauti v 1 0 1 0 00023008
+padaryti v 1 1 @ 1 0 00036631
+pasivyti v 1 0 1 0 00008764
+mylėti v 1 0 1 0 00007492
+budėti v 1 2 ! ~ 1 0 00038728
+atnešti v 1 2 ! ~ 1 0 00022911
+dusti v 1 1 @ 1 0 00007749
+nešioti v 1 0 1 0 00011687
+pakerėti v 1 0 1 0 00030137
+išdėlioti v 1 0 1 0 00019302
+žadinti v 1 1 ~ 1 0 00026297
+nujausti v 1 0 1 0 00004044
+patiekti v 1 1 @ 1 0 00038389
+nokti v 1 0 1 0 00038938
+suvaidinti v 1 1 ;c 1 0 00036265
+rekomenduoti v 1 0 1 0 00015272
+linkčioti v 1 0 1 0 00040076
+demonstruoti v 2 1 ~ 2 0 00006197 00023462
+debiutuoti v 1 0 1 0 00037325
+atnaujinti v 1 0 1 0 00026221
+susitelkti v 1 1 @ 1 0 00028879
+nutaikyti v 1 0 1 0 00020191
+čiulpti v 1 1 @ 1 0 00021365
+prižiūrėti v 1 0 1 0 00023008
+pakartoti v 1 1 ~ 1 0 00024721
+mesti v 1 0 1 0 00024870
+sugriauti v 1 0 1 0 00015425
+išsiųsti v 1 1 @ 1 0 00001588
+nustebinti v 1 0 1 0 00031933
+įrašyti v 1 0 1 0 00002109
+įrodyti v 3 3 ~ @ ;c 3 0 00013873 00023462 00029674
+išspręsti v 1 0 1 0 00025621
+maldauti v 1 0 1 0 00035172
+joti v 1 1 @ 1 0 00010415
+panaikinti v 1 0 1 0 00038526
+atkurti v 1 0 1 0 00026221
+kursuoti v 1 1 @ 1 0 00002360
+perduoti_linkėjimus v 1 1 @ 1 0 00008602
+slėpti v 1 0 1 0 00026783
+srūti v 1 0 1 0 00002427
+sunokti v 1 0 1 0 00038938
+paremti v 2 1 ~ 2 0 00000616 00010540
+kilti v 2 1 @ 2 0 00009971 00017930
+pamatuoti v 1 0 1 0 00010017
+nuspręsti v 2 1 ~ 2 0 00003978 00035611
+valgyti v 1 0 1 0 00028153
+pulti v 1 0 1 0 00020771
+susidėti v 1 0 1 0 00009739
+panaudoti v 1 0 1 0 00010977
+įdėti v 1 0 1 0 00021442
+apsisukti v 1 1 @ 1 0 00013723
+prašauti v 1 1 ! 1 0 00004340
+sužaisti v 1 0 1 0 00026422
+teirautis v 1 0 1 0 00038317
+numirti v 1 1 ! 1 0 00028670
+kelti_pasibjaurėjimą v 1 0 1 0 00029074
+staiga_išeiti v 1 1 @ 1 0 00020932
+paguldyti v 1 2 @ > 1 0 00035776
+nustatyti_svorį v 1 1 ~ 1 0 00035611
+parodyti v 1 0 1 0 00028272
+plyšti v 1 0 1 0 00032794
+tapti v 1 0 1 0 00029337
+užmokėti v 1 2 ~ @ 1 0 00005839
+leisti v 2 0 2 0 00011138 00016270
+susijungti v 1 0 1 0 00022640
+tupėti v 1 1 @ 1 0 00022171
+žavėtis v 2 1 @ 2 0 00005960 00031778
+išleisti v 1 2 ~ @ 1 0 00011589
+sušalti v 1 0 1 0 00021880
+pažadinti v 1 1 ~ 1 0 00026297
+liesti v 1 1 ~ 1 0 00003013
+išvarginti v 2 2 ~ @ 2 0 00032127 00039216
+pasigesti v 1 2 @ * 1 0 00018469
+atsiųsti v 1 1 @ 1 0 00017862
+sutraukti v 1 1 @ 1 0 00035468
+paminėti v 1 1 ~ 1 0 00034148
+sudaryti v 2 2 ~ @ 2 0 00012623 00037010
+pastatyti v 2 1 ~ 2 0 00022096 00027654
+šviesti v 1 0 1 0 00003573
+padėti v 2 2 ~ @ 2 0 00002698 00027654
+bandyti v 1 1 @ 1 0 00022237
+gulėti v 2 2 ! * 2 0 00001667 00036093
+nesuprasti v 1 0 1 0 00023247
+apsiniaukti v 1 0 1 0 00034356
+atlenkti v 1 0 1 0 00034284
+verkti v 1 2 ! ~ 1 0 00008089
+pasikeisti v 2 0 2 0 00015195 00029206
+mankštinti v 2 1 @ 2 0 00027069 00034963
+mesti_plunksnas v 1 1 ~ 1 0 00020839
+absorbuoti v 1 1 ! 1 0 00037960
+nepasisekti v 1 1 ! 1 0 00009879
+nuvežti v 1 2 ! * 1 0 00017756
+vystyti v 1 1 ~ 1 0 00035095
+saugoti v 3 1 @ 3 0 00008822 00033081 00035872
+nusijuokti v 1 2 ! ~ 1 0 00023616
+sėsti v 1 1 ~ 1 0 00031481
+įduoti v 2 2 ~ @ 2 0 00002880 00026482
+stumdyti v 1 1 @ 1 0 00001413
+rodyti v 4 1 @ 4 0 00006197 00013873 00028272 00033517
+būti_sustingusiam v 1 1 @ 1 0 00017315
+artėti v 1 1 * 1 0 00014560
+budinti v 1 1 ~ 1 0 00026297
+priversti v 1 1 > 1 0 00005075
+rasti v 1 1 ! 1 0 00018245
+gėrėtis v 1 0 1 0 00005960
+užpūsti v 1 0 1 0 00011356
+treniruoti v 2 1 @ 2 0 00027069 00034963
+įsiklausyti v 1 0 1 0 00026637
+atsiverti v 2 1 > 2 0 00014731 00018406
+kibirkščiuoti v 1 1 @ 1 0 00007207
+pasilikti v 1 0 1 0 00038181
+keltis v 1 1 @ 1 0 00017930
+koncentruoti v 1 1 @ 1 0 00028879
+veikti v 4 3 ! ~ @ 4 0 00000903 00011527 00016337 00032540
+smukti v 1 0 1 0 00016449
+išsiplėsti v 1 1 ~ 1 0 00039369
+pervarginti v 1 0 1 0 00021816
+skaudėti v 2 1 @ 2 0 00006429 00012930
+stebeilyti v 1 0 1 0 00028608
+pasirašyti v 1 1 @ 1 0 00039299
+suledėti v 1 0 1 0 00021880
+tikėtis v 3 1 @ 3 0 00002494 00016849 00033381
+steigti v 1 0 1 0 00038239
+užimti v 1 0 1 0 00025315
+planuoti v 1 2 ~ @ 1 0 00000462
+čiupti v 1 0 1 0 00025764
+atsispindėti v 1 1 ;c 1 0 00001727
+nutrūkti v 1 0 1 0 00032794
+pavirsti v 1 0 1 0 00015195
+paslėpti v 1 0 1 0 00026783
+smaginti v 1 0 1 0 00004434
+uždrausti v 2 1 @ 2 0 00001814 00014046
+persišaldyti v 1 0 1 0 00011473
+reikštis v 1 0 1 0 00028272
+užpildyti v 1 2 ~ > 1 0 00003358
+tręšti v 1 1 ;c 1 0 00008021
+palikti v 4 2 ~ @ 4 0 00014239 00028813 00030089 00037077
+prisiminti v 1 0 1 0 00019810
+rengti v 1 0 1 0 00032605
+vyrauti v 1 0 1 0 00034720
+nepatikti v 1 1 ! 1 0 00011059
+tyrinėti v 1 0 1 0 00000686
+nesutarti v 1 1 ! 1 0 00025684
+melsti v 2 0 2 0 00035172 00035554
+sueiti v 1 0 1 0 00023557
+ištempti v 1 0 1 0 00031331
+aprašyti v 1 0 1 0 00010338
+nuvesti v 1 2 ! * 1 0 00017756
+šlapintis v 1 0 1 0 00006796
+suskaityti v 1 1 @ 1 0 00002795
+žiūrėti v 2 1 ~ 2 0 00016131 00037909
+vaikštinėti v 1 1 @ 1 0 00006272
+vartoti v 1 0 1 0 00010977
+lankyti v 2 1 @ 2 0 00001353 00013137
+pasižymėti v 2 1 @ 2 0 00012698 00027799
+apsišlapinti v 1 0 1 0 00019196
+žlugti v 1 1 ! 1 0 00009879
+numatyti v 1 1 @ 1 0 00021169
+tuštintis v 1 0 1 0 00034596
+švęsti v 1 0 1 0 00035046
+atsiminti v 2 0 2 0 00010161 00019810
+prabėgti v 1 2 ~ @ 1 0 00011746
+peržengti v 1 1 @ 1 0 00008695
+paskelbti v 1 2 ~ @ 1 0 00027193
+padėkoti v 1 0 1 0 00014179
+naikinti v 1 0 1 0 00015425
+augti v 1 1 @ 1 0 00002230
+aptraukti_debesimis v 1 0 1 0 00034356
+patikti v 1 1 ! 1 0 00031858
+virsti v 1 0 1 0 00022758
+gauti v 2 0 2 0 00006741 00039566
+pastumti v 1 2 ~ * 1 0 00029845
+perdėti v 1 0 1 0 00031126
+tiekti v 2 2 ~ @ 2 0 00002159 00009630
+griūti v 1 0 1 0 00022758
+mąstyti v 4 2 ~ @ 4 0 00004794 00007681 00021501 00039717
+apgalvoti v 1 1 ~ 1 0 00035611
+nukelti v 1 1 * 1 0 00021017
+sukelti_transą v 1 0 1 0 00030137
+svarstyti v 3 1 ~ 3 0 00004794 00018003 00021094
+paskubėti v 1 1 @ 1 0 00013966
+papildyti v 1 0 1 0 00004510
+bijoti v 1 0 1 0 00016211
+vėl_pabudinti v 1 1 @ 1 0 00023389
+dėkoti v 1 0 1 0 00014179
+užaugti v 1 0 1 0 00022380
+lemti v 1 0 1 0 00005753
+purtytis v 1 1 @ 1 0 00006908
+permerkti v 1 0 1 0 00019935
+pralaimėti v 1 0 1 0 00027472
+raportuoti v 1 1 @ 1 0 00034067
+liudyti v 3 1 @ 3 0 00013873 00031265 00033517
+sietis v 2 2 ~ @ 2 0 00003013 00008183
+nešti v 1 1 * 1 0 00020696
+atverti v 1 1 > 1 0 00014731
+sudalyvauti v 1 1 @ 1 0 00013137
+stimuliuoti v 1 3 ! ~ @ 1 0 00010689
+įvykti_kartu v 1 0 1 0 00021249
+susitarti v 1 2 ! ~ 1 0 00014387
+dūsuoti v 1 0 1 0 00027911
+būti_neatidėliotinam v 1 1 @ 1 0 00024789
+kalbėtis v 1 0 1 0 00009467
+nepataikyti v 1 1 ! 1 0 00004340
+kaitaliotis v 1 1 @ 1 0 00019417
+suvokti v 1 0 1 0 00027740
+sutapti v 1 0 1 0 00021249
+pradingti v 2 1 @ 2 0 00020932 00030879
+važiuoti v 1 1 ~ 1 0 00036416
+pirkti v 1 3 ! ;c * 1 0 00028972
+įkainoti v 2 1 ~ 2 0 00019133 00035611
+eiti_paskui v 1 1 @ 1 0 00007813
+nusigręžti v 1 1 @ 1 0 00013723
+pasiduoti v 2 0 2 0 00012809 00023074
+nusakyti v 1 0 1 0 00004277
+judėti_į_priekį v 1 1 @ 1 0 00032274
+žiemoti v 1 1 @ 1 0 00001896
+išdžiūti v 1 0 1 0 00020467
+persimainyti v 2 0 2 0 00015195 00029206
+išduoti v 1 0 1 0 00002159
+apgyvendinti v 1 0 1 0 00024668
+lygti v 1 0 1 0 00018973
+skristi v 1 1 @ 1 0 00026559
+viltis v 1 1 @ 1 0 00033381
+jausti v 2 1 ~ 2 0 00021751 00025528
+patarti v 1 0 1 0 00003224
+išsekinti v 1 1 ~ 1 0 00039216
+užvesti v 1 0 1 0 00028201
+atidėti v 1 1 * 1 0 00021017
+charakterizuoti v 1 0 1 0 00024535
+stumti v 1 2 ~ * 1 0 00029845
+užpulti v 1 0 1 0 00020771
+atsidusti v 1 1 @ 1 0 00015930
+gąsdinti v 1 0 1 0 00014118
+jaustis v 2 2 ~ @ 2 0 00017249 00025528
+pabudinti v 1 1 ~ 1 0 00026297
+apsieiti v 1 1 @ 1 0 00016907
+nustumti v 1 2 ~ * 1 0 00029845
+ilgėtis v 1 2 @ * 1 0 00018469
+perkelti v 4 1 ~ 4 0 00008488 00012169 00028104 00031126
+uždusinti v 1 1 > 1 0 00012388
+laikyti v 4 1 ! 4 0 00000616 00011687 00015508 00031557
+sukonstruoti v 1 0 1 0 00022096
+drausti v 1 0 1 0 00014046
+egzistuoti v 1 1 ~ 1 0 00036848
+atsidaryti v 2 1 > 2 0 00014731 00018406
+žibėti v 1 1 @ 1 0 00022017
+sunaudoti v 1 2 ~ @ 1 0 00011589
+ateiti v 1 2 ! ~ 1 0 00017638
+baimintis v 1 0 1 0 00016211
+dirginti v 1 0 1 0 00021702
+negulti v 1 1 @ 1 0 00019996
+suraukti v 1 1 @ 1 0 00018896
+pagroti v 1 1 ;c 1 0 00001513
+praeiti v 2 2 ~ @ 2 0 00006272 00011746
+glūdėti v 1 1 @ 1 0 00017071
+tempti v 1 0 1 0 00032208
+baigti v 1 1 ~ 1 0 00031393
+šniaukti v 1 0 1 0 00010478
+žingsniuoti v 1 2 ~ @ 1 0 00024016
+spoksoti v 1 0 1 0 00028608
+įtarti v 1 0 1 0 00027524
+suaugti v 1 0 1 0 00022380
+pajusti v 1 0 1 0 00021751
+mėgti v 1 1 ! 1 0 00031858
+įsteigti v 1 0 1 0 00038239
+pateikti v 1 2 ~ @ 1 0 00018142
+eiti v 1 2 ~ @ 1 0 00024016
+dominuoti v 1 0 1 0 00034720
+groti v 1 1 ;c 1 0 00001513
+užmiršti v 1 0 1 0 00010626
+sėdėti v 1 2 ! * 1 0 00027291
+reikėti v 1 0 1 0 00039959
+šnekėti v 2 0 2 0 00009467 00033020
+funkcionuoti v 1 0 1 0 00011527
+kankinti v 1 0 1 0 00027134
+kovoti v 1 0 1 0 00013667
+sumušti v 1 0 1 0 00026045
+sudegti v 1 1 ~ 1 0 00008963
+plisti v 1 1 @ 1 0 00016725
+pradėti v 1 0 1 0 00031020
+atsisėsti v 1 0 1 0 00015556
+dalyti v 1 0 1 0 00024353
+sulenkti v 1 0 1 0 00034284
+suprakaituoti v 1 0 1 0 00004143
+kaitalioti v 1 1 @ 1 0 00019417
+stovėti v 1 1 ! 1 0 00019657
+užsiminti v 1 0 1 0 00001113
+žadėti v 1 0 1 0 00000386
+progresuoti v 1 1 @ 1 0 00032274
+skleisti v 2 2 ! ~ 2 0 00003458 00030960
+mainytis v 1 0 1 0 00029206
+pasmaugti v 1 1 > 1 0 00012388
+sąlygoti v 1 0 1 0 00005753
+subręsti v 1 0 1 0 00022380
+susidurti v 4 2 ! @ 4 0 00007296 00015868 00023557 00029577
+samprotauti v 2 1 ~ 2 0 00004794 00039717
+pamesti v 1 1 ! 1 0 00033315
+išgražinti v 1 0 1 0 00005687
+sukelti v 1 0 1 0 00005753
+priartėti v 1 1 * 1 0 00014560
+nuraminti v 2 2 ! @ 2 0 00014954 00018566
+pavykti v 1 3 ! ~ * 1 0 00022508
+pagelbėti v 1 2 ~ @ 1 0 00002698
+kentėti v 1 1 @ 1 0 00006429
+pripildyti v 2 3 ~ > @ 2 0 00003358 00012100
+ginčytis v 1 0 1 0 00021094
+atlikti v 3 1 @ 3 0 00006508 00020530 00034656
+iškęsti v 1 0 1 0 00024977
+pranešti v 3 2 ~ @ 3 0 00005558 00027193 00034067
+nueiti v 1 1 @ 1 0 00008258
+apimti v 2 2 ~ @ 2 0 00010211 00030804
+įkainioti v 1 1 ~ 1 0 00035611
+spaustis v 1 1 @ 1 0 00001413
+kikenti v 1 1 @ 1 0 00001276
+sužadinti v 1 3 ! ~ @ 1 0 00010689
+trukti v 2 0 2 0 00022451 00023190
+įkvėpti v 2 2 ~ @ 2 0 00006022 00010478
+girdėti v 1 0 1 0 00033196
+įgyvendinti v 1 0 1 0 00023834
+trūkti v 2 0 2 0 00032794 00040008
+pažadėti v 1 0 1 0 00000386
+suprasti v 2 0 2 0 00027740 00030030
+ne_būti v 1 0 1 0 00040008
+pasakyti v 1 1 ~ 1 0 00019039
+studijuoti v 1 0 1 0 00018788
+susukti v 1 1 @ 1 0 00018896
+tekėti v 2 0 2 0 00002427 00027588
+išplauti v 1 1 @ 1 0 00014483
+nužudyti v 1 1 > 1 0 00010081
+sužinoti v 2 1 ~ 2 0 00004093 00005558
+pasižiūrėti v 1 0 1 0 00025245
+taikyti v 1 0 1 0 00020191
+rėkti v 1 0 1 0 00037785
+atstovauti v 1 0 1 0 00024286
+malšinti v 1 0 1 0 00014954
+gydyti v 1 1 ~ 1 0 00035230
+tuoktis v 1 0 1 0 00027588
+keistis v 2 1 @ 2 0 00019417 00029206
+realizuoti v 2 1 @ 2 0 00006508 00023834
+tikti v 1 0 1 0 00036943
+pasisekti v 1 3 ! ~ * 1 0 00022508
+paprašyti v 2 2 ~ @ 2 0 00002029 00026703
+patempti_lūpą v 1 1 @ 1 0 00031984
+gimti v 1 1 ! 1 0 00014323
+telkti v 1 1 @ 1 0 00028879
+vystytis v 1 1 ~ 1 0 00035095
+ruošti v 1 0 1 0 00032605
+patirti v 1 0 1 0 00024977
+apriboti v 1 1 @ 1 0 00007425
+papiktinti v 1 0 1 0 00027394
+pasibaigti v 1 0 1 0 00006847
+nemiegoti v 1 2 ! ~ 1 0 00038728
+pabaigti v 1 1 ~ 1 0 00031393
+slėptis v 1 0 1 0 00011293
+užlenkti v 1 0 1 0 00034284
+užšalti v 1 0 1 0 00021880
+dalinti v 1 0 1 0 00024353
+balsuoti v 1 0 1 0 00002964
+atsigaivinti v 1 0 1 0 00021953
+žiaukčioti v 1 0 1 0 00039860
+atsiliepti v 2 2 ~ @ 2 0 00017404 00033987
+ardyti v 1 0 1 0 00015425
+eiti_į_kompromisą v 1 1 * 1 0 00009801
+išmatuoti v 1 1 ~ 1 0 00035611
+sulaikyti v 1 0 1 0 00012338
+nutilti v 1 0 1 0 00011857
+tepti_pomada v 1 0 1 0 00009037
+užsipildyti v 1 0 1 0 00023321
+žymėti v 1 1 ~ 1 0 00025448
+bėgti v 1 0 1 0 00001229
+pereiti v 1 1 @ 1 0 00006272
+vėl_pabusti v 1 1 ~ 1 0 00026297
+iškastruoti v 1 0 1 0 00004611
+atminti v 1 1 @ 1 0 00026155
+nertis v 1 1 ~ 1 0 00020839
+pradžiuginti v 1 1 @ 1 0 00035991
+griebti v 1 0 1 0 00025764
+pažymėti v 5 2 ~ @ 5 0 00012031 00012698 00025448 00026843 00027799
+ilsėtis v 1 1 ~ 1 0 00029760
+perduoti v 2 1 @ 2 0 00006664 00026482
+susidoroti v 1 0 1 0 00013312
+guldyti v 1 2 @ > 1 0 00035776
+sakyti v 1 1 ~ 1 0 00019039
+atgaivinti v 1 1 @ 1 0 00003155
+pakakti v 1 0 1 0 00010808
+atleisti v 1 1 ! 1 0 00026991
+sekti v 2 1 @ 2 0 00007813 00025909
+komentuoti v 1 0 1 0 00015374
+švarinti v 1 1 ~ 1 0 00002611
+reprezentuoti v 1 0 1 0 00024286
+triukšmauti v 1 0 1 0 00019585
+žaisti v 2 1 @ 2 0 00014665 00026422
+pulsuoti v 1 1 @ 1 0 00012538
+dėtis v 1 0 1 0 00038051
+mainyti v 1 0 1 0 00029206
+aplankyti v 1 0 1 0 00001353
+tvirtinti v 2 0 2 0 00005279 00032365
+gyventi v 3 3 ~ @ * 3 0 00004211 00035402 00037677
+parengti v 1 0 1 0 00032605
+sumokėti v 1 2 ~ @ 1 0 00005839
+miegoti v 1 3 ! ~ @ 1 0 00012999
+šikti v 1 0 1 0 00034596
+spręsti v 2 0 2 0 00013312 00025621
+siautėti v 1 1 @ 1 0 00028530
+išperėti v 1 1 * 1 0 00031186
+šokti v 1 2 @ ;c 1 0 00003797
+turėti v 4 2 ! ~ 4 0 00002294 00005398 00030804 00031557
+nustatyti_vietą v 1 1 @ 1 0 00008888
+išaiškinti v 1 1 ~ 1 0 00029402
+atskirti v 1 0 1 0 00007364
+šaudyti v 1 0 1 0 00038123
+paklausyti v 1 0 1 0 00026637
+uždirbti v 1 0 1 0 00020078
+atsigulti v 1 0 1 0 00001667
+praleisti v 2 1 ! 2 0 00004340 00011138
+pavartoti v 1 0 1 0 00010977
+raitytis_iš_juoko v 1 1 @ 1 0 00013508
+pavadinti v 2 2 ~ @ 2 0 00003087 00003272
+atsišakoti v 1 0 1 0 00005506
+šlykštėtis v 1 0 1 0 00025165
+nutikti v 1 0 1 0 00039661
+vaidinti v 2 2 @ ;c 2 0 00026924 00036265
+dūsauti v 1 1 @ 1 0 00015930
+išeiti v 2 3 ! ~ @ 2 0 00011921 00017139
+praplatinti v 1 1 @ 1 0 00030506
+prižadėti v 1 0 1 0 00000386
+stebėti v 2 2 ~ @ 2 0 00016131 00025909
+pakviesti v 1 0 1 0 00024226
+investuoti v 1 1 @ 1 0 00032058
+pasislėpti v 1 0 1 0 00011293
+užburti v 1 0 1 0 00030137
+tartis v 1 0 1 0 00018973
+kautis v 1 0 1 0 00013667
+atitikti v 1 0 1 0 00036943
+šokiruoti v 1 0 1 0 00027394
+prakaituoti v 1 0 1 0 00004143
+apsvarstyti v 1 1 ~ 1 0 00035611
+drebėti v 2 1 @ 2 0 00006908 00033763
+interpretuoti v 1 0 1 0 00034656
+mušti v 2 1 @ 2 0 00012538 00026045
+nustatyti v 1 1 ~ 1 0 00029402
+užsirašyti v 2 1 @ 2 0 00012698 00027799
+elgtis v 1 1 ~ 1 0 00016505
+apsidžiaugti v 1 1 @ 1 0 00035991
+parūpinti v 1 2 ~ @ 1 0 00009630
+pasiruošti v 1 0 1 0 00032605
+įsikurti v 1 2 ~ @ 1 0 00037677
+prispirti v 1 1 > 1 0 00005075
+įkurti v 1 0 1 0 00038239
+sujudėti v 1 2 ~ @ 1 0 00016009
+apmąstyti v 1 1 ~ 1 0 00004794
+paduoti v 2 2 ~ @ 2 0 00002880 00038389
+argumentuoti v 1 1 @ 1 0 00025377
+linkėti v 1 1 @ 1 0 00033129
+išlaikyti v 2 2 ~ @ 2 0 00017574 00037077
+nurodyti v 1 0 1 0 00003737
+kosėti v 1 1 @ 1 0 00001963
+dalintis v 1 1 @ 1 0 00020390
+būti_panašiam v 2 2 ~ @ 2 0 00007122 00007540
+padalinti v 1 0 1 0 00007364
+atšaukti v 1 0 1 0 00038526
+įvertinti v 3 1 ~ 3 0 00019133 00027972 00035611
+atspindėti v 1 1 ;c 1 0 00001727
+aprūpinti v 2 2 ~ @ 2 0 00002159 00009630
+trenktis v 1 2 ! @ 1 0 00029577
+apmokėti v 1 2 ~ @ 1 0 00005839
+snausti v 2 2 ~ @ 2 0 00011197 00028023
+plėstis v 1 1 ~ 1 0 00039369
+dirbti v 1 0 1 0 00005232
+gaudyti v 1 0 1 0 00025764
+sustingti v 1 1 @ 1 0 00017315
+šnirpšti v 1 1 @ 1 0 00020321
+atsisveikinti v 1 0 1 0 00011419
+pertvarkyti v 1 0 1 0 00029206
+būti_parduodamam v 1 1 @ 1 0 00024459
+priskirti v 1 1 ~ 1 0 00026843
+dalyvauti v 1 1 @ 1 0 00013137
+nunešti v 1 2 ! * 1 0 00017756
+atrodyti v 1 1 @ 1 0 00007540
+raminti v 2 2 ! @ 2 0 00014954 00018566
+žaižaruoti v 1 1 @ 1 0 00007207
+pajudėti v 1 1 ~ 1 0 00012169
+pervesti v 1 1 ~ 1 0 00008488
+užsičiaupti v 1 0 1 0 00011857
+sunaikinti v 1 0 1 0 00015425
+rastis v 1 0 1 0 00029337
+reikšti v 3 0 3 0 00003737 00013873 00039612
+priklausyti v 2 1 @ 2 0 00026103 00036195
+pasikalbėti v 1 0 1 0 00009467
+reaguoti v 1 2 ~ @ 1 0 00017404
+susiraukti v 1 0 1 0 00025114
+įkišti v 1 0 1 0 00021442
+skraidyti v 1 1 @ 1 0 00026559
+atimti_gyvybingumą v 1 0 1 0 00038466
+užtekti v 1 0 1 0 00010808
+prisiartinti v 1 1 * 1 0 00014560
+išversti v 1 1 @ 1 0 00020619
+keliauti v 2 1 ~ 2 0 00028365 00036416
+išsiurbti v 1 1 @ 1 0 00013585
+suplyšti v 1 0 1 0 00032794
+išgelbėti v 1 0 1 0 00000839
+pagauti v 1 0 1 0 00030030
+šundaktariauti v 1 2 @ ;c 1 0 00039123
+snūduriuoti v 2 1 @ 2 0 00028023 00034442
+pagrįsti v 1 0 1 0 00009403
+kolonizuoti v 1 0 1 0 00025315
+klaidingai_aiškinti v 1 0 1 0 00023247
+paleisti v 3 1 ! 3 0 00002552 00026991 00028201
+remti v 1 1 ~ 1 0 00010540
+platinti v 2 1 @ 2 0 00030506 00030960
+išmokyti v 1 2 ~ @ 1 0 00035307
+klestėti v 1 0 1 0 00005456
+gerti v 1 1 ~ 1 0 00009566
+klausti v 1 0 1 0 00038317
+supažindinti v 1 1 @ 1 0 00033592
+plėsti v 2 2 ~ @ 2 0 00030506 00039369
+keisti v 2 1 @ 2 0 00019417 00029206
+mirksėti v 2 2 ~ @ 2 0 00024145 00030389
+nusnūsti v 1 2 ~ @ 1 0 00011197
+gultis v 1 1 ~ 1 0 00004928
+prisiliesti v 1 1 ~ 1 0 00031645
+suskaičiuoti v 1 1 @ 1 0 00002795
+ištraukti v 1 1 @ 1 0 00013585
+kelti v 2 1 ~ 2 0 00005753 00026297
+mirktelėti v 1 1 @ 1 0 00038994
+užgesinti v 1 0 1 0 00011356
+vykti v 1 0 1 0 00003622
+atsigauti v 1 0 1 0 00037545
+daryti_grimasas v 1 1 ~ 1 0 00004691
+versti v 2 2 > @ 2 0 00005075 00020619
+praplėsti v 2 2 ~ @ 2 0 00030506 00039369
+nuteisti v 1 0 1 0 00024410
+dalytis v 1 1 @ 1 0 00020390

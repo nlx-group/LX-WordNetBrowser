@@ -1,0 +1,864 @@
+  01 This file is a derivation of the wn-slk-lmf.xml file; the original slk-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: slk
+  07 label: Slovak
+00000315 00 a 02 cudzí 0 zahraničný 0 002 = 01005815 n 0000 = 00133857 n 0000 |    
+00000402 00 a 01 plus 0 000 |    
+00000436 00 a 01 polárny 0 000 |    
+00000474 00 a 01 eukaryotický 0 000 |    
+00000517 00 a 01 neznesiteľný 0 000 |    
+00000561 00 a 01 integrovaný 0 000 |    
+00000603 00 a 03 zlý 0 nepríhodný 0 nepriaznivý 0 002 ! 00026296 a 0000 ^ 00025184 a 0000 |    
+00000703 00 a 01 dotknutý 0 000 |    
+00000742 00 a 02 vhodný 0 primeraný 0 001 ^ 00021057 a 0000 |    
+00000810 00 a 02 hrubý 0 drsný 0 002 = 00822753 n 0000 ^ 00002851 a 0000 |    
+00000891 00 a 01 podporný 0 001 ^ 00013650 a 0000 |    
+00000948 00 a 02 nestranný 0 objektívny 0 000 |    
+00001002 00 a 01 radioaktívny 0 000 |    
+00001045 00 a 01 nepredvídateľný 0 000 |    
+00001093 00 a 05 čestný 0 nevediaci 0 nevinný 0 bez_viny 0 poctivý 0 000 |    
+00001176 00 a 03 presvedčený 0 sebaistý 0 sebavedomý 0 001 = 00281554 n 0000 |    
+00001263 00 a 01 socialistický 0 001 ! 00007784 a 0000 |    
+00001325 00 a 01 krvavý 0 000 |    
+00001362 00 a 03 neplatný 0 zrušený 0 odvolaný 0 000 |    
+00001425 00 a 04 dovolený 0 legálny 0 povolený 0 právny 0 002 ! 00033712 a 0000 ^ 00036147 a 0000 |    
+00001533 00 a 04 nezávislý 0 arbitrárny 0 ľubovoľný 0 subjektívny 0 000 |    
+00001618 00 a 01 národný 0 002 ! 00010315 a 0000 ^ 00034886 a 0000 |    
+00001693 00 a 01 rýchly 0 001 ;c 01089689 n 0000 |    
+00001749 00 a 02 pravoslávny 0 ortodoxný 0 001 ;c 01008627 n 0000 |    
+00001823 00 a 01 nekompromisný 0 000 |    
+00001867 00 a 02 pasívny 0 nečinný 0 000 |    
+00001917 00 a 02 postačujúci 0 dostatočný 0 002 ! 00036067 a 0000 = 00510744 n 0000 |    
+00002011 00 a 01 potrestaný 0 000 |    
+00002052 00 a 01 kresťanský 0 001 ;c 01008627 n 0000 |    
+00002113 00 a 01 svetský 0 000 |    
+00002151 00 a 04 renomovaný 0 vážený 0 ocenený 0 uznávaný 0 001 = 00477555 n 0000 |    
+00002246 00 a 04 typický 0 vzorový 0 príznačný 0 charakteristický 0 000 |    
+00002330 00 a 03 láskavý 0 priaznivý 0 vľúdny 0 001 ^ 00007159 a 0000 |    
+00002411 00 a 02 neprijateľný 0 neakceptovateľný 0 000 |    
+00002476 00 a 05 pomocný 0 prospešný 0 užitočný 0 osožný 0 nápomocný 0 000 |    
+00002567 00 a 04 ženatý 0 zosobášený 0 vydatá 0 zosobášená 0 001 ! 00029947 a 0000 |    
+00002665 00 a 02 dynamický 0 energický 0 000 |    
+00002718 00 a 01 neskorý 0 001 ;c 00740121 n 0000 |    
+00002775 00 a 03 uspokojujúci 0 vďačný_(práca) 0 výnosný 0 000 |    
+00002851 00 a 02 drsný 0 hrboľatý 0 001 ^ 00000810 a 0000 |    
+00002918 00 a 02 riešený 0 vyriešený 0 000 |    
+00002971 00 a 02 štandardný 0 normovaný 0 003 ! 00009009 a 0000 = 00815394 n 0000 ^ 00026372 a 0000 |    
+00003080 00 a 08 predvídajúci 0 obozretný 0 eventuálny 0 prípadný 0 prezieravý 0 budúci 0 možný 0 perspektívny 0 001 ! 00010463 a 0000 |    
+00003232 00 a 01 nezodpovedný 0 002 ! 00026958 a 0000 = 00525341 n 0000 |    
+00003311 00 a 03 úmyselný 0 navrhnutý 0 zámerný 0 000 |    
+00003376 00 a 05 nezrozumiteľný 0 zle_vyslovujúci 0 neschopný_slova 0 nevýslovný 0 neartikulovaný 0 000 |    
+00003493 00 a 02 bezmocný 0 slabý 0 002 = 01289849 n 0000 ^ 00018712 a 0000 |    
+00003577 00 a 02 nekonečný 0 neobmedzený 0 000 |    
+00003633 00 a 03 agrárny 0 pozemkový 0 vlastniaci_pôdu 0 000 |    
+00003703 00 a 02 preventívny 0 kontrolný 0 000 |    
+00003758 00 a 03 vývozný 0 exportovateľný 0 exportný 0 000 |    
+00003828 00 a 02 zničený 0 poškodený 0 001 ^ 00006149 a 0000 |    
+00003899 00 a 08 výnimočný 0 mimoriadny 0 zriedkavý 0 zvláštny 0 pozoruhodný 0 neobyčajný 0 jedinečný 0 nezvyčajný 0 003 ! 00014715 a 0000 = 00192842 n 0000 ^ 00006680 a 0000 |    
+00004093 00 a 01 kontrolovaný 0 000 |    
+00004136 00 a 02 rovnaký 0 podobný 0 001 ! 00016733 a 0000 |    
+00004203 00 a 02 rovnaký 0 podobný 0 001 = 00268201 n 0000 |    
+00004270 00 a 01 integračný 0 001 ^ 00022831 a 0000 |    
+00004330 00 a 01 analytický 0 002 ;c 00908239 n 0000 ^ 00007674 a 0000 |    
+00004408 00 a 02 neistý 0 neurčitý 0 001 ^ 00014615 a 0000 |    
+00004476 00 a 03 konvenčný 0 bežný 0 tradičný 0 000 |    
+00004540 00 a 01 racionálny 0 001 ;c 00213471 n 0000 |    
+00004600 00 a 02 presný 0 dochvíľny 0 000 |    
+00004651 00 a 01 odvolací 0 001 ;c 00364664 n 0000 |    
+00004709 00 a 06 zvláštny 0 čudný 0 divný 0 neobyčajný 0 podivuhodný 0 nezvyčajný 0 001 ! 00025366 a 0000 |    
+00004831 00 a 03 operatívny 0 chirurgický 0 operačný 0 000 |    
+00004900 00 a 03 vonkajší 0 diaľkový_(štúdium) 0 mimo_mesta 0 000 |    
+00004978 00 a 04 nenarodený 0 nejestvujúci 0 doteraz_nenarodený 0 budúci 0 000 |    
+00005067 00 a 02 ohraničený 0 lemovaný 0 000 |    
+00005121 00 a 02 protestantský 0 evanjelický 0 001 ;c 01008627 n 0000 |    
+00005199 00 a 01 komunikatívny 0 000 |    
+00005243 00 a 01 nadprirodzený 0 001 ^ 00009468 a 0000 |    
+00005305 00 a 01 orientačný 0 001 ^ 00030041 a 0000 |    
+00005365 00 a 04 fyzický 0 hmotný 0 materiálny 0 materiálový 0 001 = 00384737 n 0000 |    
+00005461 00 a 03 mechanický 0 vyrobený_strojom 0 strojový 0 001 ! 00020170 a 0000 |    
+00005552 00 a 01 operačný 0 001 ;c 00584737 n 0000 |    
+00005611 00 a 02 bežný 0 tradičný 0 001 ! 00029170 a 0000 |    
+00005679 00 a 02 oddaný 0 poslušný 0 002 = 01148051 n 0000 ^ 00014146 a 0000 |    
+00005765 00 a 03 nevýnosný 0 nevýhodný 0 nerentabilný 0 000 |    
+00005836 00 a 03 nereálny 0 nehmotný 0 nepodstatný 0 002 ! 00026745 a 0000 = 00511067 n 0000 |    
+00005938 00 a 01 hovorový 0 001 ^ 00027531 a 0000 |    
+00005995 00 a 02 uspokojivý 0 spokojný 0 001 ! 00019709 a 0000 |    
+00006066 00 a 01 demokratický 0 000 |    
+00006109 00 a 01 organický 0 000 |    
+00006149 00 a 02 rozbitý 0 zlomený 0 002 = 00607382 n 0000 ^ 00003828 a 0000 |    
+00006234 00 a 02 necelý 0 neúplný 0 002 ! 00022680 a 0000 = 00914509 n 0000 |    
+00006319 00 a 03 závodný 0 súťaživý 0 konkurenčný 0 000 |    
+00006389 00 a 01 kresťanský 0 000 |    
+00006431 00 a 02 spoločenský 0 sociálny 0 001 = 01164877 n 0000 |    
+00006504 00 a 01 pripravený 0 000 |    
+00006545 00 a 02 nerovný 0 nepriamy 0 001 ! 00012045 a 0000 |    
+00006612 00 a 02 hmotný 0 konkrétny 0 001 ^ 00020578 a 0000 |    
+00006680 00 a 05 vzácny 0 výnimočný 0 zriedkavý 0 zvláštny 0 nezvyčajný 0 003 ! 00032419 a 0000 = 01406782 n 0000 ^ 00003899 a 0000 |    
+00006827 00 a 02 väčšina 0 najviac 0 000 |    
+00006877 00 a 04 nesporný 0 jednovýznamový 0 jednoznačný 0 jasný 0 000 |    
+00006960 00 a 02 povrchový 0 pozemný 0 000 |    
+00007011 00 a 03 krutý 0 necitlivý 0 bezcitný 0 000 |    
+00007072 00 a 03 uštipačný 0 sarkastický 0 jedovatý 0 001 = 01021507 n 0000 |    
+00007159 00 a 02 nevinný 0 neškodný 0 002 ^ 00002330 a 0000 ^ 00024457 a 0000 |    
+00007246 00 a 02 nemodifikovaný 0 nezmenený 0 000 |    
+00007304 00 a 02 súkromný 0 privátny 0 002 ^ 00019953 a 0000 ^ 00035692 a 0000 |    
+00007392 00 a 04 neschopný_prevádzky 0 nefungujúci 0 neúčinný 0 nevýkonný 0 001 ! 00012171 a 0000 |    
+00007504 00 a 03 moderný 0 štýlový 0 módny 0 000 |    
+00007564 00 a 02 dvojročný 0 bienálny 0 001 ;c 00996915 n 0000 |    
+00007636 00 a 01 dospelý 0 000 |    
+00007674 00 a 01 logický 0 004 ^ 00013976 a 0000 ^ 00027796 a 0000 ^ 00016135 a 0000 ^ 00004330 a 0000 |    
+00007784 00 a 01 kapitalistický 0 001 ! 00001263 a 0000 |    
+00007847 00 a 01 dobrovoľný 0 000 |    
+00007889 00 a 03 aktívny 0 činný 0 pracujúci 0 000 |    
+00007950 00 a 03 dovolený 0 prijateľný 0 prípustný 0 001 ! 00031965 a 0000 |    
+00008036 00 a 02 galvanický 0 elektrický 0 001 ;c 00012749 n 0000 |    
+00008110 00 a 01 ľudský 0 000 |    
+00008148 00 a 03 rýchly 0 chvatný 0 unáhlený 0 000 |    
+00008209 00 a 02 kreatívny 0 tvorivý 0 003 = 00317924 n 0000 ^ 00026578 a 0000 ^ 00027166 a 0000 |    
+00008314 00 a 03 skutočný 0 ozajstný 0 reálny 0 000 |    
+00008376 00 a 02 blízko 0 blízky 0 002 ! 00026084 a 0000 = 00989822 n 0000 |    
+00008459 00 a 01 hrateľný 0 000 |    
+00008499 00 a 02 aktuálny 0 súčasný 0 000 |    
+00008551 00 a 01 homosexuálny 0 001 = 00597475 n 0000 |    
+00008612 00 a 02 federálny 0 spolkový 0 001 ;c 00087411 n 0000 |    
+00008683 00 a 02 rázny 0 rozhodný 0 000 |    
+00008731 00 a 02 posledný 0 neskorý 0 001 = 00555593 n 0000 |    
+00008799 00 a 01 politický 0 000 |    
+00008839 00 a 03 povrchový 0 vonkajší 0 externý 0 002 ! 00031717 a 0000 = 00701028 n 0000 |    
+00008939 00 a 03 vyčerpávajúci 0 únavný 0 namáhavý 0 000 |    
+00009009 00 a 01 neštandardný 0 002 ! 00002971 a 0000 = 00815394 n 0000 |    
+00009089 00 a 02 nespracovaný 0 surový 0 000 |    
+00009142 00 a 03 označený 0 značkovaný 0 značený 0 000 |    
+00009209 00 a 01 robotnícky 0 000 |    
+00009250 00 a 03 pohybujúci 0 mobilný 0 pohyblivý 0 000 |    
+00009315 00 a 03 plošný 0 planárny 0 rovinný 0 000 |    
+00009376 00 a 05 zarmucujúci 0 žalostný 0 bolestný 0 nešťastný 0 smutný 0 000 |    
+00009468 00 a 02 nereálny 0 neskutočný 0 004 ! 00020578 a 0000 = 00043938 n 0000 ^ 00010008 a 0000 ^ 00005243 a 0000 |    
+00009594 00 a 01 lacný 0 001 ! 00022181 a 0000 |    
+00009648 00 a 01 starý 0 001 = 01365037 n 0000 |    
+00009702 00 a 01 ležiaci_priamo_nad 0 001 ! 00025828 a 0000 |    
+00009769 00 a 03 vymedzený 0 definovaný 0 jasný 0 000 |    
+00009832 00 a 01 nepokojný 0 001 ! 00024550 a 0000 |    
+00009890 00 a 05 maximový 0 maximálny 0 najvyšší 0 najväčší 0 čo_najväčší 0 001 ! 00019049 a 0000 |    
+00010008 00 a 03 predstieraný 0 sfalšovaný 0 falošný 0 001 ^ 00009468 a 0000 |    
+00010096 00 a 02 pokojný 0 vyrovnaný 0 001 ^ 00017390 a 0000 |    
+00010165 00 a 01 lepší 0 000 |    
+00010202 00 a 04 efektný 0 farebný 0 vzorovaný 0 módny 0 000 |    
+00010273 00 a 01 publikovaný 0 000 |    
+00010315 00 a 01 medzištátny 0 001 ! 00001618 a 0000 |    
+00010376 00 a 02 plnoletý 0 dospelý 0 002 ! 00028627 a 0000 ;c 00364664 n 0000 |    
+00010463 00 a 04 so_spätnou_účinnosťou 0 spätný 0 retroaktívny 0 retrospektívny 0 001 ! 00003080 a 0000 |    
+00010581 00 a 03 akurátny 0 správny 0 presný 0 000 |    
+00010641 00 a 04 dokončený 0 hotový 0 baigtas 0 pabaigtas 0 000 |    
+00010714 00 a 03 aktívny 0 čulý 0 živý 0 001 = 01210244 n 0000 |    
+00010788 00 a 01 komerčný 0 001 = 01012223 n 0000 |    
+00010846 00 a 03 udatný 0 odvážny 0 statočný 0 002 = 00174106 n 0000 ^ 00014395 a 0000 |    
+00010944 00 a 02 druhotný 0 sekundárny 0 001 ! 00036635 a 0000 |    
+00011015 00 a 02 trvajúci_celý_rok 0 celoročný 0 001 ! 00024107 a 0000 |    
+00011096 00 a 04 ľúbiaci 0 milujúci 0 oddaný 0 láskyplný 0 001 ^ 00018581 a 0000 |    
+00011189 00 a 03 mentálny 0 duševný 0 rozumový 0 001 ! 00035435 a 0000 |    
+00011270 00 a 02 hlasný 0 hlučný 0 001 ^ 00027244 a 0000 |    
+00011336 00 a 01 pravdepodobný 0 001 ! 00016452 a 0000 |    
+00011398 00 a 03 matematický 0 číselný 0 numerický 0 000 |    
+00011466 00 a 02 liberálny 0 slobodomyseľný 0 001 = 01284144 n 0000 |    
+00011543 00 a 01 farebný 0 001 ;c 00730510 n 0000 |    
+00011600 00 a 01 organický 0 001 ;c 00738699 n 0000 |    
+00011659 00 a 01 motivovaný 0 000 |    
+00011700 00 a 03 pokojný 0 mierny 0 vyrovnaný 0 001 ^ 00019786 a 0000 |    
+00011778 00 a 02 nízky 0 málopodlažný 0 000 |    
+00011832 00 a 03 zriedkavý 0 sporadický 0 ojedinelý 0 000 |    
+00011899 00 a 01 podpísaný 0 001 ! 00018391 a 0000 |    
+00011958 00 a 03 nedotknutý 0 nedojatý 0 neovplyvnený 0 001 ! 00016597 a 0000 |    
+00012045 00 a 01 paralelný 0 001 ! 00006545 a 0000 |    
+00012103 00 a 03 prieskumný 0 predbežný 0 výskumný 0 000 |    
+00012171 00 a 01 operatívny 0 001 ! 00007392 a 0000 |    
+00012230 00 a 02 anonymný 0 bezmenný 0 000 |    
+00012281 00 a 02 vlhký 0 mokrý 0 000 |    
+00012326 00 a 02 podstatný 0 zásadný 0 001 ;c 00364664 n 0000 |    
+00012397 00 a 02 existujúci 0 reálny 0 002 ! 00013888 a 0000 = 00151425 n 0000 |    
+00012484 00 a 02 nevyhovujúci 0 nevýhodný 0 000 |    
+00012541 00 a 02 neviditeľný 0 nezbadateľný 0 000 |    
+00012601 00 a 02 spojený 0 kombinovaný 0 000 |    
+00012654 00 a 03 informatívny 0 poučný 0 objasňujúci 0 000 |    
+00012724 00 a 03 obrátený_na_sever 0 k_severu_obrátený 0 severný 0 000 |    
+00012806 00 a 03 podmanivý 0 atraktívny 0 príťažlivý 0 001 = 01296591 n 0000 |    
+00012895 00 a 02 revolucionársky 0 revolučný 0 000 |    
+00012955 00 a 01 doprevádzaný 0 000 |    
+00012999 00 a 01 nenápadný 0 000 |    
+00013040 00 a 01 inflačný 0 001 ;c 00547993 n 0000 |    
+00013099 00 a 01 hrubý 0 001 = 00753851 n 0000 |    
+00013153 00 a 03 vzrušený 0 excitovaný 0 nadšený 0 000 |    
+00013219 00 a 01 nepresný 0 000 |    
+00013258 00 a 03 silno 0 hlasno 0 forte 0 000 |    
+00013310 00 a 04 menlivý 0 nestály 0 vrtkavý 0 premenlivý 0 000 |    
+00013384 00 a 02 mravný 0 bezúhonný 0 001 ^ 00025457 a 0000 |    
+00013453 00 a 02 dediteľný 0 dedičný 0 000 |    
+00013506 00 a 01 prekvapený 0 000 |    
+00013547 00 a 03 zafixovaný 0 upevnený 0 uchytený 0 000 |    
+00013612 00 a 01 nepriamy 0 000 |    
+00013650 00 a 01 pozitívny 0 003 = 00073794 n 0000 ^ 00032724 a 0000 ^ 00000891 a 0000 |    
+00013744 00 a 02 meštiacky 0 patriaci_k_strednej_triede 0 001 = 01157971 n 0000 |    
+00013831 00 a 01 jadrový 0 001 ;c 00420873 n 0000 |    
+00013888 00 a 02 potenciálny 0 možný 0 002 ! 00012397 a 0000 = 00067305 n 0000 |    
+00013976 00 a 01 múdry 0 002 ^ 00016135 a 0000 ^ 00007674 a 0000 |    
+00014048 00 a 01 unikajúci 0 001 ;c 00511770 n 0000 |    
+00014107 00 a 01 milovaný 0 000 |    
+00014146 00 a 01 dobrý 0 005 ! 00025184 a 0000 = 00073794 n 0000 ^ 00026296 a 0000 ^ 00015577 a 0000 ^ 00005679 a 0000 |    
+00014272 00 a 02 hlboký 0 nízko_položený_(hlas) 0 000 |    
+00014336 00 a 02 nedostatočný 0 neprimeraný 0 000 |    
+00014395 00 a 01 dobrodružný 0 001 ^ 00010846 a 0000 |    
+00014456 00 a 01 dramatický 0 001 ;c 01089689 n 0000 |    
+00014516 00 a 01 kvalitatívny 0 000 |    
+00014559 00 a 01 nočný 0 001 ;c 00420873 n 0000 |    
+00014615 00 a 03 vyvrátiteľný 0 bezvýsledný 0 nepreukázateľný 0 001 ^ 00004408 a 0000 |    
+00014715 00 a 04 zvyčajný 0 normálny 0 obyčajný 0 bežný 0 003 ! 00003899 a 0000 = 00192842 n 0000 ^ 00032419 a 0000 |    
+00014844 00 a 03 mladší 0 juniorský 0 nižší 0 001 ! 00020945 a 0000 |    
+00014924 00 a 02 neplánovaný 0 náhodný 0 000 |    
+00014979 00 a 02 príjemný 0 sympatický 0 001 ;c 00769565 n 0000 |    
+00015052 00 a 01 nespravodlivý 0 000 |    
+00015096 00 a 01 neznámy 0 000 |    
+00015134 00 a 01 aplikovaný 0 000 |    
+00015175 00 a 01 sladký 0 001 ^ 00023772 a 0000 |    
+00015230 00 a 01 regulovaný 0 000 |    
+00015271 00 a 02 ležiaci_zvonku_vozidla 0 prívesný 0 001 ! 00033784 a 0000 |    
+00015355 00 a 01 analytický 0 000 |    
+00015396 00 a 02 dôveryhodný 0 uveriteľný 0 002 ! 00029251 a 0000 = 00347431 n 0000 |    
+00015490 00 a 05 pružný 0 ohybný 0 flexibilný 0 pohyblivý 0 poddajný 0 000 |    
+00015577 00 a 01 lepší 0 000 |    
+00015614 00 a 02 aktívny 0 činný 0 000 |    
+00015662 00 a 03 horizontálny 0 vodorovný 0 rovný 0 001 = 00732537 n 0000 |    
+00015745 00 a 01 nájdený 0 000 |    
+00015784 00 a 03 pravidelný 0 pravidelne_sa_opakujúci 0 periodický 0 000 |    
+00015866 00 a 02 talentovaný 0 nadaný 0 000 |    
+00015918 00 a 04 zištný 0 nenásytný 0 majetnícky 0 hrabivý 0 000 |    
+00015995 00 a 02 určený_niekomu 0 adresovaný 0 000 |    
+00016055 00 a 01 hladný 0 000 |    
+00016092 00 a 01 prezidentský 0 000 |    
+00016135 00 a 02 racionálny 0 rozumový 0 003 ! 00024846 a 0000 ^ 00013976 a 0000 ^ 00007674 a 0000 |    
+00016242 00 a 01 alkoholický 0 000 |    
+00016284 00 a 02 severský 0 severný 0 002 ! 00025541 a 0000 = 00059603 n 0000 |    
+00016370 00 a 01 diplomatický 0 000 |    
+00016413 00 a 01 použitý 0 000 |    
+00016452 00 a 02 nepravdepodobný 0 neuveriteľný 0 001 ! 00011336 a 0000 |    
+00016533 00 a 01 nepravdepodobný 0 001 = 00070196 n 0000 |    
+00016597 00 a 02 pohnutý 0 dotknutý 0 001 ! 00011958 a 0000 |    
+00016665 00 a 02 vojenský 0 armádny 0 001 ! 00022248 a 0000 |    
+00016733 00 a 02 odlišný 0 rozdielny 0 001 ! 00004136 a 0000 |    
+00016802 00 a 02 nereálny 0 nemožný 0 001 = 00218041 n 0000 |    
+00016871 00 a 04 neprestajný 0 ustavičný 0 stály 0 nepretržitý 0 001 = 00457989 n 0000 |    
+00016970 00 a 03 riadený_posádkou 0 s_ľudskou_posádkou 0 obsadený_ľudskou_posádkou 0 001 ! 00018181 a 0000 |    
+00017090 00 a 01 presvedčivý 0 000 |    
+00017133 00 a 01 lokálny 0 001 ;c 01003260 n 0000 |    
+00017190 00 a 01 nevyužitý 0 000 |    
+00017231 00 a 03 honosný 0 namyslený,_ohromujúci 0 snobský 0 000 |    
+00017306 00 a 01 povojnový 0 000 |    
+00017346 00 a 01 porovnateľný 0 000 |    
+00017390 00 a 01 dôstojný 0 001 ^ 00010096 a 0000 |    
+00017448 00 a 02 efektívny 0 účinný 0 003 ! 00018712 a 0000 = 00713831 n 0000 ^ 00033178 a 0000 |    
+00017554 00 a 04 kalichovitý 0 podobný_kalichu 0 kališný 0 kalichový 0 001 ;c 00996915 n 0000 |    
+00017659 00 a 02 katalektický 0 neúplný 0 000 |    
+00017714 00 a 01 cestovný 0 000 |    
+00017753 00 a 03 horský 0 hornatý 0 vrchovitý 0 001 ! 00033290 a 0000 |    
+00017832 00 a 02 reprodukčný 0 produktívny 0 000 |    
+00017890 00 a 04 nespravodlivý 0 neférový 0 nečestný 0 nepoctivý 0 000 |    
+00017973 00 a 01 klasický 0 001 ;c 00311206 n 0000 |    
+00018031 00 a 03 dovolený 0 prístupný 0 prípustný 0 000 |    
+00018098 00 a 03 zaradený_na_zoznam 0 zahrnutý_do_zoznamu 0 uvedený 0 000 |    
+00018181 00 a 03 riadený_na_diaľku 0 bez_posádky 0 diaľkovo-riadený 0 001 ! 00016970 a 0000 |    
+00018284 00 a 04 cievnatý 0 cievny 0 vaskulárny 0 krvný 0 000 |    
+00018355 00 a 01 mokrý 0 000 |    
+00018391 00 a 01 nepodpísaný 0 001 ! 00011899 a 0000 |    
+00018452 00 a 02 nešťastný 0 dysforický 0 000 |    
+00018508 00 a 01 neistý 0 002 ^ 00036378 a 0000 ^ 00020855 a 0000 |    
+00018581 00 a 04 ľúbezný 0 roztomilý 0 sympatický 0 milý 0 001 ^ 00011096 a 0000 |    
+00018674 00 a 01 predaný 0 000 |    
+00018712 00 a 02 neefektívny 0 neúčinný 0 003 ! 00017448 a 0000 = 00713831 n 0000 ^ 00003493 a 0000 |    
+00018822 00 a 03 prítomný 0 terajší 0 súčasný 0 001 = 00555593 n 0000 |    
+00018905 00 a 02 schopný 0 kompetentný 0 001 ^ 00036721 a 0000 |    
+00018976 00 a 02 spôsobilý 0 oprávnený 0 001 ^ 00036721 a 0000 |    
+00019049 00 a 02 najmenší 0 minimálny 0 001 ! 00009890 a 0000 |    
+00019120 00 a 04 nespravodlivý 0 nečestný 0 nepoctivý 0 bezcharakterný 0 000 |    
+00019208 00 a 03 obsahujúci_vodu 0 hydratovaný 0 vodnatý 0 001 ;c 00738699 n 0000 |    
+00019299 00 a 02 poháňaný_niečím 0 motorový 0 000 |    
+00019361 00 a 03 perfektný 0 bezchybný 0 dokonalý 0 001 = 00793848 n 0000 |    
+00019444 00 a 01 prijatý_bez_námietok 0 000 |    
+00019496 00 a 02 nájomný 0 prenajímateľný 0 000 |    
+00019555 00 a 02 unilaterálny 0 jednostranný 0 000 |    
+00019614 00 a 01 odvolateľný 0 000 |    
+00019657 00 a 02 súcitiaci 0 súcitný 0 000 |    
+00019709 00 a 01 nespokojný 0 002 ! 00005995 a 0000 ^ 00021463 a 0000 |    
+00019786 00 a 02 jemný 0 mierny 0 003 ! 00021826 a 0000 = 00345947 n 0000 ^ 00011700 a 0000 |    
+00019885 00 a 03 dôležitý 0 kľúčový 0 podstatný 0 000 |    
+00019953 00 a 02 ezoterický 0 tajný 0 001 ^ 00007304 a 0000 |    
+00020021 00 a 01 spisovný 0 001 ;c 00740121 n 0000 |    
+00020079 00 a 01 rasový 0 000 |    
+00020116 00 a 02 zhovievavý 0 milosrdný 0 000 |    
+00020170 00 a 02 ručný 0 ručne_vyrobený 0 001 ! 00005461 a 0000 |    
+00020244 00 a 01 na_plný_úväzok 0 000 |    
+00020291 00 a 01 mierny 0 000 |    
+00020327 00 a 02 spratný 0 ľahko_ovládateľný 0 000 |    
+00020389 00 a 02 ideálny 0 teoretický 0 000 |    
+00020441 00 a 03 prijateľný 0 chutný_(jedlo) 0 schodný_(riešenie) 0 003 ! 00036217 a 0000 ^ 00028455 a 0000 ^ 00029097 a 0000 |    
+00020578 00 a 03 skutočný 0 ozajstný 0 reálny 0 003 ! 00009468 a 0000 = 00043938 n 0000 ^ 00006612 a 0000 |    
+00020694 00 a 02 finálny 0 dokončený 0 000 |    
+00020746 00 a 02 nezávislý 0 neutrálny 0 000 |    
+00020800 00 a 01 horúci 0 001 = 00786531 n 0000 |    
+00020855 00 a 02 nebezpečný 0 rizikový 0 002 ! 00024457 a 0000 ^ 00018508 a 0000 |    
+00020945 00 a 04 starší 0 nadriadený 0 seniorský 0 vyšší 0 002 ! 00014844 a 0000 ^ 00025071 a 0000 |    
+00021057 00 a 03 správny 0 vhodný 0 náležitý 0 002 = 00094487 n 0000 ^ 00000742 a 0000 |    
+00021155 00 a 02 predajný 0 idúci_na_odbyt 0 000 |    
+00021212 00 a 03 rozvážny 0 rozumný 0 jasne_uvažujúci 0 000 |    
+00021283 00 a 03 absolútny 0 stopercentný 0 úplný 0 001 ! 00029561 a 0000 |    
+00021367 00 a 02 nevhodný 0 nevýhodný 0 000 |    
+00021420 00 a 01 civilizovaný 0 000 |    
+00021463 00 a 01 nespokojný 0 001 ^ 00019709 a 0000 |    
+00021522 00 a 04 neočakávaný 0 nepredvídaný 0 nečakaný 0 náhly 0 000 |    
+00021605 00 a 01 napísaný 0 000 |    
+00021645 00 a 01 dramatický 0 000 |    
+00021686 00 a 01 náročný 0 000 |    
+00021726 00 a 01 informovaný 0 000 |    
+00021768 00 a 01 prítomný 0 001 = 00087124 n 0000 |    
+00021826 00 a 02 silný 0 intenzívny 0 002 ! 00019786 a 0000 = 00345947 n 0000 |    
+00021912 00 a 03 stály 0 permanentný 0 trvalý 0 001 = 00885721 n 0000 |    
+00021991 00 a 02 neokrídlený 0 bezkrídly 0 000 |    
+00022047 00 a 01 priaznivý 0 001 ! 00036007 a 0000 |    
+00022105 00 a 03 plodný 0 bohatý 0 úrodný 0 001 ^ 00027166 a 0000 |    
+00022181 00 a 02 nákladný 0 drahý 0 001 ! 00009594 a 0000 |    
+00022248 00 a 01 civilný 0 001 ! 00016665 a 0000 |    
+00022304 00 a 02 istý 0 zaručený 0 000 |    
+00022352 00 a 02 potrebný 0 nutný 0 002 ! 00028705 a 0000 = 00649740 n 0000 |    
+00022436 00 a 03 zdaniteľný 0 daňový 0 podliehajúci_dani 0 000 |    
+00022510 00 a 02 tranzitívny 0 prechodný 0 001 ;c 01167024 n 0000 |    
+00022584 00 a 01 bratský 0 000 |    
+00022622 00 a 01 kvantový 0 001 ;c 00927610 n 0000 |    
+00022680 00 a 02 kompletný 0 úplný 0 002 ! 00006234 a 0000 = 00914509 n 0000 |    
+00022766 00 a 03 pôsobiaci 0 funkčný 0 fungujúci 0 000 |    
+00022831 00 a 01 integrovaný 0 001 ^ 00004270 a 0000 |    
+00022891 00 a 02 znalý 0 vedomý_si 0 002 = 01392270 n 0000 ^ 00036452 a 0000 |    
+00022976 00 a 02 obranný 0 defenzívny 0 001 ! 00024001 a 0000 |    
+00023046 00 a 01 nedeliteľný 0 000 |    
+00023089 00 a 01 nie_pitný 0 000 |    
+00023129 00 a 04 kompletný 0 úplný 0 v_plnom_znení 0 neskrátený 0 000 |    
+00023211 00 a 04 rozdeľovací 0 rozdeľujúci 0 distribučný 0 distributívny 0 000 |    
+00023303 00 a 02 sporný 0 napadnuteľný 0 001 ^ 00034625 a 0000 |    
+00023375 00 a 01 progresívny 0 001 ;c 01155780 n 0000 |    
+00023436 00 a 01 bosý 0 001 ;c 01008627 n 0000 |    
+00023490 00 a 02 severský 0 severný 0 001 ! 00030234 a 0000 |    
+00023558 00 a 02 zmagnetizovaný 0 magnetický 0 000 |    
+00023617 00 a 01 netradičný 0 000 |    
+00023659 00 a 02 výberový 0 vybraný 0 000 |    
+00023710 00 a 03 väčší 0 hlavný 0 významný 0 000 |    
+00023772 00 a 02 sladký 0 sladkastý 0 002 ^ 00029097 a 0000 ^ 00015175 a 0000 |    
+00023858 00 a 04 druhý 0 opačný 0 iný 0 ostatný 0 001 = 00351016 n 0000 |    
+00023941 00 a 03 rozvážny 0 rozumný 0 múdry 0 000 |    
+00024001 00 a 02 výbojný 0 ofenzívny 0 001 ! 00022976 a 0000 |    
+00024071 00 a 01 letný 0 000 |    
+00024107 00 a 01 sezónny 0 001 ! 00011015 a 0000 |    
+00024163 00 a 01 nezávislý 0 001 = 01236376 n 0000 |    
+00024222 00 a 03 fiškálny 0 majetkový 0 finančný 0 000 |    
+00024288 00 a 06 relevantný 0 patričný 0 podstatný 0 príslušný 0 náležitý 0 závažný 0 000 |    
+00024397 00 a 03 elegantný 0 moderný 0 módny 0 000 |    
+00024457 00 a 02 bezpečnostný 0 bezpečný 0 002 ! 00020855 a 0000 ^ 00007159 a 0000 |    
+00024550 00 a 03 mierumilovný 0 pokojný 0 mierový 0 001 ! 00009832 a 0000 |    
+00024633 00 a 02 maličký 0 drobný 0 002 ! 00029000 a 0000 = 00012538 n 0000 |    
+00024718 00 a 01 ozbrojený 0 001 ;c 00584737 n 0000 |    
+00024777 00 a 02 zasadený 0 nasadený 0 001 ! 00027914 a 0000 |    
+00024846 00 a 03 nelogický 0 iracionálny 0 absurdný 0 001 ! 00016135 a 0000 |    
+00024931 00 a 02 priestranný 0 pohodlný 0 000 |    
+00024985 00 a 01 aktívny 0 000 |    
+00025023 00 a 02 bez_trávy 0 holý 0 000 |    
+00025071 00 a 01 starý 0 002 = 01365037 n 0000 ^ 00020945 a 0000 |    
+00025143 00 a 01 materinský 0 000 |    
+00025184 00 a 04 zlý 0 nedobrý 0 nehodný 0 nesprávny 0 003 ! 00014146 a 0000 = 00073794 n 0000 ^ 00000603 a 0000 |    
+00025307 00 a 01 chronický 0 001 ;c 01003260 n 0000 |    
+00025366 00 a 04 typický 0 klasický 0 obyčajný 0 bežný 0 001 ! 00004709 a 0000 |    
+00025457 00 a 02 mravný 0 morálny 0 002 = 01089136 n 0000 ^ 00013384 a 0000 |    
+00025541 00 a 02 južanský 0 južný 0 003 ! 00016284 a 0000 = 00625748 n 0000 = 00236476 n 0000 |    
+00025645 00 a 02 intelektuálny 0 rozumový 0 000 |    
+00025701 00 a 02 domáci 0 náš 0 001 ;c 00959149 n 0000 |    
+00025765 00 a 03 poučný 0 osvetový 0 výchovný 0 000 |    
+00025828 00 a 02 ležiaci_nižšie 0 spodný 0 001 ! 00009702 a 0000 |    
+00025903 00 a 01 oficiálny 0 000 |    
+00025943 00 a 03 skromný 0 nedostatočný 0 obmedzený 0 001 = 00510744 n 0000 |    
+00026029 00 a 02 chirurgický 0 operačný 0 000 |    
+00026084 00 a 02 vzdialený 0 ďaleký 0 002 ! 00008376 a 0000 = 00989822 n 0000 |    
+00026171 00 a 02 aktívny 0 činný 0 001 = 00870808 n 0000 |    
+00026237 00 a 03 nemilý 0 nedobrý 0 štedrý 0 000 |    
+00026296 00 a 01 priaznivý 0 002 ! 00000603 a 0000 ^ 00014146 a 0000 |    
+00026372 00 a 01 normálny 0 002 ! 00031804 a 0000 ^ 00002971 a 0000 |    
+00026447 00 a 01 reprezentujúci 0 000 |    
+00026492 00 a 03 nepremostiteľný 0 nepreklenuteľný 0 neprekonateľný 0 000 |    
+00026578 00 a 03 svojrázny 0 originálny 0 svojský 0 002 ^ 00008209 a 0000 ^ 00036635 a 0000 |    
+00026679 00 a 03 metalický 0 kovový 0 metalizovaný 0 000 |    
+00026745 00 a 03 skutočný 0 reálny 0 materiálny 0 003 ! 00005836 a 0000 = 00511067 n 0000 ^ 00033015 a 0000 |    
+00026863 00 a 01 prepojený 0 001 = 00982676 n 0000 |    
+00026921 00 a 01 domáci 0 000 |    
+00026958 00 a 02 dôveryhodný 0 zodpovedný 0 003 ! 00003232 a 0000 = 00525341 n 0000 ^ 00028894 a 0000 |    
+00027069 00 a 02 malý 0 nízky 0 000 |    
+00027113 00 a 02 melodický 0 muzikálny 0 000 |    
+00027166 00 a 01 produktívny 0 002 ^ 00022105 a 0000 ^ 00008209 a 0000 |    
+00027244 00 a 02 hlasný 0 hlučný 0 001 ^ 00011270 a 0000 |    
+00027310 00 a 04 smiešny 0 komický 0 žartovný 0 komediálny 0 001 ;c 00769565 n 0000 |    
+00027405 00 a 01 pozorný 0 001 = 01249374 n 0000 |    
+00027461 00 a 02 nukleárny 0 jadrový 0 001 ;c 00927610 n 0000 |    
+00027531 00 a 02 neformálny 0 neoficiálny 0 001 ^ 00005938 a 0000 |    
+00027605 00 a 03 pravidelný 0 cyklický 0 kruhový 0 000 |    
+00027669 00 a 03 skutočný 0 vnútorný 0 podstatný 0 000 |    
+00027735 00 a 02 behavý 0 prispôsobený_na_beh 0 000 |    
+00027796 00 a 04 usporiadaný 0 konzistentný 0 logický 0 dôsledný 0 002 ^ 00016135 a 0000 ^ 00007674 a 0000 |    
+00027914 00 a 01 nezasadený 0 001 ! 00024777 a 0000 |    
+00027973 00 a 01 národný 0 001 ! 00030415 a 0000 |    
+00028030 00 a 05 preľudnený 0 preplnený 0 prepchatý 0 nabitý 0 plný_ľudí 0 000 |    
+00028123 00 a 02 homogénny 0 jednotný 0 000 |    
+00028175 00 a 02 etický 0 morálny 0 000 |    
+00028223 00 a 02 vojenský 0 armádny 0 000 |    
+00028273 00 a 01 svetlý 0 000 |    
+00028310 00 a 02 kompetentný 0 právne_spôsobilý 0 001 ! 00031369 a 0000 |    
+00028392 00 a 02 horúci 0 nový 0 001 = 01058987 n 0000 |    
+00028455 00 a 02 požívateľný 0 jedlý 0 001 ^ 00020441 a 0000 |    
+00028527 00 a 01 poverený 0 000 |    
+00028566 00 a 03 zrejmý 0 hmatateľný 0 jasný 0 000 |    
+00028627 00 a 01 neplnoletý 0 002 ! 00010376 a 0000 ;c 00364664 n 0000 |    
+00028705 00 a 02 nepotrebný 0 zbytočný 0 002 ! 00022352 a 0000 = 00649740 n 0000 |    
+00028795 00 a 01 teplokrvný 0 001 ;c 00271745 n 0000 |    
+00028855 00 a 01 artézsky 0 000 |    
+00028894 00 a 03 dôveryhodný 0 spoľahlivý 0 dôverný 0 002 ^ 00026958 a 0000 ^ 00031045 a 0000 |    
+00029000 00 a 03 početný 0 veľký 0 obrovský 0 002 ! 00024633 a 0000 = 00012538 n 0000 |    
+00029097 00 a 01 chutný 0 002 ^ 00020441 a 0000 ^ 00023772 a 0000 |    
+00029170 00 a 03 nukleárny 0 jadrový 0 atómový 0 001 ! 00005611 a 0000 |    
+00029251 00 a 02 neuveriteľný 0 fantastický 0 002 ! 00015396 a 0000 = 00347431 n 0000 |    
+00029346 00 a 01 označený 0 000 |    
+00029386 00 a 03 správny 0 gramatický 0 pravopisný 0 000 |    
+00029452 00 a 03 jednotvárny 0 pokojný 0 nudný 0 000 |    
+00029514 00 a 02 chorý 0 nemocný 0 000 |    
+00029561 00 a 01 pomerný 0 001 ! 00021283 a 0000 |    
+00029617 00 a 03 v_skutočnosti 0 de_facto 0 fakticky 0 001 ^ 00020578 a 0000 |    
+00029701 00 a 04 plavbyschopný 0 schopný_plavby_po_mori 0 spôsobilý_na_moreplavbu 0 spôsobilý_pre_námornú_plavbu 0 002 ! 00035119 a 0000 = 00717088 n 0000 |    
+00029870 00 a 01 priaznivý 0 000 |    
+00029910 00 a 01 radový 0 000 |    
+00029947 00 a 04 neženatý 0 slobodná 0 slobodný 0 nevydatá 0 001 ! 00002567 a 0000 |    
+00030041 00 a 02 orientovaný 0 zorientovaný 0 001 ^ 00005305 a 0000 |    
+00030117 00 a 03 existujúci_medzi_štátmi_federácie 0 medzištátny 0 medzi_dvoma_alebo_viac_štátmi 0 000 |    
+00030234 00 a 01 južný 0 002 ! 00023490 a 0000 = 01122665 n 0000 |    
+00030307 00 a 03 plný_hviezd 0 hviezdnatý 0 hviezdny 0 000 |    
+00030374 00 a 01 požehnaný 0 000 |    
+00030415 00 a 02 miestny 0 lokálny 0 001 ! 00027973 a 0000 |    
+00030481 00 a 01 stratový 0 000 |    
+00030520 00 a 02 pohodlný 0 príjemný 0 001 = 00586986 n 0000 |    
+00030590 00 a 01 inštitucionálny 0 000 |    
+00030637 00 a 02 melodický 0 muzikálny 0 000 |    
+00030690 00 a 02 najbližší 0 približný 0 000 |    
+00030746 00 a 03 rodičovský 0 materinský 0 otcovský 0 000 |    
+00030814 00 a 04 máloktorý 0 zopár 0 niektorý 0 niekoľký 0 000 |    
+00030889 00 a 03 indoorový 0 krytý 0 izbový 0 000 |    
+00030948 00 a 01 neobvyklý 0 000 |    
+00030988 00 a 02 jednovaječný 0 identický 0 000 |    
+00031045 00 a 02 dôveryhodný 0 spoľahlivý 0 001 ^ 00028894 a 0000 |    
+00031121 00 a 01 nestráviteľný 0 000 |    
+00031167 00 a 03 všeobecný 0 spoločný 0 celkový 0 001 = 01363425 n 0000 |    
+00031250 00 a 01 priemyselný 0 000 |    
+00031292 00 a 01 neskorý 0 000 |    
+00031330 00 a 01 sieťový 0 000 |    
+00031369 00 a 04 neschopný 0 nekvalifikovaný 0 nekompetentný 0 nespôsobilý 0 002 ! 00028310 a 0000 ;c 00364664 n 0000 |    
+00031498 00 a 01 nesmrteľný 0 000 |    
+00031540 00 a 01 podmienený 0 000 |    
+00031581 00 a 02 zmagnetizovateľný 0 magnetický 0 000 |    
+00031644 00 a 02 geografický 0 zemepisný 0 001 ! 00033359 a 0000 |    
+00031717 00 a 02 interný 0 vnútorný 0 002 ! 00008839 a 0000 = 00701028 n 0000 |    
+00031804 00 a 04 neobvyklý 0 abnormálny 0 neprirodzený 0 nezvyčajný 0 001 ! 00026372 a 0000 |    
+00031907 00 a 01 solventný 0 001 ! 00032903 a 0000 |    
+00031965 00 a 02 neprijateľný 0 neprípustný 0 001 ! 00007950 a 0000 |    
+00032043 00 a 03 neposedný 0 nepokojný 0 nervózny 0 000 |    
+00032108 00 a 03 rôzny 0 rozdielny 0 iný 0 002 = 00254494 n 0000 ^ 00016733 a 0000 |    
+00032199 00 a 03 pôsobiaci_na_psychiku 0 psychoaktívny 0 psychotropný 0 000 |    
+00032284 00 a 02 argumentačný 0 argumentujúci_(človek) 0 000 |    
+00032355 00 a 03 správny 0 vhodný 0 odporúčaný 0 000 |    
+00032419 00 a 04 všeobecný 0 obyčajný 0 bežný 0 priemerný 0 004 ! 00006680 a 0000 = 01406782 n 0000 ^ 00014715 a 0000 ^ 00034430 a 0000 |    
+00032568 00 a 03 konvenčný 0 tradicionalistický 0 tradičný 0 000 |    
+00032644 00 a 03 schopný_nápravy 0 opraviteľný 0 napraviteľný 0 000 |    
+00032724 00 a 01 konštruktívny 0 002 ! 00033092 a 0000 ^ 00013650 a 0000 |    
+00032805 00 a 03 syndetický 0 spojený_pomocou_spojok 0 spojkový 0 001 ;c 01167024 n 0000 |    
+00032903 00 a 03 neschopný_platiť 0 platobne_neschopný 0 insolventný_dlžník 0 001 ! 00031907 a 0000 |    
+00033015 00 a 01 materiálny 0 002 = 00384737 n 0000 ^ 00026745 a 0000 |    
+00033092 00 a 03 deštruktívny 0 ničivý 0 škodlivý 0 001 ! 00032724 a 0000 |    
+00033178 00 a 01 silný 0 001 ^ 00017448 a 0000 |    
+00033232 00 a 02 obranný 0 ospravedlňujúci 0 000 |    
+00033290 00 a 02 nižný 0 nížinatý 0 001 ! 00017753 a 0000 |    
+00033359 00 a 01 magnetický 0 001 ! 00031644 a 0000 |    
+00033418 00 a 02 jazykovedný 0 jazykový 0 000 |    
+00033472 00 a 03 nenásytný 0 neprekonateľný 0 neukojiteľný 0 000 |    
+00033549 00 a 02 nasledujúci 0 následný 0 000 |    
+00033604 00 a 04 verejný 0 zreteľný 0 jasný 0 zjavný 0 000 |    
+00033674 00 a 01 hlasový 0 000 |    
+00033712 00 a 02 nezákonný 0 nelegálny 0 001 ! 00001425 a 0000 |    
+00033784 00 a 04 na_strane_prevodovky 0 ležiaci_vo_vnútri 0 vnútorný 0 na_strane_diferenciálu 0 001 ! 00015271 a 0000 |    
+00033913 00 a 01 bezdrôtový 0 000 |    
+00033955 00 a 01 otvorený 0 000 |    
+00033994 00 a 04 odolný 0 neovplyvniteľný 0 nenáchylný 0 nepodliehajúci 0 001 = 00917348 n 0000 |    
+00034102 00 a 02 komplexný 0 kompletný 0 001 = 01033825 n 0000 |    
+00034173 00 a 03 klesajúci_vzduch 0 katabatický_(vietor) 0 zostupný 0 000 |    
+00034256 00 a 01 vyvinutý 0 000 |    
+00034295 00 a 02 vážny 0 seriózny 0 001 = 00196331 n 0000 |    
+00034362 00 a 03 výstražný 0 odradzujúci 0 varovný 0 000 |    
+00034430 00 a 02 obyčajný 0 bežný 0 003 = 00703394 n 0000 ^ 00014715 a 0000 ^ 00032419 a 0000 |    
+00034534 00 a 01 estetický 0 000 |    
+00034574 00 a 02 naivný 0 neskúsený 0 000 |    
+00034625 00 a 04 otázny 0 sporný 0 pochybný 0 diskutabilný 0 001 ^ 00023303 a 0000 |    
+00034718 00 a 03 hovoriaci 0 rozprávajúci 0 hovorený 0 000 |    
+00034786 00 a 03 ležiaci_uprostred 0 stredný 0 smerujúci_k_stredu 0 001 ;c 00611224 n 0000 |    
+00034886 00 a 01 domáci 0 001 ^ 00001618 a 0000 |    
+00034941 00 a 01 ortodoxný 0 001 ;c 01008627 n 0000 |    
+00035000 00 a 01 rovnaký 0 000 |    
+00035038 00 a 02 pracujúci_na_voľnej_nohe 0 samostatne_zárobkový 0 000 |    
+00035119 00 a 01 neschopný_plavby_po_mori 0 002 ! 00029701 a 0000 = 00717088 n 0000 |    
+00035210 00 a 03 zvyčajný 0 bežný 0 tradičný 0 000 |    
+00035273 00 a 02 hrateľný 0 schopný_hratia 0 000 |    
+00035331 00 a 01 plánovaný 0 000 |    
+00035372 00 a 02 chudý 0 tenký 0 001 = 00155111 n 0000 |    
+00035435 00 a 01 fyzický 0 001 ! 00011189 a 0000 |    
+00035491 00 a 03 súčasný 0 existujúci 0 jestvujúci 0 001 = 01200571 n 0000 |    
+00035577 00 a 01 neschopný_byť_zamestnaný 0 000 |    
+00035634 00 a 02 informatívny 0 informačný 0 000 |    
+00035692 00 a 01 osobný 0 001 ^ 00007304 a 0000 |    
+00035747 00 a 01 výstižný 0 000 |    
+00035788 00 a 03 bez_peria 0 neoperený 0 holý 0 000 |    
+00035848 00 a 02 ekologický 0 bionomický 0 001 ;c 00420873 n 0000 |    
+00035922 00 a 01 financovaný 0 000 |    
+00035964 00 a 01 sprevádzaný 0 000 |    
+00036007 00 a 01 nešťastný 0 001 ! 00022047 a 0000 |    
+00036067 00 a 01 nedostatočný 0 002 ! 00001917 a 0000 = 00510744 n 0000 |    
+00036147 00 a 02 zákonný 0 legitímny 0 001 ^ 00001425 a 0000 |    
+00036217 00 a 03 neprijateľný 0 nechutný 0 nepríjemný 0 001 ! 00020441 a 0000 |    
+00036306 00 a 03 bezdôvodný 0 nezmyselný 0 bezvýznamný 0 000 |    
+00036378 00 a 02 bez_ochrany 0 nechránený 0 001 ^ 00018508 a 0000 |    
+00036452 00 a 01 citlivý 0 001 ^ 00022891 a 0000 |    
+00036508 00 a 01 istý 0 002 = 01185394 n 0000 = 00011798 n 0000 |    
+00036579 00 a 01 farebný 0 001 = 01252554 n 0000 |    
+00036635 00 a 02 prvotný 0 primárny 0 002 ! 00010944 a 0000 ^ 00026578 a 0000 |    
+00036721 00 a 03 odborný 0 študovaný 0 kvalifikovaný 0 002 ^ 00018905 a 0000 ^ 00018976 a 0000 |    
+00036826 00 a 02 slepý_v_dôsledku_amaurózy 0 amaurotický 0 000 |    
+00036899 00 a 01 nebeský 0 000 |    
+00036937 00 a 01 motivačný 0 000 |    
+00036978 00 a 02 bibliomanský 0 bibliofilský 0 000 |    
+00037037 00 a 01 dramaturgický 0 000 |    
+00037081 00 a 02 cirkulačný 0 obehový_(systém) 0 000 |    
+00037144 00 a 03 medicínsky 0 liečivý 0 lekársky 0 000 |    
+00037209 00 a 01 priepustný 0 000 |    
+00037250 00 a 01 vojenský 0 000 |    
+00037289 00 a 01 geometrický 0 000 |    
+00037331 00 a 01 nebeský 0 000 |    
+00037369 00 a 01 magnetický 0 000 |    
+00037410 00 a 01 kanadský 0 000 |    
+00037449 00 a 01 jazdecký 0 000 |    
+00037488 00 a 01 apoštolský 0 000 |    
+00037530 00 a 01 americký 0 000 |    
+00037569 00 a 01 palestínsky 0 000 |    
+00037611 00 a 01 komunikačný 0 000 |    
+00037654 00 a 01 demokratický 0 000 |    
+00037697 00 a 02 rómsky 0 cigánsky 0 000 |    
+00037746 00 a 02 národný 0 národnostný 0 000 |    
+00037801 00 a 01 hudobný 0 000 |    
+00037839 00 a 01 anglický 0 000 |    
+00037878 00 a 01 osobný 0 000 |    
+00037915 00 a 01 politický 0 000 |    
+00037955 00 a 01 konský 0 000 |    
+00037992 00 a 01 literárny 0 000 |    
+00038032 00 a 02 psychiatrický 0 duševný 0 000 |    
+00038088 00 a 01 rodinný 0 000 |    
+00038126 00 a 01 alpský 0 000 |    
+00038163 00 a 02 poľnohospodársky 0 agronomický 0 000 |    
+00038226 00 a 03 obecný 0 farský 0 provinčný 0 000 |    
+00038287 00 a 01 nemecký 0 000 |    
+00038325 00 a 01 holandský 0 000 |    
+00038365 00 a 01 klimatický 0 000 |    
+00038406 00 a 01 kapitalistický 0 000 |    
+00038451 00 a 04 v_tvare_zvona 0 zvonkovitý 0 podobný_zvončeku 0 zvončekovitý 0 000 |    
+00038546 00 a 01 geologický 0 000 |    
+00038587 00 a 02 experimentálny 0 skúšobný 0 000 |    
+00038646 00 a 01 dramatický 0 000 |    
+00038687 00 a 03 úsekový 0 oblastný 0 odborový 0 000 |    
+00038750 00 a 01 ministerský 0 000 |    
+00038792 00 a 01 belgický 0 000 |    
+00038831 00 a 02 mentálny 0 duševný 0 000 |    
+00038882 00 a 04 semenný 0 produkujúci_alebo_obsahujúci_semeno 0 semenovodný 0 semenonosný 0 000 |    
+00038990 00 a 01 mariánsky 0 000 |    
+00039030 00 a 02 episkopálny 0 biskupský 0 000 |    
+00039085 00 a 03 akcieschopný 0 akčný 0 bojový 0 000 |    
+00039148 00 a 01 úvodníkový 0 000 |    
+00039191 00 a 01 moravský 0 000 |    
+00039230 00 a 01 diecézny 0 000 |    
+00039269 00 a 03 národnosocialistický 0 národno-socialistický 0 nacistický 0 000 |    
+00039361 00 a 02 obrázkový 0 kreslený 0 000 |    
+00039414 00 a 02 pozemský 0 zemský 0 000 |    
+00039463 00 a 01 sovietsky 0 000 |    
+00039502 00 a 03 správny 0 organizačný 0 administratívny 0 000 |    
+00039575 00 a 02 kongestívny 0 spôsobujúci_upchávanie 0 000 |    
+00039645 00 a 01 kňazský 0 000 |    
+00039684 00 a 02 génový 0 genetický 0 000 |    
+00039735 00 a 02 cínový 0 plechový 0 000 |    
+00039785 00 a 02 geografický 0 zemepisný 0 000 |    
+00039840 00 a 05 sexuálny 0 rozmnožovací 0 venerický 0 genitálny 0 pohlavný 0 000 |    
+00039934 00 a 02 vesmírny 0 kozmický 0 000 |    
+00039985 00 a 02 poľnohospodársky 0 roľnícky 0 000 |    
+00040046 00 a 01 farmaceutický 0 000 |    
+00040090 00 a 01 cisársky 0 000 |    
+00040129 00 a 05 pripomínajúci_ker 0 kríčkovitý 0 kríkovitý 0 porastený_kermi 0 krovinatý 0 000 |    
+00040240 00 a 02 ležiaci_okolo_análneho_otvoru 0 perianálny 0 000 |    
+00040315 00 a 03 justičný 0 právnický 0 súdny 0 000 |    
+00040378 00 a 02 lexikálny 0 slovný 0 000 |    
+00040428 00 a 01 grafický 0 000 |    
+00040467 00 a 01 astrologický 0 000 |    
+00040510 00 a 01 atlantický 0 000 |    
+00040551 00 a 02 ekonomický 0 hospodársky 0 000 |    
+00040607 00 a 01 rumunský 0 000 |    
+00040646 00 a 01 arabský 0 000 |    
+00040684 00 a 02 propagandistický 0 propagačný 0 000 |    
+00040746 00 a 01 latinský 0 000 |    
+00040785 00 a 01 federálny 0 000 |    
+00040825 00 a 01 fašistický 0 000 |    
+00040867 00 a 02 národný 0 národnostný 0 000 |    
+00040922 00 a 02 tvoriaci_rozmnožovacie_puky 0 nesúci_rozmnožovacie_puky 0 000 |    
+00041010 00 a 02 peňažný 0 finančný 0 000 |    
+00041063 00 a 01 horský 0 000 |    
+00041100 00 a 01 nórsky 0 000 |    
+00041137 00 a 01 republikánsky 0 000 |    
+00041181 00 a 03 krajský 0 oblastný 0 regionálny 0 000 |    
+00041245 00 a 03 z_mramoru 0 mramorový 0 podobný_mramoru 0 000 |    
+00041316 00 a 01 gramatický 0 000 |    
+00041357 00 a 01 mliečny 0 000 |    
+00041395 00 a 04 plavebný 0 navigačný 0 námorný 0 morský 0 000 |    
+00041470 00 a 01 grafický 0 000 |    
+00041509 00 a 01 astronomický 0 000 |    
+00041552 00 a 01 medúzovitý 0 000 |    
+00041594 00 a 01 svalový 0 000 |    
+00041632 00 a 01 existenciálny 0 000 |    
+00041676 00 a 01 dokumentárny 0 000 |    
+00041719 00 a 03 pontifikálny 0 apoštolský 0 pápežský 0 000 |    
+00041791 00 a 01 symbolický 0 000 |    
+00041832 00 a 02 spoločenský 0 sociálny 0 000 |    
+00041887 00 a 02 pozostalý 0 zvyškový 0 000 |    
+00041940 00 a 02 pôrodný 0 pôrodnícky 0 000 |    
+00041994 00 a 02 podobný_krabovi 0 kanceroidný 0 000 |    
+00042055 00 a 02 logistický 0 týkajúci_sa_presunov 0 000 |    
+00042121 00 a 02 susedný 0 miestny 0 000 |    
+00042169 00 a 01 manželský 0 000 |    
+00042210 00 a 03 právnický 0 súdny 0 právny 0 000 |    
+00042270 00 a 03 expiratórny 0 výdychový 0 dýchací 0 000 |    
+00042338 00 a 01 rasový 0 000 |    
+00042375 00 a 02 legálny 0 právny 0 000 |    
+00042423 00 a 01 elektronický 0 000 |    
+00042466 00 a 05 katolícky 0 pápeženský 0 rímsky 0 pápežský 0 rímskokatolícky 0 000 |    
+00042566 00 a 03 doručiteľný 0 schopný_dodania 0 na_dodanie 0 000 |    
+00042642 00 a 02 legislatívny 0 poslanecký 0 000 |    
+00042699 00 a 02 humánny 0 ľudský 0 000 |    
+00042748 00 a 02 prevádzkový 0 operačný 0 000 |    
+00042804 00 a 02 civilný 0 občiansky 0 000 |    
+00042855 00 a 02 arbitrážny 0 rozhodcovský 0 000 |    
+00042913 00 a 01 letecký_mechanik 0 000 |    
+00042960 00 a 02 kožný 0 dermálny 0 000 |    
+00043009 00 a 02 medzimestský 0 diaľkový 0 000 |    
+00043065 00 a 03 amónny 0 čpavkový 0 amoniakový 0 000 |    
+00043129 00 a 04 obsahujúci_uhlík 0 uhlíkový 0 uhoľný 0 uhličitý 0 000 |    
+00043214 00 a 02 plošný 0 priestorový 0 000 |    
+00043267 00 a 03 legislatívny 0 zákonodarný 0 poslanecký 0 000 |    
+00043340 00 a 03 pomocný 0 paramilitaristický 0 polovojenský 0 000 |    
+00043416 00 a 01 hliníkový 0 000 |    
+00043457 00 a 01 patriaci_k_triede_cicavcov 0 000 |    
+00043513 00 a 01 planografický 0 000 |    
+00043557 00 a 01 architektonický 0 000 |    
+00043603 00 a 01 básnický 0 000 |    
+00043643 00 a 01 barokový 0 000 |    
+00043682 00 a 02 ramenný 0 brachiálny 0 000 |    
+00043734 00 a 02 cerebrálny 0 mozgový 0 000 |    
+00043786 00 a 02 vredovitý 0 pôsobiaci_vredmi 0 000 |    
+00043846 00 a 01 argentínsky 0 000 |    
+00043888 00 a 01 slovanský 0 000 |    
+00043928 00 a 02 citrusový 0 citrónový 0 000 |    
+00043982 00 a 01 bezšnúrový 0 000 |    
+00044025 00 a 02 poznávací 0 kognitívny 0 000 |    
+00044080 00 a 01 rozpočtový 0 000 |    
+00044122 00 a 01 olympský 0 000 |    
+00044161 00 a 02 islamský 0 moslimský 0 000 |    
+00044213 00 a 02 pokrytý_bradavicami 0 bradavičnatý 0 000 |    
+00044280 00 a 01 filozofický 0 000 |    
+00044322 00 a 01 nočný 0 000 |    
+00044359 00 a 02 do_ruky 0 ručný 0 000 |    
+00044406 00 a 02 vedúci 0 výkonný 0 000 |    
+00044455 00 a 03 chatového_charakteru 0 pripomínajúci_chatu 0 chatovitý 0 000 |    
+00044543 00 a 01 slávnostný 0 000 |    
+00044585 00 a 01 olympijský 0 000 |    
+00044626 00 a 02 tykadlovitý 0 chápadlovitý 0 000 |    
+00044685 00 a 02 medicínsky 0 lekársky 0 000 |    
+00044738 00 a 02 právnický 0 súdny 0 000 |    
+00044788 00 a 01 digitálny 0 000 |    
+00044828 00 a 01 kongenerický 0 000 |    
+00044871 00 a 01 portugálsky 0 000 |    
+00044913 00 a 01 egyptský 0 000 |    
+00044952 00 a 01 archívny 0 000 |    
+00044991 00 a 01 dánsky 0 000 |    
+00045028 00 a 01 prispôsobený_na_trhanie 0 000 |    
+00045083 00 a 01 pokrytý_bradavicami 0 000 |    
+00045133 00 a 01 africký 0 000 |    
+00045171 00 a 01 srdcový 0 000 |    
+00045209 00 a 01 indický 0 000 |    
+00045247 00 a 01 komunistický 0 000 |    
+00045290 00 a 03 vedúci 0 manažérsky 0 správcovský 0 000 |    
+00045358 00 a 01 parížsky 0 000 |    
+00045398 00 a 01 kórejský 0 000 |    
+00045438 00 a 01 kontinentálny 0 000 |    
+00045482 00 a 01 vlnený 0 000 |    
+00045519 00 a 01 vakovitý 0 000 |    
+00045558 00 a 01 polárny 0 000 |    
+00045596 00 a 01 vetný 0 000 |    
+00045632 00 a 02 miestny 0 lokálny 0 000 |    
+00045680 00 a 01 misijný 0 000 |    
+00045718 00 a 02 chorľavý 0 hypochondrický 0 000 |    
+00045776 00 a 01 austrálsky 0 000 |    
+00045817 00 a 02 arzénový 0 obsahujúci_arzén 0 000 |    
+00045878 00 a 01 latinský 0 000 |    
+00045917 00 a 01 francúzsky 0 000 |    
+00045958 00 a 01 revolučný 0 000 |    
+00045999 00 a 02 námornícky 0 lodný 0 000 |    
+00046050 00 a 01 rybársky 0 000 |    
+00046089 00 a 01 svetelný 0 000 |    
+00046128 00 a 01 hlasový 0 000 |    
+00046166 00 a 01 hlinený 0 000 |    
+00046204 00 a 01 genetický 0 000 |    
+00046244 00 a 01 chorvátsky 0 000 |    
+00046285 00 a 01 rekreačný 0 000 |    
+00046326 00 a 01 svadobný 0 000 |    
+00046365 00 a 02 domáci 0 domový 0 000 |    
+00046412 00 a 02 justičný 0 súdny 0 000 |    
+00046461 00 a 01 komunálny 0 000 |    
+00046501 00 a 01 biologický 0 000 |    
+00046542 00 a 01 biblický 0 000 |    
+00046581 00 a 02 patriaci_k_veľrybám 0 veľrybotvarý_(cicavec) 0 000 |    
+00046659 00 a 01 kvalitatívny 0 000 |    
+00046702 00 a 01 matematický 0 000 |    
+00046744 00 a 02 liečebný 0 terapeutický 0 000 |    
+00046800 00 a 02 bohatý_na_fosílie 0 fosílny 0 000 |    
+00046860 00 a 01 faktický 0 000 |    
+00046899 00 a 01 slovenský 0 000 |    
+00046939 00 a 01 operný 0 000 |    
+00046976 00 a 01 krstný 0 000 |    
+00047013 00 a 01 fylogenetický 0 000 |    
+00047057 00 a 01 mutantný 0 000 |    
+00047096 00 a 01 pobrežný 0 000 |    
+00047136 00 a 01 nervový 0 000 |    
+00047174 00 a 01 nominálny 0 000 |    
+00047214 00 a 02 žurnalistický 0 novinársky 0 000 |    
+00047273 00 a 01 psychologický 0 000 |    
+00047317 00 a 01 ruský 0 000 |    
+00047353 00 a 01 priemyselný 0 000 |    
+00047395 00 a 01 ideografický 0 000 |    
+00047438 00 a 01 prezidentský 0 000 |    
+00047481 00 a 02 klasický 0 antický 0 000 |    
+00047531 00 a 02 podnikový 0 firemný 0 000 |    
+00047582 00 a 01 ľudský 0 000 |    
+00047620 00 a 01 byzantský 0 000 |    
+00047660 00 a 01 diplomatický 0 000 |    
+00047703 00 a 02 nerastný 0 minerálny 0 000 |    
+00047755 00 a 01 inštitucionálny 0 000 |    
+00047802 00 a 01 makroekonomický 0 000 |    
+00047848 00 a 01 filmový 0 000 |    
+00047886 00 a 02 subjektívny 0 postojový 0 000 |    
+00047941 00 a 01 pohonný 0 000 |    
+00047979 00 a 01 keramický 0 000 |    
+00048019 00 a 01 fatalistický 0 000 |    
+00048062 00 a 01 panský 0 000 |    
+00048099 00 a 01 alpský 0 000 |    
+00048136 00 a 02 denný 0 cirkadiánny 0 000 |    
+00048187 00 a 02 mestský 0 urbanistický 0 000 |    
+00048241 00 a 02 redakčný 0 redaktorský 0 000 |    
+00048296 00 a 01 srbský 0 000 |    
+00048333 00 a 01 materský 0 000 |    
+00048372 00 a 01 holičský 0 000 |    
+00048412 00 a 03 okresný 0 provinčný 0 oblastný 0 000 |    
+00048476 00 a 02 podporujúci_vývoj 0 vývojový 0 000 |    
+00048538 00 a 01 katastrálny 0 000 |    
+00048580 00 a 01 kmeňový 0 000 |    
+00048619 00 a 01 pedagogický 0 000 |    
+00048661 00 a 01 environmentálny 0 000 |    
+00048707 00 a 04 láskavý 0 veľkorysý 0 charitatívny 0 šľachetný 0 000 |    
+00048791 00 a 01 skalný 0 000 |    
+00048828 00 a 01 stredoveký 0 000 |    
+00048869 00 a 02 kožný 0 dermálny 0 000 |    
+00048918 00 a 01 fínsky 0 000 |    
+00048955 00 a 01 katolícky 0 000 |    
+00048995 00 a 01 krvný 0 000 |    
+00049031 00 a 02 perzský 0 iránsky 0 000 |    
+00049080 00 a 02 humanitárny 0 dobročinný 0 000 |    
+00049137 00 a 01 európsky 0 000 |    
+00049176 00 a 01 dialógový 0 000 |    
+00049217 00 a 01 politický 0 000 |    
+00049257 00 a 01 existenčný 0 000 |    
+00049299 00 a 01 aneroidný 0 000 |    
+00049339 00 a 05 sekretársky 0 pisársky 0 administratívny 0 kancelársky 0 tajomnícky 0 000 |    
+00049441 00 a 02 kuchársky 0 kulinársky 0 000 |    
+00049495 00 a 03 pracovný 0 odborný 0 profesionálny 0 000 |    
+00049562 00 a 01 elektrický 0 000 |    
+00049603 00 a 01 imunitný 0 000 |    
+00049642 00 a 01 liturgický 0 000 |    
+00049683 00 a 02 cirkevný 0 duchovný 0 000 |    
+00049734 00 a 02 spôsobujúci_poruchy_vo_vývoji_embrya 0 teratogénny 0 000 |    
+00049818 00 a 02 mazovitý 0 ceruminózny 0 000 |    
+00049872 00 a 01 slovanský 0 000 |    
+00049912 00 a 02 stavebný 0 architektonický 0 000 |    
+00049970 00 a 01 americký 0 000 |    
+00050009 00 a 01 rakúsky 0 000 |    
+00050047 00 a 02 poetický 0 básnický 0 000 |    
+00050099 00 a 01 strategický 0 000 |    
+00050141 00 a 02 dozorný 0 kontrolný 0 000 |    
+00050192 00 a 01 indiánsky 0 000 |    
+00050232 00 a 01 fyzikálny 0 000 |    
+00050272 00 a 01 atletický 0 000 |    
+00050312 00 a 01 nežidovský 0 000 |    
+00050354 00 a 02 sobášny 0 svadobný 0 000 |    
+00050405 00 a 02 statický 0 elektrostatický 0 000 |    
+00050463 00 a 01 chemický 0 000 |    
+00050502 00 a 01 pohrebný 0 000 |    
+00050541 00 a 02 nútený 0 neúprimný 0 000 |    
+00050593 00 a 01 predbežný 0 000 |    
+00050634 00 a 01 demografický 0 000 |    
+00050677 00 a 01 bulharský 0 000 |    
+00050717 00 a 01 fotografický 0 000 |    
+00050760 00 a 04 pobrežný 0 prímorský 0 litorálny 0 patriaci_k_pobrežiu 0 000 |    
+00050850 00 a 01 ekonomický 0 000 |    
+00050891 00 a 01 mystický 0 000 |    
+00050930 00 a 01 cisársky 0 000 |    
+00050969 00 a 01 strieborný 0 000 |    
+00051010 00 a 02 grécky 0 helenistický 0 000 |    
+00051063 00 a 01 izraelský 0 000 |    
+00051103 00 a 01 priemerný 0 000 |    
+00051143 00 a 01 komerčný 0 000 |    
+00051183 00 a 01 riečny 0 000 |    
+00051220 00 a 02 patriaci_k_jašterom 0 jašteričí 0 000 |    
+00051285 00 a 01 pragmatický 0 000 |    
+00051327 00 a 01 ručný 0 000 |    
+00051364 00 a 01 arabský 0 000 |    
+00051402 00 a 04 sviatostný 0 svätý 0 týkajúci_sa_sviatostí 0 posvätný 0 000 |    
+00051493 00 a 01 národný 0 000 |    
+00051532 00 a 02 astrálny 0 hviezdny 0 000 |    
+00051582 00 a 01 archeologický 0 000 |    
+00051626 00 a 01 striebornatý 0 000 |    
+00051669 00 a 01 rastlinný 0 000 |    
+00051709 00 a 01 latinský 0 000 |    
+00051748 00 a 01 japonský 0 000 |    
+00051787 00 a 01 maďarský 0 000 |    
+00051827 00 a 01 nacistický 0 000 |    
+00051868 00 a 01 autorský 0 000 |    
+00051907 00 a 02 etický 0 morálny 0 000 |    
+00051955 00 a 01 manželský 0 000 |    
+00051996 00 a 02 technicky_zručný 0 technický 0 000 |    
+00052057 00 a 01 bosniansky 0 000 |    
+00052097 00 a 01 albánsky 0 000 |    
+00052136 00 a 01 močový 0 000 |    
+00052174 00 a 02 lúpežný 0 spojený_s_vlámaním 0 000 |    
+00052238 00 a 02 hubovitý 0 hubový 0 000 |    
+00052287 00 a 03 sľubový 0 obsahujúci_sľub 0 sľubujúci 0 000 |    
+00052360 00 a 01 anglický 0 000 |    
+00052399 00 a 01 nosový 0 000 |    
+00052436 00 a 01 poľský 0 000 |    

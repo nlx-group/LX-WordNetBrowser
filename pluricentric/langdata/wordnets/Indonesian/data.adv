@@ -1,0 +1,657 @@
+  01 This file is a derivation of the wn-ind-lmf.xml file; the original ind-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 label: Wordnet
+  04 language: ind
+  05 version: 10
+  06 languageCoding: ISO 639-3
+  07 owner: MIT
+00000317 00 r 05 mendatar 0 terus 0 betul-betul 0 lantas 0 langsung 0 000 |    
+00000397 00 r 02 alegro 0 rancak 0 001 ;c 01813439 n 0000 |    
+00000461 00 r 01 mentah-mentah 0 000 |    
+00000504 00 r 03 selama-lamanya 0 tetap 0 sentiasa 0 000 |    
+00000567 00 r 03 masuk_akal 0 agaknya 0 takah-takahnya 0 001 ! 00002632 r 0000 |    
+00000652 00 r 01 berdebur 0 001 ;u 01020139 n 0000 |    
+00000709 00 r 01 terbata-bata 0 000 |    
+00000751 00 r 02 di_bawah_tangan 0 sah 0 000 |    
+00000802 00 r 01 sebilang 0 001 ;u 01020139 n 0000 | di merata-rata tempat
+00000877 00 r 01 luar 0 001 ! 00003265 r 0000 |    
+00000929 00 r 01 kiranya 0 000 |    
+00000966 00 r 01 bersifat 0 000 |    
+00001004 00 r 01 mentah-mentah 0 000 |    
+00001047 00 r 01 sengsara 0 000 |    
+00001085 00 r 01 mentah-mentah 0 000 |    
+00001128 00 r 01 luar_biasa 0 001 ! 00009093 r 0000 |    
+00001186 00 r 01 rata 0 000 |    
+00001220 00 r 01 ke_depan 0 002 ! 00002888 r 0000 ;u 01973213 n 0000 |    
+00001295 00 r 05 bahwasanya 0 betul-betul 0 benar 0 sungguh_mati 0 benar-benar 0 000 |    
+00001386 00 r 01 berlomba-lomba 0 000 |    
+00001430 00 r 04 bukan_main 0 amat 0 bukan_buatan 0 betul 0 001 ;u 01020139 n 0000 |    
+00001519 00 r 02 malang 0 buruk 0 000 |    
+00001563 00 r 04 reguler 0 selalu 0 sering 0 kerap 0 000 |    
+00001626 00 r 02 jemah 0 pernah 0 000 |    
+00001670 00 r 01 kurang 0 001 ! 00004494 r 0000 |    
+00001724 00 r 01 jarang 0 001 ! 00006965 r 0000 |    
+00001778 00 r 01 compang-camping 0 001 ! 00005819 r 0000 |    
+00001841 00 r 01 berdebuk 0 001 ;u 01020139 n 0000 |    
+00001898 00 r 01 begitu 0 000 |    
+00001934 00 r 03 kuat 0 lantang 0 kuat-kuat 0 001 ! 00004043 r 0000 |    
+00002008 00 r 01 ada 0 000 |    
+00002041 00 r 02 ramai 0 umum 0 000 |    
+00002083 00 r 01 padat 0 000 |    
+00002118 00 r 01 sewajarnya 0 001 ! 00006090 r 0000 |    
+00002176 00 r 01 di_bawah 0 001 ! 00003902 r 0000 |    
+00002232 00 r 02 eceran 0 runcit 0 001 ! 00002730 r 0000 |    
+00002295 00 r 02 saku-saku 0 empat_mata 0 001 ! 00007081 r 0000 |    
+00002365 00 r 03 mengikut 0 ke 0 masuk 0 001 ! 00006040 r 0000 |    
+00002434 00 r 05 bahwasanya 0 sungguh 0 ya 0 benar-benar 0 memang 0 000 |    
+00002512 00 r 01 sesungguhnya 0 000 |    
+00002554 00 r 03 kebetulan 0 mujur 0 nasib_baik 0 001 ! 00006724 r 0000 |    
+00002632 00 r 01 bukan_main 0 001 ! 00000567 r 0000 |    
+00002690 00 r 01 seterusnya 0 000 |    
+00002730 00 r 01 borongan 0 001 ! 00002232 r 0000 |    
+00002786 00 r 02 hadapan 0 depan 0 001 ! 00003847 r 0000 |    
+00002849 00 r 01 kebetulan 0 000 |    
+00002888 00 r 01 ke_belakang 0 001 ! 00001220 r 0000 |    
+00002947 00 r 01 gila-gilaan 0 000 |    
+00002988 00 r 01 dalam 0 000 |    
+00003023 00 r 01 benar-benar 0 000 |    
+00003064 00 r 01 manis 0 002 ;u 01020139 n 0000 ;c 00106963 n 0000 |    
+00003137 00 r 01 jauh 0 000 |    
+00003171 00 r 02 awal 0 muda 0 001 ! 00007765 r 0000 |    
+00003230 00 r 01 merdu 0 000 |    
+00003265 00 r 03 dalam 0 kanan 0 kiri 0 001 ! 00000877 r 0000 |    
+00003333 00 r 07 yakin 0 tentu 0 tetap 0 pasti 0 ya 0 benar-benar 0 memang 0 001 ;u 01020139 n 0000 |    
+00003439 00 r 03 dahsyat 0 berdarah 0 betul 0 000 |    
+00003495 00 r 01 kebetulan 0 001 ! 00009315 r 0000 |    
+00003552 00 r 06 selama-lamanya 0 jemah 0 selalu 0 selamanya 0 pernah 0 sentiasa 0 001 ! 00004643 r 0000 |    
+00003663 00 r 02 tetap 0 masih 0 000 |    
+00003706 00 r 02 selama-lamanya 0 sampai_hari_kiamat 0 001 ;u 01020139 n 0000 |    
+00003790 00 r 01 kebetulan 0 001 ! 00009315 r 0000 |    
+00003847 00 r 01 buritan 0 001 ! 00002786 r 0000 |    
+00003902 00 r 02 melewati 0 melampaui 0 001 ! 00002176 r 0000 |    
+00003970 00 r 04 sungguh 0 betul-betul 0 cukup 0 benar-benar 0 000 |    
+00004043 00 r 03 diam-diam 0 perlahan 0 lembut 0 001 ! 00001934 r 0000 |    
+00004120 00 r 01 kecil 0 001 ! 00004707 r 0000 |    
+00004173 00 r 01 lelaki 0 000 |    
+00004209 00 r 02 menarik 0 permai 0 000 |    
+00004255 00 r 03 segera 0 sekejap_mata 0 taajul 0 001 ! 00007578 r 0000 |    
+00004333 00 r 03 moga-moga 0 mudah-mudahan 0 semoga 0 000 |    
+00004397 00 r 01 baik 0 000 |    
+00004431 00 r 02 senang 0 mudah 0 001 ;u 01020139 n 0000 |    
+00004494 00 r 01 lebih 0 001 ! 00001670 r 0000 |    
+00004547 00 r 01 perlahan 0 000 |    
+00004585 00 r 01 bersahaja 0 001 ;u 01020139 n 0000 |    
+00004643 00 r 02 masakan 0 jangan 0 001 ! 00003552 r 0000 |    
+00004707 00 r 01 kuat 0 001 ! 00004120 r 0000 |    
+00004759 00 r 01 mentah-mentah 0 000 |    
+00004802 00 r 01 tersalah 0 000 |    
+00004840 00 r 01 sebaliknya 0 000 |    
+00004880 00 r 01 paling 0 000 |    
+00004916 00 r 01 perlahan-lahan 0 001 ;c 01813439 n 0000 |    
+00004979 00 r 01 mentah-mentah 0 000 |    
+00005022 00 r 02 sekadar 0 saja 0 000 | sekadar (sekedar)
+00005080 00 r 01 tepat 0 001 ;u 01020139 n 0000 |    
+00005134 00 r 01 lebih 0 001 ! 00006250 r 0000 |    
+00005187 00 r 01 terdengar 0 000 |    
+00005226 00 r 09 terkejar-kejar 0 taajul 0 terbirit-birit 0 tersanga-sanga 0 talah 0 tergulut-gulut 0 bergegas-gegas 0 berlekas-lekas 0 bergulut-gulut 0 000 |    
+00005389 00 r 01 di_bawah 0 000 |    
+00005427 00 r 01 mentah-mentah 0 000 |    
+00005470 00 r 01 timur 0 000 |    
+00005505 00 r 02 jantan 0 jarang 0 001 ! 00006965 r 0000 |    
+00005568 00 r 01 luar_biasa 0 000 |    
+00005608 00 r 03 munasabah 0 bersih 0 adil 0 000 |    
+00005663 00 r 03 bahwasanya 0 betul-betul 0 benar-benar 0 000 |    
+00005731 00 r 02 persaudaraan 0 saudara 0 000 |    
+00005783 00 r 01 nyaman 0 000 |    
+00005819 00 r 02 baik-baik 0 baik 0 001 ! 00001778 r 0000 |    
+00005883 00 r 01 nipis 0 000 |    
+00005918 00 r 01 mentah-mentah 0 000 |    
+00005961 00 r 01 mentah-mentah 0 000 |    
+00006004 00 r 01 paling 0 000 |    
+00006040 00 r 01 ke 0 001 ! 00002365 r 0000 |    
+00006090 00 r 01 luar_biasa 0 001 ! 00002118 r 0000 |    
+00006148 00 r 05 sama_sekali 0 betul-betul 0 bersih 0 langsung 0 tepat 0 001 ;u 00783311 n 0000 |    
+00006250 00 r 01 kurang 0 001 ! 00005134 r 0000 |    
+00006304 00 r 01 lembap 0 000 |    
+00006340 00 r 04 berpatutan 0 sederhana 0 agak 0 betul 0 000 |    
+00006407 00 r 01 berjaya 0 000 |    
+00006444 00 r 01 mentah-mentah 0 000 |    
+00006487 00 r 05 sehabis 0 keseluruhan 0 sama_sekali 0 betul-betul 0 benar-benar 0 002 ! 00007377 r 0000 ;u 01020139 n 0000 |    
+00006617 00 r 03 nyata 0 jelas 0 ternyata 0 000 |    
+00006671 00 r 03 selalu 0 sering 0 kerap 0 000 |    
+00006724 00 r 01 wahai 0 001 ! 00002554 r 0000 |    
+00006777 00 r 01 ikhlas 0 000 |    
+00006813 00 r 02 teruk 0 sepuas-puasnya 0 001 ;u 01020139 n 0000 |    
+00006884 00 r 01 mentah-mentah 0 000 |    
+00006927 00 r 01 di_bawah 0 000 |    
+00006965 00 r 05 sering_kali 0 kerap_kali 0 selalu 0 sering 0 kerap 0 002 ! 00001724 r 0000 ! 00005505 r 0000 |    
+00007081 00 r 02 orang_ramai 0 awam 0 001 ! 00002295 r 0000 |    
+00007147 00 r 02 terus_terang 0 betul 0 000 |    
+00007197 00 r 02 saku-saku 0 empat_mata 0 000 |    
+00007249 00 r 02 bersedia 0 sanggup 0 000 |    
+00007297 00 r 01 sepatutnya 0 000 |    
+00007337 00 r 01 sebenarnya 0 000 |    
+00007377 00 r 01 separuh 0 001 ! 00006487 r 0000 |    
+00007432 00 r 01 betul-betul 0 000 |    
+00007473 00 r 01 semestinya 0 000 |    
+00007513 00 r 02 ke_sini 0 di_sini 0 001 ! 00008819 r 0000 |    
+00007578 00 r 04 lambat 0 perlahan 0 lambat-lambat 0 perlahan-lahan 0 002 ! 00004255 r 0000 ;u 01020139 n 0000 |    
+00007695 00 r 01 mulia 0 000 |    
+00007730 00 r 01 berat 0 000 |    
+00007765 00 r 03 lambat 0 terlambat 0 lewat 0 001 ! 00003171 r 0000 |    
+00007839 00 r 01 rata 0 000 |    
+00007873 00 r 02 tipikal 0 biasanya 0 000 |    
+00007921 00 r 01 salah 0 000 |    
+00007956 00 r 02 terus 0 betul-betul 0 000 |    
+00008005 00 r 02 sewajarnya 0 memang 0 000 |    
+00008054 00 r 05 sewajarnya 0 selayaknya 0 sepantasnya 0 semestinya 0 seyogianya 0 000 |    
+00008147 00 r 01 wah 0 000 |    
+00008180 00 r 0a mengundur 0 dahulu 0 kembali 0 tunggakan 0 lepas 0 lalu 0 terbalik 0 ke_belakang 0 dulu 0 balik 0 001 ! 00009224 r 0000 |    
+00008323 00 r 02 menurun 0 cengkeram 0 001 ! 00008709 r 0000 |    
+00008390 00 r 01 di 0 001 ;c 01824910 n 0000 |    
+00008441 00 r 01 bermoral 0 000 |    
+00008479 00 r 06 terang 0 nyata 0 kuat 0 terang-terangan 0 jelas 0 terang-terang 0 001 ;u 01020139 n 0000 |    
+00008591 00 r 01 rendah 0 000 |    
+00008627 00 r 02 undur 0 mundur 0 002 ;c 01759446 n 0000 ;c 01335594 n 0000 |    
+00008709 00 r 02 mendaki 0 naik 0 001 ! 00008323 r 0000 |    
+00008771 00 r 02 cukup 0 secukupnya 0 000 |    
+00008819 00 r 04 di_situ 0 ada 0 di_sana 0 situ 0 001 ! 00007513 r 0000 |    
+00008897 00 r 01 tenat 0 000 |    
+00008932 00 r 01 hampir 0 000 |    
+00008968 00 r 04 sepatutnya 0 bersesuaian 0 sepantasnya 0 sesuai 0 000 |    
+00009045 00 r 02 melebihi 0 sungguh 0 000 |    
+00009093 00 r 01 biasanya 0 001 ! 00001128 r 0000 |    
+00009149 00 r 01 sepatutnya 0 000 |    
+00009189 00 r 01 betul 0 000 |    
+00009224 00 r 01 maju 0 001 ! 00008180 r 0000 |    
+00009276 00 r 01 diam-diam 0 000 |    
+00009315 00 r 01 sengaja 0 002 ! 00003790 r 0000 ! 00003495 r 0000 |    
+00009388 00 r 01 menindih 0 001 ;u 01020139 n 0000 |    
+00009445 00 r 01 sedikit-dikitnya 0 000 |    
+00009491 00 r 02 kelak 0 nanti 0 001 ;u 01020139 n 0000 |    
+00009553 00 r 02 di_mana 0 tempat 0 001 ;u 01020139 n 0000 | di mana-mana sahaja
+00009634 00 r 01 gila 0 000 |    
+00009668 00 r 01 yakni 0 000 |    
+00009703 00 r 03 tegas 0 benar-benar 0 erat-erat 0 000 |    
+00009764 00 r 04 terkangkang 0 berjauhan 0 terasing 0 ke_sisi 0 000 |    
+00009838 00 r 03 lulus 0 siap 0 terus 0 000 |    
+00009888 00 r 01 sekarang 0 000 |    
+00009926 00 r 01 sekarang 0 000 |    
+00009964 00 r 01 mentah-mentah 0 000 |    
+00010007 00 r 02 rapat 0 nyaris 0 000 |    
+00010051 00 r 07 bahwasanya 0 sungguh 0 betul-betul 0 benar 0 sungguh_mati 0 benar-benar 0 betul 0 000 |    
+00010160 00 r 02 segera 0 langsung 0 000 |    
+00010207 00 r 0a rata-rata 0 dari 0 kira-kira 0 menjelang 0 seputar 0 sekeliling 0 sekitar 0 terhadap 0 tentang 0 lebih_kurang 0 000 |    
+00010346 00 r 03 sedikit_demi_sedikit 0 uncit 0 berangsur 0 000 |    
+00010416 00 r 01 tiga 0 000 |    
+00010450 00 r 02 serentak 0 serempak 0 000 |    
+00010499 00 r 05 menggandakan 0 berlipat 0 berganda 0 benar-benar 0 berdua 0 000 |    
+00010586 00 r 01 tepat 0 000 |    
+00010621 00 r 02 terlebih-lebih 0 terlebih 0 000 |    
+00010676 00 r 01 langsung 0 000 |    
+00010714 00 r 04 tinggi 0 atas 0 atasan 0 besar 0 000 |    
+00010774 00 r 01 keras 0 000 |    
+00010809 00 r 02 sehari-harian 0 seharian 0 000 |    
+00010863 00 r 01 sewenang-wenang 0 000 |    
+00010908 00 r 01 amat 0 000 |    
+00010942 00 r 05 bersaingan 0 bersaing 0 seiring 0 beriring 0 berdamping 0 000 |    
+00011027 00 r 01 biasanya 0 000 |    
+00011065 00 r 01 selesai 0 000 |    
+00011102 00 r 01 di_bawah 0 000 |    
+00011140 00 r 02 ekstra 0 besar-besaran 0 000 |    
+00011192 00 r 01 agak 0 000 |    
+00011226 00 r 01 semena-mena 0 000 |    
+00011267 00 r 01 sendiri 0 000 |    
+00011304 00 r 02 betul-betul 0 sampai_ke_sumsum 0 000 |    
+00011364 00 r 03 semena-mena 0 sewenang-wenang 0 sembarangan 0 000 |    
+00011437 00 r 01 ringkas 0 000 |    
+00011474 00 r 03 hebat 0 istimewa 0 luar_biasa 0 000 |    
+00011533 00 r 03 lagi 0 segala 0 sebarang 0 000 |    
+00011587 00 r 02 seketika 0 sejenak 0 000 |    
+00011635 00 r 02 hanya 0 cuma 0 000 |    
+00011677 00 r 09 praktik 0 sekali 0 sering_kali 0 jauh 0 kerap_kali 0 selalu 0 sering 0 benar-benar 0 kerap 0 000 |    
+00011797 00 r 05 sederum 0 serentak 0 serempak 0 sekaligus 0 unta 0 000 |    
+00011875 00 r 01 tinggi 0 000 |    
+00011911 00 r 04 segera 0 sekejap_mata 0 taajul 0 cepat 0 000 |    
+00011979 00 r 03 cukup 0 mencukupi 0 memadai 0 000 |    
+00012036 00 r 02 atau 0 alias 0 000 |    
+00012078 00 r 01 mendekat 0 000 |    
+00012116 00 r 01 raib 0 000 |    
+00012150 00 r 01 suci 0 000 |    
+00012184 00 r 01 bersama 0 000 |    
+00012221 00 r 0a entar 0 kelak 0 belakang 0 nanti 0 jemah 0 nantinya 0 kalakian 0 kemudian 0 bakdu 0 beka 0 000 |    
+00012339 00 r 09 melulu 0 hanya 0 seorang_diri 0 semata-mata 0 sendirian 0 cuma 0 sahaja 0 belaka 0 sendiri 0 000 |    
+00012459 00 r 03 nanti 0 sebentar_lagi 0 sebentar 0 000 |    
+00012521 00 r 01 raksi 0 000 |    
+00012556 00 r 01 mesra 0 000 |    
+00012591 00 r 05 sekejap_mata 0 tunai 0 selincam 0 serta-merta 0 selintas 0 000 |    
+00012677 00 r 02 kuat 0 banyak 0 000 |    
+00012720 00 r 01 sahaja 0 000 |    
+00012756 00 r 01 mungkin 0 000 |    
+00012793 00 r 02 jemah 0 pernah 0 000 |    
+00012837 00 r 02 serentak 0 sekaligus 0 000 |    
+00012887 00 r 01 tebal 0 000 |    
+00012922 00 r 05 barangkali 0 kemungkinan 0 agaknya 0 mungkin 0 takah-takahnya 0 000 |    
+00013013 00 r 01 pendalaman 0 000 |    
+00013053 00 r 01 gundul 0 000 |    
+00013089 00 r 01 harap-harap 0 000 |    
+00013130 00 r 02 demikian 0 serupa 0 000 |    
+00013177 00 r 01 kesementaraan 0 000 |    
+00013220 00 r 01 mendaki 0 000 |    
+00013257 00 r 01 lebih_kurang 0 000 |    
+00013299 00 r 01 lawan 0 000 |    
+00013334 00 r 01 selincam 0 000 |    
+00013372 00 r 01 saling 0 000 |    
+00013408 00 r 01 langsung 0 000 |    
+00013446 00 r 01 alhasil 0 000 |    
+00013483 00 r 02 jadi 0 alhasil 0 000 |    
+00013527 00 r 01 menghujani 0 000 |    
+00013567 00 r 01 sia-sia 0 000 |    
+00013604 00 r 01 lancar 0 000 |    
+00013640 00 r 01 berkelok-kelok 0 000 |    
+00013684 00 r 01 jauh 0 000 |    
+00013718 00 r 02 terus 0 lantas 0 000 |    
+00013762 00 r 01 setengah-setengah 0 000 |    
+00013809 00 r 05 kira-kira 0 menjelang 0 seputar 0 sekeliling 0 sekitar 0 000 |    
+00013893 00 r 02 betul-betul 0 tepat 0 000 |    
+00013942 00 r 02 terus 0 menjunam 0 000 |    
+00013988 00 r 03 bertalu-talu 0 berjujai 0 terus 0 000 |    
+00014049 00 r 01 sekarang 0 000 |    
+00014087 00 r 03 sederum 0 sama-sama 0 bersama 0 000 |    
+00014146 00 r 02 sama 0 sama_rata 0 000 |    
+00014192 00 r 07 betul-betul 0 rapat 0 dekat 0 nyaris 0 benar-benar 0 hampir-hampir 0 hampir 0 000 |    
+00014297 00 r 02 presto 0 tiba-tiba 0 000 |    
+00014345 00 r 01 bercanda 0 000 |    
+00014383 00 r 05 demikian 0 terlalu 0 kecuali 0 juga 0 tambahan_pula 0 000 |    
+00014464 00 r 02 pasti 0 jelas 0 000 |    
+00014507 00 r 01 membahayakan 0 000 |    
+00014549 00 r 01 jiwa_raga 0 000 |    
+00014588 00 r 01 erat-erat 0 000 |    
+00014627 00 r 01 terlampau 0 000 |    
+00014666 00 r 02 rada-rada 0 agak 0 000 |    
+00014712 00 r 01 serta-merta 0 000 |    
+00014753 00 r 02 pertama 0 mula-mula 0 000 |    
+00014802 00 r 01 kasar 0 000 |    
+00014837 00 r 01 biasanya 0 000 |    
+00014875 00 r 01 bawah 0 000 |    
+00014910 00 r 05 hanya 0 sungguh 0 sedang 0 cuma 0 memang 0 000 |    
+00014980 00 r 01 terutama 0 000 |    
+00015018 00 r 01 tangeh 0 000 |    
+00015054 00 r 0e hanya 0 melainkan 0 cuman 0 sedangkan 0 sekedar 0 tetapi 0 saja 0 semata-mata 0 cuma 0 sahaja 0 masih 0 baru 0 sederhana 0 memang 0 000 |    
+00015213 00 r 01 cantik 0 000 |    
+00015249 00 r 01 mana-mana 0 000 |    
+00015288 00 r 01 timur_laut 0 000 |    
+00015328 00 r 01 berjalan_kaki 0 000 |    
+00015371 00 r 03 kabur 0 setengah-setengah 0 samar-samar 0 000 |    
+00015440 00 r 01 sering 0 000 |    
+00015476 00 r 03 di 0 atas 0 pada 0 000 |    
+00015522 00 r 01 menutup_mata 0 000 |    
+00015564 00 r 02 mengiring 0 ke_sisi 0 000 |    
+00015613 00 r 06 sekadar 0 betul-betul 0 saja 0 benar-benar 0 tepat 0 betul 0 000 |    
+00015701 00 r 03 kembali 0 semula 0 lagi 0 000 |    
+00015754 00 r 02 bukan_main 0 jauh 0 000 |    
+00015801 00 r 02 pelik 0 ganjil 0 000 |    
+00015845 00 r 09 sesungguhnya 0 bilhak 0 sebenarnya 0 selurusnya 0 benar-benar 0 semaja 0 semestinya 0 padahal 0 sebetulnya 0 000 |    
+00015981 00 r 02 berencel-encel 0 berganti-ganti 0 000 |    
+00016042 00 r 01 menguntungkan 0 000 |    
+00016085 00 r 02 berdekatan 0 berhampiran 0 000 |    
+00016139 00 r 01 lewat 0 000 |    
+00016174 00 r 09 sungguh 0 sangat 0 terlalu 0 benar 0 amat 0 terlampau 0 tersangat 0 sampai_ke_sumsum 0 melampau 0 000 |    
+00016299 00 r 01 menuduh 0 000 |    
+00016336 00 r 01 tersalah 0 000 |    
+00016374 00 r 01 terkenal 0 000 |    
+00016412 00 r 13 sesudahnya 0 sehabis 0 entar 0 kelak 0 belakang 0 nanti 0 jemah 0 nantinya 0 habis 0 kalakian 0 terbelahak 0 selepas 0 setelah 0 kemudian 0 sesudah 0 belakangan 0 bakdu 0 beka 0 bakda 0 000 |    
+00016625 00 r 01 sungguh 0 000 |    
+00016662 00 r 01 menyamar 0 000 |    
+00016700 00 r 03 segenap 0 seluruh 0 sepanjang 0 000 |    
+00016759 00 r 02 sehari-hari 0 harian 0 000 |    
+00016809 00 r 01 terbaik 0 000 |    
+00016846 00 r 01 lagi 0 000 |    
+00016880 00 r 01 asam 0 000 |    
+00016914 00 r 01 tenggara 0 000 |    
+00016952 00 r 04 lagi-lagi 0 kian 0 semakin 0 makin 0 000 |    
+00017016 00 r 01 membosankan 0 000 |    
+00017057 00 r 01 wah 0 000 |    
+00017090 00 r 02 namun 0 masih 0 000 |    
+00017133 00 r 01 benar-benar 0 000 |    
+00017174 00 r 01 namun 0 000 |    
+00017209 00 r 02 sembunyi-sembunyi 0 saku-saku 0 000 |    
+00017268 00 r 01 syahdan 0 000 |    
+00017305 00 r 01 sebaliknya 0 000 |    
+00017345 00 r 01 bersama 0 000 |    
+00017382 00 r 04 aktual 0 sebenarnya 0 sekarang 0 sedang 0 000 |    
+00017451 00 r 06 sehabis 0 sekali 0 benar 0 cukup 0 benar-benar 0 betul 0 000 |    
+00017535 00 r 01 sah 0 000 |    
+00017568 00 r 01 terbalik 0 000 |    
+00017606 00 r 01 terdahulu 0 000 |    
+00017645 00 r 01 mencuram 0 000 |    
+00017683 00 r 01 besar 0 000 |    
+00017718 00 r 01 koordinat 0 000 |    
+00017757 00 r 01 bersama-sama 0 000 |    
+00017799 00 r 02 pulang 0 balik 0 000 |    
+00017843 00 r 01 saling 0 000 |    
+00017879 00 r 01 lanjut 0 000 |    
+00017915 00 r 01 keluar 0 000 |    
+00017951 00 r 01 belakang 0 000 |    
+00017989 00 r 01 wah 0 000 |    
+00018022 00 r 01 hanya 0 000 |    
+00018057 00 r 03 sekali 0 pernah 0 dulu 0 000 |    
+00018109 00 r 01 penyesalan 0 000 |    
+00018149 00 r 01 suram 0 000 |    
+00018184 00 r 07 sama-sama 0 sama 0 sebagai 0 seperti 0 sebegitu 0 selaku 0 kayak 0 000 |    
+00018278 00 r 04 kadang-kadang 0 berkala-kala 0 sesekali 0 sekali-sekali 0 000 |    
+00018363 00 r 01 terdahulu 0 000 |    
+00018402 00 r 01 khusus 0 000 |    
+00018438 00 r 01 selalu 0 000 |    
+00018474 00 r 02 terlebih-lebih 0 terlebih 0 000 |    
+00018529 00 r 02 pertiga 0 ketiga 0 000 |    
+00018575 00 r 01 tergilas 0 000 |    
+00018613 00 r 01 terus 0 000 |    
+00018648 00 r 06 sebaliknya 0 juga 0 seelok-eloknya 0 rada-rada 0 sebaik-baiknya 0 agak 0 000 |    
+00018748 00 r 03 telah 0 sudah 0 pernah 0 000 |    
+00018800 00 r 06 lagi 0 syahdan 0 lagi_pula 0 bahkan 0 selanjutnya 0 tambahan_pula 0 000 |    
+00018895 00 r 01 metafora 0 000 |    
+00018933 00 r 01 kiranya 0 000 |    
+00018970 00 r 01 terutama 0 000 |    
+00019008 00 r 01 luar_negeri 0 000 |    
+00019049 00 r 01 semalam 0 000 |    
+00019086 00 r 02 banyak 0 wah 0 000 |    
+00019128 00 r 05 tak 0 bukan 0 tiada 0 tidak 0 belum 0 000 |    
+00019193 00 r 03 lama-lama 0 alhasil 0 akhirnya 0 000 |    
+00019253 00 r 03 melebihi 0 melewati 0 mengatasi 0 000 |    
+00019314 00 r 03 besok 0 esok 0 besar-besaran 0 000 |    
+00019372 00 r 07 bersama-sama 0 terus 0 beserta 0 seterusnya 0 sepanjang 0 berlangsung 0 ikut 0 000 |    
+00019478 00 r 01 semestinya 0 000 |    
+00019518 00 r 07 tegak 0 terus 0 betul-betul 0 lurus 0 lantas 0 langsung 0 tepat 0 000 |    
+00019611 00 r 01 erat-erat 0 000 |    
+00019650 00 r 04 pertama 0 mula-mula 0 pertama-tama 0 terdahulu 0 000 |    
+00019726 00 r 02 baik 0 tanggung_jawab 0 000 |    
+00019777 00 r 03 segera 0 sekejap_mata 0 taajul 0 000 |    
+00019837 00 r 02 ekstra 0 berlebih-lebihan 0 000 |    
+00019892 00 r 02 terasing 0 tersendiri 0 000 |    
+00019943 00 r 04 dahulu 0 pertama 0 pertama-tama 0 terdahulu 0 000 |    
+00020016 00 r 01 jauh 0 000 |    
+00020050 00 r 01 rendah 0 000 |    
+00020086 00 r 01 perlahan-lahan 0 000 |    
+00020130 00 r 01 sebilang 0 000 |    
+00020168 00 r 05 abadi 0 selama-lamanya 0 sampai_hari_kiamat 0 berkekalan 0 sentiasa 0 000 |    
+00020265 00 r 01 wah 0 000 |    
+00020298 00 r 06 saban 0 tiap-tiap 0 masing-masing 0 setiap 0 seorang 0 tiap 0 000 |    
+00020387 00 r 05 terlalu 0 berlebihan 0 juga 0 terlampau 0 begitu 0 000 |    
+00020465 00 r 01 empat_mata 0 000 |    
+00020505 00 r 01 banyak 0 000 |    
+00020541 00 r 03 baru-baru_ini 0 belakangan 0 baru 0 000 |    
+00020604 00 r 02 jauh 0 tangeh 0 000 |    
+00020647 00 r 01 terbirit-birit 0 000 |    
+00020691 00 r 02 begini 0 jadi 0 000 |    
+00020734 00 r 02 bahwasanya 0 betul-betul 0 000 |    
+00020788 00 r 02 terlampau 0 tersangat 0 000 |    
+00020839 00 r 01 verbatim 0 000 |    
+00020877 00 r 01 masing-masing 0 000 |    
+00020920 00 r 03 sambil 0 berbarengan 0 sembari 0 000 |    
+00020980 00 r 0a kira-kira 0 berkeliling 0 sekitar 0 sebagian 0 mengelilingi 0 keliling 0 kira 0 beberapa 0 hampir 0 lebih_kurang 0 000 |    
+00021122 00 r 04 teruk 0 parah 0 benar-benar 0 sedalam-dalamnya 0 000 |    
+00021198 00 r 03 sebaliknya 0 bahkan 0 malah 0 000 |    
+00021255 00 r 06 sejemang 0 sekejap 0 sejurus 0 seketika 0 sementara 0 sebentar 0 000 |    
+00021347 00 r 01 berlapang-lapang 0 000 |    
+00021393 00 r 01 kedua 0 000 |    
+00021428 00 r 02 kosmopolitan 0 mentah-mentah 0 000 |    
+00021486 00 r 02 kedekut 0 ketat 0 000 |    
+00021531 00 r 01 berasal 0 000 |    
+00021568 00 r 01 lagi-lagi 0 000 |    
+00021607 00 r 01 berkala 0 000 |    
+00021644 00 r 01 keluar 0 000 |    
+00021680 00 r 01 tambahan_pula 0 000 |    
+00021723 00 r 01 sontok 0 000 |    
+00021759 00 r 03 pelik 0 ganjil 0 aneh 0 000 |    
+00021810 00 r 06 sesungguhnya 0 sebenarnya 0 betul-betul 0 benar 0 sungguh_mati 0 benar-benar 0 000 |    
+00021916 00 r 01 membingungkan 0 000 |    
+00021959 00 r 01 menakjubkan 0 000 |    
+00022000 00 r 02 sungguh 0 benar-benar 0 000 |    
+00022051 00 r 01 sendiri-sendiri 0 000 |    
+00022096 00 r 01 lagi 0 000 |    
+00022130 00 r 02 sungguh 0 begitu 0 000 |    
+00022176 00 r 02 sedikit-sedikit 0 berangsur 0 000 |    
+00022233 00 r 04 kelihatannya 0 kiranya 0 tampaknya 0 kelihatan 0 000 |    
+00022309 00 r 01 balik 0 000 |    
+00022344 00 r 02 bertalu-talu 0 terus 0 000 |    
+00022394 00 r 03 jauh 0 banyak 0 luas 0 000 |    
+00022444 00 r 01 tulen 0 000 |    
+00022479 00 r 03 senantiasa 0 selalu 0 selamanya 0 000 |    
+00022540 00 r 03 pelik 0 ganjil 0 aneh 0 000 |    
+00022591 00 r 01 dalam 0 000 |    
+00022626 00 r 02 belakangan 0 baru 0 000 |    
+00022673 00 r 02 kelam 0 gelap 0 000 |    
+00022716 00 r 01 besar 0 000 |    
+00022751 00 r 03 begini 0 jadi 0 kemudian 0 000 |    
+00022805 00 r 01 baik-baik 0 000 |    
+00022844 00 r 01 semena-mena 0 000 |    
+00022885 00 r 01 mahal 0 000 |    
+00022920 00 r 01 ekstra 0 000 |    
+00022956 00 r 03 pun 0 bahkan 0 malah 0 000 |    
+00023006 00 r 05 namun 0 tetap 0 kini 0 masih 0 dulu 0 000 |    
+00023071 00 r 02 sungguh 0 sangat 0 000 |    
+00023117 00 r 01 jarang 0 000 |    
+00023153 00 r 01 erat-erat 0 000 |    
+00023192 00 r 05 dahulu 0 sebelum 0 berasal 0 dulu 0 terdahulu 0 000 |    
+00023267 00 r 03 antara 0 penampungan 0 lalai 0 000 |    
+00023325 00 r 03 kelak 0 nanti 0 akhirnya 0 000 |    
+00023379 00 r 03 silakan 0 kiranya 0 sila 0 000 |    
+00023433 00 r 01 betul-betul 0 000 |    
+00023474 00 r 01 bersahaja 0 000 |    
+00023513 00 r 03 ekstra 0 besar-besaran 0 mewah 0 000 |    
+00023573 00 r 01 wah 0 000 |    
+00023606 00 r 01 berparade 0 000 |    
+00023645 00 r 01 tujuh 0 000 |    
+00023680 00 r 01 lebih_kurang 0 000 |    
+00023722 00 r 01 secara 0 000 |    
+00023758 00 r 02 mengiring 0 ke_sisi 0 000 |    
+00023807 00 r 02 rada-rada 0 agak 0 000 |    
+00023853 00 r 02 pertama 0 mula-mula 0 000 |    
+00023902 00 r 01 sewajarnya 0 000 |    
+00023942 00 r 01 menggiatkan 0 000 |    
+00023983 00 r 01 mula-mula_sekali 0 000 |    
+00024029 00 r 03 ogah-ogahan 0 enggan 0 keberatan 0 000 |    
+00024091 00 r 03 tadi 0 sekadar 0 saja 0 000 |    
+00024142 00 r 01 bertubi-tubi 0 000 |    
+00024184 00 r 01 bolak-balik 0 000 |    
+00024225 00 r 02 teruk 0 parah 0 000 |    
+00024268 00 r 01 ringan 0 000 |    
+00024304 00 r 03 larut 0 jauh 0 lama 0 000 |    
+00024353 00 r 01 lancar 0 000 |    
+00024389 00 r 01 longgar 0 000 |    
+00024426 00 r 01 bebas 0 000 |    
+00024461 00 r 01 sehari-hari 0 000 |    
+00024502 00 r 01 sebenarnya 0 000 |    
+00024542 00 r 01 sentiasa 0 000 |    
+00024580 00 r 02 rada-rada 0 agak 0 000 |    
+00024626 00 r 01 besar 0 000 |    
+00024661 00 r 01 biasanya 0 000 |    
+00024699 00 r 05 bahwasanya 0 demikian 0 begini 0 begitu 0 memang 0 000 |    
+00024777 00 r 03 sebaliknya 0 berlainan 0 selain 0 000 |    
+00024838 00 r 02 sekarang 0 kini 0 000 |    
+00024883 00 r 03 akhirulkalam 0 lama-lama 0 akhirnya 0 000 |    
+00024948 00 r 01 mental 0 000 |    
+00024984 00 r 03 beriman 0 warak 0 alim 0 000 |    
+00025036 00 r 03 tentu 0 pasti 0 memang 0 000 |    
+00025088 00 r 01 ribu 0 000 |    
+00025122 00 r 01 akapela 0 000 |    
+00025159 00 r 04 pun 0 kecuali 0 Lagi_pula 0 juga 0 000 |    
+00025221 00 r 02 dengan 0 oleh 0 000 |    
+00025264 00 r 01 tambahan_pula 0 000 |    
+00025307 00 r 03 menghuni 0 mendiami 0 menduduki 0 000 |    
+00025368 00 r 01 sungguh 0 000 |    
+00025405 00 r 04 kesipu-sipuan 0 kesipuan 0 tersipu 0 tersipu-sipu 0 000 |    
+00025484 00 r 01 pasti 0 000 |    
+00025519 00 r 01 agak 0 000 |    
+00025553 00 r 01 diam 0 000 |    
+00025587 00 r 01 terang-terang 0 000 |    
+00025630 00 r 01 sentiasa 0 000 |    
+00025668 00 r 03 jadi 0 maka 0 begitu 0 000 |    
+00025718 00 r 06 masa_kini 0 tetapi 0 sekarang 0 ya 0 kini 0 alah 0 000 |    
+00025796 00 r 01 kebetulan 0 000 |    
+00025835 00 r 02 lurus 0 langsung 0 000 |    
+00025881 00 r 01 biasanya 0 000 |    
+00025919 00 r 01 sedalam-dalamnya 0 000 |    
+00025965 00 r 01 sembarangan 0 000 |    
+00026006 00 r 02 cuma-cuma 0 percuma 0 000 |    
+00026055 00 r 02 jenaka 0 lucu 0 000 |    
+00026098 00 r 04 sungguh 0 amat 0 mudah-mudahan 0 semoga 0 000 |    
+00026167 00 r 01 tinggi 0 000 |    
+00026203 00 r 02 di 0 ke 0 000 |    
+00026240 00 r 07 sungguh 0 sangat 0 tinggi 0 benar 0 amat 0 sampai_ke_sumsum 0 melampau 0 000 |    
+00026340 00 r 01 mentah-mentah 0 000 |    
+00026383 00 r 01 belum 0 000 |    
+00026418 00 r 02 dari 0 daripada 0 000 |    
+00026463 00 r 05 tenat 0 teruk 0 parah 0 benar-benar 0 sedalam-dalamnya 0 000 |    
+00026547 00 r 01 besar 0 000 |    
+00026582 00 r 01 di_sana 0 000 |    
+00026619 00 r 01 sia-sia 0 000 |    
+00026656 00 r 01 tergontai-gontai 0 000 |    
+00026702 00 r 04 selama-lamanya 0 tetap 0 sampai_hari_kiamat 0 sentiasa 0 000 |    
+00026786 00 r 01 mengheningkan 0 000 |    
+00026829 00 r 03 sebelah 0 bertentangan 0 empat_mata 0 000 |    
+00026894 00 r 04 terus 0 kaku 0 betul-betul 0 tepat 0 000 |    
+00026958 00 r 01 memfitnah 0 000 |    
+00026997 00 r 05 kadang-kadang 0 adakalanya 0 sesekali 0 sekali-sekali 0 terkadang 0 000 |    
+00027092 00 r 01 rohani 0 000 |    
+00027128 00 r 02 diam-diam 0 tetap 0 000 |    
+00027175 00 r 02 menyenangkan 0 nyaman 0 000 |    
+00027226 00 r 01 sembarangan 0 000 |    
+00027267 00 r 02 sampai-sampai 0 bahkan 0 000 |    
+00027319 00 r 01 kebetulan 0 000 |    
+00027358 00 r 02 berlawanan 0 bertentangan 0 000 |    
+00027413 00 r 03 bukan_main 0 luar_biasa 0 teristimewa 0 000 |    
+00027480 00 r 02 sendiri-sendiri 0 tersendiri 0 000 |    
+00027538 00 r 02 seenaknya 0 semau-maunya 0 000 |    
+00027592 00 r 01 rapat 0 000 |    
+00027627 00 r 01 berapa 0 000 |    
+00027663 00 r 01 mengamuk 0 000 |    
+00027701 00 r 01 terambah 0 000 |    
+00027739 00 r 09 sangat 0 terlalu 0 bukan_main 0 banget 0 benar 0 metah 0 amat 0 begitu 0 sampai_ke_sumsum 0 000 |    
+00027858 00 r 05 tahu-tahu 0 sekonyong-konyong 0 mendadak_sontak 0 mendadak 0 tiba-tiba 0 000 |    
+00027958 00 r 01 sederum 0 000 |    
+00027995 00 r 01 genit 0 000 |    
+00028030 00 r 01 terapung-apung 0 000 |    
+00028074 00 r 05 dahulu 0 pertama 0 mula-mula 0 pertama-tama 0 terdahulu 0 000 |    
+00028159 00 r 03 barangkali 0 agaknya 0 mungkin 0 000 |    
+00028219 00 r 05 namun 0 alhasil 0 masih 0 akhirnya 0 belakangan 0 000 |    
+00028296 00 r 01 ekstra 0 000 |    
+00028332 00 r 01 banyak 0 000 |    
+00028368 00 r 01 barat_daya 0 000 |    
+00028408 00 r 01 iri_hati 0 000 |    
+00028446 00 r 02 sembunyi-sembunyi 0 saku-saku 0 000 |    
+00028505 00 r 02 bukan 0 tidak 0 000 |    
+00028548 00 r 02 demi 0 berendeng 0 000 |    
+00028594 00 r 01 kemudian 0 000 |    
+00028632 00 r 02 seterusnya 0 selanjutnya 0 000 |    
+00028686 00 r 02 ringkas 0 kasar 0 000 |    
+00028731 00 r 02 setengah 0 separuh 0 000 |    
+00028779 00 r 01 berhari-hari 0 000 |    
+00028821 00 r 02 salah_jalan 0 terbabas 0 000 |    
+00028873 00 r 05 dahulu 0 sekali 0 pernah 0 dulu 0 dahulu_kala 0 000 |    
+00028948 00 r 01 belum 0 000 |    
+00028983 00 r 03 lambat 0 lembap 0 berat 0 000 |    
+00029036 00 r 02 sememangnya 0 memang 0 000 |    
+00029086 00 r 01 sulit 0 000 |    
+00029121 00 r 03 senang 0 mudah 0 tepat 0 000 |    
+00029173 00 r 01 sebaliknya 0 000 |    
+00029213 00 r 02 sama_sekali 0 benar-benar 0 000 |    
+00029268 00 r 02 jauh 0 lama 0 000 |    
+00029309 00 r 01 sepanjang 0 000 |    
+00029348 00 r 01 beserta 0 000 |    
+00029385 00 r 01 bersama-sama 0 000 |    
+00029427 00 r 03 sangat 0 sekali 0 begitu 0 000 |    
+00029481 00 r 06 sederum 0 serentak 0 sama-sama 0 bersama-sama 0 beserta 0 bersama 0 000 |    
+00029576 00 r 04 berulang_kali 0 berganda-ganda 0 bertubi-tubi 0 terulang 0 000 |    
+00029662 00 r 02 sedikit-sedikit 0 berangsur 0 000 |    
+00029719 00 r 02 segar 0 kasar 0 000 |    
+00029762 00 r 01 mewah 0 000 |    
+00029797 00 r 09 bagaimana 0 walaupun 0 namun 0 tetap 0 cara 0 sementara 0 masih 0 kiranya 0 macam_mana 0 000 |    
+00029913 00 r 01 curang 0 000 |    
+00029949 00 r 02 ringkas 0 betul 0 000 |    
+00029994 00 r 02 bersahaja 0 selamba 0 000 |    
+00030043 00 r 01 berkecai 0 000 |    
+00030081 00 r 01 biasanya 0 000 |    
+00030119 00 r 02 namun 0 masih 0 000 |    
+00030162 00 r 06 lalu 0 maka 0 kemudian 0 syahdan 0 bakdu 0 lantas 0 000 |    
+00030241 00 r 01 sebisanya 0 000 |    
+00030280 00 r 05 terlebih-lebih 0 istimewa 0 begitu 0 terutama 0 terlebih 0 000 |    
+00030366 00 r 05 sewajarnya 0 selayaknya 0 sepantasnya 0 semestinya 0 seyogianya 0 000 |    
+00030459 00 r 01 berilmu 0 000 |    
+00030496 00 r 03 lambat 0 lewat 0 ke_belakang 0 000 |    
+00030554 00 r 01 semakin 0 000 |    
+00030591 00 r 04 bukan_main 0 teruk 0 amat 0 bukan_buatan 0 000 |    
+00030661 00 r 01 jatuh_bangun 0 000 |    
+00030703 00 r 05 jadi 0 lalu 0 maka 0 kemudian 0 lantas 0 000 |    
+00030771 00 r 01 menurun 0 000 |    
+00030808 00 r 01 supersonik 0 000 |    
+00030848 00 r 01 bersama 0 000 |    
+00030885 00 r 02 betul-betul 0 benar-benar 0 000 |    
+00030940 00 r 03 sejeput 0 kecil 0 sekotes 0 000 |    
+00030995 00 r 02 semasa 0 merentangi 0 000 |    
+00031044 00 r 01 betul-betul 0 000 |    
+00031085 00 r 03 sangat 0 betul-betul 0 amat 0 000 |    
+00031142 00 r 01 erat-erat 0 000 |    
+00031181 00 r 01 tapi 0 000 |    
+00031215 00 r 01 diam-diam 0 000 |    
+00031254 00 r 05 sewajarnya 0 akibatnya 0 jadi 0 maka 0 alhasil 0 000 |    
+00031330 00 r 03 bersilang 0 melintasi 0 garis_lintang 0 000 |    
+00031397 00 r 01 langsung 0 000 |    
+00031435 00 r 02 kebetulan 0 kebenaran 0 000 |    
+00031486 00 r 09 segera 0 serentak 0 sekejap_mata 0 terus 0 berabad-abad 0 sekarang 0 serta-merta 0 lantas 0 langsung 0 000 |    
+00031616 00 r 02 namun 0 masih 0 000 |    
+00031659 00 r 01 dahulu 0 000 |    
+00031695 00 r 01 sederum 0 000 |    
+00031732 00 r 05 sendeng 0 senget 0 bengkok 0 condong 0 miring 0 000 |    
+00031807 00 r 01 tujuh 0 000 |    
+00031842 00 r 01 serentak 0 000 |    
+00031880 00 r 01 mentah-mentah 0 000 |    
+00031923 00 r 01 besar 0 000 |    
+00031958 00 r 03 sekejap 0 sebentar 0 singkat_kata 0 000 |    
+00032021 00 r 05 tahu-tahu 0 sekonyong-konyong 0 mendadak_sontak 0 mendadak 0 tiba-tiba 0 000 |    
+00032121 00 r 02 dalam 0 lewat 0 000 |    
+00032164 00 r 01 sahaja 0 000 |    
+00032200 00 r 01 secercah 0 000 |    
+00032238 00 r 06 terlebih-lebih 0 istimewa 0 khusus 0 begitu 0 terutama 0 terlebih 0 000 |    
+00032333 00 r 06 beradu 0 tertidur 0 tidur 0 terlelap 0 terlena 0 lena 0 000 |    
+00032416 00 r 01 syahdan 0 000 |    
+00032453 00 r 02 serentak 0 serempak 0 000 |    
+00032502 00 r 02 betul-betul 0 benar-benar 0 000 |    
+00032557 00 r 03 perlahan 0 sekilas 0 perlahan-lahan 0 000 |    
+00032622 00 r 06 kuat 0 pantas 0 rapat 0 laju 0 erat 0 cepat 0 000 |    
+00032695 00 r 01 bagaimana 0 000 |    
+00032734 00 r 06 barangkali 0 konon 0 mungkin 0 gerangan 0 jangan-jangan 0 mundur 0 000 |    
+00032828 00 r 01 mentah-mentah 0 000 |    
+00032871 00 r 03 sederum 0 serentak 0 serempak 0 000 |    
+00032930 00 r 01 yakni 0 000 |    
+00032965 00 r 03 serentak 0 sambil 0 berbarengan 0 000 |    
+00033026 00 r 03 sederum 0 serentak 0 serempak 0 000 |    
+00033085 00 r 01 tahunan 0 000 |    
+00033122 00 r 02 jika 0 sekiranya 0 000 |    
+00033168 00 r 05 mara 0 sebelum 0 terus 0 ke_depan 0 maju 0 000 |    
+00033238 00 r 01 kembali 0 000 |    
+00033275 00 r 01 bertolak_pinggang 0 000 |    
+00033322 00 r 01 utara 0 000 |    
+00033357 00 r 01 sebagian_besar 0 000 |    
+00033401 00 r 05 habis-habisan 0 sepepak 0 metah 0 sampai_ke_gunjainya 0 belaka 0 000 |    
+00033493 00 r 01 perkara 0 000 |    
+00033530 00 r 01 sejak 0 000 |    
+00033565 00 r 01 terlampau 0 000 |    
+00033604 00 r 01 awal 0 000 |    
+00033638 00 r 01 baru 0 000 |    
+00033672 00 r 05 tapi 0 walaupun 0 sungguhpun 0 walau 0 meskipun 0 000 |    
+00033749 00 r 01 tepat 0 000 |    
+00033784 00 r 07 ringkas 0 tahu-tahu 0 sekonyong-konyong 0 mati 0 mendadak_sontak 0 mendadak 0 tiba-tiba 0 000 |    
+00033901 00 r 02 bohong 0 dusta 0 000 |    
+00033945 00 r 01 bab 0 000 |    
+00033978 00 r 01 seberang 0 000 |    
+00034016 00 r 01 mentah-mentah 0 000 |    
+00034059 00 r 03 hanya 0 betul-betul 0 semata-mata 0 000 |    
+00034122 00 r 01 lebih_kurang 0 000 |    
+00034164 00 r 04 bilhak 0 sebenarnya 0 bahkan 0 sebetulnya 0 000 |    
+00034235 00 r 03 di 0 atas 0 pada 0 000 |    
+00034281 00 r 05 dahulu 0 sekali 0 tadinya 0 pernah 0 dulu 0 000 |    
+00034352 00 r 05 dengan 0 melintasi 0 lalu 0 oleh 0 tangeh 0 000 |    
+00034423 00 r 02 pendek_kata 0 singkat_kata 0 000 |    
+00034479 00 r 01 banyak 0 000 |    

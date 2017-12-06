@@ -13,6 +13,7 @@ class WordNet:
         self.browser_type = browser_type
         self.wordnet_content = self.wordnet_loader()
         self.tab_content = self.tab_loader()
+        self.pair_content = self.pair_loader()
 
     def wordnet_loader(self):
         if self.browser_type == 'pluricentric':
@@ -147,9 +148,31 @@ class WordNet:
                 tab_content[language_code] = {}
                 with open(os.path.join(self.browser_path, 'langdata', 'tab files', file)) as file_reader:
                     for line in file_reader:
-                        tab_content[language_code][line.split()[0]] = line.rstrip('\n')
+                        if line.split()[0] not in tab_content[language_code]:
+                            tab_content[language_code][line.split()[0]] = [line.rstrip('\n')]
+                        else:
+                            tab_content[language_code][line.split()[0]].append(line.rstrip('\n'))
         print('Tab content loaded')
         return tab_content
+
+    def pair_loader(self):
+        pair_content = {}
+        for language in os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets')):
+            if language[0] != '.' and 'pair_file' in os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets', language)):
+                language_pair_content = {'v': {}, 'r': {}, 'a': {}, 'n': {}}
+                with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'pair_file')) as file_reader:
+                    for line in file_reader:
+                        if line:
+                            split_line = line.strip("\n").split("\t")
+                            language_pair_content[split_line[0].split("-")[-1]][split_line[1]] = split_line[3] + '-' + split_line[2].split("-")[-1]
+                pair_content[language] = language_pair_content
+        print('Pair content loaded')
+        return pair_content
+
+    def get_pair(self, language, offset, pos):
+        if language in self.pair_content and pos in self.pair_content[language] and offset in self.pair_content[language][pos]:
+            return self.pair_content[language][pos][offset]
+        return None
 
     def get_index(self, language, pos, lemma):
         if pos in self.wordnet_content[language]:

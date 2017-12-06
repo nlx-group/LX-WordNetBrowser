@@ -11,6 +11,8 @@ The main different between pluricentric and my wordnet type of installations is 
 Language identifying is done with **language_identifier**, being as simple as going through index files and seeing if the word shows up on them. Due to being a single word search, other sofisticated techniques of language identification don't work as well.
 If there's a collision, as in more than one languages are detected, then a message will be sent to the client for him/her to decide the language he/she wants to explore.
 
+The advanced search for a translation can be done either through a pair file if there's one present, where the translation is then between synsets. If one isn't present, a search will be done through tab files. If there's more than one sense detected, a pairing mismatch error will happen as it is uncertain which sense of the lemma the source language synset is in the target language.
+
 Front End
 ---------
 

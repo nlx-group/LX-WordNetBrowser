@@ -1,0 +1,2962 @@
+  01 This file is a derivation of the wn-ron-lmf.xml file; the original ron-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: ron
+  07 label: Romanian
+00000317 00 r 03 ofensator 0 jignitor 0 neplăcut 0 001 ! 00010156 r 0000 | în mod neplăcut
+00000411 00 r 01 finit 0 001 ! 00048534 r 0000 | Cu o limită finită
+00000481 00 r 01 disproporționat 0 001 ! 00050742 r 0000 | în măsură disproporționată
+00000573 00 r 05 direct 0 franc 0 fățiș 0 deschis 0 sincer 0 001 ! 00041564 r 0000 | fără ascunzișuri
+00000681 00 r 01 neconstituțional 0 001 ! 00032782 r 0000 | De o manieră neconstituțională
+00000776 00 r 01 central 0 001 ! 00031560 r 0000 | În sau în apropierea centrului
+00000860 00 r 01 explicit 0 001 ! 00021833 r 0000 | De o manieră explicită
+00000937 00 r 01 allegro 0 001 ;c 04929711 n 0000 | În tempo vioi
+00001004 00 r 01 relevant 0 001 ! 00010064 r 0000 | Cu relevanță
+00001071 00 r 01 nedureros 0 001 ! 00004453 r 0000 | Fără durere
+00001138 00 r 01 acasă 0 001 ;c 04350715 n 0000 | Pe terenul de joc al echipei respective
+00001229 00 r 01 mult 0 001 ;u 02793435 n 0000 | Într-un grad foarte mare
+00001304 00 r 03 credibil 0 plauzibil 0 verosimil 0 002 ! 00032318 r 0000 ! 00013879 r 0000 | De o manieră care poate fi crezută
+00001435 00 r 03 neobservabil 0 fin 0 inobservabil 0 001 ! 00046641 r 0000 | De o manieră care nu atrage atenția
+00001550 00 r 01 disgrațios 0 001 ! 00038732 r 0000 | De o manieră lipsită de grație
+00001639 00 r 01 distal 0 001 ;c 02754676 n 0000 | Departe de centru
+00001708 00 r 01 neelegant 0 001 ! 00017054 r 0000 | Lipsit de eleganță
+00001782 00 r 02 ambițios 0 determinat 0 001 ! 00024767 r 0000 | De o manieră ambițioasă
+00001875 00 r 01 îndemânatic 0 001 ! 00023220 r 0000 | De o manieră îndemânatică
+00001962 00 r 01 permanent 0 001 ! 00045160 r 0000 | pentru o perioadă lungă și fără modificări esențiale
+00002075 00 r 01 teoretic 0 001 ! 00035768 r 0000 | În mod teoretic
+00002144 00 r 02 credibil 0 plauzibil 0 001 ! 00013879 r 0000 | ușor de crezut pe baza unor dovezi existente
+00002254 00 r 01 presto 0 001 ;c 04929711 n 0000 | (muz.) Într-un ritm mai puțin grăbit decât prestissimo
+00002364 00 r 02 direct 0 drept 0 001 ;u 02793435 n 0000 | exact
+00002429 00 r 01 înlarg 0 000 | În largul mării sau al lacului
+00002495 00 r 01 neajutorat 0 001 ! 00015254 r 0000 | De o manieră neajutorată
+00002576 00 r 01 ok 0 001 ;u 02793435 n 0000 | De o manieră satisfăcătoare
+00002654 00 r 01 ireverențios 0 001 ! 00008817 r 0000 | Fără respect
+00002726 00 r 01 urât 0 001 ! 00003939 r 0000 | De o manieră care nu este frumoasă
+00002812 00 r 01 ezitant 0 001 ! 00027764 r 0000 | De o manieră ezitantă
+00002887 00 r 01 ilegal 0 001 ! 00054906 r 0000 | Într-un mod ilegal
+00002957 00 r 01 asimetric 0 001 ! 00005017 r 0000 | De o manieră lipsită de simetrie
+00003045 00 r 01 nesatisfăcător 0 001 ! 00024510 r 0000 | De o manieră neastisfăcătoare
+00003138 00 r 01 sistematic 0 001 ! 00021505 r 0000 | cu stăruință și perseverență
+00003227 00 r 01 caunnebun 0 001 ;u 02793435 n 0000 | Cu viteză sau intensitate mare
+00003313 00 r 01 automat 0 001 ! 00012696 r 0000 | Cu ajutorul unei mașini
+00003389 00 r 01 nesemnificativ 0 001 ! 00056192 r 0000 | Nu într-o măsură semnificativă
+00003482 00 r 03 pretutindeni 0 oriunde 0 orișiunde 0 001 ;u 02793435 n 0000 | Peste tot, în toate părțile, în tot locul
+00003608 00 r 01 aicișiacum 0 001 ;u 03629177 n 0000 | Prin puterea învestită
+00003689 00 r 02 econom 0 chibzuit 0 001 ! 00045860 r 0000 | De o manieră chibzuită
+00003775 00 r 01 simbiotic 0 001 ;c 01911622 n 0000 | De o manieră simbiotică
+00003855 00 r 01 afară 0 001 ! 00019202 r 0000 | Dincolo de spațiul unei clădiri
+00003939 00 r 01 amabil 0 001 ! 00002726 r 0000 | cu amabilitate
+00004004 00 r 01 sprespatelescenei 0 001 ;c 05949464 n 0000 | În direcția spatelui scenei
+00004096 00 r 01 activ 0 001 ! 00009535 r 0000 | În mod activ
+00004159 00 r 01 fărămoderație 0 001 ! 00009278 r 0000 | Într-o manieră care exclude moderația
+00004260 00 r 01 corect 0 001 ! 00046300 r 0000 | Într-o manieră corectă, îndreptățită
+00004354 00 r 01 nepăsător 0 001 ! 00038449 r 0000 | De o manieră lipsită de interes și griji
+00004453 00 r 01 dureros 0 001 ! 00001071 r 0000 | Cu (sau de) durere
+00004523 00 r 01 prestissimo 0 001 ;c 04929711 n 0000 | (muz.) foarte repede
+00004600 00 r 01 nebărbătesc 0 001 ! 00025118 r 0000 | De o manieră lipsită de bărbăție
+00004695 00 r 01 îndirecțiavântului 0 000 | În direcția în care bate vântul
+00004778 00 r 02 remarcabil 0 neobișnuit 0 001 ! 00053847 r 0000 | Într-un grad foarte mare
+00004872 00 r 01 regulat 0 001 ! 00023304 r 0000 | în mod regulat
+00004939 00 r 01 fărăvoie 0 001 ! 00040012 r 0000 | fără a avea intenția
+00005017 00 r 01 simetric 0 001 ! 00002957 r 0000 | De o manieră simetrică
+00005094 00 r 01 nerezonabil 0 001 ! 00040092 r 0000 | De o manieră care nu este rezonabilă
+00005188 00 r 01 înainte 0 002 ! 00015897 r 0000 ;u 05347526 n 0000 | În față.
+00005271 00 r 01 cuadevărat 0 001 ;u 03510731 n 0000 | de fapt (folosit ca intensificator sau ca modificator al unei propoziții)
+00005402 00 r 01 foartemult 0 001 ;u 02793435 n 0000 | Extrem de mult
+00005472 00 r 01 penedrept 0 001 ! 00054030 r 0000 | De o manieră injustă
+00005548 00 r 01 lastânga 0 001 ! 00024911 r 0000 | spre direcția stângă
+00005625 00 r 01 elegant 0 001 ! 00039373 r 0000 | manifestând o armonie a formei, o îmbinare plăcută a elementelor, o sobrietate plină de gust
+00005774 00 r 02 înamonte 0 contracurentului 0 001 ! 00026432 r 0000 | Contra sensului în care curge un curs de apă
+00005893 00 r 01 neglijent 0 001 ! 00050827 r 0000 | De o manieră neglijentă, negândită
+00005985 00 r 01 necaracteristic 0 001 ! 00042815 r 0000 | De o manierp necaracteristică
+00006075 00 r 01 cuneîncredere 0 001 ! 00021187 r 0000 | Cu lipsă de încredere
+00006157 00 r 02 binaural 0 binauricular 0 001 ! 00007614 r 0000 | De o manieră care include ambele urechi
+00006265 00 r 02 concurențial 0 competitiv 0 001 ! 00033895 r 0000 | În competiție
+00006351 00 r 01 grozavde 0 001 ;u 02793435 n 0000 | folosit ca intensificator
+00006430 00 r 01 nonviolent 0 001 ! 00024134 r 0000 | Fără violență
+00006502 00 r 02 surâzător 0 zâmbitor 0 000 | De o manieră zâmbitoare
+00006577 00 r 01 incomparabil 0 001 ! 00051785 r 0000 | De o manieră incomparabilă
+00006662 00 r 01 articulat 0 001 ! 00031136 r 0000 | Într-o manieră articulată, elocventă
+00006756 00 r 01 rău 0 001 ! 00020804 r 0000 | nefavorabil
+00006816 00 r 01 nelegal 0 001 ! 00036113 r 0000 | Neconform cu legea
+00006886 00 r 03 dinăuntru 0 interior 0 intern 0 001 ! 00052092 r 0000 | Din interior.
+00006974 00 r 01 regulat 0 001 ! 00011871 r 0000 | cu regularitate
+00007041 00 r 01 formal 0 001 ! 00022079 r 0000 | în manieră formală
+00007113 00 r 02 impacient 0 nerăbdător 0 001 ! 00049249 r 0000 | De o manieră nerăbdătore
+00007209 00 r 02 ambiguu 0 echivoc 0 001 ! 00038892 r 0000 | De o manieră echivocă
+00007294 00 r 01 nedramatic 0 001 ! 00014494 r 0000 | De manieră nedramatică
+00007373 00 r 01 cinstit 0 001 ! 00007980 r 0000 | în mod corect, onest
+00007446 00 r 01 natural 0 000 | conform legilor naturii, fără intervenție artificială
+00007537 00 r 01 fărăsucces 0 001 ! 00037124 r 0000 | Fără a avea succes
+00007614 00 r 01 monaural 0 001 ! 00006157 r 0000 | Într-o manieră care implică doar o ureche
+00007711 00 r 01 nespusde 0 001 ;u 03510731 n 0000 | (intensificator pentru adjective) foarte
+00007805 00 r 01 pretențios 0 001 ! 00045505 r 0000 | De o manieră pretențioasă
+00007889 00 r 01 rațional 0 001 ! 00016309 r 0000 | De o manieră lucidă și rațională
+00007980 00 r 01 necinstit 0 001 ! 00007373 r 0000 | de o manieră necinstită
+00008059 00 r 01 oportun 0 000 | La timpul oportun
+00008110 00 r 02 netrebuincios 0 nenecesar 0 000 | De o manieră care nu este necesară
+00008198 00 r 01 abstract 0 001 ! 00055560 r 0000 | În termeni abstracți
+00008273 00 r 01 eficace 0 001 ! 00039548 r 0000 | De o manieră eficace
+00008346 00 r 01 diplomatic 0 001 ! 00035325 r 0000 | De o manieră diplomatică
+00008427 00 r 01 precedent 0 000 | Cu precedent
+00008475 00 r 02 prost 0 slab 0 001 ! 00034463 r 0000 | în manieră nepotrivită, nesatisfăcătoare
+00008577 00 r 01 anorganic 0 001 ! 00044848 r 0000 | Neconținând atomi de carbon
+00008660 00 r 01 legitim 0 000 | De omanieră recunoscută de lege
+00008727 00 r 01 hotărât 0 001 ! 00043649 r 0000 | De o manieră care arată hotărâre
+00008817 00 r 02 ceremonios 0 reverențios 0 001 ! 00002654 r 0000 | De o manieră reverențioasă
+00008916 00 r 01 nesportiv 0 001 ! 00035573 r 0000 | De o manieră incorectă, nesportivă
+00009007 00 r 02 antemeridian 0 AM 0 001 ;c 01446944 n 0000 | Înainte de prânz
+00009088 00 r 01 inconfortabil 0 001 ! 00034309 r 0000 | resimțind diconfort fizic
+00009172 00 r 02 așa 0 atâtde 0 001 ;u 03510731 n 0000 | într-o măsură sau într-un grad foarte mare
+00009278 00 r 02 moderat 0 cumoderație 0 001 ! 00004159 r 0000 | Într-o manieră moderată
+00009371 00 r 01 nepatriotic 0 001 ! 00025844 r 0000 | De o manieră lipsită de patriotism
+00009463 00 r 01 tare 0 001 ! 00024700 r 0000 | cu sonor destul de mare
+00009535 00 r 01 pasiv 0 001 ! 00004096 r 0000 | Într-o manieră pasivă
+00009609 00 r 01 convenabil 0 001 ! 00054219 r 0000 | De o manieră convenabilă, mulțumitoare
+00009705 00 r 02 inventiv 0 imaginativ 0 001 ! 00015095 r 0000 | Cu imaginație
+00009785 00 r 01 galant 0 001 ! 00033126 r 0000 | De o manieră galantă
+00009858 00 r 01 necondiționat 0 001 ! 00026351 r 0000 | De o manieră care exclude condițiile
+00009955 00 r 01 îngeneral 0 001 ! 00029012 r 0000 | fără a distinge pe unul de ceilalți de același fel
+00010064 00 r 02 irelevant 0 nerelevant 0 001 ! 00001004 r 0000 | De o manieră irelevantă
+00010156 00 r 01 inofensiv 0 001 ! 00000317 r 0000 | De o manieră plăcută și care nu face rău
+00010255 00 r 01 meritat 0 001 ! 00038131 r 0000 | Așa cum merita
+00010322 00 r 01 recunoscător 0 001 ! 00044184 r 0000 | cu apreciere
+00010392 00 r 02 compact 0 dens 0 000 | în mod concentrat
+00010451 00 r 01 sus 0 001 ! 00029369 r 0000 | înspre partea mai ridicată a unei așezări sau înspre nord.
+00010562 00 r 02 sărăcăcios 0 sărac 0 001 ! 00023474 r 0000 | Într-o manieră săracă
+00010654 00 r 01 geometric 0 000 | De o manieră geometrică
+00010715 00 r 02 neeficient 0 ineficient 0 001 ! 00016720 r 0000 | în manieră lipsită de eficiență
+00010819 00 r 02 combativ 0 polemic 0 000 | incumbând controversă
+00010887 00 r 01 natural 0 001 ! 00036179 r 0000 | cu naturalețe
+00010953 00 r 01 legato 0 000 | (muz.) legat, susținând neîntrerupt sunetul unei note
+00011042 00 r 01 subțire 0 001 ! 00036438 r 0000 | în cantitate mică
+00011114 00 r 01 acoperit 0 001 ! 00055115 r 0000 | de o manieră acoperită
+00011191 00 r 01 maijos 0 001 ! 00022522 r 0000 | mai departe; ex. : vezi mai jos
+00011273 00 r 01 măsurabil 0 001 ! 00014833 r 0000 | Într-un grad care poate fi măsurat
+00011364 00 r 01 puternic 0 001 ! 00023067 r 0000 | Cu putere
+00011426 00 r 01 neproductiv 0 001 ! 00036689 r 0000 | De o manieră care nu aduce rezultate
+00011519 00 r 02 dăunător 0 păgubitor 0 001 ! 00020241 r 0000 | De o manieră păgubitoare
+00011613 00 r 01 înfricoșat 0 001 ! 00035037 r 0000 | Cu frică
+00011679 00 r 04 docil 0 obedient 0 supus 0 ascultător 0 001 ! 00044418 r 0000 | în manieră obedientă
+00011785 00 r 01 responsabil 0 001 ! 00029162 r 0000 | Într-o manieră responsabilă
+00011871 00 r 01 neregulat 0 001 ! 00006974 r 0000 | De o manieră neregulată
+00011950 00 r 01 așa 0 001 ;u 03510731 n 0000 | în asemenea măsură
+00012021 00 r 01 realist 0 001 ! 00043248 r 0000 | De o manieră realistă
+00012096 00 r 01 privat 0 001 ! 00039654 r 0000 | De către o persoană privată
+00012177 00 r 01 trist 0 001 ! 00015409 r 0000 | De o manieră lipsită de bucurie
+00012260 00 r 02 maisus 0 maitare 0 001 ! 00040541 r 0000 | La o intensitate mai mare
+00012346 00 r 01 cugust 0 001 ! 00049987 r 0000 | Cu bun gust
+00012408 00 r 01 înmare 0 001 ! 00052969 r 0000 | fără a acorda atenție detaliilor și excepțiilor
+00012512 00 r 01 spreinterior 0 001 ! 00035928 r 0000 | Spre centru sau interior
+00012593 00 r 01 exact 0 001 ;u 02217457 n 0000 | expresie a surprizei, a scepticismului sau a ironiei
+00012696 00 r 01 lamână 0 001 ! 00003313 r 0000 | Fără a se folosi o mașină
+00012778 00 r 04 cuadevărat 0 fărăîndoială 0 fărădoarșipoate 0 într-adevăr 0 001 ;u 05150804 n 0000 | cu toată sinceritatea, într-adevăr
+00012928 00 r 01 neasertiv 0 001 ! 00013479 r 0000 | De o manieră neasertivă
+00013007 00 r 01 cufolos 0 001 ! 00030868 r 0000 | Într-o manieră folositoare
+00013087 00 r 01 fărăplângeri 0 001 ! 00026854 r 0000 | De o manieră lipsită de plângeri
+00013182 00 r 01 indecis 0 001 ! 00053756 r 0000 | De o manieră indecisă
+00013257 00 r 01 cuînțelegere 0 000 | manifestând înțelegere
+00013323 00 r 01 dinfericire 0 001 ! 00038357 r 0000 | cu noroc
+00013387 00 r 02 democrat 0 democratic 0 001 ! 00013794 r 0000 | De o manieră democratică
+00013479 00 r 01 asertiv 0 001 ! 00012928 r 0000 | De o manieră asertivă
+00013554 00 r 01 memorabil 0 001 ! 00045602 r 0000 | De o manieră memorabilă
+00013633 00 r 02 echivoc 0 imprecis 0 001 ! 00054439 r 0000 | De o manieră inexactă
+00013719 00 r 01 lizibil 0 001 ! 00024199 r 0000 | Care poate fi descifrat
+00013794 00 r 01 nedemocratic 0 001 ! 00013387 r 0000 | De o manieră nedemocratică
+00013879 00 r 01 incredibil 0 002 ! 00002144 r 0000 ! 00001304 r 0000 | greu de crezut
+00013966 00 r 01 denovo 0 001 ;c 01446944 n 0000 | De la început
+00014032 00 r 01 fărăumor 0 001 ! 00045263 r 0000 | De o manieră lipsită de umor
+00014117 00 r 01 loial 0 001 ! 00019937 r 0000 | Cu loialitate
+00014180 00 r 01 aprobator 0 001 ! 00037854 r 0000 | De o manieră aprobatoare
+00014259 00 r 01 interesant 0 001 ! 00014574 r 0000 | De o manieră interesantă
+00014340 00 r 02 minimal 0 minim 0 001 ! 00031980 r 0000 | Într-un grad minim
+00014419 00 r 03 engros 0 engross 0 curidicata 0 000 | La un preț en gros
+00014494 00 r 01 dramatic 0 001 ! 00007294 r 0000 | Într-o manieră dramatică
+00014574 00 r 01 neinteresant 0 001 ! 00014259 r 0000 | De o manieră neinteresantă
+00014659 00 r 02 dinîntâmplare 0 întâmplător 0 001 ;u 05150804 n 0000 | Prin mijlocirea șansei
+00014760 00 r 01 inuman 0 001 ! 00015194 r 0000 | De o manieră inumană
+00014833 00 r 01 nemăsurat 0 001 ! 00011273 r 0000 | Într-un grad foarte mare, care nu poate fi măsurat
+00014940 00 r 01 iertător 0 001 ! 00018235 r 0000 | De o manieră iertătoare
+00015019 00 r 01 dinfericire 0 001 ! 00053085 r 0000 | Într-un mod norocos
+00015095 00 r 01 fărăimaginație 0 001 ! 00009705 r 0000 | De o manieră lipsită de imaginație
+00015194 00 r 01 omenos 0 001 ! 00014760 r 0000 | cu omenie
+00015254 00 r 01 folositor 0 001 ! 00002495 r 0000 | În mod util
+00015320 00 r 01 pentruaceasta 0 001 ;c 01660925 n 0000 | (limbaj formal) pentru aceasta
+00015409 00 r 02 voios 0 bucuros 0 001 ! 00012177 r 0000 | De o manieră plină de voioșie
+00015501 00 r 02 neoportun 0 inoportun 0 000 | De o manieră neoportună
+00015574 00 r 01 maiaproape 0 001 ;u 05811584 n 0000 | La o distanță mai mică
+00015655 00 r 02 voios 0 vesel 0 001 ! 00020082 r 0000 | Într-o manieră veselă
+00015737 00 r 02 vizibil 0 evident 0 001 ! 00031785 r 0000 | într-o manieră perceptibilă
+00015829 00 r 01 neonorabil 0 001 ! 00042592 r 0000 | Fără onoare
+00015897 00 r 04 înapoi 0 îndărăt 0 înurmă 0 înspate 0 001 ! 00005188 r 0000 | In direcția contrară înaintării
+00016019 00 r 01 înbătaiapuștii 0 001 ;u 03184971 n 0000 | Într-o poziție dificilă sau vulnerabilă
+00016125 00 r 01 obligatoriu 0 001 ! 00044040 r 0000 | De o manieră obligatorie
+00016206 00 r 01 încolo 0 001 ! 00022810 r 0000 | în partea aceea, în direcția aceea, într-acolo.
+00016309 00 r 01 nebunește 0 001 ! 00007889 r 0000 | În mod necugetat, nesocotit
+00016392 00 r 01 neobtruziv 0 001 ! 00028252 r 0000 | De o manieră neobtruzivă
+00016473 00 r 01 impardonabil 0 001 ! 00029599 r 0000 | Într-o manieră care nu poate fi iertată
+00016572 00 r 01 extrem 0 001 ;u 03510731 n 0000 | foarte mult
+00016635 00 r 01 neinteligent 0 001 ! 00027594 r 0000 | De o manieră neinteligentă
+00016720 00 r 01 eficient 0 001 ! 00010715 r 0000 | în manieră eficientă
+00016796 00 r 01 pleosc 0 001 ;u 02793435 n 0000 | Cu un zgomot produs de căderea unui corp moale ( în apă) sau de lovirea unui corp ( moale sau elastic) de un altul
+00016965 00 r 02 amabil 0 politicos 0 001 ! 00017813 r 0000 | De o manieră politicoasă
+00017054 00 r 01 modern 0 001 ! 00001708 r 0000 | De o manieră la modă
+00017127 00 r 01 fortissimo 0 001 ! 00025769 r 0000 | (muz.) cu maximă intensitate, foarte tare
+00017224 00 r 01 înăuntru 0 000 | în ceea ce privește sentimentele personale
+00017305 00 r 01 romantic 0 001 ! 00039172 r 0000 | De o manieră romantică
+00017382 00 r 02 cuînțelepciune 0 înțelept 0 001 ! 00024595 r 0000 | De o manieră înțeleaptă
+00017483 00 r 01 delin 0 001 ! 00054793 r 0000 | De tot, în întregime, pe de-a-ntregul, complet.
+00017582 00 r 01 neconvențional 0 001 ! 00048717 r 0000 | De o manieră neconvențională
+00017673 00 r 01 molto 0 001 ;c 04929711 n 0000 | Mult (Allegro Molto)
+00017744 00 r 01 flexibil 0 001 ! 00022604 r 0000 | Cu flexibilitate
+00017813 00 r 02 necivilizat 0 nepoliticos 0 001 ! 00016965 r 0000 | De o manieră nepoliticoasă
+00017911 00 r 01 mult 0 001 ! 00032553 r 0000 | în mod excesiv
+00017975 00 r 03 neprimitor 0 inospitalier 0 neospitalier 0 000 | De o manieră neprimitoare
+00018068 00 r 01 atrăgător 0 001 ! 00038645 r 0000 | De o manieră atrăgătoare
+00018151 00 r 01 ralletando 0 001 ;c 04929711 n 0000 | (muzică) care încetinește
+00018235 00 r 01 neiertător 0 001 ! 00014940 r 0000 | Fără iertare
+00018305 00 r 02 iubitor 0 dulce 0 002 ;u 02793435 n 0000 ;c 00291465 n 0000 | Într-o manieră afectuoasă
+00018413 00 r 01 maniabil 0 001 ! 00019745 r 0000 | În așa fel încât este ușor de mânuit
+00018508 00 r 01 decent 0 001 ! 00021668 r 0000 | De o manieră decentă
+00018581 00 r 01 înainte 0 001 ! 00043406 r 0000 | fără să atingă momentul de timp obișnuit sau așteptat
+00018693 00 r 02 melodios 0 armonios 0 000 | cu sunete armonioase
+00018759 00 r 01 indiscret 0 000 | De o manieră indiscretă
+00018820 00 r 03 cuprudență 0 cugrijă 0 cuatenție 0 001 ! 00041156 r 0000 | acordând atenția și prudența necesare
+00018942 00 r 01 cronic 0 001 ! 00045081 r 0000 | De o manieră care evoluează încet și durabil
+00019041 00 r 01 impersonal 0 001 ! 00025923 r 0000 | Fără căldură umană
+00019119 00 r 01 intranzitiv 0 001 ! 00030277 r 0000 | De o manieră intranzitivă
+00019202 00 r 01 înăuntru 0 001 ! 00003855 r 0000 | În interior.
+00019270 00 r 04 sigur 0 cusiguranță 0 bineînțeles 0 desigur 0 001 ;u 02793435 n 0000 | Fără nici o îndoială
+00019387 00 r 01 necritic 0 001 ! 00052713 r 0000 | De o manieră necritică
+00019464 00 r 02 favorabil 0 prielnic 0 001 ! 00052169 r 0000 | De o manieră favorabilă
+00019554 00 r 01 deasupra 0 001 ! 00038986 r 0000 | În partea de sus, în partea imediat superioară
+00019656 00 r 01 neconvingător 0 001 ! 00046049 r 0000 | De o manieră neconvingătoare
+00019745 00 r 01 greudestăpânit 0 001 ! 00018413 r 0000 | De o manieră greu de stăpânit
+00019838 00 r 01 necontrolat 0 001 ! 00056031 r 0000 | De o manieră care a scăpat de sub control
+00019937 00 r 01 neloial 0 001 ! 00014117 r 0000 | Fără loialitate
+00020006 00 r 02 datdracului 0 aldracului 0 001 ;u 03510731 n 0000 | Extrem
+00020082 00 r 01 nefericit 0 001 ! 00015655 r 0000 | De o manieră neplăcută
+00020161 00 r 01 incorect 0 001 ! 00029903 r 0000 | Într-o manieră incorectă
+00020241 00 r 03 benign 0 inofensiv 0 nevătămător 0 001 ! 00011519 r 0000 | De o manieră care nu face rău
+00020352 00 r 02 accidental 0 întâmplător 0 001 ! 00055424 r 0000 | fără a fi plănuit dinainte
+00020453 00 r 01 gros 0 001 ! 00034965 r 0000 | cu o consistență groasă
+00020528 00 r 02 bucal 0 oral 0 001 ;c 02576871 n 0000 | (despre medicamente) care se iau pe gură
+00020627 00 r 04 mereu 0 întotdeauna 0 pururi 0 totdeauna 0 001 ! 00027331 r 0000 | cu orice ocazie.
+00020729 00 r 01 andante 0 001 ;c 04929711 n 0000 | (muz.) lent, liniștit
+00020804 00 r 01 bine 0 001 ! 00006756 r 0000 | Expresie : A vorbi (pe cineva) de bine; a lăuda (pe cineva). NOTĂ : definiția pentru acest sens este : în mod favorabil
+00020976 00 r 02 fărăștiință 0 fărăvoie 0 002 ! 00038449 r 0000 ! 00038288 r 0000 | Fără să-și dea seama
+00021092 00 r 01 necivilizat 0 001 ! 00023646 r 0000 | De o manieră grosolană, necivilizată
+00021187 00 r 01 încrezător 0 001 ! 00006075 r 0000 | Cu încredere
+00021257 00 r 01 zelos 0 001 ;u 02793435 n 0000 | Plin de zel
+00021319 00 r 02 încă 0 mai 0 000 | (Arată că acțiunea verbului durează) Și acum, în continuare
+00021423 00 r 01 competent 0 001 ! 00024050 r 0000 | Într-o manieră competentă
+00021505 00 r 01 nesistematic 0 001 ! 00003138 r 0000 | Într-o manieră nesistematică
+00021593 00 r 01 figurativ 0 001 ! 00035118 r 0000 | Într-un sens figurat
+00021668 00 r 01 indecent 0 001 ! 00018508 r 0000 | De o manieră indecentă
+00021745 00 r 02 neintenționat 0 involuntar 0 001 ! 00055424 r 0000 | fără intenție
+00021833 00 r 01 implicit 0 001 ! 00000860 r 0000 | fără a fi exprimat direct
+00021913 00 r 01 neinteresant 0 001 ! 00043327 r 0000 | De o manieră care nu stârnește interesul
+00022013 00 r 01 hotărât 0 001 ! 00029812 r 0000 | Cu fermitate
+00022079 00 r 01 informal 0 001 ! 00007041 r 0000 | Fără formalități
+00022152 00 r 01 imprudent 0 001 ! 00047332 r 0000 | Într-o manieră imprudentă
+00022234 00 r 01 lapupă 0 000 | La sfărșitul unei nave
+00022292 00 r 01 cuprinzător 0 001 ! 00026539 r 0000 | De o manieră cuprinzătoare
+00022377 00 r 01 forte 0 001 ! 00027104 r 0000 | (Indică modul de executare a unei bucăți muzicale) Cu sonoritate intensă, puternică, tare.
+00022522 00 r 02 deasupra 0 supra 0 001 ! 00011191 r 0000 | într-un loc anterior
+00022604 00 r 02 inflexibil 0 neclintit 0 001 ! 00017744 r 0000 | De o manieră inflexibilă
+00022697 00 r 01 public 0 001 ! 00039888 r 0000 | într-o manieră accesibilă sau observabilă de către public
+00022810 00 r 01 încoace 0 001 ! 00016206 r 0000 | Înspre mine, spre locul unde mă aflu
+00022901 00 r 01 fărăsperanță 0 000 | De o manieră care exclude vreo speranță
+00022986 00 r 01 gramatical 0 001 ! 00024350 r 0000 | De o manieră gramaticală
+00023067 00 r 01 puțin 0 001 ! 00011364 r 0000 | în măsură mică
+00023136 00 r 01 înprincipal 0 001 ! 00046562 r 0000 | De principală importanță
+00023220 00 r 01 nepriceput 0 001 ! 00001875 r 0000 | Într-o manieră nepricepută
+00023304 00 r 02 inegal 0 neegal 0 001 ! 00004872 r 0000 | De o manieră inegală
+00023386 00 r 01 maijos 0 001 ;u 03629177 n 0000 | în documentul sau cartea respective
+00023474 00 r 01 scump 0 001 ! 00010562 r 0000 | De o manieră scumpă, care costă mult
+00023563 00 r 02 neexpresiv 0 inexpresiv 0 001 ! 00024433 r 0000 | Fără expresie
+00023646 00 r 01 civilizat 0 001 ! 00021092 r 0000 | De o manieră civilizată
+00023725 00 r 01 aldracului 0 001 ;u 02148863 n 0000 | Extrem de
+00023790 00 r 01 de-adreptul 0 001 ;u 03510731 n 0000 | De o manieră vădită
+00023869 00 r 02 modest 0 cumodestie 0 001 ! 00029276 r 0000 | De o manieră modestă
+00023955 00 r 02 nesuferit 0 dezagreabil 0 001 ! 00028601 r 0000 | De o manieră dezagreabilă
+00024050 00 r 01 incompetent 0 001 ! 00021423 r 0000 | de o manieră incompententă
+00024134 00 r 01 violent 0 001 ! 00006430 r 0000 | cu violență
+00024199 00 r 04 ilizibil 0 nelizibil 0 indescifrabil 0 nedescifrabil 0 001 ! 00013719 r 0000 | De o manieră care nu poate fi citită sau descifrată
+00024350 00 r 01 negramatical 0 001 ! 00022986 r 0000 | De manieră negramaticală
+00024433 00 r 01 expresiv 0 001 ! 00023563 r 0000 | De o manieră expresivă
+00024510 00 r 01 satisfăcător 0 001 ! 00003045 r 0000 | în manieră mulțumitoare
+00024595 00 r 03 nesăbuit 0 prostesc 0 nesocotit 0 001 ! 00017382 r 0000 | Fără prea multă judecată
+00024700 00 r 01 încet 0 001 ! 00009463 r 0000 | cu volum scăzut
+00024767 00 r 01 neambițios 0 001 ! 00001782 r 0000 | Lipsit de ambiție
+00024841 00 r 02 exact 0 fix 0 001 ;u 02793435 n 0000 | Fără eroare
+00024911 00 r 01 drept 0 001 ! 00005548 r 0000 | Expresie : Din dreapta. În dreapta. La (sau spre) dreapta.
+00025020 00 r 02 inteligibil 0 clar 0 001 ! 00050452 r 0000 | într-o manieră ușor de înțeles
+00025118 00 r 01 bărbătesc 0 001 ! 00004600 r 0000 | De o manieră bărbătească
+00025202 00 r 01 sociabil 0 001 ! 00046738 r 0000 | De o manieră sociabilă
+00025279 00 r 05 estetic 0 drăguț 0 frumos 0 agreabil 0 plăcut 0 001 ! 00048449 r 0000 | De o manieră plăcută ochiului
+00025404 00 r 07 rapid 0 agil 0 sprinten 0 ager 0 iute 0 repede 0 vioi 0 001 ! 00042339 r 0000 | cu mișcări rapide
+00025521 00 r 01 pizzicato 0 001 ;c 04929711 n 0000 | Cu un sunet de corzi ciupite
+00025604 00 r 02 respectabil 0 onorabil 0 001 ! 00049425 r 0000 | De o manieră onorabilă
+00025695 00 r 01 nemuzical 0 000 | De o manieră lipsită de muzicalitate
+00025769 00 r 01 pianissimo 0 001 ! 00017127 r 0000 | (muz.) foarte încet
+00025844 00 r 01 patriotic 0 001 ! 00009371 r 0000 | De o manieră patriotică
+00025923 00 r 01 personal 0 001 ! 00019041 r 0000 | în mod personal
+00025992 00 r 01 inegal 0 001 ! 00043799 r 0000 | De o manieră inegală sau părtinitoare
+00026083 00 r 01 fărăgrabă 0 001 ! 00031276 r 0000 | De o manieră fără grabă
+00026167 00 r 01 bine 0 001 ! 00051558 r 0000 | fără să considere drept un lucru rău ceea ce s-a petrecut
+00026277 00 r 01 involuntar 0 001 ! 00053156 r 0000 | împotriva voinței
+00026351 00 r 01 condiționat 0 001 ! 00009858 r 0000 | Subiectul unei condiții
+00026432 00 r 01 înaval 0 001 ! 00005774 r 0000 | mai aproape de vărsare (în comparație cu alt punct).
+00026539 00 r 01 incomprehensibil 0 001 ! 00022292 r 0000 | De o manieră care nu poate fi înțeleasă
+00026643 00 r 01 ușor 0 001 ;u 02793435 n 0000 | cu ușurință
+00026708 00 r 01 ilogic 0 001 ! 00030542 r 0000 | De o manieră ilogică
+00026781 00 r 01 mai 0 000 | (Servește la formarea gradului comparativ)
+00026854 00 r 01 plângăcios 0 001 ! 00013087 r 0000 | De o manieră plângăcioasă
+00026940 00 r 01 lapaștelecailor 0 001 ;u 02793435 n 0000 | Foarte puțin probabil
+00027024 00 r 01 atributiv 0 001 ;c 05289028 n 0000 | De o manieră atributivă
+00027104 00 r 02 piano 0 încet 0 001 ! 00022377 r 0000 | (Indică modul de executare a unei bucăți muzicale) Cu intensitate scăzută
+00027241 00 r 01 ușor 0 001 ;u 02793435 n 0000 | în manieră relaxată, fără greutate
+00027331 00 r 01 niciodată 0 001 ! 00020627 r 0000 | fără să se întâmple vreodată în trecut sau în viitor
+00027446 00 r 01 matur 0 001 ! 00054629 r 0000 | De o manieră matură
+00027517 00 r 01 defensiv 0 001 ! 00054142 r 0000 | De o manieră defensivă
+00027594 00 r 01 inteligent 0 001 ! 00016635 r 0000 | De o manieră inteligentă
+00027675 00 r 01 fericit 0 001 ! 00043556 r 0000 | de o manieră fericită, bine aleasă
+00027764 00 r 01 neezitant 0 001 ! 00002812 r 0000 | Fără ezitare
+00027832 00 r 02 dinvest 0 dinsprevest 0 001 ! 00032472 r 0000 | Din partea de vest
+00027916 00 r 01 pepiciormare 0 000 | Pe scară mare
+00027969 00 r 04 încaltea 0 batâr 0 barem 0 măcar 0 001 ;u 02793435 n 0000 | Cel puțin
+00028060 00 r 01 răuvoitor 0 001 ! 00050647 r 0000 | De o manieră care trădează rea voință
+00028157 00 r 01 imperfect 0 001 ! 00051878 r 0000 | într-o manieră lipsită de perfecțiune
+00028252 00 r 01 obtruziv 0 001 ! 00016392 r 0000 | Într-o manieră obtruzivă
+00028332 00 r 01 atipic 0 001 ! 00043881 r 0000 | De manieră netipică
+00028404 00 r 01 pedealtăparte 0 001 ! 00056549 r 0000 | Din alt punct de vedere
+00028486 00 r 04 celmai 0 ceamai 0 ceimai 0 celemai 0 001 ! 00040622 r 0000 | servește la formarea superlativului
+00028601 00 r 03 distractiv 0 agreabil 0 plăcut 0 002 ! 00023955 r 0000 ! 00043071 r 0000 | Într-o manieră plăcută
+00028721 00 r 01 cusentiment 0 001 ! 00040441 r 0000 | Cu emoție
+00028787 00 r 01 adagio 0 001 ;c 04929711 n 0000 | În tempo lent, rar.
+00028859 00 r 01 intolerant 0 001 ! 00054716 r 0000 | De o manieră intolerantă
+00028940 00 r 01 oficial 0 001 ! 00042902 r 0000 | într-un rol oficial
+00029012 00 r 02 înspecial 0 îndeosebi 0 001 ! 00009955 r 0000 | în mod particular
+00029098 00 r 01 oral 0 000 | Spre gură sau în regiunea gurii
+00029162 00 r 02 iresponsabil 0 inconștient 0 001 ! 00011785 r 0000 | De o manieră lipsită de responsabilitate
+00029276 00 r 01 fărămodestie 0 001 ! 00023869 r 0000 | De o manieră lipsită de modestie
+00029369 00 r 01 jos 0 001 ! 00010451 r 0000 | la distanță de un loc central sau nordic
+00029459 00 r 01 purșisimplu 0 001 ;u 03510731 n 0000 | nimic altceva decât...; numai și numai; nici mai mult, nici mai puțin decât...
+00029599 00 r 02 scuzabil 0 pardonabil 0 001 ! 00016473 r 0000 | într-o manieră care poate fi trecută cu vederea.
+00029716 00 r 03 literalmente 0 efectiv 0 realmente 0 001 ;u 03510731 n 0000 | fără exagerare
+00029812 00 r 01 nehotărât 0 001 ! 00022013 r 0000 | De o manieră lipsită de fermitate
+00029903 00 r 01 îngrijit 0 001 ! 00020161 r 0000 | cu acuratețe
+00029970 00 r 01 neceremonios 0 001 ! 00044257 r 0000 | Într-o manieră neceremonioasă
+00030059 00 r 01 apriori 0 001 ! 00047407 r 0000 | Derivat cu ajutorul logicii
+00030138 00 r 02 direct 0 drept 0 001 ;u 02793435 n 0000 | direct
+00030204 00 r 01 credul 0 001 ! 00031624 r 0000 | De o manieră credulă
+00030277 00 r 01 tranzitiv 0 001 ! 00019119 r 0000 | De o manieră tranzitivă
+00030356 00 r 02 nepoliticos 0 nerespectuos 0 000 | Într-o manieră nerespectuoasă
+00030441 00 r 01 reversibil 0 002 ;c 04203616 n 0000 ;c 03320588 n 0000 | De o manieră reversibilă
+00030542 00 r 01 logic 0 001 ! 00026708 r 0000 | De o manieră logică
+00030613 00 r 01 maimult 0 000 | Comparativ de superioritate la XXXmultXXX
+00030688 00 r 01 nejudicios 0 001 ! 00055267 r 0000 | De o manieră nejudicioasă
+00030770 00 r 02 descurajant 0 descurajator 0 001 ! 00050269 r 0000 | De o manieră descurajantă
+00030868 00 r 03 degeaba 0 zadarnic 0 inutil 0 001 ! 00013007 r 0000 | fără folos, fără rost
+00030965 00 r 01 însiguranță 0 000 | în manieră lipsită de teamă și risc
+00031046 00 r 01 audibil 0 001 ! 00044339 r 0000 | Într-o manieră care poate fi auzită
+00031136 00 r 01 nearticulat 0 001 ! 00006662 r 0000 | De o manieră nearticulată
+00031219 00 r 01 sentimental 0 000 | în mod sentimental
+00031276 00 r 03 îngrabă 0 grăbit 0 grabnic 0 001 ! 00026083 r 0000 | în manieră grabnică
+00031372 00 r 01 fărăemoție 0 001 ! 00049158 r 0000 | De o manieră lipsită de emoție
+00031463 00 r 01 dinplin 0 001 ! 00054793 r 0000 | cu un grad mare de întindere, îndestulător
+00031560 00 r 01 periferic 0 001 ! 00000776 r 0000 | La margine
+00031624 00 r 01 incredul 0 001 ! 00030204 r 0000 | Într-o manieră incredulă
+00031704 00 r 01 neregulat 0 001 ! 00052442 r 0000 | Având o formă neregulată
+00031785 00 r 01 imperceptibil 0 001 ! 00015737 r 0000 | De o manieră care nu poate fi percepută
+00031884 00 r 02 nesimțitor 0 insensibil 0 001 ! 00045428 r 0000 | De o manieră nepăsătoare
+00031980 00 r 02 maximal 0 maxim 0 001 ! 00014340 r 0000 | Într-un grad maxim
+00032059 00 r 01 înculise 0 001 ! 00033504 r 0000 | În spatele scenei
+00032131 00 r 01 pro 0 000 | De partea afirmativă
+00032182 00 r 01 irațional 0 001 ! 00035846 r 0000 | fără a gândi
+00032252 00 r 01 înniciuncaz 0 001 ;u 02793435 n 0000 | Sigur nu
+00032318 00 r 01 incredibilde 0 001 ! 00001304 r 0000 | într-o manieră incredibilă
+00032404 00 r 01 celmaiaproape 0 000 | La distanța cea mai scurtă
+00032472 00 r 02 dinest 0 dinspreest 0 001 ! 00027832 r 0000 | Din partea de est
+00032553 00 r 01 ușor 0 001 ! 00017911 r 0000 | în mod temperat
+00032619 00 r 01 allegretto 0 001 ;c 04929711 n 0000 | (Indică modul de executare a unei bucăți muzicale) Într-un tempo vioi ( dar mai moderat decât allegro)
+00032782 00 r 01 constituțional 0 001 ! 00000681 r 0000 | În acord cu constituția
+00032867 00 r 01 igienic 0 001 ! 00036359 r 0000 | De o manieră igienică
+00032942 00 r 01 nenatural 0 001 ! 00046376 r 0000 | De o manieră nenaturală
+00033021 00 r 01 înadâncime 0 001 ;c 04350715 n 0000 | (sport) Înspre terenul și/sau poarta adversă
+00033126 00 r 01 necavaleresc 0 001 ! 00009785 r 0000 | De o manieră necavalerească
+00033212 00 r 04 arareori 0 rar 0 arar 0 rareori 0 001 ! 00039262 r 0000 | nu des
+00033294 00 r 01 extraordinar 0 001 ;u 03510731 n 0000 | (Folosit ca intensificator) foarte bine
+00033391 00 r 03 curat 0 corect 0 cinstit 0 001 ! 00042512 r 0000 | în conformitate cu regulile, fără fraudă
+00033504 00 r 01 pescenă 0 001 ! 00032059 r 0000 | Pe scena unui spectacol
+00033580 00 r 02 cinstit 0 sincer 0 001 ! 00033980 r 0000 | cu sinceritate, fără pretenții
+00033674 00 r 01 ilicit 0 001 ! 00054906 r 0000 | De o manieră contrazisă de norme
+00033759 00 r 01 accelerando 0 001 ;c 04929711 n 0000 | (Indică modul de executare a unei bucăți muzicale) Din ce în ce mai repede.
+00033895 00 r 01 necompetitiv 0 001 ! 00006265 r 0000 | De o manieră necompetitivă
+00033980 00 r 01 nesincer 0 001 ! 00033580 r 0000 | Fără sinceritate
+00034051 00 r 01 nesigur 0 001 ! 00040254 r 0000 | De o manieră ezitantă care trădează lipsă de încredere în sine
+00034172 00 r 01 frățește 0 001 ;u 05150804 n 0000 | Într-o manieră frățească
+00034258 00 r 01 obiectiv 0 000 | Cu obiectivitate
+00034309 00 r 02 comod 0 confortabil 0 001 ! 00009088 r 0000 | Având confort fizic
+00034393 00 r 01 încentru 0 000 | Înspre sau în centrul unui oraș
+00034463 00 r 01 bine 0 001 ! 00008475 r 0000 | În concordanță cu regulile eticii sociale, în mod cuviincios, cum se cere, cuminte.
+00034599 00 r 02 eficient 0 eficace 0 001 ! 00055706 r 0000 | De o manieră eficientă
+00034686 00 r 01 impresionant 0 001 ! 00035410 r 0000 | De o manieră impresionantă
+00034771 00 r 01 lucid 0 001 ! 00046134 r 0000 | În deplinătatea facultăților mintale
+00034861 00 r 01 împotrivavântului 0 001 ;c 01767854 n 0000 | În sensul invers din care bate vântul
+00034965 00 r 01 subțire 0 001 ! 00020453 r 0000 | Fără vâscozitate
+00035037 00 r 01 fărăfrică 0 001 ! 00011613 r 0000 | De o manieră curajoasă
+00035118 00 r 02 literalmente 0 literal 0 001 ! 00021593 r 0000 | în adevăratul înțeles al cuvântului, în sens strict, exact
+00035249 00 r 01 constant 0 001 ! 00052021 r 0000 | în manieră constantă
+00035325 00 r 01 nediplomatic 0 001 ! 00008346 r 0000 | De o manieră nediplomatică
+00035410 00 r 01 neimpresionant 0 001 ! 00034686 r 0000 | De o manieră care nu impresionează
+00035505 00 r 01 sângeros 0 000 | care implică vărsare de sânge
+00035573 00 r 01 sportiv 0 001 ! 00008916 r 0000 | Într-o manieră sportivă
+00035651 00 r 01 complet 0 000 | în grad maxim, în întregime
+00035715 00 r 01 multiplu 0 000 | În diverse feluri
+00035768 00 r 01 empiric 0 001 ! 00002075 r 0000 | Într-o manieră empirică
+00035846 00 r 01 rațional 0 001 ! 00032182 r 0000 | Într-o manieră rațională
+00035928 00 r 02 spreexterior 0 înafară 0 001 ! 00012512 r 0000 | către afară
+00036010 00 r 01 cunormăîntreagă 0 001 ! 00052513 r 0000 | Pentru numărul standard de ore de lucru
+00036113 00 r 01 legal 0 001 ! 00006816 r 0000 | Conform cu legea
+00036179 00 r 01 nenatural 0 001 ! 00010887 r 0000 | De o manieră care nu este naturală
+00036269 00 r 01 bine 0 001 ! 00042976 r 0000 | cu pricepere sau într-un mod mulțumitor
+00036359 00 r 01 neigienic 0 001 ! 00032867 r 0000 | De o manieră neigienică
+00036438 00 r 01 gros 0 001 ! 00011042 r 0000 | în straturi groase
+00036506 00 r 01 complet 0 001 ;u 02148863 n 0000 | Folosit ca intensificator (XXXAm uitat completXXX)
+00036609 00 r 01 indecis 0 001 ! 00047490 r 0000 | Fără un rezultat tranșant
+00036689 00 r 01 productiv 0 001 ! 00011426 r 0000 | Într-un mod productiv
+00036765 00 r 01 coerent 0 000 | De o manieră coerentă
+00036822 00 r 01 largo 0 001 ;c 04929711 n 0000 | (muz.) cu o mișcare înceatăși amplă
+00036913 00 r 02 liniștit 0 potolit 0 001 ! 00049068 r 0000 | fără agitație
+00036993 00 r 04 moderat 0 potrivit 0 temperat 0 rezonabil 0 001 ! 00045941 r 0000 | potrivit ca intensitate, valoare, mărime etc
+00037124 00 r 01 cusucces 0 001 ! 00007537 r 0000 | în manieră încununată de succes
+00037212 00 r 01 nepăsător 0 001 ! 00053514 r 0000 | De o manieră egoistă și nepăsătoare
+00037308 00 r 05 complet 0 completamente 0 integral 0 total 0 absolut 0 002 ! 00040994 r 0000 ;u 02793435 n 0000 | În întregime, cu desăvârșire.
+00037458 00 r 01 vizibil 0 001 ! 00054300 r 0000 | De o manieră vizibilă
+00037533 00 r 01 aspru 0 001 ;u 02793435 n 0000 | cu violență, cu asprime
+00037609 00 r 02 rușinat 0 jenat 0 001 ! 00048807 r 0000 | Cu un sentiment de rușine
+00037696 00 r 01 unilateral 0 000 | De o manieră unilaterală
+00037759 00 r 01 însensulacelordeceasornic 0 000 | În sensul de rotație al acelor unui ceas
+00037854 00 r 01 dezabrobator 0 001 ! 00014180 r 0000 | Arătând dezaprobare
+00037932 00 r 01 aspru 0 001 ! 00044715 r 0000 | De o manieră aspră, care nu este fină la pipăit
+00038033 00 r 01 fărăsperanță 0 001 ;u 02793435 n 0000 | De o manieră lipsită de speranță
+00038131 00 r 01 nemeritat 0 001 ! 00010255 r 0000 | De o manieră nemeritată
+00038210 00 r 01 regulat 0 000 | într-o manieră regulată, fără variație
+00038288 00 r 01 intenționat 0 001 ! 00020976 r 0000 | Cu intenție
+00038357 00 r 02 dinpăcate 0 dinnefericire 0 001 ! 00013323 r 0000 | din cauza ghinionului
+00038449 00 r 02 cugrijă 0 atent 0 002 ! 00020976 r 0000 ! 00004354 r 0000 | De o manieră pregătită îndelung
+00038563 00 r 01 credincios 0 001 ! 00049795 r 0000 | De o manieră credincioasă
+00038645 00 r 01 neatrăgător 0 001 ! 00018068 r 0000 | De o manieră neatrăgătoare
+00038732 00 r 01 grațios 0 001 ! 00001550 r 0000 | în mod grațios
+00038801 00 r 01 bine 0 001 ;u 02793435 n 0000 | De o manieră completă (Am mâncat bine)
+00038892 00 r 02 neechivoc 0 inechivoc 0 001 ! 00007209 r 0000 | De o manieră fără echivoc
+00038986 00 r 01 dedesubt 0 001 ! 00019554 r 0000 | În partea de jos, din jos, jos, sub (ceva).
+00039083 00 r 03 posomorât 0 trist 0 mohorât 0 000 | De o manieră lipsită de veselie
+00039172 00 r 01 neromantic 0 001 ! 00017305 r 0000 | De o manieră lipsită de romantism
+00039262 00 r 02 des 0 frecvent 0 001 ! 00033212 r 0000 | repetat de mai multe ori la intervale scurte de timp
+00039373 00 r 02 inelegant 0 neelegant 0 001 ! 00005625 r 0000 | Fără eleganță
+00039456 00 r 02 PM 0 postmeridian 0 001 ;c 01446944 n 0000 | Între 12 ziua și 12 noaptea
+00039548 00 r 03 infructuos 0 ineficace 0 ineficient 0 001 ! 00008273 r 0000 | De o manieră ineficientă
+00039654 00 r 01 public 0 001 ! 00012096 r 0000 | de către public, în general
+00039734 00 r 01 serios 0 001 ;u 03510731 n 0000 | (folosit ca intensificator, pentru a reflecta atitudinea vorbitorului) în mod sincer este cazul că..
+00039888 00 r 02 înparticular 0 înprivat 0 001 ! 00022697 r 0000 | ținut în secret între un număr limitat de persoane
+00040012 00 r 01 debunăvoie 0 001 ! 00004939 r 0000 | din inițiativă proprie
+00040092 00 r 01 rațional 0 001 ! 00005094 r 0000 | Conform cu principiile și cerințele rațiunii
+00040193 00 r 01 cuadevăr 0 000 | De o manieră adevărată
+00040254 00 r 01 natural 0 001 ! 00034051 r 0000 | într-o manieră ce trădează încredere în sine
+00040356 00 r 01 proporțional 0 001 ! 00045342 r 0000 | Într-un grad proporțional
+00040441 00 r 02 nesimțitor 0 insensibil 0 001 ! 00028721 r 0000 | Fără sentimente de compasiune
+00040541 00 r 01 încet 0 001 ! 00012260 r 0000 | la o intensitate mai scăzută
+00040622 00 r 02 celmaimic 0 celmaipuțin 0 001 ! 00028486 r 0000 | Folosit la formarea superlativului
+00040725 00 r 03 deosebit 0 aparte 0 separat 0 001 ! 00047674 r 0000 | De o manieră separată
+00040820 00 r 01 inechitabil 0 001 ! 00041332 r 0000 | De o manieră inechitabilă
+00040903 00 r 02 mut 0 fărăgrai 0 001 ! 00046222 r 0000 | De o manieră lipsită de grai
+00040994 00 r 01 parțial 0 001 ! 00037308 r 0000 | în parte, într-o anumită măsură, nu în întregime
+00041102 00 r 01 etic 0 000 | Într-o manieră etică
+00041156 00 r 01 imprudent 0 001 ! 00018820 r 0000 | fără grijă, fără prudență
+00041242 00 r 01 neinformativ 0 001 ! 00043150 r 0000 | De o manieră care nu informează
+00041332 00 r 01 echitabil 0 001 ! 00040820 r 0000 | De o manieră echitabilă
+00041411 00 r 01 aldracului 0 001 ;u 03510731 n 0000 | Extrem de
+00041476 00 r 01 dulce 0 001 ;c 04929711 n 0000 | De o manieră gentilă și drăguță
+00041564 00 r 01 indirect 0 001 ! 00000573 r 0000 | Nu într-o manieră directă
+00041645 00 r 01 glissando 0 001 ;c 04929711 n 0000 | (Indică modul de executare a unei bucăți muzicale) Prin trecerea continuăși treptată de la un sunet la altul.
+00041815 00 r 01 afară 0 001 ! 00055629 r 0000 | în exterior
+00041878 00 r 02 drepturmare 0 princonsecință 0 000 | Având drept consecință...
+00041963 00 r 01 nepotrivit 0 001 ! 00047218 r 0000 | De o manieră nepotrivită
+00042044 00 r 01 incompatibil 0 001 ! 00044929 r 0000 | Fără compatibilitate
+00042123 00 r 01 irecognoscibil 0 001 ! 00047775 r 0000 | De o manieră care nu poate fi recunoscută
+00042225 00 r 01 aici 0 001 ! 00052604 r 0000 | În acest loc, în aceste locuri (relativ) apropiate de vorbitor.
+00042339 00 r 08 agale 0 lin 0 încetișor 0 încetinel 0 binișor 0 domol 0 încet 0 alene 0 002 ! 00025404 r 0000 ;u 02793435 n 0000 | Într-un ritm încet, fără grabă
+00042512 00 r 01 subcentură 0 001 ! 00033391 r 0000 | De o manieră incorectă
+00042592 00 r 01 cuonoruri 0 001 ! 00015829 r 0000 | Cu onoare
+00042655 00 r 01 lateral 0 001 ;c 02754676 n 0000 | Într-o direcție laterală
+00042735 00 r 02 neadecvat 0 necorespunzător 0 000 | De o manieră neadecvată
+00042815 00 r 01 caracteristic 0 001 ! 00005985 r 0000 | De o manieră caracteristică
+00042902 00 r 01 neoficial 0 001 ! 00028940 r 0000 | Care nu este oficial
+00042976 00 r 01 prost 0 001 ! 00036269 r 0000 | fără pricepere sau în manieră neplăcută
+00043071 00 r 01 neplăcut 0 001 ! 00028601 r 0000 | De o manieră neplăcută
+00043150 00 r 02 informațional 0 informativ 0 001 ! 00041242 r 0000 | De o manieră informativă
+00043248 00 r 01 nerealist 0 001 ! 00012021 r 0000 | De o manieră nerealistă
+00043327 00 r 01 captivant 0 001 ! 00021913 r 0000 | De o manieră captivantă
+00043406 00 r 01 târziu 0 001 ! 00018581 r 0000 | după trecerea unui anumit timp, după ce a trecut momentul potrivit sau timpul dinainte stabilit.
+00043556 00 r 01 nefericit 0 001 ! 00027675 r 0000 | De o manieră nepotrivită, nefericită
+00043649 00 r 01 nehotărât 0 001 ! 00008727 r 0000 | lipsit de hotărâre
+00043725 00 r 02 generos 0 mărinimos 0 000 | De o manieră mărinimoasă
+00043799 00 r 01 egal 0 001 ! 00025992 r 0000 | în părți sau cantități egale
+00043881 00 r 01 tipic 0 001 ! 00028332 r 0000 | De o manieră tipică
+00043952 00 r 01 fărătact 0 001 ! 00044119 r 0000 | Într-o manieră lipsită de tact
+00044040 00 r 01 opțional 0 001 ! 00016125 r 0000 | De o manieră opțională
+00044119 00 r 01 cutact 0 001 ! 00043952 r 0000 | Arătând tact
+00044184 00 r 01 ingrat 0 001 ! 00010322 r 0000 | De o manieră ingrată
+00044257 00 r 01 ceremonios 0 001 ! 00029970 r 0000 | De o manieră ceremonioasă
+00044339 00 r 01 inaudibil 0 001 ! 00031046 r 0000 | fără să se poată auzi
+00044418 00 r 02 neobedient 0 neascultător 0 001 ! 00011679 r 0000 | De o manieră care nu este obedientă
+00044526 00 r 01 dizgrațios 0 001 ! 00050365 r 0000 | Într-o manieră lipsită de grație
+00044618 00 r 03 greșit 0 necorect 0 incorect 0 001 ! 00049919 r 0000 | în manieră incorectă
+00044715 00 r 01 fin 0 001 ! 00037932 r 0000 | În bucăți foarte mici
+00044787 00 r 01 egotistic 0 000 | De o manieră egotistică
+00044848 00 r 01 organic 0 001 ! 00008577 r 0000 | Incluzând compuși de carbon
+00044929 00 r 01 compatibil 0 001 ! 00042044 r 0000 | Cu compatibilitate
+00045002 00 r 01 necuviincios 0 001 ! 00052329 r 0000 | Fără a fi cuviincios
+00045081 00 r 01 acut 0 001 ! 00018942 r 0000 | Care are o evoluție agresivă
+00045160 00 r 01 temporar 0 001 ! 00001962 r 0000 | pentru o perioadă limitată de timp, nu permanent
+00045263 00 r 01 umoristic 0 001 ! 00014032 r 0000 | De o manieră umoristică
+00045342 00 r 01 disproporționat 0 001 ! 00040356 r 0000 | în măsură nepotrivită
+00045428 00 r 01 sensibil 0 001 ! 00031884 r 0000 | De o manieră sensibilă
+00045505 00 r 02 nepretențios 0 modest 0 001 ! 00007805 r 0000 | De o manieră nepretențioasă
+00045602 00 r 01 nememorabil 0 001 ! 00013554 r 0000 | De o manieră nememorabilă
+00045685 00 r 01 mairău 0 001 ;u 05811584 n 0000 | Comparativ de inferioritate al lui XXXrăuXXX
+00045783 00 r 01 onorabil 0 001 ! 00046481 r 0000 | De o manieră onorabilă
+00045860 00 r 01 nechibzuit 0 001 ! 00003689 r 0000 | De o manieră nechibzuită
+00045941 00 r 01 nerezonabil 0 001 ! 00036993 r 0000 | De o manieră care depășește limitele moderației
+00046049 00 r 01 convingător 0 001 ! 00019656 r 0000 | De o manieră convingătoare
+00046134 00 r 01 inconștient 0 001 ! 00034771 r 0000 | fără o atitudine conștientă
+00046222 00 r 01 meditativ 0 001 ! 00040903 r 0000 | în manieră gânditoare
+00046300 00 r 01 nedrept 0 001 ! 00004260 r 0000 | De p manieră nedreaptă
+00046376 00 r 03 natural 0 bineînțeles 0 firește 0 001 ! 00032942 r 0000 | după cum era de așteptat
+00046481 00 r 01 neonorabil 0 001 ! 00045783 r 0000 | De o manieră neonorabilă
+00046562 00 r 01 secundar 0 001 ! 00023136 r 0000 | De importanță secundară
+00046641 00 r 01 ostentativ 0 001 ! 00001435 r 0000 | De o manieră menită să atragă atenția
+00046738 00 r 01 nesociabil 0 001 ! 00025202 r 0000 | De o manieră nesociabilă
+00046819 00 r 02 deplin 0 bine 0 001 ;u 03510731 n 0000 | De tot, în întregime, pe de-a-ntregul
+00046917 00 r 01 nefavorabil 0 000 | De o manieră care dezaprobă
+00046984 00 r 01 imoral 0 001 ! 00049699 r 0000 | Care este contrar moralei, care calcă principiile ei, care nu are nici un principiu moral.
+00047126 00 r 01 spășit 0 001 ! 00053675 r 0000 | De o manieră care arată remușcările
+00047218 00 r 01 trebui 0 001 ! 00041963 r 0000 | Expresie : Cum trebuie = așa cum se cuvine, cum se cade; bine.
+00047332 00 r 01 prudent 0 001 ! 00022152 r 0000 | De o manieră prudentă
+00047407 00 r 01 aposteriori 0 001 ! 00030059 r 0000 | Derivat din fapte observate
+00047490 00 r 01 decisiv 0 001 ! 00036609 r 0000 | De o manieră care tranșează
+00047572 00 r 01 bine 0 001 ! 00048369 r 0000 | În mod prielnic, în mod favorabil, avantajos, util.
+00047674 00 r 02 neseparabil 0 inseparabil 0 001 ! 00040725 r 0000 | Fără posibilitate de separare
+00047775 00 r 01 recognoscibil 0 001 ! 00042123 r 0000 | Într-un grad care poate fi recunoscut
+00047871 00 r 03 înapoi 0 îndărăt 0 urmă 0 001 ! 00055203 r 0000 | Expresie : A fi (sau a merge, a rămâne) în urmă (despre ceas); a merge mai încet, arătând o oră mai mică decât cea oficială.
+00048079 00 r 01 convex 0 001 ! 00054553 r 0000 | De o manieră convexă
+00048152 00 r 02 deneiertat 0 nejustificabil 0 001 ! 00049335 r 0000 | Fără nici o scuză
+00048244 00 r 01 înjos 0 001 ! 00051130 r 0000 | spațial sau metaforic, de la o poziție mai înaltă spre alta mai joasă
+00048369 00 r 01 dezavantajos 0 001 ! 00047572 r 0000 | spre dezavantajul cuiva
+00048449 00 r 01 neatrăgător 0 001 ! 00025279 r 0000 | De manieră neatrăgătoare
+00048534 00 r 01 infinit 0 001 ! 00000411 r 0000 | continuând fără sfârșit
+00048614 00 r 03 prudent 0 precaut 0 prevăzător 0 001 ! 00051045 r 0000 | Într-o manieră prudentă
+00048717 00 r 01 convențional 0 001 ! 00017582 r 0000 | Într-o manieră convențională
+00048807 00 r 02 fărărușine 0 cunerușinare 0 001 ! 00037609 r 0000 | Într-o manieră lipsită de rușine
+00048917 00 r 01 insuficient 0 001 ! 00051412 r 0000 | Care nu este suficient, de ajuns ( cantitativ), care nu satisfac ( calitativ), nesatisfăcător
+00049068 00 r 02 agitat 0 tulburat 0 001 ! 00036913 r 0000 | Cu agitație sau turbulențe
+00049158 00 r 01 emoționant 0 001 ! 00031372 r 0000 | într-o manieră care emoționează
+00049249 00 r 02 curăbdare 0 răbdător 0 001 ! 00007113 r 0000 | în mod răbdător
+00049335 00 r 02 motivabil 0 justificabil 0 001 ! 00048152 r 0000 | Cu motive întemeiate
+00049425 00 r 01 răufamat 0 001 ! 00025604 r 0000 | De o manieră rău famată
+00049505 00 r 01 zgomotos 0 001 ! 00055345 r 0000 | Cu mult zgomot
+00049572 00 r 01 undeva 0 001 ;u 02793435 n 0000 | Într-un loc oarecare, într-o direcție oarecare, la o persoană oarecare.
+00049699 00 r 03 moral 0 corect 0 drept 0 001 ! 00046984 r 0000 | În conformitate cu dreptatea
+00049795 00 r 02 necredincios 0 infidel 0 001 ! 00038563 r 0000 | De o manieră pe care nu se poate pune baza, necredincios
+00049919 00 r 01 corect 0 001 ! 00044618 r 0000 | așa cum trebuie.
+00049987 00 r 01 insipid 0 001 ! 00012346 r 0000 | Fără (bun) gust
+00050056 00 r 01 evident 0 001 ;u 02793435 n 0000 | (Adesea adverbial) Care este atât de clar încât nu mai trebuie dovedit
+00050182 00 r 03 infernal 0 aldracului 0 alnaibii 0 001 ;u 03510731 n 0000 | Extrem de
+00050269 00 r 01 încurajator 0 001 ! 00030770 r 0000 | într-un mod care transmite încurajare
+00050365 00 r 01 grațios 0 001 ! 00044526 r 0000 | într-o manieră plină de grație
+00050452 00 r 02 ininteligibil 0 neinteligibil 0 001 ! 00025020 r 0000 | De o manieră neinteligibilă
+00050555 00 r 01 lapupa 0 002 ;c 04784229 n 0000 ;c 03627379 n 0000 | În spatele unei nave
+00050647 00 r 01 binevoitor 0 001 ! 00028060 r 0000 | De o manieră prietenoasă, binevoitoare
+00050742 00 r 01 proporțional 0 001 ! 00000481 r 0000 | Într-un grad proporțional
+00050827 00 r 03 prudent 0 precaut 0 prevăzător 0 001 ! 00005893 r 0000 | care manifestă prevedere
+00050929 00 r 01 celmult 0 001 ! 00055961 r 0000 | Nu mai mult de
+00050995 00 r 01 nedigerabil 0 000 | De nemâncat
+00051045 00 r 02 naiv 0 credul 0 001 ! 00048614 r 0000 | Fără prevedere, imprudent
+00051130 00 r 01 însus 0 001 ! 00048244 r 0000 | spațial sau metaforic de la o poziție mai joasă la una mai înaltă
+00051251 00 r 01 pefugă 0 001 ;c 04929711 n 0000 | Într-un stil rapid și succint
+00051335 00 r 01 optimist 0 001 ! 00054375 r 0000 | De o manieră optimistă
+00051412 00 r 01 suficientde 0 001 ! 00048917 r 0000 | în măsură suficientă
+00051492 00 r 01 elocvent 0 001 ! 00056120 r 0000 | Cu elocință
+00051558 00 r 01 rău 0 001 ! 00026167 r 0000 | ca o pricină de suferință
+00051635 00 r 01 adaxial 0 001 ! 00051710 r 0000 | De o manieră adaxială
+00051710 00 r 01 abaxial 0 001 ! 00051635 r 0000 | De o manieră abaxială
+00051785 00 r 01 comparabil 0 001 ! 00006577 r 0000 | De o manieră care poate fi comparată
+00051878 00 r 04 ireproșabil 0 desăvârșit 0 impecabil 0 perfect 0 001 ! 00028157 r 0000 | (Adverbial) Fără cusur, în mod desăvârșit.
+00052021 00 r 01 instabil 0 001 ! 00035249 r 0000 | fără stabilitate
+00052092 00 r 02 exterior 0 pedinafară 0 001 ! 00006886 r 0000 | Din afară
+00052169 00 r 01 nefavorabil 0 001 ! 00019464 r 0000 | De o manieră nefavorabilă
+00052252 00 r 01 permisiv 0 001 ! 00052789 r 0000 | D eo manieră permisivă
+00052329 00 r 03 ornamental 0 dedecor 0 decorativ 0 001 ! 00045002 r 0000 | De o manieră decorativă, de formă
+00052442 00 r 01 regulat 0 001 ! 00031704 r 0000 | cu formă regulată
+00052513 00 r 01 part-time 0 001 ! 00036010 r 0000 | pentru jumătate din orele de program
+00052604 00 r 01 acolo 0 001 ! 00042225 r 0000 | În acel loc (relativ) îndepărtat (de cel care vorbește)
+00052713 00 r 01 critic 0 001 ! 00019387 r 0000 | Într-o manieră critică
+00052789 00 r 01 nepermis 0 001 ! 00052252 r 0000 | care nu este permis
+00052861 00 r 04 inadmisibil 0 inacceptabil 0 neadmisibil 0 neacceptabil 0 000 | Într-un grad inacceptabil
+00052969 00 r 02 cuîngustime 0 îngust 0 001 ! 00012408 r 0000 | De o manieră îngustă, lipsită de perspectivă
+00053085 00 r 01 dinnefericire 0 001 ! 00015019 r 0000 | în mod trist
+00053156 00 r 01 debunăvoie 0 001 ! 00026277 r 0000 | conform voinței proprii
+00053236 00 r 03 corespunzător 0 potrivit 0 adecvat 0 001 ! 00056280 r 0000 | Conform cu..., în concordanță cu..., în raport cu...
+00053372 00 r 01 cuîngustime 0 000 | De o manieră îngustă la minte
+00053443 00 r 01 nebunește 0 001 ;u 03510731 n 0000 | În mod excesiv
+00053514 00 r 02 circumspect 0 prudent 0 001 ! 00037212 r 0000 | De o manieră prudentă
+00053603 00 r 01 neentuziast 0 001 ! 00056628 r 0000 | Fără entuziasm
+00053675 00 r 01 impenitent 0 001 ! 00047126 r 0000 | De o manieră impenitentă
+00053756 00 r 01 odatăpentrutotdeauna 0 001 ! 00013182 r 0000 | De o manieră concluzivă
+00053847 00 r 03 obișnuit 0 firesc 0 normal 0 001 ! 00004778 r 0000 | Adesea adverbial) Care este așa cum trebuie să fie, potrivit cu starea firească, obișnuit, firesc, natural.
+00054030 00 r 03 just 0 corect 0 pedreptcuvânt 0 001 ! 00005472 r 0000 | Conform cu adevărul sau cu echitatea
+00054142 00 r 02 agresiv 0 ofensiv 0 001 ! 00027517 r 0000 | în mod agresiv
+00054219 00 r 01 nepotrivit 0 001 ! 00009609 r 0000 | De o manieră nepotrivită
+00054300 00 r 01 invizibil 0 001 ! 00037458 r 0000 | Fără să fie văzut
+00054375 00 r 01 pesimist 0 001 ! 00051335 r 0000 | Cu pesimism
+00054439 00 r 06 deslușit 0 distinct 0 limpede 0 precis 0 clar 0 lămurit 0 001 ! 00013633 r 0000 | în mod clar
+00054553 00 r 01 concav 0 001 ! 00048079 r 0000 | Într-o manieră concavă
+00054629 00 r 01 imatur 0 001 ! 00027446 r 0000 | De o manieră lipsită de maturitate
+00054716 00 r 01 tolerant 0 001 ! 00028859 r 0000 | De o manieră tolerantă
+00054793 00 r 01 potrivit 0 002 ! 00031463 r 0000 ! 00017483 r 0000 | Într-un grad nici prea mare nici prea mic
+00054906 00 r 02 legal 0 licit 0 002 ! 00002887 r 0000 ! 00033674 r 0000 | De o manieră acceptată de practicile comune
+00055027 00 r 01 confidențial 0 001 ;u 05150804 n 0000 | De o manieră confidențială
+00055115 00 r 02 fățiș 0 pefață 0 001 ! 00011114 r 0000 | De o manieră fățișă
+00055203 00 r 01 înainte 0 001 ! 00047871 r 0000 | spre viitor
+00055267 00 r 01 judicios 0 001 ! 00030688 r 0000 | De o manieră judicioasă
+00055345 00 r 01 încet 0 001 ! 00049505 r 0000 | producând un zgomot scăzut
+00055424 00 r 06 intenționat 0 dinadins 0 înadins 0 special 0 anume 0 expres 0 002 ! 00021745 r 0000 ! 00020352 r 0000 | Cu intenție
+00055560 00 r 01 concret 0 001 ! 00008198 r 0000 | în termeni clari
+00055629 00 r 01 înăuntru 0 001 ! 00041815 r 0000 | pe partea din interior
+00055706 00 r 02 ineficace 0 ineficient 0 001 ! 00034599 r 0000 | De o manieră care nu produce efectul dorit
+00055816 00 r 01 fierbând 0 001 ;u 02793435 n 0000 | Extrem de
+00055880 00 r 01 deaiciîncolo 0 001 ;u 05150804 n 0000 | din acest loc înainte
+00055961 00 r 01 celpuțin 0 001 ! 00050929 r 0000 | Nu mai puțin de
+00056031 00 r 01 subcontrol 0 001 ! 00019838 r 0000 | de o manieră ținută sub control
+00056120 00 r 01 neelocvent 0 001 ! 00051492 r 0000 | Fără elocință
+00056192 00 r 01 semnificativ 0 001 ! 00003389 r 0000 | Într-o manieră semnificativă
+00056280 00 r 01 nepotrivit 0 001 ! 00053236 r 0000 | Care nu se potrivește, nu se justifică, nu se recomandă, ne este indicat ( într-o anumităîmprejurare)
+00056442 00 r 03 oriunde 0 orișiunde 0 încotro 0 001 ;u 02793435 n 0000 | În orice loc, indiferent unde
+00056549 00 r 01 pedeoparte 0 001 ! 00028404 r 0000 | Dintr-un punct de vedere
+00056628 00 r 01 cuentuziasm 0 001 ! 00053603 r 0000 | în mod entuziast
+00056701 00 r 01 apropo 0 000 |    
+00056737 00 r 01 promițător 0 000 |    
+00056779 00 r 01 greoi 0 000 |    
+00056814 00 r 01 anatomic 0 000 |    
+00056852 00 r 01 direct 0 000 |    
+00056888 00 r 01 nominal 0 000 |    
+00056925 00 r 01 adverbial 0 000 |    
+00056964 00 r 01 ciudat 0 000 |    
+00057000 00 r 01 sfidător 0 000 |    
+00057039 00 r 01 mairepede 0 000 |    
+00057078 00 r 02 întrebător 0 interogativ 0 000 |    
+00057134 00 r 02 adică 0 anume 0 000 |    
+00057178 00 r 01 factual 0 000 |    
+00057215 00 r 01 voios 0 000 |    
+00057250 00 r 02 razna 0 pearătură 0 000 |    
+00057299 00 r 01 pretutindeni 0 000 |    
+00057341 00 r 02 hotărât 0 ferm 0 000 |    
+00057387 00 r 02 mortal 0 ucigător 0 000 |    
+00057435 00 r 02 pedeasupra 0 pederost 0 000 |    
+00057486 00 r 01 sinistru 0 000 |    
+00057524 00 r 01 rușinos 0 000 |    
+00057562 00 r 01 parte 0 000 |    
+00057597 00 r 02 iremediabil 0 ireparabil 0 000 |    
+00057651 00 r 02 încrezător 0 cuîncredere 0 000 |    
+00057708 00 r 01 trist 0 000 |    
+00057743 00 r 01 clasaîntâi 0 000 |    
+00057785 00 r 01 peascuns 0 000 |    
+00057823 00 r 02 funest 0 nefast 0 000 |    
+00057868 00 r 03 detestabil 0 odios 0 abominabil 0 000 |    
+00057929 00 r 02 acum 0 actualmente 0 000 |    
+00057977 00 r 02 acum 0 actualmente 0 000 |    
+00058025 00 r 01 combativ 0 000 |    
+00058063 00 r 01 imperturbabil 0 000 |    
+00058106 00 r 01 acut 0 000 |    
+00058140 00 r 02 lanesfârșit 0 lainfinit 0 000 |    
+00058195 00 r 01 nemilos 0 000 |    
+00058232 00 r 01 fărădiscernământ 0 000 |    
+00058282 00 r 01 agitat 0 000 |    
+00058318 00 r 01 cuvinovăție 0 000 |    
+00058361 00 r 01 strict 0 000 |    
+00058397 00 r 01 imperial 0 000 |    
+00058435 00 r 01 compact 0 000 |    
+00058472 00 r 01 vocal 0 000 |    
+00058507 00 r 01 magnetic 0 000 |    
+00058545 00 r 02 bienal 0 bianual 0 000 |    
+00058591 00 r 02 insolent 0 impertinent 0 000 |    
+00058643 00 r 02 cugentilețe 0 blând 0 000 |    
+00058694 00 r 01 asiduu 0 000 |    
+00058730 00 r 01 travers 0 000 |    
+00058767 00 r 03 apropiat 0 strâns 0 intim 0 000 |    
+00058823 00 r 02 prolix 0 interminabil 0 000 |    
+00058874 00 r 01 prematur 0 000 |    
+00058912 00 r 01 personal 0 000 |    
+00058950 00 r 01 adevărat 0 000 |    
+00058989 00 r 01 teatral 0 000 |    
+00059026 00 r 01 magnanim 0 000 |    
+00059064 00 r 01 plindesatisfacții 0 000 |    
+00059112 00 r 01 neapărat 0 000 |    
+00059151 00 r 01 imediat 0 000 |    
+00059188 00 r 01 internațional 0 000 |    
+00059232 00 r 01 optim 0 000 |    
+00059267 00 r 01 jur 0 000 |    
+00059300 00 r 01 lingvistic 0 000 |    
+00059340 00 r 02 jalnic 0 dureros 0 000 |    
+00059386 00 r 02 cusete 0 cunerăbdare 0 000 |    
+00059437 00 r 01 maides 0 000 |    
+00059473 00 r 01 generic 0 000 |    
+00059510 00 r 01 centenar 0 000 |    
+00059548 00 r 01 discordant 0 000 |    
+00059588 00 r 01 important 0 000 |    
+00059627 00 r 01 solitar 0 000 |    
+00059664 00 r 01 pedracu 0 000 |    
+00059701 00 r 01 greu 0 000 |    
+00059735 00 r 01 adorator 0 000 |    
+00059773 00 r 03 gradat 0 progresiv 0 treptat 0 000 |    
+00059831 00 r 01 astronomic 0 000 |    
+00059871 00 r 01 nicăieri 0 000 |    
+00059910 00 r 01 debețiv 0 000 |    
+00059948 00 r 02 pretins 0 așa-zis 0 000 |    
+00059996 00 r 02 cutotul 0 întotal 0 000 |    
+00060044 00 r 02 îndoit 0 dublu 0 000 |    
+00060089 00 r 01 cumtrebuie 0 000 |    
+00060129 00 r 01 istoric 0 000 |    
+00060166 00 r 02 vibrator 0 scârțăitor 0 000 |    
+00060220 00 r 01 cuputere 0 000 |    
+00060258 00 r 02 toxic 0 otrăvitor 0 000 |    
+00060306 00 r 02 maipresusdetoate 0 maipresusdeorice 0 000 |    
+00060371 00 r 01 aliterativ 0 000 |    
+00060411 00 r 01 etal. 0 000 |    
+00060446 00 r 01 insațiabil 0 000 |    
+00060487 00 r 01 economic 0 000 |    
+00060525 00 r 01 supărător 0 000 |    
+00060566 00 r 01 mânăînmână 0 000 |    
+00060611 00 r 02 neglijent 0 neatent 0 000 |    
+00060660 00 r 01 puțin 0 000 |    
+00060696 00 r 05 indubitabil 0 indiscutabil 0 necontestabil 0 nediscutabil 0 incontestabil 0 000 |    
+00060799 00 r 02 pedant 0 tipicar 0 000 |    
+00060845 00 r 01 lamânaadoua 0 000 |    
+00060887 00 r 02 întrebător 0 interogativ 0 000 |    
+00060943 00 r 01 maidevreme 0 000 |    
+00060983 00 r 01 improvizat 0 000 |    
+00061023 00 r 01 înlacrimi 0 000 |    
+00061063 00 r 01 celmaimult 0 000 |    
+00061103 00 r 01 slab 0 000 |    
+00061137 00 r 01 diametralopus 0 000 |    
+00061180 00 r 01 local 0 000 |    
+00061215 00 r 01 acum 0 000 |    
+00061249 00 r 01 peren 0 000 |    
+00061284 00 r 01 confidențial 0 000 |    
+00061327 00 r 02 măcarunpic 0 măcarpuțin 0 000 |    
+00061383 00 r 01 simplu 0 000 |    
+00061419 00 r 01 plataladestinație 0 000 |    
+00061467 00 r 01 aiurit 0 000 |    
+00061503 00 r 01 nervos 0 000 |    
+00061539 00 r 01 țâfnos 0 000 |    
+00061577 00 r 01 sprenord-vest 0 000 |    
+00061620 00 r 01 sus 0 000 |    
+00061653 00 r 01 aural 0 000 |    
+00061688 00 r 01 greu 0 000 |    
+00061722 00 r 02 mofturos 0 pretențios 0 000 |    
+00061774 00 r 01 fărăprobleme 0 000 |    
+00061818 00 r 01 cuofoamedelup 0 000 |    
+00061861 00 r 01 rezervat 0 000 |    
+00061899 00 r 01 însiguranță 0 000 |    
+00061943 00 r 02 cucruzime 0 crud 0 000 |    
+00061989 00 r 01 intens 0 000 |    
+00062025 00 r 01 vag 0 000 |    
+00062058 00 r 01 alături 0 000 |    
+00062096 00 r 01 structural 0 000 |    
+00062136 00 r 01 alfabetic 0 000 |    
+00062175 00 r 01 meschin 0 000 |    
+00062212 00 r 01 ireversibil 0 000 |    
+00062253 00 r 01 parental 0 000 |    
+00062291 00 r 01 clar 0 000 |    
+00062325 00 r 01 deobicei 0 000 |    
+00062363 00 r 01 filantropic 0 000 |    
+00062404 00 r 01 delaînceputlasfârșit 0 000 |    
+00062457 00 r 02 înlungșiînlat 0 înlungși-nlat 0 000 |    
+00062521 00 r 01 însusșiînjos 0 000 |    
+00062566 00 r 01 abuziv 0 000 |    
+00062602 00 r 01 sălbatic 0 000 |    
+00062641 00 r 02 dedesubt 0 maijos 0 000 |    
+00062688 00 r 02 mustrător 0 dojenitor 0 000 |    
+00062740 00 r 01 șiret 0 000 |    
+00062776 00 r 01 cudărnicie 0 000 |    
+00062817 00 r 01 geometric 0 000 |    
+00062856 00 r 02 brusc 0 precipitat 0 000 |    
+00062904 00 r 03 puțin 0 oarecum 0 nițel 0 000 |    
+00062959 00 r 01 morfologic 0 000 |    
+00062999 00 r 02 perpendicular 0 vertical 0 000 |    
+00063053 00 r 01 longitudinal 0 000 |    
+00063095 00 r 01 lacomun 0 000 |    
+00063132 00 r 01 capricios 0 000 |    
+00063171 00 r 01 horticultural 0 000 |    
+00063214 00 r 01 personal 0 000 |    
+00063252 00 r 01 macroscopic 0 000 |    
+00063293 00 r 01 neclintit 0 000 |    
+00063332 00 r 01 anxios 0 000 |    
+00063368 00 r 01 absolut 0 000 |    
+00063405 00 r 01 laborios 0 000 |    
+00063443 00 r 01 stocastic 0 000 |    
+00063482 00 r 03 lipsitdeviață 0 fărăviață 0 neînsuflețit 0 000 |    
+00063560 00 r 01 tangențial 0 000 |    
+00063601 00 r 01 dialectic 0 000 |    
+00063640 00 r 01 amintitor 0 000 |    
+00063679 00 r 01 laîntâmplare 0 000 |    
+00063723 00 r 02 înaer 0 înatmosferă 0 000 |    
+00063775 00 r 03 anevoie 0 greu 0 abia 0 000 |    
+00063826 00 r 01 pneumatic 0 000 |    
+00063865 00 r 01 ipocrit 0 000 |    
+00063902 00 r 01 prinsurprindere 0 000 |    
+00063947 00 r 01 denicăieri 0 000 |    
+00063988 00 r 02 șmecher 0 abil 0 000 |    
+00064033 00 r 01 iscusit 0 000 |    
+00064070 00 r 01 tactil 0 000 |    
+00064106 00 r 01 emoțional 0 000 |    
+00064146 00 r 01 altădată 0 000 |    
+00064186 00 r 01 jurnalistic 0 000 |    
+00064227 00 r 01 neuzual 0 000 |    
+00064264 00 r 01 palmat 0 000 |    
+00064300 00 r 01 eminamente 0 000 |    
+00064340 00 r 01 influent 0 000 |    
+00064378 00 r 01 întrelimbi 0 000 |    
+00064419 00 r 01 visător 0 000 |    
+00064457 00 r 01 ultrasonic 0 000 |    
+00064497 00 r 01 ideologic 0 000 |    
+00064536 00 r 01 pâș-pâș 0 000 |    
+00064577 00 r 01 tangibil 0 000 |    
+00064615 00 r 02 de-a-ndoaselea 0 invers 0 000 |    
+00064668 00 r 01 futil 0 000 |    
+00064703 00 r 01 intensiv 0 000 |    
+00064741 00 r 01 languros 0 000 |    
+00064779 00 r 01 radial 0 000 |    
+00064815 00 r 04 mereu 0 neîncetat 0 necontenit 0 întruna 0 000 |    
+00064887 00 r 02 colocvial 0 informal 0 000 |    
+00064937 00 r 01 imparțial 0 000 |    
+00064977 00 r 01 denepătruns 0 000 |    
+00065019 00 r 01 zgomotos 0 000 |    
+00065057 00 r 02 social-economic 0 socioeconomic 0 000 |    
+00065118 00 r 01 aldracului 0 000 |    
+00065158 00 r 02 dintr-oclipăînalta 0 dinclipăînclipă 0 000 |    
+00065229 00 r 02 irascibil 0 iritabil 0 000 |    
+00065279 00 r 03 altcumva 0 altminteri 0 altfel 0 000 |    
+00065339 00 r 02 înviorător 0 însuflețitor 0 000 |    
+00065398 00 r 01 într-unfel 0 000 |    
+00065439 00 r 02 aproape 0 aproximativ 0 000 |    
+00065490 00 r 01 toțiodată 0 000 |    
+00065531 00 r 01 exuberant 0 000 |    
+00065570 00 r 02 înînalturi 0 înînalt 0 000 |    
+00065624 00 r 03 diabolic 0 drăcesc 0 diavolesc 0 000 |    
+00065685 00 r 06 nedecis 0 ezitant 0 nehotărât 0 indecis 0 șovăielnic 0 șovăitor 0 000 |    
+00065784 00 r 03 rapid 0 prompt 0 grabnic 0 000 |    
+00065838 00 r 01 laș 0 000 |    
+00065872 00 r 03 îndeajuns 0 destul 0 suficient 0 000 |    
+00065933 00 r 01 glacial 0 000 |    
+00065970 00 r 01 alias 0 000 |    
+00066005 00 r 01 ușor 0 000 |    
+00066040 00 r 01 aproape 0 000 |    
+00066077 00 r 01 adormit 0 000 |    
+00066114 00 r 01 cutremurat 0 000 |    
+00066154 00 r 02 roial 0 regal 0 000 |    
+00066197 00 r 01 incorect 0 000 |    
+00066235 00 r 01 conic 0 000 |    
+00066270 00 r 01 filatelic 0 000 |    
+00066309 00 r 02 usturător 0 acut 0 000 |    
+00066356 00 r 02 mărginit 0 încuiat 0 000 |    
+00066406 00 r 01 iute 0 000 |    
+00066440 00 r 01 silitor 0 000 |    
+00066477 00 r 01 glorios 0 000 |    
+00066514 00 r 02 cast 0 virtuos 0 000 |    
+00066558 00 r 02 pebâjbâite 0 pedibuite 0 000 |    
+00066612 00 r 01 superstițios 0 000 |    
+00066655 00 r 03 molipsitor 0 infecțios 0 contagios 0 000 |    
+00066720 00 r 01 împreună 0 000 |    
+00066760 00 r 02 dichisit 0 îngrijit 0 000 |    
+00066810 00 r 01 semnificativ 0 000 |    
+00066852 00 r 02 imediat 0 îndată 0 000 |    
+00066900 00 r 01 medicinal 0 000 |    
+00066939 00 r 03 odată 0 cândva 0 vreodată 0 000 |    
+00066997 00 r 01 însetat 0 000 |    
+00067035 00 r 01 doar 0 000 |    
+00067069 00 r 01 peiorativ 0 000 |    
+00067108 00 r 01 încruntat 0 000 |    
+00067148 00 r 04 defel 0 nicicum 0 deloc 0 nicidecum 0 000 |    
+00067213 00 r 02 indiferent 0 nepăsător 0 000 |    
+00067267 00 r 01 benign 0 000 |    
+00067303 00 r 01 curând 0 000 |    
+00067340 00 r 01 tandru 0 000 |    
+00067376 00 r 02 penepusămasă 0 prinsurprindere 0 000 |    
+00067438 00 r 01 instantaneu 0 000 |    
+00067479 00 r 01 labord 0 000 |    
+00067515 00 r 01 mult 0 000 |    
+00067549 00 r 01 înșelător 0 000 |    
+00067591 00 r 01 subcutanat 0 000 |    
+00067631 00 r 02 bănuitor 0 suspicios 0 000 |    
+00067682 00 r 01 exasperant 0 000 |    
+00067722 00 r 02 diabolic 0 diavolesc 0 000 |    
+00067772 00 r 01 încrucișat 0 000 |    
+00067814 00 r 01 răzbunător 0 000 |    
+00067856 00 r 01 masochist 0 000 |    
+00067895 00 r 01 independent 0 000 |    
+00067936 00 r 01 incurabil 0 000 |    
+00067975 00 r 01 exact 0 000 |    
+00068010 00 r 01 calm 0 000 |    
+00068044 00 r 01 doardacă 0 000 |    
+00068083 00 r 01 zgârcit 0 000 |    
+00068121 00 r 02 dincappână-npicioare 0 pânăîndinți 0 000 |    
+00068191 00 r 01 robust 0 000 |    
+00068227 00 r 02 semeț 0 arogant 0 000 |    
+00068273 00 r 01 val-vârtej 0 000 |    
+00068314 00 r 01 usturător 0 000 |    
+00068354 00 r 01 dezeceori 0 000 |    
+00068393 00 r 01 vreodată 0 000 |    
+00068432 00 r 02 sinonim 0 sinonimic 0 000 |    
+00068481 00 r 02 sumar 0 superficial 0 000 |    
+00068530 00 r 02 brusc 0 dintr-odată 0 000 |    
+00068580 00 r 01 sprenord-est 0 000 |    
+00068622 00 r 01 elegant 0 000 |    
+00068659 00 r 01 vital 0 000 |    
+00068694 00 r 01 drăguț 0 000 |    
+00068732 00 r 02 mecanicist 0 mecanic 0 000 |    
+00068782 00 r 01 îndetaliu 0 000 |    
+00068822 00 r 01 cucalm 0 000 |    
+00068858 00 r 01 spinal 0 000 |    
+00068894 00 r 01 probabil 0 000 |    
+00068932 00 r 01 apologetic 0 000 |    
+00068972 00 r 02 dictatorial 0 tiranic 0 000 |    
+00069023 00 r 01 subtil 0 000 |    
+00069059 00 r 03 necuviincios 0 nerespectuos 0 ireverențios 0 000 |    
+00069132 00 r 02 opus 0 potrivnic 0 000 |    
+00069178 00 r 01 național 0 000 |    
+00069217 00 r 01 condescendent 0 000 |    
+00069260 00 r 01 neadevărat 0 000 |    
+00069301 00 r 01 cuentuziasm 0 000 |    
+00069342 00 r 02 confortabil 0 bine 0 000 |    
+00069390 00 r 02 practic 0 aplicat 0 000 |    
+00069437 00 r 01 dupănevoi 0 000 |    
+00069477 00 r 02 fățiș 0 deschis 0 000 |    
+00069525 00 r 02 citoplasmic 0 citoplasmatic 0 000 |    
+00069582 00 r 01 minunat 0 000 |    
+00069619 00 r 01 insinuant 0 000 |    
+00069658 00 r 01 promiscuu 0 000 |    
+00069697 00 r 01 zerocârmă 0 000 |    
+00069738 00 r 01 mândru 0 000 |    
+00069775 00 r 01 lablană 0 000 |    
+00069813 00 r 02 separat 0 distributiv 0 000 |    
+00069864 00 r 01 înspateleușilorînchise 0 000 |    
+00069919 00 r 03 analog 0 similar 0 asemănător 0 000 |    
+00069980 00 r 02 drăgăstos 0 iubitor 0 000 |    
+00070031 00 r 01 neglijent 0 000 |    
+00070070 00 r 02 greșit 0 defectuos 0 000 |    
+00070119 00 r 03 orișicum 0 oricum 0 fiecum 0 000 |    
+00070176 00 r 01 căcat 0 000 |    
+00070212 00 r 01 ladeal 0 000 |    
+00070248 00 r 01 barbaric 0 000 |    
+00070286 00 r 01 genealogic 0 000 |    
+00070326 00 r 02 climateric 0 climatic 0 000 |    
+00070377 00 r 05 împrejurime 0 vecinătate 0 jur 0 preajmă 0 apropiere 0 000 |    
+00070462 00 r 03 conjunctural 0 situațional 0 circumstanțial 0 000 |    
+00070537 00 r 01 contracronometru 0 000 |    
+00070583 00 r 01 piratat 0 000 |    
+00070620 00 r 01 convivial 0 000 |    
+00070659 00 r 02 liniștit 0 placid 0 000 |    
+00070707 00 r 01 flagrant 0 000 |    
+00070745 00 r 01 economic 0 000 |    
+00070783 00 r 01 urgent 0 000 |    
+00070819 00 r 02 încins 0 aprins 0 000 |    
+00070865 00 r 02 regimental 0 regimentar 0 000 |    
+00070918 00 r 02 dracul 0 Dumnezeu 0 000 |    
+00070965 00 r 01 doar 0 000 |    
+00070999 00 r 01 zgomotos 0 000 |    
+00071037 00 r 01 criminal 0 000 |    
+00071075 00 r 01 tehnic 0 000 |    
+00071111 00 r 01 cusiguranță 0 000 |    
+00071154 00 r 01 alnaibii 0 000 |    
+00071192 00 r 03 contrar 0 opus 0 invers 0 000 |    
+00071245 00 r 01 laprimamână 0 000 |    
+00071288 00 r 01 pompos 0 000 |    
+00071324 00 r 01 negreșit 0 000 |    
+00071363 00 r 01 furioslaculme 0 000 |    
+00071406 00 r 01 retroactiv 0 000 |    
+00071446 00 r 01 inutil 0 000 |    
+00071482 00 r 01 indiferent 0 000 |    
+00071522 00 r 03 imperativ 0 autoritar 0 poruncitor 0 000 |    
+00071586 00 r 01 expectativ 0 000 |    
+00071626 00 r 01 jucăuș 0 000 |    
+00071664 00 r 01 petermenlung 0 000 |    
+00071706 00 r 01 celmairapid 0 000 |    
+00071747 00 r 01 răgușit 0 000 |    
+00071786 00 r 01 încruntat 0 000 |    
+00071826 00 r 03 șerpuitor 0 cotit 0 șerpuit 0 000 |    
+00071885 00 r 01 consecință 0 000 |    
+00071927 00 r 01 verbal 0 000 |    
+00071963 00 r 01 punitiv 0 000 |    
+00072000 00 r 01 infam 0 000 |    
+00072035 00 r 03 degeaba 0 învan 0 înzadar 0 000 |    
+00072092 00 r 01 fraudulos 0 000 |    
+00072131 00 r 01 înainte 0 000 |    
+00072169 00 r 01 adjectival 0 000 |    
+00072209 00 r 01 lipa-lipa 0 000 |    
+00072248 00 r 01 alert 0 000 |    
+00072283 00 r 01 intuitiv 0 000 |    
+00072321 00 r 01 fotometric 0 000 |    
+00072361 00 r 01 profan 0 000 |    
+00072397 00 r 01 metodic 0 000 |    
+00072434 00 r 03 direct 0 pieptiș 0 frontal 0 000 |    
+00072491 00 r 02 monstruos 0 grotesc 0 000 |    
+00072540 00 r 02 caperoate 0 cauns 0 000 |    
+00072587 00 r 01 organizațional 0 000 |    
+00072632 00 r 01 brutal 0 000 |    
+00072668 00 r 01 deneclintit 0 000 |    
+00072709 00 r 02 nerentabil 0 neprofitabil 0 000 |    
+00072764 00 r 01 înzigzag 0 000 |    
+00072803 00 r 01 mult 0 000 |    
+00072837 00 r 01 înjos 0 000 |    
+00072873 00 r 01 delicat 0 000 |    
+00072910 00 r 01 instant 0 000 |    
+00072947 00 r 01 direct 0 000 |    
+00072983 00 r 01 năuc 0 000 |    
+00073018 00 r 01 romantic 0 000 |    
+00073056 00 r 01 transparent 0 000 |    
+00073097 00 r 01 nemulțumit 0 000 |    
+00073138 00 r 01 umărlaumăr 0 000 |    
+00073180 00 r 02 neobrăzat 0 nerușinat 0 000 |    
+00073233 00 r 01 transparent 0 000 |    
+00073274 00 r 02 nostim 0 amuzant 0 000 |    
+00073320 00 r 01 dincândîncând 0 000 |    
+00073366 00 r 01 resemnat 0 000 |    
+00073404 00 r 02 peneașteptate 0 surprinzător 0 000 |    
+00073464 00 r 01 rușinos 0 000 |    
+00073502 00 r 01 matematic 0 000 |    
+00073541 00 r 01 indignat 0 000 |    
+00073579 00 r 02 nonlexical 0 nelexical 0 000 |    
+00073631 00 r 01 dreptînfață 0 000 |    
+00073675 00 r 01 pedant 0 000 |    
+00073711 00 r 01 cucapulînainte 0 000 |    
+00073756 00 r 01 înîntregime 0 000 |    
+00073799 00 r 01 ironic 0 000 |    
+00073835 00 r 01 leneș 0 000 |    
+00073871 00 r 01 autoritar 0 000 |    
+00073910 00 r 02 puțin 0 scurt 0 000 |    
+00073954 00 r 01 spresud-vest 0 000 |    
+00073996 00 r 01 voyeuristic 0 000 |    
+00074037 00 r 03 lanesfârșit 0 neîncetat 0 continuu 0 000 |    
+00074104 00 r 01 chiar 0 000 |    
+00074139 00 r 01 jegos 0 000 |    
+00074174 00 r 01 lainfinit 0 000 |    
+00074213 00 r 01 aproape 0 000 |    
+00074250 00 r 01 dinauzite 0 000 |    
+00074289 00 r 01 sublim 0 000 |    
+00074325 00 r 02 aberant 0 anormal 0 000 |    
+00074372 00 r 02 acum 0 adineauri 0 000 |    
+00074418 00 r 01 larg 0 000 |    
+00074452 00 r 01 nenecesar 0 000 |    
+00074491 00 r 01 generos 0 000 |    
+00074528 00 r 01 unanim 0 000 |    
+00074564 00 r 01 înpat 0 000 |    
+00074600 00 r 01 nenatural 0 000 |    
+00074639 00 r 01 încet 0 000 |    
+00074675 00 r 02 împreună 0 laolaltă 0 000 |    
+00074727 00 r 01 ilustru 0 000 |    
+00074764 00 r 03 greșit 0 necorect 0 incorect 0 000 |    
+00074823 00 r 01 uniform 0 000 |    
+00074860 00 r 01 tendențios 0 000 |    
+00074901 00 r 02 peascuns 0 pefuriș 0 000 |    
+00074950 00 r 01 aproape 0 000 |    
+00074987 00 r 01 brusc 0 000 |    
+00075022 00 r 01 peviață 0 000 |    
+00075061 00 r 01 provocator 0 000 |    
+00075101 00 r 01 amuzant 0 000 |    
+00075138 00 r 01 elementar 0 000 |    
+00075177 00 r 01 autocratic 0 000 |    
+00075217 00 r 01 advers 0 000 |    
+00075253 00 r 03 încă 0 și 0 deasemenea 0 000 |    
+00075308 00 r 03 stăruitor 0 insistent 0 persistent 0 000 |    
+00075373 00 r 04 sigur 0 categoric 0 precis 0 cert 0 000 |    
+00075436 00 r 01 astfel 0 000 |    
+00075472 00 r 02 dement 0 nebun 0 000 |    
+00075516 00 r 01 cerebral 0 000 |    
+00075554 00 r 01 malign 0 000 |    
+00075590 00 r 01 trupșisuflet 0 000 |    
+00075633 00 r 01 dinafară 0 000 |    
+00075672 00 r 02 însiguranță 0 laadăpost 0 000 |    
+00075729 00 r 01 curat 0 000 |    
+00075764 00 r 01 extrem 0 000 |    
+00075800 00 r 01 înăbușit 0 000 |    
+00075841 00 r 02 depreferat 0 preferabil 0 000 |    
+00075894 00 r 01 doctrinar 0 000 |    
+00075933 00 r 01 satisfăcut 0 000 |    
+00075974 00 r 01 pestemăsură 0 000 |    
+00076017 00 r 01 inaugural 0 000 |    
+00076056 00 r 02 doarcă 0 numaică 0 000 |    
+00076104 00 r 01 negreșit 0 000 |    
+00076143 00 r 02 inițial 0 laînceput 0 000 |    
+00076194 00 r 01 aspru 0 000 |    
+00076229 00 r 01 înstrăinătate 0 000 |    
+00076275 00 r 01 cadeobicei 0 000 |    
+00076315 00 r 03 acid 0 caustic 0 mușcător 0 000 |    
+00076372 00 r 01 adliteram 0 000 |    
+00076411 00 r 01 plenar 0 000 |    
+00076447 00 r 01 dedesubt 0 000 |    
+00076485 00 r 01 tare 0 000 |    
+00076519 00 r 01 dedouăori 0 000 |    
+00076559 00 r 02 anevoie 0 abia 0 000 |    
+00076603 00 r 01 ireverențios 0 000 |    
+00076646 00 r 02 doar 0 numai 0 000 |    
+00076688 00 r 01 pornografic 0 000 |    
+00076729 00 r 01 mândru 0 000 |    
+00076766 00 r 02 dogmatist 0 dogmatic 0 000 |    
+00076816 00 r 01 telegrafic 0 000 |    
+00076856 00 r 01 înschimb 0 000 |    
+00076895 00 r 02 oriunde 0 orișiunde 0 000 |    
+00076945 00 r 01 nord-vest 0 000 |    
+00076984 00 r 01 peloc 0 000 |    
+00077019 00 r 01 dupăprogram 0 000 |    
+00077061 00 r 02 strălucitor 0 sclipitor 0 000 |    
+00077115 00 r 01 penat 0 000 |    
+00077150 00 r 01 pejos 0 000 |    
+00077185 00 r 01 funcțional 0 000 |    
+00077226 00 r 01 pleoștit 0 000 |    
+00077265 00 r 01 trivial 0 000 |    
+00077302 00 r 01 vag 0 000 |    
+00077335 00 r 01 lasciv 0 000 |    
+00077371 00 r 01 lipicios 0 000 |    
+00077409 00 r 01 spectrografic 0 000 |    
+00077452 00 r 01 mult 0 000 |    
+00077486 00 r 01 preferențial 0 000 |    
+00077529 00 r 01 zdrențăros 0 000 |    
+00077571 00 r 02 emoționant 0 mișcător 0 000 |    
+00077625 00 r 01 analogic 0 000 |    
+00077663 00 r 01 pedos 0 000 |    
+00077698 00 r 01 rău 0 000 |    
+00077732 00 r 02 amorf 0 inform 0 000 |    
+00077776 00 r 01 deunmiliondeori 0 000 |    
+00077821 00 r 01 exact 0 000 |    
+00077856 00 r 01 cândva 0 000 |    
+00077893 00 r 01 primitiv 0 000 |    
+00077931 00 r 02 smintit 0 nebunesc 0 000 |    
+00077979 00 r 02 împrejur 0 primprejur 0 000 |    
+00078031 00 r 01 plinderesurse 0 000 |    
+00078074 00 r 03 iar 0 iarăși 0 nou 0 000 |    
+00078124 00 r 01 medical 0 000 |    
+00078161 00 r 01 stăpânit 0 000 |    
+00078201 00 r 02 cuceritor 0 atrăgător 0 000 |    
+00078254 00 r 01 acolo 0 000 |    
+00078289 00 r 01 energic 0 000 |    
+00078326 00 r 01 fărăefort 0 000 |    
+00078367 00 r 02 confortabil 0 bine-mersi 0 000 |    
+00078421 00 r 01 orizontal 0 000 |    
+00078460 00 r 01 ergo 0 000 |    
+00078494 00 r 02 accentuat 0 pronunțat 0 000 |    
+00078546 00 r 01 imensde 0 000 |    
+00078583 00 r 01 patru 0 000 |    
+00078618 00 r 01 desfăcut 0 000 |    
+00078657 00 r 01 fărăsens 0 000 |    
+00078697 00 r 01 dorsal 0 000 |    
+00078733 00 r 01 servil 0 000 |    
+00078769 00 r 01 bogat 0 000 |    
+00078804 00 r 01 precar 0 000 |    
+00078840 00 r 01 ciudat 0 000 |    
+00078876 00 r 02 pătimaș 0 cupasiune 0 000 |    
+00078927 00 r 02 popesc 0 preoțesc 0 000 |    
+00078975 00 r 01 strâns 0 000 |    
+00079012 00 r 04 riscant 0 primejdios 0 hazardant 0 periculos 0 000 |    
+00079086 00 r 01 imperios 0 000 |    
+00079124 00 r 02 cf. 0 confer 0 000 |    
+00079166 00 r 01 defapt 0 000 |    
+00079202 00 r 01 lamânaatreia 0 000 |    
+00079245 00 r 03 nesigur 0 ezitant 0 șovăitor 0 000 |    
+00079305 00 r 01 încontinuare 0 000 |    
+00079348 00 r 01 înconsecință 0 000 |    
+00079393 00 r 01 înplin 0 000 |    
+00079430 00 r 01 bacterial 0 000 |    
+00079469 00 r 01 axial 0 000 |    
+00079504 00 r 01 înurmă 0 000 |    
+00079542 00 r 01 prost 0 000 |    
+00079577 00 r 03 spilcuit 0 ferchezuit 0 fercheș 0 000 |    
+00079639 00 r 02 succesiv 0 alternativ 0 000 |    
+00079690 00 r 01 benefic 0 000 |    
+00079727 00 r 01 clandestin 0 000 |    
+00079767 00 r 03 grav 0 serios 0 solemn 0 000 |    
+00079819 00 r 02 robotic 0 mecanic 0 000 |    
+00079866 00 r 01 hodoronc-tronc 0 000 |    
+00079910 00 r 01 departamental 0 000 |    
+00079953 00 r 01 variat 0 000 |    
+00079989 00 r 01 fonetic 0 000 |    
+00080026 00 r 02 mecanic 0 automat 0 000 |    
+00080073 00 r 01 patologic 0 000 |    
+00080112 00 r 01 incoerent 0 000 |    
+00080151 00 r 01 înapropiere 0 000 |    
+00080193 00 r 01 așa 0 000 |    
+00080227 00 r 01 temperat 0 000 |    
+00080265 00 r 01 înînalturi 0 000 |    
+00080307 00 r 01 multprea 0 000 |    
+00080345 00 r 01 apreciabil 0 000 |    
+00080385 00 r 01 pragmatic 0 000 |    
+00080424 00 r 01 bătăios 0 000 |    
+00080463 00 r 01 filosofic 0 000 |    
+00080502 00 r 01 laprimavedere 0 000 |    
+00080545 00 r 01 de-acolo 0 000 |    
+00080583 00 r 01 delicios 0 000 |    
+00080621 00 r 03 iubitor 0 cudragoste 0 cuiubire 0 000 |    
+00080682 00 r 02 exuberant 0 expansiv 0 000 |    
+00080732 00 r 01 sferic 0 000 |    
+00080768 00 r 01 tăios 0 000 |    
+00080804 00 r 01 urmă 0 000 |    
+00080839 00 r 01 trecător 0 000 |    
+00080878 00 r 01 lainfinit 0 000 |    
+00080917 00 r 01 acuzator 0 000 |    
+00080955 00 r 01 sălbatic 0 000 |    
+00080994 00 r 02 îndepărtat 0 depărtat 0 000 |    
+00081048 00 r 01 greșit 0 000 |    
+00081085 00 r 01 anacronic 0 000 |    
+00081124 00 r 01 cauzal 0 000 |    
+00081160 00 r 02 hoțește 0 pungășește 0 000 |    
+00081215 00 r 01 fărăîndoială 0 000 |    
+00081261 00 r 01 notoriu 0 000 |    
+00081298 00 r 01 educațional 0 000 |    
+00081340 00 r 01 pleosc 0 000 |    
+00081376 00 r 01 confortabil 0 000 |    
+00081417 00 r 01 frugal 0 000 |    
+00081453 00 r 02 înviațadeapoi 0 pelumeacealaltă 0 000 |    
+00081517 00 r 01 cronologic 0 000 |    
+00081557 00 r 02 ulterior 0 târziu 0 000 |    
+00081605 00 r 02 nimicitor 0 devastator 0 000 |    
+00081657 00 r 02 rigid 0 țeapăn 0 000 |    
+00081703 00 r 01 adjectival 0 000 |    
+00081743 00 r 01 chimic 0 000 |    
+00081779 00 r 01 logaritmic 0 000 |    
+00081819 00 r 02 înșelător 0 amăgitor 0 000 |    
+00081873 00 r 03 vestit 0 faimos 0 reputat 0 000 |    
+00081928 00 r 01 imediat 0 000 |    
+00081965 00 r 01 social 0 000 |    
+00082001 00 r 01 inalienabil 0 000 |    
+00082042 00 r 01 evaziv 0 000 |    
+00082078 00 r 02 antagonist 0 antagonic 0 000 |    
+00082130 00 r 02 infra 0 maijos 0 000 |    
+00082174 00 r 01 global 0 000 |    
+00082210 00 r 02 necontenit 0 neîntrerupt 0 000 |    
+00082265 00 r 02 întimp 0 latimp 0 000 |    
+00082311 00 r 01 teologic 0 000 |    
+00082349 00 r 01 intramuscular 0 000 |    
+00082392 00 r 01 escatologic 0 000 |    
+00082433 00 r 02 nechibzuit 0 nesocotit 0 000 |    
+00082485 00 r 02 trupesc 0 corporal 0 000 |    
+00082533 00 r 01 incognito 0 000 |    
+00082572 00 r 01 dacănu 0 000 |    
+00082609 00 r 02 dacapoalfine 0 delaînceputlasfârșit 0 000 |    
+00082677 00 r 01 zilnic 0 000 |    
+00082713 00 r 02 ornamental 0 decorativ 0 000 |    
+00082765 00 r 01 național 0 000 |    
+00082804 00 r 01 peîncredere 0 000 |    
+00082846 00 r 01 apoi 0 000 |    
+00082880 00 r 01 deazipemâine 0 000 |    
+00082923 00 r 01 acru 0 000 |    
+00082957 00 r 01 spresud-est 0 000 |    
+00082998 00 r 03 meditativ 0 reflexiv 0 gânditor 0 000 |    
+00083060 00 r 01 dinceîncemai 0 000 |    
+00083103 00 r 01 alăturat 0 000 |    
+00083142 00 r 01 isteric 0 000 |    
+00083179 00 r 03 prost 0 stupid 0 obtuz 0 000 |    
+00083231 00 r 01 local 0 000 |    
+00083266 00 r 01 maijos 0 000 |    
+00083302 00 r 01 plictisitor 0 000 |    
+00083343 00 r 01 bine 0 000 |    
+00083377 00 r 01 pânăacum 0 000 |    
+00083417 00 r 03 lugubru 0 macabru 0 sinistru 0 000 |    
+00083475 00 r 01 înfamilie 0 000 |    
+00083515 00 r 01 total 0 000 |    
+00083550 00 r 01 ceremonios 0 000 |    
+00083590 00 r 01 bine 0 000 |    
+00083624 00 r 01 predicativ 0 000 |    
+00083664 00 r 01 nostalgic 0 000 |    
+00083703 00 r 02 pieziș 0 chiorâș 0 000 |    
+00083752 00 r 02 adițional 0 înplus 0 000 |    
+00083802 00 r 01 snob 0 000 |    
+00083836 00 r 01 demult 0 000 |    
+00083872 00 r 01 însă 0 000 |    
+00083908 00 r 01 puritan 0 000 |    
+00083945 00 r 01 politic 0 000 |    
+00083982 00 r 01 fărăsomn 0 000 |    
+00084022 00 r 01 corupt 0 000 |    
+00084058 00 r 01 respingător 0 000 |    
+00084100 00 r 02 unilingv 0 monolingv 0 000 |    
+00084150 00 r 03 neschimbător 0 stabil 0 neschimbat 0 000 |    
+00084215 00 r 02 abrupt 0 repede 0 000 |    
+00084260 00 r 01 piramidal 0 000 |    
+00084299 00 r 01 grosolan 0 000 |    
+00084337 00 r 01 rău 0 000 |    
+00084371 00 r 02 elegant 0 șic 0 000 |    
+00084415 00 r 04 exact 0 tocmai 0 chiar 0 întocmai 0 000 |    
+00084479 00 r 01 indeterminabil 0 000 |    
+00084523 00 r 01 dominator 0 000 |    
+00084562 00 r 01 profanator 0 000 |    
+00084602 00 r 01 lunar 0 000 |    
+00084637 00 r 01 hodoronc-tronc 0 000 |    
+00084681 00 r 02 murdar 0 jegos 0 000 |    
+00084725 00 r 02 avid 0 lacom 0 000 |    
+00084767 00 r 02 comic 0 amuzant 0 000 |    
+00084812 00 r 01 secret 0 000 |    
+00084848 00 r 01 bisăptămânal 0 000 |    
+00084893 00 r 01 vis-a-vis 0 000 |    
+00084932 00 r 02 încrezut 0 arogant 0 000 |    
+00084981 00 r 01 lupesc 0 000 |    
+00085017 00 r 01 problematic 0 000 |    
+00085058 00 r 01 provizoriu 0 000 |    
+00085098 00 r 01 instinctiv 0 000 |    
+00085138 00 r 01 întretimp 0 000 |    
+00085178 00 r 01 alternativ 0 000 |    
+00085218 00 r 01 idiomatic 0 000 |    
+00085257 00 r 01 nebănuitor 0 000 |    
+00085298 00 r 02 sclipitor 0 strălucit 0 000 |    
+00085350 00 r 01 mult 0 000 |    
+00085384 00 r 01 întandem 0 000 |    
+00085423 00 r 04 deslușit 0 distinct 0 clar 0 bine 0 000 |    
+00085487 00 r 01 subconștient 0 000 |    
+00085530 00 r 01 fapt 0 000 |    
+00085564 00 r 02 complet 0 totalmente 0 000 |    
+00085614 00 r 01 limnologic 0 000 |    
+00085654 00 r 01 abrupt 0 000 |    
+00085690 00 r 01 frenetic 0 000 |    
+00085728 00 r 01 legal 0 000 |    
+00085763 00 r 01 trufaș 0 000 |    
+00085800 00 r 01 invers 0 000 |    
+00085836 00 r 01 maidevreme 0 000 |    
+00085876 00 r 01 hirsut 0 000 |    
+00085912 00 r 01 săptămânădesăptămână 0 000 |    
+00085970 00 r 01 perpendicular 0 000 |    
+00086013 00 r 01 exorbitant 0 000 |    
+00086053 00 r 01 magnetic 0 000 |    
+00086091 00 r 01 ipsofacto 0 000 |    
+00086130 00 r 01 demult 0 000 |    
+00086166 00 r 02 curesemnare 0 resemnat 0 000 |    
+00086218 00 r 01 coordonat 0 000 |    
+00086257 00 r 03 trainic 0 durabil 0 rezistent 0 000 |    
+00086316 00 r 02 delicios 0 gustos 0 000 |    
+00086363 00 r 01 pătrat 0 000 |    
+00086400 00 r 02 dușmănos 0 răutăcios 0 000 |    
+00086454 00 r 03 glumeț 0 hazliu 0 poznaș 0 000 |    
+00086510 00 r 01 biochimic 0 000 |    
+00086549 00 r 01 puțin 0 000 |    
+00086585 00 r 02 încântat 0 cuîncântare 0 000 |    
+00086641 00 r 01 spresud 0 000 |    
+00086678 00 r 01 rezidențial 0 000 |    
+00086720 00 r 02 împreună 0 dimpreună 0 000 |    
+00086773 00 r 01 cotlacot 0 000 |    
+00086811 00 r 02 extremde 0 durerosde 0 000 |    
+00086861 00 r 02 mângâietor 0 consolator 0 000 |    
+00086916 00 r 01 multiplicativ 0 000 |    
+00086959 00 r 01 personal 0 000 |    
+00086997 00 r 01 înfricoșător 0 000 |    
+00087042 00 r 01 semantic 0 000 |    
+00087080 00 r 02 fix 0 imobil 0 000 |    
+00087122 00 r 01 perceptual 0 000 |    
+00087162 00 r 01 instituțional 0 000 |    
+00087206 00 r 01 acasă 0 000 |    
+00087242 00 r 01 psihologic 0 000 |    
+00087282 00 r 04 ursuz 0 bosumflat 0 îmbufnat 0 morocănos 0 000 |    
+00087354 00 r 01 reciproc 0 000 |    
+00087392 00 r 01 judiciar 0 000 |    
+00087430 00 r 02 isteț 0 ingenios 0 000 |    
+00087477 00 r 01 lucios 0 000 |    
+00087513 00 r 02 lanesfârșit 0 fărăsfârșit 0 000 |    
+00087574 00 r 01 nonverbal 0 000 |    
+00087613 00 r 01 cognitiv 0 000 |    
+00087651 00 r 01 invitro 0 000 |    
+00087688 00 r 01 circular 0 000 |    
+00087726 00 r 01 fanatic 0 000 |    
+00087763 00 r 01 vulgar 0 000 |    
+00087799 00 r 01 relativistic 0 000 |    
+00087841 00 r 01 peloc 0 000 |    
+00087876 00 r 02 împrejur 0 înjur 0 000 |    
+00087924 00 r 01 fărăapărare 0 000 |    
+00087968 00 r 01 jos 0 000 |    
+00088001 00 r 01 chiar 0 000 |    
+00088036 00 r 01 lateral 0 000 |    
+00088073 00 r 02 foartebine 0 preabine 0 000 |    
+00088124 00 r 01 nonstop 0 000 |    
+00088161 00 r 01 bianual 0 000 |    
+00088198 00 r 01 negreșit 0 000 |    
+00088237 00 r 01 întunecos 0 000 |    
+00088277 00 r 01 relativ 0 000 |    
+00088314 00 r 01 radical 0 000 |    
+00088351 00 r 01 prea 0 000 |    
+00088385 00 r 01 flasc 0 000 |    
+00088420 00 r 02 prost 0 rău 0 000 |    
+00088462 00 r 01 bine 0 000 |    
+00088496 00 r 01 guvernamental 0 000 |    
+00088539 00 r 01 administrativ 0 000 |    
+00088582 00 r 01 cromatic 0 000 |    
+00088620 00 r 01 trist 0 000 |    
+00088655 00 r 01 substanțial 0 000 |    
+00088697 00 r 01 catalitic 0 000 |    
+00088736 00 r 02 îndată 0 cum 0 000 |    
+00088780 00 r 01 supernatural 0 000 |    
+00088822 00 r 01 deoparte 0 000 |    
+00088860 00 r 02 îndurerat 0 mâhnit 0 000 |    
+00088910 00 r 06 î.e.n. 0 ÎnaintedeHristos 0 Î.H. 0 ÎnaintedeCristos 0 înainteaereinoastre 0 Î.C. 0 000 |    
+00089026 00 r 01 lavaloare 0 000 |    
+00089065 00 r 02 prietenos 0 cordial 0 000 |    
+00089114 00 r 01 fărăsperanță 0 000 |    
+00089160 00 r 01 dezastruos 0 000 |    
+00089200 00 r 01 lafelde 0 000 |    
+00089237 00 r 02 întăcere 0 mut 0 000 |    
+00089283 00 r 04 agil 0 sprinten 0 ager 0 vioi 0 000 |    
+00089342 00 r 02 surprinzător 0 uimitor 0 000 |    
+00089395 00 r 01 melodic 0 000 |    
+00089432 00 r 01 înnăscut 0 000 |    
+00089472 00 r 02 arhitectonic 0 arhitectural 0 000 |    
+00089529 00 r 01 anormal 0 000 |    
+00089566 00 r 01 pefugă 0 000 |    
+00089603 00 r 01 prinexcelență 0 000 |    
+00089648 00 r 01 dezlânat 0 000 |    
+00089687 00 r 01 picant 0 000 |    
+00089723 00 r 02 ocazional 0 dincândîncând 0 000 |    
+00089781 00 r 02 nereușit 0 neizbutit 0 000 |    
+00089832 00 r 01 ingenios 0 000 |    
+00089870 00 r 01 dubios 0 000 |    
+00089906 00 r 01 înainte 0 000 |    
+00089944 00 r 01 bamaimult 0 000 |    
+00089983 00 r 01 orb 0 000 |    
+00090016 00 r 01 seducător 0 000 |    
+00090056 00 r 01 odinioară 0 000 |    
+00090096 00 r 02 special 0 expres 0 000 |    
+00090142 00 r 03 oricând 0 orișicând 0 totdeauna 0 000 |    
+00090206 00 r 01 numeric 0 000 |    
+00090243 00 r 02 cuabilitate 0 cudexteritate 0 000 |    
+00090300 00 r 02 întâișiîntâi 0 înaintedetoate 0 000 |    
+00090365 00 r 02 împreună 0 colaborare 0 000 |    
+00090418 00 r 01 bine 0 000 |    
+00090452 00 r 01 superlativ 0 000 |    
+00090492 00 r 01 altreilea 0 000 |    
+00090531 00 r 02 inabsentia 0 înabsență 0 000 |    
+00090586 00 r 01 prosper 0 000 |    
+00090623 00 r 01 pânălabrâu 0 000 |    
+00090666 00 r 01 reflex 0 000 |    
+00090702 00 r 01 demonstrabil 0 000 |    
+00090744 00 r 01 acustic 0 000 |    
+00090781 00 r 02 statornic 0 credincios 0 000 |    
+00090833 00 r 01 sumar 0 000 |    
+00090868 00 r 01 atent 0 000 |    
+00090903 00 r 03 întru 0 cam 0 oarecum 0 000 |    
+00090955 00 r 01 pescurt 0 000 |    
+00090992 00 r 01 cugreutate 0 000 |    
+00091032 00 r 02 neîndurător 0 nemilos 0 000 |    
+00091085 00 r 01 deja 0 000 |    
+00091119 00 r 01 plus 0 000 |    
+00091153 00 r 01 răgușit 0 000 |    
+00091192 00 r 01 dezlănțuit 0 000 |    
+00091234 00 r 01 termodinamic 0 000 |    
+00091276 00 r 01 slab 0 000 |    
+00091310 00 r 01 constrâns 0 000 |    
+00091350 00 r 01 metaforic 0 000 |    
+00091389 00 r 01 oricât 0 000 |    
+00091426 00 r 02 stilat 0 rafinat 0 000 |    
+00091472 00 r 01 cunepăsare 0 000 |    
+00091513 00 r 02 vorace 0 lacom 0 000 |    
+00091557 00 r 02 elaborat 0 complicat 0 000 |    
+00091607 00 r 01 crucial 0 000 |    
+00091644 00 r 01 cuîndrăzneală 0 000 |    
+00091690 00 r 02 celmaidesus 0 celmaisus 0 000 |    
+00091743 00 r 01 năprasnic 0 000 |    
+00091783 00 r 01 înparticular 0 000 |    
+00091826 00 r 01 șmecherește 0 000 |    
+00091869 00 r 01 familiar 0 000 |    
+00091907 00 r 01 strâns 0 000 |    
+00091944 00 r 01 mistic 0 000 |    
+00091980 00 r 01 poetic 0 000 |    
+00092016 00 r 01 notabil 0 000 |    
+00092053 00 r 01 conceptual 0 000 |    
+00092093 00 r 01 ieri 0 000 |    
+00092127 00 r 03 fraternal 0 fratern 0 frățesc 0 000 |    
+00092188 00 r 01 asupralui 0 000 |    
+00092227 00 r 02 nepăsător 0 moale 0 000 |    
+00092276 00 r 04 mult 0 considerabil 0 substanțial 0 bine 0 000 |    
+00092347 00 r 01 automat 0 000 |    
+00092384 00 r 01 computațional 0 000 |    
+00092428 00 r 01 pacificator 0 000 |    
+00092469 00 r 01 sălbatic 0 000 |    
+00092508 00 r 01 încrezut 0 000 |    
+00092547 00 r 01 împietrit 0 000 |    
+00092587 00 r 01 insațiabil 0 000 |    
+00092628 00 r 01 nu 0 000 |    
+00092660 00 r 04 divin 0 ceresc 0 providențial 0 dumnezeiesc 0 000 |    
+00092734 00 r 01 rasial 0 000 |    
+00092770 00 r 01 subțire 0 000 |    
+00092808 00 r 01 histologic 0 000 |    
+00092848 00 r 01 muzicologic 0 000 |    
+00092889 00 r 01 monstruos 0 000 |    
+00092928 00 r 01 antitetic 0 000 |    
+00092967 00 r 01 succint 0 000 |    
+00093004 00 r 01 echilibrat 0 000 |    
+00093044 00 r 01 satiric 0 000 |    
+00093081 00 r 03 peurmă 0 dupăaceea 0 apoi 0 000 |    
+00093138 00 r 01 peaici 0 000 |    
+00093174 00 r 01 splendid 0 000 |    
+00093212 00 r 01 neîncorsetat 0 000 |    
+00093255 00 r 01 ritmic 0 000 |    
+00093291 00 r 01 anarhic 0 000 |    
+00093328 00 r 02 glacial 0 rece 0 000 |    
+00093372 00 r 02 neînsemnat 0 neimportant 0 000 |    
+00093427 00 r 01 umilitor 0 000 |    
+00093465 00 r 01 crăcănat 0 000 |    
+00093505 00 r 03 laurmă 0 înfinal 0 însfârșit 0 000 |    
+00093568 00 r 02 pasionat 0 pătimaș 0 000 |    
+00093618 00 r 01 geografic 0 000 |    
+00093657 00 r 01 insuportabilde 0 000 |    
+00093701 00 r 01 nevrotic 0 000 |    
+00093739 00 r 02 suplimentar 0 înplus 0 000 |    
+00093790 00 r 01 temperat 0 000 |    
+00093828 00 r 01 pieziș 0 000 |    
+00093865 00 r 01 tăios 0 000 |    
+00093901 00 r 01 sălbatic 0 000 |    
+00093940 00 r 01 vehement 0 000 |    
+00093978 00 r 01 pământesc 0 000 |    
+00094019 00 r 02 îndrăzneț 0 cuîndrăzneală 0 000 |    
+00094080 00 r 01 efuziv 0 000 |    
+00094116 00 r 02 efectiv 0 realmente 0 000 |    
+00094165 00 r 01 mâine 0 000 |    
+00094201 00 r 01 fiscal 0 000 |    
+00094237 00 r 01 geologic 0 000 |    
+00094275 00 r 03 ibidem 0 ibid. 0 ib. 0 000 |    
+00094325 00 r 01 nepieritor 0 000 |    
+00094365 00 r 01 defacto 0 000 |    
+00094402 00 r 01 frenetic 0 000 |    
+00094440 00 r 02 indescriptibil 0 nedescriptibil 0 000 |    
+00094501 00 r 01 înainte 0 000 |    
+00094539 00 r 01 gregar 0 000 |    
+00094575 00 r 01 ventral 0 000 |    
+00094612 00 r 01 pătat 0 000 |    
+00094648 00 r 01 rapace 0 000 |    
+00094684 00 r 02 fatalmente 0 inevitabil 0 000 |    
+00094737 00 r 01 dedezvoltare 0 000 |    
+00094779 00 r 03 direct 0 drept 0 neocolit 0 000 |    
+00094834 00 r 01 distrat 0 000 |    
+00094871 00 r 01 strâns 0 000 |    
+00094908 00 r 01 neglijent 0 000 |    
+00094947 00 r 02 amiabil 0 amical 0 000 |    
+00094993 00 r 01 înacelașitimp 0 000 |    
+00095038 00 r 01 ecleziastic 0 000 |    
+00095079 00 r 02 cuhărnicie 0 harnic 0 000 |    
+00095129 00 r 01 inventiv 0 000 |    
+00095167 00 r 02 prim 0 întâi 0 000 |    
+00095211 00 r 02 lapupa 0 înapoi 0 000 |    
+00095257 00 r 02 jenant 0 penibil 0 000 |    
+00095303 00 r 01 sus 0 000 |    
+00095336 00 r 01 cultural 0 000 |    
+00095374 00 r 02 pescurt 0 prescurtat 0 000 |    
+00095424 00 r 02 fărăgrai 0 fărăcuvinte 0 000 |    
+00095480 00 r 01 miraculos 0 000 |    
+00095519 00 r 01 pasional 0 000 |    
+00095557 00 r 01 furios 0 000 |    
+00095593 00 r 01 plindeînțeles 0 000 |    
+00095638 00 r 01 chiar 0 000 |    
+00095673 00 r 01 chinuitorde 0 000 |    
+00095714 00 r 02 sumar 0 fugitiv 0 000 |    
+00095759 00 r 02 dinabundență 0 dinbelșug 0 000 |    
+00095816 00 r 02 îndepărtat 0 depărtat 0 000 |    
+00095870 00 r 03 primadată 0 primaoară 0 întâiaoară 0 000 |    
+00095939 00 r 01 grandilocvent 0 000 |    
+00095982 00 r 01 direct 0 000 |    
+00096018 00 r 01 aspru 0 000 |    
+00096053 00 r 01 nescrupulos 0 000 |    
+00096094 00 r 01 departe 0 000 |    
+00096131 00 r 01 frumos 0 000 |    
+00096167 00 r 02 invincibil 0 imbatabil 0 000 |    
+00096219 00 r 04 înregulă 0 ok 0 foartebine 0 bine 0 000 |    
+00096284 00 r 01 înacelspirit 0 000 |    
+00096327 00 r 02 cumărinimie 0 mărinimos 0 000 |    
+00096382 00 r 02 perseverent 0 cuperseverență 0 000 |    
+00096442 00 r 02 just 0 drept 0 000 |    
+00096484 00 r 02 judiciar 0 judecătoresc 0 000 |    
+00096538 00 r 01 pejos 0 000 |    
+00096573 00 r 02 cumpănit 0 măsurat 0 000 |    
+00096623 00 r 01 adevărat 0 000 |    
+00096662 00 r 01 inexpugnabil 0 000 |    
+00096704 00 r 01 digital 0 000 |    
+00096741 00 r 01 neînsemnat 0 000 |    
+00096782 00 r 01 neobișnuit 0 000 |    
+00096823 00 r 01 neclintit 0 000 |    
+00096862 00 r 01 temperamental 0 000 |    
+00096905 00 r 02 taxonomic 0 categorial 0 000 |    
+00096957 00 r 02 ocupat 0 prins 0 000 |    
+00097001 00 r 01 predictibil 0 000 |    
+00097042 00 r 01 sobru 0 000 |    
+00097077 00 r 01 delirant 0 000 |    
+00097115 00 r 03 lanesfârșit 0 veșnic 0 etern 0 000 |    
+00097176 00 r 01 inextremis 0 000 |    
+00097216 00 r 01 firav 0 000 |    
+00097251 00 r 01 clasic 0 000 |    
+00097287 00 r 01 bine 0 000 |    
+00097321 00 r 01 cusângerece 0 000 |    
+00097363 00 r 02 avid 0 cuaviditate 0 000 |    
+00097411 00 r 02 alinător 0 liniștitor 0 000 |    
+00097464 00 r 01 ascetic 0 000 |    
+00097501 00 r 01 fiecare 0 000 |    
+00097538 00 r 01 sociolingvistic 0 000 |    
+00097583 00 r 01 idolatru 0 000 |    
+00097621 00 r 01 municipal 0 000 |    
+00097660 00 r 01 indiferent 0 000 |    
+00097700 00 r 01 cusângerece 0 000 |    
+00097742 00 r 01 donchijotesc 0 000 |    
+00097784 00 r 03 astă-seară 0 deseară 0 diseară 0 000 |    
+00097848 00 r 02 pieziș 0 oblic 0 000 |    
+00097893 00 r 01 prea 0 000 |    
+00097927 00 r 01 terestru 0 000 |    
+00097965 00 r 01 fațăînfață 0 000 |    
+00098010 00 r 02 pearătură 0 pealături 0 000 |    
+00098064 00 r 01 generos 0 000 |    
+00098101 00 r 01 curând 0 000 |    
+00098138 00 r 01 semnificativ 0 000 |    
+00098180 00 r 01 politic 0 000 |    
+00098217 00 r 02 agresiv 0 cuură 0 000 |    
+00098263 00 r 03 anapoda 0 alandala 0 aiurea 0 000 |    
+00098320 00 r 01 realistic 0 000 |    
+00098359 00 r 02 somnolent 0 somnoros 0 000 |    
+00098409 00 r 02 așa 0 astfel 0 000 |    
+00098452 00 r 04 așa 0 exact 0 da 0 corect 0 000 |    
+00098508 00 r 03 pebunădreptate 0 cuadevărat 0 pedreptcuvânt 0 000 |    
+00098584 00 r 02 veninos 0 curăutate 0 000 |    
+00098634 00 r 01 marțial 0 000 |    
+00098672 00 r 01 perplex 0 000 |    
+00098709 00 r 01 părăsit 0 000 |    
+00098748 00 r 01 penedrept 0 000 |    
+00098787 00 r 01 bașca 0 000 |    
+00098823 00 r 01 tare 0 000 |    
+00098857 00 r 01 nespecific 0 000 |    
+00098897 00 r 01 nervos 0 000 |    
+00098933 00 r 01 valid 0 000 |    
+00098968 00 r 01 eroic 0 000 |    
+00099003 00 r 02 flagrant 0 strigătorlacer 0 000 |    
+00099059 00 r 01 dublu 0 000 |    
+00099094 00 r 01 grosolan 0 000 |    
+00099132 00 r 02 totalitate 0 întregime 0 000 |    
+00099185 00 r 01 morbid 0 000 |    
+00099221 00 r 01 prevăzător 0 000 |    
+00099263 00 r 02 descurajat 0 demoralizat 0 000 |    
+00099317 00 r 01 cuvântcucuvânt 0 000 |    
+00099363 00 r 01 respectiv 0 000 |    
+00099402 00 r 01 înacelașitimp 0 000 |    
+00099447 00 r 01 latimp 0 000 |    
+00099483 00 r 01 contractual 0 000 |    
+00099524 00 r 05 aproape 0 circa 0 vreo 0 cam 0 aproximativ 0 000 |    
+00099596 00 r 01 pedrum 0 000 |    
+00099632 00 r 03 deneînvins 0 denetrecut 0 insurmontabil 0 000 |    
+00099702 00 r 02 șmecher 0 șiret 0 000 |    
+00099749 00 r 03 grav 0 serios 0 rău 0 000 |    
+00099799 00 r 02 dezamăgitor 0 decepționant 0 000 |    
+00099857 00 r 01 dincontră 0 000 |    
+00099897 00 r 01 fărăscrupule 0 000 |    
+00099941 00 r 01 neînduplecat 0 000 |    
+00099984 00 r 01 impecabil 0 000 |    
+00100023 00 r 01 înmijloc 0 000 |    
+00100062 00 r 01 curăutate 0 000 |    
+00100102 00 r 01 pânăatunci 0 000 |    
+00100144 00 r 02 cuaroganță 0 arogant 0 000 |    
+00100196 00 r 01 vizibil 0 000 |    
+00100233 00 r 03 unpic 0 puțin 0 nițel 0 000 |    
+00100286 00 r 02 repezit 0 pripit 0 000 |    
+00100332 00 r 01 manual 0 000 |    
+00100368 00 r 01 depreciativ 0 000 |    
+00100409 00 r 01 încomun 0 000 |    
+00100447 00 r 01 pâclos 0 000 |    
+00100484 00 r 01 metodologic 0 000 |    
+00100525 00 r 02 cudeterminare 0 determinat 0 000 |    
+00100581 00 r 01 aritmetic 0 000 |    
+00100620 00 r 01 infinitde 0 000 |    
+00100659 00 r 01 îndesat 0 000 |    
+00100697 00 r 01 specios 0 000 |    
+00100734 00 r 01 radioactiv 0 000 |    
+00100774 00 r 01 șters 0 000 |    
+00100810 00 r 02 lăudabil 0 admirabil 0 000 |    
+00100861 00 r 01 indubitabil 0 000 |    
+00100902 00 r 01 profesoral 0 000 |    
+00100942 00 r 01 lacerere 0 000 |    
+00100980 00 r 01 nechibzuit 0 000 |    
+00101020 00 r 01 liber 0 000 |    
+00101055 00 r 01 prefăcut 0 000 |    
+00101094 00 r 01 înprincipiu 0 000 |    
+00101136 00 r 01 înaldoilearând 0 000 |    
+00101182 00 r 01 predominant 0 000 |    
+00101223 00 r 01 opac 0 000 |    
+00101257 00 r 01 interdepartamental 0 000 |    
+00101305 00 r 02 penetrant 0 pătrunzător 0 000 |    
+00101360 00 r 01 sociologic 0 000 |    
+00101400 00 r 03 îndeaproape 0 atent 0 amănunțit 0 000 |    
+00101464 00 r 01 circumstanțial 0 000 |    
+00101509 00 r 01 vulgar 0 000 |    
+00101545 00 r 01 original 0 000 |    
+00101583 00 r 01 insistent 0 000 |    
+00101622 00 r 01 individualist 0 000 |    
+00101665 00 r 02 succesiv 0 consecutiv 0 000 |    
+00101716 00 r 01 extaziat 0 000 |    
+00101754 00 r 02 mereu 0 întruna 0 000 |    
+00101800 00 r 01 tacit 0 000 |    
+00101835 00 r 01 înlungime 0 000 |    
+00101875 00 r 03 implacabil 0 neîndurător 0 inexorabil 0 000 |    
+00101944 00 r 01 osmotic 0 000 |    
+00101981 00 r 04 exact 0 precis 0 corect 0 bine 0 000 |    
+00102041 00 r 02 ocazional 0 sporadic 0 000 |    
+00102091 00 r 01 înainte 0 000 |    
+00102129 00 r 02 caustic 0 vitriolant 0 000 |    
+00102179 00 r 02 astăzi 0 azi 0 000 |    
+00102222 00 r 04 etc. 0 șamd 0 etcetera 0 șiașamaideparte 0 000 |    
+00102295 00 r 01 învârf 0 000 |    
+00102333 00 r 02 înainte 0 înfață 0 000 |    
+00102383 00 r 01 solid 0 000 |    
+00102418 00 r 01 pictural 0 000 |    
+00102456 00 r 01 moale 0 000 |    
+00102491 00 r 01 spiritual 0 000 |    
+00102530 00 r 02 bosumflat 0 îmbufnat 0 000 |    
+00102581 00 r 01 algebric 0 000 |    
+00102619 00 r 01 prindelegat 0 000 |    
+00102660 00 r 02 pepersoană 0 depersoană 0 000 |    
+00102715 00 r 01 cuindulgență 0 000 |    
+00102759 00 r 01 digitat 0 000 |    
+00102796 00 r 04 mașinalicește 0 mecanic 0 mașinal 0 automat 0 000 |    
+00102872 00 r 01 nesigur 0 000 |    
+00102909 00 r 02 esențial 0 fundamental 0 000 |    
+00102962 00 r 01 suplimentar 0 000 |    
+00103003 00 r 01 nonstop 0 000 |    
+00103040 00 r 01 cupretenții 0 000 |    
+00103082 00 r 01 comercial 0 000 |    
+00103121 00 r 01 prinsurprindere 0 000 |    
+00103166 00 r 01 cuardoare 0 000 |    
+00103205 00 r 01 psihologic 0 000 |    
+00103245 00 r 01 idiot 0 000 |    
+00103280 00 r 01 neajutorat 0 000 |    
+00103320 00 r 02 nepredictibil 0 impredictibil 0 000 |    
+00103379 00 r 01 neregulat 0 000 |    
+00103418 00 r 02 curios 0 ciudat 0 000 |    
+00103463 00 r 02 alandala 0 aiurea 0 000 |    
+00103510 00 r 01 dramatic 0 000 |    
+00103548 00 r 01 crud 0 000 |    
+00103582 00 r 01 lunădelună 0 000 |    
+00103624 00 r 02 efectiv 0 defapt 0 000 |    
+00103670 00 r 01 tematic 0 000 |    
+00103707 00 r 01 greu 0 000 |    
+00103741 00 r 01 blând 0 000 |    
+00103777 00 r 02 neclar 0 confuz 0 000 |    
+00103822 00 r 03 umed 0 ud 0 umezit 0 000 |    
+00103870 00 r 01 dinoficiu 0 000 |    
+00103909 00 r 01 cutoatăforța 0 000 |    
+00103953 00 r 01 naiv 0 000 |    
+00103987 00 r 02 nicicum 0 nicidecum 0 000 |    
+00104036 00 r 01 gratuit 0 000 |    
+00104073 00 r 01 deopotrivă 0 000 |    
+00104114 00 r 01 derăuaugur 0 000 |    
+00104155 00 r 01 sintactic 0 000 |    
+00104194 00 r 03 surprinzătorde 0 uimitorde 0 neașteptatde 0 000 |    
+00104267 00 r 02 nepăsător 0 cusângerece 0 000 |    
+00104323 00 r 01 electrostatic 0 000 |    
+00104366 00 r 01 tranzitoriu 0 000 |    
+00104407 00 r 02 fatalmente 0 inevitabil 0 000 |    
+00104460 00 r 01 singular 0 000 |    
+00104498 00 r 01 summacumlaude 0 000 |    
+00104541 00 r 02 neînsoțit 0 singur 0 000 |    
+00104591 00 r 02 implorator 0 rugător 0 000 |    
+00104642 00 r 01 umărlaumăr 0 000 |    
+00104684 00 r 01 mai 0 000 |    
+00104717 00 r 01 sincron 0 000 |    
+00104754 00 r 02 invers 0 cufundulînsus 0 000 |    
+00104807 00 r 02 întrebător 0 interogativ 0 000 |    
+00104863 00 r 01 exploziv 0 000 |    
+00104901 00 r 01 înțepător 0 000 |    
+00104943 00 r 01 termic 0 000 |    
+00104979 00 r 01 tremurător 0 000 |    
+00105020 00 r 01 celmaiînțelept 0 000 |    
+00105066 00 r 01 intrinsec 0 000 |    
+00105105 00 r 01 contradictoriu 0 000 |    
+00105149 00 r 02 ușor 0 încetișor 0 000 |    
+00105198 00 r 01 extraordinar 0 000 |    
+00105240 00 r 01 disturbator 0 000 |    
+00105281 00 r 02 centimetrucucentimetru 0 puțincâtepuțin 0 000 |    
+00105353 00 r 01 aparent 0 000 |    
+00105390 00 r 01 latravers 0 000 |    
+00105429 00 r 01 providențial 0 000 |    
+00105472 00 r 01 simpatic 0 000 |    
+00105510 00 r 01 greoi 0 000 |    
+00105545 00 r 01 provincial 0 000 |    
+00105585 00 r 01 viguros 0 000 |    
+00105622 00 r 01 didactic 0 000 |    
+00105660 00 r 01 punitiv 0 000 |    
+00105697 00 r 02 credincios 0 fidel 0 000 |    
+00105745 00 r 01 anisotopic 0 000 |    
+00105785 00 r 01 neurobiologic 0 000 |    
+00105828 00 r 01 filosofic 0 000 |    
+00105867 00 r 01 domestic 0 000 |    
+00105905 00 r 02 înfiorător 0 îngrozitor 0 000 |    
+00105961 00 r 02 necinstit 0 oneros 0 000 |    
+00106009 00 r 01 zelos 0 000 |    
+00106044 00 r 01 maideparte 0 000 |    
+00106084 00 r 01 impersonal 0 000 |    
+00106124 00 r 02 plussauminus 0 plusminus 0 000 |    
+00106178 00 r 02 zdrențăros 0 ponosit 0 000 |    
+00106230 00 r 02 mult 0 intens 0 000 |    
+00106273 00 r 01 scandalos 0 000 |    
+00106312 00 r 01 afectat 0 000 |    
+00106349 00 r 01 spontan 0 000 |    
+00106386 00 r 01 arțăgos 0 000 |    
+00106425 00 r 01 incredibil 0 000 |    
+00106465 00 r 01 razna 0 000 |    
+00106500 00 r 01 cuputere 0 000 |    
+00106538 00 r 01 glaciar 0 000 |    
+00106575 00 r 01 ierarhic 0 000 |    
+00106613 00 r 02 înapoi 0 îndărăt 0 000 |    
+00106663 00 r 01 cugreu 0 000 |    
+00106699 00 r 01 continuu 0 000 |    
+00106737 00 r 01 vacant 0 000 |    
+00106773 00 r 01 înmodsubliniat 0 000 |    
+00106818 00 r 01 autentic 0 000 |    
+00106856 00 r 01 trist 0 000 |    
+00106891 00 r 01 latimpulpotrivit 0 000 |    
+00106937 00 r 02 învolburat 0 învârtejit 0 000 |    
+00106993 00 r 01 voluptuos 0 000 |    
+00107032 00 r 01 adânc 0 000 |    
+00107068 00 r 01 încețoșat 0 000 |    
+00107110 00 r 01 istoric 0 000 |    
+00107147 00 r 01 proaspăt 0 000 |    
+00107186 00 r 01 piciorpestepicior 0 000 |    
+00107233 00 r 01 întunecos 0 000 |    
+00107273 00 r 01 cromatografic 0 000 |    
+00107316 00 r 01 bilateral 0 000 |    
+00107355 00 r 01 șiceva 0 000 |    
+00107392 00 r 01 neregulat 0 000 |    
+00107431 00 r 01 fălos 0 000 |    
+00107467 00 r 01 folositor 0 000 |    
+00107506 00 r 03 prinurmare 0 deci 0 caatare 0 000 |    
+00107563 00 r 01 laolungimedebraț 0 000 |    
+00107610 00 r 01 intelectual 0 000 |    
+00107651 00 r 01 distinctiv 0 000 |    
+00107691 00 r 01 peplatformă 0 000 |    
+00107733 00 r 01 spreest 0 000 |    
+00107770 00 r 01 cutoane 0 000 |    
+00107807 00 r 01 științific 0 000 |    
+00107849 00 r 01 frumos 0 000 |    
+00107885 00 r 02 categoric 0 fărădreptdeapel 0 000 |    
+00107944 00 r 01 capricios 0 000 |    
+00107983 00 r 01 maternal 0 000 |    
+00108021 00 r 02 calm 0 sedat 0 000 |    
+00108063 00 r 01 extraordinarde 0 000 |    
+00108107 00 r 02 lejer 0 lax 0 000 |    
+00108148 00 r 01 irevocabil 0 000 |    
+00108188 00 r 02 mefient 0 suspicios 0 000 |    
+00108237 00 r 02 pânăși 0 chiarși 0 000 |    
+00108287 00 r 01 mizerabil 0 000 |    
+00108326 00 r 02 deacumîncolo 0 deacumînainte 0 000 |    
+00108386 00 r 01 materialist 0 000 |    
+00108427 00 r 04 denetăgăduit 0 indeniabil 0 indenegabil 0 incontestabil 0 000 |    
+00108514 00 r 01 înurmă 0 000 |    
+00108552 00 r 02 până 0 chiar 0 000 |    
+00108596 00 r 01 între 0 000 |    
+00108632 00 r 01 ultimadată 0 000 |    
+00108673 00 r 02 groaznic 0 îngrozitor 0 000 |    
+00108725 00 r 01 mătăsos 0 000 |    
+00108764 00 r 02 virulent 0 violent 0 000 |    
+00108812 00 r 01 oblic 0 000 |    
+00108847 00 r 02 tare 0 foarte 0 000 |    
+00108890 00 r 01 nerăbdător 0 000 |    
+00108932 00 r 01 difuz 0 000 |    
+00108967 00 r 01 deșaseori 0 000 |    
+00109007 00 r 01 elevat 0 000 |    
+00109043 00 r 01 calculat 0 000 |    
+00109081 00 r 01 pezi 0 000 |    
+00109115 00 r 01 temporal 0 000 |    
+00109153 00 r 01 abrupt 0 000 |    
+00109189 00 r 01 armonic 0 000 |    
+00109226 00 r 02 fonemic 0 fonematic 0 000 |    
+00109275 00 r 01 larg 0 000 |    
+00109309 00 r 01 tânjitor 0 000 |    
+00109348 00 r 01 econom 0 000 |    
+00109384 00 r 01 maibine 0 000 |    
+00109421 00 r 01 persistent 0 000 |    
+00109461 00 r 01 metabolic 0 000 |    
+00109500 00 r 01 analitic 0 000 |    
+00109538 00 r 01 strâns 0 000 |    
+00109575 00 r 01 oricum 0 000 |    
+00109611 00 r 01 înainte 0 000 |    
+00109649 00 r 03 cuforță 0 puternic 0 cuputere 0 000 |    
+00109710 00 r 02 jignitor 0 insultător 0 000 |    
+00109762 00 r 01 tehnic 0 000 |    
+00109798 00 r 01 foartebine 0 000 |    
+00109838 00 r 02 urmă 0 târziu 0 000 |    
+00109883 00 r 01 cuacuratețe 0 000 |    
+00109925 00 r 01 contemporan 0 000 |    
+00109966 00 r 01 țipător 0 000 |    
+00110005 00 r 01 polifonic 0 000 |    
+00110044 00 r 05 pizmaș 0 pizmuitor 0 cuinvidie 0 cupizmă 0 invidios 0 000 |    
+00110127 00 r 01 celmaideparte 0 000 |    
+00110170 00 r 03 îngrup 0 înmasă 0 înbloc 0 000 |    
+00110228 00 r 02 înfond 0 înesență 0 000 |    
+00110279 00 r 01 separat 0 000 |    
+00110316 00 r 01 scrupulos 0 000 |    
+00110355 00 r 01 sprevest 0 000 |    
+00110393 00 r 02 hebdomadar 0 săptămânal 0 000 |    
+00110449 00 r 02 nerușinat 0 cunerușinare 0 000 |    
+00110505 00 r 01 bogat 0 000 |    
+00110540 00 r 01 tragic 0 000 |    
+00110576 00 r 02 ușor 0 puțin 0 000 |    
+00110620 00 r 01 lapândă 0 000 |    
+00110659 00 r 01 pânălaunul 0 000 |    
+00110701 00 r 01 bine 0 000 |    
+00110735 00 r 01 măiestru 0 000 |    
+00110774 00 r 01 complex 0 000 |    
+00110811 00 r 01 cuvivacitate 0 000 |    
+00110853 00 r 02 insipid 0 șters 0 000 |    
+00110899 00 r 01 integral 0 000 |    
+00110937 00 r 01 obscen 0 000 |    
+00110973 00 r 01 onctuos 0 000 |    
+00111010 00 r 02 vorbăreț 0 volubil 0 000 |    
+00111060 00 r 02 atonic 0 aton 0 000 |    
+00111103 00 r 01 tehnologic 0 000 |    
+00111143 00 r 01 birocratic 0 000 |    
+00111183 00 r 01 larg 0 000 |    
+00111217 00 r 01 ornat 0 000 |    
+00111252 00 r 01 spasmodic 0 000 |    
+00111291 00 r 01 zelos 0 000 |    
+00111326 00 r 01 provincial 0 000 |    
+00111366 00 r 01 invers 0 000 |    
+00111402 00 r 01 lexical 0 000 |    
+00111439 00 r 01 arțăgos 0 000 |    
+00111478 00 r 01 barbar 0 000 |    
+00111514 00 r 01 spresud-vest 0 000 |    
+00111556 00 r 02 transcendent 0 metafizic 0 000 |    
+00111610 00 r 01 flegmatic 0 000 |    
+00111649 00 r 01 fermecător 0 000 |    
+00111690 00 r 02 înflorit 0 înflorat 0 000 |    
+00111741 00 r 02 oblic 0 înclinat 0 000 |    
+00111788 00 r 01 cuvântînpupă 0 000 |    
+00111833 00 r 01 jos 0 000 |    
+00111866 00 r 01 sonor 0 000 |    
+00111901 00 r 01 destul 0 000 |    
+00111937 00 r 01 mânăînmână 0 000 |    
+00111982 00 r 01 întâi 0 000 |    
+00112019 00 r 01 departe 0 000 |    
+00112056 00 r 01 chimic 0 000 |    
+00112092 00 r 01 pefață 0 000 |    
+00112130 00 r 01 mundan 0 000 |    
+00112166 00 r 02 curat 0 dibaci 0 000 |    
+00112210 00 r 01 laînceput 0 000 |    
+00112250 00 r 01 rău 0 000 |    
+00112284 00 r 01 natural 0 000 |    
+00112321 00 r 02 bestial 0 feroce 0 000 |    
+00112367 00 r 01 sinedie 0 000 |    
+00112404 00 r 01 apatic 0 000 |    
+00112440 00 r 02 maijos 0 maipuțin 0 000 |    
+00112488 00 r 02 celmaidegrabă 0 celmaidevreme 0 000 |    
+00112548 00 r 01 citofotometric 0 000 |    
+00112592 00 r 01 haotic 0 000 |    
+00112628 00 r 02 cusete 0 setos 0 000 |    
+00112672 00 r 02 însilă 0 fărătrageredeinimă 0 000 |    
+00112734 00 r 01 fascinant 0 000 |    
+00112773 00 r 01 arțăgos 0 000 |    
+00112812 00 r 01 înpace 0 000 |    
+00112849 00 r 01 obsecvios 0 000 |    
+00112888 00 r 02 până-ngât 0 dinplin 0 000 |    
+00112940 00 r 01 neîndurător 0 000 |    
+00112983 00 r 02 ascuțit 0 strident 0 000 |    
+00113032 00 r 01 migălos 0 000 |    
+00113070 00 r 05 dezbrăcat 0 gol 0 nud 0 neîmbrăcat 0 despuiat 0 000 |    
+00113148 00 r 02 provocator 0 ostentativ 0 000 |    
+00113201 00 r 02 tocmai 0 abia 0 000 |    
+00113244 00 r 01 băiețește 0 000 |    
+00113286 00 r 04 înverșunat 0 crunt 0 aprig 0 feroce 0 000 |    
+00113353 00 r 01 pestebord 0 000 |    
+00113392 00 r 01 prost 0 000 |    
+00113427 00 r 03 curios 0 ciudat 0 bizar 0 000 |    
+00113480 00 r 01 săptămânădesăptămână 0 000 |    
+00113538 00 r 01 îngeneral 0 000 |    
+00113578 00 r 01 unulcâteunul 0 000 |    
+00113621 00 r 02 încordat 0 concentrat 0 000 |    
+00113673 00 r 01 teritorial 0 000 |    
+00113713 00 r 01 cotlacot 0 000 |    
+00113751 00 r 01 material 0 000 |    
+00113789 00 r 02 însusșiînjos 0 încoaceșiîncolo 0 000 |    
+00113855 00 r 01 înspateleușilor 0 000 |    
+00113902 00 r 02 grav 0 serios 0 000 |    
+00113945 00 r 01 focal 0 000 |    
+00113980 00 r 02 sprețărm 0 însprețărm 0 000 |    
+00114036 00 r 01 cafiruldepăr 0 000 |    
+00114079 00 r 01 maideparte 0 000 |    
+00114119 00 r 02 incriminator 0 incriminant 0 000 |    
+00114175 00 r 01 ușor 0 000 |    
+00114210 00 r 01 punctual 0 000 |    
+00114248 00 r 01 asimptotic 0 000 |    
+00114288 00 r 02 cuprudență 0 prudent 0 000 |    
+00114340 00 r 01 cumulativ 0 000 |    
+00114379 00 r 01 furios 0 000 |    
+00114415 00 r 01 departe 0 000 |    
+00114452 00 r 03 moderat 0 intermediar 0 mediu 0 000 |    
+00114511 00 r 02 liniștit 0 domol 0 000 |    
+00114558 00 r 01 direct 0 000 |    
+00114594 00 r 01 arțăgos 0 000 |    
+00114633 00 r 03 criticabil 0 blamabil 0 condamnabil 0 000 |    
+00114698 00 r 01 ignorant 0 000 |    
+00114736 00 r 01 peste 0 000 |    
+00114771 00 r 02 catastrofal 0 catastrofic 0 000 |    
+00114826 00 r 02 grozav 0 strașnic 0 000 |    
+00114874 00 r 04 defel 0 nicicum 0 deloc 0 nicidecum 0 000 |    
+00114939 00 r 03 casăspunașa 0 cumsespune 0 casăzicașa 0 000 |    
+00115010 00 r 01 distinctiv 0 000 |    
+00115050 00 r 01 emulativ 0 000 |    
+00115088 00 r 01 liber 0 000 |    
+00115123 00 r 01 adânc 0 000 |    
+00115159 00 r 02 expert 0 cunoscător 0 000 |    
+00115209 00 r 01 strâns 0 000 |    
+00115246 00 r 02 timid 0 sfiicios 0 000 |    
+00115292 00 r 01 neglijent 0 000 |    
+00115331 00 r 01 zi 0 000 |    
+00115363 00 r 02 îngrozitorde 0 groaznicde 0 000 |    
+00115419 00 r 01 proporțional 0 000 |    
+00115462 00 r 01 eufemistic 0 000 |    
+00115502 00 r 01 pictural 0 000 |    
+00115540 00 r 01 cuură 0 000 |    
+00115576 00 r 01 întimp 0 000 |    
+00115613 00 r 01 pozitiv 0 000 |    
+00115650 00 r 01 ordonat 0 000 |    
+00115687 00 r 01 mânăînmână 0 000 |    
+00115732 00 r 01 adlibitum 0 000 |    
+00115771 00 r 02 caraghios 0 ridicol 0 000 |    
+00115820 00 r 03 spastic 0 convulsiv 0 spasmodic 0 000 |    
+00115881 00 r 02 formal 0 oficial 0 000 |    
+00115927 00 r 02 schimb 0 loc 0 000 |    
+00115969 00 r 01 mare 0 000 |    
+00116003 00 r 01 criptografic 0 000 |    
+00116045 00 r 01 întunecos 0 000 |    
+00116085 00 r 01 încoloșiîncoace 0 000 |    
+00116133 00 r 01 strategic 0 000 |    
+00116172 00 r 02 stângaci 0 neîndemânatic 0 000 |    
+00116229 00 r 01 totuși 0 000 |    
+00116266 00 r 01 dedesubt 0 000 |    
+00116304 00 r 01 sumbru 0 000 |    
+00116340 00 r 02 adevăr 0 chiar 0 000 |    
+00116385 00 r 01 maiestuos 0 000 |    
+00116424 00 r 04 altcum 0 altcumva 0 altminteri 0 altfel 0 000 |    
+00116493 00 r 02 cuușurință 0 nechibzuit 0 000 |    
+00116549 00 r 01 insidios 0 000 |    
+00116587 00 r 01 chirurgical 0 000 |    
+00116628 00 r 01 acum 0 000 |    
+00116662 00 r 01 turbulent 0 000 |    
+00116701 00 r 02 înfinal 0 înîncheiere 0 000 |    
+00116755 00 r 01 criminal 0 000 |    
+00116793 00 r 01 evident 0 000 |    
+00116830 00 r 01 logogramatical 0 000 |    
+00116874 00 r 01 vulnerabil 0 000 |    
+00116914 00 r 01 fărăpretenții 0 000 |    
+00116960 00 r 01 riscant 0 000 |    
+00116997 00 r 01 bilunar 0 000 |    
+00117034 00 r 01 suav 0 000 |    
+00117068 00 r 02 înlinie 0 încoadă 0 000 |    
+00117118 00 r 01 vorace 0 000 |    
+00117154 00 r 01 mintal 0 000 |    
+00117190 00 r 02 brusc 0 spontan 0 000 |    
+00117235 00 r 01 surprinzător 0 000 |    
+00117278 00 r 01 postum 0 000 |    
+00117314 00 r 01 năuc 0 000 |    
+00117349 00 r 01 religios 0 000 |    
+00117387 00 r 01 întrutotul 0 000 |    
+00117428 00 r 02 agitat 0 neliniștit 0 000 |    
+00117478 00 r 01 incorect 0 000 |    
+00117516 00 r 01 fărămenajamente 0 000 |    
+00117563 00 r 01 metonimic 0 000 |    
+00117602 00 r 03 voios 0 vesel 0 vioi 0 000 |    
+00117652 00 r 01 burlesc 0 000 |    
+00117689 00 r 01 ieri 0 000 |    
+00117723 00 r 01 silabic 0 000 |    
+00117760 00 r 01 protectiv 0 000 |    
+00117799 00 r 02 dinpunctdevederefizic 0 fizic 0 000 |    
+00117858 00 r 01 plastic 0 000 |    
+00117895 00 r 01 inept 0 000 |    
+00117930 00 r 02 bosumflat 0 îmbufnat 0 000 |    
+00117981 00 r 01 tremurat 0 000 |    
+00118019 00 r 01 erotic 0 000 |    
+00118055 00 r 01 perfid 0 000 |    
+00118091 00 r 01 fațăînfață 0 000 |    
+00118136 00 r 01 fotografic 0 000 |    
+00118176 00 r 01 dinfericire 0 000 |    
+00118217 00 r 01 ecologic 0 000 |    
+00118255 00 r 01 alăturat 0 000 |    
+00118294 00 r 01 matur 0 000 |    
+00118329 00 r 02 chiondorâș 0 chiorâș 0 000 |    
+00118383 00 r 01 militar 0 000 |    
+00118420 00 r 02 mustrător 0 dojenitor 0 000 |    
+00118472 00 r 02 deomiedeori 0 demiideori 0 000 |    
+00118526 00 r 01 postoperator 0 000 |    
+00118568 00 r 01 curajos 0 000 |    
+00118605 00 r 01 compulsiv 0 000 |    
+00118644 00 r 01 ineficace 0 000 |    
+00118683 00 r 01 cutotul 0 000 |    
+00118720 00 r 01 înmodnormal 0 000 |    
+00118762 00 r 02 înapoi 0 îndărăt 0 000 |    
+00118812 00 r 01 slab 0 000 |    
+00118846 00 r 02 fărăviață 0 fărăsuflare 0 000 |    
+00118905 00 r 01 cuplăcere 0 000 |    
+00118945 00 r 01 vulgar 0 000 |    
+00118981 00 r 01 restrictiv 0 000 |    
+00119021 00 r 02 leoarcă 0 ciuciulete 0 000 |    
+00119072 00 r 01 pur 0 000 |    
+00119105 00 r 01 afară 0 000 |    
+00119141 00 r 02 bombastic 0 grandios 0 000 |    
+00119191 00 r 03 distrat 0 neatent 0 absent 0 000 |    
+00119247 00 r 01 devotat 0 000 |    
+00119284 00 r 03 dezbrăcat 0 gol 0 nud 0 000 |    
+00119336 00 r 01 noapte 0 000 |    
+00119372 00 r 01 umil 0 000 |    
+00119406 00 r 02 scrutător 0 observator 0 000 |    
+00119459 00 r 01 deoparte 0 000 |    
+00119497 00 r 01 maideparte 0 000 |    
+00119537 00 r 01 orices-arîntâmpla 0 000 |    
+00119586 00 r 01 popular 0 000 |    
+00119623 00 r 01 nocturn 0 000 |    
+00119660 00 r 02 direct 0 pieptiș 0 000 |    
+00119707 00 r 01 inaccesibil 0 000 |    
+00119748 00 r 01 lucid 0 000 |    
+00119783 00 r 01 afectuos 0 000 |    
+00119821 00 r 01 țipător 0 000 |    
+00119860 00 r 01 stânjenit 0 000 |    
+00119900 00 r 01 maniacal 0 000 |    
+00119938 00 r 01 orbitor 0 000 |    
+00119975 00 r 01 iminent 0 000 |    
+00120012 00 r 02 excesiv 0 exagerat 0 000 |    
+00120060 00 r 03 negreșit 0 fărăîndoială 0 fărădoarșipoate 0 000 |    
+00120139 00 r 02 insuficient 0 sărac 0 000 |    
+00120189 00 r 01 târziu 0 000 |    
+00120226 00 r 01 omogen 0 000 |    
+00120262 00 r 01 demodat 0 000 |    
+00120299 00 r 02 vâscos 0 cleios 0 000 |    
+00120345 00 r 01 pestemări 0 000 |    
+00120385 00 r 01 deprimant 0 000 |    
+00120424 00 r 01 întrucâtva 0 000 |    
+00120466 00 r 01 întăcere 0 000 |    
+00120506 00 r 01 potrivit 0 000 |    
+00120544 00 r 01 contextual 0 000 |    
+00120584 00 r 01 generic 0 000 |    
+00120621 00 r 01 probabil 0 000 |    
+00120659 00 r 01 nesincer 0 000 |    
+00120697 00 r 01 respectabil 0 000 |    
+00120738 00 r 01 bineînțeles 0 000 |    
+00120781 00 r 01 triumfător 0 000 |    
+00120822 00 r 01 tactic 0 000 |    
+00120858 00 r 01 nord-nord-est 0 000 |    
+00120901 00 r 01 deschis 0 000 |    
+00120938 00 r 01 indiferent 0 000 |    
+00120978 00 r 01 cantitativ 0 000 |    
+00121018 00 r 04 rapid 0 sumar 0 fugitiv 0 superficial 0 000 |    
+00121085 00 r 02 continuu 0 încontinuu 0 000 |    
+00121137 00 r 02 deasemenea 0 lafel 0 000 |    
+00121185 00 r 01 inept 0 000 |    
+00121220 00 r 03 astăzi 0 azi 0 zi 0 000 |    
+00121268 00 r 01 lațanc 0 000 |    
+00121305 00 r 01 înacestecondiții 0 000 |    
+00121353 00 r 02 dinprostie 0 dingreșeală 0 000 |    
+00121409 00 r 03 rapid 0 iute 0 repede 0 000 |    
+00121460 00 r 01 pefuriș 0 000 |    
+00121498 00 r 01 delirant 0 000 |    
+00121536 00 r 01 inutero 0 000 |    
+00121573 00 r 01 înliniedreaptă 0 000 |    
+00121619 00 r 03 agitat 0 neastâmpărat 0 neascultător 0 000 |    
+00121688 00 r 03 jalnic 0 mizerabil 0 nenorocit 0 000 |    
+00121748 00 r 01 drept 0 000 |    
+00121783 00 r 01 ireproșabil 0 000 |    
+00121825 00 r 01 înainte 0 000 |    
+00121863 00 r 03 excelent 0 magnific 0 splendid 0 000 |    
+00121923 00 r 01 nemeritat 0 000 |    
+00121962 00 r 01 bătătorlaochi 0 000 |    
+00122007 00 r 01 deobicei 0 000 |    
+00122045 00 r 01 prozaic 0 000 |    
+00122082 00 r 01 avid 0 000 |    
+00122116 00 r 02 misterios 0 criptic 0 000 |    
+00122165 00 r 01 bombastic 0 000 |    
+00122204 00 r 02 cubrațeledeschise 0 cutoatăinima 0 000 |    
+00122268 00 r 01 repetitiv 0 000 |    
+00122307 00 r 02 impetuos 0 impulsiv 0 000 |    
+00122356 00 r 03 degeaba 0 gratuit 0 gratis 0 000 |    
+00122412 00 r 01 celmairău 0 000 |    
+00122452 00 r 01 parohial 0 000 |    
+00122490 00 r 01 milos 0 000 |    
+00122525 00 r 01 estetic 0 000 |    
+00122562 00 r 01 artistic 0 000 |    
+00122600 00 r 03 diabolic 0 drăcesc 0 diavolesc 0 000 |    
+00122661 00 r 03 pehârtie 0 teoretic 0 înteorie 0 000 |    
+00122723 00 r 02 împreună 0 laolaltă 0 000 |    
+00122775 00 r 01 semnificativ 0 000 |    
+00122817 00 r 01 caundandi 0 000 |    
+00122856 00 r 01 drastic 0 000 |    
+00122893 00 r 01 frontal 0 000 |    
+00122930 00 r 01 hiperbolic 0 000 |    
+00122970 00 r 01 țărănește 0 000 |    
+00123013 00 r 02 bucăți 0 înbucăți 0 000 |    
+00123065 00 r 01 elegant 0 000 |    
+00123102 00 r 01 fabulos 0 000 |    
+00123139 00 r 01 transversal 0 000 |    
+00123180 00 r 02 antrenant 0 distractiv 0 000 |    
+00123232 00 r 01 departe 0 000 |    
+00123269 00 r 01 invivo 0 000 |    
+00123305 00 r 01 statutar 0 000 |    
+00123343 00 r 01 însus 0 000 |    
+00123379 00 r 01 ascultător 0 000 |    
+00123420 00 r 01 matrilinear 0 000 |    
+00123461 00 r 01 înaltăparte 0 000 |    
+00123504 00 r 01 extrem 0 000 |    
+00123540 00 r 02 înapoi 0 îndărăt 0 000 |    
+00123590 00 r 01 coral 0 000 |    
+00123625 00 r 01 amar 0 000 |    
+00123659 00 r 01 conjugal 0 000 |    
+00123697 00 r 01 batjocoritor 0 000 |    
+00123739 00 r 01 șovăielnic 0 000 |    
+00123781 00 r 01 injurios 0 000 |    
+00123819 00 r 01 anterior 0 000 |    
+00123857 00 r 02 cuvitejie 0 viteaz 0 000 |    
+00123905 00 r 01 demonstrabil 0 000 |    
+00123947 00 r 01 deobicei 0 000 |    
+00123985 00 r 01 descriptiv 0 000 |    
+00124025 00 r 02 fărățintă 0 fărăscop 0 000 |    
+00124081 00 r 01 nasînnas 0 000 |    
+00124120 00 r 01 cinic 0 000 |    
+00124155 00 r 01 neoficial 0 000 |    
+00124194 00 r 01 pedant 0 000 |    
+00124230 00 r 01 maiîncet 0 000 |    
+00124269 00 r 01 volumetric 0 000 |    
+00124309 00 r 01 bogat 0 000 |    
+00124344 00 r 01 nepriceput 0 000 |    
+00124384 00 r 01 grav 0 000 |    
+00124418 00 r 03 discordant 0 aspru 0 strident 0 000 |    
+00124477 00 r 01 obosit 0 000 |    
+00124513 00 r 01 rău 0 000 |    
+00124547 00 r 03 răzleț 0 izolat 0 disparat 0 000 |    
+00124605 00 r 01 abject 0 000 |    
+00124641 00 r 01 departe 0 000 |    
+00124678 00 r 01 domol 0 000 |    
+00124713 00 r 01 serios 0 000 |    
+00124749 00 r 02 îngașcă 0 îngrup 0 000 |    
+00124799 00 r 01 electronic 0 000 |    
+00124839 00 r 01 prodigios 0 000 |    
+00124878 00 r 01 lajumătatedepreț 0 000 |    
+00124926 00 r 01 grav 0 000 |    
+00124960 00 r 01 cuînsuflețire 0 000 |    
+00125005 00 r 01 tropical 0 000 |    
+00125043 00 r 02 răvășitor 0 răscolitor 0 000 |    
+00125099 00 r 01 prezentabil 0 000 |    
+00125140 00 r 01 descurajat 0 000 |    
+00125180 00 r 01 deprisos 0 000 |    
+00125218 00 r 01 fierbinte 0 000 |    
+00125257 00 r 01 uituc 0 000 |    
+00125292 00 r 01 lento 0 000 |    
+00125327 00 r 05 continuu 0 necontenit 0 neîntrerupt 0 constant 0 permanent 0 000 |    
+00125416 00 r 01 teologic 0 000 |    
+00125454 00 r 01 acru 0 000 |    
+00125488 00 r 01 magic 0 000 |    
+00125523 00 r 01 insultător 0 000 |    
+00125564 00 r 01 nici 0 000 |    
+00125598 00 r 01 abuziv 0 000 |    
+00125634 00 r 01 cenușiu 0 000 |    
+00125672 00 r 01 împleticit 0 000 |    
+00125713 00 r 01 fațăînfață 0 000 |    
+00125758 00 r 05 băț 0 rigid 0 țeapăn 0 bățos 0 drept 0 000 |    
+00125830 00 r 02 cumâhnire 0 cutristețe 0 000 |    
+00125884 00 r 01 autoevident 0 000 |    
+00125925 00 r 01 profetic 0 000 |    
+00125963 00 r 01 îndemânatic 0 000 |    
+00126006 00 r 02 uneori 0 câteodată 0 000 |    
+00126056 00 r 01 grafic 0 000 |    
+00126092 00 r 01 termostatic 0 000 |    
+00126133 00 r 01 tipografic 0 000 |    
+00126173 00 r 01 fenomenal 0 000 |    
+00126212 00 r 01 nepotrivit 0 000 |    
+00126252 00 r 01 aici 0 000 |    
+00126286 00 r 01 cuînverșunare 0 000 |    
+00126331 00 r 01 metric 0 000 |    
+00126367 00 r 01 legislativ 0 000 |    
+00126407 00 r 01 biologic 0 000 |    
+00126445 00 r 01 electric 0 000 |    
+00126483 00 r 01 sic 0 000 |    
+00126516 00 r 01 înpierdere 0 000 |    
+00126557 00 r 01 unic 0 000 |    
+00126591 00 r 01 median 0 000 |    
+00126627 00 r 01 spiritual 0 000 |    
+00126666 00 r 01 peîndelete 0 000 |    
+00126707 00 r 01 deconcertant 0 000 |    
+00126749 00 r 01 interrasial 0 000 |    
+00126790 00 r 01 probabilistic 0 000 |    
+00126833 00 r 02 sfios 0 timid 0 000 |    
+00126876 00 r 01 înpicioare 0 000 |    
+00126917 00 r 01 înfață 0 000 |    
+00126956 00 r 04 gălăgios 0 tumultuos 0 zgomotos 0 turbulent 0 000 |    
+00127031 00 r 01 artistic 0 000 |    
+00127069 00 r 01 temător 0 000 |    
+00127107 00 r 01 agitat 0 000 |    
+00127143 00 r 02 renumit 0 vestit 0 000 |    
+00127189 00 r 01 lucios 0 000 |    
+00127225 00 r 01 curăutate 0 000 |    
+00127265 00 r 01 loc 0 000 |    
+00127298 00 r 01 perceptiv 0 000 |    
+00127337 00 r 01 tihnit 0 000 |    
+00127373 00 r 01 inocent 0 000 |    
+00127410 00 r 01 peloculdoi 0 000 |    
+00127450 00 r 01 monoton 0 000 |    
+00127487 00 r 02 cuasprime 0 cuseveritate 0 000 |    
+00127541 00 r 01 îndărătnic 0 000 |    
+00127584 00 r 01 nobiliar 0 000 |    
+00127622 00 r 01 distinct 0 000 |    
+00127660 00 r 02 șialții 0 etal. 0 000 |    
+00127707 00 r 01 irezistibilde 0 000 |    
+00127750 00 r 01 laușadealături 0 000 |    
+00127796 00 r 02 sprinten 0 vioi 0 000 |    
+00127841 00 r 01 laîntâmplare 0 000 |    
+00127885 00 r 01 verbal 0 000 |    
+00127921 00 r 01 fierbinte 0 000 |    
+00127960 00 r 02 lenevos 0 leneș 0 000 |    
+00128006 00 r 01 spreest 0 000 |    
+00128043 00 r 01 maijos 0 000 |    
+00128079 00 r 03 pretutindeni 0 oriunde 0 orișiunde 0 000 |    
+00128144 00 r 01 ocazional 0 000 |    
+00128183 00 r 01 neobosit 0 000 |    
+00128221 00 r 01 până 0 000 |    
+00128257 00 r 01 teribil 0 000 |    
+00128294 00 r 03 incidental 0 accidental 0 întâmplător 0 000 |    
+00128364 00 r 02 icișicolo 0 ici-colo 0 000 |    
+00128415 00 r 01 contrastant 0 000 |    
+00128456 00 r 01 șovăielnic 0 000 |    
+00128498 00 r 02 nemișcat 0 imobil 0 000 |    
+00128546 00 r 01 creativ 0 000 |    
+00128583 00 r 01 invers 0 000 |    
+00128619 00 r 01 excepțional 0 000 |    
+00128661 00 r 01 camatunci 0 000 |    
+00128700 00 r 01 de-alungul 0 000 |    
+00128740 00 r 01 individual 0 000 |    
+00128780 00 r 01 bilateral 0 000 |    
+00128819 00 r 04 defel 0 nicicum 0 deloc 0 nicidecum 0 000 |    
+00128884 00 r 01 cupicioareleînainte 0 000 |    
+00128934 00 r 01 sud-sud-vest 0 000 |    
+00128976 00 r 01 ladiscreție 0 000 |    
+00129018 00 r 01 afurisit 0 000 |    
+00129056 00 r 01 înnemișcare 0 000 |    
+00129099 00 r 01 turnat 0 000 |    
+00129135 00 r 01 fluent 0 000 |    
+00129171 00 r 01 într-oparte 0 000 |    
+00129213 00 r 01 înurmă 0 000 |    
+00129251 00 r 01 homeostaticâ 0 000 |    
+00129294 00 r 02 să 0 pentru 0 000 |    
+00129336 00 r 02 direct 0 drept 0 000 |    
+00129380 00 r 01 vesel 0 000 |    
+00129415 00 r 02 stupid 0 absurd 0 000 |    
+00129460 00 r 01 brusc 0 000 |    
+00129495 00 r 01 optic 0 000 |    
+00129530 00 r 01 într-unfel 0 000 |    
+00129571 00 r 02 lovitdestreche 0 cuprinsdeamoc 0 000 |    
+00129631 00 r 01 perpetuu 0 000 |    
+00129669 00 r 04 distinct 0 limpede 0 clar 0 lămurit 0 000 |    
+00129735 00 r 01 exact 0 000 |    
+00129770 00 r 03 asemenea 0 lafel 0 asemănător 0 000 |    
+00129831 00 r 02 negativ 0 rău 0 000 |    
+00129875 00 r 02 mizer 0 umil 0 000 |    
+00129917 00 r 01 cumva 0 000 |    
+00129952 00 r 03 instantaneu 0 brusc 0 deodată 0 000 |    
+00130012 00 r 01 concertat 0 000 |    
+00130051 00 r 01 puternic 0 000 |    
+00130089 00 r 01 sintetic 0 000 |    
+00130127 00 r 01 organic 0 000 |    
+00130164 00 r 01 punctual 0 000 |    
+00130202 00 r 01 vrednicdedispreț 0 000 |    
+00130249 00 r 01 moale 0 000 |    
+00130284 00 r 01 imaculat 0 000 |    
+00130322 00 r 02 agresiv 0 brutal 0 000 |    
+00130368 00 r 01 identic 0 000 |    
+00130405 00 r 01 adhoc 0 000 |    
+00130440 00 r 01 invers 0 000 |    
+00130476 00 r 01 atunci 0 000 |    
+00130512 00 r 01 înurmă 0 000 |    
+00130550 00 r 01 scârțâitor 0 000 |    
+00130593 00 r 01 fărăinimă 0 000 |    
+00130635 00 r 01 greu 0 000 |    
+00130669 00 r 03 înavans 0 dinainte 0 cuanticipație 0 000 |    
+00130735 00 r 01 oneros 0 000 |    
+00130771 00 r 01 cochet 0 000 |    
+00130807 00 r 01 indiscutabil 0 000 |    
+00130849 00 r 01 enormde 0 000 |    
+00130886 00 r 01 mieros 0 000 |    
+00130922 00 r 01 înderivă 0 000 |    
+00130962 00 r 01 solid 0 000 |    
+00130997 00 r 01 atotpătrunzător 0 000 |    
+00131044 00 r 01 zdrobitor 0 000 |    
+00131083 00 r 01 topografic 0 000 |    
+00131123 00 r 02 sottovoce 0 cuvoceslabă 0 000 |    
+00131177 00 r 01 înainte 0 000 |    
+00131215 00 r 03 poate 0 pesemne 0 probabil 0 000 |    
+00131271 00 r 02 încurmezișulțării 0 de-alungulțării 0 000 |    
+00131342 00 r 02 laurmă 0 însfârșit 0 000 |    
+00131394 00 r 01 aspru 0 000 |    
+00131429 00 r 01 super 0 000 |    
+00131464 00 r 01 fărăegal 0 000 |    
+00131504 00 r 01 serial 0 000 |    
+00131540 00 r 03 spumant 0 înspumat 0 spumos 0 000 |    
+00131598 00 r 02 considerabil 0 substanțial 0 000 |    
+00131655 00 r 01 vertical 0 000 |    
+00131693 00 r 01 fărăgrijă 0 000 |    
+00131735 00 r 01 spresud-vest 0 000 |    
+00131777 00 r 01 social 0 000 |    
+00131813 00 r 01 stoic 0 000 |    
+00131848 00 r 01 cuinvidie 0 000 |    
+00131887 00 r 02 ultim 0 suprem 0 000 |    
+00131931 00 r 01 prostesc 0 000 |    
+00131969 00 r 01 însecret 0 000 |    
+00132008 00 r 01 înzbor 0 000 |    
+00132045 00 r 01 furios 0 000 |    
+00132081 00 r 01 magnacumlaude 0 000 |    
+00132124 00 r 01 încăpățânat 0 000 |    
+00132170 00 r 01 lanesfârșit 0 000 |    
+00132213 00 r 01 sâcâitor 0 000 |    
+00132253 00 r 01 frivol 0 000 |    
+00132289 00 r 01 fin 0 000 |    
+00132322 00 r 01 decât 0 000 |    
+00132358 00 r 01 pebune 0 000 |    
+00132394 00 r 02 agresiv 0 provocator 0 000 |    
+00132444 00 r 01 șarmant 0 000 |    
+00132482 00 r 01 îngrozitor 0 000 |    
+00132523 00 r 01 poruncitor 0 000 |    
+00132563 00 r 01 idilic 0 000 |    
+00132599 00 r 02 fatal 0 dezastruos 0 000 |    
+00132647 00 r 04 priceput 0 abil 0 iscusit 0 dibaci 0 000 |    
+00132711 00 r 01 lacameră 0 000 |    
+00132750 00 r 01 vulcanic 0 000 |    
+00132788 00 r 01 bine 0 000 |    
+00132822 00 r 01 parte 0 000 |    
+00132857 00 r 01 abrupt 0 000 |    
+00132893 00 r 02 peparteacealaltă 0 departeacealaltă 0 000 |    
+00132960 00 r 01 fărăgreșeală 0 000 |    
+00133006 00 r 04 defel 0 nicicum 0 deloc 0 nicidecum 0 000 |    
+00133071 00 r 05 imparțial 0 nepărtinitor 0 neparțial 0 obiectiv 0 drept 0 000 |    
+00133159 00 r 01 banal 0 000 |    
+00133194 00 r 01 alacarte 0 000 |    
+00133232 00 r 02 succesiv 0 perând 0 000 |    
+00133280 00 r 02 cuaceasta 0 totodată 0 000 |    
+00133331 00 r 01 apoi 0 000 |    
+00133365 00 r 01 plictisitor 0 000 |    
+00133406 00 r 01 caofată 0 000 |    
+00133444 00 r 01 necizelat 0 000 |    
+00133483 00 r 02 disperat 0 desperat 0 000 |    
+00133532 00 r 01 incomplet 0 000 |    
+00133571 00 r 01 absent 0 000 |    
+00133607 00 r 01 fărăbătăidecap 0 000 |    
+00133655 00 r 01 domestic 0 000 |    
+00133693 00 r 01 profesionist 0 000 |    
+00133735 00 r 01 facial 0 000 |    
+00133771 00 r 01 gelos 0 000 |    
+00133806 00 r 01 dedouăorimairepede 0 000 |    
+00133855 00 r 01 neobosit 0 000 |    
+00133893 00 r 01 lamânaadoua 0 000 |    
+00133935 00 r 01 blasfemiator 0 000 |    
+00133977 00 r 01 fărăpată 0 000 |    
+00134018 00 r 01 deacumînainte 0 000 |    
+00134062 00 r 02 așa 0 atât 0 000 |    
+00134104 00 r 02 uman 0 omenesc 0 000 |    
+00134148 00 r 01 scurt 0 000 |    
+00134183 00 r 02 doar 0 numai 0 000 |    
+00134225 00 r 02 disperat 0 desperat 0 000 |    
+00134274 00 r 02 pentrunimicînlume 0 subnicioformă 0 000 |    
+00134339 00 r 01 invariabil 0 000 |    
+00134379 00 r 01 temperat 0 000 |    
+00134417 00 r 02 important 0 însemnat 0 000 |    
+00134468 00 r 01 pânălacapăt 0 000 |    
+00134512 00 r 01 neglijent 0 000 |    
+00134551 00 r 01 spiralat 0 000 |    
+00134589 00 r 02 respectuos 0 plinderespect 0 000 |    
+00134645 00 r 01 sordid 0 000 |    
+00134681 00 r 01 industrial 0 000 |    
+00134721 00 r 01 adânc 0 000 |    
+00134757 00 r 02 câteunul 0 unulcâteunul 0 000 |    
+00134812 00 r 02 malițios 0 cumaliție 0 000 |    
+00134864 00 r 02 vizibil 0 evident 0 000 |    
+00134911 00 r 01 Dumnezeuștie 0 000 |    
+00134954 00 r 01 sărăcăcios 0 000 |    
+00134997 00 r 01 pieptiș 0 000 |    
+00135035 00 r 01 jumătate 0 000 |    
+00135074 00 r 01 înstrăinătate 0 000 |    
+00135120 00 r 01 prefăcut 0 000 |    
+00135159 00 r 01 angelic 0 000 |    
+00135196 00 r 01 slab 0 000 |    
+00135230 00 r 01 aici 0 000 |    
+00135264 00 r 01 calomnios 0 000 |    
+00135303 00 r 01 fărămotiv 0 000 |    
+00135344 00 r 02 cumănuși 0 cugrijă 0 000 |    
+00135395 00 r 01 laaceasta 0 000 |    
+00135434 00 r 02 trainic 0 durabil 0 000 |    
+00135481 00 r 01 riguros 0 000 |    
+00135518 00 r 01 cuușileînchise 0 000 |    
+00135564 00 r 01 subaceasta 0 000 |    
+00135604 00 r 01 total 0 000 |    
+00135639 00 r 01 zișinoapte 0 000 |    
+00135680 00 r 01 razna 0 000 |    
+00135715 00 r 02 odată 0 cândva 0 000 |    
+00135761 00 r 01 alarmant 0 000 |    
+00135799 00 r 02 sentimental 0 siropos 0 000 |    
+00135850 00 r 01 meteorologic 0 000 |    
+00135892 00 r 01 simbolic 0 000 |    
+00135930 00 r 01 visceral 0 000 |    
+00135968 00 r 02 respectabil 0 onorabil 0 000 |    
+00136020 00 r 01 ambiental 0 000 |    
+00136059 00 r 01 dedeparte 0 000 |    
+00136098 00 r 02 sprețărm 0 sprecoastă 0 000 |    
+00136152 00 r 01 visceral 0 000 |    
+00136190 00 r 01 nu 0 000 |    
+00136222 00 r 02 călare 0 încălecat 0 000 |    
+00136273 00 r 01 greu 0 000 |    
+00136307 00 r 02 cuadmirație 0 admirativ 0 000 |    
+00136361 00 r 01 îndrum 0 000 |    
+00136398 00 r 01 parazit 0 000 |    
+00136435 00 r 01 atâtdemult 0 000 |    
+00136476 00 r 02 furtunos 0 turbulent 0 000 |    
+00136526 00 r 02 batjocoritor 0 zeflemitor 0 000 |    
+00136581 00 r 01 launprețdenimic 0 000 |    
+00136627 00 r 02 veșnic 0 etern 0 000 |    
+00136672 00 r 01 pertinent 0 000 |    
+00136711 00 r 02 înfața 0 înainte 0 000 |    
+00136760 00 r 01 inerent 0 000 |    
+00136797 00 r 02 însecret 0 înascuns 0 000 |    
+00136848 00 r 02 amiabil 0 afabil 0 000 |    
+00136894 00 r 01 financiar 0 000 |    
+00136933 00 r 02 neîntârziat 0 prompt 0 000 |    
+00136985 00 r 01 divin 0 000 |    
+00137020 00 r 01 alandala 0 000 |    
+00137058 00 r 01 invers 0 000 |    
+00137094 00 r 02 cufebrilitate 0 febril 0 000 |    
+00137146 00 r 01 pentrumoment 0 000 |    
+00137188 00 r 01 cenușiu 0 000 |    
+00137226 00 r 01 absolut 0 000 |    
+00137263 00 r 01 intradermal 0 000 |    
+00137304 00 r 01 organic 0 000 |    
+00137341 00 r 01 livid 0 000 |    
+00137376 00 r 01 tern 0 000 |    
+00137410 00 r 01 ispititor 0 000 |    
+00137449 00 r 01 înîntrepunte 0 000 |    
+00137493 00 r 01 digital 0 000 |    
+00137530 00 r 01 variabil 0 000 |    
+00137568 00 r 01 mult 0 000 |    
+00137602 00 r 01 laperfecție 0 000 |    
+00137644 00 r 01 tranzițional 0 000 |    
+00137687 00 r 01 înspatelescenei 0 000 |    
+00137733 00 r 02 presant 0 insistent 0 000 |    
+00137782 00 r 01 orar 0 000 |    
+00137816 00 r 02 nerespectuos 0 ireverențios 0 000 |    
+00137874 00 r 03 împreună 0 laolaltă 0 dimpreună 0 000 |    
+00137939 00 r 01 mușcător 0 000 |    
+00137979 00 r 01 împreună 0 000 |    
+00138019 00 r 01 deprostgust 0 000 |    
+00138060 00 r 01 pieziș 0 000 |    
+00138097 00 r 02 revoltător 0 dezgustător 0 000 |    
+00138153 00 r 01 într-oparte 0 000 |    
+00138195 00 r 01 academic 0 000 |    
+00138233 00 r 01 gâfâit 0 000 |    
+00138271 00 r 02 întâiul 0 primul 0 000 |    
+00138319 00 r 01 sprecasă 0 000 |    
+00138358 00 r 01 lasciv 0 000 |    
+00138394 00 r 02 tânguitor 0 tânguios 0 000 |    
+00138446 00 r 02 deschis 0 sincer 0 000 |    
+00138492 00 r 01 cudesăvârșire 0 000 |    
+00138538 00 r 01 regional 0 000 |    
+00138576 00 r 01 îndificultate 0 000 |    
+00138620 00 r 01 puțincâtepuțin 0 000 |    
+00138667 00 r 01 grafic 0 000 |    
+00138703 00 r 01 țâfnos 0 000 |    
+00138741 00 r 02 impertinent 0 nerușinat 0 000 |    
+00138795 00 r 01 însiguranță 0 000 |    
+00138839 00 r 01 demoarte 0 000 |    
+00138877 00 r 01 razna 0 000 |    
+00138912 00 r 01 scolastic 0 000 |    
+00138951 00 r 01 curios 0 000 |    
+00138987 00 r 01 vaivai 0 000 |    
+00139023 00 r 02 spreexemplu 0 deexemplu 0 000 |    
+00139076 00 r 02 fărăsuflet 0 fărăscrupule 0 000 |    
+00139135 00 r 01 supus 0 000 |    
+00139170 00 r 01 blând 0 000 |    
+00139206 00 r 01 incontrolabil 0 000 |    
+00139249 00 r 01 carnal 0 000 |    
+00139285 00 r 01 deneatins 0 000 |    
+00139324 00 r 01 pepiciorînalt 0 000 |    
+00139368 00 r 02 cutoateacestea 0 totuși 0 000 |    
+00139422 00 r 01 sfios 0 000 |    
+00139457 00 r 02 cuatenție 0 atent 0 000 |    
+00139505 00 r 01 fals 0 000 |    
+00139539 00 r 01 intransigent 0 000 |    
+00139581 00 r 02 îngâmfat 0 infatuat 0 000 |    
+00139632 00 r 01 nebulos 0 000 |    
+00139669 00 r 01 înainte 0 000 |    
+00139707 00 r 01 într-oparte 0 000 |    
+00139749 00 r 03 așa 0 exact 0 întocmai 0 000 |    
+00139803 00 r 02 izbitor 0 frapant 0 000 |    
+00139850 00 r 01 altfelspus 0 000 |    
+00139890 00 r 01 rușinos 0 000 |    
+00139928 00 r 01 fățiș 0 000 |    
+00139966 00 r 02 aranjat 0 ordonat 0 000 |    
+00140013 00 r 01 opus 0 000 |    
+00140047 00 r 01 pelângă 0 000 |    
+00140086 00 r 01 contraintuitiv 0 000 |    
+00140130 00 r 01 trimestrial 0 000 |    
+00140171 00 r 01 cunumele 0 000 |    
+00140209 00 r 02 nicicând 0 niciodată 0 000 |    
+00140261 00 r 01 sprespațiu 0 000 |    
+00140302 00 r 01 cuîncântare 0 000 |    
+00140345 00 r 01 terminal 0 000 |    
+00140383 00 r 02 înînalturi 0 înînalt 0 000 |    
+00140437 00 r 02 hotărât 0 cuhotărâre 0 000 |    
+00140491 00 r 01 înmaremăsură 0 000 |    
+00140536 00 r 01 dubios 0 000 |    
+00140572 00 r 01 polisilabic 0 000 |    
+00140613 00 r 01 încă 0 000 |    
+00140649 00 r 01 reproductibil 0 000 |    
+00140692 00 r 01 speculativ 0 000 |    
+00140732 00 r 03 scârbit 0 dezgustat 0 îngrețoșat 0 000 |    
+00140798 00 r 01 liniștit 0 000 |    
+00140837 00 r 02 bestial 0 feroce 0 000 |    
+00140883 00 r 01 atunci 0 000 |    
+00140919 00 r 01 luxuriant 0 000 |    
+00140958 00 r 01 spațios 0 000 |    
+00140996 00 r 01 pervers 0 000 |    
+00141033 00 r 01 sceptic 0 000 |    
+00141070 00 r 01 sexual 0 000 |    
+00141106 00 r 01 prepozițional 0 000 |    
+00141150 00 r 03 ales 0 special 0 îndeosebi 0 000 |    
+00141207 00 r 01 rural 0 000 |    
+00141242 00 r 01 pedrept 0 000 |    
+00141279 00 r 01 fotoelectric 0 000 |    
+00141321 00 r 01 dorsoventral 0 000 |    
+00141363 00 r 01 lafelca 0 000 |    
+00141400 00 r 01 departe 0 000 |    
+00141437 00 r 01 neregulat 0 000 |    
+00141476 00 r 01 afară 0 000 |    
+00141512 00 r 01 amănunțit 0 000 |    
+00141553 00 r 01 argumentativ 0 000 |    
+00141595 00 r 02 nearmonios 0 nemelodios 0 000 |    
+00141648 00 r 01 sprenord-vest 0 000 |    
+00141691 00 r 02 cuforța 0 forțat 0 000 |    
+00141739 00 r 01 subțire 0 000 |    
+00141777 00 r 01 lingvistic 0 000 |    
+00141817 00 r 01 exploziv 0 000 |    
+00141855 00 r 02 cuerudiție 0 erudit 0 000 |    
+00141905 00 r 02 sentențios 0 aforistic 0 000 |    
+00141958 00 r 01 curegret 0 000 |    
+00141996 00 r 04 înapoi 0 îndărăt 0 înurmă 0 înspate 0 000 |    
+00142068 00 r 01 greoi 0 000 |    
+00142103 00 r 02 temerar 0 cutezător 0 000 |    
+00142153 00 r 01 gradual 0 000 |    
+00142190 00 r 01 constant 0 000 |    
+00142228 00 r 01 indolent 0 000 |    
+00142266 00 r 01 geotermal 0 000 |    
+00142305 00 r 01 prinoricemijloc 0 000 |    
+00142350 00 r 01 gravitațional 0 000 |    
+00142394 00 r 01 schismatic 0 000 |    
+00142434 00 r 01 dușmănos 0 000 |    
+00142474 00 r 01 sfios 0 000 |    
+00142509 00 r 01 aici 0 000 |    
+00142543 00 r 02 groaznic 0 teribil 0 000 |    
+00142591 00 r 01 etnic 0 000 |    
+00142626 00 r 03 inimaginabil 0 neimaginabil 0 neînchipuit 0 000 |    
+00142698 00 r 01 însusși-njos 0 000 |    
+00142742 00 r 03 peurmă 0 dupăaceea 0 apoi 0 000 |    
+00142799 00 r 02 aristocrat 0 aristocratic 0 000 |    
+00142854 00 r 01 înbucăți 0 000 |    
+00142895 00 r 01 învale 0 000 |    
+00142932 00 r 01 însubteran 0 000 |    
+00142973 00 r 01 pesteprogram 0 000 |    
+00143015 00 r 01 bienal 0 000 |    
+00143051 00 r 01 patogen 0 000 |    
+00143088 00 r 01 animat 0 000 |    
+00143124 00 r 01 elegant 0 000 |    
+00143161 00 r 04 groaznic 0 hidos 0 înfiorător 0 oribil 0 000 |    
+00143231 00 r 01 apăsător 0 000 |    
+00143271 00 r 01 acum 0 000 |    
+00143305 00 r 02 inexplicabil 0 fărăexplicație 0 000 |    
+00143367 00 r 01 luxuriant 0 000 |    
+00143406 00 r 01 înfiecarenoapte 0 000 |    
+00143452 00 r 02 copilăresc 0 infantil 0 000 |    
+00143504 00 r 03 grozav 0 extrem 0 teribil 0 000 |    
+00143559 00 r 01 federal 0 000 |    
+00143596 00 r 01 obscen 0 000 |    
+00143632 00 r 01 șase 0 000 |    
+00143667 00 r 01 inimitabil 0 000 |    
+00143707 00 r 01 brusc 0 000 |    
+00143742 00 r 01 neregulat 0 000 |    
+00143781 00 r 01 statistic 0 000 |    
+00143820 00 r 02 interschimbabil 0 interșanjabil 0 000 |    
+00143882 00 r 01 masiv 0 000 |    
+00143917 00 r 01 atruist 0 000 |    
+00143954 00 r 01 armonios 0 000 |    
+00143992 00 r 01 sprevest 0 000 |    
+00144030 00 r 01 feudal 0 000 |    
+00144066 00 r 02 unpic 0 puțin 0 000 |    
+00144110 00 r 01 pestetot 0 000 |    
+00144148 00 r 01 îndatoritor 0 000 |    
+00144190 00 r 01 axiomatic 0 000 |    
+00144229 00 r 01 permisiv 0 000 |    
+00144267 00 r 01 răgușit 0 000 |    
+00144306 00 r 01 demoarte 0 000 |    
+00144344 00 r 01 obligatoriu 0 000 |    
+00144385 00 r 02 întest 0 înprobă 0 000 |    
+00144434 00 r 01 implicit 0 000 |    
+00144472 00 r 01 retoric 0 000 |    
+00144509 00 r 02 profund 0 adânc 0 000 |    
+00144555 00 r 01 înaer 0 000 |    
+00144591 00 r 01 prețios 0 000 |    
+00144629 00 r 01 adorabil 0 000 |    
+00144667 00 r 02 cudiligență 0 diligent 0 000 |    
+00144721 00 r 01 cusolicitudine 0 000 |    
+00144765 00 r 01 vorbindstrict 0 000 |    
+00144808 00 r 01 grafic 0 000 |    
+00144844 00 r 01 însecret 0 000 |    
+00144883 00 r 01 palid 0 000 |    
+00144918 00 r 01 pestebord 0 000 |    
+00144957 00 r 01 cutaxăinversă 0 000 |    
+00145002 00 r 06 eranoastră 0 D.H. 0 D.C. 0 DupăHristos 0 DupăCristos 0 e.n. 0 000 |    
+00145094 00 r 01 îngâmfat 0 000 |    
+00145134 00 r 01 eminent 0 000 |    
+00145171 00 r 02 strâns 0 încleștat 0 000 |    
+00145222 00 r 03 nedeslușit 0 neclar 0 slab 0 000 |    
+00145279 00 r 02 lipsitdeenergie 0 pasiv 0 000 |    
+00145332 00 r 01 parentetic 0 000 |    
+00145372 00 r 01 incestuos 0 000 |    
+00145411 00 r 04 calm 0 liniștit 0 tihnit 0 odihnitor 0 000 |    
+00145478 00 r 01 așadar 0 000 |    
+00145515 00 r 02 șiîncăcum 0 și-ncăcum 0 000 |    
+00145571 00 r 01 smasmodic 0 000 |    
+00145610 00 r 04 de-acurmezișul 0 transversal 0 cruciș 0 încurmeziș 0 000 |    
+00145694 00 r 02 călduros 0 cordial 0 000 |    
+00145743 00 r 01 live 0 000 |    
+00145777 00 r 01 sălbatic 0 000 |    
+00145816 00 r 01 isotropic 0 000 |    
+00145855 00 r 01 călduț 0 000 |    
+00145893 00 r 01 coincidental 0 000 |    
+00145935 00 r 01 camort 0 000 |    
+00145971 00 r 01 nerușinat 0 000 |    
+00146011 00 r 01 ruinător 0 000 |    
+00146050 00 r 04 delicat 0 fin 0 gingaș 0 suav 0 000 |    
+00146110 00 r 01 idiografic 0 000 |    
+00146150 00 r 01 primitiv 0 000 |    
+00146188 00 r 01 mândru 0 000 |    
+00146225 00 r 01 invacuo 0 000 |    
+00146262 00 r 01 jurisprudențial 0 000 |    
+00146308 00 r 01 poligonal 0 000 |    
+00146347 00 r 01 cortical 0 000 |    
+00146385 00 r 06 numaidecât 0 imediat 0 acum 0 acușica 0 îndată 0 acuși 0 000 |    
+00146474 00 r 01 pânăacum 0 000 |    
+00146514 00 r 01 pentrumoment 0 000 |    
+00146556 00 r 01 verde 0 000 |    
+00146591 00 r 01 alzecelea 0 000 |    
+00146630 00 r 01 întrebător 0 000 |    
+00146672 00 r 03 jalnic 0 deplorabil 0 lamentabil 0 000 |    
+00146734 00 r 02 insubordonat 0 recalcitrant 0 000 |    
+00146791 00 r 01 inextricabil 0 000 |    
+00146833 00 r 01 cosmetic 0 000 |    
+00146871 00 r 02 drept 0 vertical 0 000 |    
+00146917 00 r 01 anapoda 0 000 |    
+00146954 00 r 02 meritoriu 0 merituos 0 000 |    
+00147004 00 r 01 visător 0 000 |    
+00147042 00 r 01 întrecere 0 000 |    
+00147082 00 r 01 individual 0 000 |    
+00147122 00 r 01 rezervat 0 000 |    
+00147160 00 r 01 fărăgriji 0 000 |    
+00147201 00 r 01 deșapteori 0 000 |    
+00147242 00 r 01 deodată 0 000 |    
+00147280 00 r 05 necugetat 0 prostește 0 stupid 0 neghiobește 0 nerozește 0 000 |    
+00147369 00 r 01 pânălapiept 0 000 |    
+00147412 00 r 01 distributiv 0 000 |    
+00147453 00 r 01 anonim 0 000 |    
+00147489 00 r 01 ipocrit 0 000 |    
+00147526 00 r 01 episodic 0 000 |    
+00147564 00 r 01 puțin 0 000 |    
+00147600 00 r 02 subimpulsulmomentului 0 fărăpremeditare 0 000 |    
+00147671 00 r 01 înpractică 0 000 |    
+00147713 00 r 01 lugubru 0 000 |    
+00147750 00 r 02 agresiv 0 aspru 0 000 |    
+00147795 00 r 01 târziu 0 000 |    
+00147832 00 r 01 condamnabil 0 000 |    
+00147873 00 r 01 amenințător 0 000 |    
+00147916 00 r 01 intermitent 0 000 |    
+00147957 00 r 01 leneș 0 000 |    
+00147993 00 r 01 sprecer 0 000 |    
+00148030 00 r 01 voluptuos 0 000 |    
+00148069 00 r 01 hieroglific 0 000 |    
+00148110 00 r 01 puțin 0 000 |    
+00148146 00 r 01 special 0 000 |    
+00148183 00 r 01 adormit 0 000 |    
+00148220 00 r 01 precipitat 0 000 |    
+00148260 00 r 01 încurmezișulorașului 0 000 |    
+00148313 00 r 01 înțară 0 000 |    
+00148352 00 r 02 vorbăreț 0 verbos 0 000 |    
+00148401 00 r 01 diagonal 0 000 |    
+00148439 00 r 03 pios 0 credincios 0 devotat 0 000 |    
+00148496 00 r 01 întretimp 0 000 |    
+00148536 00 r 03 înliniimari 0 pânălaurmă 0 peransamblu 0 000 |    
+00148608 00 r 01 pânăacum 0 000 |    
+00148648 00 r 01 rotund 0 000 |    
+00148684 00 r 01 ușor 0 000 |    
+00148719 00 r 01 sufletist 0 000 |    
+00148758 00 r 01 negativ 0 000 |    
+00148795 00 r 01 sprecoastă 0 000 |    
+00148836 00 r 02 servil 0 slugarnic 0 000 |    
+00148884 00 r 01 repede 0 000 |    
+00148920 00 r 01 nesigur 0 000 |    
+00148957 00 r 01 pedant 0 000 |    
+00148993 00 r 02 orișicum 0 oricum 0 000 |    
+00149041 00 r 04 stângaci 0 neîndemânatic 0 neajutorat 0 nepriceput 0 000 |    
+00149124 00 r 02 poate 0 pesemne 0 000 |    
+00149169 00 r 01 fărăchirie 0 000 |    
+00149211 00 r 01 cuoricepreț 0 000 |    
+00149253 00 r 02 înciuda 0 înpofida 0 000 |    
+00149303 00 r 02 cuviclenie 0 viclean 0 000 |    
+00149353 00 r 01 josnic 0 000 |    
+00149389 00 r 01 patriliniar 0 000 |    
+00149430 00 r 01 intravenos 0 000 |    
+00149470 00 r 02 călare 0 încălecat 0 000 |    
+00149521 00 r 02 neatins 0 nevătămat 0 000 |    
+00149572 00 r 01 precoce 0 000 |    
+00149609 00 r 02 șmecheresc 0 ștrengăresc 0 000 |    
+00149666 00 r 01 fărăîndoială 0 000 |    
+00149712 00 r 01 launison 0 000 |    
+00149750 00 r 01 spremare 0 000 |    
+00149788 00 r 03 cochet 0 elegant 0 dichisit 0 000 |    
+00149845 00 r 03 înacelașitimp 0 simultan 0 concomitent 0 000 |    
+00149915 00 r 01 denouăori 0 000 |    
+00149955 00 r 01 radios 0 000 |    
+00149991 00 r 01 greu 0 000 |    
+00150025 00 r 01 dedeparte 0 000 |    
+00150064 00 r 01 fărărezerve 0 000 |    
+00150107 00 r 01 launison 0 000 |    
+00150145 00 r 01 pacifist 0 000 |    
+00150183 00 r 01 înputere 0 000 |    
+00150222 00 r 02 apozițional 0 apozitiv 0 000 |    
+00150275 00 r 01 neștiințific 0 000 |    
+00150319 00 r 01 călduros 0 000 |    
+00150358 00 r 01 formidabil 0 000 |    
+00150398 00 r 01 totodată 0 000 |    
+00150437 00 r 01 anual 0 000 |    
+00150472 00 r 01 sprecoastă 0 000 |    
+00150513 00 r 01 demndeinvidiat 0 000 |    
+00150557 00 r 02 lamal 0 pețărm 0 000 |    
+00150603 00 r 01 atât 0 000 |    
+00150638 00 r 01 groaznic 0 000 |    
+00150676 00 r 01 denominațional 0 000 |    
+00150721 00 r 01 încazcă 0 000 |    
+00150760 00 r 02 înainte 0 înfață 0 000 |    
+00150810 00 r 01 scenic 0 000 |    
+00150846 00 r 01 colțuros 0 000 |    
+00150885 00 r 03 temporar 0 adinterim 0 interimar 0 000 |    
+00150947 00 r 01 brutal 0 000 |    
+00150983 00 r 02 jucăuș 0 neastâmpărat 0 000 |    
+00151038 00 r 02 stabil 0 ferm 0 000 |    
+00151081 00 r 02 înapoi 0 îndărăt 0 000 |    
+00151131 00 r 02 verbos 0 locvace 0 000 |    
+00151177 00 r 01 volensnolens 0 000 |    
+00151219 00 r 02 acum 0 actualmente 0 000 |    
+00151267 00 r 01 spresud-sud-vest 0 000 |    
+00151313 00 r 01 sprenord 0 000 |    
+00151351 00 r 02 înprincipal 0 îndeosebi 0 000 |    
+00151406 00 r 01 instant 0 000 |    
+00151443 00 r 01 absurd 0 000 |    
+00151479 00 r 01 inteligent 0 000 |    
+00151519 00 r 01 roșu 0 000 |    
+00151554 00 r 02 complet 0 integral 0 000 |    
+00151602 00 r 01 subvânt 0 000 |    
+00151640 00 r 01 experimental 0 000 |    
+00151682 00 r 01 înmăsura 0 000 |    
+00151722 00 r 01 letargic 0 000 |    
+00151760 00 r 01 ieftin 0 000 |    
+00151796 00 r 02 delicios 0 savuros 0 000 |    
+00151844 00 r 01 catifelat 0 000 |    
+00151883 00 r 01 farmacologic 0 000 |    
+00151925 00 r 01 distant 0 000 |    
+00151962 00 r 03 năvalnic 0 debordant 0 nestăpânit 0 000 |    
+00152028 00 r 01 tineresc 0 000 |    
+00152066 00 r 01 editorial 0 000 |    
+00152105 00 r 01 birocratic 0 000 |    
+00152145 00 r 01 greoi 0 000 |    
+00152180 00 r 01 lucrativ 0 000 |    
+00152218 00 r 02 spectaculos 0 spectacular 0 000 |    
+00152273 00 r 01 insuportabilde 0 000 |    
+00152317 00 r 01 înspate 0 000 |    
+00152355 00 r 01 superfluu 0 000 |    
+00152394 00 r 02 peltic 0 sâsâit 0 000 |    
+00152441 00 r 01 genetic 0 000 |    
+00152478 00 r 02 lin 0 liniștit 0 000 |    
+00152523 00 r 01 incisiv 0 000 |    
+00152560 00 r 01 cusinceritate 0 000 |    
+00152603 00 r 01 maideparte 0 000 |    
+00152643 00 r 01 fezabil 0 000 |    
+00152680 00 r 01 grosolan 0 000 |    
+00152718 00 r 01 întreprinzător 0 000 |    
+00152764 00 r 01 latimp 0 000 |    
+00152800 00 r 02 meritat 0 pebunădreptate 0 000 |    
+00152855 00 r 01 sutălasută 0 000 |    
+00152897 00 r 01 dinnou 0 000 |    
+00152933 00 r 01 paternal 0 000 |    
+00152971 00 r 01 insipid 0 000 |    
+00153008 00 r 01 caritabil 0 000 |    
+00153047 00 r 01 celmaideparte 0 000 |    
+00153090 00 r 01 totuși 0 000 |    
+00153127 00 r 01 complet 0 000 |    
+00153164 00 r 02 ferm 0 neclintit 0 000 |    
+00153210 00 r 03 prăpăstios 0 brusc 0 abrupt 0 000 |    
+00153269 00 r 02 fals 0 cufalsitate 0 000 |    
+00153317 00 r 01 smucit 0 000 |    
+00153353 00 r 01 înviorător 0 000 |    
+00153395 00 r 02 exuberant 0 expansiv 0 000 |    
+00153445 00 r 01 cruciș 0 000 |    
+00153482 00 r 01 maisus 0 000 |    
+00153518 00 r 01 dezinteresat 0 000 |    
+00153560 00 r 01 strict 0 000 |    
+00153596 00 r 01 înmijloculsăptămânii 0 000 |    
+00153650 00 r 01 autoritar 0 000 |    
+00153689 00 r 01 sprenord-nord-vest 0 000 |    
+00153737 00 r 01 prozaic 0 000 |    
+00153774 00 r 02 abstrus 0 abscons 0 000 |    
+00153821 00 r 01 retrospectiv 0 000 |    
+00153863 00 r 01 înjur 0 000 |    
+00153899 00 r 02 înfapt 0 defapt 0 000 |    
+00153945 00 r 01 kinestetic 0 000 |    
+00153985 00 r 02 dintr-oparte 0 dinlateral 0 000 |    
+00154040 00 r 01 delazero 0 000 |    
+00154078 00 r 01 hidraulic 0 000 |    
+00154117 00 r 04 înverșunat 0 crunt 0 aprig 0 feroce 0 000 |    
+00154184 00 r 01 insolent 0 000 |    
+00154222 00 r 01 adulterin 0 000 |    
+00154261 00 r 01 exponențial 0 000 |    
+00154303 00 r 01 corespunzător 0 000 |    
+00154347 00 r 01 victorios 0 000 |    
+00154386 00 r 01 subit 0 000 |    
+00154421 00 r 01 engros 0 000 |    
+00154457 00 r 02 anual 0 pean 0 000 |    
+00154499 00 r 01 rentabil 0 000 |    
+00154537 00 r 03 dezamăgitor 0 deziluzionant 0 decepționant 0 000 |    
+00154611 00 r 02 etanș 0 ermetic 0 000 |    
+00154657 00 r 02 tranșant 0 energic 0 000 |    
+00154706 00 r 01 înțelegător 0 000 |    
+00154750 00 r 01 tare 0 000 |    
+00154784 00 r 01 moral 0 000 |    
+00154819 00 r 04 odată 0 altcândva 0 cândva 0 altădată 0 000 |    
+00154891 00 r 02 stins 0 slab 0 000 |    
+00154933 00 r 01 imediatdupă 0 000 |    
+00154975 00 r 01 cupicioarelegoale 0 000 |    
+00155022 00 r 01 deoparte 0 000 |    
+00155060 00 r 01 tic-tac 0 000 |    
+00155097 00 r 01 mulțumitdesine 0 000 |    
+00155142 00 r 01 expansiv 0 000 |    
+00155180 00 r 05 lapidar 0 laconic 0 concis 0 succint 0 concentrat 0 000 |    
+00155259 00 r 02 potențial 0 posibil 0 000 |    
+00155309 00 r 01 telescopic 0 000 |    
+00155349 00 r 01 pedindos 0 000 |    
+00155387 00 r 02 psihologic 0 psihic 0 000 |    
+00155436 00 r 01 fiziologic 0 000 |    
+00155476 00 r 01 foarte 0 000 |    
+00155512 00 r 03 intenționat 0 voit 0 deliberat 0 000 |    
+00155573 00 r 01 serios 0 000 |    

@@ -1,0 +1,742 @@
+skrige v 1 1 @ 1 0 00038411
+vie v 1 0 1 0 00021303
+deltage v 1 0 1 0 00024760
+spøge v 1 1 @ 1 0 00004305
+invitere v 1 1 @ 1 0 00028429
+forestille_sig v 1 0 1 0 00021347
+undsige v 1 0 1 0 00025285
+beslutte v 1 2 ~ * 1 0 00004801
+forøge v 1 0 1 0 00035674
+forme v 1 1 ~ 1 0 00009646
+sprede v 2 0 2 0 00003922 00033749
+skrive v 2 1 ~ 2 0 00001745 00049563
+tillade v 1 1 ! 1 0 00028116
+slentre v 1 1 @ 1 0 00005398
+takke v 1 0 1 0 00015981
+spadsere v 1 1 @ 1 0 00005398
+mene v 1 0 1 0 00001894
+droppe v 1 0 1 0 00018456
+skrive_&apos;under v 1 1 @ 1 0 00049969
+hoste v 1 0 1 0 00002069
+udvise v 2 1 @ 2 0 00020728 00033155
+stige v 1 0 1 0 00007725
+prale v 1 0 1 0 00017168
+afskaffe v 1 0 1 0 00027632
+halshugge v 1 1 @ 1 0 00021235
+benytte v 1 0 1 0 00014229
+indeholde v 2 2 ~ @ 2 0 00010782 00039229
+tænke v 2 1 ~ 2 0 00001894 00006132
+blokere v 1 1 @ 1 0 00033860
+vikle v 2 1 @ 2 0 00011510 00027774
+overveje v 2 2 ~ @ 2 0 00020038 00041369
+optage v 1 1 ! 1 0 00002598
+udvide_sig v 1 0 1 0 00024373
+knække v 1 0 1 0 00018987
+sige v 1 1 ~ 1 0 00022794
+skøjte v 1 2 @ ;c 1 0 00020299
+sluge v 2 0 2 0 00012311 00047729
+skade v 2 2 ~ @ 2 0 00012599 00046378
+spørge_&apos;ud v 1 0 1 0 00014979
+slynge v 1 1 @ 1 0 00031360
+fornærme v 2 2 > @ 2 0 00019451 00036217
+drukne v 1 1 @ 1 0 00019854
+repræsentere v 3 1 @ 3 0 00028496 00040528 00050060
+opføre_sig v 1 1 ~ 1 0 00019919
+spille v 4 3 ~ @ ;c 4 0 00001420 00019519 00032985 00046546
+pakke v 1 0 1 0 00030138
+fare v 1 1 @ 1 0 00012029
+forsvare v 1 1 ~ 1 0 00042278
+brydes v 1 1 @ 1 0 00012534
+balancere v 1 1 ~ 1 0 00036965
+riste v 2 2 ~ @ 2 0 00021881 00044773
+fange v 1 1 @ 1 0 00015225
+citere v 1 0 1 0 00008991
+returnere v 1 1 @ 1 0 00019169
+møde v 2 0 2 0 00006667 00050482
+reklamere v 1 1 @ 1 0 00012466
+korrespondere v 1 1 * 1 0 00043121
+stønne v 1 0 1 0 00035250
+efterlade v 2 3 ~ @ * 2 0 00015818 00034030
+blinke v 1 1 @ 1 0 00029144
+hoppe v 1 0 1 0 00039429
+justere v 1 1 ~ 1 0 00046925
+forfalske v 2 1 @ 2 0 00016525 00029874
+lække v 1 0 1 0 00017547
+udnytte v 2 0 2 0 00006269 00024712
+opstå v 1 0 1 0 00041622
+rykke v 1 0 1 0 00043854
+trille v 1 1 @ 1 0 00017103
+genskabe v 1 1 ~ 1 0 00020972
+forsikre v 1 1 @ 1 0 00047438
+væve v 1 0 1 0 00012100
+bestå v 1 0 1 0 00033382
+chokere v 2 0 2 0 00002271 00034365
+glide v 2 1 ~ 2 0 00012402 00038476
+slette v 1 1 ! 1 0 00019649
+vinke v 1 0 1 0 00000656
+komponere v 1 1 ;c 1 0 00041035
+strække v 1 1 @ 1 0 00013545
+besøge v 1 0 1 0 00021515
+marchere v 1 1 @ 1 0 00038669
+spinde v 1 0 1 0 00015501
+tilegne v 1 0 1 0 00020775
+lugte v 3 2 ~ @ 3 0 00022686 00038276 00043011
+afskyde v 1 1 @ 1 0 00017297
+brænde v 2 1 ~ 2 0 00005121 00030184
+illustrere v 1 0 1 0 00014001
+helbrede v 1 2 * ;c 1 0 00032202
+vokse v 2 1 ~ 2 0 00033926 00035937
+stoppe v 1 0 1 0 00006874
+ynde v 1 0 1 0 00050221
+anvende v 1 0 1 0 00014229
+kommercialisere v 1 1 ;c 1 0 00045618
+tykkes v 1 0 1 0 00001894
+savne v 1 2 @ * 1 0 00022230
+holde_&apos;af v 1 0 1 0 00050221
+udstyre v 2 2 ~ @ 2 0 00002187 00023480
+skælve v 3 2 ~ @ 3 0 00021881 00037566 00043806
+opgive v 2 0 2 0 00011556 00014182
+legende v 1 0 1 0 00046491
+hænge v 2 1 @ 2 0 00005972 00049857
+introducere v 2 0 2 0 00026917 00043740
+vifte v 1 1 @ 1 0 00033796
+røre v 1 0 1 0 00017706
+forgifte v 1 0 1 0 00027515
+true v 1 1 @ 1 0 00037731
+hemmeligstemple v 1 1 @ 1 0 00024253
+importere v 1 2 ! ;c 1 0 00027033
+vade v 1 1 @ 1 0 00034948
+lede v 4 0 4 0 00004748 00022021 00038530 00048638
+lægge_sig v 1 1 @ 1 0 00036148
+stige_&apos;op v 1 0 1 0 00021826
+lalle v 1 0 1 0 00031867
+frikende v 1 1 ! 1 0 00013478
+synes v 2 0 2 0 00001894 00018941
+afskrabe v 1 0 1 0 00044091
+knappe_&apos;op v 1 0 1 0 00044213
+indramme v 1 0 1 0 00005522
+satse v 1 0 1 0 00044873
+forfølge v 1 0 1 0 00027292
+opvarme v 1 0 1 0 00003732
+falde v 1 0 1 0 00011020
+omfavne v 1 0 1 0 00021973
+betle v 1 1 @ 1 0 00002115
+smutte v 1 1 @ 1 0 00015289
+udgive v 1 0 1 0 00006620
+rapportere v 1 0 1 0 00044014
+plagiere v 1 1 ;c 1 0 00027564
+præsentere v 1 0 1 0 00043740
+bygge v 2 1 ! 2 0 00010275 00011376
+tilbyde v 1 0 1 0 00006921
+nikke v 1 0 1 0 00014566
+kaste_&apos;tilbage v 1 0 1 0 00023546
+børste v 1 1 @ 1 0 00015660
+besvime v 1 0 1 0 00008671
+pumpe v 1 1 @ 1 0 00038107
+flytte v 2 2 ! ~ 2 0 00013676 00024903
+bryde_sig_om v 1 0 1 0 00050221
+presse v 2 2 ~ @ 2 0 00003007 00038024
+formulere v 1 0 1 0 00007564
+forklare v 1 1 ~ 1 0 00041949
+forudse v 1 1 @ 1 0 00003979
+fornægte v 1 2 ~ @ 1 0 00030006
+bevare v 1 0 1 0 00006430
+vente v 1 0 1 0 00049158
+brøle v 1 1 @ 1 0 00023016
+ophøre v 1 0 1 0 00007212
+sværge v 1 0 1 0 00031667
+bruge v 1 0 1 0 00014229
+sidde v 2 1 ! 2 0 00006828 00034204
+dykke v 1 0 1 0 00048062
+danse v 1 1 @ 1 0 00004570
+smile v 1 0 1 0 00014805
+befri v 1 0 1 0 00030092
+fryse v 2 1 * 2 0 00026311 00043307
+anerkende v 1 0 1 0 00017752
+udstøde v 2 1 ~ 2 0 00009761 00010028
+spise v 1 1 * 1 0 00037127
+rumme v 1 1 @ 1 0 00010782
+lande v 1 0 1 0 00042808
+vride_sig v 1 1 @ 1 0 00010705
+fløjte v 1 0 1 0 00049271
+lokalisere v 1 0 1 0 00009710
+overvælde v 1 1 @ 1 0 00031241
+mærke_&apos;af v 1 1 @ 1 0 00007433
+få v 1 1 ~ 1 0 00013104
+sejle v 1 0 1 0 00027681
+overskue v 1 1 * 1 0 00039844
+transportere v 2 1 @ 2 0 00010907 00020161
+regulere v 1 1 @ 1 0 00046790
+vildlede v 1 1 ~ 1 0 00004485
+ansætte v 2 1 ! 2 0 00040008 00049514
+bevise v 1 0 1 0 00027727
+rode_&apos;sammen v 1 0 1 0 00048520
+undfange v 1 0 1 0 00044609
+eksportere v 1 2 ! ;c 1 0 00034116
+opdrætte v 1 1 @ 1 0 00004680
+værne v 1 1 ~ 1 0 00042278
+samle_&apos;ind v 1 0 1 0 00027236
+pulsere v 1 0 1 0 00007034
+sætte v 1 1 ~ 1 0 00034655
+nå v 2 0 2 0 00022750 00024859
+storme v 1 0 1 0 00017500
+påstå v 1 1 ~ 1 0 00045757
+anfægte v 1 2 ! @ 1 0 00015886
+gø v 1 1 @ 1 0 00005169
+trøste v 1 1 ~ 1 0 00044707
+underholde v 1 0 1 0 00005291
+snerre v 1 1 @ 1 0 00016812
+definere v 1 0 1 0 00022875
+affyre v 2 1 ~ 2 0 00005066 00024180
+beskytte v 1 1 ~ 1 0 00042278
+binde v 1 0 1 0 00016091
+overgå v 2 1 @ 2 0 00021563 00029826
+gnide v 1 2 ~ * 1 0 00011702
+afrejse v 1 0 1 0 00031125
+overrække v 1 0 1 0 00003054
+veksle v 1 0 1 0 00037033
+hele v 1 2 * ;c 1 0 00032202
+mindes v 4 3 ! ~ @ 4 0 00011221 00012796 00022585 00023879
+udsætte v 1 0 1 0 00012681
+foreslå v 1 0 1 0 00030824
+ryge v 1 0 1 0 00041856
+forny v 1 1 @ 1 0 00001271
+fortælle v 1 0 1 0 00043399
+forsone v 1 0 1 0 00021402
+sukke v 1 1 @ 1 0 00018813
+male v 2 1 ;c 2 0 00029942 00042016
+anke v 1 0 1 0 00024022
+hælde v 2 3 ~ > @ 2 0 00039013 00040652
+berøre v 1 1 ~ 1 0 00040408
+afskedige v 1 1 ! 1 0 00036833
+overspringe v 1 0 1 0 00032043
+udvikle v 5 2 ~ @ 5 0 00004370 00016622 00028873 00041227 00044337
+flotte_sig v 1 0 1 0 00045189
+betragte v 1 1 * 1 0 00039844
+forvirre v 1 0 1 0 00043449
+kæmpe v 1 1 ~ 1 0 00014052
+reservere v 2 1 @ 2 0 00010386 00013410
+genkende v 1 2 @ * 1 0 00030634
+beskue v 1 1 * 1 0 00039844
+ransage v 1 0 1 0 00041901
+insistere v 1 0 1 0 00044919
+advare v 1 1 ~ 1 0 00043242
+bekymre_sig v 2 0 2 0 00037632 00043615
+diskutere v 1 1 ~ 1 0 00037468
+betænke v 1 1 @ 1 0 00037263
+belønne v 1 0 1 0 00029468
+bemærke v 1 1 * 1 0 00047157
+udligne v 1 1 @ 1 0 00013935
+forkorte v 1 1 @ 1 0 00049204
+komme_sig v 1 0 1 0 00025961
+kvæle v 2 1 @ 2 0 00014135 00021450
+udvælge v 1 1 @ 1 0 00004238
+anspore v 1 0 1 0 00034413
+strømme v 3 2 ~ @ 3 0 00024067 00032767 00045466
+flyde v 1 0 1 0 00024327
+mumle v 1 1 @ 1 0 00005908
+straffe v 1 1 ~ 1 0 00025333
+turde v 1 0 1 0 00033506
+tilhøre v 1 0 1 0 00018407
+markere v 1 0 1 0 00050173
+motionere v 1 0 1 0 00031030
+smadre v 3 2 ~ @ 3 0 00007340 00012146 00037198
+le v 1 1 ! 1 0 00027838
+proponere v 1 0 1 0 00030824
+skabe v 2 1 ~ 2 0 00022021 00040971
+kysse v 1 1 @ 1 0 00045016
+vurdere v 3 2 ~ @ 3 0 00020038 00041369 00046190
+anticipere v 1 1 @ 1 0 00003979
+opretholde v 1 0 1 0 00006430
+kunne_bruge v 1 0 1 0 00050221
+eksplodere v 1 0 1 0 00002754
+bjæffe v 1 1 @ 1 0 00005169
+bage v 1 0 1 0 00030362
+glemme v 1 1 ! 1 0 00045240
+goutere v 1 0 1 0 00050221
+pakke_&apos;ind v 1 1 @ 1 0 00041718
+dømme v 1 2 ! ;c 1 0 00035166
+multiplicere v 1 0 1 0 00038804
+plukke v 1 0 1 0 00017594
+bestyrke v 3 2 ~ @ 3 0 00028873 00041227 00044337
+medføre v 1 0 1 0 00022021
+registrere v 1 1 ~ 1 0 00024488
+efterabe v 1 1 @ 1 0 00017890
+svømme v 1 0 1 0 00033982
+ridse v 1 0 1 0 00044091
+slæbe v 1 1 @ 1 0 00035609
+strø v 1 1 ~ 1 0 00014851
+passere v 2 1 ~ 2 0 00012869 00032468
+skære_&apos;ud v 1 0 1 0 00005342
+læsse v 1 1 @ 1 0 00023415
+rulle v 4 1 @ 4 0 00022924 00036406 00036901 00047009
+ræsonnere v 1 2 ~ @ 1 0 00002511
+afsky v 1 0 1 0 00004634
+diktere v 1 0 1 0 00013056
+vedkende v 1 0 1 0 00007260
+bryde_&apos;ind v 1 0 1 0 00012935
+se v 1 1 @ 1 0 00017829
+spilde v 2 0 2 0 00017056 00020502
+spare_&apos;op v 1 0 1 0 00044544
+gribe v 2 2 ~ @ 2 0 00031979 00042541
+springe_&apos;over v 1 0 1 0 00032043
+ønske v 3 2 ~ @ 3 0 00018288 00034318 00042743
+blødgøre v 1 1 * 1 0 00022516
+skrumpe v 2 1 @ 2 0 00005749 00027120
+regere v 1 0 1 0 00016254
+forårsage v 1 0 1 0 00022021
+gå v 2 1 ~ 2 0 00022122 00028313
+skråne v 1 0 1 0 00032516
+antage v 1 1 @ 1 0 00005843
+forbande v 1 0 1 0 00013361
+dreje v 1 1 @ 1 0 00022406
+falde_&apos;sammen v 1 0 1 0 00050114
+vrimle v 1 0 1 0 00032767
+blande v 2 0 2 0 00026452 00049467
+gætte v 1 2 ~ @ 1 0 00008843
+forsøge v 1 1 ~ 1 0 00026567
+granske v 1 0 1 0 00028729
+spolere v 1 0 1 0 00003532
+genlyde v 1 0 1 0 00040876
+tale v 3 1 ~ 3 0 00010077 00040208 00042185
+smage v 1 1 @ 1 0 00001143
+indespærre v 2 3 ~ @ ;c 2 0 00012211 00016137
+erstatte v 2 0 2 0 00025772 00048578
+behandle v 3 0 3 0 00041669 00045305 00045569
+vedstå v 1 0 1 0 00007260
+designe v 1 0 1 0 00025176
+grue v 1 0 1 0 00043615
+udvirke v 2 1 ~ 2 0 00007886 00023687
+betyde v 1 0 1 0 00023240
+respektere v 1 1 ~ 1 0 00033032
+bryde_&apos;sammen v 2 0 2 0 00029209 00035058
+opdatere v 1 0 1 0 00043193
+understøtte v 1 0 1 0 00000533
+placere v 2 2 @ > 2 0 00000874 00048243
+aflyse v 1 0 1 0 00049111
+protestere v 1 0 1 0 00029417
+gå_&apos;af v 1 0 1 0 00011603
+vugge v 1 0 1 0 00025493
+opdage v 1 0 1 0 00036285
+afkorte v 1 1 @ 1 0 00035298
+bevæge v 1 0 1 0 00031425
+påskønne v 2 0 2 0 00017752 00029468
+kopiere v 2 1 @ 2 0 00017890 00040828
+gå_&apos;&apos;til v 1 0 1 0 00010960
+studere v 1 1 * 1 0 00039844
+tilgive v 1 0 1 0 00024613
+sikre v 1 0 1 0 00037376
+overføre v 2 1 ~ 2 0 00009038 00031173
+miste v 4 1 ! 4 0 00025821 00034484 00042918 00049628
+gemme v 1 1 @ 1 0 00009582
+vedgå v 1 0 1 0 00007260
+publicere v 1 1 @ 1 0 00046857
+størkne v 1 1 ;c 1 0 00044269
+holde v 1 1 @ 1 0 00013612
+købslå v 1 0 1 0 00047389
+forlokke v 1 0 1 0 00034413
+købe v 1 4 ! @ ;c * 1 0 00036632
+opmuntre v 1 0 1 0 00035117
+fortynde v 1 1 @ 1 0 00047616
+genfinde v 1 1 @ 1 0 00042623
+undre_sig v 1 1 @ 1 0 00026499
+tjekke v 1 0 1 0 00019714
+skyde v 4 2 ~ @ 4 0 00005066 00008084 00017297 00024180
+snyde v 1 1 @ 1 0 00018877
+optræde v 1 2 ~ @ 1 0 00019519
+tabe v 1 1 ! 1 0 00034484
+forære v 1 1 ~ 1 0 00023081
+lukke v 2 2 ! ~ 2 0 00020115 00034555
+imponere v 1 0 1 0 00005700
+flyve v 2 1 @ 2 0 00012029 00033109
+bosætte_sig v 1 0 1 0 00030407
+vedtage v 1 2 ~ * 1 0 00004801
+passe v 4 2 ~ @ 4 0 00000349 00004164 00014915 00032825
+more v 1 0 1 0 00002466
+falme v 1 1 @ 1 0 00042477
+tørre v 2 1 @ 2 0 00012991 00018196
+reproducere v 1 2 ~ @ 1 0 00019035
+forlade v 1 1 @ 1 0 00021075
+synes_om v 1 0 1 0 00050221
+søge v 2 0 2 0 00004748 00048638
+stråle v 1 1 ~ 1 0 00010454
+stejle v 1 0 1 0 00003780
+amputere v 1 2 @ ;c 1 0 00032116
+drikke v 1 1 ~ 1 0 00010192
+bedrage v 1 1 @ 1 0 00040142
+vare_&apos;ved v 1 0 1 0 00026711
+kyle v 1 2 ~ @ 1 0 00031473
+stabilisere_sig v 1 1 ~ 1 0 00041153
+ignorere v 1 0 1 0 00044658
+filme v 1 0 1 0 00024134
+danne v 2 0 2 0 00028568 00045143
+stramme v 1 0 1 0 00025547
+grynte v 1 1 @ 1 0 00001004
+ride v 1 0 1 0 00011066
+nægte v 5 1 @ 5 0 00001632 00015771 00044969 00048473 00049922
+kigge v 1 1 * 1 0 00020664
+indsætte v 2 1 @ 2 0 00011802 00048175
+forstørre v 1 1 ;c 1 0 00008130
+afhænge_af v 1 0 1 0 00026766
+udarbejde v 1 0 1 0 00043964
+tigge v 2 1 @ 2 0 00002115 00045420
+snuppe v 1 1 @ 1 0 00009453
+støtte v 2 0 2 0 00000533 00014423
+afslå v 1 0 1 0 00047273
+skrue v 1 0 1 0 00046332
+prøve v 2 1 ~ 2 0 00026567 00039556
+berolige v 1 1 @ 1 0 00016941
+hente v 1 1 @ 1 0 00001207
+barbere v 1 0 1 0 00014518
+fortryde v 1 1 @ 1 0 00048108
+være v 1 2 ~ @ 1 0 00033667
+forsegle v 1 1 @ 1 0 00005633
+stemme v 1 1 @ 1 0 00003580
+trække_sig_&apos;tilbage v 2 1 @ 2 0 00003356 00046016
+stille_&apos;ind v 1 0 1 0 00003645
+dø v 2 1 ~ 2 0 00005589 00036001
+strejfe v 1 0 1 0 00041464
+samles v 1 0 1 0 00025399
+slappe_&apos;af v 1 0 1 0 00024557
+forbedre v 3 2 ~ @ 3 0 00028873 00041227 00044337
+forstå v 4 0 4 0 00017008 00031554 00034900 00050388
+forlægge v 1 1 @ 1 0 00044425
+afpresse v 1 0 1 0 00036518
+bevirke v 2 1 ~ 2 0 00007886 00023687
+sammenligne v 1 0 1 0 00043563
+indsprøjte v 1 0 1 0 00015048
+forbinde v 2 1 @ 2 0 00046442 00047895
+bedømme v 1 1 ~ 1 0 00046190
+fæstne v 1 1 ~ 1 0 00002905
+klare_sig v 1 0 1 0 00023190
+håbe v 1 1 @ 1 0 00022166
+stave v 1 0 1 0 00007518
+befale v 1 1 ~ 1 0 00048408
+overbevise v 1 1 @ 1 0 00002663
+grave v 1 1 @ 1 0 00014741
+gengive v 1 2 ~ @ 1 0 00019035
+ligne v 1 1 @ 1 0 00007614
+redde v 1 0 1 0 00011656
+skændes v 1 0 1 0 00047224
+ske v 1 0 1 0 00004111
+præferere v 1 0 1 0 00027899
+låne v 2 2 ! @ 2 0 00011294 00026969
+inspirere v 2 0 2 0 00031310 00034413
+skinne v 1 1 @ 1 0 00009388
+slå_sig_&apos;ned v 1 1 @ 1 0 00030885
+fastsætte v 1 2 ~ * 1 0 00004801
+henrette v 1 1 @ 1 0 00045931
+udnævne v 1 0 1 0 00019989
+påvirke v 1 0 1 0 00008426
+iagttage v 1 1 * 1 0 00039844
+skønne_på v 1 0 1 0 00017752
+artikulere v 1 1 @ 1 0 00025025
+længes v 1 1 @ 1 0 00006762
+bekymre v 1 0 1 0 00047568
+forvente v 2 2 ~ @ 2 0 00020435 00032871
+afbryde v 1 0 1 0 00027467
+telefonere v 1 1 @ 1 0 00026375
+udvide v 1 0 1 0 00032938
+diskriminere v 1 0 1 0 00023634
+vågne v 1 0 1 0 00037684
+vaske v 2 1 ~ 2 0 00016027 00032422
+synke_&apos;sammen v 1 0 1 0 00008025
+jævne_med_jorden v 1 1 ! 1 0 00026187
+irritere v 1 0 1 0 00021141
+telekommunikation v 1 1 ~ 1 0 00016301
+kvase v 1 1 @ 1 0 00000702
+swinge v 1 2 ~ @ 1 0 00015354
+stille_&apos;om v 1 0 1 0 00003645
+blive v 3 2 ! @ 3 0 00008625 00009518 00048691
+gratulere v 1 0 1 0 00002019
+fremkalde v 2 1 ~ 2 0 00007886 00023687
+briste v 1 1 ~ 1 0 00039164
+udbedre v 1 1 @ 1 0 00001271
+kæle v 1 0 1 0 00001973
+kunne v 1 1 ~ 1 0 00036769
+nævne v 2 0 2 0 00042964 00044166
+sælge v 2 2 ! ;c 2 0 00028182 00029268
+levere v 1 0 1 0 00049319
+forene v 2 1 ! 2 0 00003485 00036567
+skylde v 1 0 1 0 00008521
+anbefale v 1 1 @ 1 0 00017371
+undgå v 1 0 1 0 00035011
+demonstrere v 2 0 2 0 00007097 00023970
+forsinke v 1 0 1 0 00033618
+smække v 1 1 @ 1 0 00014675
+træde v 2 1 @ 2 0 00008361 00016575
+konvertere v 1 0 1 0 00044493
+plante v 1 1 @ 1 0 00025885
+kritisere v 1 0 1 0 00009929
+smøre v 2 1 @ 2 0 00037959 00050341
+koncentrere_sig v 1 1 @ 1 0 00016738
+smitte v 1 0 1 0 00005475
+opnå v 1 1 @ 1 0 00028614
+se_&apos;&apos;ud v 1 1 ~ 1 0 00027391
+rekommandere v 1 1 @ 1 0 00017371
+hæmme v 1 0 1 0 00017453
+revidere v 1 0 1 0 00004436
+eskalere v 1 0 1 0 00009979
+planere v 1 1 @ 1 0 00000395
+lyve v 1 1 @ 1 0 00045080
+stemple v 1 0 1 0 00026263
+lytte v 1 2 @ * 1 0 00028026
+skimme v 1 0 1 0 00019404
+hviske v 1 2 ! @ 1 0 00017214
+bestride v 1 0 1 0 00027977
+afskrække v 1 1 ! 1 0 00049674
+bearbejde v 1 0 1 0 00049807
+høre v 2 2 @ * 2 0 00028026 00042854
+lyse v 2 1 @ 2 0 00021699 00031080
+nærme_sig v 1 0 1 0 00016377
+behøve v 1 0 1 0 00001697
+klappe v 1 0 1 0 00023287
+udbrede v 1 0 1 0 00003922
+perforere v 1 0 1 0 00027186
+træne v 1 1 @ 1 0 00006019
+godkende v 1 0 1 0 00007837
+ændre v 1 1 ~ 1 0 00038857
+pudse v 1 1 * 1 0 00021762
+dele v 3 1 ! 3 0 00002329 00008298 00012357
+debattere v 1 1 @ 1 0 00047775
+byde v 1 2 * ;c 1 0 00014341
+plette v 1 0 1 0 00015111
+huske v 4 3 ! ~ @ 4 0 00011221 00012796 00022585 00023879
+refundere v 1 1 @ 1 0 00048896
+sy v 1 1 @ 1 0 00007964
+ånde v 1 1 ~ 1 0 00038949
+tiltrække v 2 1 @ 2 0 00020549 00024808
+sprøjte v 2 1 @ 2 0 00015048 00015158
+spekulere v 2 2 ~ @ 2 0 00032681 00034268
+dække v 1 1 ~ 1 0 00020889
+save v 1 0 1 0 00021190
+veje v 2 1 @ 2 0 00029542 00047505
+liste v 3 1 @ 3 0 00037330 00038476 00042121
+forvise v 1 0 1 0 00046676
+vise v 3 1 @ 3 0 00019809 00032295 00033155
+ældes v 1 0 1 0 00040924
+bøje v 2 1 @ 2 0 00018568 00041792
+antænde v 1 1 @ 1 0 00011962
+få_øje_på v 1 1 @ 1 0 00038340
+foragte v 1 0 1 0 00042429
+lide v 2 2 ~ @ 2 0 00014612 00039475
+åbne v 1 1 ! 1 0 00016877
+gøre v 3 1 ~ 3 0 00007886 00009160 00023687
+generere v 1 0 1 0 00022021
+tilbagevise v 1 1 @ 1 0 00021629
+trykke v 1 0 1 0 00023832
+lave_&apos;om v 1 1 ~ 1 0 00038857
+elske v 2 0 2 0 00008475 00050221
+sende v 3 1 @ 3 0 00001504 00018749 00043353
+svige v 1 0 1 0 00040717
+risikere v 1 1 @ 1 0 00025595
+adlyde v 1 1 @ 1 0 00029079
+begunstige v 1 0 1 0 00027899
+lege v 1 0 1 0 00046491
+beslaglægge v 1 0 1 0 00031715
+flyde_&apos;over v 1 1 @ 1 0 00035364
+mindske v 1 1 ~ 1 0 00029315
+dryppe v 1 1 @ 1 0 00010321
+undskylde v 1 1 * 1 0 00030962
+træde_&apos;op v 1 2 ~ @ 1 0 00019519
+svinge v 2 0 2 0 00035485 00037080
+fylde v 1 0 1 0 00004065
+opspare v 1 0 1 0 00044544
+udskifte v 2 0 2 0 00023783 00048578
+lægge v 1 1 @ 1 0 00046267
+svare_til v 1 1 @ 1 0 00026643
+modne v 1 1 @ 1 0 00049743
+udspørge v 1 0 1 0 00014979
+lave v 1 1 ~ 1 0 00017980
+skrabe_&apos;af v 1 0 1 0 00044091
+kog v 1 0 1 0 00003217
+servere v 1 0 1 0 00048964
+rasle v 2 0 2 0 00038221 00043075
+erklære v 1 0 1 0 00041104
+forfine v 1 1 @ 1 0 00035871
+stivne v 1 0 1 0 00025446
+klage v 1 0 1 0 00022470
+ordne v 4 2 ~ @ 4 0 00005797 00028961 00045867 00048832
+samarbejde v 1 0 1 0 00024661
+sænke v 1 0 1 0 00016207
+forsvinde v 1 1 ~ 1 0 00039361
+dræbe v 1 2 ~ > 1 0 00010538
+bukke v 1 0 1 0 00042383
+efterligne v 1 1 @ 1 0 00017890
+fængsle v 1 2 @ ;c 1 0 00012211
+planlægge v 1 1 @ 1 0 00000395
+skille_sig v 2 1 @ 2 0 00019335 00047338
+beskrive v 1 0 1 0 00010858
+tvivle v 1 0 1 0 00038575
+tvinge v 2 2 ! * 2 0 00006317 00037858
+fordele v 1 1 @ 1 0 00031913
+tælle v 1 0 1 0 00003309
+modsætte_sig v 1 0 1 0 00009106
+piske v 1 0 1 0 00022970
+sparke v 1 1 @ 1 0 00008778
+tegne v 1 1 ;c 1 0 00043498
+parkere v 1 0 1 0 00028825
+trække v 1 2 ! ~ 1 0 00001792
+svare v 1 1 @ 1 0 00043900
+hænde v 1 0 1 0 00004111
+absorbere v 1 0 1 0 00048309
+forhindre v 1 1 ~ 1 0 00016670
+stå v 2 2 ! * 2 0 00018243 00023334
+strikke v 1 1 * 1 0 00012730
+standse v 1 0 1 0 00019761
+rejse_sig v 1 1 ! 1 0 00038736
+beundre v 1 1 @ 1 0 00006364
+svigte v 1 0 1 0 00040717
+understrege v 2 1 @ 2 0 00040582 00047843
+ringe v 2 1 @ 2 0 00000958 00026375
+overtyde v 1 1 @ 1 0 00002663
+tiltage v 1 0 1 0 00033926
+tjene v 3 1 @ 3 0 00004919 00022640 00024424
+lære v 1 1 ~ 1 0 00045693
+følge v 1 0 1 0 00008578
+bringe v 1 2 ~ @ 1 0 00022312
+autorisere v 1 0 1 0 00020384
+vinde v 2 2 ! * 2 0 00006556 00039780
+begrænse v 2 1 ~ 2 0 00008248 00039096
+caste v 1 1 * 1 0 00035722
+omstøde v 1 0 1 0 00049418
+drille v 2 0 2 0 00007678 00026094
+opfatte v 1 1 ~ 1 0 00030460
+vide v 1 0 1 0 00011917
+bese v 1 1 * 1 0 00039844
+finde v 1 0 1 0 00001894
+disputere v 1 1 ~ 1 0 00037468
+indstille v 1 0 1 0 00003645
+rådne v 1 0 1 0 00015613
+knuse v 2 1 @ 2 0 00011111 00041512
+stikke v 1 1 @ 1 0 00015548
+undertrykke v 1 0 1 0 00000604
+aflægge/afgive_rapport v 1 0 1 0 00044014
+klapre v 1 0 1 0 00038221
+gynge v 2 0 2 0 00025493 00037422
+reparere v 1 1 @ 1 0 00001271
+løfte v 1 2 ~ > 1 0 00026011
+vælte v 1 0 1 0 00039603
+forandre v 1 1 ~ 1 0 00038857
+sippe v 1 1 @ 1 0 00011157
+bevæge_sig v 1 1 ~ 1 0 00013676
+besidde v 1 1 ~ 1 0 00036452
+kaste v 2 2 ~ @ 2 0 00029587 00030742
+reducere v 1 2 ~ @ 1 0 00036063
+ramme v 1 1 @ 1 0 00037794
+afsende v 1 0 1 0 00006084
+simulere v 2 1 @ 2 0 00020232 00048359
+stå_&apos;&apos;op v 1 0 1 0 00042061
+bekrige v 1 1 @ 1 0 00020823
+arbejde v 1 1 ~ 1 0 00006490
+montere v 1 1 @ 1 0 00033552
+kalde v 1 0 1 0 00003876
+overtale v 2 3 ! ~ @ 2 0 00002663 00035786
+bortgemme v 2 2 ~ @ 2 0 00033429 00048755
+græsse v 1 1 ;c 1 0 00040075
+synke v 1 0 1 0 00016428
+rydde v 1 0 1 0 00007387
+ælte v 1 0 1 0 00026141
+suge v 1 1 @ 1 0 00025709
+forråde v 1 0 1 0 00040717
+vriste v 1 1 @ 1 0 00010705
+begynde v 1 1 ~ 1 0 00035532
+knæle v 1 0 1 0 00009882
+råbe v 2 3 ! ~ @ 2 0 00003153 00047962
+affærdige v 1 1 @ 1 0 00013292
+spå v 1 1 @ 1 0 00003979
+opklare v 1 1 @ 1 0 00046724
+afslutte v 1 0 1 0 00039959
+identificere v 1 2 @ * 1 0 00030634
+pantsætte v 1 1 ;c 1 0 00010122
+sakke_bagud/agterud v 1 0 1 0 00009217
+bide v 1 0 1 0 00040783
+regne v 2 1 ~ 2 0 00033032 00047683
+opstarte v 1 1 ~ 1 0 00035532
+kræve v 1 2 ~ @ 1 0 00029732
+røve v 1 0 1 0 00041576
+anklage v 2 1 @ 2 0 00007771 00008521
+omringe v 1 0 1 0 00028777
+donere v 1 1 @ 1 0 00036332
+dotere v 1 1 @ 1 0 00036332
+bløde v 1 0 1 0 00025662
+forgrene_sig v 1 0 1 0 00042690
+dokumentere v 1 0 1 0 00049366
+mærke v 2 1 ~ 2 0 00031602 00031768
+arve v 1 1 @ 1 0 00007149
+køre_&apos;ned v 1 1 @ 1 0 00001069
+blomstre v 2 0 2 0 00006713 00027342
+forudgå v 1 0 1 0 00003827
+rose v 1 2 ~ @ 1 0 00026818
+frembringe v 1 0 1 0 00022021
+beholde v 1 2 ! ~ 1 0 00047055
+skjule v 2 2 ~ @ 2 0 00033429 00048755
+græde v 1 1 ! 1 0 00008926
+nyde v 1 0 1 0 00009343
+låse v 1 1 @ 1 0 00000766
+finansiere v 1 0 1 0 00019237
+udplante v 1 1 @ 1 0 00025885
+vælge v 3 2 ~ @ 3 0 00011852 00018503 00033227
+skylle v 1 1 @ 1 0 00017641
+prædike v 1 0 1 0 00000300
+formgive v 1 0 1 0 00025176
+krybe v 2 0 2 0 00014295 00018079
+fotokopiere v 1 1 @ 1 0 00011440
+afgøre v 3 2 ~ * 3 0 00003105 00004801 00042230
+foretage v 1 0 1 0 00009160
+bevogte v 1 1 @ 1 0 00004164
+slå v 5 3 ~ @ * 5 0 00007034 00015726 00032564 00046127 00049012
+forbyde v 1 2 ! @ 1 0 00015886
+fjerne v 1 1 ~ 1 0 00004965
+frygte v 1 0 1 0 00019288
+takke_&apos;nej v 1 0 1 0 00047273
+give_&apos;efter v 1 0 1 0 00024968
+underskrive v 1 1 @ 1 0 00049969
+give v 2 1 ~ 2 0 00003440 00023081
+bebrejde v 1 0 1 0 00000474
+klandre v 1 0 1 0 00000474
+banke v 2 0 2 0 00002374 00007034
+ramme_&apos;ind v 1 0 1 0 00005522
+indrømme v 1 0 1 0 00007260
+screene v 1 1 @ 1 0 00009277
+sno v 2 0 2 0 00000830 00045823
+bede v 2 1 ~ 2 0 00018614 00046082
+undergrave v 1 0 1 0 00028678
+læse v 1 0 1 0 00030250
+rødme v 1 0 1 0 00028266
+udbringe v 1 2 ~ @ 1 0 00022312
+forlange v 1 2 ~ @ 1 0 00029732
+tilbagekaste v 1 0 1 0 00023546
+køre v 2 0 2 0 00002420 00020618
+kende v 3 3 ~ @ * 3 0 00030634 00031768 00050436
+rette v 1 0 1 0 00046630
+udfylde v 1 0 1 0 00010657
+klare v 1 0 1 0 00039315
+reflektere v 1 0 1 0 00023546
+gentage v 2 1 @ 2 0 00008200 00045354
+foretrække v 1 0 1 0 00027899
+løbe v 2 2 ~ @ 2 0 00001356 00015437
+minde v 1 0 1 0 00035439
+hjælpe v 1 0 1 0 00003261
+kvantificere v 1 1 ~ 1 0 00018125
+mestre v 1 1 @ 1 0 00040343
+tage_&apos;til_sig v 1 0 1 0 00008719
+løsne v 1 0 1 0 00014471
+mangle v 1 0 1 0 00038622
+synge v 1 2 ~ @ 1 0 00032340
+æde v 1 1 * 1 0 00037127
+bære v 3 3 ~ @ * 3 0 00000533 00002805 00025094
+ligge v 1 1 ! 1 0 00001568
+så v 1 2 @ ;c 1 0 00029651
+udleje v 1 0 1 0 00039733
+præmiere v 1 0 1 0 00029468
+føle v 1 1 ~ 1 0 00031768
+skynde_sig v 1 0 1 0 00016474
+oprøre v 1 0 1 0 00002271
+afvise v 1 1 ~ 1 0 00039650
+betale v 1 1 ~ 1 0 00006969
+fascinere v 1 0 1 0 00005241
+acceptere v 2 0 2 0 00025235 00038171
+afmærke v 1 1 @ 1 0 00007433
+svække v 1 1 ~ 1 0 00030296
+begrave v 1 1 * 1 0 00043674

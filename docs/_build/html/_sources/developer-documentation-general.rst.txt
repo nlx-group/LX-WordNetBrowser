@@ -8,11 +8,11 @@ WordNet Content Delivery Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The WordNet content delivery server is implemented using XMLRPC protocol, which despite worries about its unsafety, is a good candidate due to its simplicity of implementation and usability. It being hosted on localhost mitigates the safety worries.
 
-As specified in the installation chapter, there's two modes to this server. It can either load and supply a pluricentric or a my wordnet type of installation. Upon launch of the server, it will call 2 loaders of its own, that load tab files and wordnet files. The difference between the modes are on the amount of wordnets it has to load and their locations, which are different from the pluricentric and my wordnet type of installations.
+As specified in the installation chapter, there's two modes to this server. It can either load and supply a pluricentric or a my wordnet type of installation. Upon launch of the server, it will call 3 loaders of its own, that load tab files, wordnet files and pair files. The difference between the modes are on the amount of wordnets it has to load and their locations, which are different from the pluricentric and my wordnet type of installations.
 
 The structure in which the wordnet is stored is a dictionary with the following structure.
 
-```language > pos > data & index > offset > whole line``.
+```language > pos > data & index > synset offset > whole line``.
 
 language on the my wordnet installation is main for the main language and pivot for the pivot language.
 
@@ -24,9 +24,13 @@ For vrb files, the structure is the following:
 
 For the tab files, it follows the following structure:
 
-``language code > pivot language offset > line``.
+``language code > pivot language synset offset > line``.
 
 Other methods, such as get_index and get_data are implemented for the main script /search/views.py fetch information needed relevant to the users search.
+
+For pair files, the structure follows the similar logic to the others above. Pair files provide a much better relation between languages, since its a relation between synsets and not lemmas.
+
+``language code > language synset offset > pivot language synset offset``.
 
 Apache
 ^^^^^^

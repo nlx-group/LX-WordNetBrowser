@@ -1,0 +1,41 @@
+  01 This file is a derivation of the wn-als-lmf.xml file; the original als-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 label: Albanet
+  05 owner: BY
+  06 language: als
+  07 version: 10
+00000316 00 a 03 e_madhe 0 i_mprehtë 0 e_thellë 0 000 | shumë e mprehtë apo e madhe
+00000404 00 a 02 tjetër 0 i_dytë 0 000 | një ndarje e dukshme nga e para
+00000480 00 a 02 i_hollë 0 i_pakët 0 000 | një zë i mekur
+00000542 00 a 02 me_rëndësi 0 shumë_i_rëndësishëm 0 000 | me një domethënie shumë të madhe
+00000643 00 a 03 vijues 0 tjetër 0 pasues 0 000 | vazhdimësi e menjëhershme ne kohë dhe sipas rradhës
+00000750 00 a 01 i_madh 0 000 | zhvillimi nga një force e madhe fizike
+00000822 00 a 02 fizik 0 material 0 000 | të ketë përmbajtje materiali apo substance
+00000910 00 a 02 tjetër 0 i_ndryshëm 0 000 | alternativa të ndryshme ; tjetër
+00000992 00 a 02 i_parëndësishëm 0 i_pavlerë 0 000 | një domethënie e vogël ose influencë ose pushtet ose një status minor
+00001124 00 a 03 e_madhe 0 shpirtmadh 0 gjerësisht 0 000 | bujar mirëkuptues dhe tolerant
+00001216 00 a 02 jotradicionale 0 origjinal 0 001 & 00001495 a 0000 | jo konvencionale ose konformiste
+00001319 00 a 02 me_ngjyra 0 ngjyrë 0 000 | aftësia e të prodhuarit të ngjyrave
+00001403 00 a 03 i_palëvizshëm 0 fiksoj 0 i_përcaktuar 0 000 | specifikon një përparim
+00001495 00 a 01 i_çuditshëm 0 001 & 00001216 a 0000 | i jashtëzakonshëm ose jo normal
+00001586 00 a 02 i_përmbledhur 0 i_shkurtër 0 000 | një kohëzgjatje e shkurtër ose një distancë
+00001689 00 a 04 i_madh 0 i_vjetër 0 i_moshuar 0 më_i_madh 0 000 | vëlla ose motër më e madhe
+00001788 00 a 03 i_tmerrshëm 0 i_ashpër 0 i_keq 0 001 & 00002246 a 0000 | jashtëzakonisht i keq ose i pakëndshëm në një shkallë ose në cilësi
+00001940 00 a 02 i_caktuar 0 i_shpallur 0 000 | i deklaruar si fakt; qëndrim eksplicit
+00002028 00 a 01 i_fuqishëm 0 001 = 00487907 n 0000 | të kesh një fuqi të madhe ose një forcë ose një potencial
+00002147 00 a 02 thelbësore 0 themelor 0 000 | përbërje ose një zgjedhje themelore për diçka
+00002246 00 a 02 i_fortë 0 i_gjallë 0 002 & 00001788 a 0000 = 00129037 n 0000 | një ekstrem i je shkalle
+00002354 00 a 03 i_famshëm 0 dalloj 0 shquaj 0 000 | një rang me larg se të tjerët në karakter ose një arritje ose reputacion
+00002486 00 a 02 i_vogël 0 i_pakët 0 000 | jo i rritur plotësisht
+00002555 00 a 02 i_rëndësishëm 0 autoritar 0 000 | të kesh autoritet ose pushtet ose influencë
+00002655 00 a 02 kristalizoj 0 kthjelloj 0 000 | E bëj të qëndrueshëm, i jap një formë, një drejtim të qartë e të përcaktuar mirë (një teorie, ideje, një pikëpamjeje a qëndrimi, një procesi zhvillimi etj.)
+00002878 00 a 02 tjetër 0 i_ndryshëm 0 000 | shumë i pazakontë; ndryshe në karakter apo cilësi nga normalja
+00002992 00 a 02 mikroskopik 0 i_vogël 0 002 ! 00003499 a 0000 = 00004575 n 0000 | gjëra të vogla të cilat s&apos;mund të shikohen me sy të lirë
+00003144 00 a 02 burim_i_parë 0 origjinal 0 000 | ekzistenca ose prodhimi i diçkaje të re
+00003237 00 a 04 i_madh 0 i_spikatur 0 me_rëndësi 0 i_mirënjohur 0 000 | i spikatuar apo i shquar në një pozicion ose domethënës
+00003373 00 a 05 i_madh 0 zhvillim 0 i_rritur 0 i_lartë 0 i_pjekur 0 001 ;c 00353243 n 0000 | një zhvillim i menjëhershëm
+00003499 00 a 02 i_madh 0 i_gjerë 0 002 ! 00002992 a 0000 = 00004575 n 0000 | një masë mbi nivelin mesatar ose numër ose sasi ose gjerësi
+00003642 00 a 01 material 0 000 | Çdo send që përdoret si lëndë e parë për të prodhuar a për të ndërtuar diçka ose si mjet për qëllime të caktuara
+00003804 00 a 02 i_rende 0 i_bollshëm 0 000 | ne një nivel te lartë ose sasi ose numër
+00003895 00 a 05 i_imët 0 i_vogël 0 më_i_vogël 0 i_pakët 0 masë_e_vogël 0 000 | një masë e limituar ose një fushë e limituar

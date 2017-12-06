@@ -1,9 +1,9 @@
 from django.http import JsonResponse
 from django.shortcuts import render
 import json
-import os
 import logging
 import xmlrpc.client
+import os
 
 pointer_map = {'Hypernym': '@', 'Hyponym': '~', 'Member_Holonym': '#m', 'Substance_Holonym': '#s', 'Part_Holonym': '#p',
                'Member_Meronym': r'%m', 'Substance_Meronym': r'%s', 'Part_Meronym': r'%p', 'Antonym': '!',
@@ -36,7 +36,21 @@ language_codes = {'English': 'en', 'Finnish': 'fin', 'Afrikaans': 'afr', 'Arabic
                   'Nynorsk': 'nno', 'Bokmål': 'nob', 'Polish': 'pol', 'Romanian': 'ron', 'Russian': 'rus',
                   'Slovak': 'slk', 'Slovene': 'slv', 'Spanish': 'spa', 'Swahili': 'swa', 'Swedish': 'swe',
                   'Telugu': 'tel', 'Thai': 'tha', 'Turkish': 'tur', 'Ukrainian': 'ukr', 'Urdu': 'urd',
-                  'Vietnamese': 'vie', 'Volapük': 'vol', 'Malaysian': 'zsm'}
+                  'Vietnamese': 'vie', 'Volapük': 'vol', 'Malaysian': 'zsm', 'Taiwan Chinese':'qcn', 'Português': 'por'}
+
+code_to_language = {
+            'en':'English','fin':'Finnish','afr':'Afrikaans','arb':'Arabic','ast':'Asturian','aze':'Azerbaijani',
+            'bel':'Belarusian','ben':'Bengali','bre':'Breton','bul':'Bulgarian','cat':'Catalan','ces':'Czech',
+            'cmn':'Chinese','cym':'Welsh','dan':'Danish','deu':'German','ell':'Greek','epo':'Esperanto',
+            'est':'Estonian','eus':'Basque','fao':'Faroese','fas':'Farsi','fra':'French','gla':'Scottish Gaelic',
+            'gle':'Irish','glg':'Galician','hbs':'Serbo-Croatian','heb':'Hebrew','hin':'Hindi','hun':'Hungarian',
+            'ind':'Indonesian','isl':'Icelandic','ita':'Italian','jpn':'Japanese','kat':'Georgian','kor':'Korean',
+            'lat':'Latin','lav':'Latvian','lit':'Lithuanian','mkd':'Macedonian','nld':'Dutch','nno':'Nynorsk',
+            'nob':'Bokmål','pol':'Polish','ron':'Romanian','rus':'Russian','slk':'Slovak','slv':'Slovene',
+            'spa':'Spanish','swa':'Swahili','swe':'Swedish','tel':'Telugu','tha':'Thai','tur':'Turkish',
+            'ukr':'Ukrainian','urd':'Urdu','vie':'Vietnamese','vol':'Volapük','zsm':'Malaysian', 'qcn':'Taiwan Chinese',
+            'por': 'Português'
+        }
 
 link_file_name = None  # If not using English as a main language and want to use a custom tab link file,
 pivot_language = 'English'  # Pivot language
@@ -426,47 +440,81 @@ class SearchRoutines:
         pivot_language_offset = ''
         html_lines = {}
         lemmas = []
-        pivot_language_offsets = {}
+        pair_info_status = False
+        pivot_language_offsets = []
         # Method here to obtain pivot language offset if wordnet != Portuguese
         if pivot_language != source_language:
-            split_line = wordnet_server.get_data(source_language, part_of_speech[pos], offset).split()
-            lemmas = split_line[4:4 + int(split_line[3], 16) * 2:2]
-            tab_lines = wordnet_server.get_whole_tab(language_codes[source_language])
-            for elem in tab_lines:
-                line = tab_lines[elem].split()
-                if line[0] != '#' and line[0].split('-')[1] == pos and line[2] in lemmas:
-                    pivot_language_offsets[line[2]] = line[0].split('-')[0]
-                if len(lemmas) == len(pivot_language_offsets):
-                    break
-            for lemma in lemmas:
-                if lemma in pivot_language_offsets:
-                    pivot_language_offset = pivot_language_offsets[lemma]
-                    break
+            pair_info = wordnet_server.get_pair(source_language, offset, pos)
+            if pair_info is None:
+                split_line = wordnet_server.get_data(source_language, part_of_speech[pos], offset).split()
+                lemmas = split_line[4:4 + int(split_line[3], 16) * 2:2]
+                tab_lines = wordnet_server.get_whole_tab(language_codes[source_language])
+                for elem in tab_lines:
+                    lines = tab_lines[elem]
+                    for line in lines:
+                        line = line.split()
+                        if line[0] != '#' and line[0].split('-')[1] == pos and ' '.join(line[2:]) in lemmas:
+                            pivot_language_offsets.append((' '.join(line[2:]), line[0]))
+                        if len(lemmas) == len(pivot_language_offsets):
+                            break
+                senses = {}
+                lemma_in_sense = {}
+                for lemma in lemmas:
+                    for tup in pivot_language_offsets:
+                        if lemma == tup[0]:
+                            if tup[1] not in senses:
+                                senses[tup[1]] = 1
+                                lemma_in_sense[tup[1]] = [lemma]
+                            else:
+                                senses[tup[1]] += 1
+                                lemma_in_sense[tup[1]].append(lemma)
+                max_sense = [k for k, v in senses.items() if v == max(senses.values())]
+                if len(max_sense) == 1:
+                    pivot_language_offset = max_sense[0]
+                elif len(max_sense) > 1:
+                    return {'result': {'mismatch': 1}}
+            else:
+                pivot_language_offset = pair_info
+                pair_info_status = True
         else:
-            pivot_language_offset = offset
+            pivot_language_offset = offset + "-" + pos
         for language in languages:
-            html_lines[language] = {'lemma': '', 'def': ''}
+            html_lines[language] = {'lemma': [], 'def': []}
             if pivot_language_offset != '':
                 if language == 'en' and pivot_language == 'English':
-                    line = wordnet_server.get_data('English', part_of_speech[pos], pivot_language_offset)
+                    line = wordnet_server.get_data('English', part_of_speech[pivot_language_offset.split("-")[1]],
+                                                   pivot_language_offset.split("-")[0])
                     split_line = line.split()
-                    html_lines['en'] = {'lemma': '', 'def': ''}
-                    html_lines['en']['lemma'] = ''.join([' ' + name.replace('_', ' ') + ',' for name in
-                                                         split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + \
-                                                split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ')
-                    html_lines['en']['def'] = ''.join(
+                    html_lines['en']['lemma'].append(''.join([' ' + name.replace('_', ' ') + ',' for name in
+                                                              split_line[
+                                                              4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + \
+                                                     split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_',
+                                                                                                            ' '))
+                    html_lines['en']['def'].append(''.join(
                         [split_line[split_line.index('|') + 1:][0]] + [' ' + elem for elem in
                                                                        split_line[
                                                                        split_line.index(
-                                                                           '|') + 2:]])
+                                                                           '|') + 2:]]))
+                elif code_to_language[language] in os.listdir(os.path.join(os.curdir, 'langdata', 'wordnets')) \
+                        and 'pair_info' in os.listdir(os.path.join(os.curdir, 'langdata', 'wordnets')):
+                    line = wordnet_server.get_data(code_to_language[language], part_of_speech[pivot_language_offset.split("-")[1]],
+                                                   pivot_language_offset.split("-")[0])
+                    split_line = line.split()
+                    html_lines[language]['lemma'].append(''.join([' ' + name.replace('_', ' ') + ',' for name in
+                                                              split_line[
+                                                              4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + \
+                                                     split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_',
+                                                                                                            ' '))
+                    html_lines[language]['def'].append(''.join(
+                        [split_line[split_line.index('|') + 1:][0]] + [' ' + elem for elem in
+                                                                       split_line[
+                                                                       split_line.index(
+                                                                           '|') + 2:]]))
                 else:
-                    line = wordnet_server.get_tab(language, pivot_language_offset, pos)
+                    line = wordnet_server.get_tab(language, pivot_language_offset.split("-")[0], pivot_language_offset.split("-")[1])
                     if line is not None:
-                        line = line.split()
-                        if html_lines[language]['lemma'] != '':
-                            html_lines[language]['lemma'] += ', ' + line[2]
-                        else:
-                            html_lines[language]['lemma'] += line[2]
+                        synline = line[0].split()
+                        html_lines[language]['lemma'].append(synline[2])
         return {'result': html_lines}
 
 

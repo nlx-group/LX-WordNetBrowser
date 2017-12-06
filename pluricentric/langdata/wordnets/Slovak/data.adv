@@ -1,0 +1,553 @@
+  01 This file is a derivation of the wn-slk-lmf.xml file; the original slk-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: slk
+  07 label: Slovak
+00000315 00 r 03 rovno 0 priamo 0 priamočiaro 0 001 ! 00006759 r 0000 |    
+00000392 00 r 02 systematicky 0 dôsledne 0 000 |    
+00000446 00 r 05 zúrivo 0 búrlivo 0 divoko 0 prudko 0 šialene 0 000 |    
+00000523 00 r 01 týmto 0 000 |    
+00000559 00 r 01 vonku 0 001 ! 00003090 r 0000 |    
+00000612 00 r 01 láskavo 0 000 |    
+00000650 00 r 01 aktívne 0 000 |    
+00000688 00 r 03 neobvyklo 0 mimoriadne 0 nezvyčajne 0 001 ! 00008900 r 0000 |    
+00000772 00 r 05 nechtiac 0 nevedome 0 nevedomky 0 proti_svojej_vôli 0 nechcene 0 001 ! 00006592 r 0000 |    
+00000883 00 r 04 oveľa 0 hodne 0 mnoho_ráz 0 omnoho 0 000 |    
+00000949 00 r 03 vľavo 0 doľava 0 naľavo 0 000 |    
+00001005 00 r 01 proti_prúdu 0 000 |    
+00001047 00 r 04 strašne 0 príšerne 0 veľmi 0 hrozne 0 000 |    
+00001116 00 r 03 vnútorne 0 zvnútra 0 vnútri 0 001 ! 00008455 r 0000 |    
+00001194 00 r 01 pravidelne 0 000 |    
+00001234 00 r 01 proti_smeru_chodu_hodinových_ručičiek 0 000 |    
+00001304 00 r 01 formálne 0 000 |    
+00001343 00 r 01 netrpezlivo 0 001 ! 00007899 r 0000 |    
+00001402 00 r 02 úprimne 0 čestne 0 000 |    
+00001450 00 r 01 neúspešne 0 001 ! 00005664 r 0000 |    
+00001509 00 r 03 ozaj 0 veľmi 0 dosť_značne 0 000 |    
+00001568 00 r 02 slabo 0 zle 0 001 ! 00005108 r 0000 |    
+00001627 00 r 02 legitímne 0 zákonne 0 000 |    
+00001678 00 r 01 odborne 0 000 |    
+00001715 00 r 02 predpoludním 0 dopoludnia 0 001 ;c 00319768 n 0000 |    
+00001790 00 r 02 nahlas 0 hlasno 0 000 |    
+00001835 00 r 05 hlavne 0 v_zásade 0 obyčajne 0 všeobecne 0 spravidla 0 000 |    
+00001920 00 r 02 zaslúžene 0 právom 0 000 |    
+00001971 00 r 03 lacno 0 zanedbane 0 chatrne 0 000 |    
+00002028 00 r 02 silno 0 silne 0 001 ! 00003730 r 0000 |    
+00002089 00 r 01 zodpovedne 0 000 |    
+00002129 00 r 03 vo_všeobecnosti 0 v_podstate 0 všeobecne 0 001 ! 00008596 r 0000 |    
+00002219 00 r 02 dovnútra 0 dnu 0 001 ! 00005363 r 0000 |    
+00002282 00 r 04 skutočne 0 spoľahlivo 0 naozaj 0 nepochybne 0 000 |    
+00002357 00 r 03 výhodne 0 prospešne 0 užitočne 0 001 ! 00004394 r 0000 |    
+00002439 00 r 01 neuveriteľne 0 000 |    
+00002482 00 r 02 nanovo 0 odznova 0 001 ;c 00319768 n 0000 |    
+00002547 00 r 02 teatrálne 0 dramaticky 0 000 |    
+00002600 00 r 02 vďakabohu 0 našťastie 0 001 ! 00008688 r 0000 |    
+00002672 00 r 03 s_radosťou 0 radostne 0 veselo 0 000 |    
+00002733 00 r 02 veselo 0 šťastne 0 000 |    
+00002781 00 r 03 značne 0 pozoruhodne 0 nápadne 0 000 |    
+00002843 00 r 04 nazad 0 spätne 0 naspäť 0 dozadu 0 000 |    
+00002908 00 r 01 vedome 0 001 ;c 00364664 n 0000 |    
+00002963 00 r 02 bohato 0 dokonale 0 000 |    
+00003010 00 r 02 preč 0 vonku 0 000 |    
+00003053 00 r 01 opatrne 0 000 |    
+00003090 00 r 04 doma 0 dnu 0 v_dome 0 vnútri 0 001 ! 00000559 r 0000 |    
+00003167 00 r 07 naisto 0 iste 0 určite 0 istotne 0 s_istotou 0 zaiste 0 isto-iste 0 000 |    
+00003263 00 r 02 mimo_dosahu 0 mimo_kontroly 0 000 |    
+00003320 00 r 04 nepredvídane 0 nečakane 0 neočakávane 0 náhodou 0 001 ! 00009230 r 0000 |    
+00003420 00 r 03 obratne 0 schopne 0 šikovne 0 000 |    
+00003478 00 r 02 večne 0 donekonečna 0 000 |    
+00003529 00 r 03 nad 0 vyššie_(spomenuté) 0 hore 0 000 |    
+00003593 00 r 03 na_verejnosti 0 verejne 0 pred_ľuďmi 0 000 |    
+00003661 00 r 04 taktne 0 opatrne 0 diskrétne 0 rozumne 0 000 |    
+00003730 00 r 03 slabo 0 jemne 0 mierne 0 001 ! 00002028 r 0000 |    
+00003800 00 r 01 skromne 0 000 |    
+00003837 00 r 08 hop_hop 0 rýchlo 0 poďme,_poďme 0 tempo,_tempo 0 šup_šup 0 rýchle 0 chvatne 0 náhlivo 0 001 ! 00006855 r 0000 |    
+00003977 00 r 03 nechtiac 0 nevoľky 0 mimovoľne 0 001 ! 00008765 r 0000 |    
+00004057 00 r 02 ľahko 0 jednoducho 0 000 |    
+00004106 00 r 02 viacej 0 väčšmi 0 000 |    
+00004154 00 r 01 ale_naproti_tomu 0 000 |    
+00004200 00 r 01 naj 0 000 |    
+00004233 00 r 01 oficiálne 0 000 |    
+00004273 00 r 04 správne 0 logicky 0 opodstatnene 0 rozumne 0 000 |    
+00004346 00 r 02 viacej 0 väčšmi 0 000 |    
+00004394 00 r 02 nadarmo 0 zbytočne 0 001 ! 00002357 r 0000 |    
+00004461 00 r 08 rýchlo 0 chvatom 0 súrne 0 v_rýchlosti 0 narýchlo 0 napochytro 0 chvatne 0 náhlivo 0 000 |    
+00004578 00 r 02 bohato 0 hojne 0 000 |    
+00004622 00 r 02 dole 0 o_poschodie_nižšie 0 000 |    
+00004679 00 r 06 ani_náhodou_nie 0 nijako 0 nijakým_činom 0 v_žiadnom_prípade 0 nijakým_spôsobom 0 vôbec_nie 0 000 |    
+00004808 00 r 01 neuveriteľne 0 000 |    
+00004851 00 r 02 adekvátne 0 primerane 0 000 |    
+00004903 00 r 05 zriedkakedy 0 zriedka 0 málokedy 0 sotvakedy 0 nie_často 0 001 ! 00006217 r 0000 |    
+00005009 00 r 01 poctivo 0 000 |    
+00005046 00 r 03 skutočne 0 úprimne 0 opravdivo 0 000 |    
+00005108 00 r 01 dobre 0 001 ! 00001568 r 0000 |    
+00005161 00 r 02 účinne 0 efektívne 0 000 |    
+00005212 00 r 02 nie_dlhšie 0 už_nie 0 000 |    
+00005263 00 r 02 presne 0 doslovne 0 000 |    
+00005310 00 r 03 plno- 0 naplno 0 úplne 0 000 |    
+00005363 00 r 01 smerom_von 0 001 ! 00002219 r 0000 |    
+00005421 00 r 03 de_iure 0 legálne 0 právne 0 000 |    
+00005479 00 r 02 úspešne 0 produktívne 0 000 |    
+00005533 00 r 03 potichu 0 pokojne 0 ticho 0 000 |    
+00005588 00 r 05 celkom 0 priemerne 0 slušne 0 dosť 0 pomerne 0 000 |    
+00005664 00 r 01 úspešne 0 001 ! 00001450 r 0000 |    
+00005721 00 r 08 kompletne 0 vcelku 0 celkovo 0 úplne 0 celkom 0 všetko 0 totálne 0 dokonale 0 001 ! 00006690 r 0000 |    
+00005847 00 r 01 pravidelne 0 000 |    
+00005887 00 r 05 náročky 0 vedome 0 úmyselne 0 naschvál 0 zámerne 0 000 |    
+00005970 00 r 04 žiaľ 0 bohužiaľ 0 žiaľbohu 0 nanešťastie 0 000 |    
+00006048 00 r 02 spoľahlivo 0 poctivo 0 000 |    
+00006099 00 r 04 kompletne 0 dôkladne 0 úplne 0 poriadne 0 000 |    
+00006170 00 r 03 dole 0 pod 0 dolu 0 000 |    
+00006217 00 r 05 frekventovane 0 častokrát 0 mnohokrát 0 často 0 veľakrát 0 001 ! 00004903 r 0000 |    
+00006327 00 r 04 večer 0 popoludní 0 poobede 0 odpoludnia 0 001 ;c 00319768 n 0000 |    
+00006418 00 r 01 verejne 0 000 |    
+00006455 00 r 08 úprimne 0 otvorene 0 naozaj 0 rovno 0 na_rovinu 0 priamo 0 aby_som_pravdu_povedal 0 aby_som_povedal_pravdu 0 000 |    
+00006592 00 r 04 slobodne 0 ochotne_rád 0 dobrovoľne 0 bez_odporu 0 001 ! 00000772 r 0000 |    
+00006690 00 r 02 čiastočne 0 sčasti 0 001 ! 00005721 r 0000 |    
+00006759 00 r 01 nepriamo 0 001 ! 00000315 r 0000 |    
+00006815 00 r 01 nevyhnutne 0 000 |    
+00006855 00 r 01 pomaly 0 001 ! 00003837 r 0000 |    
+00006909 00 r 02 rovnomerne 0 rovnako 0 000 |    
+00006959 00 r 03 poväčšine 0 typicky 0 zväčša 0 000 |    
+00007023 00 r 02 dobrovoľne 0 nepovinne 0 000 |    
+00007076 00 r 01 nesprávne 0 001 ! 00007956 r 0000 |    
+00007134 00 r 01 dočasne 0 000 |    
+00007172 00 r 04 strašne 0 veľmi 0 náramne 0 hrozne 0 000 |    
+00007239 00 r 01 presvedčivo 0 000 |    
+00007281 00 r 06 pravdaže 0 prirodzene 0 celkom_správne 0 samozrejme 0 zaiste 0 pochopiteľne 0 000 |    
+00007389 00 r 03 zreteľne 0 nápadne 0 jasne 0 000 |    
+00007447 00 r 04 v_poriadku 0 poriadne 0 slušne 0 ako_treba 0 000 |    
+00007520 00 r 01 výhodne 0 000 |    
+00007558 00 r 05 dole 0 skláňajúci_sa_dole 0 smerom_dole 0 zhora_dole 0 nadol 0 001 ! 00008236 r 0000 |    
+00007669 00 r 01 nekonečne 0 000 |    
+00007709 00 r 03 obozretne 0 ostražito 0 opatrne 0 000 |    
+00007771 00 r 01 nezvyčajne 0 000 |    
+00007812 00 r 03 nedostatočne 0 nedostačujúco 0 chabo 0 001 ! 00008296 r 0000 |    
+00007899 00 r 01 trpezlivo 0 001 ! 00001343 r 0000 |    
+00007956 00 r 04 správne 0 presne 0 korektne 0 bezchybne 0 001 ! 00007076 r 0000 |    
+00008044 00 r 09 evidentne 0 očividne 0 zreteľne 0 zrejme 0 zjavne 0 nepochybne 0 viditeľne 0 samozrejme 0 jasne 0 000 |    
+00008172 00 r 02 nanajvýš 0 v_najlepšom_prípade 0 000 |    
+00008236 00 r 02 nahor 0 hore 0 001 ! 00007558 r 0000 |    
+00008296 00 r 01 dostatočne 0 001 ! 00007812 r 0000 |    
+00008355 00 r 02 perfektne 0 dokonale 0 000 |    
+00008405 00 r 02 umelo 0 neprirodzene 0 000 |    
+00008455 00 r 02 zvonku 0 zvonka 0 001 ! 00001116 r 0000 |    
+00008518 00 r 01 pravidelne 0 000 |    
+00008558 00 r 01 kriticky 0 000 |    
+00008596 00 r 04 dôkladne 0 starostlivo 0 podrobne 0 pozorne 0 001 ! 00002129 r 0000 |    
+00008688 00 r 03 nešťastne 0 smutne 0 smutno 0 001 ! 00002600 r 0000 |    
+00008765 00 r 02 sám_od_seba 0 dobrovoľne 0 001 ! 00003977 r 0000 |    
+00008839 00 r 03 náležite 0 vhodne 0 primerane 0 000 |    
+00008900 00 r 06 bežne 0 normálne 0 obvykle 0 obyčajne 0 zvyčajne 0 spravidla 0 001 ! 00000688 r 0000 |    
+00009012 00 r 01 plným_právom 0 000 |    
+00009056 00 r 01 presne 0 000 |    
+00009092 00 r 02 legitímne 0 zákonne 0 000 |    
+00009143 00 r 02 súkromne 0 dôverne 0 000 |    
+00009193 00 r 01 dopredu 0 000 |    
+00009230 00 r 04 vedome 0 úmyselne 0 zámerne 0 cielene 0 001 ! 00003320 r 0000 |    
+00009317 00 r 01 konkrétne 0 000 |    
+00009357 00 r 01 priaznivo 0 000 |    
+00009396 00 r 04 zanietene 0 oduševnene 0 s_nadšením 0 nadšene 0 000 |    
+00009475 00 r 03 navonok 0 zvonku 0 zvonka 0 000 |    
+00009530 00 r 02 mimochodom 0 apropo,_à_propos 0 000 |    
+00009590 00 r 03 už_nikdy 0 nikdy_viac 0 viackrát_nie 0 000 |    
+00009658 00 r 03 pevne 0 rozhodne 0 vytrvalo 0 000 |    
+00009715 00 r 03 nabok 0 bokom 0 stranou 0 000 |    
+00009768 00 r 02 momentálne 0 teraz 0 000 |    
+00009817 00 r 03 momentálne 0 aktuálne 0 práve 0 000 |    
+00009879 00 r 02 striktne 0 prísne 0 000 |    
+00009927 00 r 03 milo 0 láskavo 0 jemne 0 000 |    
+00009980 00 r 03 blízko 0 tesne 0 úzko 0 000 |    
+00010033 00 r 07 obšírne 0 dlho 0 zdĺhavo 0 detailne 0 podrobne 0 príliš_dlhý 0 zoširoka 0 000 |    
+00010141 00 r 02 priskoro 0 predčasne 0 000 |    
+00010192 00 r 02 pokiaľ_ide_o_mňa 0 osobne 0 000 |    
+00010249 00 r 02 skutočne 0 naozaj 0 000 |    
+00010297 00 r 03 nutne 0 chtiac-nechtiac 0 nevyhnutne 0 000 |    
+00010363 00 r 01 medzinárodne 0 000 |    
+00010406 00 r 02 vôkol 0 naokolo 0 000 |    
+00010452 00 r 01 nasledovne 0 000 |    
+00010492 00 r 03 krok_za_krokom 0 kúsok_po_kúsku 0 postupne 0 000 |    
+00010566 00 r 02 nikam 0 nikde 0 000 |    
+00010609 00 r 05 dokopy 0 celkove 0 celkom 0 dovedna 0 dohromady 0 000 |    
+00010686 00 r 04 energicky 0 pohotovo 0 rázne 0 s_vervou 0 000 |    
+00010756 00 r 02 predovšetkým 0 nadovšetko 0 000 |    
+00010814 00 r 01 ekonomicky 0 000 |    
+00010854 00 r 03 protivne 0 nepríjemne 0 otravne 0 000 |    
+00010916 00 r 01 skôr 0 000 |    
+00010951 00 r 05 improvizovane 0 ex_abrupto 0 nepripravene 0 bez_prípravy 0 narýchlo_pripravený 0 000 |    
+00011062 00 r 03 úplne 0 celkom 0 diametrálne 0 000 |    
+00011122 00 r 02 nervózne 0 úzkostlivo 0 000 |    
+00011175 00 r 02 hore 0 vysoko 0 000 |    
+00011218 00 r 02 tvrdo 0 usilovne 0 000 |    
+00011264 00 r 02 tajnoskársky 0 opatrne 0 000 |    
+00011317 00 r 01 intenzívne 0 000 |    
+00011358 00 r 04 vedľa_seba 0 v_rovnakom_rade 0 na_rovnakej_úrovni 0 v_jednom_rade 0 000 |    
+00011455 00 r 03 obvykle 0 obyčajne 0 zvyčajne 0 000 |    
+00011516 00 r 01 široko-ďaleko 0 000 |    
+00011561 00 r 02 na_všetkých_možných_miestach 0 všade 0 000 |    
+00011632 00 r 02 pod 0 dolu 0 000 |    
+00011672 00 r 01 osobne 0 000 |    
+00011708 00 r 05 úplne 0 absolútne 0 načisto 0 totálne 0 fakticky 0 000 |    
+00011790 00 r 01 potichu 0 000 |    
+00011827 00 r 07 svojvoľne 0 náhodne 0 nesúvisle 0 bez_mierenia 0 ľubovoľne 0 naslepo 0 náhodou 0 000 |    
+00011941 00 r 01 nezvyčajne 0 000 |    
+00011982 00 r 01 nápadne 0 000 |    
+00012020 00 r 03 večne 0 stále 0 donekonečna 0 000 |    
+00012080 00 r 03 priam 0 takmer 0 prakticky 0 000 |    
+00012136 00 r 04 rýchlo 0 pohotovo 0 okamžite 0 bystro 0 000 |    
+00012205 00 r 02 dosť 0 dostatočne 0 000 |    
+00012254 00 r 05 onedlho 0 skoro 0 zanedlho 0 zakrátko 0 čoskoro 0 000 |    
+00012333 00 r 02 nežne 0 jemne 0 000 |    
+00012377 00 r 04 bleskurýchle 0 ihneď 0 bleskovo 0 okamžite 0 000 |    
+00012452 00 r 03 cez_seba 0 naprieč 0 krížom_krážom 0 000 |    
+00012521 00 r 02 samostatne 0 nezávisle 0 000 |    
+00012574 00 r 04 až 0 jedine_že 0 iba_ak 0 len_ak 0 000 |    
+00012638 00 r 06 podľa_všetkého 0 akiste 0 asi 0 pravdepodobne 0 možno 0 zaiste 0 000 |    
+00012734 00 r 03 rovno 0 priamo 0 bez_obalu 0 000 |    
+00012790 00 r 02 prudko 0 šialene 0 000 |    
+00012837 00 r 03 vôkol 0 naokolo 0 neďaleko 0 000 |    
+00012895 00 r 03 opreteky_s_časom 0 ozlomkrky 0 o_sto_šesť 0 000 |    
+00012969 00 r 01 paradoxne 0 000 |    
+00013008 00 r 03 veľmi_rýchlo 0 rapídne 0 okamžite 0 000 |    
+00013075 00 r 01 ekonomicky 0 000 |    
+00013115 00 r 03 nepretržite 0 neprestajne 0 ustavične 0 000 |    
+00013184 00 r 01 technicky 0 000 |    
+00013223 00 r 05 isto 0 nepochybne 0 určite 0 istotne 0 bezpochyby 0 000 |    
+00013303 00 r 01 priamo 0 000 |    
+00013339 00 r 02 zboku 0 bokom 0 000 |    
+00013382 00 r 04 koniec-koncov 0 nakoniec 0 napokon 0 predsa_len 0 000 |    
+00013459 00 r 01 následne 0 000 |    
+00013498 00 r 02 darmo 0 márne 0 000 |    
+00013542 00 r 03 odvtedy 0 ďalej 0 od_(roku_x) 0 000 |    
+00013602 00 r 03 úspešne 0 ľahko 0 hladko 0 000 |    
+00013659 00 r 03 rýchlo 0 narýchlo 0 vo_veľkej_náhlivosti 0 000 |    
+00013733 00 r 03 v_polovici 0 na_pol_cesty 0 uprostred 0 000 |    
+00013800 00 r 03 nečakane 0 z_čista_jasna 0 z_ničoho_nič 0 000 |    
+00013873 00 r 01 krátko 0 000 |    
+00013910 00 r 06 jednostaj 0 bez_prestania 0 nepretržite 0 nekonečne 0 neprestajne 0 ustavične 0 000 |    
+00014020 00 r 03 úžasne 0 ohromne 0 veľmi 0 000 |    
+00014077 00 r 04 spolu_(s) 0 súhrnne 0 dohromady 0 kolektívne 0 000 |    
+00014153 00 r 02 rovnomerne 0 rovnako 0 000 |    
+00014203 00 r 0c podobne 0 tak_isto 0 práve_tak_ako 0 práve_tak 0 rovnako_ako 0 navyše 0 tak_isto_ako 0 tiež 0 okrem_toho 0 taktiež 0 a_tiež 0 rovnako 0 000 |    
+00014372 00 r 07 rozhodne 0 s_konečnou_platnosťou 0 nepochybne 0 za_každú_cenu 0 určite 0 samozrejme 0 definitívne 0 000 |    
+00014505 00 r 02 nakoniec,_ale_predsa 0 v_neposlednom_rade 0 000 |    
+00014576 00 r 02 zvonku 0 zvonka 0 000 |    
+00014621 00 r 03 nezmyselne 0 prudko 0 šialene 0 000 |    
+00014681 00 r 03 radšej 0 skôr 0 pokiaľ_možno 0 000 |    
+00014743 00 r 02 zo_začiatku 0 spočiatku 0 000 |    
+00014798 00 r 03 ako_zvyčajne 0 ako_obvykle 0 ako_obyčajne 0 000 |    
+00014871 00 r 02 mimo_úradných_hodín 0 po_úradných_hodinách 0 000 |    
+00014949 00 r 02 žiarivo 0 jasne 0 000 |    
+00014995 00 r 01 pešo 0 000 |    
+00015030 00 r 03 mnoho 0 často 0 veľa 0 000 |    
+00015082 00 r 02 dovnútra 0 dnu 0 000 |    
+00015127 00 r 02 presne 0 práve 0 000 |    
+00015172 00 r 02 raz 0 niekedy 0 000 |    
+00015215 00 r 01 osobne 0 000 |    
+00015251 00 r 07 opäť 0 zas 0 zasa 0 znova 0 znovu 0 ešte_raz 0 zase 0 000 |    
+00015335 00 r 06 zreteľne 0 značne 0 zjavne 0 významne 0 výrazne 0 nápadne 0 000 |    
+00015427 00 r 07 úžasne 0 ohromne 0 nesmierne 0 úplne 0 neobyčajne 0 značne 0 veľmi 0 000 |    
+00015529 00 r 01 blízko 0 000 |    
+00015566 00 r 01 nebezpečne 0 000 |    
+00015607 00 r 01 písomne 0 000 |    
+00015645 00 r 02 striedavo 0 na_striedačku 0 000 |    
+00015701 00 r 02 rozvážne 0 dôstojne 0 000 |    
+00015753 00 r 02 mechanicky 0 automaticky 0 000 |    
+00015807 00 r 01 neďaleko 0 000 |    
+00015846 00 r 03 nesmierne 0 super 0 extrémne 0 000 |    
+00015905 00 r 02 až_príliš 0 až_priveľmi 0 000 |    
+00015963 00 r 02 pred 0 predtým 0 000 |    
+00016008 00 r 03 natrvalo 0 večne 0 donekonečna 0 000 |    
+00016070 00 r 03 proste 0 jednoducho 0 prosto 0 000 |    
+00016128 00 r 04 neskoršie 0 potom 0 neskôr 0 následne 0 000 |    
+00016198 00 r 01 sociálne 0 000 |    
+00016237 00 r 02 nižšie 0 vnútri_v_listine 0 000 |    
+00016295 00 r 03 každodenne 0 denne 0 na_dennom_poriadku 0 000 |    
+00016365 00 r 04 celonárodne 0 celoštátne 0 krížom_cez_krajinu 0 po_celej_krajine 0 000 |    
+00016464 00 r 03 ďalej 0 potom 0 hneď_potom 0 000 |    
+00016522 00 r 05 stále_viac 0 čoraz_viac 0 narastajúcou_mierou 0 čím_ďalej_tým_viac 0 ešte_viac 0 000 |    
+00016638 00 r 04 kompletne 0 dokorán 0 úplne 0 celkom 0 000 |    
+00016706 00 r 02 už_dávno 0 dávno 0 000 |    
+00016755 00 r 01 politicky 0 000 |    
+00016794 00 r 03 oproti 0 zoči-voči_(niekomu) 0 tvárou_v_tvár 0 000 |    
+00016872 00 r 03 dočasne 0 predbežne 0 provizórne 0 000 |    
+00016937 00 r 01 medzitým 0 000 |    
+00016976 00 r 02 oveľa 0 veľa 0 000 |    
+00017020 00 r 03 úplne 0 celkom 0 načisto 0 000 |    
+00017076 00 r 03 legálne 0 právne 0 zákonne 0 000 |    
+00017135 00 r 02 naopak 0 opačne 0 000 |    
+00017181 00 r 03 priveľmi 0 nadmieru 0 prehnane 0 000 |    
+00017242 00 r 02 vedno 0 spolu 0 000 |    
+00017285 00 r 04 strnulo 0 priamo 0 uprene 0 ustrnuto 0 000 |    
+00017351 00 r 02 prvou_triedou_(list) 0 expresne 0 000 |    
+00017412 00 r 02 ťažko 0 namáhavo 0 000 |    
+00017461 00 r 01 navzájom 0 000 |    
+00017500 00 r 04 vyčerpávajúco 0 podrobne 0 poriadne 0 dopodrobna 0 000 |    
+00017581 00 r 01 ďalej 0 000 |    
+00017617 00 r 02 vonku 0 von 0 000 |    
+00017658 00 r 02 relatívne 0 pomerne 0 000 |    
+00017708 00 r 03 radikálne 0 zásadne 0 rozhodne 0 000 |    
+00017770 00 r 02 bokom 0 stranou 0 000 |    
+00017815 00 r 03 úplne_(ako) 0 celkom_(ako) 0 rovnako 0 000 |    
+00017882 00 r 01 prekvapujúco 0 000 |    
+00017925 00 r 07 z_času_na_čas 0 občas 0 čas_od_času 0 chvíľami 0 príležitostne 0 niekedy 0 raz_začas 0 000 |    
+00018049 00 r 05 vyslovene 0 zreteľne 0 výslovne 0 jednoznačne 0 určite 0 000 |    
+00018137 00 r 02 vcelku 0 predovšetkým 0 000 |    
+00018190 00 r 03 spoločnými_silami 0 spoločne 0 spolu 0 000 |    
+00018259 00 r 03 hodne 0 poriadne 0 dosť 0 000 |    
+00018313 00 r 05 rýchlo 0 bez_ceremónií 0 bezodkladne 0 krátko_a_stručne 0 okamžite 0 000 |    
+00018415 00 r 05 viac-menej 0 akosi 0 tak_nejako 0 v_podstate 0 nejak 0 000 |    
+00018497 00 r 03 predsa_už 0 práve 0 už 0 000 |    
+00018552 00 r 07 naviac 0 aj 0 a_čo_viac 0 potom 0 navyše 0 okrem_toho 0 taktiež 0 000 |    
+00018648 00 r 02 divoko 0 prudko 0 000 |    
+00018693 00 r 03 najmä 0 obzvlášť 0 predovšetkým 0 000 |    
+00018760 00 r 02 v_zámorí 0 v_zahraničí 0 000 |    
+00018816 00 r 01 včera 0 000 |    
+00018852 00 r 01 zdarma 0 000 |    
+00018888 00 r 02 podstatne 0 značne 0 000 |    
+00018937 00 r 01 automaticky 0 000 |    
+00018978 00 r 03 hlava-nehlava 0 divoko 0 prudko 0 000 |    
+00019039 00 r 01 stručne 0 000 |    
+00019077 00 r 05 koniec-koncov 0 nakoniec 0 napokon 0 konečne 0 naozaj 0 000 |    
+00019161 00 r 01 zajtra 0 000 |    
+00019197 00 r 01 ďalej 0 000 |    
+00019233 00 r 05 nutne 0 rozhodne 0 nevyhnutne 0 určite 0 práve 0 000 |    
+00019311 00 r 02 rovno 0 priamo 0 000 |    
+00019355 00 r 04 v_tom_istom_okamihu 0 v_tom_čase 0 ako_tak 0 práve_v_tom_okamihu 0 000 |    
+00019451 00 r 02 prv 0 najsamprv 0 000 |    
+00019496 00 r 04 zďaleka 0 z_diaľky 0 ďaleko 0 v_diaľke 0 000 |    
+00019568 00 r 02 pekne 0 krásne 0 000 |    
+00019613 00 r 04 v_pohode 0 fajn 0 skvele 0 veľmi_dobre 0 000 |    
+00019682 00 r 01 vytrvalo 0 000 |    
+00019720 00 r 01 nízko 0 000 |    
+00019756 00 r 04 nepochybne 0 nepopierateľne 0 nesporne 0 samozrejme 0 000 |    
+00019838 00 r 03 občas 0 príležitostne 0 niekedy 0 000 |    
+00019902 00 r 02 obzvlášť 0 nezvyčajne 0 000 |    
+00019957 00 r 02 pilne 0 usilovne 0 000 |    
+00020003 00 r 01 ťažko 0 000 |    
+00020040 00 r 03 večne 0 naveky 0 navždy 0 000 |    
+00020095 00 r 02 dnes_v_noci 0 dnes_večer 0 000 |    
+00020150 00 r 07 až_príliš 0 neprimerane 0 príliš 0 veľmi 0 neúmerne 0 nadmerne 0 nadbytočne 0 000 |    
+00020263 00 r 04 oproti 0 tvárou_v_tvár 0 naproti 0 zoči-voči 0 000 |    
+00020341 00 r 01 pred_nedávnom 0 000 |    
+00020385 00 r 01 politicky 0 000 |    
+00020424 00 r 02 bez_ladu_a_skladu 0 chaoticky 0 000 |    
+00020483 00 r 03 správne! 0 výborne! 0 super! 0 000 |    
+00020543 00 r 01 oprávnene 0 000 |    
+00020583 00 r 06 na_dôvažok 0 naviac 0 navyše 0 okrem_toho 0 k_tomu 0 k_tomu_ešte 0 000 |    
+00020681 00 r 01 veľmi 0 000 |    
+00020717 00 r 02 kompletne 0 úplne 0 000 |    
+00020765 00 r 04 od_slova_do_slova 0 slovo_po_slove 0 tými_istými_slovami 0 doslovne 0 000 |    
+00020864 00 r 04 naraz 0 súčasne 0 súbežne 0 pritom 0 000 |    
+00020932 00 r 01 načas 0 000 |    
+00020968 00 r 08 približne 0 zhruba 0 cirka 0 okolo 0 skoro 0 asi 0 asi_tak 0 blízko 0 000 |    
+00021067 00 r 03 seriózne 0 ťažko 0 vážne 0 000 |    
+00021126 00 r 01 (ležiaci_presne)_uprostred 0 000 |    
+00021183 00 r 03 chvíľku 0 na_chvíľku 0 na_chvíľu 0 000 |    
+00021251 00 r 02 manuálne 0 ručne 0 000 |    
+00021299 00 r 02 silno 0 silne 0 000 |    
+00021342 00 r 01 voľne 0 000 |    
+00021378 00 r 03 zásadne 0 v_podstate 0 teoreticky 0 000 |    
+00021442 00 r 02 v_tesnej_blízkosti 0 blízko 0 000 |    
+00021501 00 r 01 mlčky 0 000 |    
+00021537 00 r 05 vpred 0 smerujúci_dopredu 0 vpredu 0 napred 0 dopredu 0 000 |    
+00021621 00 r 01 dnes 0 000 |    
+00021655 00 r 02 atď. 0 a_tak_ďalej 0 000 |    
+00021705 00 r 07 podstatne 0 v_základe 0 v_zásade 0 zásadne 0 v_podstate 0 vo_svojej_podstate 0 s_ohľadom_na_podstatu 0 000 |    
+00021839 00 r 03 divne 0 zvláštne 0 čudne 0 000 |    
+00021896 00 r 01 prudko 0 000 |    
+00021932 00 r 03 v_nijakom_prípade 0 nijako 0 vôbec 0 000 |    
+00021998 00 r 01 nevyhnutne 0 000 |    
+00022038 00 r 01 muž_proti_mužovi 0 000 |    
+00022086 00 r 02 zľahka 0 jemne 0 000 |    
+00022131 00 r 04 na_prvý_pohľad 0 zjavne 0 viditeľne 0 zdanlivo 0 000 |    
+00022210 00 r 01 usilovne 0 000 |    
+00022248 00 r 02 smutne 0 smutno 0 000 |    
+00022293 00 r 02 v_pravý_čas 0 načas 0 000 |    
+00022345 00 r 01 hlboko 0 000 |    
+00022381 00 r 04 novo 0 nedávno 0 práve 0 čerstvo 0 000 |    
+00022446 00 r 02 temne 0 tmavo 0 000 |    
+00022489 00 r 03 pekne 0 dobre 0 výborne 0 000 |    
+00022543 00 r 07 energicky 0 kategoricky 0 úplne 0 rozhodne 0 rezolútne 0 rovno 0 bezvýhradne 0 000 |    
+00022652 00 r 01 medzi_(dvoma_vecami) 0 000 |    
+00022702 00 r 01 naposledy 0 000 |    
+00022741 00 r 06 ozaj 0 moc 0 naozaj 0 veľmi 0 vskutku 0 nadmieru 0 000 |    
+00022820 00 r 0a úprimne 0 otvorene 0 stroho 0 nezakryto 0 neslušne 0 rovno 0 hrubo 0 priamo 0 neokrôchane 0 bez_obalu 0 000 |    
+00022954 00 r 04 pred 0 prv 0 predtým 0 skôr 0 000 |    
+00023013 00 r 01 technicky 0 000 |    
+00023052 00 r 01 symbolicky 0 000 |    
+00023092 00 r 02 týždenne 0 každý_týždeň 0 000 |    
+00023152 00 r 01 tragicky 0 000 |    
+00023190 00 r 01 prekvapený 0 000 |    
+00023231 00 r 02 suverénne 0 majstrovsky 0 000 |    
+00023285 00 r 01 najskôr 0 000 |    
+00023323 00 r 03 technicky 0 po_formálnej_stránke 0 technicky_vzaté 0 000 |    
+00023406 00 r 03 kompletne 0 maximálne 0 totálne 0 000 |    
+00023469 00 r 04 teraz 0 pred_chvíľkou 0 práve 0 práve_teraz 0 000 |    
+00023546 00 r 08 vcelku 0 väčšinou 0 skôr_častejšie_ako_nie 0 dosť_často 0 obyčajne 0 skôr 0 zo_zásady 0 spravidla 0 000 |    
+00023684 00 r 03 hore-dolu 0 tam_a_späť 0 sem_a_tam 0 000 |    
+00023750 00 r 03 raz 0 jedného_dňa 0 niekedy 0 000 |    
+00023809 00 r 02 zlostne 0 nahnevane 0 000 |    
+00023858 00 r 02 byť_prichytený_(pri_čine) 0 in_flagranti 0 000 |    
+00023931 00 r 03 ani_trochu 0 nijako 0 vôbec_nie 0 000 |    
+00023993 00 r 02 na_slobode 0 voľne 0 000 |    
+00024042 00 r 02 do_hĺbky 0 hlboko 0 000 |    
+00024090 00 r 02 pozitívne 0 kladne 0 000 |    
+00024139 00 r 04 pravidelne 0 vždy 0 konštantne 0 neustále 0 000 |    
+00024213 00 r 04 improvizovane 0 podľa_chuti 0 spontánne 0 bez_prípravy 0 000 |    
+00024300 00 r 02 formálne 0 oficiálne 0 000 |    
+00024352 00 r 01 tradične 0 000 |    
+00024391 00 r 02 nepríjemne 0 trápne 0 000 |    
+00024442 00 r 03 nakoniec 0 napokon 0 na_záver 0 000 |    
+00024502 00 r 01 nápadne 0 000 |    
+00024540 00 r 04 priveľa 0 príliš 0 priveľmi 0 príliš_veľa 0 000 |    
+00024618 00 r 03 mentálne 0 duševne 0 psychicky 0 000 |    
+00024680 00 r 01 spontánne 0 000 |    
+00024720 00 r 01 nesprávne 0 000 |    
+00024760 00 r 02 včera 0 nedávno 0 000 |    
+00024807 00 r 02 fyzikálne 0 fyzicky 0 000 |    
+00024857 00 r 01 osobne 0 000 |    
+00024893 00 r 04 namosúrene 0 podráždene 0 nahnevane 0 namrzene 0 000 |    
+00024972 00 r 02 odvážne 0 smelo 0 000 |    
+00025019 00 r 03 úplne 0 celkom 0 v_celku 0 000 |    
+00025074 00 r 01 priemerne 0 000 |    
+00025113 00 r 02 ochotne 0 veľmi_rád 0 000 |    
+00025164 00 r 01 okolo 0 000 |    
+00025199 00 r 01 pozorne 0 000 |    
+00025236 00 r 01 ďalej 0 000 |    
+00025272 00 r 03 otvorene 0 rovno 0 priamo 0 000 |    
+00025327 00 r 01 vážne 0 000 |    
+00025364 00 r 01 v_zámorí 0 000 |    
+00025404 00 r 02 mlčky 0 mĺkvo 0 000 |    
+00025449 00 r 02 úprimne 0 otvorene 0 000 |    
+00025498 00 r 03 v_súčasnosti 0 v_dnešných_časoch 0 v_dnešných_dňoch 0 000 |    
+00025587 00 r 03 hádam 0 možno 0 náhodou 0 000 |    
+00025643 00 r 03 nenápadne 0 kradmo 0 potajomky 0 000 |    
+00025704 00 r 06 nádherne 0 vynikajúco 0 úžasne 0 ohromne 0 geniálne 0 nádherne+_skvelo 0 000 |    
+00025810 00 r 03 obvykle 0 obyčajne 0 zvyčajne 0 000 |    
+00025871 00 r 05 bez_platenia 0 bezplatne 0 zdarma 0 zadarmo 0 bez_poplatku 0 000 |    
+00025959 00 r 02 ekonomicky 0 úsporne 0 000 |    
+00026010 00 r 04 nanajvýš 0 nesmierne 0 nadmieru 0 extrémne 0 000 |    
+00026085 00 r 04 bežne 0 normálne 0 obyčajne 0 zvyčajne 0 000 |    
+00026157 00 r 02 nelegálne 0 bokom 0 000 |    
+00026205 00 r 02 seriózne 0 vážne 0 000 |    
+00026254 00 r 02 pomaly 0 lento 0 000 |    
+00026298 00 r 05 nepretržite 0 stále 0 neprestajne 0 ustavične 0 neustále 0 000 |    
+00026388 00 r 03 občas 0 niekedy 0 zavše 0 000 |    
+00026443 00 r 02 pomaly 0 pokojne 0 000 |    
+00026489 00 r 03 hanblivo 0 skromne 0 ostýchavo 0 000 |    
+00026550 00 r 07 razantne 0 narovinu 0 úplne 0 rovno 0 priamo 0 načisto 0 jasne 0 000 |    
+00026644 00 r 02 pohodlne 0 príjemne 0 000 |    
+00026694 00 r 07 oddelene 0 jeden_po_druhom 0 jednotlivo 0 za_sebou 0 po_jednom 0 každý_zvlášť 0 osobne 0 000 |    
+00026815 00 r 04 nijako 0 nijakým_činom 0 nijakým_spôsobom 0 vôbec_nie 0 000 |    
+00026903 00 r 02 prekliato 0 hrozne 0 000 |    
+00026951 00 r 01 nehybne 0 000 |    
+00026988 00 r 02 zboku 0 bokom 0 000 |    
+00027031 00 r 03 pozadu 0 dodatočne 0 neskoro 0 000 |    
+00027090 00 r 01 veselo 0 000 |    
+00027126 00 r 03 naliehavo 0 akútne 0 ostro 0 000 |    
+00027183 00 r 04 ako-tak 0 tak,_ako_je_treba 0 ako,_tak 0 len_to,_čo_je_treba 0 000 |    
+00027274 00 r 01 negatívne 0 000 |    
+00027314 00 r 04 náhle 0 zrazu 0 odrazu 0 z_ničoho_nič 0 000 |    
+00027384 00 r 01 poriadne 0 000 |    
+00027422 00 r 03 identicky 0 totožne 0 zhodne 0 000 |    
+00027481 00 r 05 v_predstihu 0 predtým 0 dopredu 0 skôr 0 vopred 0 000 |    
+00027560 00 r 01 najprv 0 000 |    
+00027596 00 r 04 nakoniec 0 napokon 0 konečne 0 časom 0 000 |    
+00027664 00 r 04 zvlášť 0 extra 0 obzvlášť 0 nezvyčajne 0 000 |    
+00027739 00 r 02 neobyčajne 0 výnimočne 0 000 |    
+00027794 00 r 01 spoločensky 0 000 |    
+00027836 00 r 03 tajne 0 potajme 0 potajomky 0 000 |    
+00027893 00 r 01 profesionálne 0 000 |    
+00027937 00 r 03 raz-dva 0 čo_najrýchlejšie 0 rýchlejšie 0 000 |    
+00028011 00 r 02 odteraz 0 od_toho_času 0 000 |    
+00028064 00 r 02 polovičato 0 napoly 0 000 |    
+00028114 00 r 02 v_zahraničí 0 vonku 0 000 |    
+00028165 00 r 04 natrvalo 0 celkom 0 nadobro 0 navždy 0 000 |    
+00028232 00 r 02 striktne 0 prísne 0 000 |    
+00028280 00 r 01 symbolicky 0 000 |    
+00028320 00 r 04 zďaleka 0 nepochybne 0 nesporne 0 jasne 0 000 |    
+00028390 00 r 03 večne 0 naveky 0 navždy 0 000 |    
+00028445 00 r 01 finančne 0 000 |    
+00028484 00 r 03 hore_nohami 0 zmätene 0 obrátene 0 000 |    
+00028548 00 r 01 predbežne 0 000 |    
+00028588 00 r 03 úplne 0 absolútne 0 rozhodne 0 000 |    
+00028648 00 r 01 dlho 0 000 |    
+00028682 00 r 04 po_hodine 0 s_každou_hodinou 0 hodinu_čo_hodinu 0 každú_hodinu 0 000 |    
+00028778 00 r 02 naraz 0 spoločne 0 000 |    
+00028825 00 r 02 opätovne 0 opakovane 0 000 |    
+00028876 00 r 02 čiste_teoreticky 0 akademicky 0 000 |    
+00028936 00 r 01 najprv 0 000 |    
+00028972 00 r 02 späť_domov 0 smerujúci_domov 0 000 |    
+00029033 00 r 02 naopak 0 obrátene 0 000 |    
+00029081 00 r 03 kúsok_po_kúsku 0 kus_po_kuse 0 postupne 0 000 |    
+00029152 00 r 01 bezpečne 0 000 |    
+00029191 00 r 02 no_tak,_no_tak! 0 hneď_hneď 0 000 |    
+00029250 00 r 0e hoci 0 i_keď 0 a_predsa 0 pri_tom_všetkom 0 a_jednako 0 aj_tak 0 predsa_však 0 napriek 0 predsa_len 0 napriek_tomu 0 jednako 0 len 0 rovnako 0 predsa 0 000 |    
+00029432 00 r 02 starostlivo 0 pozorne 0 000 |    
+00029483 00 r 02 na_chlp_presne 0 absolútne_presne 0 000 |    
+00029547 00 r 06 hlavne 0 prevažne 0 väčšinou 0 obvykle 0 do_značnej_miery 0 zväčša 0 000 |    
+00029651 00 r 05 hlavne 0 zvlášť 0 najmä 0 obzvlášť 0 špeciálne 0 000 |    
+00029736 00 r 02 detailne 0 podrobne 0 000 |    
+00029785 00 r 01 postupne 0 000 |    
+00029823 00 r 04 strašne 0 katastrofálne 0 príšerne 0 hrozne 0 000 |    
+00029900 00 r 03 potom 0 a_tak 0 a_potom 0 000 |    
+00029953 00 r 03 troška 0 trochu 0 trocha 0 000 |    
+00030008 00 r 04 oveľa_viac 0 tým_viac 0 omnoho_viac 0 tým_skôr 0 000 |    
+00030088 00 r 03 na_smrť 0 smrteľne 0 vážne 0 000 |    
+00030148 00 r 01 hlboko 0 000 |    
+00030184 00 r 02 presne_povedané 0 presnejšie_povedané 0 000 |    
+00030254 00 r 05 diagonálne 0 krížom 0 uhlopriečne 0 šikmo 0 naprieč 0 000 |    
+00030341 00 r 02 úprimne 0 srdečne 0 000 |    
+00030390 00 r 01 naživo 0 000 |    
+00030427 00 r 03 skvele 0 jemne 0 dokonale 0 000 |    
+00030482 00 r 06 naraz 0 mihom 0 ihneď 0 zaraz 0 bezodkladne 0 okamžite 0 000 |    
+00030568 00 r 02 mimochodom 0 en_passant 0 000 |    
+00030621 00 r 01 samostatne 0 000 |    
+00030661 00 r 01 naraz 0 000 |    
+00030696 00 r 01 po_prsia 0 000 |    
+00030734 00 r 04 zrazu 0 odrazu 0 z_čista_jasna 0 z_ničoho_nič 0 000 |    
+00030812 00 r 05 záhaľčivo 0 lenivo 0 nečinne 0 ničnerobiac 0 naprázdno 0 000 |    
+00030902 00 r 03 nijako 0 vôbec 0 vôbec_nie 0 000 |    
+00030960 00 r 01 málo 0 000 |    
+00030995 00 r 03 zvlášť 0 špeciálne 0 výnimočne 0 000 |    
+00031062 00 r 04 vo_vnútrozemí 0 do_vnútrozemia 0 ležiaci_vo_vnútrozemí 0 ležiaci_uprostred_krajiny 0 000 |    
+00031181 00 r 04 po_celý_čas 0 od_začiatku 0 stále 0 ustavične 0 000 |    
+00031261 00 r 01 medzitým 0 000 |    
+00031300 00 r 04 vcelku 0 celkovo 0 dohromady 0 v_konečnom_dôsledku 0 000 |    
+00031382 00 r 01 poriadne 0 000 |    
+00031420 00 r 03 zľahka 0 jemne 0 mierne 0 000 |    
+00031474 00 r 01 negatívne 0 000 |    
+00031514 00 r 01 pozdĺž_pobrežia 0 000 |    
+00031562 00 r 06 snáď 0 vari 0 azda 0 hádam 0 možno 0 náhodou 0 000 |    
+00031641 00 r 03 nepochybne 0 nesporne 0 bezpochyby 0 000 |    
+00031705 00 r 04 naraz 0 zároveň 0 súčasne 0 súbežne 0 000 |    
+00031776 00 r 01 úprimne 0 000 |    
+00031814 00 r 01 teplo 0 000 |    
+00031849 00 r 04 každoročne 0 ročne 0 každým_rokom 0 každý_rok 0 000 |    
+00031931 00 r 06 v_tom_prípade 0 ak) 0 pre_prípad 0 pre_každý_prípad 0 iba_pre_prípad 0 pre_ten_prípad 0 000 |    
+00032053 00 r 02 vpredu 0 dopredu 0 000 |    
+00032099 00 r 05 hlavne 0 prevažne 0 najmä 0 predovšetkým 0 zväčša 0 000 |    
+00032185 00 r 02 kompletne 0 plne 0 000 |    
+00032231 00 r 01 lacno 0 000 |    
+00032266 00 r 01 zárobkovo_(činný) 0 000 |    
+00032316 00 r 01 zavčasu 0 000 |    
+00032354 00 r 02 zaslúžene 0 po_zásluhe 0 000 |    
+00032409 00 r 02 dramaticky 0 pôsobivo 0 000 |    
+00032461 00 r 06 opäť 0 znova 0 od_základu 0 znovu 0 nanovo 0 odznova 0 000 |    
+00032546 00 r 01 logicky 0 000 |    
+00032583 00 r 02 úplne 0 celkom 0 000 |    
+00032628 00 r 03 náhle 0 odrazu 0 neočakávane 0 000 |    
+00032689 00 r 03 dookola 0 celý_čas 0 okolo 0 000 |    
+00032747 00 r 06 striktne 0 výhradne 0 jedine 0 načisto 0 čisto 0 len 0 000 |    
+00032832 00 r 01 uprostred_týždňa 0 000 |    
+00032881 00 r 01 z_(dôvodu) 0 000 |    
+00032922 00 r 02 ofsajd 0 postavenie_mimo_hry 0 000 |    
+00032980 00 r 02 každoročne 0 ročne 0 000 |    
+00033031 00 r 01 kedysi 0 000 |    
+00033067 00 r 02 potom 0 nato 0 000 |    
+00033109 00 r 06 skrátka 0 stručne 0 stručne_povedané 0 slovom 0 povedané_v_krátkosti 0 výstižne 0 000 |    
+00033226 00 r 02 mnoho 0 veľmi 0 000 |    
+00033270 00 r 06 hlavato 0 úmyselne 0 schválne 0 naschvál 0 zámerne 0 umienene 0 000 |    

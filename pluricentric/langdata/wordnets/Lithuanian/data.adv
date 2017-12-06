@@ -1,0 +1,533 @@
+  01 This file is a derivation of the wn-lit-lmf.xml file; the original lit-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: lit
+  07 label: Lithuanian
+00000319 00 r 02 tiesiai 0 tiesiogiai 0 001 ! 00005770 r 0000 |    
+00000387 00 r 02 nuosekliai 0 sistemingai 0 000 |    
+00000441 00 r 02 smarkiai 0 pašėlusiai 0 000 |    
+00000494 00 r 01 tokiu_būdu 0 000 |    
+00000535 00 r 01 lauke 0 001 ! 00002824 r 0000 |    
+00000588 00 r 01 maloniai 0 000 |    
+00000626 00 r 01 aktyviai 0 000 |    
+00000664 00 r 03 išskirtinai 0 nepaprastai 0 itin 0 001 ! 00007681 r 0000 |    
+00000745 00 r 03 nenoromis 0 prieš_savo_valią 0 nenoriai 0 001 ! 00005629 r 0000 |    
+00000834 00 r 03 labai 0 didžiai 0 daug 0 000 |    
+00000887 00 r 02 kairėje 0 kairėn 0 000 |    
+00000935 00 r 01 prieš_srovę 0 000 |    
+00000978 00 r 03 labai 0 siaubingai 0 baisiai 0 000 |    
+00001036 00 r 02 iš_vidaus 0 viduje 0 001 ! 00007265 r 0000 |    
+00001103 00 r 01 reguliariai 0 000 |    
+00001144 00 r 01 prieš_laikrodžio_rodyklę 0 000 |    
+00001201 00 r 01 oficialiai 0 000 |    
+00001241 00 r 01 nekantriai 0 001 ! 00006802 r 0000 |    
+00001299 00 r 02 dorai 0 sąžiningai 0 000 |    
+00001349 00 r 01 nesėkmingai 0 001 ! 00004969 r 0000 |    
+00001409 00 r 02 labai 0 nepaprastai 0 000 |    
+00001458 00 r 03 prastai 0 blogai 0 silpnai 0 001 ! 00004442 r 0000 |    
+00001532 00 r 01 teisėtai 0 000 |    
+00001571 00 r 01 profesionaliai 0 000 |    
+00001615 00 r 02 priešpiet 0 iki_pietų 0 001 ;c 00118180 n 0000 |    
+00001687 00 r 01 garsiai 0 000 |    
+00001724 00 r 02 bendrai 0 apskritai 0 000 |    
+00001773 00 r 01 pelnytai 0 000 |    
+00001811 00 r 01 pigiai 0 000 |    
+00001847 00 r 01 stipriai 0 001 ! 00003277 r 0000 |    
+00001903 00 r 01 atsakingai 0 000 |    
+00001943 00 r 02 bendrai 0 apskritai 0 001 ! 00007421 r 0000 |    
+00002010 00 r 02 gilyn 0 vidun 0 001 ! 00004690 r 0000 |    
+00002071 00 r 02 iš_tiesų 0 tikrai 0 000 |    
+00002120 00 r 01 naudingai 0 001 ! 00003867 r 0000 |    
+00002177 00 r 01 neįtikėtinai 0 000 |    
+00002221 00 r 01 iš_naujo 0 001 ;c 00118180 n 0000 |    
+00002279 00 r 02 dramatiškai 0 sukrečiančiai 0 000 |    
+00002339 00 r 02 laimei 0 laimingai 0 001 ! 00007502 r 0000 |    
+00002405 00 r 03 džiugiai 0 džiaugsmingai 0 linksmai 0 000 |    
+00002472 00 r 03 laimingai 0 džiaugsmingai 0 linksmai 0 000 |    
+00002539 00 r 02 pastebimai 0 ženkliai 0 000 |    
+00002591 00 r 02 atgalios 0 atgal 0 000 |    
+00002637 00 r 01 sąmoningai 0 000 |    
+00002678 00 r 01 pakankamai 0 000 |    
+00002718 00 r 03 šalin 0 lauk 0 į_šalį 0 000 |    
+00002773 00 r 02 apdairiai 0 atsargiai 0 000 |    
+00002824 00 r 02 namie 0 viduje 0 001 ! 00000535 r 0000 |    
+00002886 00 r 03 be_abejo 0 žinoma 0 tikrai 0 000 |    
+00002943 00 r 03 netikėtai 0 nelauktai 0 atsitiktinai 0 001 ! 00007963 r 0000 |    
+00003028 00 r 02 kompetentingai 0 sumaniai 0 000 |    
+00003083 00 r 01 amžinai 0 000 |    
+00003121 00 r 02 aukščiau 0 viršuje 0 000 |    
+00003172 00 r 01 viešai 0 000 |    
+00003209 00 r 03 taktiškai 0 diskretiškai 0 apdairiai 0 000 |    
+00003277 00 r 02 švelniai 0 silpnai 0 001 ! 00001847 r 0000 |    
+00003344 00 r 01 kukliai 0 000 |    
+00003381 00 r 03 sparčiai 0 greitai 0 vikriai 0 001 ! 00005885 r 0000 |    
+00003458 00 r 02 prievarta 0 ne_savo_noru 0 001 ! 00007572 r 0000 |    
+00003530 00 r 02 lengvai 0 nesunkiai 0 000 |    
+00003579 00 r 01 labiau 0 000 |    
+00003615 00 r 03 antra_vertus 0 kita_vertus 0 iš_kitos_pusės 0 000 |    
+00003690 00 r 02 užvis 0 labiausiai 0 000 |    
+00003739 00 r 01 oficialiai 0 000 |    
+00003779 00 r 02 protingai 0 logiškai 0 000 |    
+00003830 00 r 01 daugiau 0 000 |    
+00003867 00 r 02 nenaudingai 0 be_naudos 0 001 ! 00002120 r 0000 |    
+00003938 00 r 03 skubiai 0 paskubomis 0 skubotai 0 000 |    
+00003999 00 r 02 gausiai 0 apsčiai 0 000 |    
+00004047 00 r 02 apačioje 0 žemutiniame_aukšte 0 000 |    
+00004109 00 r 03 jokiu_būdu 0 visai_ne 0 visiškai_ne 0 000 |    
+00004176 00 r 01 neįtikėtinai 0 000 |    
+00004220 00 r 02 adekvačiai 0 atitinkamai 0 000 |    
+00004275 00 r 02 nedažnai 0 retai 0 001 ! 00005404 r 0000 |    
+00004340 00 r 02 švariai 0 garbingai 0 000 |    
+00004390 00 r 02 nuoširdžiai 0 tikrai 0 000 |    
+00004442 00 r 01 gerai 0 001 ! 00001458 r 0000 |    
+00004495 00 r 02 efektyviai 0 veiksmingai 0 000 |    
+00004549 00 r 01 jau_nebe 0 000 |    
+00004587 00 r 02 tiksliai 0 pažodžiui 0 000 |    
+00004639 00 r 02 ligi_galo 0 visiškai 0 000 |    
+00004690 00 r 02 išorėn 0 laukan 0 001 ! 00002010 r 0000 |    
+00004755 00 r 03 de_jure 0 teisiškai 0 juridiškai 0 000 |    
+00004819 00 r 02 vaisingai 0 produktyviai 0 000 |    
+00004873 00 r 01 ramiai 0 000 |    
+00004909 00 r 03 ganėtinai 0 pakankamai 0 gana 0 000 |    
+00004969 00 r 01 sėkmingai 0 001 ! 00001349 r 0000 |    
+00005027 00 r 03 visai 0 visiškai 0 absoliučiai 0 001 ! 00005702 r 0000 |    
+00005107 00 r 02 vienodai 0 tolygiai 0 000 |    
+00005156 00 r 02 tyčia 0 sąmoningai 0 000 |    
+00005206 00 r 02 nelaimei 0 deja 0 000 |    
+00005251 00 r 02 patikimai 0 ištikimai 0 000 |    
+00005303 00 r 02 smarkiai 0 visiškai 0 000 |    
+00005353 00 r 03 žemai 0 žemiau 0 po 0 000 |    
+00005404 00 r 01 dažnai 0 001 ! 00004275 r 0000 |    
+00005459 00 r 02 vakare 0 popiet 0 001 ;c 00118180 n 0000 |    
+00005523 00 r 01 viešai 0 000 |    
+00005560 00 r 03 atvirai 0 nuoširdžiai 0 tiesą_sakant 0 000 |    
+00005629 00 r 03 mielai 0 noromis 0 noriai 0 001 ! 00000745 r 0000 |    
+00005702 00 r 02 iš_dalies 0 dalinai 0 001 ! 00005027 r 0000 |    
+00005770 00 r 01 netiesiogiai 0 001 ! 00000319 r 0000 |    
+00005830 00 r 02 būtinai 0 neišvengiamai 0 000 |    
+00005885 00 r 01 lėtai 0 001 ! 00003381 r 0000 |    
+00005939 00 r 02 vienodai 0 lygiai 0 000 |    
+00005986 00 r 02 tipiškai 0 įprastai 0 000 |    
+00006037 00 r 02 pasirinktinai 0 neprivalomai 0 000 |    
+00006095 00 r 02 klaidingai 0 neteisingai 0 001 ! 00006858 r 0000 |    
+00006167 00 r 01 laikinai 0 000 |    
+00006205 00 r 03 labai 0 baisiai 0 nepaprastai 0 000 |    
+00006264 00 r 01 įtikinamai 0 000 |    
+00006305 00 r 01 žinoma 0 000 |    
+00006342 00 r 02 pastebimai 0 aiškiai 0 000 |    
+00006393 00 r 02 tinkamai 0 prideramai 0 000 |    
+00006444 00 r 02 naudingai 0 palankiai 0 000 |    
+00006495 00 r 02 atgalios 0 atgal 0 001 ! 00007905 r 0000 |    
+00006559 00 r 01 žemyn 0 001 ! 00007035 r 0000 |    
+00006613 00 r 01 be_galo 0 000 |    
+00006650 00 r 02 apdairiai 0 atsargiai 0 000 |    
+00006701 00 r 01 neįprastai 0 000 |    
+00006742 00 r 01 nepakankamai 0 001 ! 00007104 r 0000 |    
+00006802 00 r 01 kantriai 0 001 ! 00001241 r 0000 |    
+00006858 00 r 02 tiksliai 0 teisingai 0 001 ! 00006095 r 0000 |    
+00006926 00 r 03 neabejotinai 0 akivaizdžiai 0 aiškiai 0 000 |    
+00006995 00 r 01 daugiausia 0 000 |    
+00007035 00 r 02 aukštyn 0 į_viršų 0 001 ! 00006559 r 0000 |    
+00007104 00 r 01 pakankamai 0 001 ! 00006742 r 0000 |    
+00007162 00 r 02 idealiai 0 tobulai 0 000 |    
+00007210 00 r 02 dirbtinai 0 nenatūraliai 0 000 |    
+00007265 00 r 02 iš_išorės 0 iš_šalies 0 001 ! 00001036 r 0000 |    
+00007339 00 r 01 taisyklingai 0 000 |    
+00007381 00 r 01 kritiškai 0 000 |    
+00007421 00 r 03 tiksliai 0 įdėmiai 0 nuodugniai 0 001 ! 00001943 r 0000 |    
+00007502 00 r 02 liūdnai 0 nelaimingai 0 001 ! 00002339 r 0000 |    
+00007572 00 r 01 savanoriškai 0 001 ! 00003458 r 0000 |    
+00007633 00 r 02 tinkamai 0 deramai 0 000 |    
+00007681 00 r 02 dažniausiai 0 paprastai 0 001 ! 00000664 r 0000 |    
+00007753 00 r 03 pelnytai 0 teisingai 0 pagrįstai 0 000 |    
+00007816 00 r 01 tiksliai 0 000 |    
+00007854 00 r 02 teisėtai 0 leistinai 0 000 |    
+00007905 00 r 01 į_priekį 0 001 ! 00006495 r 0000 |    
+00007963 00 r 02 tyčia 0 sąmoningai 0 001 ! 00002943 r 0000 |    
+00008031 00 r 01 konkrečiai 0 000 |    
+00008072 00 r 01 palankiai 0 000 |    
+00008111 00 r 02 su_užsidegimu 0 entuziastingai 0 000 |    
+00008172 00 r 02 iš_pažiūros 0 išoriškai 0 000 |    
+00008230 00 r 02 beje 0 tarp_kita_ko 0 000 |    
+00008279 00 r 01 niekada_daugiau 0 000 |    
+00008324 00 r 02 atkakliai 0 tvirtai 0 000 |    
+00008373 00 r 03 šalin 0 išskyrus 0 atskirai 0 000 |    
+00008432 00 r 02 dabar 0 šiuo_metu 0 000 |    
+00008480 00 r 02 dabar 0 šiuo_metu 0 000 |    
+00008528 00 r 01 griežtai 0 000 |    
+00008567 00 r 02 meiliai 0 švelniai 0 000 |    
+00008616 00 r 02 glaudžiai 0 artimai 0 000 |    
+00008666 00 r 03 ilgokai 0 ilgai 0 ištęstai 0 000 |    
+00008724 00 r 01 per_anksti 0 000 |    
+00008764 00 r 02 pats 0 asmeniškai 0 000 |    
+00008812 00 r 03 išties 0 iš_tikrųjų 0 tikrai 0 000 |    
+00008874 00 r 02 neišvengiamai 0 noromis_nenoromis 0 000 |    
+00008938 00 r 02 tarptautiškai 0 tarptautiniu_mastu 0 000 |    
+00009003 00 r 02 aplink 0 aplinkui 0 000 |    
+00009050 00 r 02 taip 0 šitaip 0 000 |    
+00009094 00 r 03 pamažu 0 palaipsniui 0 žingsnis_po_žingsnio 0 000 |    
+00009170 00 r 01 niekur 0 000 |    
+00009206 00 r 02 iš_viso 0 apskritai 0 000 |    
+00009256 00 r 02 energingai 0 stipriai 0 000 |    
+00009307 00 r 01 svarbiausia 0 000 |    
+00009348 00 r 01 ekonomikos_požiūriu 0 000 |    
+00009399 00 r 02 apmaudžiai 0 erzinančiai 0 000 |    
+00009455 00 r 01 anksčiau 0 000 |    
+00009494 00 r 03 netikėtai 0 ekspromtu 0 nepasirengus 0 000 |    
+00009561 00 r 02 diametraliai 0 visiškai_priešingai 0 000 |    
+00009627 00 r 02 neramiai 0 nervingai 0 000 |    
+00009677 00 r 01 aukštai 0 000 |    
+00009715 00 r 01 smarkiai 0 000 |    
+00009753 00 r 02 apdairiai 0 atsargiai 0 000 |    
+00009804 00 r 01 intensyviai 0 000 |    
+00009845 00 r 02 viena_linija 0 greta 0 000 |    
+00009895 00 r 02 iš_papratimo 0 iš_įpročio 0 000 |    
+00009954 00 r 02 skersai_išilgai 0 visur 0 000 |    
+00010008 00 r 01 visur 0 000 |    
+00010043 00 r 02 apačioje 0 žemiau 0 000 |    
+00010092 00 r 02 pats 0 asmeniškai 0 000 |    
+00010140 00 r 03 visai 0 visiškai 0 absoliučiai 0 000 |    
+00010202 00 r 02 tylomis 0 tyliai 0 000 |    
+00010248 00 r 04 be_skirtumo 0 nesirenkant 0 kaip_pakliūva 0 atsitiktinai 0 000 |    
+00010335 00 r 01 neįprastai 0 000 |    
+00010376 00 r 01 ženkliai 0 000 |    
+00010415 00 r 02 amžinai 0 be_galo 0 000 |    
+00010463 00 r 03 beveik 0 bemaž 0 kone 0 000 |    
+00010515 00 r 03 greitai 0 skubiai 0 vikriai 0 000 |    
+00010572 00 r 03 užtektinai 0 pakankamai 0 gana 0 000 |    
+00010633 00 r 02 netrukus 0 tuojau 0 000 |    
+00010680 00 r 02 meiliai 0 švelniai 0 000 |    
+00010729 00 r 03 tučtuojau 0 akimirksniu 0 iš_karto 0 000 |    
+00010795 00 r 02 susikryžiuojančiai 0 kryžmai 0 000 |    
+00010856 00 r 02 savarankiškai 0 nepriklausomai 0 000 |    
+00010917 00 r 02 jei_tik 0 jeigu_tiktai 0 000 |    
+00010969 00 r 04 turbūt 0 matyt 0 tikriausiai 0 greičiausiai 0 000 |    
+00011044 00 r 02 tiesiai 0 atvirai 0 000 |    
+00011091 00 r 01 visu_greičiu,_skubiai 0 000 |    
+00011143 00 r 02 aplink 0 netoli 0 000 |    
+00011188 00 r 01 paradoksaliai 0 000 |    
+00011231 00 r 03 labai_greitai 0 tuoj_pat 0 akimirksniu 0 000 |    
+00011299 00 r 01 ekonomikos_požiūriu 0 000 |    
+00011350 00 r 02 be_pertraukos 0 iš_eilės 0 000 |    
+00011406 00 r 01 techniškai 0 000 |    
+00011447 00 r 02 neabejotinai 0 tikrai 0 000 |    
+00011498 00 r 01 tiesiogiai 0 000 |    
+00011538 00 r 02 kraštu 0 šonu 0 000 |    
+00011583 00 r 02 pagaliau 0 galų_gale 0 000 |    
+00011634 00 r 03 dėl_tos_priežasties 0 todėl 0 taigi 0 000 |    
+00011702 00 r 03 bergždžiai 0 veltui 0 tuščiai 0 000 |    
+00011765 00 r 02 nuo 0 vėliau 0 000 |    
+00011808 00 r 01 sklandžiai 0 000 |    
+00011849 00 r 02 greitai 0 skubiai 0 000 |    
+00011896 00 r 02 pusiaukelėje 0 viduryje 0 000 |    
+00011950 00 r 02 visai_netikėtai 0 nelauktai 0 000 |    
+00012008 00 r 01 trumpai 0 000 |    
+00012045 00 r 02 be_galo 0 nepaliaujamai 0 000 |    
+00012098 00 r 03 sudėjus 0 kartu 0 drauge 0 000 |    
+00012153 00 r 02 tolygiai 0 lygiai 0 000 |    
+00012200 00 r 03 irgi 0 taip_pat 0 be_to 0 000 |    
+00012253 00 r 02 neabejotinai 0 aiškiai 0 000 |    
+00012306 00 r 01 galiausiai,_bet_ne_mažiau_svarbu 0 000 |    
+00012369 00 r 02 iš_išorės 0 išoriškai 0 000 |    
+00012425 00 r 02 smarkiai 0 stipriai 0 000 |    
+00012474 00 r 03 mieliau 0 verčiau 0 geriau 0 000 |    
+00012531 00 r 01 iš_pradžių 0 000 |    
+00012574 00 r 01 kaip_paprastai 0 000 |    
+00012618 00 r 01 po_darbo 0 000 |    
+00012656 00 r 02 skaisčiai 0 spindinčiai 0 000 |    
+00012711 00 r 02 pėsčiomis 0 pėsčiom 0 000 |    
+00012764 00 r 02 dažnai 0 daug 0 000 |    
+00012808 00 r 02 vidun 0 į_vidų 0 000 |    
+00012854 00 r 02 būtent 0 kaip_tik 0 000 |    
+00012902 00 r 02 kada_nors 0 kažkada 0 000 |    
+00012952 00 r 01 kaip_asmuo 0 000 |    
+00012992 00 r 03 iš_naujo 0 dar_kartą 0 vėl 0 000 |    
+00013051 00 r 06 ryškiai 0 akivaizdžiai 0 smarkiai 0 ženkliai 0 aiškiai 0 žymiai 0 000 |    
+00013149 00 r 03 labai 0 žymiai 0 nepaprastai 0 000 |    
+00013208 00 r 01 glaudžiai 0 000 |    
+00013248 00 r 01 pavojingai 0 000 |    
+00013288 00 r 01 raštu 0 000 |    
+00013324 00 r 01 pakaitomis 0 000 |    
+00013364 00 r 02 rimtai 0 oriai 0 000 |    
+00013408 00 r 02 mašinaliai 0 automatiškai 0 000 |    
+00013465 00 r 02 šalia 0 netoliese 0 000 |    
+00013513 00 r 03 labai 0 ypač 0 nepaprastai 0 000 |    
+00013570 00 r 02 labai 0 nepaprastai 0 000 |    
+00013619 00 r 02 prieš 0 prieš_tai 0 000 |    
+00013668 00 r 01 neribotam_laikui 0 000 |    
+00013714 00 r 01 neabejotinai 0 000 |    
+00013756 00 r 03 vėliau 0 po_to 0 paskui 0 000 |    
+00013810 00 r 01 socialiai 0 000 |    
+00013849 00 r 02 puslapio_apačioje 0 žemiau 0 000 |    
+00013907 00 r 02 kasdien 0 kiekvieną_dieną 0 000 |    
+00013964 00 r 02 visos_šalies_mastu 0 po_visą_šalį 0 000 |    
+00014031 00 r 03 vėliau 0 po_to 0 paskui 0 000 |    
+00014085 00 r 02 vis_daugiau 0 vis_labiau 0 000 |    
+00014139 00 r 02 visai 0 visiškai 0 000 |    
+00014186 00 r 02 labai_seniai 0 seniai 0 000 |    
+00014237 00 r 01 politiškai 0 000 |    
+00014278 00 r 02 vienas_priešais_kitą 0 akis_į_akį 0 000 |    
+00014345 00 r 01 laikinai 0 000 |    
+00014383 00 r 01 tuo_tarpu 0 000 |    
+00014422 00 r 01 žymiai 0 000 |    
+00014459 00 r 02 visiškai 0 absoliučiai 0 000 |    
+00014513 00 r 02 teisėtai 0 legaliai 0 000 |    
+00014563 00 r 02 atvirkščiai 0 atbulai 0 000 |    
+00014616 00 r 01 lupikiškai 0 000 |    
+00014657 00 r 02 kartu 0 drauge 0 000 |    
+00014701 00 r 03 įdėmiai 0 nekintamai 0 nejudamai 0 000 |    
+00014765 00 r 02 skubiai 0 skubiu_paštu 0 000 |    
+00014818 00 r 02 sunkiai 0 triūsliai 0 000 |    
+00014868 00 r 01 abipusiai 0 000 |    
+00014907 00 r 03 išsamiai 0 nuosekliai 0 kruopščiai 0 000 |    
+00014974 00 r 01 toliau 0 000 |    
+00015010 00 r 01 laukan 0 000 |    
+00015046 00 r 01 palyginti 0 000 |    
+00015085 00 r 01 radikaliai 0 000 |    
+00015125 00 r 02 atskirai 0 į_šalį 0 000 |    
+00015175 00 r 03 vienodai 0 taip_pat 0 lygiai 0 000 |    
+00015233 00 r 02 stulbinamai 0 stebėtinai 0 000 |    
+00015288 00 r 03 retkarčiais 0 kartais 0 kai_kada 0 000 |    
+00015351 00 r 01 specialiai 0 000 |    
+00015391 00 r 03 bendrai 0 kartu 0 drauge 0 000 |    
+00015445 00 r 01 beveik 0 000 |    
+00015481 00 r 03 neatidėliotinai 0 be_ceremonijų 0 iš_karto 0 000 |    
+00015556 00 r 03 ganėtinai 0 pakankamai 0 gana 0 000 |    
+00015616 00 r 01 jau 0 000 |    
+00015649 00 r 01 be_to 0 000 |    
+00015684 00 r 02 smarkiai 0 nevaldomai 0 000 |    
+00015735 00 r 02 ypač 0 ypatingai 0 000 |    
+00015782 00 r 02 už_vandenyno 0 užsienyje 0 000 |    
+00015838 00 r 01 vakar 0 000 |    
+00015873 00 r 01 su_apmokėtomis_pašto_išlaidomis 0 000 |    
+00015937 00 r 02 ženkliai 0 žymiai 0 000 |    
+00015986 00 r 02 nesąmoningai 0 nevalingai 0 000 |    
+00016042 00 r 03 nekontroliuojamai 0 smarkiai 0 pašėlusiai 0 000 |    
+00016115 00 r 01 glaustai 0 000 |    
+00016153 00 r 03 pagaliau 0 galiausiai 0 galų_gale 0 000 |    
+00016217 00 r 01 rytoj 0 000 |    
+00016252 00 r 01 tolyn 0 000 |    
+00016287 00 r 01 tiesiai 0 000 |    
+00016324 00 r 02 tuomet 0 kaip_tik_tuo_metu 0 000 |    
+00016380 00 r 03 iš_pradžių 0 pirmiausiai 0 pirma 0 000 |    
+00016445 00 r 01 toli 0 000 |    
+00016479 00 r 02 gražiai 0 patraukliai 0 000 |    
+00016531 00 r 03 puikiai 0 labai_gerai 0 gerai 0 000 |    
+00016590 00 r 01 ištvermingai 0 000 |    
+00016633 00 r 01 žemai 0 000 |    
+00016669 00 r 02 tiesa 0 žinoma 0 000 |    
+00016714 00 r 02 retkarčiais 0 kartkarčiais 0 000 |    
+00016772 00 r 01 nepaprastai 0 000 |    
+00016813 00 r 01 įtemptai 0 000 |    
+00016852 00 r 03 per_amžius 0 amžinai 0 be_galo 0 000 |    
+00016914 00 r 02 šįvakar 0 šiąnakt 0 000 |    
+00016965 00 r 02 pernelyg 0 per_daug 0 000 |    
+00017014 00 r 02 priešais 0 akis_į_akį 0 000 |    
+00017068 00 r 02 neseniai 0 pastaruoju_metu 0 000 |    
+00017124 00 r 01 politiškai 0 000 |    
+00017165 00 r 03 chaotiškai 0 bet_kaip 0 pakrikai 0 000 |    
+00017228 00 r 02 puiku! 0 tinka! 0 000 |    
+00017273 00 r 01 teisėtai 0 000 |    
+00017312 00 r 03 kartu 0 drauge 0 be_to 0 000 |    
+00017364 00 r 01 labai 0 000 |    
+00017399 00 r 01 pilnai 0 000 |    
+00017435 00 r 01 pažodžiui 0 000 |    
+00017476 00 r 03 tuo_pat_metu 0 drauge 0 vienu_metu 0 000 |    
+00017540 00 r 01 laiku 0 000 |    
+00017575 00 r 04 daugmaž 0 apytikriai 0 maždaug 0 apytiksliai 0 000 |    
+00017651 00 r 03 sunkiai 0 rimtai 0 smarkiai 0 000 |    
+00017708 00 r 01 pačiame_viduryje 0 000 |    
+00017755 00 r 02 neilgai 0 kurį_laiką 0 000 |    
+00017807 00 r 02 ranka 0 rankiniu_būdu 0 000 |    
+00017859 00 r 02 galingai 0 stipriai 0 000 |    
+00017908 00 r 01 laisvai 0 000 |    
+00017945 00 r 03 iš_principo 0 teoriškai 0 iš_esmės 0 000 |    
+00018013 00 r 02 netoli 0 arti 0 000 |    
+00018056 00 r 03 nebyliai 0 numanomai 0 tyliai 0 000 |    
+00018115 00 r 02 pirmyn 0 į_priekį 0 000 |    
+00018164 00 r 01 šiandien 0 000 |    
+00018203 00 r 02 ir_taip_toliau 0 ir_kita 0 000 |    
+00018257 00 r 02 iš_prigimties 0 iš_esmės 0 000 |    
+00018314 00 r 02 neįprastai 0 keistai 0 000 |    
+00018365 00 r 01 iš_visų_jėgų 0 000 |    
+00018411 00 r 02 nė_kiek 0 visai_ne 0 000 |    
+00018460 00 r 01 neišvengiamai 0 000 |    
+00018504 00 r 01 vienas_prieš_kitą 0 000 |    
+00018553 00 r 02 pamažu 0 palengva 0 000 |    
+00018601 00 r 04 regis 0 iš_pirmo_žvilgsnio 0 rodos 0 sprendžiant_iš_išorės 0 000 |    
+00018695 00 r 01 liūdnai 0 000 |    
+00018733 00 r 01 tinkamu_laiku 0 000 |    
+00018776 00 r 01 toli 0 000 |    
+00018810 00 r 02 neseniai 0 ką_tik 0 000 |    
+00018858 00 r 01 tamsiai 0 000 |    
+00018895 00 r 03 gražiai 0 puikiai 0 gerai 0 000 |    
+00018951 00 r 03 griežtai 0 besąlygiškai 0 kategoriškai 0 000 |    
+00019023 00 r 01 tarp 0 000 |    
+00019057 00 r 01 paskutinį_kartą 0 000 |    
+00019104 00 r 03 labai 0 nepaprastai 0 tikrai 0 000 |    
+00019162 00 r 03 tiesiai 0 atvirai 0 stačiai 0 000 |    
+00019220 00 r 03 prieš_tai 0 anksčiau 0 pirmiau 0 000 |    
+00019282 00 r 01 techniškai 0 000 |    
+00019323 00 r 02 kas_savaitę 0 kiekvieną_savaitę 0 000 |    
+00019387 00 r 01 tragiškai 0 000 |    
+00019427 00 r 02 meistriškai 0 puikiai 0 000 |    
+00019479 00 r 01 anksčiausiai 0 000 |    
+00019522 00 r 02 ligi_galo 0 visiškai 0 000 |    
+00019573 00 r 02 vos 0 ką_tik 0 000 |    
+00019616 00 r 02 paprastai 0 apskritai 0 000 |    
+00019667 00 r 01 pirmyn_ir_atgal 0 000 |    
+00019712 00 r 02 kada_nors 0 vieną_dieną 0 000 |    
+00019767 00 r 01 piktai 0 000 |    
+00019803 00 r 02 jokiu_būdu 0 niekaip 0 000 |    
+00019854 00 r 02 laisvai 0 palaidai 0 000 |    
+00019902 00 r 02 gilyn 0 giliai 0 000 |    
+00019946 00 r 02 konstruktyviai 0 teigiamai 0 000 |    
+00020002 00 r 05 nuolat 0 visada 0 be_perstojo 0 nuolatos 0 pastoviai 0 000 |    
+00020084 00 r 02 improvizuotai 0 nepasirengus 0 000 |    
+00020142 00 r 01 oficialiai 0 000 |    
+00020182 00 r 01 tradiciškai 0 000 |    
+00020224 00 r 02 nepatogiai 0 nerangiai 0 000 |    
+00020276 00 r 02 paskiausiai 0 pabaigoje 0 000 |    
+00020329 00 r 02 pastebimai 0 matomai 0 000 |    
+00020379 00 r 02 pernelyg 0 per_daug 0 000 |    
+00020428 00 r 03 psichiškai 0 mintyse 0 protiškai 0 000 |    
+00020492 00 r 01 spontaniškai 0 000 |    
+00020535 00 r 02 klaidingai 0 neteisingai 0 000 |    
+00020589 00 r 02 neseniai 0 vakar 0 000 |    
+00020635 00 r 01 fiziškai 0 000 |    
+00020674 00 r 01 akis_į_akį 0 000 |    
+00020716 00 r 03 piktai 0 irzliai 0 nepatenkintai 0 000 |    
+00020778 00 r 02 narsiai 0 drąsiai 0 000 |    
+00020826 00 r 02 visiškai 0 apimant_visumą 0 000 |    
+00020883 00 r 01 vidutiniškai 0 000 |    
+00020926 00 r 02 mielai 0 noriai 0 000 |    
+00020971 00 r 02 pro 0 pro_šalį 0 000 |    
+00021017 00 r 01 atidžiai 0 000 |    
+00021056 00 r 02 tolyn 0 toliau 0 000 |    
+00021100 00 r 01 tiesiai 0 000 |    
+00021137 00 r 01 rimtai 0 000 |    
+00021173 00 r 01 už_jūros 0 000 |    
+00021213 00 r 02 tylomis 0 tyliai 0 000 |    
+00021259 00 r 01 atvirai 0 000 |    
+00021296 00 r 03 šiais_laikais 0 dabar 0 šiandien 0 000 |    
+00021360 00 r 01 atsitiktinai 0 000 |    
+00021402 00 r 03 vogčia 0 vogčiomis 0 slapčia 0 000 |    
+00021463 00 r 02 puikiai 0 nuostabiai 0 000 |    
+00021513 00 r 01 įprastai 0 000 |    
+00021552 00 r 03 nemokamai 0 dykai 0 veltui 0 000 |    
+00021608 00 r 03 taupiai 0 ūkiškai 0 ekonomiškai 0 000 |    
+00021672 00 r 03 labai 0 didžiai 0 nepaprastai 0 000 |    
+00021732 00 r 02 kaip_įprasta 0 reguliariai 0 000 |    
+00021789 00 r 02 neoficialiai 0 slapta 0 000 |    
+00021840 00 r 01 rimtai 0 000 |    
+00021876 00 r 02 lento 0 lėtai 0 000 |    
+00021920 00 r 04 nuolat 0 visą_laiką 0 be_paliovos 0 nuolatos 0 000 |    
+00021996 00 r 02 retkarčiais 0 kartais 0 000 |    
+00022048 00 r 02 neskubant 0 ramiai 0 000 |    
+00022096 00 r 02 droviai 0 nedrąsiai 0 000 |    
+00022146 00 r 01 tiesiai_šviesiai 0 000 |    
+00022193 00 r 02 jaukiai 0 maloniai 0 000 |    
+00022241 00 r 03 po_vieną 0 atskirai 0 pavieniui 0 000 |    
+00022303 00 r 02 jokiu_būdu 0 niekaip 0 000 |    
+00022354 00 r 02 prakeiktai 0 bjauriai 0 000 |    
+00022405 00 r 01 nepajudinamai 0 000 |    
+00022448 00 r 02 įstrižai 0 šonu 0 000 |    
+00022496 00 r 01 linksmai 0 000 |    
+00022534 00 r 02 taip_sau 0 nekaip 0 000 |    
+00022581 00 r 01 neigiamai 0 000 |    
+00022620 00 r 02 netikėtai 0 staiga 0 000 |    
+00022669 00 r 03 identiškai 0 vienodai 0 taip_pat 0 000 |    
+00022732 00 r 01 iš_anksto 0 000 |    
+00022772 00 r 01 pirma 0 000 |    
+00022807 00 r 02 ilgainiui 0 po_kurio_laiko 0 000 |    
+00022863 00 r 03 ypač 0 ypatingai 0 itin 0 000 |    
+00022917 00 r 02 nepaprastai 0 nepralenkiamai 0 000 |    
+00022975 00 r 03 paslapčiomis 0 slapta 0 slaptai 0 000 |    
+00023037 00 r 01 profesionaliai 0 000 |    
+00023081 00 r 01 greičiau 0 000 |    
+00023120 00 r 01 nuo_šiol 0 000 |    
+00023159 00 r 02 ligi_pusės 0 pusiau 0 000 |    
+00023209 00 r 02 į_užsienį 0 užsienyje 0 000 |    
+00023264 00 r 01 griežtai 0 000 |    
+00023303 00 r 01 simboliškai 0 000 |    
+00023345 00 r 02 neabejotinai 0 nepalyginamai 0 000 |    
+00023403 00 r 01 visiems_laikams 0 000 |    
+00023448 00 r 01 finansiškai 0 000 |    
+00023490 00 r 02 aukštyn_kojomis 0 kūliavirsčia 0 000 |    
+00023553 00 r 01 laikinai 0 000 |    
+00023591 00 r 02 visiškai 0 absoliučiai 0 000 |    
+00023645 00 r 01 ilgai 0 000 |    
+00023680 00 r 01 kas_valandą 0 000 |    
+00023722 00 r 02 drauge 0 vienu_metu 0 000 |    
+00023771 00 r 02 keletą_kartų 0 pakartotinai 0 000 |    
+00023830 00 r 01 akademiškai 0 000 |    
+00023872 00 r 01 pirmiausiai 0 000 |    
+00023913 00 r 02 į_namus 0 namo 0 000 |    
+00023958 00 r 02 priešingai 0 atvirkščiai 0 000 |    
+00024015 00 r 02 dalimis 0 palaipsniui 0 000 |    
+00024066 00 r 01 saugiai 0 000 |    
+00024103 00 r 04 vis_dėlto 0 tačiau 0 nepaisant_to 0 vis_tiek 0 000 |    
+00024179 00 r 03 įdėmiai 0 dėmesingai 0 rūpestingai 0 000 |    
+00024247 00 r 03 būtent_taip 0 tiksliai 0 būtent 0 000 |    
+00024310 00 r 02 didžia_dalimi 0 svarbiausiai 0 000 |    
+00024369 00 r 04 labai 0 ypač 0 ypatingai 0 itin 0 000 |    
+00024431 00 r 02 smulkiai 0 detaliai 0 000 |    
+00024480 00 r 01 palaipsniui 0 000 |    
+00024521 00 r 04 labai_blogai 0 siaubingai 0 baisiai 0 klaikiai 0 000 |    
+00024597 00 r 02 tada 0 po_to 0 000 |    
+00024639 00 r 02 šiek_tiek 0 truputį 0 000 |    
+00024690 00 r 01 juo_labiau 0 000 |    
+00024730 00 r 02 labai 0 mirtinai 0 000 |    
+00024776 00 r 01 giliai 0 000 |    
+00024812 00 r 02 tiksliau 0 tiesą_sakant 0 000 |    
+00024866 00 r 02 skersai 0 kryžmai 0 000 |    
+00024914 00 r 02 šiltai 0 širdingai 0 000 |    
+00024964 00 r 01 tiesiogiai 0 000 |    
+00025004 00 r 02 delikačiai 0 subtiliai 0 000 |    
+00025057 00 r 03 tučtuojau 0 tuojau_pat 0 nedelsiant 0 000 |    
+00025123 00 r 01 tarp_kitko 0 000 |    
+00025163 00 r 02 atskirai 0 pavieniui 0 000 |    
+00025213 00 r 01 iškart 0 000 |    
+00025250 00 r 01 iki_krūtinės 0 000 |    
+00025294 00 r 03 netikėtai 0 neapgalvojus 0 staiga 0 000 |    
+00025358 00 r 02 vangiai 0 tingiai 0 000 |    
+00025405 00 r 02 jokiu_būdu 0 niekaip 0 000 |    
+00025456 00 r 01 mažai 0 000 |    
+00025492 00 r 02 išskirtinai 0 ypatingai 0 000 |    
+00025546 00 r 02 šalies_gilumoje 0 į_šalies_gilumą 0 000 |    
+00025613 00 r 03 visą_laiką 0 visada 0 nuo_pat_pradžių 0 000 |    
+00025684 00 r 01 tuo_tarpu 0 000 |    
+00025723 00 r 02 bendrais_bruožais 0 apskritai 0 000 |    
+00025783 00 r 02 lengvai 0 švelniai 0 000 |    
+00025832 00 r 01 neigiamai 0 000 |    
+00025871 00 r 01 pakrante 0 000 |    
+00025909 00 r 03 galimas_daiktas 0 galbūt 0 gal 0 000 |    
+00025970 00 r 03 be_abejonės 0 be_abejo 0 žinoma 0 000 |    
+00026033 00 r 02 tuo_pat_metu 0 drauge 0 000 |    
+00026084 00 r 02 visiškai 0 besąlygiškai 0 000 |    
+00026140 00 r 01 šiltai 0 000 |    
+00026177 00 r 02 kiekvienais_metais 0 kasmet 0 000 |    
+00026234 00 r 02 tokiu_atveju 0 dėl_visa_ko 0 000 |    
+00026291 00 r 02 priešakyje 0 priešais 0 000 |    
+00026344 00 r 02 daugiausia 0 pagrinde 0 000 |    
+00026395 00 r 02 visai 0 visiškai 0 000 |    
+00026442 00 r 02 nebrangiai 0 pigiai 0 000 |    
+00026491 00 r 02 pelningai 0 apmokamai 0 000 |    
+00026542 00 r 02 laiku 0 anksti 0 000 |    
+00026586 00 r 01 stulbinančiai 0 000 |    
+00026630 00 r 02 iš_naujo 0 naujai 0 000 |    
+00026678 00 r 01 logiškai 0 000 |    
+00026717 00 r 02 visai 0 visiškai 0 000 |    
+00026764 00 r 02 netikėtai 0 staiga 0 000 |    
+00026813 00 r 02 tiktai 0 vien_tik 0 000 |    
+00026860 00 r 01 savaitės_viduryje 0 000 |    
+00026908 00 r 02 iš 0 dėl 0 000 |    
+00026948 00 r 01 nuošalėje 0 000 |    
+00026989 00 r 02 per_metus 0 kasmet 0 000 |    
+00027037 00 r 02 kadaise 0 kitados 0 000 |    
+00027084 00 r 01 po_to 0 000 |    
+00027119 00 r 02 trumpai 0 glaustai 0 000 |    
+00027167 00 r 02 labai 0 daug 0 000 |    
+00027209 00 r 02 tyčia 0 sąmoningai 0 000 |    

@@ -1,0 +1,1021 @@
+fånga v 1 1 @ 1 0 00023104
+efterfölja v 1 0 1 0 00049550
+vänta v 2 1 ~ 2 0 00048006 00071846
+förvissa v 1 0 1 0 00039712
+dåna v 1 1 @ 1 0 00033826
+hantera v 1 0 1 0 00012450
+fly v 1 0 1 0 00005147
+sjunga v 1 0 1 0 00047323
+spekulera v 1 0 1 0 00049950
+kunna v 1 1 ~ 1 0 00053716
+skylta v 2 0 2 0 00047129 00053031
+fullborda v 1 0 1 0 00058101
+hänvisa v 1 0 1 0 00048376
+vila v 1 1 @ 1 0 00063324
+avskeda v 1 1 ! 1 0 00053936
+stå_emot v 1 0 1 0 00013666
+förkorta v 1 2 ! @ 1 0 00072007
+tina v 1 0 1 0 00036005
+inspirera v 1 0 1 0 00045853
+memorera v 1 1 @ 1 0 00015216
+förflyta v 1 1 @ 1 0 00032357
+slå_in v 1 1 @ 1 0 00060829
+avvisa v 1 0 1 0 00068127
+brista v 2 1 ~ 2 0 00028655 00056752
+skinna v 1 2 ~ * 1 0 00062711
+tävla v 1 1 ~ 1 0 00011837
+strimla v 1 0 1 0 00032635
+graduera v 1 0 1 0 00051042
+diktera v 1 0 1 0 00019726
+träda v 1 1 @ 1 0 00024750
+smaksätta v 1 1 ;c 1 0 00011666
+överväldiga v 1 1 @ 1 0 00045781
+plocka v 1 0 1 0 00026748
+donera v 1 1 @ 1 0 00053291
+gråta v 1 2 ! ~ 1 0 00013264
+kontrollera v 2 1 ~ 2 0 00029652 00072839
+ränna v 1 1 @ 1 0 00067137
+halka v 1 1 @ 1 0 00050802
+avstå v 1 0 1 0 00017334
+hota v 1 1 @ 1 0 00054818
+slänga v 2 2 ~ @ 2 0 00044000 00046215
+ta_ut v 1 0 1 0 00004835
+vaccinera v 1 1 ;c 1 0 00013079
+hoppa v 1 1 @ 1 0 00041171
+närma_sig v 1 1 * 1 0 00024525
+sammanfalla v 1 1 @ 1 0 00065570
+trappa_upp v 1 0 1 0 00014941
+missköta v 1 0 1 0 00072235
+distribuera v 1 1 @ 1 0 00046633
+röra_sig v 2 1 ! 2 0 00036858 00064383
+älska v 1 0 1 0 00012595
+strypa v 1 1 @ 1 0 00021289
+modifiera v 1 1 ;c 1 0 00033449
+grönska v 1 0 1 0 00008076
+buklanda v 1 1 @ 1 0 00044445
+lifta v 1 1 @ 1 0 00064319
+segla v 1 0 1 0 00041417
+gissa v 1 1 ~ 1 0 00013200
+gömma v 1 0 1 0 00018346
+kriga v 1 1 @ 1 0 00030959
+klä v 2 2 ! ~ 2 0 00004397 00024594
+sloka v 1 0 1 0 00011968
+hända v 1 1 ~ 1 0 00005902
+maskera v 1 1 @ 1 0 00009947
+lösa v 1 1 @ 1 0 00000748
+innehålla v 2 2 ~ @ 2 0 00016137 00056882
+gny v 1 1 @ 1 0 00053517
+buga v 1 1 ~ 1 0 00061855
+begripa v 1 1 ~ 1 0 00046350
+avgöra v 2 0 2 0 00029540 00061573
+överföra v 1 0 1 0 00045659
+höra v 1 1 @ 1 0 00062366
+blöta v 1 0 1 0 00033583
+förklara v 1 1 ~ 1 0 00061253
+gratulera v 1 0 1 0 00002800
+raka v 1 0 1 0 00021937
+förvägra v 1 1 @ 1 0 00002381
+bogsera v 1 0 1 0 00071798
+motsätta_sig v 1 1 ~ 1 0 00026049
+debitera v 2 1 @ 2 0 00037444 00057660
+avrätta v 1 1 @ 1 0 00066813
+addera v 1 1 @ 1 0 00024123
+förvanska v 1 0 1 0 00016354
+boka v 2 1 @ 2 0 00015597 00020151
+förvarna v 1 1 @ 1 0 00050361
+kapitulera v 1 0 1 0 00043265
+aktualisera v 1 0 1 0 00062961
+sålla v 1 1 @ 1 0 00013811
+hänga v 1 1 @ 1 0 00073073
+spänna v 1 0 1 0 00069698
+lagra v 1 1 @ 1 0 00028417
+turista v 1 1 @ 1 0 00036183
+sätta_dit v 1 0 1 0 00033208
+dyka v 1 0 1 0 00070296
+förvälla v 1 1 ;c 1 0 00035378
+uppmärksamma v 1 1 * 1 0 00069146
+sticka v 2 0 2 0 00002264 00019106
+bestå v 1 0 1 0 00039480
+röra v 2 1 ~ 2 0 00026862 00058646
+medföra v 1 0 1 0 00001449
+titta v 1 1 * 1 0 00057970
+understödja v 1 0 1 0 00000926
+planera v 1 2 ~ @ 1 0 00000646
+binda v 3 0 3 0 00009595 00024282 00059871
+blinka v 1 0 1 0 00043515
+ge_igen v 1 1 @ 1 0 00071282
+förse v 1 1 ~ 1 0 00003027
+knulla v 1 0 1 0 00012225
+imponera v 1 0 1 0 00008207
+tacka v 1 0 1 0 00024188
+hälsa v 1 0 1 0 00025575
+andas v 1 1 ~ 1 0 00056368
+spela_oavgjort v 1 1 * 1 0 00023240
+vitna v 1 0 1 0 00010508
+rangordna v 1 1 ~ 1 0 00042556
+låna v 2 2 ! @ 2 0 00017026 00039900
+framhärda v 1 0 1 0 00017784
+storkna v 1 0 1 0 00043810
+pruta v 1 1 @ 1 0 00022421
+överskrida v 1 0 1 0 00044277
+lyfta v 1 2 ~ > 1 0 00038488
+slinka v 1 1 @ 1 0 00028481
+pissa v 1 0 1 0 00032581
+avlägsna v 1 1 ~ 1 0 00017835
+hälla v 1 2 ~ > 1 0 00056504
+likna v 1 1 @ 1 0 00011377
+mana v 1 0 1 0 00050116
+ogilla v 2 3 ! ~ @ 2 0 00018080 00024010
+införa v 1 0 1 0 00039852
+snegla v 1 0 1 0 00051976
+konspirera v 1 1 @ 1 0 00010731
+försova_sig v 1 1 * 1 0 00053865
+ställa_ut v 1 0 1 0 00010457
+sälja v 1 2 ! ;c 1 0 00042097
+söka v 1 0 1 0 00071022
+frodas v 2 0 2 0 00009641 00015777
+organisera v 1 1 @ 1 0 00066744
+träna v 2 1 @ 2 0 00045516 00065505
+tyna v 1 1 @ 1 0 00061985
+bevisa v 1 1 @ 1 0 00041463
+skratta v 1 1 ! 1 0 00041612
+bjuda_in v 1 1 @ 1 0 00042624
+slå_runt v 1 0 1 0 00058782
+vika v 1 0 1 0 00064433
+pensionera v 1 1 @ 1 0 00056632
+hindra v 1 1 @ 1 0 00049228
+finansiera v 1 0 1 0 00028895
+mäta v 1 1 ~ 1 0 00027496
+ljuga v 1 1 @ 1 0 00065254
+strosa v 2 1 @ 2 0 00007711 00014775
+ursäkta v 1 0 1 0 00036350
+stöta v 2 3 ~ > @ 2 0 00029156 00052774
+välja v 4 2 ~ @ 4 0 00006123 00017903 00048552 00055856
+diskutera v 2 2 ~ @ 2 0 00054617 00070033
+hata v 1 2 ~ @ 1 0 00016206
+debut v 1 0 1 0 00053404
+ha v 1 1 ~ 1 0 00003781
+konvertera v 1 0 1 0 00064546
+bryta_sig_in v 1 0 1 0 00019453
+samla v 1 1 @ 1 0 00001828
+dominera v 2 0 2 0 00029491 00072186
+rädda v 2 0 2 0 00017559 00030559
+skada v 3 2 ~ @ 3 0 00018839 00022650 00067693
+skänka v 1 1 ~ 1 0 00033890
+blöda v 1 0 1 0 00037940
+kraxa v 1 1 @ 1 0 00011313
+avgå v 1 1 ~ 1 0 00017381
+hångla v 1 0 1 0 00012498
+läcka v 1 0 1 0 00026701
+åldras v 1 0 1 0 00059756
+uträtta v 1 0 1 0 00036717
+stöna v 1 1 @ 1 0 00001652
+vinka v 1 1 @ 1 0 00001024
+riskera v 1 1 @ 1 0 00037874
+beskriva v 1 0 1 0 00016305
+skrapa v 2 1 @ 2 0 00050977 00063854
+skaffa v 2 2 ~ @ 2 0 00019774 00042923
+identifiera v 1 0 1 0 00062794
+hölja v 1 1 @ 1 0 00025673
+komponera v 1 1 ;c 1 0 00059981
+medge v 1 0 1 0 00061481
+förhindra v 1 1 ~ 1 0 00025027
+dikta v 1 1 @ 1 0 00066334
+klara v 1 1 ! 1 0 00048707
+tjuvlyssna v 1 1 @ 1 0 00014613
+filosofera v 1 1 @ 1 0 00029270
+utveckla v 2 3 ! ~ @ 2 0 00006321 00036614
+snagga v 1 0 1 0 00069398
+värdesätta v 1 0 1 0 00055149
+grimasera v 1 1 ~ 1 0 00008624
+dra_sig_tillbaka v 1 1 ! 1 0 00008966
+spela_roll v 1 0 1 0 00036299
+spotta v 1 0 1 0 00001717
+kalla v 2 1 ~ 2 0 00005485 00027186
+inkludera v 1 1 @ 1 0 00071939
+svimma v 1 0 1 0 00012875
+döda v 1 2 ~ > 1 0 00015871
+missräkna_sig v 1 0 1 0 00015161
+bota v 1 2 * ;c 1 0 00047047
+dammsuga v 1 0 1 0 00039431
+diagram v 1 1 @ 1 0 00067314
+plagiera v 1 1 ;c 1 0 00041235
+lagstifta v 1 0 1 0 00016819
+explodera v 2 0 2 0 00003630 00073782
+rensa_ut v 1 0 1 0 00010990
+inregistrera v 1 1 ~ 1 0 00071198
+reflektera v 2 2 ~ @ 2 0 00034675 00060404
+ambulera v 1 1 @ 1 0 00000859
+förkroma v 1 0 1 0 00053241
+baka v 1 0 1 0 00044787
+gilla v 1 0 1 0 00073447
+ömsa v 1 0 1 0 00009500
+raljera v 1 1 @ 1 0 00007598
+kvadda v 1 0 1 0 00013489
+pika v 1 1 ~ 1 0 00038570
+nämna v 1 1 @ 1 0 00060165
+förvänta v 1 1 @ 1 0 00030490
+göda v 1 1 * 1 0 00049817
+avsluta v 1 0 1 0 00030130
+förbise v 1 0 1 0 00048771
+cirkulera v 1 0 1 0 00005615
+roa v 2 1 ~ 2 0 00003451 00007536
+provocera v 1 1 ~ 1 0 00034873
+glömma v 1 1 ! 1 0 00065796
+ignorera v 1 0 1 0 00064643
+föredra v 1 1 @ 1 0 00041678
+locka v 1 1 * 1 0 00056969
+ge v 1 1 @ 1 0 00072909
+panera v 1 2 @ ;c 1 0 00057282
+regna v 1 0 1 0 00069791
+trippa v 1 1 @ 1 0 00037043
+ringla v 1 0 1 0 00017238
+häcka v 1 0 1 0 00002753
+kura v 1 0 1 0 00027451
+jama v 1 1 @ 1 0 00034217
+fåna_sig v 1 1 @ 1 0 00026471
+nå v 1 0 1 0 00033405
+hypnotisera v 1 0 1 0 00055712
+dölja v 1 1 ~ 1 0 00048820
+förspilla v 1 0 1 0 00025622
+övertala v 1 2 ! ~ 1 0 00052267
+hänge_sig v 1 0 1 0 00038687
+exploatera v 2 0 2 0 00008847 00036449
+lita v 1 1 ! 1 0 00046868
+brottas v 1 1 @ 1 0 00018773
+marschera v 1 1 @ 1 0 00055949
+vända v 1 2 ~ @ 1 0 00023446
+lämna v 2 2 @ * 2 0 00023945 00049421
+mata v 1 2 ~ > 1 0 00067953
+drunkna v 1 1 @ 1 0 00029882
+nominera v 1 0 1 0 00042048
+posta v 1 0 1 0 00002154
+passera v 2 1 @ 2 0 00019387 00047481
+brumma v 1 1 @ 1 0 00041303
+hosta v 1 0 1 0 00002917
+valpa v 1 0 1 0 00036812
+stencilera v 1 1 ;c 1 0 00061008
+slösa v 1 2 ~ @ 1 0 00065640
+skolka v 1 3 ~ @ * 1 0 00014840
+besvära v 2 2 ~ @ 2 0 00031255 00052129
+hämma v 1 1 @ 1 0 00057366
+förringa v 1 1 ! 1 0 00001335
+tvätta v 2 0 2 0 00024234 00047433
+vitsorda v 2 1 ;c 2 0 00027967 00057755
+snarka v 1 2 @ * 1 0 00013536
+halshugga v 1 1 @ 1 0 00031372
+bestämma_sig v 1 2 ~ * 1 0 00006945
+amortera v 1 0 1 0 00064063
+skrämma v 2 3 ~ @ > 2 0 00034280 00072970
+skrida v 1 2 ~ @ 1 0 00018574
+blomma v 1 0 1 0 00059355
+uppvakta v 1 1 @ 1 0 00016517
+föreslå v 1 0 1 0 00045394
+ändra v 1 0 1 0 00054238
+slava v 1 1 @ 1 0 00066898
+regera v 1 1 @ 1 0 00024415
+belöna v 2 1 @ 2 0 00035610 00043858
+stretcha v 1 1 @ 1 0 00020340
+skilja_sig v 1 0 1 0 00069445
+snappa v 1 1 @ 1 0 00013986
+gå_ner v 1 2 ! ;c 1 0 00062626
+sko v 1 1 @ 1 0 00004576
+räkna v 1 1 ~ 1 0 00004770
+tjäna v 1 2 ~ @ 1 0 00036100
+förneka v 1 1 ! 1 0 00013422
+klandra v 1 0 1 0 00014682
+bli v 1 1 @ 1 0 00014051
+anpassa v 1 1 ~ 1 0 00068877
+putsa v 1 1 * 1 0 00031940
+bomba v 2 1 ! 2 0 00007960 00070863
+avvika v 3 0 3 0 00014113 00024911 00047612
+pantsätta v 2 1 ;c 2 0 00015283 00046416
+bekämpa v 1 1 @ 1 0 00023379
+räcka v 1 0 1 0 00004932
+kackla v 1 1 @ 1 0 00044832
+pröva v 1 1 @ 1 0 00062430
+rafsa v 1 0 1 0 00070927
+springa v 1 0 1 0 00001955
+vänja v 1 0 1 0 00059143
+byta_ut v 1 0 1 0 00046931
+neka v 1 0 1 0 00070818
+finta v 1 0 1 0 00006077
+omsätta v 2 1 @ 2 0 00011168 00054085
+förkasta v 1 0 1 0 00073631
+betyda v 1 0 1 0 00034059
+massakrera v 1 1 @ 1 0 00037987
+sitta v 1 2 ! ~ 1 0 00049735
+niga v 1 1 @ 1 0 00009817
+alstra v 1 0 1 0 00032265
+öppna v 1 1 ! 1 0 00025292
+spräcka v 1 1 ~ 1 0 00003943
+dedicera v 1 0 1 0 00030813
+amputera v 1 1 ;c 1 0 00046979
+gulna v 1 0 1 0 00021844
+ticka v 1 0 1 0 00071893
+ta_tid v 1 1 @ 1 0 00069920
+demonstrera v 1 0 1 0 00035206
+samarbeta v 1 0 1 0 00036399
+förebrå v 1 0 1 0 00021794
+träffa v 2 2 ~ @ 2 0 00054881 00073832
+tatuera v 1 0 1 0 00021076
+konfrontera v 2 0 2 0 00028081 00045903
+yttra v 1 1 ~ 1 0 00014337
+krympa v 1 1 @ 1 0 00027578
+utjämna v 1 1 @ 1 0 00020938
+tillverka v 1 1 ~ 1 0 00027347
+dämma v 1 0 1 0 00051796
+slingra v 1 1 @ 1 0 00016071
+korsa v 1 0 1 0 00022604
+förtjäna v 1 0 1 0 00042227
+slåss v 1 2 ~ * 1 0 00021124
+förgylla v 1 0 1 0 00031322
+försena v 1 0 1 0 00049113
+luta v 1 1 ~ 1 0 00042791
+muta v 1 2 @ ;c 1 0 00039574
+avskaffa v 1 0 1 0 00041368
+studera v 1 2 ~ * 1 0 00004157
+underteckna v 1 1 @ 1 0 00073185
+ge_sig_av v 1 2 ! @ 1 0 00031124
+måla v 2 1 ;c 2 0 00044380 00061321
+tveka v 1 0 1 0 00009153
+nysa v 1 0 1 0 00014730
+jaga v 1 0 1 0 00040606
+multiplicera v 1 1 ~ 1 0 00056173
+stationera v 1 0 1 0 00011786
+designa v 1 0 1 0 00037242
+insamla v 1 0 1 0 00040558
+rentvå v 1 1 ! 1 0 00020214
+äta v 1 1 * 1 0 00054285
+avdramatisera v 1 0 1 0 00071744
+sakna v 2 2 @ * 2 0 00032683 00055903
+övervintra v 1 0 1 0 00065407
+förslå v 1 1 ~ 1 0 00017492
+lyssna v 1 3 ~ @ * 1 0 00041826
+ställa_in v 1 0 1 0 00071693
+presentera v 1 0 1 0 00063555
+leda v 3 1 @ 3 0 00025357 00040081 00055764
+splittra v 1 1 @ 1 0 00018279
+spela v 3 2 @ ;c 3 0 00002003 00048179 00067870
+dräpa v 1 1 @ 1 0 00034797
+prova v 1 0 1 0 00057559
+knacka v 2 0 2 0 00003292 00056080
+smälla v 2 1 @ 2 0 00010391 00022098
+bero v 1 0 1 0 00039762
+svullna v 1 1 ~ 1 0 00039184
+bära v 1 2 @ * 1 0 00037160
+koka v 1 0 1 0 00004478
+svepa v 1 1 @ 1 0 00071512
+reproducera v 1 2 ~ @ 1 0 00028702
+ärva v 1 1 @ 1 0 00010554
+flyta v 1 2 ! @ 1 0 00035923
+decentralisera v 1 1 ! 1 0 00059542
+pussa v 1 1 @ 1 0 00065190
+förutsäga v 1 2 ~ @ 1 0 00005732
+krossa v 2 1 @ 2 0 00039527 00060584
+skaka v 2 2 ~ @ 2 0 00032155 00064758
+röka v 1 0 1 0 00061142
+snurra v 2 1 @ 2 0 00032958 00066697
+klara_av v 1 1 @ 1 0 00021532
+förnimma v 1 1 ~ 1 0 00044998
+kryssa_för v 1 0 1 0 00026304
+stirra v 1 0 1 0 00052438
+smickra v 1 0 1 0 00018725
+banka v 1 1 @ 1 0 00021682
+lokalisera v 1 0 1 0 00014286
+gå v 2 3 ! ~ @ 2 0 00042278 00068174
+bosätta_sig v 1 0 1 0 00044945
+bevara v 1 1 @ 1 0 00067451
+ägna v 1 0 1 0 00031440
+slå_vad v 1 1 @ 1 0 00058034
+bemästra v 1 1 @ 1 0 00058578
+lukta v 2 2 ~ @ 2 0 00033323 00062846
+påverka v 1 0 1 0 00012546
+skalla v 1 0 1 0 00068080
+granska v 1 1 * 1 0 00061789
+snuva v 1 0 1 0 00021243
+vagga v 2 0 2 0 00037764 00054571
+förtvina v 1 0 1 0 00012175
+skjuta v 1 1 @ 1 0 00026121
+frysa v 2 0 2 0 00038857 00063095
+framhäva v 1 0 1 0 00029832
+anklaga v 1 1 @ 1 0 00011550
+huttra v 1 0 1 0 00063652
+annonsera v 1 0 1 0 00018675
+klassa v 1 2 ~ * 1 0 00027725
+stänga v 1 2 ! ~ 1 0 00050429
+schakta v 1 0 1 0 00060895
+lyncha v 1 1 @ 1 0 00056817
+kollapsa v 2 0 2 0 00043562 00073302
+injicera v 1 0 1 0 00022942
+undra v 1 1 @ 1 0 00039120
+svika v 1 0 1 0 00036766
+borsta v 1 1 @ 1 0 00023720
+försöka v 1 1 ~ 1 0 00039250
+nyansera v 1 1 @ 1 0 00034797
+översätta v 1 0 1 0 00037108
+knivskära v 1 1 @ 1 0 00024958
+undvika v 1 0 1 0 00050929
+attrahera v 2 2 ~ @ 2 0 00030653 00036546
+leka v 1 1 ~ 1 0 00067807
+pingla v 1 0 1 0 00030912
+överträffa v 1 1 @ 1 0 00031706
+insistera v 1 0 1 0 00064971
+retirera v 2 2 ! @ 2 0 00058151 00066962
+avlämna v 1 0 1 0 00037395
+träffas v 1 0 1 0 00009546
+våga_sig v 1 0 1 0 00060230
+fatta v 2 1 @ 2 0 00046757 00073585
+stå v 1 3 ! ~ * 1 0 00034446
+artikulera v 1 1 @ 1 0 00036974
+rymma v 2 1 @ 2 0 00020488 00040697
+filma v 1 0 1 0 00035448
+knäcka v 1 1 @ 1 0 00026908
+häva v 1 0 1 0 00072386
+handikappa v 1 1 @ 1 0 00026402
+kvarstå v 1 0 1 0 00012826
+leasa v 1 0 1 0 00057709
+droppa v 1 1 @ 1 0 00015532
+förfalska v 1 0 1 0 00044329
+kopiera v 2 1 @ 2 0 00017172 00059235
+behöva v 1 0 1 0 00002450
+nödlanda v 1 1 @ 1 0 00044608
+bladdra v 1 0 1 0 00005567
+rossla v 1 1 @ 1 0 00007338
+spärra_in v 2 4 ! ~ @ ;c 2 0 00018393 00024328
+böja v 3 1 @ 3 0 00004351 00028035 00061078
+modernisera v 1 0 1 0 00013148
+skruva_upp v 1 1 * 1 0 00009381
+dupera v 1 1 @ 1 0 00026239
+morra v 1 0 1 0 00025246
+kalhugga v 1 0 1 0 00034347
+sammanbo v 1 0 1 0 00050161
+spä v 1 0 1 0 00069746
+producera v 1 1 ;c 1 0 00049881
+installera v 2 1 @ 2 0 00049044 00056701
+exportera v 1 2 ! ;c 1 0 00049648
+skippa v 1 0 1 0 00046821
+samtala v 1 0 1 0 00020292
+importera v 1 2 ! ;c 1 0 00040144
+sjunka v 1 1 ! 1 0 00010800
+förtala v 1 1 @ 1 0 00063996
+stereotypera v 1 1 @ 1 0 00023169
+borda v 1 1 @ 1 0 00058218
+invända v 1 1 ~ 1 0 00043743
+bua v 1 1 ! 1 0 00014224
+exemplifiera v 1 1 @ 1 0 00021005
+blidka v 1 0 1 0 00031543
+ramponera v 1 0 1 0 00023576
+bygga v 2 1 ! 2 0 00015486 00017108
+växa v 1 1 ! 1 0 00049293
+sväva v 1 1 * 1 0 00066632
+förbinda v 1 0 1 0 00067757
+förhandla v 1 1 ~ 1 0 00069496
+packa v 1 0 1 0 00044562
+arrangera v 1 0 1 0 00008256
+anrätta v 1 1 ~ 1 0 00062495
+hacka v 1 0 1 0 00005967
+trösta v 1 1 ~ 1 0 00064692
+stranda v 1 1 @ 1 0 00030243
+bedra v 1 2 ~ @ 1 0 00058432
+rama v 1 0 1 0 00007823
+visa_sig v 1 1 ! 1 0 00005665
+bötfälla v 1 0 1 0 00029058
+föregå v 1 0 1 0 00005436
+spola v 1 1 > 1 0 00029588
+uppmana v 1 0 1 0 00004010
+flina v 1 1 @ 1 0 00010124
+utklassa v 1 1 ;c 1 0 00002086
+brinna v 1 1 ~ 1 0 00044676
+företräda v 1 0 1 0 00042691
+parkera v 1 0 1 0 00043103
+uppbygga v 1 1 @ 1 0 00023830
+utvinna v 1 0 1 0 00043006
+förakta v 2 1 @ 2 0 00006720 00061918
+lura v 1 1 @ 1 0 00028546
+befrämja v 1 0 1 0 00024815
+skydda v 1 1 ~ 1 0 00061621
+knuffa v 1 3 ! ~ * 1 0 00054965
+skämma_bort v 1 1 @ 1 0 00065072
+bannlysa v 1 0 1 0 00014992
+trampa v 1 1 @ 1 0 00012385
+experimentera v 2 0 2 0 00038803 00073728
+ge_upp v 1 1 ! 1 0 00021354
+förkunna v 1 0 1 0 00060050
+tappa v 1 0 1 0 00072724
+uppfostra v 1 0 1 0 00030862
+marknadsföra v 1 1 ;c 1 0 00066261
+huka_sig v 1 1 @ 1 0 00006188
+låsa v 1 1 @ 1 0 00001158
+avguda v 1 0 1 0 00023529
+köa v 1 2 @ * 1 0 00020407
+konsolidera v 1 0 1 0 00005044
+bekosta v 1 1 @ 1 0 00071446
+bry_sig_om v 1 0 1 0 00054703
+överklaga v 1 0 1 0 00035327
+sluta v 1 0 1 0 00010618
+kvadrat v 1 1 @ 1 0 00012642
+instämma v 1 0 1 0 00006895
+mumsa v 1 1 @ 1 0 00058514
+desertera v 1 0 1 0 00052970
+minnas v 3 2 ! ~ 3 0 00016979 00035123 00073400
+radera v 1 1 ! 1 0 00029426
+visa v 2 0 2 0 00030721 00048507
+återvinna v 1 0 1 0 00064858
+formulera v 1 0 1 0 00011263
+spetsa v 1 0 1 0 00041124
+utesluta v 1 1 @ 1 0 00026795
+känna v 2 1 ~ 2 0 00046568 00073681
+flyga v 2 2 ~ @ 2 0 00048425 00066023
+förstärka v 1 1 @ 1 0 00064180
+undervisa v 1 1 ~ 1 0 00066398
+dinera v 1 0 1 0 00017445
+tigga v 1 1 @ 1 0 00002963
+gastkrama v 1 1 @ 1 0 00000467
+pressa v 1 1 ~ 1 0 00026974
+befalla v 1 1 ~ 1 0 00070752
+slutta v 2 2 ~ @ 2 0 00047547 00054002
+adoptera v 1 0 1 0 00007053
+infoga v 1 0 1 0 00017737
+överdriva v 2 3 ! ~ @ 2 0 00058832 00058883
+täcka v 1 1 ~ 1 0 00031023
+överanstränga v 1 0 1 0 00039656
+slumra v 1 1 ~ 1 0 00022714
+forma v 3 1 ~ 3 0 00014160 00030309 00065459
+förvalta v 1 1 ~ 1 0 00026585
+tillåta v 1 2 ! ~ 1 0 00041927
+besöka v 1 1 ~ 1 0 00031590
+passa v 2 0 2 0 00000600 00047910
+blicka v 1 1 @ 1 0 00040943
+avslagen v 1 0 1 0 00051091
+skynda v 1 1 @ 1 0 00024639
+ro v 1 0 1 0 00048089
+svara v 1 1 @ 1 0 00063790
+varna v 1 1 ~ 1 0 00063013
+slöa v 1 0 1 0 00008467
+betona v 1 0 1 0 00070101
+beundra v 2 1 @ 2 0 00009199 00010343
+benämna v 1 1 @ 1 0 00005322
+bestraffa v 1 1 ~ 1 0 00037650
+fördubbla v 1 0 1 0 00055532
+företa v 1 0 1 0 00013716
+övertyga v 1 1 @ 1 0 00003562
+pausa v 1 1 ~ 1 0 00068749
+rinna v 1 2 ~ @ 1 0 00066130
+utse v 2 1 @ 2 0 00027904 00030016
+stå_värd v 1 1 @ 1 0 00059473
+dumpa v 2 0 2 0 00027858 00040651
+stegra v 1 0 1 0 00005389
+slumra_till v 1 1 @ 1 0 00018163
+telefonera v 1 0 1 0 00038903
+proppa v 1 1 @ 1 0 00004979
+anfalla v 1 1 ~ 1 0 00023313
+skruva v 1 0 1 0 00067646
+misstycka v 1 1 @ 1 0 00051843
+hoppa_av v 1 0 1 0 00052970
+registrera v 2 2 ~ @ 2 0 00019037 00071198
+avfärda v 1 0 1 0 00019983
+hoppa_fallskärm v 1 0 1 0 00013365
+gripa v 1 1 ~ 1 0 00062048
+brännas v 1 1 @ 1 0 00007271
+smila v 1 1 @ 1 0 00025108
+gäspa v 2 1 @ 2 0 00021890 00060943
+lida v 1 1 @ 1 0 00057431
+se v 1 2 ~ @ 1 0 00027039
+anställa v 1 1 ! 1 0 00058282
+skrinna v 1 2 @ ;c 1 0 00030355
+uppfylla v 1 1 @ 1 0 00061722
+planlägga v 1 1 @ 1 0 00039964
+knyta v 1 1 @ 1 0 00003339
+lansera v 1 0 1 0 00007223
+klappa v 1 0 1 0 00034106
+expandera v 1 0 1 0 00036050
+inrätta v 1 0 1 0 00073351
+våldta v 1 1 @ 1 0 00011039
+ruttna v 1 0 1 0 00023673
+lyda v 1 2 ~ @ 1 0 00043434
+betjäna v 1 1 @ 1 0 00004703
+revidera v 1 0 1 0 00006388
+tilltala v 1 1 > 1 0 00001268
+döpa v 1 1 @ 1 0 00037810
+introducera v 1 1 @ 1 0 00070519
+leverera v 1 0 1 0 00072285
+fortköra v 1 1 @ 1 0 00015353
+mumla v 1 0 1 0 00008421
+fläkta v 1 1 @ 1 0 00049162
+våga v 1 0 1 0 00048950
+dricka v 1 1 ~ 1 0 00015421
+avvara v 1 0 1 0 00030606
+verka v 2 1 ~ 2 0 00028609 00040879
+leta v 1 0 1 0 00006850
+smiska v 1 0 1 0 00055102
+bredda v 1 0 1 0 00048132
+härma v 1 1 @ 1 0 00027232
+gläfsa v 1 1 @ 1 0 00051730
+gro v 1 0 1 0 00012014
+bruka v 1 1 ;c 1 0 00003227
+beröva v 1 0 1 0 00023897
+ropa v 2 3 ! ~ @ 2 0 00004241 00070215
+begagna v 2 1 @ 2 0 00010916 00047176
+krypa v 1 1 @ 1 0 00021468
+penetrera v 1 1 @ 1 0 00051190
+klättra v 1 1 @ 1 0 00019506
+frakta v 1 1 ~ 1 0 00003680
+lugna v 1 1 @ 1 0 00025466
+strejka v 1 0 1 0 00007912
+klia v 1 0 1 0 00052593
+smaka v 1 1 @ 1 0 00001764
+lyckas v 1 0 1 0 00057083
+ratificera v 1 0 1 0 00032004
+privatisera v 1 1 ;c 1 0 00034941
+ge_vika v 1 0 1 0 00036926
+muntra_upp v 1 0 1 0 00007102
+vägra v 2 0 2 0 00065143 00073138
+krama v 1 0 1 0 00032219
+störta_samman v 1 0 1 0 00057605
+sona v 1 0 1 0 00031210
+förhöja v 2 1 @ 2 0 00043151 00047956
+veta v 1 0 1 0 00017968
+dokumentera v 2 1 @ 2 0 00007153 00072334
+stansa v 1 0 1 0 00040431
+be_om_ursäkt v 1 1 * 1 0 00045444
+skämta v 1 1 @ 1 0 00006255
+förlora v 1 2 ! * 1 0 00050210
+skapa v 1 1 ~ 1 0 00059917
+lägga v 1 2 ~ @ 1 0 00067516
+skryta v 1 1 @ 1 0 00025786
+hemligstämpla v 1 0 1 0 00035742
+chockera v 1 0 1 0 00050000
+asfaltera v 1 0 1 0 00027297
+utrusta v 1 1 @ 1 0 00034609
+förflytta v 1 1 ~ 1 0 00020599
+klämma v 1 0 1 0 00070341
+misslyckas v 1 1 ~ 1 0 00015660
+be v 3 1 ~ 3 0 00028202 00066087 00067047
+vispa v 1 1 ;c 1 0 00040231
+utöka v 1 0 1 0 00073255
+antända v 1 1 @ 1 0 00018013
+svärma v 1 0 1 0 00047862
+rubba v 1 0 1 0 00056127
+glida v 1 1 @ 1 0 00055648
+rasera v 1 1 ! 1 0 00038738
+längta v 1 1 @ 1 0 00009699
+fängsla v 2 1 @ 2 0 00007487 00059804
+teckna v 1 2 ~ ;c 1 0 00063240
+översvämma v 1 1 @ 1 0 00067380
+tippa v 1 1 @ 1 0 00048243
+frukta v 1 0 1 0 00028946
+erkänna v 1 1 ! 1 0 00010664
+slunga v 2 2 ~ @ 2 0 00046020 00057905
+överge v 1 0 1 0 00043906
+bistå v 1 1 ~ 1 0 00004638
+slita_ut v 1 0 1 0 00016706
+räta v 1 0 1 0 00068034
+skåda v 1 1 @ 1 0 00000535
+känna_igen v 1 2 @ * 1 0 00045224
+bestrida v 1 2 ~ @ 1 0 00053780
+förverka v 1 0 1 0 00035797
+koppla_av v 1 0 1 0 00036249
+fungera v 1 0 1 0 00003403
+placera v 1 1 ~ 1 0 00050579
+tugga v 1 1 ~ 1 0 00002545
+erövra v 1 0 1 0 00040033
+uppröra v 1 1 ~ 1 0 00003110
+kuva v 1 0 1 0 00000979
+pirra v 1 0 1 0 00026356
+trycka v 2 2 ~ @ 2 0 00035076 00055266
+förfölja v 1 0 1 0 00004881
+arbeta v 1 1 ~ 1 0 00009316
+halvera v 1 0 1 0 00052922
+förgrena_sig v 1 0 1 0 00062212
+alfabetisera v 1 1 @ 1 0 00052638
+trakassera v 1 1 @ 1 0 00032425
+förbättra v 1 1 ~ 1 0 00060280
+överlämna v 1 0 1 0 00004058
+pumpa v 1 1 @ 1 0 00055349
+tillrättavisa v 1 0 1 0 00056244
+absorbera v 1 0 1 0 00070653
+besegra v 2 2 ~ * 2 0 00008373 00047742
+byta v 1 0 1 0 00035031
+anslå v 1 0 1 0 00004304
+understryka v 1 0 1 0 00059041
+grymta v 1 1 @ 1 0 00009041
+dö v 2 1 ~ 2 0 00007868 00052531
+sina v 1 0 1 0 00063745
+smutta v 1 1 @ 1 0 00016914
+spinna v 1 0 1 0 00023626
+garantera v 1 0 1 0 00054521
+berätta v 1 0 1 0 00063141
+stiga_upp v 1 1 ! 1 0 00061367
+spöka v 1 0 1 0 00044066
+fresta v 1 0 1 0 00016470
+tänka v 1 1 ~ 1 0 00008710
+tvinga v 1 0 1 0 00009106
+bukta v 1 1 @ 1 0 00025402
+fälla v 1 2 ! ;c 1 0 00051258
+uppliva v 1 0 1 0 00048996
+gå_igenom v 1 0 1 0 00000416
+åtfölja v 1 1 @ 1 0 00027118
+skönja v 1 0 1 0 00012127
+framträda v 1 1 ~ 1 0 00029339
+krysta v 1 1 @ 1 0 00060100
+gräva v 1 0 1 0 00022164
+dra v 1 2 ! ~ 1 0 00002609
+läspa v 1 0 1 0 00004110
+frikänna v 1 1 ! 1 0 00020214
+resa v 1 1 ! 1 0 00056017
+återvända v 1 1 @ 1 0 00022028
+sprida_ut v 1 1 ~ 1 0 00022353
+stapla v 1 1 @ 1 0 00070389
+knäböja v 1 0 1 0 00014563
+förmoda v 1 1 @ 1 0 00008306
+smitta v 1 0 1 0 00007776
+förena v 1 0 1 0 00072093
+avla v 2 1 @ 2 0 00006787 00032913
+förlöjliga v 1 1 ~ 1 0 00065318
+skriva v 2 1 ~ 2 0 00002498 00072659
+studsa v 1 1 @ 1 0 00057217
+avhysa v 1 0 1 0 00068614
+tycka v 1 0 1 0 00002707
+finslipa v 1 1 @ 1 0 00052371
+välsigna v 1 1 ! 1 0 00031825
+balansera v 1 1 ~ 1 0 00054152
+underhålla v 1 0 1 0 00040827
+vakna v 1 1 * 1 0 00054754
+rycka v 1 0 1 0 00063699
+diskriminera v 1 1 ~ 1 0 00034726
+lirka v 1 1 @ 1 0 00055202
+slå_på_stort v 1 1 @ 1 0 00065723
+strippa v 1 1 ! 1 0 00025919
+inbringa v 1 0 1 0 00000319
+rycka_på_axlarna v 1 1 @ 1 0 00035847
+spackla v 1 0 1 0 00031777
+bre v 1 0 1 0 00073541
+förstå v 1 0 1 0 00050753
+fördröja v 1 1 ~ 1 0 00018921
+spara v 1 0 1 0 00064597
+förtydliga v 2 3 ~ @ ;c 2 0 00045710 00068661
+referera v 1 0 1 0 00063901
+återhämta_sig v 1 1 ! 1 0 00038313
+förstora v 1 1 ;c 1 0 00012058
+predika v 1 0 1 0 00000368
+täppa_till v 1 0 1 0 00009765
+tolerera v 1 1 @ 1 0 00072432
+ströva v 1 2 ~ @ 1 0 00060491
+acceptera v 1 1 @ 1 0 00055464
+mygla v 1 0 1 0 00024704
+avsky v 1 1 @ 1 0 00046151
+väva v 1 0 1 0 00018233
+börja v 1 1 ~ 1 0 00051548
+justera v 1 1 ~ 1 0 00005256
+regissera v 1 0 1 0 00006541
+skumma v 1 0 1 0 00029109
+tvivla v 1 0 1 0 00055809
+landa v 1 1 ~ 1 0 00062266
+ha_råd v 1 0 1 0 00073493
+frisläppa v 1 1 ! 1 0 00042854
+förråda v 1 0 1 0 00059093
+anordna v 1 0 1 0 00042743
+stryka v 1 0 1 0 00020552
+kasta v 1 1 ~ 1 0 00045312
+rösta v 1 1 @ 1 0 00005191
+avslöja v 2 1 @ 2 0 00009880 00017285
+rodna v 1 0 1 0 00042181
+satsa v 1 0 1 0 00064925
+täta v 1 2 ~ @ 1 0 00008125
+överväga v 1 1 @ 1 0 00030061
+brevväxla v 1 1 * 1 0 00062892
+stava v 1 0 1 0 00011217
+fästa v 1 1 ~ 1 0 00003842
+servera v 1 0 1 0 00071348
+trimma v 1 1 @ 1 0 00045955
+falla v 1 1 @ 1 0 00016755
+säga v 1 1 ~ 1 0 00033630
+släpa v 3 1 @ 3 0 00013764 00030178 00051911
+simma v 1 1 @ 1 0 00049357
+skylla v 1 0 1 0 00000812
+lista v 1 0 1 0 00061435
+kliva v 1 1 @ 1 0 00053127
+framkalla v 1 0 1 0 00011736
+beta v 1 2 @ ;c 1 0 00058350
+stiga v 3 4 ! ~ @ ;c 3 0 00011504 00032055 00038387
+kroka v 1 1 @ 1 0 00034153
+spreja v 1 1 @ 1 0 00023039
+betala v 1 1 ~ 1 0 00010188
+mogna v 1 0 1 0 00052485
+förvandla v 1 1 ~ 1 0 00056299
+åka v 2 4 ! ~ @ * 2 0 00029704 00047242
+rapa v 1 0 1 0 00038150
+försäkra v 1 1 @ 1 0 00069565
+flytta_sig v 1 1 @ 1 0 00028133
+glöda v 1 0 1 0 00031893
+köpa v 1 4 ! @ ;c * 1 0 00053579
+upptäcka v 2 0 2 0 00034396 00053191
+skymfa v 2 1 @ 2 0 00052857 00061188
+skrika v 1 1 @ 1 0 00055583
+kriminalisera v 1 1 @ 1 0 00059283
+uppmuntra v 1 0 1 0 00051140
+snubbla v 2 2 @ * 2 0 00019238 00050531
+patrullera v 1 0 1 0 00055413
+anhålla v 1 1 @ 1 0 00002850
+blomstra v 1 0 1 0 00009641
+uppträda v 1 1 ~ 1 0 00029948
+uthärda v 3 2 ~ @ 3 0 00033992 00043611 00069313
+misstro v 1 1 ! 1 0 00050295
+laga v 1 1 @ 1 0 00001892
+påminna v 1 0 1 0 00051453
+förbanna v 1 1 ! 1 0 00020083
+lasta v 1 1 @ 1 0 00034545
+belysa v 1 0 1 0 00045563
+kisa v 1 0 1 0 00056587
+respektera v 2 1 ~ 2 0 00022824 00048307
+publicera v 1 0 1 0 00009450
+väga v 2 1 @ 2 0 00043954 00069634
+storma v 1 1 * 1 0 00032848
+försvinna v 1 2 ! ~ 1 0 00057130
+utvisa v 1 0 1 0 00030766
+flacka v 1 2 ~ @ 1 0 00060491
+återanvända v 1 0 1 0 00064858
+klampa v 1 1 @ 1 0 00057494
+föreställa_sig v 1 0 1 0 00031486
+bjuda v 1 2 * ;c 1 0 00021599
+mala v 1 0 1 0 00016869
+skära v 1 0 1 0 00007664
+förege v 1 0 1 0 00039383
+catera v 1 0 1 0 00018990
+ringa v 2 0 2 0 00001403 00038903
+sabotera v 1 0 1 0 00043054
+meritera v 1 1 @ 1 0 00050049
+reta v 2 2 ~ @ 2 0 00011441 00038570
+kandidera v 1 0 1 0 00046467
+perforera v 2 1 @ 2 0 00025851 00040431
+håna v 1 0 1 0 00065911
+duka_upp v 1 0 1 0 00022893
+klaga v 1 1 ~ 1 0 00033126
+beröra v 1 0 1 0 00046103
+löda v 1 0 1 0 00063606
+spela_in v 1 1 ! 1 0 00003495
+svära v 2 0 2 0 00012922 00048903
+förenkla v 1 0 1 0 00071396
+snyfta v 1 1 @ 1 0 00051665
+värdera v 1 0 1 0 00067265
+kompromissa v 1 0 1 0 00051613
+svaja v 1 0 1 0 00051502
+blänga v 2 1 @ 2 0 00001498 00026653
+fortskrida v 1 3 ! ~ @ 1 0 00059615
+smutskasta v 1 0 1 0 00046299
+skina v 1 1 @ 1 0 00013922
+gränsa v 1 0 1 0 00053356
+simulera v 1 0 1 0 00070703
+torrlägga v 1 0 1 0 00038195
+bida v 1 0 1 0 00032312
+rollbesätta v 1 1 * 1 0 00052196
+spilla v 1 1 @ 1 0 00051388
+förvirra v 1 0 1 0 00063190
+erbjuda v 1 0 1 0 00010076
+använda v 1 0 1 0 00021419
+värva v 1 0 1 0 00072612
+definiera v 1 0 1 0 00033730
+godkänna v 2 1 @ 2 0 00008898 00011616
+senarelägga v 1 2 @ * 1 0 00037511
+citera v 1 0 1 0 00013619
+ångra v 1 1 @ 1 0 00070454
+aktivera v 1 0 1 0 00053078
+ta_med v 1 2 ~ @ 1 0 00032765
+minska v 3 3 ! ~ @ 3 0 00043660 00047659 00052709
+läsa v 1 0 1 0 00044741
+fira v 1 0 1 0 00022211
+kräva v 1 2 ~ @ 1 0 00044194
+relatera v 1 1 @ 1 0 00070148
+knåda v 1 0 1 0 00038640
+kika v 1 0 1 0 00024480
+befordra v 1 1 ~ 1 0 00019573
+behålla v 1 2 ~ @ 1 0 00068961
+försvara v 2 2 ! @ 2 0 00016638 00064478
+platta_till v 1 1 @ 1 0 00001088
+anta v 3 1 @ 3 0 00010013 00011105 00012969
+inkvartera v 1 0 1 0 00035494
+ordna v 1 2 ~ @ 1 0 00043316
+vada v 1 1 @ 1 0 00050866
+dansa v 1 1 @ 1 0 00006656
+yrka v 1 1 ;c 1 0 00062562
+bemyndiga v 1 0 1 0 00030440
+begrava v 2 2 @ * 2 0 00035676 00063489
+rekommendera v 1 0 1 0 00026186
+plantera v 1 1 @ 1 0 00038246
+droga v 1 2 ~ ;c 1 0 00069837
+sockra v 1 0 1 0 00066520
+avbryta v 1 0 1 0 00041008
+ifrågasätta v 3 1 @ 3 0 00022550 00041745 00046703
+dela v 2 0 2 0 00012340 00018529
+hitta v 1 1 @ 1 0 00062148
+ersätta v 2 0 2 0 00038056 00070973
+förlägga v 1 1 @ 1 0 00064250
+följa v 1 1 @ 1 0 00012761
+blåsa_upp v 1 0 1 0 00020032
+tillhöra v 1 0 1 0 00027808
+störta v 1 0 1 0 00044897
+vinna v 2 3 ! @ * 2 0 00010916 00057823
+missgynna v 1 2 ~ @ 1 0 00054366
+fylla v 2 1 ~ 2 0 00005820 00016025
+backa v 1 0 1 0 00049602
+råna v 1 0 1 0 00060649
+centrifugera v 1 0 1 0 00040296
+missa v 2 2 @ * 2 0 00026539 00069064
+uppkomma v 1 0 1 0 00060695
+sopa v 1 1 @ 1 0 00047370
+behandla v 3 1 ~ 3 0 00060744 00065862 00066212
+möta v 1 0 1 0 00037718
+konfiskera v 1 0 1 0 00046517
+muttra v 1 1 @ 1 0 00006591
+krascha v 2 1 @ 2 0 00011902 00025738
+ladda_ner v 1 0 1 0 00031656
+spendera v 1 2 ~ @ 1 0 00019153
+munhuggas v 1 0 1 0 00057033
+fråga v 1 0 1 0 00067090
+koncentrera_sig v 1 1 @ 1 0 00025172
+bojkotta v 1 0 1 0 00029221
+sända v 1 0 1 0 00008577
+bekymra_sig v 1 0 1 0 00063437
+sparka v 1 1 @ 1 0 00013014
+susa v 1 0 1 0 00039807
+slå v 4 2 ~ @ 4 0 00023785 00067202 00071576 00072141
+flå v 1 0 1 0 00038105
+tvista v 2 1 @ 2 0 00041745 00069218
+sucka v 2 1 @ 2 0 00028353 00070589
+delta v 2 1 ! 2 0 00036500 00068813
+piska v 1 0 1 0 00033780
+avskräcka v 2 1 ! 2 0 00015110 00072770
+undanta v 1 1 ~ 1 0 00072546
+balsamera v 1 0 1 0 00003177
+fläcka v 1 0 1 0 00022991
+centralisera v 1 1 ! 1 0 00059402
+gnugga v 1 2 ~ * 1 0 00017618
+stödja v 2 1 ~ 2 0 00021746 00040743
+golva v 1 0 1 0 00024865
+matcha v 2 2 ~ @ 2 0 00022485 00039318
+inträda v 1 2 ! ~ 1 0 00033023
+styrka v 1 0 1 0 00015824
+rättfärdiga v 1 0 1 0 00016584
+fördärva v 1 0 1 0 00005096
+åtala v 2 1 ! 2 0 00016405 00067599
+förstöra v 2 1 ~ 2 0 00010865 00054452
+ligga v 1 1 ! 1 0 00002200
+applådera v 1 3 ! @ * 1 0 00037290
+proppa_i_sig v 1 0 1 0 00004523
+hicka v 1 1 @ 1 0 00033259
+jämföra v 1 0 1 0 00063387
+förbjuda v 2 3 ! ~ @ 2 0 00024010 00025027
+återföra v 1 1 @ 1 0 00028826
+fasta v 2 0 2 0 00038962 00043219
+fördöma v 1 0 1 0 00037600
+vakta v 1 1 @ 1 0 00006013
+viska v 1 1 ! 1 0 00025985
+stå_i_skuld v 1 0 1 0 00012708
+förgifta v 1 1 @ 1 0 00041056
+kippa v 1 0 1 0 00051342
+representera v 1 0 1 0 00058988
+avfyra v 1 1 ~ 1 0 00035545
+upprepa v 1 1 @ 1 0 00065957
+förskona v 1 1 @ 1 0 00040490
+blanda v 2 0 2 0 00039008 00072499
+hävda v 1 1 ~ 1 0 00066567
+inse v 1 0 1 0 00025530
+vilseleda v 1 1 ~ 1 0 00006437
+skymma v 1 1 @ 1 0 00071133
+skälla v 2 2 ~ @ 2 0 00007403 00015729
+prata v 1 0 1 0 00061527
+stulta v 1 1 @ 1 0 00033518
+undsätta v 2 0 2 0 00017559 00044512
+kissa v 1 0 1 0 00032581
+ladda v 1 1 @ 1 0 00049486
+vandra v 1 2 @ ;c 1 0 00041528
+reformera v 1 1 @ 1 0 00064112
+förbigå v 1 2 ~ @ 1 0 00019640
+så v 1 2 @ ;c 1 0 00044113
+svälja v 2 0 2 0 00018481 00069985
+stanna v 2 1 ! 2 0 00029785 00071068
+njuta v 1 0 1 0 00013876
+prioritera v 1 1 @ 1 0 00015041
+avböja v 1 0 1 0 00069265
+bege_sig v 1 0 1 0 00045610
+utpressa v 1 1 @ 1 0 00053450
+vilja v 1 1 ~ 1 0 00027643
+förlänga v 1 0 1 0 00009265
+bita v 1 0 1 0 00059190
+slicka v 1 1 @ 1 0 00039055
+vrida v 2 0 2 0 00001222 00063950
+nicka v 1 0 1 0 00021982
+kidnappa v 1 1 ;c 1 0 00045156
+begränsa v 1 1 ~ 1 0 00012272
+auktorisera v 1 2 ~ * 1 0 00001564
+skilja v 1 1 @ 1 0 00028993
+le v 1 2 ~ @ 1 0 00022256
+lösesumma v 1 1 ;c 1 0 00002311
+sniffa v 1 1 @ 1 0 00019322
+komplettera v 1 1 @ 1 0 00008006
+smeka v 1 2 ~ @ 1 0 00040349
+försämra v 3 3 ! ~ @ 3 0 00032494 00035258 00065021
+skola v 1 1 @ 1 0 00008513
+basa v 1 0 1 0 00022779
+gestikulera v 1 1 ~ 1 0 00052023

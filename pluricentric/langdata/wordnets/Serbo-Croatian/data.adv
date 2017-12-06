@@ -1,0 +1,399 @@
+  01 This file is a derivation of the wn-hrv-lmf.xml file; the original hrv-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: hrv
+  07 label: Croatian
+00000317 00 r 01 izravno 0 000 |    
+00000354 00 r 01 centralno 0 000 |    
+00000393 00 r 02 zauvijek 0 trajno 0 001 ! 00004579 r 0000 |    
+00000458 00 r 01 vjerojatno 0 000 |    
+00000498 00 r 01 ilegalno 0 000 |    
+00000536 00 r 02 posvuda 0 svuda 0 000 |    
+00000581 00 r 01 aktivno 0 000 |    
+00000618 00 r 02 upadljivo 0 neobično 0 001 ! 00005402 r 0000 |    
+00000687 00 r 01 naprijed 0 002 ! 00001414 r 0000 ;u 01211314 n 0000 |    
+00000762 00 r 01 nepravedno 0 000 |    
+00000802 00 r 01 nezakonit 0 001 ! 00003441 r 0000 |    
+00000859 00 r 01 interan 0 000 |    
+00000896 00 r 01 redovito 0 000 |    
+00000934 00 r 01 formalno 0 001 ! 00002090 r 0000 |    
+00000990 00 r 01 prirodno 0 001 ! 00005254 r 0000 |    
+00001046 00 r 01 pretenciozno 0 000 |    
+00001088 00 r 01 slabo 0 001 ! 00003235 r 0000 |    
+00001141 00 r 01 glasno 0 001 ! 00002363 r 0000 |    
+00001195 00 r 01 općenito 0 001 ! 00002777 r 0000 |    
+00001252 00 r 01 gusto 0 000 |    
+00001287 00 r 01 snažno 0 001 ! 00002236 r 0000 |    
+00001342 00 r 01 realno 0 000 |    
+00001378 00 r 01 sretno 0 000 |    
+00001414 00 r 01 natrag 0 001 ! 00000687 r 0000 |    
+00001468 00 r 01 onamo 0 001 ! 00002183 r 0000 |    
+00001521 00 r 01 učinkovito 0 000 |    
+00001562 00 r 01 pristojno 0 000 |    
+00001601 00 r 01 potpuno 0 000 |    
+00001638 00 r 01 slatko 0 001 ;c 00063778 n 0000 |    
+00001693 00 r 01 daleko 0 001 ;u 01168919 n 0000 |    
+00001748 00 r 01 unutra 0 000 |    
+00001784 00 r 02 zacijelo 0 sigurno 0 000 |    
+00001832 00 r 01 oralan 0 001 ;c 00575725 n 0000 |    
+00001887 00 r 01 uvijek 0 001 ! 00002536 r 0000 |    
+00001941 00 r 01 nesvjesno 0 001 ! 00003754 r 0000 |    
+00001998 00 r 01 još 0 000 |    
+00002032 00 r 01 nenamjerno 0 001 ! 00005551 r 0000 |    
+00002090 00 r 01 neformalno 0 001 ! 00000934 r 0000 |    
+00002148 00 r 01 javno 0 000 |    
+00002183 00 r 01 ovdje 0 001 ! 00001468 r 0000 |    
+00002236 00 r 01 slabo 0 001 ! 00001287 r 0000 |    
+00002289 00 r 01 skromno 0 000 |    
+00002326 00 r 01 nasilno 0 000 |    
+00002363 00 r 01 tiho 0 001 ! 00001141 r 0000 |    
+00002415 00 r 01 jasno 0 000 |    
+00002450 00 r 01 brzo 0 001 ! 00004203 r 0000 |    
+00002502 00 r 01 lako 0 000 |    
+00002536 00 r 01 nikada 0 001 ! 00001887 r 0000 |    
+00002590 00 r 01 barem 0 000 |    
+00002625 00 r 01 nesavršeno 0 001 ! 00005158 r 0000 |    
+00002684 00 r 01 ugodan 0 001 ! 00004361 r 0000 |    
+00002738 00 r 01 službeno 0 000 |    
+00002777 00 r 01 posebno 0 001 ! 00001195 r 0000 |    
+00002832 00 r 01 samo 0 001 ;u 00792588 n 0000 |    
+00002885 00 r 01 doslovno 0 001 ;u 00792588 n 0000 |    
+00002942 00 r 01 točno 0 000 |    
+00002978 00 r 01 žurno 0 000 |    
+00003014 00 r 01 bogato 0 000 |    
+00003050 00 r 01 adekvatno 0 001 ! 00004257 r 0000 |    
+00003107 00 r 01 rijetko 0 001 ! 00003887 r 0000 |    
+00003162 00 r 01 iskreno 0 000 |    
+00003199 00 r 01 udobno 0 000 |    
+00003235 00 r 01 dobro 0 001 ! 00001088 r 0000 |    
+00003288 00 r 01 učinkovito 0 000 |    
+00003329 00 r 01 svjesno 0 000 |    
+00003366 00 r 01 doslovan 0 000 |    
+00003404 00 r 01 potpuno 0 000 |    
+00003441 00 r 01 pravno 0 001 ! 00000802 r 0000 |    
+00003495 00 r 01 gusto 0 000 |    
+00003530 00 r 01 prilično 0 000 |    
+00003569 00 r 01 uspješno 0 000 |    
+00003608 00 r 01 potpuno 0 001 ! 00003997 r 0000 |    
+00003663 00 r 01 grubo 0 001 ! 00004527 r 0000 |    
+00003716 00 r 01 redovito 0 000 |    
+00003754 00 r 01 svjesno 0 001 ! 00001941 r 0000 |    
+00003809 00 r 01 nažalost 0 000 |    
+00003848 00 r 01 temeljito 0 000 |    
+00003887 00 r 01 često 0 001 ! 00003107 r 0000 |    
+00003941 00 r 01 iskreno 0 001 ;u 00792588 n 0000 |    
+00003997 00 r 01 djelomično 0 001 ! 00003608 r 0000 |    
+00004056 00 r 01 nužno 0 000 |    
+00004092 00 r 01 nepropisno 0 001 ! 00004712 r 0000 |    
+00004150 00 r 01 ovdje 0 001 ! 00005309 r 0000 |    
+00004203 00 r 01 polako 0 001 ! 00002450 r 0000 |    
+00004257 00 r 01 nedovoljno 0 001 ! 00003050 r 0000 |    
+00004315 00 r 01 karakteristično 0 000 |    
+00004361 00 r 01 neugodan 0 001 ! 00002684 r 0000 |    
+00004417 00 r 01 kasno 0 000 |    
+00004452 00 r 01 obično 0 000 |    
+00004489 00 r 01 svečano 0 000 |    
+00004527 00 r 01 fino 0 001 ! 00003663 r 0000 |    
+00004579 00 r 01 privremeno 0 001 ! 00000393 r 0000 |    
+00004637 00 r 01 duhovito 0 000 |    
+00004675 00 r 01 naravno 0 000 |    
+00004712 00 r 01 pravilno 0 001 ! 00004092 r 0000 |    
+00004768 00 r 01 natrag 0 001 ! 00005495 r 0000 |    
+00004822 00 r 01 dolje 0 001 ! 00005068 r 0000 |    
+00004875 00 r 01 konvencionalno 0 000 |    
+00004919 00 r 01 emocionalno 0 000 |    
+00004960 00 r 01 bučno 0 000 |    
+00004996 00 r 01 negdje 0 000 |    
+00005032 00 r 01 očito 0 000 |    
+00005068 00 r 01 gore 0 001 ! 00004822 r 0000 |    
+00005120 00 r 01 dovoljno 0 000 |    
+00005158 00 r 01 savršeno 0 001 ! 00002625 r 0000 |    
+00005215 00 r 01 nesigurno 0 000 |    
+00005254 00 r 01 umjetan 0 001 ! 00000990 r 0000 |    
+00005309 00 r 01 tamo 0 001 ! 00004150 r 0000 |    
+00005361 00 r 01 dobrovoljno 0 000 |    
+00005402 00 r 01 obično 0 001 ! 00000618 r 0000 |    
+00005457 00 r 01 precizno 0 000 |    
+00005495 00 r 01 naprijed 0 001 ! 00004768 r 0000 |    
+00005551 00 r 01 namjerno 0 001 ! 00002032 r 0000 |    
+00005607 00 r 01 barem 0 000 |    
+00005642 00 r 01 značajno 0 000 |    
+00005681 00 r 01 čvrsto 0 000 |    
+00005718 00 r 01 sada 0 000 |    
+00005752 00 r 01 trenutno 0 000 |    
+00005790 00 r 01 potajno 0 000 |    
+00005827 00 r 01 strogo 0 000 |    
+00005863 00 r 01 nježno 0 000 |    
+00005900 00 r 01 prerano 0 000 |    
+00005937 00 r 01 osobno 0 000 |    
+00005973 00 r 01 stvarno 0 000 |    
+00006010 00 r 01 odmah 0 000 |    
+00006045 00 r 01 međunarodan 0 000 |    
+00006087 00 r 01 željno 0 000 |    
+00006124 00 r 01 postupno 0 000 |    
+00006162 00 r 01 nigdje 0 000 |    
+00006198 00 r 01 povijesno 0 000 |    
+00006237 00 r 01 snažno 0 000 |    
+00006274 00 r 01 rano 0 000 |    
+00006308 00 r 01 jednostavno 0 000 |    
+00006349 00 r 01 nervozno 0 000 |    
+00006387 00 r 01 teško 0 000 |    
+00006423 00 r 01 intenzivno 0 000 |    
+00006463 00 r 01 strukturan 0 000 |    
+00006503 00 r 01 jasno 0 000 |    
+00006538 00 r 01 oštro 0 000 |    
+00006574 00 r 01 osobno 0 000 |    
+00006610 00 r 01 apsolutno 0 000 |    
+00006649 00 r 01 slučajno 0 000 |    
+00006688 00 r 01 emocionalno 0 000 |    
+00006729 00 r 01 intenzivno 0 000 |    
+00006769 00 r 01 inače 0 000 |    
+00006805 00 r 01 brzo 0 000 |    
+00006839 00 r 01 lako 0 000 |    
+00006873 00 r 01 blizu 0 000 |    
+00006908 00 r 01 zajedno 0 000 |    
+00006945 00 r 01 upravo 0 000 |    
+00006981 00 r 01 isključivo 0 000 |    
+00007022 00 r 01 uskoro 0 000 |    
+00007058 00 r 01 jako 0 000 |    
+00007092 00 r 01 samostalno 0 000 |    
+00007132 00 r 01 ikada 0 000 |    
+00007167 00 r 01 vjerojatno 0 000 |    
+00007207 00 r 01 prezirno 0 000 |    
+00007245 00 r 01 udobno 0 000 |    
+00007281 00 r 01 uvjetno 0 000 |    
+00007318 00 r 01 blizu 0 000 |    
+00007353 00 r 01 očajnički 0 000 |    
+00007394 00 r 01 pompozno 0 000 |    
+00007432 00 r 01 zaigrati 0 000 |    
+00007470 00 r 01 glatko 0 000 |    
+00007506 00 r 01 brutalno 0 000 |    
+00007544 00 r 01 daleko 0 000 |    
+00007580 00 r 01 izravno 0 000 |    
+00007617 00 r 01 navodno 0 000 |    
+00007654 00 r 01 nepotrebno 0 000 |    
+00007694 00 r 01 jednoglasno 0 000 |    
+00007735 00 r 01 zajedno 0 000 |    
+00007772 00 r 01 ravnomjerno 0 000 |    
+00007813 00 r 01 gotovo 0 000 |    
+00007849 00 r 01 također 0 000 |    
+00007887 00 r 01 uporno 0 000 |    
+00007923 00 r 01 definitivno 0 000 |    
+00007964 00 r 01 čvrsto 0 000 |    
+00008001 00 r 01 mahnit 0 000 |    
+00008037 00 r 01 samo 0 000 |    
+00008071 00 r 01 pješke 0 000 |    
+00008108 00 r 01 nejasno 0 000 |    
+00008145 00 r 01 opet 0 000 |    
+00008179 00 r 01 horizontalno 0 000 |    
+00008221 00 r 01 znatno 0 000 |    
+00008257 00 r 01 labavo 0 000 |    
+00008293 00 r 01 opasno 0 000 |    
+00008329 00 r 01 naizmjence 0 000 |    
+00008369 00 r 01 različito 0 000 |    
+00008409 00 r 01 automatski 0 000 |    
+00008449 00 r 01 tako 0 000 |    
+00008483 00 r 01 prije 0 000 |    
+00008518 00 r 01 pogrešno 0 000 |    
+00008557 00 r 01 potom 0 000 |    
+00008592 00 r 01 intenzivno 0 000 |    
+00008632 00 r 01 društveno 0 000 |    
+00008672 00 r 01 dobro 0 000 |    
+00008707 00 r 01 međutim 0 000 |    
+00008745 00 r 01 politički 0 000 |    
+00008785 00 r 01 drsko 0 000 |    
+00008820 00 r 01 alternativan 0 000 |    
+00008862 00 r 01 mnogo 0 000 |    
+00008897 00 r 01 jasno 0 000 |    
+00008932 00 r 01 zapravo 0 000 |    
+00008969 00 r 01 pravno 0 000 |    
+00009005 00 r 01 unatrag 0 000 |    
+00009042 00 r 01 južno 0 000 |    
+00009078 00 r 01 zajedno 0 000 |    
+00009115 00 r 01 međusoban 0 000 |    
+00009155 00 r 01 temeljito 0 000 |    
+00009194 00 r 01 relativno 0 000 |    
+00009233 00 r 01 radikalno 0 000 |    
+00009272 00 r 01 teško 0 000 |    
+00009308 00 r 01 kada 0 000 |    
+00009342 00 r 01 jednako 0 000 |    
+00009379 00 r 01 povremen 0 000 |    
+00009417 00 r 01 prethodno 0 000 |    
+00009456 00 r 01 zajedno 0 000 |    
+00009493 00 r 01 pažljivo 0 000 |    
+00009532 00 r 02 prilično 0 pomalo 0 000 |    
+00009580 00 r 01 već 0 000 |    
+00009614 00 r 01 štoviše 0 000 |    
+00009653 00 r 01 metaforički 0 000 |    
+00009695 00 r 01 nekako 0 000 |    
+00009731 00 r 01 rijetko 0 000 |    
+00009768 00 r 01 posebno 0 000 |    
+00009805 00 r 01 znatno 0 000 |    
+00009841 00 r 01 automatski 0 000 |    
+00009881 00 r 01 konačno 0 000 |    
+00009919 00 r 01 sutradan 0 000 |    
+00009957 00 r 01 nužno 0 000 |    
+00009993 00 r 01 izravno 0 000 |    
+00010030 00 r 01 čvrsto 0 000 |    
+00010067 00 r 01 prvo 0 000 |    
+00010101 00 r 01 obilan 0 000 |    
+00010137 00 r 01 zauvijek 0 000 |    
+00010175 00 r 01 večeras 0 000 |    
+00010213 00 r 01 previše 0 000 |    
+00010251 00 r 01 nedavno 0 000 |    
+00010288 00 r 01 tako 0 000 |    
+00010322 00 r 01 doslovce 0 000 |    
+00010360 00 r 01 oko 0 000 |    
+00010393 00 r 01 ručno 0 000 |    
+00010429 00 r 01 oštro 0 000 |    
+00010465 00 r 01 povremen 0 000 |    
+00010503 00 r 01 naprijed 0 000 |    
+00010541 00 r 01 naprijed 0 000 |    
+00010579 00 r 01 komercijalan 0 000 |    
+00010621 00 r 01 znatiželjno 0 000 |    
+00010663 00 r 01 zapravo 0 000 |    
+00010700 00 r 01 sintaktički 0 000 |    
+00010742 00 r 01 očito 0 000 |    
+00010778 00 r 01 natrag 0 000 |    
+00010814 00 r 01 kontinuirano 0 000 |    
+00010856 00 r 01 nedavno 0 000 |    
+00010893 00 r 01 tako 0 000 |    
+00010927 00 r 01 intelektualno 0 000 |    
+00010970 00 r 01 znanstveno 0 000 |    
+00011010 00 r 01 lijepo 0 000 |    
+00011046 00 r 01 navodno 0 000 |    
+00011083 00 r 01 čak 0 000 |    
+00011117 00 r 01 još 0 000 |    
+00011151 00 r 01 vrlo 0 000 |    
+00011185 00 r 01 potajno 0 000 |    
+00011222 00 r 02 ionako 0 svejedno 0 000 |    
+00011269 00 r 01 rano 0 000 |    
+00011303 00 r 01 nasilno 0 000 |    
+00011340 00 r 01 lagano 0 000 |    
+00011376 00 r 01 kemijski 0 000 |    
+00011414 00 r 01 rano 0 000 |    
+00011448 00 r 01 osim 0 000 |    
+00011482 00 r 01 upravo 0 000 |    
+00011518 00 r 01 općenito 0 000 |    
+00011557 00 r 01 amo-tamo 0 000 |    
+00011595 00 r 01 ozbiljno 0 000 |    
+00011633 00 r 01 daleko 0 000 |    
+00011669 00 r 01 duboko 0 000 |    
+00011705 00 r 01 čvrsto 0 000 |    
+00011742 00 r 01 uredno 0 000 |    
+00011778 00 r 01 učinkovit 0 000 |    
+00011818 00 r 01 uvijek 0 000 |    
+00011854 00 r 01 površno 0 000 |    
+00011892 00 r 01 grčevito 0 000 |    
+00011931 00 r 01 službeno 0 000 |    
+00011970 00 r 01 tradicionalno 0 000 |    
+00012013 00 r 01 nespretno 0 000 |    
+00012052 00 r 01 doista 0 000 |    
+00012088 00 r 02 drugačije 0 drukčije 0 000 |    
+00012140 00 r 01 sada 0 000 |    
+00012174 00 r 01 konačno 0 000 |    
+00012212 00 r 01 mentalno 0 000 |    
+00012250 00 r 01 fizički 0 000 |    
+00012288 00 r 01 odakle 0 000 |    
+00012324 00 r 01 natrag 0 000 |    
+00012360 00 r 01 rado 0 000 |    
+00012394 00 r 01 jednostavno 0 000 |    
+00012435 00 r 01 nesumnjivo 0 000 |    
+00012475 00 r 01 svečano 0 000 |    
+00012513 00 r 01 navodno 0 000 |    
+00012550 00 r 01 stalno 0 000 |    
+00012586 00 r 01 sada 0 000 |    
+00012620 00 r 01 slučajan 0 000 |    
+00012659 00 r 01 brzo 0 000 |    
+00012693 00 r 01 izvrstan 0 000 |    
+00012731 00 r 01 obično 0 000 |    
+00012768 00 r 01 zajedno 0 000 |    
+00012805 00 r 01 uvelike 0 000 |    
+00012842 00 r 01 drugdje 0 000 |    
+00012879 00 r 01 besciljno 0 000 |    
+00012918 00 r 01 daleko 0 000 |    
+00012954 00 r 01 ozbiljno 0 000 |    
+00012992 00 r 01 ponekada 0 000 |    
+00013030 00 r 01 ozbiljno 0 000 |    
+00013068 00 r 01 univerzalan 0 000 |    
+00013109 00 r 01 kreativno 0 000 |    
+00013148 00 r 01 iznimno 0 000 |    
+00013185 00 r 01 tako 0 000 |    
+00013219 00 r 01 oštro 0 000 |    
+00013255 00 r 01 jasno 0 000 |    
+00013290 00 r 01 nekako 0 000 |    
+00013326 00 r 01 odjednom 0 000 |    
+00013364 00 r 01 snažno 0 000 |    
+00013401 00 r 01 unaprijed 0 000 |    
+00013440 00 r 01 vjerojatno 0 000 |    
+00013480 00 r 01 konačno 0 000 |    
+00013518 00 r 01 oštro 0 000 |    
+00013554 00 r 01 fino 0 000 |    
+00013588 00 r 01 studiozno 0 000 |    
+00013627 00 r 01 vješto 0 000 |    
+00013664 00 r 01 nepotpuno 0 000 |    
+00013703 00 r 01 odsutno 0 000 |    
+00013740 00 r 01 spiralan 0 000 |    
+00013778 00 r 01 zlonamjerno 0 000 |    
+00013819 00 r 01 ovdje 0 000 |    
+00013854 00 r 01 strogo 0 000 |    
+00013890 00 r 01 jednom 0 000 |    
+00013926 00 r 01 financijski 0 000 |    
+00013967 00 r 01 apsolutno 0 000 |    
+00014006 00 r 01 dugo 0 000 |    
+00014040 00 r 01 zajedno 0 000 |    
+00014077 00 r 01 zajedno 0 000 |    
+00014114 00 r 01 zajedno 0 000 |    
+00014151 00 r 01 sigurno 0 000 |    
+00014188 00 r 01 primjerice 0 000 |    
+00014228 00 r 02 međutim 0 ipak 0 000 |    
+00014273 00 r 01 pozorno 0 000 |    
+00014310 00 r 01 nikada 0 000 |    
+00014346 00 r 01 uglavnom 0 000 |    
+00014384 00 r 01 još 0 000 |    
+00014418 00 r 01 onda 0 000 |    
+00014452 00 r 01 posebno 0 000 |    
+00014489 00 r 01 sjeverozapadno 0 000 |    
+00014533 00 r 01 prisilno 0 000 |    
+00014571 00 r 01 stalno 0 000 |    
+00014607 00 r 01 vizualan 0 000 |    
+00014645 00 r 01 federalno 0 000 |    
+00014684 00 r 01 neredovito 0 000 |    
+00014724 00 r 01 skladno 0 000 |    
+00014761 00 r 01 malo 0 000 |    
+00014795 00 r 01 smrtno 0 000 |    
+00014831 00 r 01 duboko 0 000 |    
+00014867 00 r 01 čvrsto 0 000 |    
+00014904 00 r 01 nejasno 0 000 |    
+00014941 00 r 01 odmah 0 000 |    
+00014976 00 r 01 još 0 000 |    
+00015010 00 r 01 nakratko 0 000 |    
+00015048 00 r 01 oštro 0 000 |    
+00015084 00 r 01 posebno 0 000 |    
+00015121 00 r 01 dijagonalno 0 000 |    
+00015162 00 r 01 brzo 0 000 |    
+00015196 00 r 01 praktički 0 000 |    
+00015236 00 r 01 nespretno 0 000 |    
+00015275 00 r 01 možda 0 000 |    
+00015311 00 r 01 odnosno 0 000 |    
+00015348 00 r 02 istodobno 0 istovremen 0 000 |    
+00015400 00 r 01 godišnje 0 000 |    
+00015439 00 r 01 toliko 0 000 |    
+00015475 00 r 01 naprijed 0 000 |    
+00015513 00 r 01 zapravo 0 000 |    
+00015550 00 r 01 sjeverno 0 000 |    
+00015588 00 r 01 uglavnom 0 000 |    
+00015626 00 r 01 pametno 0 000 |    
+00015663 00 r 01 eksperimentalno 0 000 |    
+00015708 00 r 01 logično 0 000 |    
+00015746 00 r 01 naglo 0 000 |    
+00015781 00 r 02 strogo 0 striktno 0 000 |    
+00015828 00 r 01 okolo 0 000 |    
+00015863 00 r 01 selektivno 0 000 |    
+00015903 00 r 01 nekada 0 000 |    
+00015939 00 r 01 prostoran 0 000 |    
+00015978 00 r 01 potencijalno 0 000 |    
+00016020 00 r 01 puno 0 000 |    
+00016054 00 r 01 namjerno 0 000 |    

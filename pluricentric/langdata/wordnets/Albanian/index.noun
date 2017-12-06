@@ -1,0 +1,4259 @@
+ambulancë n 1 1 @ 1 0 00362406
+pasiguri n 1 3 ! @ ~ 1 0 00021828
+mësonjëtore n 1 1 @ 1 0 00115708
+gjendje_emocionale n 1 2 @ ~ 1 0 00246116
+përgjegjës n 1 2 @ ~ 1 0 00113555
+tretësirë n 1 1 @ 1 0 00315916
+ofendim n 2 2 @ ~ 2 0 00158915 00421533
+ngritje_natyrore n 1 3 %p @ ~ 1 0 00323230
+vatërzoj n 1 1 @ 1 0 00331329
+fsheharak n 1 1 @ 1 0 00162626
+ballë n 1 2 #p @ 1 0 00480812
+telash n 2 2 @ ~ 2 0 00111764 00166610
+psikologji n 1 2 -c @ 1 0 00190591
+shërbim_ushtarak n 2 5 -c ~ ;c @ %m 2 0 00218290 00282513
+asgjë n 1 1 @ 1 0 00182415
+kohë_pune n 1 3 ! @ ~ 1 0 00221157
+buze n 1 1 @ 1 0 00064207
+zbritje n 2 3 ! @ ~ 2 0 00056648 00299776
+lulëzoj n 1 1 @ 1 0 00314027
+gjini n 1 1 @ 1 0 00009742
+numër_telefoni n 1 1 @ 1 0 00027188
+shperrthim n 1 1 @ 1 0 00041919
+britmë n 3 1 @ 3 0 00074999 00288193 00435171
+president n 3 1 @ 3 0 00371231 00377325 00535383
+pianoforte n 1 1 @ 1 0 00308800
+forme_e_rumbullaket n 1 2 @ ~ 1 0 00042173
+ligj n 2 5 #p -c %p @ ~ 2 0 00131011 00137442
+formulë n 1 1 ~ 1 0 00353962
+sistem_ligjesh n 1 4 -c %p @ ~ 1 0 00137442
+instalim n 2 2 @ ~ 2 0 00134360 00200017
+konjak n 1 1 @ 1 0 00087461
+kalendar n 1 1 @ 1 0 00510097
+mungesë_saktësie n 1 2 @ ~ 1 0 00436057
+shkallë n 2 2 @ ~ 2 0 00116563 00418832
+vizitë n 1 0 1 0 00187997
+hotel_i_vogël n 1 1 @ 1 0 00019748
+barkë n 1 2 @ ~ 1 0 00231997
+resto n 1 0 1 0 00182797
+ngarkesë_mallrash n 1 1 @ 1 0 00050423
+paracetamol n 1 1 @ 1 0 00120180
+arratisje n 2 1 @ 2 0 00144441 00468542
+zotëri n 1 1 @ 1 0 00014064
+teknikë n 1 1 @ 1 0 00053514
+mjete_lufte n 1 3 %p @ ~ 1 0 00297183
+neglizhencë n 1 1 @ 1 0 00165017
+disfatë n 2 3 ! @ ~ 2 0 00334201 00459471
+baze n 5 3 ;c @ %m 5 0 00147264 00191661 00219711 00399520 00427989
+anketim n 1 1 @ 1 0 00413104
+njësi_kohe n 1 1 ~ 1 0 00232282
+grupazh n 1 1 @ 1 0 00062141
+turmë n 2 1 @ 2 0 00062449 00325830
+miratim n 2 3 ;c @ ~ 2 0 00088046 00380201
+pasion n 1 1 @ 1 0 00109070
+manekin n 1 1 @ 1 0 00155511
+pikë_kohore n 1 1 ~ 1 0 00264155
+ilaç_qetësues n 1 1 @ 1 0 00199179
+pingule n 1 1 @ 1 0 00373701
+paanesi n 1 1 @ 1 0 00381515
+shërbyes n 1 2 @ ~ 1 0 00429708
+jo_origjinal n 1 2 @ ~ 1 0 00005038
+zë n 1 1 @ 1 0 00221279
+ndjesi_shijimi n 1 1 @ 1 0 00009291
+megalomani n 1 1 @ 1 0 00154509
+tapë n 1 2 @ ~ 1 0 00351540
+hallkë n 2 2 #m @ 2 0 00078902 00477544
+hapje n 1 2 @ ~ 1 0 00414854
+rajon_administrative n 1 2 @ ~ 1 0 00343368
+prezantim_publik n 1 1 ~ 1 0 00170778
+shkencëtarë n 1 1 @ 1 0 00171814
+kurë n 1 2 #p @ 1 0 00464454
+i_dhimshëm n 1 1 @ 1 0 00069698
+domethënie n 2 1 @ 2 0 00413600 00501703
+memorje n 1 1 @ 1 0 00444027
+helikopter n 1 0 1 0 00010861
+ndërrim_destinacioni n 1 2 @ ~ 1 0 00319371
+asortiment n 1 1 @ 1 0 00492128
+zhubrosje n 1 1 #p 1 0 00148063
+pas n 2 2 ! @ 2 0 00005982 00148684
+renditje n 2 2 @ ~ 2 0 00225633 00420905
+objekt_natyror n 1 3 ! @ ~ 1 0 00295045
+mjetet_gjimnastikore n 1 1 @ 1 0 00000412
+karakter n 5 3 #p @ ~ 5 0 00160006 00277523 00500162 00512249 00514549
+import n 1 2 ! @ 1 0 00263878
+salcë n 1 2 #p @ 1 0 00400251
+financa n 2 0 2 0 00309283 00518577
+marketing n 1 2 @ ~ 1 0 00423336
+posedoj n 2 2 @ ~ 2 0 00382860 00465671
+xhungël n 1 1 @ 1 0 00463347
+tregim n 3 2 @ ~ 3 0 00077563 00150650 00364051
+ilaç n 2 3 #p @ ~ 2 0 00464454 00532459
+te_ushqyerit n 1 2 @ ~ 1 0 00330821
+mister n 1 1 @ 1 0 00398255
+rreth n 1 1 @ 1 0 00317508
+aktualizim n 1 1 @ 1 0 00448858
+rastësi n 2 1 @ 2 0 00111022 00346609
+murmuritje n 2 1 @ 2 0 00292014 00505414
+race n 2 2 @ ~ 2 0 00009961 00403745
+kësulë n 1 1 @ 1 0 00156826
+lundër_e_sheshtë n 1 1 @ 1 0 00383922
+shtrembërim n 1 2 @ ~ 1 0 00498356
+përgjërim n 2 2 @ ~ 2 0 00035786 00187300
+seksion n 4 4 #p ;c @ ~ 4 0 00076502 00273987 00348679 00434773
+bllokohem n 1 1 @ 1 0 00463101
+mënyrë n 6 2 @ ~ 6 0 00036020 00233935 00249024 00291151 00338865 00520969
+membranë n 1 0 1 0 00197310
+justifikim n 1 1 @ 1 0 00443251
+lloj n 2 2 @ ~ 2 0 00272951 00397787
+gradë n 4 3 = @ ~ 4 0 00057784 00129037 00199892 00415077
+korrektues n 1 1 @ 1 0 00281962
+sferë n 1 2 %p @ 1 0 00318901
+gjuaj n 2 1 @ 2 0 00320602 00504530
+mjetet_e_golfit n 1 2 @ ~ 1 0 00098646
+leje n 1 2 @ ~ 1 0 00182672
+mostër n 2 2 @ ~ 2 0 00315418 00439046
+mathematikë n 1 3 -c ;c @ 1 0 00081302
+përgatitje n 4 3 -c @ ~ 4 0 00002373 00060124 00379568 00537573
+balancë n 1 1 @ 1 0 00387569
+uzinë n 1 2 @ ~ 1 0 00433229
+varkë n 1 1 ~ 1 0 00395898
+grykë_mali n 1 2 #p @ 1 0 00024509
+posedim_material n 1 2 @ ~ 1 0 00426423
+boshllëk n 2 3 #p @ ~ 2 0 00096252 00494316
+algë n 1 1 @ 1 0 00344745
+fabrikë n 2 2 @ ~ 2 0 00433229 00522866
+rit n 3 2 @ ~ 3 0 00370029 00397664 00400566
+marr_shenjë n 1 1 @ 1 0 00159719
+mospranim n 2 2 @ ~ 2 0 00243976 00475427
+trishtim_i_thellë n 1 0 1 0 00063082
+distance n 1 1 @ 1 0 00377001
+takim_social n 1 2 @ ~ 1 0 00245406
+papajtueshmëri n 1 1 @ 1 0 00050154
+autokamp n 1 0 1 0 00213387
+demostrim n 1 2 @ ~ 1 0 00416425
+kurs n 1 1 ~ 1 0 00525661
+krijim_imagjinar n 1 2 @ ~ 1 0 00028662
+stil_shprehesh n 1 3 ;c @ ~ 1 0 00075910
+veprim_i_keq n 1 1 @ 1 0 00374557
+okazion n 1 2 @ ~ 1 0 00017433
+presion_moral n 1 2 @ ~ 1 0 00342012
+planer n 1 0 1 0 00064690
+doktor n 2 2 @ ~ 2 0 00072972 00102040
+koncetroj n 1 1 @ 1 0 00343261
+avion n 2 1 -c 2 0 00400094 00508747
+element_familje n 1 3 ~ @ %m 1 0 00491043
+ndryshim_vendodhje n 1 2 @ ~ 1 0 00466107
+qendrese n 1 2 @ ~ 1 0 00365379
+mosbesim n 2 3 ! @ ~ 2 0 00021828 00368569
+pasqyrim n 1 2 @ ~ 1 0 00095333
+ngritje_në_pozitë n 1 1 @ 1 0 00303800
+vdekje n 3 2 ! @ 3 0 00036388 00294690 00371844
+jaht n 1 0 1 0 00178884
+shpreh n 1 1 @ 1 0 00516005
+çast_vendimtar n 1 1 @ 1 0 00044148
+lamtumirë n 1 1 @ 1 0 00503453
+rrjedh n 2 2 @ ~ 2 0 00406095 00425737
+meshë n 1 1 @ 1 0 00217243
+shami_hundësh n 1 1 @ 1 0 00234392
+heshtje n 1 1 @ 1 0 00467430
+specie n 1 1 ;c 1 0 00018116
+hakmarrje n 1 1 @ 1 0 00039694
+turi n 1 2 #p @ 1 0 00139194
+hemisferë n 1 2 #p @ 1 0 00411814
+trup_uji n 1 4 #p %s ;c ~ 1 0 00033580
+varg_gjuhësor n 1 1 @ 1 0 00062556
+trazirë n 3 2 ! @ 3 0 00079117 00492128 00531709
+sende n 2 1 @ 2 0 00347098 00483694
+mbreteri n 2 1 @ 2 0 00014743 00441789
+lojë_fushe n 1 2 @ ~ 1 0 00481770
+pjesët_e_jashtme_të_trupit n 1 2 @ ~ 1 0 00306247
+korporatë_qeveritare n 1 2 @ ~ 1 0 00038714
+port n 2 2 @ ~ 2 0 00455691 00529061
+ekskursion n 1 1 @ 1 0 00288495
+skemë n 2 2 @ ~ 2 0 00286091 00427193
+kthim_në_shtëpi n 1 1 @ 1 0 00481916
+proces_i_njohjes_minimale n 1 2 @ ~ 1 0 00082712
+derdhje n 2 1 @ 2 0 00382130 00469796
+zmprapse n 1 1 @ 1 0 00177760
+shesh_publik n 2 2 @ ~ 2 0 00007457 00017998
+fonde n 1 0 1 0 00518577
+shumë_parash n 1 1 ~ 1 0 00182910
+zmbrapsje n 1 1 @ 1 0 00076970
+përmirësim n 1 1 @ 1 0 00367525
+furnizim n 5 1 @ 5 0 00091214 00185839 00235215 00273664 00449289
+korespondence n 1 1 @ 1 0 00147911
+ndërlidhje n 4 3 ! @ ~ 4 0 00040878 00172517 00176165 00374214
+i_errët n 1 1 @ 1 0 00482188
+eshtër n 1 2 #s ~ 1 0 00458221
+fabrikant n 1 1 @ 1 0 00261738
+monster n 1 1 @ 1 0 00113859
+rastësi_e_pashmangshme n 1 0 1 0 00527078
+bashkëpunim n 1 2 @ ~ 1 0 00066490
+maturi n 1 1 ~ 1 0 00474933
+veprim_i_pasjellshëm n 1 2 @ ~ 1 0 00421533
+opinion n 3 2 @ ~ 3 0 00048152 00268472 00302899
+performancë n 1 2 @ ~ 1 0 00001754
+tradhti n 1 1 @ 1 0 00163436
+kalim n 2 2 #p @ 2 0 00024509 00463226
+organet_e_brendshme n 1 1 @ 1 0 00154195
+qenie_njerëzore n 2 4 -c %p @ ~ 2 0 00151344 00187211
+interrogim n 1 1 @ 1 0 00366780
+zoterues n 1 2 ;c @ 1 0 00228843
+mish n 1 2 %s ~ 1 0 00029763
+krijesë_anormale n 1 1 @ 1 0 00113859
+familjar n 3 3 #m @ ~ 3 0 00456136 00457043 00525186
+globe n 1 1 %p 1 0 00489234
+mjek n 3 2 @ ~ 3 0 00072972 00102040 00512587
+material_i_shkruar n 1 2 @ ~ 1 0 00039378
+afishe n 1 1 @ 1 0 00442037
+gurr_i_çmuar n 1 2 @ ~ 1 0 00361874
+mos_paraqitje n 1 2 @ ~ 1 0 00220963
+bletë n 1 1 @ 1 0 00086698
+rrjedha_e_veprimit n 1 2 @ ~ 1 0 00406095
+rregullsi n 2 2 @ ~ 2 0 00188489 00225633
+komunë n 4 2 @ ~ 4 0 00034790 00249520 00403236 00438636
+delikatesë n 1 2 @ ~ 1 0 00228566
+pjesë_qëndrore n 1 1 @ 1 0 00263005
+raport_i_shkruar n 1 1 @ 1 0 00098339
+glob n 1 1 @ 1 0 00152067
+variant n 1 1 @ 1 0 00170135
+humbje n 5 3 ! @ ~ 5 0 00005476 00054903 00099858 00268843 00420535
+organizatë n 2 3 %m @ ~ 2 0 00089047 00139960
+shpëtim n 1 1 @ 1 0 00460221
+burrë_e_grua n 1 2 @ %m 1 0 00410538
+ditë_pushimi n 1 1 @ 1 0 00335138
+pamor n 1 2 @ ~ 1 0 00029615
+tryezë_loje n 1 2 @ ~ 1 0 00370593
+lepur n 1 0 1 0 00473432
+transferim n 3 2 @ ~ 3 0 00055999 00275661 00381978
+torfë n 1 0 1 0 00440137
+fe n 1 2 #s @ 1 0 00174844
+interval n 1 1 ~ 1 0 00080809
+ujëra n 1 4 #p %s ;c ~ 1 0 00033580
+sjellje_e_keqe n 2 2 @ ~ 2 0 00222223 00374557
+rendis n 1 2 @ ~ 1 0 00420905
+dhomë n 2 4 #p %p @ ~ 2 0 00210599 00516113
+simbol n 2 2 @ ~ 2 0 00119669 00226377
+artikull_lajmesh n 1 2 #p @ 1 0 00509206
+shkarkim n 2 2 @ ~ 2 0 00208135 00222984
+aktivitet_i_trurit n 1 2 @ ~ 1 0 00081888
+ritegim n 1 1 @ 1 0 00077563
+pasivitet n 1 3 ! @ ~ 1 0 00181892
+manifestim n 1 1 @ 1 0 00264060
+crack n 1 1 @ 1 0 00086301
+betim n 1 1 @ 1 0 00444709
+plasaritje n 1 1 @ 1 0 00045711
+shkatërrim n 5 2 @ ~ 5 0 00073829 00146866 00231629 00325923 00436693
+grup_kafshësh n 1 2 @ ~ 1 0 00247902
+grup_tabelash n 1 1 @ 1 0 00182291
+vlerë_monetare n 1 1 @ 1 0 00080633
+deklarate n 1 1 @ 1 0 00161231
+bombë n 1 1 @ 1 0 00083112
+para n 2 2 @ ~ 2 0 00058318 00506759
+shkollë n 1 1 @ 1 0 00115708
+rrugë n 4 3 %p @ ~ 4 0 00127481 00264274 00437164 00521250
+kritike n 1 2 @ ~ 1 0 00076308
+fitoj n 2 2 @ ~ 2 0 00164859 00382860
+instance n 1 2 @ ~ 1 0 00391800
+profesion n 3 2 @ ~ 3 0 00037330 00237189 00363651
+supe n 1 1 @ 1 0 00510237
+papafingo n 1 2 #p @ 1 0 00317015
+dokument n 3 2 @ ~ 3 0 00026933 00358902 00406665
+drita n 1 3 ;c @ ~ 1 0 00013101
+opinioni_popullor n 1 1 @ 1 0 00302899
+rifitim n 1 0 1 0 00538065
+hak n 2 3 ;c @ ~ 2 0 00039694 00203798
+ena_arteriale_e_gjakut n 1 1 @ 1 0 00070071
+rrëzë_e_hundës n 1 1 @ 1 0 00485113
+sfidues n 1 1 @ 1 0 00112457
+shkencë_biologjike n 1 2 @ ~ 1 0 00355019
+zyrë n 3 2 @ ~ 3 0 00083988 00119379 00209872
+shtojcë n 2 3 #p @ ~ 2 0 00247594 00418402
+zvogëlim n 2 3 ! @ ~ 2 0 00349755 00415422
+trazim n 1 2 @ ~ 1 0 00497629
+takëm n 2 2 @ ~ 2 0 00320910 00463516
+reshje_bore n 1 1 @ 1 0 00271685
+vendosmëri n 2 2 ;c @ 2 0 00212261 00356209
+institucion_mjekësor n 1 0 1 0 00039267
+rol n 3 2 @ ~ 3 0 00172622 00352781 00388505
+kinema n 1 2 -c @ 1 0 00262194
+lëvizem n 1 2 @ ~ 1 0 00391001
+popullate n 1 1 @ 1 0 00484105
+salloni_i_dhomës n 1 3 ~ @ %m 1 0 00106699
+dhuratë n 2 2 @ ~ 2 0 00512346 00528118
+sëmundje_bimësh n 1 1 @ 1 0 00345777
+kaike n 1 1 @ 1 0 00470981
+instrumenta_me_tela n 1 2 @ ~ 1 0 00290236
+zar n 1 1 @ 1 0 00535185
+çakmak n 1 1 @ 1 0 00034551
+portë n 1 1 @ 1 0 00306794
+çoroditje n 1 1 @ 1 0 00054903
+shenjt n 1 1 @ 1 0 00072153
+dallim n 2 1 @ 2 0 00046340 00189378
+strukturë_anatomie n 1 2 @ ~ 1 0 00126862
+borgjezi n 1 1 @ 1 0 00440813
+kosh n 2 1 @ 2 0 00060514 00195658
+treg_shitjesh n 1 3 %p @ ~ 1 0 00533440
+maja n 1 0 1 0 00395273
+leter n 2 4 #p %p @ ~ 2 0 00032330 00315169
+grafik n 1 2 #p @ 1 0 00146206
+fushë_loje n 1 2 @ ~ 1 0 00370593
+atësi n 1 1 @ 1 0 00014645
+akt_i_një_hyjnie n 1 0 1 0 00527078
+robëri n 1 1 @ 1 0 00523689
+hidhërim n 2 3 ! @ ~ 2 0 00069698 00192353
+kohë_e_ardhme n 1 2 ! @ 1 0 00107335
+univers n 2 3 %p @ %m 2 0 00007951 00257155
+gic n 1 1 @ 1 0 00392414
+butak n 1 1 @ 1 0 00386486
+hallakatje n 1 1 @ 1 0 00157350
+bazament n 1 1 @ 1 0 00258961
+vije_kufiri n 2 2 @ ~ 2 0 00070595 00266530
+skelë n 1 1 @ 1 0 00529061
+federate n 1 1 @ 1 0 00342157
+marshim n 1 0 1 0 00242142
+ndjenjë n 1 0 1 0 00220180
+fushatë n 2 2 ;c @ 2 0 00416186 00528776
+grup_muzikal n 1 3 ~ @ %m 1 0 00289900
+shkrim n 2 2 @ ~ 2 0 00039378 00478694
+shkelje_e_ligjit n 1 3 -c @ ~ 1 0 00320178
+park_grumbullimi n 1 1 @ 1 0 00420166
+benzinë n 1 1 @ 1 0 00292197
+ngut n 1 1 @ 1 0 00049539
+komandë n 2 2 @ ~ 2 0 00118085 00227839
+çunak n 1 1 @ 1 0 00525045
+aparat_ngrohës n 1 1 @ 1 0 00350937
+pantallona n 1 1 @ 1 0 00427347
+veprimtari_krijuese n 1 2 @ ~ 1 0 00285930
+ndihme_shtëpiake n 1 1 @ 1 0 00021022
+fiziologjik n 1 2 @ ~ 1 0 00069811
+superior n 1 2 @ ~ 1 0 00410117
+mëndafsh n 1 1 @ 1 0 00086900
+hapsire_loje n 1 2 #p @ 1 0 00310223
+pajisje_mekanike n 1 2 @ ~ 1 0 00477853
+shtëpi_banimi n 1 3 %p @ ~ 1 0 00485871
+pika_vatrore n 1 1 @ 1 0 00122587
+kushtet_financiare n 1 1 ~ 1 0 00199756
+organizëm n 2 4 %p %s @ ~ 2 0 00089047 00469116
+infektim n 1 1 @ 1 0 00058093
+kompleks_ndërtesash n 1 2 @ ~ 1 0 00022180
+protestë_ne_punë n 1 0 1 0 00394660
+përulje n 1 2 @ ~ 1 0 00169630
+ushtrohem n 2 2 @ ~ 2 0 00338715 00489530
+ndërtes_klubi n 1 1 @ 1 0 00488511
+silur n 1 1 @ 1 0 00526715
+resht n 2 3 #p @ ~ 2 0 00155428 00405438
+lakuriq n 1 0 1 0 00312853
+mirënjohje n 1 0 1 0 00274882
+farmaci n 1 1 @ 1 0 00247250
+armë n 2 4 #p %p @ ~ 2 0 00297183 00475550
+bisedë n 1 1 @ 1 0 00015189
+fazë n 1 1 @ 1 0 00480227
+komercializëm n 1 4 -c %p @ ~ 1 0 00386132
+përmbytje n 1 1 @ 1 0 00469796
+përgjegjësi n 1 1 @ 1 0 00143265
+kësmet n 2 1 @ 2 0 00153055 00350046
+zëri_popullit n 1 1 @ 1 0 00302899
+segment n 1 1 @ 1 0 00364612
+ushtrim n 1 1 @ 1 0 00489530
+konteporan n 1 1 @ 1 0 00374702
+besnikeri n 2 1 @ 2 0 00026300 00227921
+ndarëse n 1 2 @ ~ 1 0 00187059
+sektor n 3 3 #p @ ~ 3 0 00041385 00085644 00237982
+pavlefshëm n 1 1 @ 1 0 00182415
+pike n 7 4 #p ;c @ ~ 7 0 00091554 00106346 00273757 00278137 00281091 00304097 00415569
+metodë n 3 2 @ ~ 3 0 00036020 00291151 00519130
+pjese_veprimi n 1 1 @ 1 0 00438902
+vleresim n 1 3 ;c @ ~ 1 0 00504790
+garniturë n 1 1 @ 1 0 00067661
+ortodoks n 1 2 ;c @ 1 0 00240693
+konkurrim n 2 2 @ ~ 2 0 00298540 00502108
+heq n 1 1 @ 1 0 00392807
+konsumator n 1 0 1 0 00245145
+gazetar n 1 1 @ 1 0 00000316
+truri n 1 1 @ 1 0 00131994
+grua_e_re n 1 1 @ 1 0 00247147
+funksion_matematike n 1 2 ;c @ 1 0 00228183
+drejtesi n 1 4 #p ;c @ ~ 1 0 00143075
+teori n 3 4 #p %p @ ~ 3 0 00059827 00065301 00467035
+kokëfortë n 1 2 @ ~ 1 0 00115271
+shpirt_pa_trup n 1 1 @ 1 0 00421419
+racion n 2 3 #p @ ~ 2 0 00373585 00478435
+çështje_e_kësaj_bote n 1 1 @ 1 0 00449115
+rekrutim n 1 2 @ ~ 1 0 00299990
+ora n 1 2 @ ~ 1 0 00446517
+hapësirë n 3 2 @ ~ 3 0 00043775 00086527 00391158
+lëndim n 3 2 @ ~ 3 0 00162187 00509556 00534199
+artiodactyl_mammal n 1 3 ! @ ~ 1 0 00255041
+delegim n 2 1 @ 2 0 00017081 00201520
+fshehje n 2 2 @ ~ 2 0 00162626 00255650
+union n 2 3 ;c @ ~ 2 0 00071086 00247459
+anekdotë n 1 1 @ 1 0 00390391
+shmangie_nga_standarti n 1 1 @ 1 0 00025150
+ndjek n 1 1 @ 1 0 00302663
+krijesë n 3 4 -c %p @ ~ 3 0 00187211 00324026 00353243
+orendi n 1 2 @ ~ 1 0 00320910
+matës_të_dhënash n 1 2 @ ~ 1 0 00408559
+mjete_jetese n 1 2 @ ~ 1 0 00330821
+mesditë n 1 2 #p @ 1 0 00286664
+sasi_parash n 1 1 ~ 1 0 00182910
+çantë n 1 2 @ ~ 1 0 00357622
+brinjë n 2 2 @ ~ 2 0 00266530 00301638
+kupolë n 2 2 #p @ 2 0 00279011 00504958
+paraardhës n 2 2 @ ~ 2 0 00355508 00430646
+sipërfaqe_e_tokës n 1 3 %p @ ~ 1 0 00425988
+prindër n 1 4 ! #m @ ~ 1 0 00298149
+proçes_mendor n 1 2 @ ~ 1 0 00081888
+gazetë n 2 2 %p @ 2 0 00230828 00315169
+fragment n 1 2 @ ~ 1 0 00445799
+vendqendrim n 1 0 1 0 00291467
+drurë_pylli n 1 1 @ 1 0 00227370
+banim n 1 1 @ 1 0 00116039
+kenete n 2 1 @ 2 0 00371689 00515903
+autorizues n 1 2 @ ~ 1 0 00410411
+grup n 13 6 @ %p ~ #p ;c #m 13 0 00003211 00062141 00062449 00193386 00310497 00390763 00430521 00451620 00477544 00507118 00507986 00517826 00528277
+popullatë n 2 2 @ %m 2 0 00257155 00530912
+ligjvënës n 2 2 @ ~ 2 0 00065176 00266831
+coelenterate n 1 1 @ 1 0 00240165
+rezervë n 3 2 @ ~ 3 0 00139805 00459241 00467430
+qiellor n 1 2 %p @ 1 0 00318901
+kushtet_ekonomike n 1 1 ~ 1 0 00199756
+përshëndetje n 1 2 @ ~ 1 0 00114509
+trupi_drejtues n 1 1 @ 1 0 00531402
+shikoj n 1 1 @ 1 0 00140390
+besimtar n 1 1 @ 1 0 00245568
+përleshje n 3 3 %p @ ~ 3 0 00207279 00288663 00468771
+kokë_shteti n 1 2 @ ~ 1 0 00068891
+konstruksion n 1 2 @ ~ 1 0 00428571
+klientele n 1 1 @ 1 0 00311020
+funksioni n 1 2 @ ~ 1 0 00352781
+ambjent n 1 2 @ ~ 1 0 00241877
+burime_materiale n 1 0 1 0 00536383
+strofkë n 2 2 @ ~ 2 0 00110885 00508609
+te_ardhur n 1 2 @ ~ 1 0 00208270
+oval n 1 1 @ 1 0 00341607
+ndalim n 2 1 @ 2 0 00237314 00331590
+pajton n 1 1 ~ 1 0 00414143
+gabim n 2 2 @ ~ 2 0 00236304 00436057
+tip_gjaku n 1 1 @ 1 0 00353714
+arrati n 1 1 @ 1 0 00288311
+sea_urchin n 1 1 @ 1 0 00441899
+abstraksion n 2 2 @ ~ 2 0 00196904 00502244
+nivel n 4 4 = #p @ ~ 4 0 00129037 00141518 00368880 00418832
+telegram n 1 1 @ 1 0 00221688
+pune_arti n 1 2 #p @ 1 0 00146206
+birrë n 1 0 1 0 00011693
+veshje_murgu n 1 1 @ 1 0 00170332
+festival n 1 1 @ 1 0 00412843
+qetësim n 1 0 1 0 00219228
+rrotë n 1 2 #p @ 1 0 00229187
+pala n 1 2 ;c @ 1 0 00325336
+sistem_koordinativë n 1 1 @ 1 0 00494418
+flakje n 1 1 @ 1 0 00392807
+autokton n 1 1 @ 1 0 00062003
+qilar n 1 1 @ 1 0 00493480
+forme n 1 2 ;c @ 1 0 00285222
+trajtë n 4 2 @ ~ 4 0 00284037 00297585 00423824 00538523
+përgjues n 1 2 @ ~ 1 0 00023360
+tharm n 1 0 1 0 00395273
+njësia_e_peshës n 1 1 @ 1 0 00021716
+besim_i_fortë n 1 1 @ 1 0 00481227
+fizik n 1 2 @ ~ 1 0 00061782
+plaçka n 1 1 @ 1 0 00318639
+shtazë n 1 4 -c %p @ ~ 1 0 00353243
+banjë n 2 3 #p %p @ 2 0 00014226 00417102
+shtesë n 4 4 #p ! @ ~ 4 0 00120895 00247594 00401389 00500439
+aparat_elektrik n 1 1 @ 1 0 00115601
+moshë n 1 1 @ 1 0 00517353
+string n 1 1 @ 1 0 00289248
+mbështetëse n 1 1 @ 1 0 00258961
+bashkim n 9 2 @ ~ 9 0 00138720 00237189 00256523 00283887 00286545 00309068 00337370 00358624 00399595
+fabrikim n 2 3 -c @ ~ 2 0 00354436 00503580
+takim_kulminant n 1 1 @ 1 0 00078670
+fushe n 5 2 @ ~ 5 0 00057097 00102716 00159420 00340010 00343989
+shkrirje n 1 2 @ ~ 1 0 00399595
+zotëroj n 2 2 @ ~ 2 0 00023488 00382860
+zonë n 5 3 #p @ ~ 5 0 00086527 00175437 00310223 00441079 00470844
+mbledhje_legjslative n 1 2 @ ~ 1 0 00266831
+ngritje n 5 2 @ ~ 5 0 00046222 00067394 00253324 00271354 00442194
+kamare n 1 2 @ ~ 1 0 00495059
+lidhje_politike n 1 1 @ 1 0 00420338
+vend_imagjinar n 1 2 @ ~ 1 0 00038576
+fqinjësi n 1 2 @ ~ 1 0 00018215
+edukator n 1 2 @ ~ 1 0 00271241
+zonë_gjeografike n 1 1 @ 1 0 00441079
+instrumente n 1 2 @ ~ 1 0 00153159
+shtrydhje n 1 2 @ ~ 1 0 00103685
+dada n 1 1 @ 1 0 00371002
+njollos n 1 1 @ 1 0 00149580
+përdorim_instrumentash n 1 2 @ ~ 1 0 00153159
+asimetri n 1 3 ! ;c @ 1 0 00415938
+afat n 1 2 @ ~ 1 0 00506525
+shpikje n 2 1 @ 2 0 00123844 00304660
+larje n 1 1 @ 1 0 00296582
+bllok_ndertimi n 1 2 %p ~ 1 0 00517826
+protozoar n 1 1 @ 1 0 00443411
+pike_gjeografike n 1 2 @ ~ 1 0 00016129
+ndërprerje n 3 2 @ ~ 3 0 00080514 00112088 00264665
+ndërtesa_e_kishës n 1 3 %p ;c @ 1 0 00052940
+angazhim n 2 2 @ ~ 2 0 00065061 00489398
+tendencë n 3 2 @ ~ 3 0 00089568 00185839 00351727
+stimulues_negativ n 1 2 @ ~ 1 0 00135584
+zonë_atletike n 1 2 #p @ 1 0 00310223
+punë_e_dobët n 1 1 @ 1 0 00236304
+ekspert n 2 2 @ ~ 2 0 00175300 00183716
+paketoj n 2 1 @ 2 0 00268151 00375487
+cep n 4 2 #p @ 4 0 00046222 00122195 00147120 00204916
+lind n 1 1 @ 1 0 00394212
+nxënës_shkolle n 1 0 1 0 00120477
+demaskim n 1 1 @ 1 0 00039694
+pubertet n 1 1 @ 1 0 00249683
+mbzotërim n 1 0 1 0 00465373
+pajisje_elektrike n 1 1 @ 1 0 00014955
+popullim n 1 1 @ 1 0 00343694
+godinë n 1 3 %p @ ~ 1 0 00018327
+aksion n 2 3 ;c @ ~ 2 0 00237823 00431659
+veproj n 1 2 @ ~ 1 0 00476098
+eksplosion n 1 1 @ 1 0 00418673
+fëmijëri n 2 1 @ 2 0 00094991 00325701
+flirtoj n 1 1 @ 1 0 00356532
+qëlloj n 1 1 @ 1 0 00200400
+ndarje_në_pjesë n 1 1 @ 1 0 00216808
+ndërtesë n 1 3 %p @ ~ 1 0 00018327
+kryetar_bashkie n 1 1 @ 1 0 00497158
+shesh_pazari n 1 2 %p @ 1 0 00061190
+skelet n 2 3 %p @ ~ 2 0 00401548 00523264
+kullë n 1 2 @ ~ 1 0 00309894
+indiference n 1 2 @ ~ 1 0 00348395
+kujtim n 1 1 @ 1 0 00231906
+dokument_ligji n 1 3 ;c @ ~ 1 0 00087227
+engjëll n 1 2 %p @ 1 0 00488870
+zakon n 4 3 ;c @ ~ 4 0 00033021 00054729 00122746 00290394
+banesë n 4 3 %p @ ~ 4 0 00420052 00427859 00475052 00485871
+vras n 1 1 @ 1 0 00178703
+bibliotekë n 1 2 #p @ 1 0 00238726
+nga_pikëpamja_kombëtare n 1 0 1 0 00195931
+te_qenit n 1 3 %p %s ~ 1 0 00469116
+pluhur n 1 1 @ 1 0 00368116
+kore n 1 1 @ 1 0 00065739
+grabitqar n 1 1 @ 1 0 00234706
+nostalgji n 1 1 @ 1 0 00430779
+mosbindje n 1 1 @ 1 0 00213583
+universit n 1 1 @ 1 0 00161463
+fosil n 1 1 @ 1 0 00322612
+armiqësor n 1 2 @ ~ 1 0 00144292
+katror n 1 1 @ 1 0 00181047
+pikë n 2 1 @ 2 0 00074603 00117023
+wc n 1 1 @ 1 0 00417102
+themeloj n 1 1 @ 1 0 00514824
+lojë_me_shah n 1 3 -c %p @ 1 0 00372388
+neoplazëm n 1 1 @ 1 0 00114102
+babagjysh n 1 1 @ 1 0 00063582
+krahinë n 2 2 @ ~ 2 0 00033150 00232513
+titullar n 1 2 @ ~ 1 0 00227191
+shoke n 3 2 @ ~ 3 0 00319841 00525186 00530581
+demokraci n 1 1 @ 1 0 00038841
+tentativë n 1 2 @ ~ 1 0 00229854
+sendiment n 1 1 @ 1 0 00197559
+vendlindje n 1 1 @ 1 0 00498851
+keqdashje n 1 1 @ 1 0 00147805
+hedhje n 4 1 @ 4 0 00102967 00216197 00228984 00392807
+vlere n 1 1 @ 1 0 00266315
+banor n 1 2 @ ~ 1 0 00208270
+kandër n 1 3 %p @ ~ 1 0 00226560
+qoshe n 1 2 #p @ 1 0 00067544
+jete n 2 1 @ 2 0 00259543 00537106
+frymënxjerrje n 1 1 @ 1 0 00453520
+trung_familjar n 1 2 @ ~ 1 0 00009961
+shtypje n 1 2 @ ~ 1 0 00457976
+shport n 1 1 @ 1 0 00454235
+gjak n 2 3 ;c @ ~ 2 0 00009961 00020407
+manovroj n 1 3 #p @ ~ 1 0 00347960
+stacion_makinash n 1 1 @ 1 0 00224184
+shputë_këmbe n 1 1 #p 1 0 00079921
+përzgjedh n 1 2 @ ~ 1 0 00398016
+armatime n 2 4 #p %p @ ~ 2 0 00297183 00475550
+rrezatim_fotokimik n 1 2 @ ~ 1 0 00484953
+lartësi_e_ngritjes n 1 1 @ 1 0 00007594
+shtëpia_e_zotit n 1 2 @ ~ 1 0 00448342
+ushqim n 5 3 %p @ ~ 5 0 00273664 00330821 00345872 00449289 00493713
+dorezë n 1 3 #p @ ~ 1 0 00049269
+pjesë_e_trupit n 1 3 #p @ ~ 1 0 00270439
+pështirë n 1 1 @ 1 0 00120991
+filiz n 1 2 @ ~ 1 0 00316656
+proces_biologjik n 1 2 @ ~ 1 0 00229494
+organ_me_sekrecion_të_brendshëm n 1 1 @ 1 0 00496055
+rezultat n 3 2 @ ~ 3 0 00230141 00305746 00435592
+plane n 1 2 ;c @ 1 0 00097411
+tronditje n 3 2 @ ~ 3 0 00069091 00286449 00509556
+hetim n 1 2 @ ~ 1 0 00446336
+pije_e_rende n 1 1 ~ 1 0 00373862
+impuls_nervor n 1 1 @ 1 0 00368004
+ndërhyrës n 1 1 @ 1 0 00457408
+pëshpëritje n 1 1 @ 1 0 00505414
+ngritje_rroge n 1 1 @ 1 0 00401389
+etje n 2 0 2 0 00254678 00344869
+klub n 2 1 @ 2 0 00070820 00488511
+përshtat n 1 1 @ 1 0 00238367
+rregulloj n 1 1 @ 1 0 00134360
+mjet_ndriçimi n 1 2 @ ~ 1 0 00122277
+kapak n 4 2 @ ~ 4 0 00184497 00351540 00419321 00424406
+kurth n 2 1 @ 2 0 00005150 00080944
+avion_pa_motor n 1 0 1 0 00064690
+pjese_letre n 1 2 @ ~ 1 0 00331831
+meteor n 1 0 1 0 00012248
+toke_moçalore n 1 0 1 0 00371689
+gjysh n 1 1 @ 1 0 00063582
+plantacion n 1 1 @ 1 0 00076802
+force_punëtorë n 1 3 ~ @ %m 1 0 00113707
+bllokim_truri n 1 1 @ 1 0 00463101
+zënkë n 2 3 %p @ ~ 2 0 00207279 00531709
+trupat_mbrojtës_të_ushtrisë n 1 1 @ 1 0 00307757
+kulm n 6 3 #p @ ~ 6 0 00071797 00078670 00146755 00341494 00372832 00506617
+mbulesë n 2 2 @ ~ 2 0 00163074 00184497
+far n 1 1 @ 1 0 00037123
+tru n 1 1 @ 1 0 00028973
+riorientim n 1 2 @ ~ 1 0 00319371
+mënyrë_te_foluri n 1 2 @ ~ 1 0 00228393
+mbajtje_e_trupit n 1 1 @ 1 0 00407700
+drejtësi n 1 1 @ 1 0 00470601
+anullim n 1 2 @ ~ 1 0 00467589
+shkak n 1 2 @ ~ 1 0 00480945
+fjale_per_pikturë n 1 1 @ 1 0 00217106
+avancim n 2 1 @ 2 0 00064518 00367525
+ndihmë_mjekësore n 1 1 @ 1 0 00494930
+kohezion n 1 2 @ ~ 1 0 00063954
+dadaism n 1 1 @ 1 0 00371002
+vajguri n 1 1 @ 1 0 00017619
+reçipeta n 1 2 #p @ 1 0 00271126
+dorezë_kamzhiku n 1 2 #p @ 1 0 00371328
+vegël n 3 2 @ ~ 3 0 00356832 00428401 00454850
+s n 1 2 #p @ 1 0 00462226
+blerje n 1 2 ! @ 1 0 00262078
+brendesi n 1 2 ! @ 1 0 00503956
+pike_kufitare_kryesore n 1 2 @ ~ 1 0 00454420
+gjumë n 2 1 @ 2 0 00183492 00307975
+rezervat_uji n 1 2 #p @ 1 0 00287482
+liquid n 1 2 @ ~ 1 0 00130718
+rezerva_ushqimore n 2 2 @ ~ 2 0 00330821 00449289
+histori_jete n 1 1 @ 1 0 00515084
+paradhënie n 1 1 @ 1 0 00360789
+makineri n 1 2 @ ~ 1 0 00345046
+burim_natyror n 1 1 @ 1 0 00382130
+kufi_i_sipërm n 1 2 ;c @ 1 0 00414328
+perkrahes n 2 3 ! @ ~ 2 0 00326696 00382713
+grua n 3 3 ! @ ~ 3 0 00200616 00206422 00294835
+komfort n 1 1 @ 1 0 00469018
+aktivitet_seksual n 1 1 @ 1 0 00222850
+ndaloj n 1 1 @ 1 0 00331590
+referencë_libri n 1 1 @ 1 0 00155174
+çështje_të_dhënash n 1 2 @ ~ 1 0 00161969
+matje_katrore n 1 2 @ ~ 1 0 00402607
+përparim n 1 1 @ 1 0 00064518
+administrator n 1 2 @ ~ 1 0 00010152
+kushte_higjenike n 1 1 ~ 1 0 00019314
+posedues n 1 1 @ 1 0 00147702
+veprimtari n 2 2 @ ~ 2 0 00330679 00456502
+regjistër n 1 1 @ 1 0 00360904
+këngëtar n 1 2 #m @ 1 0 00321472
+bandë_e_frekuences n 1 0 1 0 00513298
+njohuri_e_shkollës n 1 1 @ 1 0 00059827
+f_number n 1 1 @ 1 0 00215542
+gradacion n 1 0 1 0 00346517
+rrëmbej n 1 1 @ 1 0 00061483
+shkrimtar n 1 2 @ ~ 1 0 00189689
+shushurima n 1 1 @ 1 0 00292014
+lakmi n 1 1 @ 1 0 00287313
+qenie n 2 4 ! %m @ ~ 2 0 00452444 00464946
+ndërmarje_biznesi n 1 2 @ ~ 1 0 00230254
+lidhje_dashurie n 1 1 @ 1 0 00075773
+mur n 1 3 #p %p @ 1 0 00074075
+metodologji n 1 1 @ 1 0 00102604
+funksionar n 1 2 @ ~ 1 0 00227191
+pije_dehëse n 1 1 @ 1 0 00430115
+alternativë n 1 2 @ ~ 1 0 00242659
+divizion_ajror n 1 1 @ 1 0 00035203
+hominid n 1 2 @ ~ 1 0 00311239
+çelik n 1 2 %s @ 1 0 00075368
+ekzaminim n 3 2 @ ~ 3 0 00366780 00442712 00443538
+organizim_biznesi n 1 4 ~ ;c @ %m 1 0 00204007
+gjëra_të_ndryshme n 1 1 @ 1 0 00483694
+ambalazh n 2 2 @ ~ 2 0 00268151 00524357
+njerëz n 3 4 ~ #m @ %m 3 0 00017913 00347459 00496775
+skermë n 1 1 @ 1 0 00444361
+bri n 1 2 %s @ 1 0 00296355
+përshtatje n 2 2 @ ~ 2 0 00007727 00387078
+kërpudhë n 1 3 %p @ ~ 1 0 00193878
+detaj n 2 1 @ 2 0 00072038 00499365
+jeep n 1 1 @ 1 0 00059649
+fragment_muzikor n 1 2 @ ~ 1 0 00445799
+kohë_periodike n 1 1 ~ 1 0 00339041
+kronometër n 1 2 @ ~ 1 0 00236981
+jastëçkë_për_gjilpëra n 1 1 @ 1 0 00455146
+përmbajtje n 4 2 @ ~ 4 0 00324126 00448971 00490465 00514232
+kohë_gjeologjike n 1 2 @ ~ 1 0 00426680
+përgënjeshtrim n 1 0 1 0 00360399
+dekret n 2 3 ;c @ ~ 2 0 00380201 00497987
+system n 1 2 @ ~ 1 0 00450742
+plan n 2 2 @ ~ 2 0 00255257 00364164
+ryshfet n 1 1 @ 1 0 00463437
+revoltë n 1 1 @ 1 0 00024837
+përmbushës n 1 2 @ ~ 1 0 00105031
+dysheme n 3 2 #p @ 3 0 00039055 00142380 00303904
+investim n 2 1 @ 2 0 00062827 00346889
+strehë n 1 2 @ ~ 1 0 00429043
+kontratë_qiraje n 1 1 @ 1 0 00507878
+i_kundërt n 1 1 @ 1 0 00055268
+vëllim n 1 2 @ ~ 1 0 00366284
+argument n 1 1 @ 1 0 00079250
+ceremoni_fetare n 1 2 @ ~ 1 0 00409109
+qese n 1 2 @ ~ 1 0 00040118
+proces_organik n 1 2 @ ~ 1 0 00229494
+periudhë n 2 2 @ ~ 2 0 00059133 00252854
+proze_lajmërim n 1 2 @ ~ 1 0 00382243
+artikuj_për_tualet n 1 2 @ ~ 1 0 00410679
+landrover n 1 1 @ 1 0 00059649
+shtesa_e_mesme n 1 1 @ 1 0 00440813
+aliazh n 1 2 @ ~ 1 0 00238580
+ligj_i_organizuar n 1 2 ;c @ 1 0 00504082
+pol_verior n 1 1 @ 1 0 00388085
+perzjerje n 1 1 @ 1 0 00489398
+orkestër n 1 2 #p @ 1 0 00486381
+mundësi_për_te_hyre_ose_përdorur n 1 1 @ 1 0 00436306
+strukturë_trupore n 1 2 @ ~ 1 0 00126862
+fortë n 1 1 @ 1 0 00281696
+realizem n 1 1 @ 1 0 00043462
+karies n 1 1 @ 1 0 00487175
+mollë n 1 1 @ 1 0 00075091
+format_e_klases n 1 1 @ 1 0 00204280
+baba n 1 2 ! @ 1 0 00470741
+prekje n 2 2 @ ~ 2 0 00191473 00265376
+përfundim n 3 2 @ ~ 3 0 00305746 00408913 00435592
+qeverisje n 1 3 ~ @ %m 1 0 00400792
+tokëz n 1 2 @ ~ 1 0 00327900
+lindje n 3 2 ! @ 3 0 00057869 00394212 00427517
+gjithë_biseda n 1 1 @ 1 0 00486640
+ceremoni n 2 2 @ ~ 2 0 00173019 00370029
+e_drejtë_zgjedhjeje n 1 2 @ ~ 1 0 00307099
+takëmet_e_ngrënies n 1 3 #p @ ~ 1 0 00380334
+premtim n 1 1 @ 1 0 00215248
+qëndismë n 1 1 @ 1 0 00008124
+cupeline n 1 1 @ 1 0 00525045
+bima_e_pambukut n 1 1 @ 1 0 00048816
+nervë n 1 1 @ 1 0 00078077
+lehtëbesim_,ju_besoj n 1 0 1 0 00480721
+dieni n 1 1 @ 1 0 00529674
+shamatë n 1 0 1 0 00531709
+shtëpiak n 1 1 @ 1 0 00021022
+interpretoj n 1 2 @ ~ 1 0 00164337
+mbledhje_e_përgjithshme n 1 2 @ ~ 1 0 00266831
+lojë n 3 3 -c @ ~ 3 0 00063876 00079533 00177851
+paraqitje n 3 1 @ 3 0 00096776 00131807 00142973
+lodroj n 1 2 @ ~ 1 0 00283182
+dhëmb n 1 2 %p @ 1 0 00168188
+ventilator n 2 1 @ 2 0 00215983 00537358
+sistem_monetar n 1 1 ~ 1 0 00387236
+telefon n 2 1 @ 2 0 00070706 00085043
+shpërthej n 1 1 @ 1 0 00308176
+mishërim n 1 2 @ ~ 1 0 00003709
+depo_makinash n 1 1 @ 1 0 00454671
+organ_kryesor n 1 1 @ 1 0 00267763
+livadh n 1 0 1 0 00346994
+identik n 1 1 @ 1 0 00412272
+visar n 1 3 %p @ ~ 1 0 00032788
+rini n 1 2 @ ~ 1 0 00395667
+plumb n 1 1 @ 1 0 00512911
+lidhës n 2 2 ;c @ 2 0 00264521 00518348
+qelizë_riprodhuese n 1 2 @ ~ 1 0 00223519
+periudhë_shërbimi_në_ushtri n 1 1 @ 1 0 00298397
+i_zoti n 1 1 @ 1 0 00183716
+material_teksti n 1 3 #p @ ~ 1 0 00013839
+sinjal n 1 2 @ ~ 1 0 00518432
+sistem_ngrohje n 1 2 #p @ 1 0 00150330
+protistët n 1 2 @ ~ 1 0 00090857
+veçori_psikologjike n 1 2 @ ~ 1 0 00413729
+bashkëveprim n 1 2 @ ~ 1 0 00532887
+tablo n 1 1 @ 1 0 00114198
+kartë n 3 1 @ 3 0 00011178 00328826 00417928
+gjuhe_natyrale n 1 1 @ 1 0 00052271
+ulje n 3 3 ! @ ~ 3 0 00099030 00299776 00415422
+rruginë_parku n 1 1 @ 1 0 00513438
+gardh n 2 2 @ ~ 2 0 00416832 00479327
+opium n 1 1 @ 1 0 00472593
+arritje n 5 2 @ ~ 5 0 00159050 00304408 00334307 00354170 00382381
+dasmë n 1 1 @ 1 0 00354887
+zgavër n 1 3 #p @ ~ 1 0 00473695
+kolegj n 1 1 @ 1 0 00009024
+marka n 1 1 @ 1 0 00176988
+breg_kodrine n 1 1 @ 1 0 00482008
+përbindësh n 1 1 @ 1 0 00113859
+fondacion n 1 1 @ 1 0 00300215
+kapital n 1 0 1 0 00096027
+egërsi n 1 1 @ 1 0 00458120
+inkrement n 1 2 ! @ 1 0 00109384
+force_policie n 1 2 @ %m 1 0 00167081
+pretendent n 1 1 @ 1 0 00112457
+mëkatoj n 1 2 @ ~ 1 0 00219020
+tribu n 1 3 ~ @ %m 1 0 00420682
+lidhje_madhesie n 1 2 @ ~ 1 0 00134222
+nyell n 1 1 #p 1 0 00145902
+bllokadë n 1 1 @ 1 0 00498931
+letër_ambalazh n 1 2 @ ~ 1 0 00246337
+reklamë n 1 1 @ 1 0 00442037
+bravë n 1 1 @ 1 0 00474013
+bllok n 5 2 @ ~ 5 0 00022180 00146491 00323068 00430864 00531148
+paraqitje_piktoreske n 1 1 @ 1 0 00505081
+institut n 1 1 @ 1 0 00063179
+grup_kimik n 1 3 #p ;c @ 1 0 00507986
+lopatë_varke n 1 1 @ 1 0 00192173
+rrethana n 1 1 ~ 1 0 00036504
+shtrirje n 4 2 @ ~ 4 0 00178052 00221459 00241877 00282870
+vazhdim n 2 2 @ ~ 2 0 00160296 00417480
+hall n 1 2 @ ~ 1 0 00166610
+humaniteti n 1 2 @ %m 1 0 00464946
+agresiv n 1 2 @ ~ 1 0 00144292
+rryma n 1 1 @ 1 0 00042041
+aftësi n 7 3 ! @ ~ 7 0 00036788 00071336 00258364 00285479 00354170 00376374 00498141
+lak n 1 0 1 0 00080944
+au n 1 0 1 0 00516710
+dërgim n 1 1 @ 1 0 00534905
+jurist n 2 2 ;c @ 2 0 00061611 00116701
+drejtues_shfaqjeje n 1 1 @ 1 0 00504372
+artikuj_argjendarie n 1 1 @ 1 0 00336280
+gjendje_psikologjike n 1 2 ;c ~ 1 0 00342933
+argëtim n 4 2 @ ~ 4 0 00100663 00126473 00209520 00378903
+program_kompjuterik n 1 2 %p @ 1 0 00127291
+perceptim_shijesh n 1 1 @ 1 0 00009291
+mjete_programuese n 1 2 ! ~ 1 0 00204607
+pasojë n 1 2 @ ~ 1 0 00305746
+administrim n 1 1 @ 1 0 00531402
+potpuri n 1 1 @ 1 0 00492128
+negociant n 1 2 @ ~ 1 0 00141200
+sulmoj n 1 1 @ 1 0 00455308
+ndërtesë_publike n 1 1 @ 1 0 00430288
+karakteristikë n 2 3 #p @ ~ 2 0 00407269 00412986
+shërbesë_në_kishë n 1 2 -c @ 1 0 00456373
+udhëheqës n 1 2 @ ~ 1 0 00113555
+rrokje n 1 2 #p @ 1 0 00209422
+liken n 1 1 @ 1 0 00453101
+hamendje n 1 2 @ ~ 1 0 00303176
+njësi_ushtarake n 1 5 ;c ~ #m @ %m 1 0 00291565
+artistik n 1 3 ;c @ ~ 1 0 00185674
+futje_në_përdorim n 1 0 1 0 00046777
+qytetar_i_moshuar n 1 0 1 0 00071562
+personalitet n 2 4 #p %p @ ~ 2 0 00111218 00124560
+shtyrje n 1 1 @ 1 0 00354729
+dege n 1 1 @ 1 0 00142672
+vend_i_rrafshët_,_në_nivel n 1 2 @ ~ 1 0 00184702
+muzikant n 2 4 ;c #m @ ~ 2 0 00321472 00518015
+e_metë n 1 2 @ ~ 1 0 00436057
+valë_elektromagnetike n 1 2 @ ~ 1 0 00525805
+njehsueshëm n 1 1 @ 1 0 00139693
+trup_hyjnor n 1 3 #p @ ~ 1 0 00174193
+arachnoid n 1 1 @ 1 0 00221547
+pajisje_sigurimi n 1 1 @ 1 0 00036636
+makinë_prerëse n 1 2 @ ~ 1 0 00154852
+shfrytëzim n 1 2 @ ~ 1 0 00235046
+gjyshër n 1 2 @ ~ 1 0 00326020
+reke n 1 1 @ 1 0 00041815
+veshje n 4 3 %p @ ~ 4 0 00133703 00235847 00256797 00450540
+fuqi_punëtore n 1 2 @ ~ 1 0 00449860
+lëvizje_artistike n 1 2 @ ~ 1 0 00406235
+shënues_kartë n 1 1 @ 1 0 00328826
+lëndë_plastike n 1 1 @ 1 0 00102135
+famë n 1 1 @ 1 0 00182512
+person_kompetent_civil n 1 2 @ ~ 1 0 00197676
+kusur n 1 0 1 0 00182797
+ndërtesë_periferike n 1 1 @ 1 0 00282719
+sheqer_i_pastër n 1 1 @ 1 0 00405735
+sallatë n 1 1 @ 1 0 00248758
+lirim n 2 1 @ 2 0 00222984 00475805
+emision_i_kompjuterikzuar n 1 2 %p @ 1 0 00127291
+interlinjë n 1 1 @ 1 0 00357236
+zvarranik n 1 1 @ 1 0 00327137
+gjëndrat_e_lotit n 1 1 @ 1 0 00432054
+përvojë n 1 2 @ ~ 1 0 00330013
+ndërfutje n 1 0 1 0 00046777
+veshje_të_brendshme n 1 0 1 0 00251627
+litar n 1 2 @ ~ 1 0 00035301
+pike_referimi n 1 1 @ 1 0 00044148
+veshje_e_sipërme n 1 2 @ ~ 1 0 00287624
+nxitim_i_rrëmujshëm n 1 1 @ 1 0 00506225
+holl n 1 1 @ 1 0 00400969
+titull_peshkopi n 1 1 @ 1 0 00098913
+krijueshmëri n 1 2 @ ~ 1 0 00117940
+shenje n 1 2 @ ~ 1 0 00364051
+ndryshim_gradual n 1 2 @ ~ 1 0 00241199
+punëtor n 2 2 @ ~ 2 0 00111914 00209992
+kërkesë n 4 3 ! @ ~ 4 0 00046900 00201944 00277839 00518707
+fakt_bindës n 1 0 1 0 00136111
+çarje n 6 3 #p @ ~ 6 0 00031047 00045711 00096252 00307403 00361628 00483525
+qendrim n 1 0 1 0 00291467
+aspiroj n 1 1 @ 1 0 00159719
+dëmshpërblim n 2 0 2 0 00361434 00538065
+test_gojor n 1 1 @ 1 0 00429980
+epokë n 3 2 @ ~ 3 0 00240383 00252854 00306466
+ekzistencë_jete n 1 0 1 0 00194214
+kohë_e_gjatë n 1 1 @ 1 0 00529582
+vend_i_lirë n 2 2 @ ~ 2 0 00195012 00312964
+trust n 1 1 @ 1 0 00385728
+mashtrim n 2 2 @ ~ 2 0 00162626 00275987
+kopsë n 1 1 @ 1 0 00513596
+anije n 1 2 -c ~ 1 0 00303364
+këqyrje n 1 2 @ ~ 1 0 00443538
+proçes_natyror n 1 2 @ ~ 1 0 00284936
+përdor n 2 2 @ ~ 2 0 00140766 00388505
+debat n 1 1 @ 1 0 00179302
+hajat_,_hyrje n 1 2 #p @ 1 0 00151133
+kaçubë n 1 2 @ ~ 1 0 00121985
+strofull n 1 1 @ 1 0 00508609
+kimik n 1 2 @ ~ 1 0 00212767
+guralec n 1 2 %s @ 1 0 00196543
+operator n 1 1 @ 1 0 00121861
+i_pafat n 1 2 @ ~ 1 0 00426839
+agjent n 3 2 @ ~ 3 0 00012831 00155065 00212621
+pistë_fluturimi n 1 2 @ ~ 1 0 00102716
+tatpjete n 1 2 #p @ 1 0 00005348
+stolisje n 1 1 @ 1 0 00067661
+plaçentë n 1 2 @ ~ 1 0 00509835
+te_njohur n 1 2 @ ~ 1 0 00319841
+lundër n 1 1 @ 1 0 00383922
+raport n 1 1 ~ 1 0 00413488
+zotësi n 2 3 ! @ ~ 2 0 00036788 00354170
+destinacion n 1 1 @ 1 0 00115145
+riparim n 1 1 @ 1 0 00134360
+fusha_e_subjektit n 1 2 @ ~ 1 0 00379674
+thellësi n 1 1 @ 1 0 00178812
+katund n 1 1 @ 1 0 00027706
+aerofit n 1 1 @ 1 0 00004368
+gabim_trashanik n 1 1 @ 1 0 00236304
+identitet n 1 1 @ 1 0 00124560
+lëng n 3 2 @ ~ 3 0 00101141 00145379 00447450
+kafshë_me_thundër n 1 3 %p @ ~ 1 0 00093523
+psikozë n 1 1 @ 1 0 00216445
+krahasim n 2 1 @ 2 0 00314327 00509988
+dhen n 1 1 @ 1 0 00242368
+armatime_tanku n 1 2 ;c @ 1 0 00140916
+bashkues n 1 1 @ 1 0 00264521
+urdhër n 3 3 ;c @ ~ 3 0 00118085 00475946 00497987
+zyrë_biznesi n 1 1 @ 1 0 00119379
+mençuri n 2 3 ! @ ~ 2 0 00027473 00186395
+sistemoj n 1 2 @ ~ 1 0 00420905
+paketë_programesh n 1 2 ! ~ 1 0 00204607
+njësi_e_temperaturës n 1 2 @ ~ 1 0 00435056
+kapsul_qetësues n 1 2 @ ~ 1 0 00005613
+objekt_fizik n 1 1 ~ 1 0 00324458
+rrëshqanor n 1 1 @ 1 0 00327137
+element_metalik n 1 2 @ ~ 1 0 00425082
+institucion_edukimi n 1 1 ~ 1 0 00284602
+shprehje_e_fytyrës n 1 1 @ 1 0 00444214
+rreng n 2 2 @ ~ 2 0 00028495 00283182
+perëndi n 1 2 @ ~ 1 0 00473117
+ecje_e_lehtë n 1 1 @ 1 0 00288495
+dega_e_studimit n 1 2 @ ~ 1 0 00379674
+gjykim_i_shëndosh n 1 1 @ 1 0 00305927
+cicërimë n 1 1 @ 1 0 00442496
+hutim n 1 1 @ 1 0 00326144
+aktivitet n 6 3 ! @ ~ 6 0 00056369 00284936 00295349 00330679 00418972 00456502
+shkencë n 1 4 #p -c @ ~ 1 0 00321954
+prodhim_artistik n 1 2 -c @ 1 0 00333111
+zarf n 1 1 @ 1 0 00523502
+konkurrues n 1 2 @ ~ 1 0 00044559
+akt_heroik n 1 2 @ ~ 1 0 00382381
+bombardim n 1 1 @ 1 0 00392326
+thashetheme n 1 1 @ 1 0 00308687
+adet n 1 2 @ ~ 1 0 00033021
+qenie_shpirterore n 1 2 @ ~ 1 0 00294009
+disk_drive n 1 0 1 0 00112235
+shënim n 2 1 @ 2 0 00300564 00301874
+regjistrim n 3 3 ;c @ ~ 3 0 00043621 00154106 00500315
+ndjesë n 1 1 @ 1 0 00388954
+turp n 2 1 @ 2 0 00149580 00317767
+hidhem n 2 1 @ 2 0 00228984 00536666
+segmentizim n 1 1 @ 1 0 00216808
+punonjës n 1 3 ~ @ %m 1 0 00113707
+puls n 1 1 @ 1 0 00252153
+pijetore n 1 1 @ 1 0 00021601
+yll n 2 2 #m @ 2 0 00183716 00519674
+shkencë_natyrore n 1 2 @ ~ 1 0 00439560
+gjalpi n 1 1 @ 1 0 00315055
+shkëlqim n 1 1 @ 1 0 00130537
+luajtes_rolesh n 1 2 @ ~ 1 0 00074482
+nevojtore n 1 1 @ 1 0 00417102
+pyje n 1 2 @ %m 1 0 00105481
+shpejtoj n 2 1 @ 2 0 00049539 00506225
+preh n 1 1 @ 1 0 00058928
+autoritetet n 1 2 @ ~ 1 0 00083988
+djalë n 4 3 ! @ ~ 4 0 00095629 00097121 00103793 00269986
+kundershtim n 1 1 @ 1 0 00489835
+varfëri n 1 2 ! @ 1 0 00278533
+ideal n 1 1 @ 1 0 00012340
+trafik n 1 1 @ 1 0 00499231
+votë n 1 1 @ 1 0 00228727
+luftoj n 2 2 @ ~ 2 0 00063795 00348498
+veprim n 11 3 ;c @ ~ 11 0 00164042 00168886 00244966 00249024 00251889 00284936 00379366 00422854 00431659 00457860 00538189
+pune n 2 4 %m ;c @ ~ 2 0 00017433 00204007
+lëvozhgë n 1 2 #p @ 1 0 00306114
+potere n 2 1 @ 2 0 00173387 00531709
+diferencë_opinionesh n 1 1 @ 1 0 00179302
+simptoma n 1 2 #p ~ 1 0 00483868
+vërsulem n 1 1 @ 1 0 00049539
+shpend_femër n 1 1 @ 1 0 00303687
+pamundësi n 1 2 ! @ 1 0 00047245
+ngrohtësi n 1 0 1 0 00220180
+lëndinë n 1 2 #p @ 1 0 00253714
+tabllo n 1 1 @ 1 0 00068187
+lyerje n 2 2 @ ~ 2 0 00131637 00471249
+aksident n 2 1 @ 2 0 00175221 00346609
+fabrika_e_biznesit n 1 2 @ ~ 1 0 00230254
+mbledhje_votash n 1 1 @ 1 0 00413104
+kuvend n 1 2 @ ~ 1 0 00051866
+dukuri_fizike n 1 2 @ ~ 1 0 00421133
+zonjë n 2 1 @ 2 0 00180375 00413906
+shërbesë_fetare n 1 2 @ ~ 1 0 00473509
+e_ushqyeshme n 1 2 @ ~ 1 0 00330821
+financë n 1 2 @ ~ 1 0 00238127
+element_njohës n 1 2 @ ~ 1 0 00187826
+tabak n 1 2 @ ~ 1 0 00369062
+procedure n 1 2 #p @ 1 0 00258478
+futje_të_dhënash n 1 2 @ ~ 1 0 00411170
+gropë_me_ujë n 1 1 @ 1 0 00297931
+makine_ushtarake n 1 2 -c @ 1 0 00218290
+nivel_socialo-ekonomik n 1 3 #p @ ~ 1 0 00141518
+çrregullim n 1 2 @ ~ 1 0 00393414
+gotë_qelqi n 1 2 %p @ 1 0 00210246
+zhurmë_daulle n 1 1 @ 1 0 00423671
+rëndësi n 2 2 @ ~ 2 0 00021255 00413600
+një_status_shoqëror n 1 1 ~ 1 0 00521832
+gazetë_publike n 1 2 @ ~ 1 0 00457976
+fut_(_30_,5_cm) n 1 1 @ 1 0 00106900
+sistem_ujitës n 1 2 #p @ 1 0 00287482
+pasues n 1 1 @ 1 0 00308293
+sapun n 1 1 @ 1 0 00173129
+barrë n 1 1 @ 1 0 00044766
+detyrim n 2 2 ;c ~ 2 0 00035461 00177656
+arnë n 2 1 @ 2 0 00024011 00319956
+pjese n 3 3 #p @ ~ 3 0 00007263 00340161 00421014
+popullor n 1 1 @ 1 0 00348904
+damkë_hekuri n 1 1 @ 1 0 00391924
+parajse n 1 1 @ 1 0 00414029
+morfinë n 1 1 @ 1 0 00205361
+kamion n 1 1 @ 1 0 00212115
+tipar n 5 3 #p @ ~ 5 0 00119061 00278256 00407269 00514549 00520444
+drejtues n 5 3 ! @ ~ 5 0 00044918 00090632 00094877 00171690 00429249
+avull n 1 1 @ 1 0 00078767
+lajm_histori n 1 2 #p @ 1 0 00509206
+luks n 1 1 @ 1 0 00458588
+komoditet n 1 0 1 0 00219228
+thyerje_zemre n 1 1 @ 1 0 00460510
+pamja_e_jashtme n 1 2 @ ~ 1 0 00044324
+matematikë n 1 3 -c ;c @ 1 0 00081302
+vrull n 1 2 @ ~ 1 0 00195145
+i_paprekur n 1 0 1 0 00099719
+ndihmoj n 1 2 @ ~ 1 0 00118925
+veprim_njerëzor n 1 2 @ ~ 1 0 00476098
+kundërshtim n 4 2 @ ~ 4 0 00093316 00104018 00378750 00429870
+strukturë_e_formuar_tubi n 1 2 @ ~ 1 0 00450390
+te_paret n 1 2 @ ~ 1 0 00009961
+këlysh n 2 1 @ 2 0 00030368 00261970
+sistem_ekonomik n 1 2 %p @ 1 0 00383349
+kompani_njerëzish n 1 1 @ 1 0 00470439
+stacion n 4 2 #p @ 4 0 00070237 00311820 00445577 00513757
+njerëzim n 1 2 @ %m 1 0 00464946
+trupi_administrativ n 1 2 @ ~ 1 0 00437759
+kompozim n 2 2 @ ~ 2 0 00397938 00445799
+fizikë n 1 2 -c @ 1 0 00350343
+organ_seksual n 1 1 @ 1 0 00025545
+ligjëratë n 1 1 @ 1 0 00069373
+seri n 3 2 @ ~ 3 0 00013400 00250500 00394791
+përmasë n 2 2 @ ~ 2 0 00223168 00281792
+mbartje n 1 1 @ 1 0 00456949
+fundi n 1 2 #p @ 1 0 00357097
+zbulim n 1 1 @ 1 0 00290537
+shkenca_e_psikologjisë n 1 2 -c @ 1 0 00190591
+dritare n 2 2 #p @ 2 0 00308406 00345541
+kontakt n 3 2 @ ~ 3 0 00132923 00172517 00265376
+baze_force n 1 3 ;c @ %m 1 0 00427989
+automobil n 1 3 %p @ ~ 1 0 00523791
+natyrë_e_heshtur n 1 1 @ 1 0 00467430
+frike n 2 2 @ ~ 2 0 00069091 00083363
+hoy n 1 1 @ 1 0 00383922
+dhunim n 1 1 @ 1 0 00210136
+absurditet n 1 1 @ 1 0 00363013
+hajdutllëk n 1 1 @ 1 0 00049121
+pazotësi n 2 3 ! @ ~ 2 0 00374880 00472293
+veshje_uniformë n 1 0 1 0 00265475
+shuma n 1 1 @ 1 0 00013289
+matje n 1 1 @ 1 0 00139693
+qen n 1 1 @ 1 0 00239069
+praktikues_dentar n 1 1 @ 1 0 00175724
+bekim n 1 1 @ 1 0 00326337
+zhurmë n 4 2 @ ~ 4 0 00254770 00288193 00531580 00531709
+konflikt n 6 4 #p ;c @ ~ 6 0 00047959 00076667 00179302 00348498 00410891 00468771
+drejtim n 13 3 ;c @ ~ 13 0 00054158 00300108 00335241 00351412 00362027 00372737 00403583 00406095 00476761 00502543 00521250 00531402 00534758
+falem n 1 1 @ 1 0 00516926
+bindje n 3 2 @ ~ 3 0 00342012 00447041 00481227
+tank n 1 2 ;c @ 1 0 00140916
+vije_lufte n 1 0 1 0 00419713
+aftësi_ndijor n 1 1 @ 1 0 00252403
+stuhi n 1 1 @ 1 0 00391663
+anomali n 1 2 @ ~ 1 0 00280969
+tufë n 3 1 @ 3 0 00063688 00172055 00430521
+orkester n 1 2 %p @ 1 0 00381855
+tre_mujor n 1 1 @ 1 0 00392593
+shërbim_poste n 1 1 @ 1 0 00147911
+kredit n 1 0 1 0 00533374
+te_urosh_shëndet n 1 1 @ 1 0 00326337
+përpjekje n 4 2 @ ~ 4 0 00157350 00159215 00229854 00382381
+nxitim n 1 1 @ 1 0 00049539
+në_të_ardhmen n 1 2 ! @ 1 0 00107335
+ministri n 1 1 @ 1 0 00078380
+femër n 2 3 ! @ ~ 2 0 00282341 00294835
+portret n 1 1 @ 1 0 00422712
+ritual n 1 2 @ ~ 1 0 00377622
+vrapues n 1 1 @ 1 0 00019201
+narkotik n 1 3 -c @ ~ 1 0 00087792
+zejtar n 1 1 @ 1 0 00105214
+kraharori n 1 1 @ 1 0 00435322
+informim n 1 2 @ ~ 1 0 00493045
+pasanik n 1 3 ! @ ~ 1 0 00424818
+gjuhë n 1 2 #p @ 1 0 00494604
+shtirje n 1 1 @ 1 0 00162626
+eci n 1 1 @ 1 0 00246955
+vertebror n 1 4 -c %p @ ~ 1 0 00441359
+dhome n 1 1 @ 1 0 00515462
+trëndafil n 1 1 @ 1 0 00344186
+dënim n 1 1 @ 1 0 00334427
+ripërtypës n 1 2 @ ~ 1 0 00072354
+total n 1 1 @ 1 0 00016810
+hekur n 2 2 #s @ 2 0 00174844 00391924
+kopshtari n 1 2 @ ~ 1 0 00190840
+forme_këndorë n 1 2 @ ~ 1 0 00437652
+arte_figurative n 1 3 ;c @ ~ 1 0 00185674
+flok n 1 1 @ 1 0 00292912
+dobësim n 1 2 @ ~ 1 0 00349755
+sajim n 1 1 @ 1 0 00304660
+strehë_e_palosshme n 1 1 @ 1 0 00360592
+protesoj n 1 2 @ ~ 1 0 00093316
+kënaqësi_njohje n 1 2 @ ~ 1 0 00298964
+qender_tregtare n 1 1 @ 1 0 00017998
+vegël_prerëse n 1 2 @ ~ 1 0 00274267
+mesazh n 2 2 @ ~ 2 0 00222659 00514232
+beze n 1 2 @ ~ 1 0 00121331
+vend_i_mbuluar_,_i_fshehtë n 1 2 @ ~ 1 0 00163074
+kolonizim n 1 1 @ 1 0 00277082
+qartësi n 1 2 ;c @ 1 0 00278839
+sundim n 2 2 @ ~ 2 0 00245226 00465373
+levizje_e_kreshtes n 1 2 @ ~ 1 0 00425467
+aplikim n 1 1 @ 1 0 00277839
+interesant n 1 1 @ 1 0 00332387
+hardhi n 1 1 @ 1 0 00198710
+dore_ndihmuese n 1 1 @ 1 0 00037640
+formim_kulturor n 1 1 @ 1 0 00162776
+re n 2 2 #p @ 2 0 00117724 00204453
+riekzaminim n 1 1 @ 1 0 00417480
+intelektual n 1 1 @ 1 0 00488627
+pajisje_memorie_,kujtese n 1 1 @ 1 0 00405953
+fushe_loje n 1 2 #p @ 1 0 00310223
+post_roje n 1 1 @ 1 0 00150805
+i_huaj n 1 2 ! @ 1 0 00359797
+krimb n 1 1 @ 1 0 00493257
+dëfrim n 2 1 @ 2 0 00126473 00356532
+punë_e_përditshme n 1 1 @ 1 0 00022487
+mold n 1 1 @ 1 0 00443099
+zanafille n 2 2 @ ~ 2 0 00201401 00250263
+ndihmesë n 1 2 @ ~ 1 0 00394905
+dashuri n 3 3 ! @ ~ 3 0 00109070 00129856 00227921
+furnitor n 1 2 @ ~ 1 0 00440653
+agjensi n 1 1 @ 1 0 00149483
+vrimë_gjilpëre n 1 2 #p @ 1 0 00168743
+filloj n 1 2 @ ~ 1 0 00149175
+fanatizem n 1 1 @ 1 0 00156577
+rezidencë n 1 1 @ 1 0 00116039
+largoj n 1 1 @ 1 0 00534905
+divan n 1 3 ~ @ %m 1 0 00106699
+avullore n 1 1 @ 1 0 00491498
+llogari_bankare n 1 0 1 0 00520164
+stemë n 3 2 @ ~ 3 0 00073461 00399735 00468302
+përshtypje n 1 1 ~ 1 0 00413488
+i_ardhur n 1 2 @ ~ 1 0 00411170
+llogaris n 2 2 @ ~ 2 0 00108283 00146671
+ushqime n 1 1 @ 1 0 00185839
+vaj n 1 1 @ 1 0 00493882
+kurriz n 2 2 #p @ 2 0 00046222 00224641
+gëmushë n 1 2 @ ~ 1 0 00121985
+mësymje n 1 0 1 0 00080012
+punë_me_grep n 1 1 @ 1 0 00008124
+bimësi n 1 4 ;c #m @ ~ 1 0 00518169
+zemërmirësi n 1 1 @ 1 0 00354608
+letra n 1 3 -c @ ~ 1 0 00393263
+pirg_dheu n 1 1 @ 1 0 00482008
+kler n 1 1 @ 1 0 00499551
+mos_frekuentim n 1 2 @ ~ 1 0 00220963
+pike_kufi n 2 2 @ ~ 2 0 00304097 00506617
+gare_ecje n 1 1 @ 1 0 00242874
+mjedis n 3 2 @ ~ 3 0 00148820 00241877 00454543
+shenjtërim n 2 3 ;c @ ~ 2 0 00202535 00253533
+dyanshmeri n 1 1 @ 1 0 00512479
+njolle n 1 1 @ 1 0 00473347
+komunikim_auditor n 1 2 @ ~ 1 0 00133831
+abazhurë n 1 1 @ 1 0 00464045
+natë n 3 3 ! @ #p 3 0 00153826 00344096 00397502
+rruginë_private n 1 1 @ 1 0 00084345
+bimë_helmuese n 1 1 @ 1 0 00537175
+budallallëk n 1 3 ! @ ~ 1 0 00400382
+humbje_ndjenjash n 1 2 @ ~ 1 0 00347742
+entitet n 1 1 ~ 1 0 00492770
+ikje n 2 2 @ ~ 2 0 00194290 00468542
+negocim n 1 1 @ 1 0 00064791
+manovrim n 4 4 #p ;c @ ~ 4 0 00123297 00166946 00347960 00444589
+ndjeshmëri n 3 2 @ ~ 3 0 00252403 00358188 00474473
+oficer_ligji n 1 2 @ ~ 1 0 00065176
+lubrifikant n 1 0 1 0 00512773
+rrugë_kalimtarësh n 1 1 @ 1 0 00468640
+hartë n 1 1 @ 1 0 00174541
+zili n 1 1 @ 1 0 00287313
+biologji n 3 4 -c %m @ ~ 3 0 00157765 00355019 00450924
+akumulim n 2 2 @ ~ 2 0 00310497 00330556
+kalbje_dhembi n 1 1 @ 1 0 00487175
+çift n 2 2 @ %m 2 0 00118488 00410538
+rrenim n 1 1 @ 1 0 00231629
+strukturë_mbajtëse n 1 2 @ ~ 1 0 00409848
+meteorit n 1 0 1 0 00012248
+ushqim_i_thatë n 1 1 @ 1 0 00185839
+aksion_në_grup n 1 2 @ ~ 1 0 00193034
+proçes_matematikor n 1 3 ;c @ ~ 1 0 00244966
+material_shtazorë n 1 1 @ 1 0 00329917
+bazë n 4 2 #p @ 4 0 00176761 00219342 00403994 00416552
+shtyp n 3 2 @ ~ 3 0 00103685 00208539 00526196
+i_ri n 1 1 @ 1 0 00525045
+ekonomi_shtepie n 1 1 @ 1 0 00113434
+polici n 2 2 @ %m 2 0 00167081 00499011
+papërsosuri n 1 2 ! @ 1 0 00084168
+mendjemadhësi n 1 0 1 0 00341762
+llullë_duhani n 1 1 @ 1 0 00477669
+sulmim n 1 1 @ 1 0 00455308
+personel n 1 2 @ ~ 1 0 00190239
+fillimi n 1 2 @ ~ 1 0 00218923
+mosmarrëveshje n 2 3 ! @ ~ 2 0 00221914 00450031
+njoftim n 1 1 @ 1 0 00442037
+letra_bixhozi n 1 1 @ 1 0 00250132
+parakaloj n 1 1 @ 1 0 00002822
+gjelltore n 1 1 @ 1 0 00042410
+nënshtrohem n 1 1 @ 1 0 00159532
+valencë n 1 2 ;c @ 1 0 00204980
+shpat n 1 2 #p @ 1 0 00005348
+imagjinatë n 1 2 @ ~ 1 0 00398710
+bir n 1 2 ! @ 1 0 00103793
+dramatik n 2 3 -c @ ~ 2 0 00074482 00497802
+popullsi n 1 2 @ %m 1 0 00310382
+shtytje n 1 2 @ ~ 1 0 00054412
+maja_e_rrugës_se_diellit n 1 2 #p @ 1 0 00071797
+ekzibicion n 1 2 ;c @ 1 0 00455821
+hartim n 1 1 @ 1 0 00398502
+mutacion n 1 3 ;c @ ~ 1 0 00200963
+pezullim n 5 3 ;c @ ~ 5 0 00005476 00183377 00197986 00264665 00305319
+kartë_qenderimi n 1 0 1 0 00417928
+komunikator n 1 2 @ ~ 1 0 00240569
+pamjaftueshmëri n 1 2 @ ~ 1 0 00469496
+restorant n 1 1 @ 1 0 00042410
+nikoqire n 1 1 @ 1 0 00479972
+dhuroj n 1 1 @ 1 0 00528118
+gjithë n 1 3 %p @ ~ 1 0 00336679
+luspë n 1 1 @ 1 0 00155936
+shami_koke n 1 2 @ ~ 1 0 00158698
+te_reja n 1 1 @ 1 0 00240909
+katranos n 1 1 @ 1 0 00236304
+politikë n 1 1 @ 1 0 00339891
+arsye n 2 2 @ ~ 2 0 00166460 00291826
+toka n 1 1 @ 1 0 00449115
+telegraf n 1 1 @ 1 0 00221688
+shkoj_me_taksi n 1 1 @ 1 0 00217900
+karbon n 1 1 @ 1 0 00487300
+djathë n 1 1 @ 1 0 00464357
+humbje_financiare n 1 1 @ 1 0 00260403
+shtepi n 4 1 @ 4 0 00039599 00090325 00099949 00113434
+vathë n 1 1 @ 1 0 00527834
+praktikë n 1 1 @ 1 0 00053255
+zë_i_folur n 1 1 @ 1 0 00070706
+lëndë n 2 2 @ ~ 2 0 00055607 00490465
+funeral n 1 1 @ 1 0 00384567
+kalbje n 1 1 @ 1 0 00289712
+vuajtje n 3 3 ! @ ~ 3 0 00250910 00267556 00536472
+shkalle n 2 1 @ 2 0 00023608 00243690
+dedikim n 1 2 @ ~ 1 0 00065061
+sipërfaqe_e_populluar n 1 3 %p @ ~ 1 0 00097222
+çmim n 2 1 @ 2 0 00080633 00129605
+mend n 2 1 @ 2 0 00028973 00131994
+punoj_rëndshëm n 1 2 @ ~ 1 0 00293115
+asimetrik n 1 3 ! ;c @ 1 0 00415938
+pajis n 1 1 @ 1 0 00235215
+koks n 1 1 @ 1 0 00508177
+festë n 1 1 @ 1 0 00412843
+mjekim n 2 3 %p @ ~ 2 0 00152156 00532459
+ankim n 1 2 @ ~ 1 0 00097808
+skedar n 1 1 @ 1 0 00464817
+ndihmë n 1 1 @ 1 0 00275800
+varg_me_fjale n 1 1 @ 1 0 00062556
+pike_topografike n 1 2 @ ~ 1 0 00273757
+ylber n 1 2 #p @ 1 0 00027313
+grup_informatoresh n 1 1 @ 1 0 00390763
+pikëpamje n 3 2 @ ~ 3 0 00106484 00268472 00405845
+veri n 1 1 @ 1 0 00388085
+ushtri n 4 6 -c @ ~ %m ;c #m 4 0 00149950 00218290 00291565 00427989
+hyrje n 3 2 @ ~ 3 0 00046777 00184049 00411170
+zhdëmtim n 2 1 @ 2 0 00209675 00361434
+i_kushtueshëm n 1 1 @ 1 0 00458588
+psikonevrozë n 1 0 1 0 00086392
+fatmirësi n 1 1 @ 1 0 00350046
+dramaturgji n 1 2 -c @ 1 0 00497802
+autobus_kampimi n 1 0 1 0 00213387
+kërcej n 1 2 -c @ 1 0 00324970
+trup_njeriu n 1 1 @ 1 0 00197451
+pozicion_këndi n 1 1 ~ 1 0 00240076
+masë n 1 1 @ 1 0 00510742
+rob n 1 1 @ 1 0 00254550
+gametë n 1 2 @ ~ 1 0 00490686
+përkujdesje n 2 2 @ ~ 2 0 00177360 00394905
+kuptueshmeria n 1 1 @ 1 0 00413600
+këmbët n 1 2 #p @ 1 0 00018873
+prodhues n 1 1 @ 1 0 00261738
+puth n 1 1 @ 1 0 00208853
+minare n 1 1 @ 1 0 00193665
+ditë_pune n 1 0 1 0 00329708
+drithëra n 1 0 1 0 00442605
+furnizoj n 1 1 @ 1 0 00235215
+lubrifikues n 1 0 1 0 00512773
+grup_familjar n 1 3 ~ @ %m 1 0 00420682
+anije_trap n 1 1 @ 1 0 00337610
+metropol n 1 1 @ 1 0 00177526
+iluminim n 1 2 @ ~ 1 0 00294461
+moskokëçarje n 1 0 1 0 00105763
+trullosje n 2 2 @ ~ 2 0 00116420 00459862
+punëdhënës n 1 2 ! @ 1 0 00055375
+shoqërues n 1 1 @ 1 0 00525186
+makinë_kompjuteri n 1 2 %p @ 1 0 00475164
+republikë n 2 1 @ 2 0 00014509 00038841
+aktivist n 1 2 @ ~ 1 0 00330679
+lartësoj n 1 1 @ 1 0 00316894
+i_shtrenjtë n 1 1 @ 1 0 00223356
+metan n 1 0 1 0 00060022
+ekzistencë n 2 3 ! @ ~ 2 0 00092747 00452444
+relacion_libri n 1 2 @ ~ 1 0 00383199
+provim_me_goje n 1 1 @ 1 0 00429980
+personazh n 1 1 @ 1 0 00172622
+kontigjent n 1 1 @ 1 0 00154106
+prishur n 1 1 ~ 1 0 00090529
+evolucion n 2 1 @ 2 0 00103887 00320418
+ndaj n 3 2 @ ~ 3 0 00060922 00402756 00501548
+qilim n 1 2 @ ~ 1 0 00527275
+dajë n 1 1 @ 1 0 00279471
+një_marrëdhënie_seksuale n 1 2 @ ~ 1 0 00254295
+eksperiencë n 1 1 @ 1 0 00013550
+orë_e_verës n 1 1 @ 1 0 00165206
+filet_mishi n 1 2 #p @ 1 0 00461738
+kthim n 3 1 @ 3 0 00323691 00367890 00481916
+kapelë n 2 2 @ ~ 2 0 00156826 00158698
+tabelë_oraresh n 1 2 @ ~ 1 0 00395078
+ekip n 2 1 @ 2 0 00010601 00290149
+peshë n 3 1 @ 3 0 00006346 00021716 00267385
+s n 1 2 #s @ 1 0 00408105
+vlerësues n 1 1 @ 1 0 00396402
+thatësirë n 1 0 1 0 00528959
+përdorimi_i_të_mirave_dhe_materialeve n 1 1 @ 1 0 00495846
+kartë_telefoni n 1 1 @ 1 0 00011178
+ansambël n 1 1 @ 1 0 00060401
+studim n 3 1 @ 3 0 00098339 00438530 00449759
+mish_lepur n 1 0 1 0 00473432
+konik n 1 2 @ ~ 1 0 00203140
+shembull_tipik n 1 2 @ ~ 1 0 00485302
+qendër_tregtare n 1 3 %p @ ~ 1 0 00533440
+shtëpizë_indianësh n 1 1 @ 1 0 00366127
+mbiujës n 1 2 @ ~ 1 0 00515562
+hapa n 1 1 @ 1 0 00030902
+orkester_kërcimi n 1 1 @ 1 0 00314620
+argument_logjik n 1 2 @ ~ 1 0 00004169
+prishje n 4 2 @ ~ 4 0 00025150 00169630 00260258 00501548
+çlodhje n 1 2 @ ~ 1 0 00378903
+infrastrukturë n 1 2 %p @ 1 0 00055093
+kalime n 1 1 @ 1 0 00228984
+ide n 3 2 @ ~ 3 0 00081888 00268472 00478822
+murmurime n 2 1 @ 2 0 00292014 00505414
+dhëmbë n 1 1 @ 1 0 00152490
+nivel_social n 1 3 #p @ ~ 1 0 00141518
+variete n 1 1 @ 1 0 00492128
+ndyj n 1 2 @ ~ 1 0 00457282
+përdorim n 2 2 @ ~ 2 0 00162282 00235046
+kafshë_për_kafshë n 1 1 @ 1 0 00313756
+lëvizje_sociale n 1 2 @ ~ 1 0 00290615
+kompetencë n 1 1 @ 1 0 00311020
+enë n 2 2 @ ~ 2 0 00404312 00522139
+burim_uji n 1 1 @ 1 0 00297931
+mjete_shtëpiake n 1 1 @ 1 0 00358775
+artikull n 7 4 #p ! @ ~ 7 0 00072038 00073928 00098220 00125372 00267017 00278137 00507199
+ceremoni_martësore n 1 1 @ 1 0 00432490
+ndërmarrje_tregtare n 1 5 #p -c %p @ ~ 1 0 00224881
+pasuri_të_patundshme n 1 2 @ ~ 1 0 00107179
+përshkrim_gojor n 1 2 @ ~ 1 0 00190113
+inkuadrim n 1 2 @ ~ 1 0 00401548
+pikëllim n 1 1 @ 1 0 00069698
+rrymë_ere n 1 0 1 0 00192830
+kyç_i_dorës n 1 0 1 0 00438795
+pamje_e_një_pikturë_kinemaje n 1 2 -c @ 1 0 00262194
+lajme n 2 1 @ 2 0 00177269 00240909
+sundimtar n 2 2 @ ~ 2 0 00015873 00119837
+xhep n 1 2 #p @ 1 0 00110525
+terror n 1 1 @ 1 0 00459754
+klan n 1 2 @ ~ 1 0 00177110
+grupim n 1 2 @ ~ 1 0 00003211
+orientim n 1 2 @ ~ 1 0 00406095
+gjendje_shpirtërore n 4 2 @ ~ 4 0 00030132 00130264 00246116 00277612
+fushë n 2 2 @ ~ 2 0 00135708 00379674
+hydrokarbur n 1 2 @ ~ 1 0 00435411
+shufër n 2 2 @ ~ 2 0 00074745 00172390
+vend_i_fshehtë n 1 2 @ ~ 1 0 00255650
+pjesëtim n 1 1 @ 1 0 00503865
+rrethane n 1 2 @ ~ 1 0 00004900
+përjashtim n 1 1 @ 1 0 00195754
+ambicioz n 1 1 @ 1 0 00011322
+flokë n 1 3 ~ @ %m 1 0 00229763
+montim n 1 1 @ 1 0 00503580
+mendjemprehtësi n 1 2 ;c @ 1 0 00278839
+vlefshmëri n 1 1 @ 1 0 00337906
+mënyrë_sjellje n 2 3 ;c @ ~ 2 0 00313604 00380725
+squfur n 2 3 #s %s @ 2 0 00245970 00408105
+patrulla_mbrojtëse n 1 1 @ 1 0 00307757
+central n 1 1 @ 1 0 00521633
+vendim n 3 2 @ ~ 3 0 00014138 00227503 00237675
+hymenopterous_insect n 1 2 @ ~ 1 0 00283440
+bimë_bulbëzore n 1 1 @ 1 0 00092529
+njësi_matëse n 1 2 @ ~ 1 0 00058702
+trung n 2 4 #p %p @ ~ 2 0 00009961 00052005
+nevrozë n 1 0 1 0 00086392
+rrënjë n 2 1 @ 2 0 00250263 00471812
+lume n 1 1 @ 1 0 00349570
+fushë_shahu n 1 2 #p @ 1 0 00011790
+përmbledhje n 1 1 @ 1 0 00262430
+fonde_monetare n 1 1 @ 1 0 00139805
+e_vecante n 1 0 1 0 00072038
+shmangie n 2 2 @ ~ 2 0 00194290 00390861
+uri n 1 0 1 0 00344869
+këshillim n 1 1 @ 1 0 00036287
+grupoj n 1 2 @ ~ 1 0 00349198
+grup_interesash n 1 1 @ 1 0 00415202
+tubacion n 1 0 1 0 00272495
+shpërndarje n 4 2 @ ~ 4 0 00084592 00214675 00352648 00460221
+shpërfillje n 1 0 1 0 00105763
+seancë_praktike n 1 2 @ ~ 1 0 00338715
+udhëtim n 4 3 %p @ ~ 4 0 00001974 00126202 00288495 00466107
+lidhje_gramatikore n 1 2 @ ~ 1 0 00367310
+votim n 2 1 @ 2 0 00031160 00072602
+bashkoj n 1 1 @ 1 0 00309068
+koncert n 1 1 @ 1 0 00212027
+veprime_matematikor n 1 3 ;c @ ~ 1 0 00244966
+iriq_deti n 1 2 @ ~ 1 0 00138990
+toke n 3 4 #p %p @ ~ 3 0 00103053 00448175 00489234
+cilindër n 2 2 @ ~ 2 0 00040643 00160417
+organizim_muzikor n 1 3 ~ @ %m 1 0 00289900
+sezon_i_skontove n 1 0 1 0 00071451
+rast_social n 1 2 @ ~ 1 0 00017433
+gjueti n 1 1 @ 1 0 00320602
+dukuri_elektrike n 1 2 @ ~ 1 0 00071673
+formacion_gjeologjik n 1 2 @ ~ 1 0 00530249
+forcë n 8 5 = ! ;c @ ~ 8 0 00000712 00143555 00192557 00281696 00364821 00487907 00493983 00508933
+pushkë n 1 1 @ 1 0 00448523
+disk n 1 2 @ ~ 1 0 00277991
+material_i_subjektit n 1 2 @ ~ 1 0 00514232
+dekor n 1 2 @ ~ 1 0 00051621
+keqkuptim n 1 2 @ ~ 1 0 00436057
+lafshë_gjeli n 1 1 @ 1 0 00179014
+numër_njësh n 1 1 @ 1 0 00020924
+fundar n 1 0 1 0 00138411
+përzjerje_organike n 1 1 ~ 1 0 00125884
+hapësirë,zonë n 1 2 @ ~ 1 0 00376697
+përqendrim n 2 2 @ ~ 2 0 00501905 00526958
+pastrim n 1 1 @ 1 0 00296582
+liri n 2 2 @ ~ 2 0 00070359 00196036
+dukuri_atmosferike n 1 2 @ ~ 1 0 00521354
+babe n 1 1 @ 1 0 00439435
+stallë n 1 1 @ 1 0 00385418
+stimuloj n 1 2 @ ~ 1 0 00028176
+dëshirë n 5 3 ! @ ~ 5 0 00230606 00319716 00327323 00451416 00492948
+mënyrë_të_sjelluri n 2 2 @ ~ 2 0 00214915 00447681
+këmbë_shkalle n 1 1 @ 1 0 00207016
+funksione_trupore n 1 2 @ ~ 1 0 00418972
+wc_tualet n 1 3 #p %p @ 1 0 00014226
+sn n 1 1 @ 1 0 00319145
+grup_politik n 1 3 #m @ ~ 1 0 00516464
+këmbë_pantallonash n 1 0 1 0 00267687
+aneksoj n 1 2 #p @ 1 0 00247594
+dhembshuri n 2 2 @ ~ 2 0 00181398 00220180
+rrogë_e_rregullt n 1 2 @ ~ 1 0 00338362
+cipë n 1 2 %p @ 1 0 00258135
+vlera n 1 1 @ 1 0 00362873
+agim n 2 2 #p @ 2 0 00149048 00394312
+ajër n 1 1 @ 1 0 00111114
+fushe_aeroplanesh n 1 2 @ ~ 1 0 00102716
+shëmti n 1 2 ! @ 1 0 00311130
+pasardhës n 1 2 @ ~ 1 0 00453399
+incident n 1 2 #p @ 1 0 00279265
+argumentim n 2 2 @ ~ 2 0 00004169 00079250
+trup_qiellor n 1 3 #p @ ~ 1 0 00174193
+kockë n 1 2 #s ~ 1 0 00458221
+kryerje n 2 2 @ ~ 2 0 00053792 00159050
+vemje n 2 2 @ ~ 2 0 00114808 00461872
+sektor_administrativ n 1 2 @ ~ 1 0 00437759
+krahasues n 1 1 @ 1 0 00509988
+mospëlqim n 2 3 ! @ ~ 2 0 00183050 00265644
+gërryerje n 1 1 @ 1 0 00466918
+elegance n 1 2 @ ~ 1 0 00228566
+kalibrim n 1 2 @ ~ 1 0 00242965
+diferencë n 2 1 @ 2 0 00179302 00390861
+fitore n 2 3 ! @ ~ 2 0 00041255 00304408
+falje n 2 1 @ 2 0 00120084 00388954
+preparat n 1 1 ~ 1 0 00353962
+nënshtrim n 1 2 @ ~ 1 0 00431385
+bujqësi n 1 3 -c @ ~ 1 0 00201156
+porosi n 1 0 1 0 00118706
+miq n 1 1 @ 1 0 00368472
+kurrizor n 1 4 -c %p @ ~ 1 0 00441359
+aleancë n 1 1 @ 1 0 00274734
+zbatim n 1 2 @ ~ 1 0 00053792
+tarifë n 1 0 1 0 00223908
+dallgëzim n 1 3 ;c @ ~ 1 0 00237392
+gjeneratë n 1 1 @ 1 0 00374702
+fe n 2 2 -c @ 2 0 00285694 00384222
+pjesë n 6 4 #p ;c @ ~ 6 0 00041385 00085644 00243277 00269537 00328492 00352781
+zhduk n 1 2 @ ~ 1 0 00255650
+kamping n 1 2 @ ~ 1 0 00340010
+lidhje_bashkërenditëse n 1 0 1 0 00043279
+magazinë n 1 1 @ 1 0 00136674
+disiplinë n 2 2 @ ~ 2 0 00379674 00447965
+pellgaçe n 1 1 @ 1 0 00255533
+mendim n 8 2 @ ~ 8 0 00048152 00081888 00217572 00242659 00268472 00285784 00305927 00478822
+vizitor n 2 2 @ ~ 2 0 00338621 00403024
+ofrim n 1 1 @ 1 0 00221081
+atmosferë n 1 1 @ 1 0 00454543
+efikasitet n 1 1 @ 1 0 00265944
+i_fuqishëm n 1 1 @ 1 0 00028843
+inxhinier n 1 1 @ 1 0 00434929
+pjese_e_fjalimit n 1 1 @ 1 0 00204280
+grabitës n 1 1 @ 1 0 00093200
+krijim_letrar n 1 2 @ ~ 1 0 00407984
+park n 3 3 #p @ %m 3 0 00088669 00112596 00253714
+të_korra n 1 1 @ 1 0 00532059
+copë_toke n 1 2 @ ~ 1 0 00156439
+arti_grafik n 1 2 @ ~ 1 0 00047686
+mjet_komunikimi n 1 2 #p @ 1 0 00136522
+mekanizëm n 2 2 @ ~ 2 0 00259201 00478316
+aftësi_drejtimi n 1 2 @ ~ 1 0 00534758
+hiç n 1 1 @ 1 0 00182415
+kordak n 1 2 @ ~ 1 0 00366889
+politikan n 1 2 @ ~ 1 0 00211185
+mjet_pastrues n 1 2 @ ~ 1 0 00392896
+tonalitet n 1 1 @ 1 0 00199481
+sipërfaqe n 4 3 %p @ ~ 4 0 00045938 00266088 00425988 00533749
+ndihmesë_financiare n 1 1 @ 1 0 00275800
+mëkat_vdekjeprurës n 1 2 @ ~ 1 0 00224409
+mohim n 2 2 @ ~ 2 0 00202068 00491793
+gjallërim n 1 1 @ 1 0 00283020
+tesha n 2 2 @ ~ 2 0 00256797 00318639
+ndenjëse n 1 3 ~ @ %m 1 0 00106699
+parazit n 1 3 ! ;c @ 1 0 00289547
+strukturë_fiziologjike n 1 1 ~ 1 0 00249850
+enë_gjaku n 2 2 @ ~ 2 0 00316761 00434365
+pulsim n 1 1 @ 1 0 00252153
+flete_letre n 1 2 @ ~ 1 0 00331831
+katalog n 1 1 @ 1 0 00319635
+makijazh n 1 2 @ ~ 1 0 00410679
+jo_shtetas n 1 2 ! @ 1 0 00359797
+asociacion n 2 1 @ 2 0 00250615 00489084
+etiketë n 1 2 @ ~ 1 0 00351727
+dimension n 1 1 @ 1 0 00221459
+kërcim n 2 2 -c @ 2 0 00216197 00324970
+rresht n 1 2 @ ~ 1 0 00189581
+artikuj_të_cilësisë_së_parë n 1 1 @ 1 0 00380910
+spitullaq n 1 1 @ 1 0 00179014
+ekzekutim n 1 0 1 0 00294690
+qenie_imagjinare n 1 1 @ 1 0 00178434
+dëmtoj n 1 2 @ ~ 1 0 00451759
+simbol_i_shtypur n 1 2 @ ~ 1 0 00293298
+person_jo_i_zakonshëm n 1 2 @ ~ 1 0 00280969
+cilësi_e_përcaktuar n 1 1 ~ 1 0 00130004
+gaf n 1 1 @ 1 0 00236304
+murë_ndarës n 1 2 @ ~ 1 0 00187059
+dërrasë_hekurosjeje n 1 1 @ 1 0 00270106
+paketë n 1 1 @ 1 0 00063688
+kthese n 2 2 @ ~ 2 0 00222568 00476761
+qejf n 1 1 @ 1 0 00100663
+pike_qiellore n 1 3 #p @ ~ 1 0 00267902
+pengese n 1 1 @ 1 0 00005476
+zemërlig n 1 1 @ 1 0 00147805
+nuhatje n 2 2 @ ~ 2 0 00371581 00372099
+regjisor n 1 0 1 0 00441703
+rreth_i_ngushte n 1 2 ! @ 1 0 00503956
+skëterrë n 1 1 @ 1 0 00300866
+admirim n 1 1 @ 1 0 00115933
+reflektor n 1 2 @ ~ 1 0 00142453
+ushtar n 2 4 ;c #m @ ~ 2 0 00155708 00442854
+mbrëmje n 1 1 @ 1 0 00452294
+mençur n 1 1 @ 1 0 00287093
+even-toed_ungulate n 1 3 ! @ ~ 1 0 00255041
+errësirë n 2 3 ! @ #p 2 0 00153826 00482188
+lokomotivë n 1 0 1 0 00236049
+pritë n 1 2 @ ~ 1 0 00105338
+g n 1 1 @ 1 0 00505193
+perfundim n 1 2 #p @ 1 0 00357097
+drejtor n 2 1 @ 2 0 00333861 00535383
+mendim_i_refuzuar n 1 1 @ 1 0 00368569
+frazë n 1 1 @ 1 0 00262807
+zonë_parkimi n 1 1 @ 1 0 00144179
+klasa n 1 2 @ ~ 1 0 00125592
+vajze n 5 3 ! @ ~ 5 0 00219895 00239479 00247147 00414482 00482745
+rulon n 1 1 @ 1 0 00423671
+sprovë n 1 2 @ ~ 1 0 00082943
+themelor n 1 3 #p ;c @ 1 0 00507986
+heq_dore n 1 1 @ 1 0 00491793
+porcion n 3 3 #p @ ~ 3 0 00269537 00375487 00478435
+piper n 2 2 @ ~ 2 0 00340404 00425633
+dekrementoj n 1 3 ! @ ~ 1 0 00206588
+figurë_dy_dimensionale n 1 2 @ ~ 1 0 00253176
+tragë n 1 1 @ 1 0 00008638
+ballore n 1 0 1 0 00419713
+prerje_monedhash n 1 2 @ ~ 1 0 00507008
+aerodrom n 1 1 @ 1 0 00417671
+ngushticë n 1 1 @ 1 0 00050713
+bregdet n 1 1 @ 1 0 00172932
+mes n 1 1 @ 1 0 00404639
+fat n 4 1 @ 4 0 00092275 00115145 00153055 00374405
+rrethim n 1 0 1 0 00060992
+heshtë n 1 1 @ 1 0 00143667
+faring n 1 2 %p @ 1 0 00271442
+staf n 1 2 @ ~ 1 0 00194443
+kohëmatës n 1 2 @ ~ 1 0 00236981
+adapt n 1 1 @ 1 0 00183716
+simetri n 1 3 ! ;c @ 1 0 00346129
+prind n 1 2 @ ~ 1 0 00229671
+mësoj n 1 2 @ ~ 1 0 00212499
+sindikatë n 1 1 @ 1 0 00337370
+venitet n 1 1 @ 1 0 00448753
+gostisje n 1 2 @ ~ 1 0 00228566
+origjinë n 2 2 @ ~ 2 0 00114998 00126362
+raund n 1 3 #p ;c @ 1 0 00530062
+vizion n 1 2 @ ~ 1 0 00398710
+ndodhi n 2 3 @i @ ~ 2 0 00152615 00409309
+rreshtim n 1 1 @ 1 0 00138720
+nderim n 1 3 ! @ ~ 1 0 00180910
+e_ardhme n 1 2 ! @ 1 0 00107335
+prapa n 1 2 ! @ 1 0 00005982
+shumë_totale n 1 1 @ 1 0 00013289
+krehër n 1 1 @ 1 0 00472812
+bimë_ujore n 1 1 @ 1 0 00279845
+edukim n 1 1 @ 1 0 00214534
+bar_i_keq n 1 1 @ 1 0 00224081
+goditje n 8 4 #p ;c @ ~ 8 0 00033858 00132923 00152366 00200400 00286449 00381101 00410891 00422073
+botim n 1 1 @ 1 0 00255936
+kulaç n 1 1 @ 1 0 00030669
+madhështor n 1 1 @ 1 0 00130537
+maturim n 1 3 ;c @ ~ 1 0 00032607
+letër_mbështjellëse n 1 2 @ ~ 1 0 00246337
+madam n 1 1 @ 1 0 00413906
+njësia_e_kohës n 1 1 ~ 1 0 00232282
+urtësi n 1 3 ! @ ~ 1 0 00186395
+çamarrokësi n 2 2 @ ~ 2 0 00028495 00283182
+material_ngjitës n 1 1 @ 1 0 00099500
+balle_lufte n 1 0 1 0 00419713
+mjeshtëri n 2 2 @ ~ 2 0 00329402 00354170
+ekluzë n 1 1 @ 1 0 00306794
+rrezik n 4 2 ! @ 4 0 00079393 00263620 00301191 00449441
+agjent_bastesh n 1 2 @ ~ 1 0 00361736
+hapsire n 3 2 @ ~ 3 0 00053974 00292998 00329773
+manaxhim n 1 2 @ ~ 1 0 00362027
+mbiemër n 1 1 @ 1 0 00215417
+mbarim n 3 2 @ ~ 3 0 00073829 00408913 00435592
+zbrazëti n 2 1 @ 2 0 00494316 00502875
+hedhje_poshtë n 1 1 @ 1 0 00243976
+suporter n 1 2 @ ~ 1 0 00316111
+arthropod n 1 2 @ ~ 1 0 00157568
+motoçikletë n 3 2 @ ~ 3 0 00009517 00248176 00327482
+shqetësim n 4 2 @ ~ 4 0 00260509 00436797 00445406 00535673
+krijesë_imagjinare n 1 1 @ 1 0 00178434
+përqeshje n 1 1 @ 1 0 00209136
+polic n 1 2 #m @ 1 0 00068767
+shfryrje n 1 1 @ 1 0 00505414
+lesh_angora n 1 1 @ 1 0 00107848
+realizim n 1 1 @ 1 0 00448858
+formim n 4 2 @ ~ 4 0 00047372 00190008 00530249 00537573
+gatim n 1 3 -c @ ~ 1 0 00060124
+meit n 1 1 @ 1 0 00197451
+implementim n 1 2 @ ~ 1 0 00053792
+përfaqësim n 3 2 @ ~ 3 0 00017081 00072844 00131807
+cilësi n 2 2 @ ~ 2 0 00031265 00514549
+depozitë n 1 2 @ ~ 1 0 00208135
+varësi n 1 2 @ ~ 1 0 00431385
+vogëlushë n 1 2 ! @ 1 0 00414482
+tramvaj n 1 0 1 0 00100509
+habi n 2 2 @ ~ 2 0 00116420 00355400
+mbyllur n 1 2 @ ~ 1 0 00215148
+vrimë n 3 2 @ ~ 3 0 00003552 00287944 00361628
+puthje n 1 1 @ 1 0 00208853
+boks n 1 2 -c ~ 1 0 00201839
+rrezatim_elektromagnetik n 1 2 @ ~ 1 0 00525805
+i_embel n 1 1 @ 1 0 00223356
+flori n 1 0 1 0 00516710
+pjesëmarrje_ne_dyluftim n 1 1 @ 1 0 00300682
+piano n 1 1 @ 1 0 00308800
+gjynah n 1 2 @ ~ 1 0 00219020
+vetëbesim n 1 1 @ 1 0 00447041
+copëz n 1 1 @ 1 0 00160567
+hijeshi n 1 1 @ 1 0 00458473
+teater n 1 2 -c @ 1 0 00497802
+inflacion n 1 1 @ 1 0 00334530
+kudhër n 1 1 @ 1 0 00351084
+njësi_metrike_e_peshës n 1 2 @ ~ 1 0 00273304
+atom n 2 3 #p ;c @ 2 0 00074603 00375028
+bimë_për_kopshte n 1 1 @ 1 0 00026168
+motiv n 2 2 @ ~ 2 0 00456745 00518707
+femër_e_rritur n 1 3 ! @ ~ 1 0 00294835
+të_ndenjurat n 1 2 #p @ 1 0 00317869
+trup_i_lëngshëm n 1 2 @ ~ 1 0 00305046
+ngjyrë n 3 2 @ ~ 3 0 00167496 00199481 00471249
+shërbesë n 2 2 @ ~ 2 0 00352781 00473509
+erë n 3 2 @ ~ 3 0 00192830 00240383 00372099
+lëvozhgë_vezë n 1 2 #p @ 1 0 00306114
+tregim_jete n 1 1 @ 1 0 00515084
+dëshirë_seksuale n 1 1 @ 1 0 00169505
+burg n 1 1 @ 1 0 00459377
+kosmos n 1 3 %p @ %m 1 0 00007951
+punishte n 2 1 @ 2 0 00469974 00522866
+gare_me_nderim n 1 1 @ 1 0 00161824
+lëndoj n 1 2 @ ~ 1 0 00451759
+municione n 1 3 %p @ ~ 1 0 00297183
+aktrim n 1 2 @ ~ 1 0 00164337
+ndryshim_total n 1 1 @ 1 0 00172161
+toke_e_ngurte n 1 3 #p @ ~ 1 0 00103053
+tërësi n 1 1 @ 1 0 00116152
+njërëz_me_ngjyre n 1 1 @ 1 0 00384660
+falenderim n 1 1 @ 1 0 00140285
+pajisje_e_njehsueshme n 1 2 @ ~ 1 0 00256321
+barna_qetësuese n 1 1 @ 1 0 00199179
+konsum n 1 1 @ 1 0 00279130
+hapsire_e_bardhe n 1 1 @ 1 0 00053974
+rruginë n 1 2 @ ~ 1 0 00107469
+origin n 1 2 @ ~ 1 0 00009961
+sulm n 4 2 @ ~ 4 0 00080012 00132923 00250029 00517088
+pikënisje n 1 1 @ 1 0 00044148
+kundervenie n 1 1 @ 1 0 00104018
+modë n 1 0 1 0 00089568
+hile n 1 1 @ 1 0 00162626
+udhëtoj_me_makinë n 1 1 @ 1 0 00006627
+plagë n 2 2 @ ~ 2 0 00162187 00509556
+episode n 1 2 %p @ 1 0 00272241
+mi n 2 1 @ 2 0 00233508 00301977
+thyerje n 3 1 @ 3 0 00270873 00307403 00483525
+zgjatje n 2 2 @ ~ 2 0 00160296 00257766
+proçedura_kontroll-kërkimore n 1 0 1 0 00180680
+ushqimor n 1 1 @ 1 0 00449289
+dritë_dielli n 1 1 @ 1 0 00095776
+dioqezë n 2 2 @ ~ 2 0 00098913 00245226
+pëlhurë_e_stampuar n 1 1 @ 1 0 00246849
+parashikim n 1 2 @ ~ 1 0 00340649
+kampion n 1 1 @ 1 0 00183716
+interes n 3 2 @ ~ 3 0 00110226 00269537 00415202
+qiell n 3 3 #p %p @ 3 0 00264393 00318901 00414029
+autorësi n 1 1 @ 1 0 00445500
+aerodrom_i_vogël n 1 2 @ ~ 1 0 00102716
+kavitet n 1 1 @ 1 0 00487175
+foto n 1 1 @ 1 0 00114198
+korrektim n 1 1 @ 1 0 00487455
+nxjerr_nga_puna n 1 1 @ 1 0 00222984
+ushqim_me_drithëra n 1 0 1 0 00442605
+lidhje_bashkëshortore n 1 2 ;c @ 1 0 00071086
+agjenci n 1 2 @ ~ 1 0 00083988
+fauna n 1 4 -c %p @ ~ 1 0 00353243
+venë n 2 1 @ 2 0 00078077 00233021
+stuko n 1 1 @ 1 0 00364409
+shekull n 1 2 %p @ 1 0 00017834
+principi_thelbësorë n 1 2 @ ~ 1 0 00113183
+mjet_prerës n 1 2 @ ~ 1 0 00154852
+simetrik n 1 3 ! ;c @ 1 0 00346129
+mosinteresim n 1 2 ! ~ 1 0 00055494
+rrjedhoje n 1 1 @ 1 0 00052767
+transmetim_kanali n 1 1 @ 1 0 00533128
+veprim_natyror n 1 2 @ ~ 1 0 00284936
+baba_i_madh n 1 1 @ 1 0 00063582
+keqbërës n 1 2 @ ~ 1 0 00222223
+pe n 1 1 @ 1 0 00150916
+tendë_indianësh n 1 1 @ 1 0 00366127
+bujari n 1 0 1 0 00020674
+artileri n 1 1 @ 1 0 00299886
+lartësi n 3 1 @ 3 0 00007594 00434546 00442194
+liturgji n 1 1 @ 1 0 00421778
+muskul n 1 1 @ 1 0 00236464
+njësi_metrike n 1 2 @ ~ 1 0 00183886
+fantazi n 1 1 @ 1 0 00406414
+ustallëk n 1 1 @ 1 0 00329402
+proces_i_njohjes_së_lartë n 1 2 @ ~ 1 0 00067957
+rrudhe n 1 1 #p 1 0 00148063
+mjështër n 1 1 @ 1 0 00061362
+ndarje_në_seksione n 1 1 @ 1 0 00216808
+shtresë n 4 2 @ ~ 4 0 00010455 00128182 00184497 00296687
+lulesë n 1 1 @ 1 0 00314027
+ditë_të_errëta n 1 1 @ 1 0 00113997
+patronazhe n 1 1 @ 1 0 00311020
+shteg n 5 2 @ ~ 5 0 00190931 00228028 00229121 00436306 00468640
+qëlloj_me_armë n 1 1 @ 1 0 00432987
+kek n 1 1 @ 1 0 00238249
+rrugicë n 2 1 @ 2 0 00257655 00513438
+xhiro_me_makinë n 1 1 @ 1 0 00006627
+vagon_treni n 1 1 @ 1 0 00359004
+gjitar_i_ri n 1 2 @ ~ 1 0 00353073
+slot n 1 1 @ 1 0 00068665
+nyjë_e_këmbës n 1 1 #p 1 0 00145902
+sulmues n 1 1 @ 1 0 00455308
+nxehtësi n 1 1 @ 1 0 00492637
+opinioni_publik n 1 1 @ 1 0 00302899
+i_pari n 2 1 @ 2 0 00020924 00529459
+set n 1 1 @ 1 0 00066203
+hesht n 1 1 @ 1 0 00377114
+analgjezik n 1 2 @ ~ 1 0 00005613
+çoj n 1 1 @ 1 0 00316894
+mënyrë_ekzekutim n 1 2 @ ~ 1 0 00001754
+qafa_e_këpucës n 1 1 @ 1 0 00342273
+pjese_e_perparme n 1 1 @ 1 0 00167403
+letër_bixhozi n 1 1 @ 1 0 00038159
+konturë n 1 2 @ ~ 1 0 00423824
+gjah n 1 1 @ 1 0 00058928
+gjethnajë n 1 1 @ 1 0 00127777
+përballe n 1 2 ! @ 1 0 00217780
+kohe n 2 1 @ 2 0 00425890 00426190
+çehre n 1 3 #p %p @ 1 0 00342487
+mashkull n 2 3 ! @ ~ 2 0 00245843 00344473
+kapital_aktiv n 1 0 1 0 00282030
+kapitullim n 1 1 @ 1 0 00159532
+rrjetë_e_thurur n 1 1 @ 1 0 00403338
+drejtë n 1 1 @ 1 0 00016276
+kuzhinë n 3 4 #p -c @ ~ 3 0 00027842 00060124 00455408
+pjesët_fizike_të_kompjuterit n 1 3 ! @ #p 1 0 00239888
+sipërfaqe_e_forte n 1 1 @ 1 0 00065739
+opozite n 2 2 @ ~ 2 0 00405614 00422600
+ekonomizim n 1 1 @ 1 0 00351878
+ceremoni_martesë n 1 1 @ 1 0 00354887
+kolonializëm n 1 1 @ 1 0 00154631
+shkrep n 1 1 @ 1 0 00314423
+plotësim n 1 2 @ ~ 1 0 00075226
+konsum_ekonomik n 1 1 @ 1 0 00495846
+bythë n 1 2 #p @ 1 0 00317869
+shpërblim n 3 3 ! @ ~ 3 0 00129605 00180910 00222434
+gur n 2 2 %s @ 2 0 00196543 00446866
+material_pambuku n 1 1 @ 1 0 00097527
+përsëritje n 1 2 @ ~ 1 0 00532650
+pasngrenie n 1 1 @ 1 0 00021130
+lindor n 1 1 @ 1 0 00057869
+ndermjetes n 2 2 @ ~ 2 0 00141200 00457408
+kat n 1 3 #p @ ~ 1 0 00200698
+roje_sigurimi n 1 2 @ ~ 1 0 00023360
+central_telefonik n 1 1 @ 1 0 00521633
+arsyetim n 3 2 @ ~ 3 0 00081888 00138505 00335330
+mospërfillje n 4 2 @ ~ 4 0 00105763 00165017 00376145 00378750
+sistem n 3 2 @ ~ 3 0 00026702 00369902 00427193
+skicim n 1 1 @ 1 0 00217106
+muskul_tkurrës n 1 2 @ ~ 1 0 00195515
+mbikqyrje n 1 1 @ 1 0 00177360
+pije n 1 2 @ ~ 1 0 00453775
+bllok_godinash n 1 1 @ 1 0 00157461
+mbledhje n 11 3 ;c @ ~ 11 0 00051866 00084891 00150182 00276747 00310497 00316289 00318184 00379257 00474778 00507754 00530478
+datë n 1 1 @ 1 0 00536580
+ndërmarrje_e_vogël n 1 1 @ 1 0 00469974
+ngjyrosje n 1 2 @ ~ 1 0 00471249
+sistemi_nervor n 1 2 #p @ 1 0 00277234
+jetë n 5 2 %p @ 5 0 00092747 00404921 00415330 00452775 00503169
+ngre_me_forcë n 1 1 @ 1 0 00316894
+instrument_me_perkusion n 1 2 @ ~ 1 0 00134587
+burim n 3 1 @ 3 0 00250263 00382130 00484742
+send_i_mprehtë n 1 3 %p @ ~ 1 0 00164195
+përulem n 1 2 @ ~ 1 0 00099030
+kontekst n 1 1 @ 1 0 00407012
+e_gjithë n 1 1 @ 1 0 00486640
+kompjuter n 1 2 %p @ 1 0 00475164
+burrë_afaresh n 1 2 @ ~ 1 0 00197168
+emër_profesion n 1 1 @ 1 0 00176988
+bark n 1 3 #p %p @ 1 0 00280399
+plutonium n 1 1 @ 1 0 00399319
+i_pavdekshem n 1 2 @ ~ 1 0 00473117
+pallto n 1 1 @ 1 0 00521958
+gotë n 1 2 %p @ 1 0 00210246
+pixel n 1 1 @ 1 0 00128628
+goce n 1 2 ! @ 1 0 00414482
+vend_gjeografik n 1 2 @ ~ 1 0 00186673
+pakësim_mishi n 1 1 @ 1 0 00496663
+shprehje_idiomatike n 1 1 @ 1 0 00262807
+tren_postar n 1 1 @ 1 0 00361025
+vagon n 1 1 @ 1 0 00359004
+një_thundrak n 1 3 ! @ ~ 1 0 00144810
+kërcell n 1 2 @ ~ 1 0 00005802
+sulfur n 1 1 %s 1 0 00245970
+pjesë_përbërëse n 1 3 %p @ ~ 1 0 00335538
+repart_ushtarake n 1 2 ;c @ 1 0 00411471
+vjershë n 1 1 @ 1 0 00348790
+gjallëri n 2 1 @ 2 0 00182162 00283020
+restaurim n 1 0 1 0 00538065
+byssus n 1 1 @ 1 0 00460645
+bartës n 1 2 ! @ 1 0 00205622
+vendodhje n 1 1 @ 1 0 00314765
+devocion n 1 2 ;c @ 1 0 00253533
+bashkiak n 1 1 @ 1 0 00497158
+vend_fundor n 1 1 @ 1 0 00147264
+personizim n 1 2 @ ~ 1 0 00341874
+ëmbëltorë n 1 2 @ ~ 1 0 00330204
+bllok_katror n 1 2 @ ~ 1 0 00234277
+akuzim n 1 2 @ ~ 1 0 00252276
+pluhurzim n 1 1 @ 1 0 00368116
+të_ardhura_financiare n 1 2 @ ~ 1 0 00150072
+aventurë n 1 1 @ 1 0 00288311
+vaskë n 1 2 #p @ 1 0 00503702
+të_akuzosh n 1 2 @ ~ 1 0 00252276
+e_plote n 1 3 %p @ ~ 1 0 00231399
+mould n 1 1 @ 1 0 00443099
+epsh n 1 1 @ 1 0 00169505
+tundje n 1 1 @ 1 0 00052634
+qenie_supreme n 1 2 @ ~ 1 0 00473117
+material n 5 2 @ ~ 5 0 00054071 00055607 00199055 00253887 00490465
+vyrtuos n 1 1 @ 1 0 00183716
+teknologji n 1 1 @ 1 0 00158496
+pronë n 3 2 @ ~ 3 0 00107179 00426423 00532268
+legjislaturë n 1 2 @ ~ 1 0 00266831
+instrumentist n 1 2 #m @ 1 0 00321472
+nënçati n 1 2 #p @ 1 0 00317015
+arterie n 1 1 @ 1 0 00070071
+biznesmen n 2 2 @ ~ 2 0 00197168 00336494
+pendant n 1 1 @ 1 0 00517655
+buzë n 1 3 #p %p @ 1 0 00525346
+primat n 1 2 @ ~ 1 0 00187699
+dokument_zyrtar n 1 3 ;c @ ~ 1 0 00087227
+program_librarie n 1 1 @ 1 0 00038006
+fillesë n 1 1 @ 1 0 00465776
+gjedhe n 1 2 @ ~ 1 0 00439046
+mos_ekzistencës n 1 3 ! @ ~ 1 0 00513859
+kosto n 1 1 ~ 1 0 00370183
+përkrahje_sociale n 1 2 @ ~ 1 0 00251710
+anë_,_buzë n 1 1 @ 1 0 00476852
+shportë n 1 1 @ 1 0 00195658
+ekspozim_pikturë n 1 2 -c @ 1 0 00262194
+dërgesë n 1 1 @ 1 0 00214675
+paradë n 1 0 1 0 00142157
+faturë_pagesë n 1 0 1 0 00417928
+pozitë n 1 1 ~ 1 0 00077837
+tornim n 1 2 @ ~ 1 0 00352957
+hyjni n 1 2 @ ~ 1 0 00473117
+ruajtje n 1 1 @ 1 0 00063281
+makinë n 2 3 %p @ ~ 2 0 00207615 00523791
+politike n 1 1 @ 1 0 00420338
+vjedhje n 1 1 @ 1 0 00049121
+proze n 1 2 @ ~ 1 0 00393871
+urë n 1 2 %p @ 1 0 00337135
+hark n 3 4 ! #p @ ~ 3 0 00007159 00302517 00396818
+feste_politike n 1 2 #m @ 1 0 00453952
+dimër n 1 1 @ 1 0 00393687
+vëllazëri n 3 2 @ ~ 3 0 00066975 00092405 00177110
+brigadë n 1 2 #m @ 1 0 00012972
+principi_jetësor n 1 2 @ ~ 1 0 00113183
+grup_farefisnor n 1 3 ~ @ %m 1 0 00420682
+sekrtetare n 1 1 @ 1 0 00258711
+vend_i_rrethuar n 1 2 @ ~ 1 0 00101776
+shtizë n 1 1 @ 1 0 00143667
+magazinoj n 1 1 @ 1 0 00214794
+bazë_ushtarake n 1 2 ;c @ 1 0 00301399
+egoizëm n 1 1 @ 1 0 00057546
+respekt n 1 1 @ 1 0 00117846
+përmendore n 1 1 @ 1 0 00477321
+fermë n 1 1 @ 1 0 00269699
+keqardhje n 2 2 @ ~ 2 0 00181398 00502964
+predhë_drejtuese_shkatërruese n 1 1 @ 1 0 00526715
+kati_i_parë n 1 1 @ 1 0 00124983
+krim_i_organizuar n 1 2 @ %m 1 0 00287746
+lidhje_e_perkohshme n 1 1 @ 1 0 00457171
+ndërmjetësi n 1 1 @ 1 0 00017081
+mbajtje n 1 1 @ 1 0 00149806
+kremtim n 1 2 @ ~ 1 0 00025737
+sinjalizim n 1 2 @ ~ 1 0 00518432
+amvise n 1 1 @ 1 0 00479972
+gaz n 5 2 ! @ 5 0 00100663 00145626 00292197 00417365 00424156
+akti_i_te_folurit n 1 2 @ ~ 1 0 00329042
+shi n 1 1 @ 1 0 00040759
+ngarkesë n 2 1 @ 2 0 00050423 00388201
+paprekshmëri n 1 0 1 0 00099719
+organizim n 4 3 ~ @ %m 4 0 00047372 00139960 00450196 00531402
+gur_i_themelit n 1 1 @ 1 0 00416552
+gjykatës n 1 1 @ 1 0 00061611
+link n 1 2 @ ~ 1 0 00040878
+rruga_e_jetës n 1 1 @ 1 0 00521250
+burim_drite n 1 1 @ 1 0 00207422
+aromatik n 1 2 @ ~ 1 0 00066288
+humor n 1 0 1 0 00512249
+rëndomësi n 1 2 ! @ 1 0 00278533
+madhështi n 2 1 @ 2 0 00067394 00130537
+tualet n 1 1 @ 1 0 00417102
+jesnaf n 1 1 @ 1 0 00105214
+mungesë n 2 2 @ ~ 2 0 00372660 00469496
+thikë n 1 1 @ 1 0 00293436
+komunitet n 1 2 @ ~ 1 0 00408754
+vendi_i_punës n 1 2 @ ~ 1 0 00252693
+copë_veshjesh n 1 2 @ ~ 1 0 00486085
+koncept n 1 2 @ ~ 1 0 00365718
+mësim n 1 1 @ 1 0 00108440
+kokë n 3 3 #p %p @ 3 0 00107963 00131994 00429348
+funksionim n 1 1 @ 1 0 00304546
+thenie n 1 2 @ ~ 1 0 00228393
+njohuri_bazë n 1 2 @ ~ 1 0 00389192
+heje n 1 1 @ 1 0 00222984
+sjell_vërdallë n 1 1 @ 1 0 00157350
+kopsht n 1 1 @ 1 0 00148390
+kontroll_dhe_pagesë n 1 0 1 0 00180680
+njëri n 1 1 @ 1 0 00466646
+entuziazëm n 1 0 1 0 00044706
+karshillek n 1 1 @ 1 0 00482282
+rojtar n 1 1 @ 1 0 00121707
+tatim n 1 1 @ 1 0 00144713
+instrument n 1 2 @ ~ 1 0 00137196
+kontrolloj_me_ngulm n 1 1 @ 1 0 00320602
+pambuk n 1 1 @ 1 0 00048816
+mosqënie n 2 3 ! @ ~ 2 0 00350793 00494316
+këmishë n 1 1 @ 1 0 00306545
+paqe n 1 1 @ 1 0 00434169
+lente n 1 1 @ 1 0 00210968
+qëndrim n 4 2 @ ~ 4 0 00237314 00367439 00407700 00447681
+problem_shëndetësor n 1 1 ~ 1 0 00332188
+kafshë n 1 4 -c %p @ ~ 1 0 00353243
+inxhinieri n 1 1 @ 1 0 00158496
+plasje n 3 1 @ 3 0 00041919 00307403 00418673
+yndyrë n 1 1 @ 1 0 00188309
+sekrecion n 1 2 @ ~ 1 0 00396098
+sasi_e_vogël n 1 2 @ ~ 1 0 00438202
+mjet_transporti_me_rrotë n 1 3 %p @ ~ 1 0 00135845
+strukture_frazë n 1 1 @ 1 0 00262807
+rivendosje n 2 2 @ ~ 2 0 00322415 00538065
+atletikë n 1 3 -c @ ~ 1 0 00363223
+punëtor_i_trajnuar n 1 2 @ ~ 1 0 00535019
+larvë n 1 1 @ 1 0 00167211
+rritje n 10 4 ! ;c @ ~ 10 0 00032607 00109384 00120895 00178052 00253324 00271354 00318184 00391535 00401389 00500439
+rafinim n 1 1 @ 1 0 00487455
+erashkë n 1 1 @ 1 0 00479214
+brixh n 1 1 @ 1 0 00121233
+shpirt n 4 4 %p #m @ ~ 4 0 00030132 00037723 00093924 00421419
+njohuri_teknike n 1 2 @ ~ 1 0 00451054
+dialog n 1 1 @ 1 0 00064791
+proçes_i_organizmit n 1 2 @ ~ 1 0 00418972
+debate n 1 1 @ 1 0 00079250
+të_ardhura n 2 1 @ 2 0 00235505 00284355
+pëlqim n 1 2 ! ~ 1 0 00218106
+grup_gjaku n 1 1 @ 1 0 00353714
+frikësim n 1 2 @ ~ 1 0 00083363
+strukturë_fizike n 2 4 %p ;c @ ~ 2 0 00126862 00482879
+brejtës n 1 2 @ ~ 1 0 00244694
+force_krahu n 1 3 ~ @ %m 1 0 00113707
+bimë_drunore n 1 2 @ ~ 1 0 00431510
+kacube n 1 1 @ 1 0 00499930
+grykë n 2 1 @ 2 0 00253460 00293673
+mossukses n 1 2 @ ~ 1 0 00373059
+kthej_mbrapsht n 1 1 @ 1 0 00367890
+lojë_e_marrë n 1 2 @ ~ 1 0 00283182
+emër n 1 2 @ ~ 1 0 00304237
+jo_emocional n 1 2 @ ~ 1 0 00321244
+sezon_shkollor n 1 1 @ 1 0 00517218
+shtëpizë n 1 1 @ 1 0 00206727
+kuti_teneqe n 1 1 @ 1 0 00239200
+pronësi n 1 1 @ 1 0 00475052
+aktivitet_ndijor n 1 2 @ ~ 1 0 00206884
+lëkundje n 1 1 @ 1 0 00052634
+artist n 1 2 @ ~ 1 0 00519434
+magazinim n 1 1 @ 1 0 00214794
+vendim_gjyqësorë n 1 3 ;c @ ~ 1 0 00504790
+bimë n 2 5 #p -c %p @ ~ 2 0 00045036 00100804
+radhë_e_gjuajtjeve n 1 2 #p @ 1 0 00500818
+balle n 1 1 @ 1 0 00167403
+kërthizë n 1 2 #p @ 1 0 00243525
+pëshpërimë n 1 1 @ 1 0 00505414
+përpunimi_i_të_dhënave n 1 2 %p @ 1 0 00475164
+autor n 1 2 @ ~ 1 0 00189689
+koloni n 2 2 ;c @ 2 0 00248384 00277082
+lëndë_ushqyese n 1 1 ~ 1 0 00345872
+derrkuc n 1 1 @ 1 0 00392414
+vëzhgues n 1 1 @ 1 0 00121707
+anëtarësim n 1 2 @ ~ 1 0 00411170
+fletë_e_hollë n 1 2 @ ~ 1 0 00369062
+sistemi_i_përpunimit_të_informacionit n 1 2 %p @ 1 0 00475164
+reciprocitet n 1 1 @ 1 0 00512479
+poem n 1 1 @ 1 0 00348790
+arrestim n 1 1 @ 1 0 00149806
+forma_e_fjalës n 1 2 ;c @ 1 0 00285222
+ndryshim_i_madhësisë n 1 2 @ ~ 1 0 00142806
+capital n 1 1 @ 1 0 00532774
+kompetent n 1 1 @ 1 0 00183716
+kumar n 1 1 @ 1 0 00272013
+konkav n 1 1 @ 1 0 00328926
+provë n 2 1 @ 2 0 00136111 00489976
+kronike n 1 2 @ ~ 1 0 00150650
+sistem_politike n 1 3 ~ @ %m 1 0 00400792
+vizatim n 2 2 @ ~ 2 0 00217106 00486760
+eventet_e_shitjes n 1 0 1 0 00071451
+pjesëmarrjes n 1 2 @ ~ 1 0 00440931
+situatë n 2 2 @ ~ 2 0 00141791 00382538
+gjobis n 1 1 @ 1 0 00334427
+makanizëm n 1 2 @ ~ 1 0 00068298
+konkluzion n 3 3 #p @ ~ 3 0 00237675 00357097 00408913
+shqyrtim n 1 2 @ ~ 1 0 00443538
+formulim n 1 2 @ ~ 1 0 00176286
+grimcë n 4 1 @ 4 0 00039944 00045574 00074603 00091554
+orë_mësimore n 1 1 ~ 1 0 00525661
+gjëmim n 3 1 @ 3 0 00041919 00114914 00288193
+ashpërsi n 1 1 @ 1 0 00235330
+aparat n 3 2 @ ~ 3 0 00146065 00248490 00478316
+shpërndaj n 1 2 @ ~ 1 0 00402756
+trishtim n 2 3 ! @ ~ 2 0 00302250 00460510
+gumezhitje n 1 1 @ 1 0 00292014
+energji_elektrike n 2 1 @ 2 0 00042041 00243821
+kundërmim n 1 2 @ ~ 1 0 00372099
+ndryshëm n 1 3 ! @ ~ 1 0 00096405
+stërvitem n 2 2 @ ~ 2 0 00338715 00489530
+zotërim n 4 1 @ 4 0 00023488 00301073 00465373 00465671
+lloj_tendencë n 1 1 @ 1 0 00313892
+venat_e_gjakut n 1 1 @ 1 0 00233021
+poshtërsi n 2 0 2 0 00189512 00294309
+grup_ushtarak n 1 5 ;c ~ #m @ %m 1 0 00291565
+marifetë n 1 1 @ 1 0 00405259
+paratrinë n 1 0 1 0 00438795
+ferrë n 1 1 @ 1 0 00499930
+bllokim n 2 2 @ ~ 2 0 00099143 00436945
+pozicionoj n 1 1 @ 1 0 00237540
+komisioner n 1 1 @ 1 0 00012831
+rrengjethem n 1 1 @ 1 0 00069091
+drogë n 1 2 -c ~ 1 0 00214310
+tyl n 1 1 @ 1 0 00029869
+material_ndërtimi n 1 1 @ 1 0 00377204
+fetë n 2 2 @ ~ 2 0 00421014 00468060
+vagon_tramvaji n 1 1 @ 1 0 00359004
+merak n 3 2 @ ~ 3 0 00260509 00445406 00535673
+zgavra_e_trupit n 1 3 #p @ ~ 1 0 00473695
+mendjehollë n 1 2 ;c @ 1 0 00278839
+fjale n 2 3 %p @ ~ 2 0 00240909 00492522
+pllakë n 1 1 @ 1 0 00526331
+lëvore n 1 1 @ 1 0 00350210
+shishe n 1 1 @ 1 0 00211304
+gjeni n 1 1 @ 1 0 00183716
+jastëk n 1 2 @ ~ 1 0 00048313
+depo n 2 3 %p @ ~ 2 0 00032788 00136674
+pjese_toke n 1 2 @ ~ 1 0 00057097
+themelim n 2 1 @ 2 0 00047372 00531402
+lëvizje_rrotulluese n 1 2 @ ~ 1 0 00025011
+njeri n 3 6 -c @ %p %m ~ #m 3 0 00093924 00151344 00464946
+qytezë n 1 1 @ 1 0 00403236
+toke_e_bashkisë n 1 2 #p @ 1 0 00253714
+shkëmbim n 1 1 @ 1 0 00356715
+dritë_e_diellit n 1 1 @ 1 0 00095776
+tempull n 2 2 @ ~ 2 0 00448342 00473893
+kohë_kozmike n 1 2 @ ~ 1 0 00161704
+inspektim n 1 0 1 0 00187997
+ambicion n 1 1 @ 1 0 00161331
+rrezatim_i_dukshëm n 1 3 ;c @ ~ 1 0 00013101
+kapacitet_mendor n 1 1 @ 1 0 00028973
+dredh n 1 0 1 0 00023910
+funksion_social n 1 2 @ ~ 1 0 00017433
+kambanë n 1 1 @ 1 0 00439843
+producent n 1 0 1 0 00441703
+i_egër n 1 1 @ 1 0 00242228
+fytyrë n 3 3 #p @ ~ 3 0 00333983 00428703 00444214
+çast n 2 2 @ ~ 2 0 00086301 00152930
+fibër n 1 2 @ ~ 1 0 00534500
+varg_shkallaresh n 1 0 1 0 00116563
+gangsterë n 1 2 @ %m 1 0 00287746
+llafe n 1 1 @ 1 0 00308687
+mjet_vetëlëvizëse n 1 1 ~ 1 0 00148551
+kureshtje n 1 2 @ ~ 1 0 00136278
+majë n 1 1 @ 1 0 00372832
+mundohem n 2 2 @ ~ 2 0 00229854 00241529
+operacion n 5 3 ;c @ ~ 5 0 00060675 00089332 00164042 00304546 00379366
+ngjarje n 3 3 @i @ ~ 3 0 00042652 00152615 00409309
+vije_uji n 1 2 @ ~ 1 0 00215851
+dalje n 4 2 @ ~ 4 0 00153522 00435592 00471549 00475805
+moment n 2 2 @ ~ 2 0 00152930 00264155
+aktiviteti_njerëzor n 1 2 @ ~ 1 0 00476098
+këshillë n 1 1 @ 1 0 00344651
+agjent_i_çështjeve_gjyqësorë n 1 1 ~ 1 0 00419450
+histori_dashurie n 2 1 @ 2 0 00075773 00421950
+john_barleycorn n 1 1 ~ 1 0 00373862
+karies_dentar n 1 1 @ 1 0 00487175
+qeveri n 1 1 @ 1 0 00515714
+stok n 1 1 @ 1 0 00449509
+seksi n 1 1 @ 1 0 00009742
+radha n 1 3 #p ;c @ 1 0 00530062
+kyç n 1 1 @ 1 0 00431116
+foshnjë n 1 1 @ 1 0 00439435
+prodhime n 1 1 ~ 1 0 00261826
+ndjeshmeri n 1 1 @ 1 0 00054639
+shëndet_mendor n 1 3 ! @ ~ 1 0 00147364
+prof n 1 1 @ 1 0 00042748
+motër n 1 1 @ 1 0 00062300
+fuqi n 7 4 = ! @ ~ 7 0 00020789 00102439 00143555 00192557 00346733 00487907 00508933
+maskim n 1 1 @ 1 0 00268712
+aspekt n 2 2 @ ~ 2 0 00106484 00247045
+pergjigje n 2 1 @ 2 0 00435754 00452157
+shtegtim n 1 2 @ ~ 1 0 00023225
+rivihem n 1 1 @ 1 0 00538398
+rroba n 2 2 @ ~ 2 0 00256797 00318639
+faltore n 1 2 @ ~ 1 0 00448342
+manovër n 3 3 #p @ ~ 3 0 00123297 00275987 00347960
+departament n 1 1 @ 1 0 00348679
+natyralizëm n 1 1 @ 1 0 00043462
+organ_i_tkurrur n 1 2 @ ~ 1 0 00195515
+kafe n 1 1 @ 1 0 00511578
+ndryshim_ngjarjeje n 1 1 @ 1 0 00346609
+shpejtë n 1 0 1 0 00459562
+ushtë n 1 1 @ 1 0 00143667
+arsim n 1 2 @ ~ 1 0 00175527
+produkti_përfundimtar n 1 1 @ 1 0 00498561
+tërheqje_fizike n 1 1 @ 1 0 00169505
+klasat_e_fjalës n 1 1 @ 1 0 00204280
+qetësues n 2 2 @ ~ 2 0 00005613 00199179
+persekutim n 1 2 ;c @ 1 0 00245682
+transportim n 3 2 @ ~ 3 0 00015314 00381978 00534905
+hamshorë n 1 1 @ 1 0 00174085
+besim_fetar n 1 2 -c @ 1 0 00384222
+referim n 1 1 @ 1 0 00036287
+përkulje n 2 2 @ ~ 2 0 00007159 00511324
+crustacean n 1 1 @ 1 0 00065857
+mbëshjellës n 1 2 @ ~ 1 0 00246337
+grumbulloj n 2 2 @ ~ 2 0 00214794 00330556
+prehistori n 1 1 @ 1 0 00500978
+unifikim n 2 2 @ ~ 2 0 00256523 00309068
+bar n 2 3 %p @ ~ 2 0 00021601 00321735
+gurr_ne_veshka n 1 1 @ 1 0 00487021
+perde n 2 2 @ ~ 2 0 00022917 00163074
+njeri_profesionist n 1 1 ~ 1 0 00311658
+hap_zjarr n 1 1 @ 1 0 00232679
+shpejtësi n 2 0 2 0 00012169 00459562
+bord_i_majtë n 1 1 @ 1 0 00110064
+varg n 5 2 #p @ 5 0 00117502 00148191 00250500 00289248 00311948
+mosveprim n 1 3 ! @ ~ 1 0 00181892
+bartje n 1 2 @ ~ 1 0 00391001
+aktualisht n 1 1 @ 1 0 00365254
+thelb n 2 1 @ 2 0 00126000 00499365
+druajtje n 1 1 @ 1 0 00445406
+dukuri_optike n 1 2 @ ~ 1 0 00147564
+lagje n 2 2 @ ~ 2 0 00007457 00179205
+shpirt_njëri n 1 1 @ 1 0 00223356
+përkund n 1 1 @ 1 0 00052634
+shenjues n 1 1 @ 1 0 00490788
+kujdes_mjekësor n 1 1 @ 1 0 00494930
+kadife n 1 1 @ 1 0 00418148
+shpinë n 1 2 #p @ 1 0 00224641
+polarizim n 1 1 @ 1 0 00502718
+depozitim n 1 1 @ 1 0 00197559
+biçikletë n 1 1 @ 1 0 00362702
+faj n 1 0 1 0 00066592
+ekuilibrim n 1 1 @ 1 0 00387569
+sjellje n 5 3 ;c @ ~ 5 0 00033942 00214915 00313604 00380725 00447681
+madhësi n 3 3 = @ ~ 3 0 00004575 00219522 00278256
+fruta_te_ngrënshme n 1 2 @ ~ 1 0 00353821
+art_dramatik n 1 2 -c @ 1 0 00497802
+riparoj n 1 1 @ 1 0 00134360
+mision n 1 1 @ 1 0 00517088
+shumicë n 1 1 @ 1 0 00325210
+dituri n 1 2 @ ~ 1 0 00393989
+shkenca_e_biologjisë n 1 2 -c @ 1 0 00157765
+bllokoj n 1 1 @ 1 0 00436945
+fill n 1 1 @ 1 0 00150916
+jovertebror n 1 3 %p @ ~ 1 0 00030447
+publikim n 1 3 %p @ ~ 1 0 00073094
+sistem_i_njehsueshëm n 1 2 @ ~ 1 0 00256321
+mëshirim n 1 1 @ 1 0 00120084
+efekt n 2 2 @ ~ 2 0 00102439 00305746
+bluaj n 1 1 @ 1 0 00508513
+xhentilesë n 1 1 @ 1 0 00354608
+faktor n 3 2 @ ~ 3 0 00012831 00311342 00407012
+kthim_mbrapa n 1 1 @ 1 0 00177760
+strehim n 2 2 #p @ 2 0 00317587 00446962
+sipërfaqe_konkave n 1 1 @ 1 0 00328926
+lidhje_gjuhësorë n 1 2 @ ~ 1 0 00394542
+kultivim n 1 3 ;c @ ~ 1 0 00186156
+fluturim n 2 1 @ 2 0 00451912 00534408
+shok_i_ngushte n 1 1 @ 1 0 00481637
+vëzhgim n 1 1 @ 1 0 00121707
+sasi n 7 2 @ ~ 7 0 00016810 00182910 00270962 00275379 00351727 00375765 00499115
+lojë_e_lozur_në_lokale n 1 2 @ ~ 1 0 00529327
+stinë n 1 3 #p @ ~ 1 0 00126571
+libër_llogarish n 1 1 @ 1 0 00225776
+bote n 4 3 %p @ %m 4 0 00007951 00464946 00489234 00530912
+stil_letrar n 1 2 @ ~ 1 0 00397787
+ishull n 2 1 @ 2 0 00305595 00524802
+shërbim_i_armatosur n 1 4 ~ ;c @ %m 1 0 00282513
+ndërtim n 2 3 %p @ ~ 2 0 00104292 00428571
+pikturë n 5 2 -c @ 5 0 00114198 00217106 00262194 00292698 00491914
+lidhje_logjike n 1 2 @ ~ 1 0 00063954
+prejardhes n 1 2 @ ~ 1 0 00355508
+njohuri_shkencore n 1 2 %p @ 1 0 00526042
+tregti n 3 4 -c %p @ ~ 3 0 00014824 00061190 00386132
+varr n 1 1 @ 1 0 00026370
+ngarkim n 3 2 @ ~ 3 0 00050423 00185959 00388201
+pb n 1 1 @ 1 0 00512911
+karikaturë n 1 1 @ 1 0 00209136
+version n 1 1 @ 1 0 00170135
+marr n 2 2 @ ~ 2 0 00061483 00212499
+njërëz_te_thjeshte n 1 2 @ ~ 1 0 00029282
+kompleks n 1 1 @ 1 0 00116152
+grup_profesional n 1 2 @ ~ 1 0 00182672
+turn n 1 1 @ 1 0 00160567
+territor n 3 2 @ ~ 3 0 00043153 00245226 00438381
+parcel n 1 2 @ ~ 1 0 00057097
+pale n 1 1 @ 1 0 00508819
+rast n 4 2 @ ~ 4 0 00004900 00042652 00089189 00391800
+eshtra n 1 1 @ 1 0 00197451
+desert n 1 1 @ 1 0 00021130
+allçi n 1 1 @ 1 0 00364409
+skaj n 5 2 @ ~ 5 0 00048530 00118406 00266530 00462400 00522749
+mëkat_i_vdekshëm n 1 2 @ ~ 1 0 00224409
+plani_i_aktit n 1 3 %p @ ~ 1 0 00446722
+portretizim n 1 2 @ ~ 1 0 00003709
+gëzof n 1 1 @ 1 0 00350210
+ftese n 1 1 @ 1 0 00098793
+stop n 1 1 @ 1 0 00256244
+impiant_ngrohje n 1 2 #p @ 1 0 00150330
+hotel n 2 2 @ ~ 2 0 00405035 00451206
+zbatonjës n 1 2 @ ~ 1 0 00105031
+flora n 2 6 -c @ %p ~ ;c #m 2 0 00100804 00518169
+vendos n 2 1 @ 2 0 00212261 00237540
+paqartësi n 1 3 ! @ ~ 1 0 00021828
+proteinë n 1 1 #s 1 0 00323777
+ekonomat n 1 2 @ ~ 1 0 00440653
+ndreq n 2 2 @ ~ 2 0 00134360 00463907
+ushtarak n 1 2 ;c @ 1 0 00075612
+aspirin n 1 1 @ 1 0 00120180
+liste n 1 3 %p @ ~ 1 0 00262617
+mik n 2 1 @ 2 0 00481637 00525186
+kalama n 2 4 ! #m @ ~ 2 0 00149302 00525045
+vë_në_lëvizje n 1 1 @ 1 0 00354729
+frymëmarrje n 1 1 @ 1 0 00453520
+prind_mashkull n 1 2 ! @ 1 0 00470741
+artikull_i_fortë n 1 1 @ 1 0 00380910
+waste_product n 1 1 @ 1 0 00125216
+futboll n 1 2 %p @ 1 0 00385148
+birrari n 1 1 @ 1 0 00021601
+djathtas n 1 1 @ 1 0 00323393
+njërëz_me_kolor n 1 1 @ 1 0 00384660
+nënndarje n 2 3 ;c @ ~ 2 0 00142672 00434773
+shoqërim n 2 1 @ 2 0 00250615 00283887
+dukuri_organike n 1 3 ;c @ ~ 1 0 00457553
+mëngjes n 2 2 #p @ 2 0 00149048 00394312
+mall_i_djegur n 1 1 ~ 1 0 00146984
+kat_përdhese n 1 1 @ 1 0 00124983
+abonim n 2 2 #p @ 2 0 00038006 00258478
+dridhje n 1 1 @ 1 0 00069091
+material_shkrimi n 1 1 @ 1 0 00255795
+sulm_i_furishëm n 1 3 ;c @ ~ 1 0 00515230
+publik n 1 2 @ %m 1 0 00530912
+pjesë_bime n 1 3 #p @ ~ 1 0 00389433
+aeroplan n 1 1 -c 1 0 00400094
+aeroport n 1 1 @ 1 0 00417671
+para_të_thata n 1 1 @ 1 0 00378504
+padepërtueshmëri n 1 1 @ 1 0 00067789
+proçes n 2 2 @ ~ 2 0 00178052 00355239
+pike_e_mesit n 1 1 @ 1 0 00077954
+waste_matter n 1 1 @ 1 0 00125216
+padallueshmëri n 1 1 @ 1 0 00412272
+kumbim n 2 1 @ 2 0 00194909 00332624
+kuadër n 1 1 @ 1 0 00114198
+prapësi n 2 1 @ 2 0 00210136 00374557
+muaj n 2 4 #p %p @ ~ 2 0 00020294 00520309
+pranim n 1 1 @ 1 0 00375589
+koha_pranverore n 1 1 @ 1 0 00180812
+zinxhir n 2 4 #p %p ;c @ 2 0 00321339 00321608
+pije_alkoolike n 2 2 @ ~ 2 0 00373862 00453775
+mbajtës n 1 2 @ ~ 1 0 00429708
+luftanije n 1 4 ;c #m @ ~ 1 0 00529761
+front n 1 1 @ 1 0 00386654
+grumbullim n 4 2 @ ~ 4 0 00050833 00276747 00282145 00316289
+mbetje n 3 2 @ ~ 3 0 00182797 00359721 00373059
+rrëke n 1 2 @ ~ 1 0 00425737
+autonomi n 1 1 @ 1 0 00070359
+referencë n 1 1 @ 1 0 00155174
+gojë n 1 2 #p %p 1 0 00034155
+grackë n 1 0 1 0 00080944
+i_burgosur n 2 2 @ ~ 2 0 00254550 00284492
+person_femëror n 1 3 ! @ ~ 1 0 00239479
+cokollate n 1 0 1 0 00218212
+poshtërim n 1 1 @ 1 0 00019116
+klasifikim n 1 1 @ 1 0 00263265
+betejë n 5 5 #p %p ;c @ ~ 5 0 00047959 00188087 00207279 00348498 00388400
+individ n 1 4 %p #m @ ~ 1 0 00093924
+dollap_rrobash n 1 1 @ 1 0 00006925
+panjerëzi n 1 2 @ ~ 1 0 00421533
+gdhendje_me_shkronja n 1 1 @ 1 0 00419956
+mall n 3 2 @ ~ 3 0 00035786 00125372 00524575
+lidhje_biznesi n 1 2 @ ~ 1 0 00178583
+ambicie n 1 1 @ 1 0 00011322
+stadium n 1 2 %p @ 1 0 00390487
+proçes_gjeologjik n 1 2 @ ~ 1 0 00088243
+informacion n 3 2 @ ~ 3 0 00378048 00392680 00493045
+mjetet_e_tualetit n 1 2 @ ~ 1 0 00410679
+zotni n 1 1 @ 1 0 00119837
+figure n 1 2 @ ~ 1 0 00205198
+ecje n 3 2 @ ~ 3 0 00055999 00243690 00246955
+reshje n 2 2 @ ~ 2 0 00040759 00104142
+aksident_i_pashmangshëm n 1 0 1 0 00527078
+fare n 1 2 @ ~ 1 0 00272951
+kënd n 4 2 #p @ 4 0 00067544 00147120 00389068 00519364
+mbështjellës n 1 2 @ ~ 1 0 00244236
+plumbë n 1 1 @ 1 0 00435886
+propozim n 3 2 @ ~ 3 0 00027096 00152828 00221081
+liqen n 1 2 -c @ 1 0 00531845
+pedagog n 2 2 @ ~ 2 0 00271241 00401168
+çudi n 1 1 ~ 1 0 00355400
+pjatëz n 1 2 @ ~ 1 0 00277991
+krijim_artistik n 1 2 -c @ 1 0 00333111
+rënie n 3 2 @ ~ 3 0 00104142 00260258 00360271
+thundrak n 1 3 %p @ ~ 1 0 00093523
+gjendje_njohëse n 1 2 @ ~ 1 0 00356331
+rrëfenjë n 1 1 @ 1 0 00077563
+i_lugët n 1 1 @ 1 0 00328926
+mineral n 1 2 #s @ 1 0 00324278
+grevë_urie n 1 1 @ 1 0 00462100
+legjislacion n 2 3 -c ;c @ 2 0 00264938 00498734
+dosje_te_dhënash n 1 1 @ 1 0 00464817
+hapësirë_ndarje n 1 2 @ ~ 1 0 00123577
+surprizë n 1 2 @ ~ 1 0 00182054
+short n 1 0 1 0 00092275
+dëgjoj n 1 1 @ 1 0 00327811
+manaxhues n 1 1 @ 1 0 00333861
+pileus n 1 2 #p @ 1 0 00015689
+kombëtar n 1 3 #m @ ~ 1 0 00502400
+zanat n 3 2 @ ~ 3 0 00037330 00258364 00329402
+europian n 1 1 @ 1 0 00492306
+port_detar n 1 1 @ 1 0 00529061
+apartament n 2 1 @ 2 0 00420052 00512064
+arme n 1 1 @ 1 0 00299886
+shenjë n 7 2 @ ~ 7 0 00133615 00144077 00205849 00301874 00473347 00490788 00518432
+siguri n 6 3 ! @ ~ 6 0 00003973 00046474 00051444 00268932 00446962 00447041
+hapsire_topologjike n 1 2 ;c @ 1 0 00483376
+mentalitet n 1 1 @ 1 0 00149697
+kërci n 1 2 #p @ 1 0 00122406
+alkanë n 1 0 1 0 00060022
+element_përbërës n 1 2 @ ~ 1 0 00311342
+rrihem_me_grushta n 1 2 -c ~ 1 0 00201839
+punë_e_rëndë n 2 2 @ ~ 2 0 00293115 00449860
+nisje n 5 2 @ ~ 5 0 00149175 00194290 00503453 00511949 00534905
+vdekshmëria n 1 0 1 0 00340967
+oorganizate n 1 1 @ 1 0 00531402
+kufi_verior n 1 1 @ 1 0 00388085
+luginë n 1 0 1 0 00346994
+gjyqtar n 1 1 @ 1 0 00061611
+përbërje n 1 2 @ ~ 1 0 00042887
+lexim_publik n 1 1 @ 1 0 00368210
+art_gatimi n 1 1 @ 1 0 00027842
+vend_i_thatë n 1 3 #p @ ~ 1 0 00103053
+fyes n 1 2 @ ~ 1 0 00421533
+fatkeqesi n 1 2 @ ~ 1 0 00380597
+gjendje_e_keqe n 1 1 @ 1 0 00064905
+lidhje_gjaku n 1 2 @ ~ 1 0 00009961
+kishë n 2 4 -c %p ;c @ 2 0 00052940 00456373
+përshkoj n 1 1 @ 1 0 00002822
+pandershmëri n 1 2 @ ~ 1 0 00270273
+përkeqësim n 1 1 @ 1 0 00025150
+oficer_policie n 1 2 #m @ 1 0 00068767
+mburojë n 2 2 ;c @ 2 0 00034907 00422215
+perbri n 1 2 @ ~ 1 0 00001633
+gjë_e_trashëguar n 1 0 1 0 00489712
+pergjigje_me_shkrim n 1 2 ;c @ 1 0 00497987
+moçal n 2 1 @ 2 0 00371689 00515903
+pasdite n 1 1 @ 1 0 00051344
+cohë n 1 2 @ ~ 1 0 00121331
+testoj n 1 1 @ 1 0 00489976
+akord n 1 2 @ ~ 1 0 00007727
+pakënaqësi n 1 2 @ ~ 1 0 00093422
+zënie n 1 1 @ 1 0 00288663
+një_gropë_në_tokë n 1 2 @ ~ 1 0 00156079
+avokat n 2 2 ;c @ 2 0 00116701 00382713
+huadhënie n 1 1 @ 1 0 00522650
+folur n 1 1 @ 1 0 00069373
+muze n 1 1 @ 1 0 00274959
+çizme n 1 1 @ 1 0 00168054
+shpatull n 1 2 #p @ 1 0 00180474
+profesionist_shëndeti n 1 2 @ ~ 1 0 00512587
+te_dhëna n 1 1 @ 1 0 00392680
+vendimares n 1 2 @ ~ 1 0 00010152
+pastë n 1 1 @ 1 0 00294216
+material_bimore n 1 2 @ ~ 1 0 00179446
+zbavitje n 2 2 @ ~ 2 0 00209520 00378903
+udhëheq n 1 1 @ 1 0 00103445
+figurë_planare n 1 2 @ ~ 1 0 00253176
+mbështjellëse n 1 2 @ ~ 1 0 00163074
+kombinoj n 1 2 @ ~ 1 0 00163279
+pajisje_elektronike n 1 2 @ ~ 1 0 00144980
+ekzistence n 1 3 %p @ %m 1 0 00007951
+konfiguracion n 1 0 1 0 00476684
+magnet n 1 2 ;c @ 1 0 00347246
+efekthmëri n 1 1 @ 1 0 00102439
+kuti n 2 1 @ 2 0 00239200 00367652
+lidhje_dashurore n 1 1 @ 1 0 00421950
+ndihmat_mësimore n 1 1 @ 1 0 00495712
+radhë n 3 3 #p ;c @ 3 0 00148191 00243277 00496291
+borxh n 1 1 ~ 1 0 00330327
+shirit_,_fasho n 1 2 @ ~ 1 0 00377411
+njërëz n 1 2 @ %m 1 0 00310382
+fshat n 1 1 @ 1 0 00027706
+veprimtari_ekonomike n 1 2 @ ~ 1 0 00459030
+monument n 1 1 @ 1 0 00477321
+aparaturë_gjimnastikore n 1 1 @ 1 0 00000412
+libër_i_llogarive n 1 1 @ 1 0 00225776
+vc n 1 1 @ 1 0 00417102
+cak n 4 2 @ ~ 4 0 00070595 00216595 00522749 00536267
+shkrim_dokumenti n 1 2 @ ~ 1 0 00026933
+totali n 1 1 @ 1 0 00013289
+mundësi n 4 3 ! @ ~ 4 0 00083533 00108081 00317406 00374405
+qingj n 1 1 @ 1 0 00374035
+shumë n 2 2 @ ~ 2 0 00016810 00182910
+duhan n 1 1 ~ 1 0 00138151
+gjuhe_e_folur n 1 3 ;c @ ~ 1 0 00261430
+sukses n 2 3 ! @ ~ 2 0 00189075 00392499
+keqësim_në_cilësi n 1 1 @ 1 0 00025150
+sferë_qiellore n 1 2 %p @ 1 0 00318901
+i_moshuar n 1 0 1 0 00071562
+shpërdorim n 2 2 @ ~ 2 0 00054903 00524219
+mirëkuptim n 1 1 @ 1 0 00163768
+gjuhësi n 1 2 -c @ 1 0 00276877
+elipse n 1 1 @ 1 0 00341607
+gjykatë n 1 2 @ %m 1 0 00022775
+ekuipazh n 2 2 #m @ 2 0 00012972 00172055
+qender n 2 1 @ 2 0 00077954 00404639
+letër n 1 2 @ ~ 1 0 00332885
+sherr n 1 0 1 0 00531709
+orendi_të_fiksuara n 1 2 @ ~ 1 0 00248018
+masa_mbrojtëse n 1 2 ;c @ 1 0 00034907
+gocë_deti n 1 1 @ 1 0 00386486
+forcë_për_njësi_hapësire n 1 1 @ 1 0 00326830
+titull n 4 3 = @ ~ 4 0 00129037 00206333 00251527 00395211
+vrazhdësi n 1 1 @ 1 0 00235330
+disavantazh n 1 2 ! @ 1 0 00225906
+komponent n 3 2 @ ~ 3 0 00095124 00309396 00311342
+shumë_e_vogël n 1 2 @ ~ 1 0 00438202
+shkas n 1 2 @ ~ 1 0 00518707
+maskoj n 1 1 @ 1 0 00137015
+shtëpi n 3 3 %p @ ~ 3 0 00369461 00485871 00512064
+koha_e_ditës n 1 2 @ ~ 1 0 00416087
+holl_,sallon_pritje n 1 1 @ 1 0 00521508
+martesë n 4 3 ;c @ %m 4 0 00071086 00354887 00410538 00432490
+dhënie_me_qera n 1 1 @ 1 0 00507878
+sipërfaqe_gjeografike n 1 2 @ ~ 1 0 00186673
+sillem n 1 1 @ 1 0 00424715
+ndarje_territoriale n 1 2 @ ~ 1 0 00343368
+forcë_shtytëse n 1 2 @ ~ 1 0 00054412
+obligim n 1 1 @ 1 0 00143265
+material_ngjyrues n 1 2 @ ~ 1 0 00167496
+pagëzim n 1 1 @ 1 0 00490880
+ministër n 1 1 @ 1 0 00185135
+model n 5 2 @ ~ 5 0 00036020 00155511 00284037 00434058 00538523
+frëngji n 1 2 ;c @ 1 0 00134716
+kamion_i_vogël n 1 2 @ ~ 1 0 00480334
+fyerje n 2 1 @ 2 0 00158915 00416990
+mouth n 1 1 @ 1 0 00133506
+koleksion n 3 2 @ ~ 3 0 00262430 00310497 00492128
+komunikim_vizual n 1 2 @ ~ 1 0 00383606
+rritje_e_çmimeve n 1 1 @ 1 0 00334530
+ekspo n 1 2 ;c @ 1 0 00455821
+mendje n 2 1 @ 2 0 00335330 00511022
+vesh n 2 1 @ 2 0 00133703 00450540
+abuzim n 1 2 @ ~ 1 0 00524219
+gjendje_fiziologjike n 1 1 ~ 1 0 00249850
+ngurtë n 1 2 @ ~ 1 0 00404772
+dështim n 6 3 ! @ ~ 6 0 00005476 00198578 00334201 00373059 00471144 00516613
+seks n 1 1 @ 1 0 00222850
+seksualizëm n 1 1 @ 1 0 00009742
+kombinim n 3 2 @ ~ 3 0 00015990 00102329 00163279
+organ_riprodhues n 1 1 @ 1 0 00025545
+valë n 2 3 ;c @ ~ 2 0 00237392 00425467
+cap n 2 2 #p @ 2 0 00015689 00532774
+zot n 1 2 @ ~ 1 0 00473117
+aprovim n 1 1 @ 1 0 00313184
+copëtim n 1 1 @ 1 0 00045711
+ngrënie n 1 1 @ 1 0 00279130
+afërsi n 2 2 @ ~ 2 0 00018215 00482282
+çati n 1 3 #p @ ~ 1 0 00086029
+gjoks n 1 3 #p %p @ 1 0 00171197
+komune n 1 1 @ 1 0 00088152
+kundershtar n 1 1 @ 1 0 00489835
+copëzim n 1 1 @ 1 0 00216808
+mbrojtës n 3 2 @ ~ 3 0 00118250 00194575 00382713
+pyetës n 1 2 @ ~ 1 0 00000577
+efektshmëri n 1 1 @ 1 0 00265944
+gjyshe n 1 1 @ 1 0 00261105
+dijetar_aplikimesh n 1 1 @ 1 0 00434929
+lidhje_familjare n 1 2 @ ~ 1 0 00292551
+mazgallë n 1 2 @ ~ 1 0 00495059
+speed n 1 1 @ 1 0 00215542
+marrëdhënie n 7 3 ! @ ~ 7 0 00077091 00120369 00202173 00292551 00374214 00426320 00504245
+defekt n 1 2 @ ~ 1 0 00436057
+fokusim n 1 1 @ 1 0 00047486
+kapuç n 1 1 @ 1 0 00156826
+varg_malor n 1 2 %p @ 1 0 00321339
+trup_i_ngurte n 1 2 @ ~ 1 0 00231731
+kosh_fëmijësh n 1 1 @ 1 0 00060514
+shef n 1 1 @ 1 0 00447545
+vërshim n 2 3 ;c @ ~ 2 0 00469796 00515230
+grevë n 1 0 1 0 00394660
+magjstrate n 1 1 @ 1 0 00061611
+fakt n 6 2 @ ~ 6 0 00028421 00032532 00161969 00298758 00343616 00452982
+oficer_paqeje n 1 2 @ ~ 1 0 00065176
+ngushëllim n 1 1 @ 1 0 00123029
+përmbysje n 1 1 @ 1 0 00159532
+eccentric n 1 1 @ 1 0 00233411
+sistem_komunikimi n 1 2 #p @ 1 0 00136522
+forme_amorfe n 1 1 @ 1 0 00114632
+këpuje n 1 1 @ 1 0 00057379
+zgjedhje n 3 2 @ ~ 3 0 00242659 00307099 00403857
+depozit n 1 1 @ 1 0 00326449
+sasi_e_pacaktuar n 1 1 ~ 1 0 00359303
+rrezikim n 1 1 @ 1 0 00079393
+varreza n 1 1 @ 1 0 00026370
+mbulesë_e_hollë n 1 2 @ ~ 1 0 00128182
+tepricë n 1 0 1 0 00182797
+karakteristikë_trupore n 1 2 @ ~ 1 0 00221789
+gjemoj n 1 1 @ 1 0 00288193
+rreptë n 1 1 @ 1 0 00235330
+ligj_i_rëndësishëm n 1 2 ;c @ 1 0 00504082
+shpërngulje n 2 2 @ ~ 2 0 00055999 00275661
+mat_me_hapa n 1 1 @ 1 0 00002990
+ferr n 1 1 @ 1 0 00300866
+hard_drive n 1 0 1 0 00112235
+luhatje n 1 2 @ ~ 1 0 00432840
+relacion n 2 2 @ ~ 2 0 00098339 00150650
+progresion n 1 1 @ 1 0 00064518
+kunderpeshe n 1 1 @ 1 0 00387569
+urdhëroj n 1 2 @ ~ 1 0 00118085
+biçikletë_me_motorr n 1 1 @ 1 0 00158281
+lexim n 1 1 @ 1 0 00368210
+standartizim n 1 2 @ ~ 1 0 00242965
+partneritet n 1 1 @ 1 0 00337370
+zjarr n 3 1 @ 3 0 00151988 00232679 00465272
+nivel_i_shtypur n 1 1 @ 1 0 00326830
+shkollar n 1 1 @ 1 0 00480613
+detyrë n 5 2 @ ~ 5 0 00022487 00083988 00143265 00174356 00469888
+grindje n 2 1 @ 2 0 00033858 00221914
+mprehtësi n 1 1 @ 1 0 00287093
+ontogjenez n 1 3 ;c @ ~ 1 0 00032607
+sipërmarrës n 1 1 @ 1 0 00504372
+qumësht n 1 2 %s @ 1 0 00019570
+krem n 2 1 @ 2 0 00154313 00401324
+kurs_studimesh n 1 1 ~ 1 0 00525661
+manovrim_taktik n 1 1 @ 1 0 00123297
+konvekse n 1 2 @ ~ 1 0 00349936
+band n 2 2 %p @ 2 0 00186958 00314620
+opozicion n 1 1 @ 1 0 00489835
+simite n 1 1 @ 1 0 00030669
+jeta n 1 1 @ 1 0 00515084
+moral n 2 2 @ ~ 2 0 00208403 00411912
+escape n 1 1 @ 1 0 00511848
+shqiptim n 1 3 ;c @ ~ 1 0 00261430
+lëvizje_mashtruese n 1 0 1 0 00023910
+udhëtar n 1 2 @ ~ 1 0 00110763
+përbërës n 3 3 #p @ ~ 3 0 00095124 00309396 00469642
+rrjedhë n 5 2 @ ~ 5 0 00041815 00215851 00228028 00297107 00372737
+investigim n 1 2 @ ~ 1 0 00446336
+njësi_katrore n 1 2 @ ~ 1 0 00402607
+pyllëzim n 1 1 @ 1 0 00227370
+i_anasjelltë n 1 1 @ 1 0 00055268
+udhëheqje n 4 2 @ ~ 4 0 00094877 00186901 00297859 00534758
+ligj_civil n 1 3 ;c @ ~ 1 0 00257500
+rregullim n 1 2 @ ~ 1 0 00089047
+pezmatim n 1 1 @ 1 0 00280857
+harmoni n 2 3 ! @ ~ 2 0 00007727 00148945
+sandale n 1 2 @ ~ 1 0 00281306
+amësim n 2 2 @ ~ 2 0 00372099 00414941
+top n 2 1 @ 2 0 00064285 00152067
+parlament n 1 1 @ 1 0 00155614
+bakër n 1 1 @ 1 0 00008797
+vijë_vertikale n 1 1 @ 1 0 00373701
+raft n 1 1 @ 1 0 00006925
+nxënës n 3 1 @ 3 0 00120477 00480613 00524086
+gjykues n 1 1 @ 1 0 00396402
+tejkalim_shpejtësie n 1 1 @ 1 0 00506225
+shtoj n 2 2 @ ~ 2 0 00188212 00318184
+i_sëmurë n 3 2 @ ~ 3 0 00064905 00272697 00332188
+njohuri n 2 2 @ ~ 2 0 00288754 00529674
+fushë_shkencore n 1 4 #p -c @ ~ 1 0 00321954
+operacion_ushtarak n 2 3 ;c @ ~ 2 0 00089332 00444589
+lakim n 1 1 @ 1 0 00479214
+agjenci_shtetërore n 1 2 @ ~ 1 0 00083988
+strukturë_riprodhuese n 1 2 @ ~ 1 0 00411654
+dorë n 1 1 @ 1 0 00166161
+bimë_kacavjerrëse n 1 1 @ 1 0 00198710
+dyluftim n 1 1 @ 1 0 00300682
+ind n 1 2 #s @ 1 0 00370364
+gjuha_e_shkruar n 1 3 %p @ ~ 1 0 00266671
+karrocë n 1 1 ~ 1 0 00414143
+shrytëzoj n 1 2 @ ~ 1 0 00382381
+ibrik n 1 1 @ 1 0 00372972
+baze_te_dhenash n 1 2 @ ~ 1 0 00438078
+këpucë n 1 2 @ ~ 1 0 00281306
+kallaj n 1 1 @ 1 0 00319145
+rrëzim n 1 1 @ 1 0 00471144
+veprime n 1 2 @ ~ 1 0 00313604
+shkëputje n 2 1 @ 2 0 00080514 00503453
+flirtim n 1 1 @ 1 0 00356532
+prirje n 1 2 @ ~ 1 0 00260995
+mbaj_kreshmë n 1 2 @ ~ 1 0 00531038
+limit n 2 1 @ 2 0 00462400 00506617
+teren n 2 3 #p @ ~ 2 0 00103053 00448175
+ambient n 1 1 @ 1 0 00454543
+biografi n 1 1 @ 1 0 00515084
+jeshile n 1 1 @ 1 0 00249145
+defiçit n 1 2 @ ~ 1 0 00469496
+teori_politike n 1 1 @ 1 0 00484606
+teneqe n 1 1 @ 1 0 00213792
+dita_yjore n 1 1 @ 1 0 00234570
+liman n 1 1 @ 1 0 00529061
+dëmtim n 4 2 @ ~ 4 0 00155339 00451759 00500054 00509556
+stoli n 1 2 @ ~ 1 0 00051621
+kundërshtar n 2 2 @ ~ 2 0 00166522 00405614
+informuar n 1 1 @ 1 0 00529674
+një_kalë_mashkull n 1 2 @ ~ 1 0 00171558
+çerdhe n 1 1 @ 1 0 00508609
+veshje_pambuku n 1 1 @ 1 0 00097527
+produktiv n 1 1 @ 1 0 00498561
+veprimtari_tregtare n 1 2 #p ~ 1 0 00100343
+modifikim n 2 2 @ ~ 2 0 00151675 00387078
+korrigjim n 2 2 @ ~ 2 0 00322415 00487455
+menaxher n 1 1 @ 1 0 00333861
+roje n 4 2 @ ~ 4 0 00023360 00050931 00121707 00150805
+zile n 1 1 @ 1 0 00332624
+formacion n 1 2 @ ~ 1 0 00280697
+përballje n 1 2 @ ~ 1 0 00290615
+profesionist n 2 2 @ ~ 2 0 00061362 00311658
+verandë n 1 1 @ 1 0 00423489
+pune_letrare n 1 2 @ ~ 1 0 00407984
+divizion n 6 4 #m ;c @ ~ 6 0 00035203 00116878 00171032 00246743 00262544 00302793
+gjendja_martësore n 1 2 ;c ~ 1 0 00133378
+oficer n 2 3 ;c #m @ 2 0 00068767 00075612
+dollap_për_rroba n 1 1 @ 1 0 00490242
+pengues n 2 2 @ ~ 2 0 00088413 00105633
+toke_e_premtuar n 1 1 @ 1 0 00414029
+mjegullnajë_galaktike n 1 3 #m @ %m 1 0 00188924
+rast_gramatikor n 1 1 @ 1 0 00089189
+celebrim n 2 1 @ 2 0 00398385 00444709
+i_gatshëm n 1 1 @ 1 0 00379568
+lëvizshmëri n 1 2 @ ~ 1 0 00422854
+krim n 3 3 -c @ ~ 3 0 00210136 00284830 00320178
+caktim_detyre n 1 2 @ ~ 1 0 00185959
+çelës n 1 1 @ 1 0 00444847
+turpërim n 1 1 @ 1 0 00019116
+mjet_lidhës n 1 2 @ ~ 1 0 00296462
+veturë n 2 3 %p @ ~ 2 0 00033454 00523791
+fëmijë n 3 4 ! #m @ ~ 3 0 00149302 00439435 00525045
+tablo_peneli n 1 2 ;c @ 1 0 00440489
+metal n 1 2 @ ~ 1 0 00425082
+barngrënës n 1 1 @ 1 0 00166347
+fajësi n 1 0 1 0 00066592
+marrëveshje n 2 2 @ ~ 2 0 00213196 00357375
+kopje n 2 1 @ 2 0 00255795 00335983
+gjedh n 1 2 @ ~ 1 0 00349670
+tekst n 1 3 #p @ ~ 1 0 00013839
+reagoj n 1 1 @ 1 0 00118577
+nallane n 1 1 @ 1 0 00192071
+koleg n 1 2 #m ~ 1 0 00529207
+kusht n 2 2 @ ~ 2 0 00291826 00499652
+shtytës n 1 2 @ ~ 1 0 00518707
+kodër n 2 1 @ 2 0 00046222 00460788
+pauza n 1 1 @ 1 0 00264665
+minoren n 1 1 @ 1 0 00525045
+dore_letrash n 1 1 @ 1 0 00468174
+koha_muzikore n 1 2 ;c @ 1 0 00125104
+vokalizëm n 1 1 @ 1 0 00221279
+motokarro_stacioni n 1 2 @ ~ 1 0 00480334
+mori n 1 2 @ ~ 1 0 00496775
+komision n 3 1 @ 3 0 00201520 00333412 00404178
+xhaketë n 1 1 @ 1 0 00065998
+kompani_anijesh n 1 1 @ 1 0 00040497
+virtyt n 1 1 @ 1 0 00491565
+çilimillëk n 1 1 @ 1 0 00094991
+familje n 7 4 %m ;c @ ~ 7 0 00009961 00072499 00113434 00125592 00177110 00420682 00491043
+person_pa_përvojë n 1 1 @ 1 0 00269431
+komunikim_gojor n 1 3 ;c @ ~ 1 0 00261430
+vozitje n 1 1 @ 1 0 00074917
+mbrojtje n 7 3 ;c @ ~ 7 0 00034907 00063281 00177360 00194575 00268932 00318525 00452654
+substancë n 1 1 ~ 1 0 00490465
+librari n 2 1 @ 2 0 00038006 00263517
+udhëtoj n 1 2 @ ~ 1 0 00001974
+zbukurim n 4 2 @ ~ 4 0 00051621 00067661 00171459 00369736
+kufomë n 2 2 @ ~ 2 0 00170032 00197451
+bashkëshort n 1 3 #m @ ~ 1 0 00511427
+rezistencë n 2 2 @ ~ 2 0 00143413 00378750
+zarzavate n 1 1 @ 1 0 00249145
+sistem_i_matjes n 1 0 1 0 00359970
+kokë_e_madhe n 1 1 @ 1 0 00028973
+sezon_akademik n 1 1 @ 1 0 00517218
+krijues n 2 2 @ ~ 2 0 00119960 00232915
+vite n 1 1 @ 1 0 00529582
+shënoj n 1 1 @ 1 0 00200400
+takim n 6 2 @ ~ 6 0 00051866 00170892 00265376 00392056 00427612 00474778
+fole_infektimi n 1 1 @ 1 0 00331329
+çiflig n 2 3 #p @ ~ 2 0 00380049 00532268
+përrua n 2 2 @ ~ 2 0 00041815 00425737
+ide_e_drejtë n 1 1 @ 1 0 00046474
+titull_respekti n 1 1 @ 1 0 00251527
+ngre n 2 1 @ 2 0 00024657 00316894
+liker n 1 1 ~ 1 0 00373862
+përrallë n 1 1 @ 1 0 00470529
+i_hedhur n 1 1 @ 1 0 00182162
+pallat n 1 0 1 0 00376065
+kualifikim_njohurush n 1 1 @ 1 0 00162776
+residence n 1 2 @ ~ 1 0 00427859
+ndotës n 1 2 @ ~ 1 0 00457282
+shkelje n 2 2 @ ~ 2 0 00210136 00267143
+pozicion n 5 2 @ ~ 5 0 00080186 00141791 00184993 00269178 00407700
+pagë n 1 1 @ 1 0 00279589
+nyjë n 1 1 @ 1 0 00431116
+gojor n 1 1 @ 1 0 00429980
+luaj_rol n 1 2 @ ~ 1 0 00164337
+javë n 2 3 #p %p @ 2 0 00313415 00410001
+i_jashtëm n 2 2 ! @ 2 0 00103314 00359797
+trysni n 1 1 @ 1 0 00326830
+elementë_kryesor n 1 1 @ 1 0 00040374
+bodrum n 1 1 @ 1 0 00493480
+kërkoj n 2 1 @ 2 0 00024657 00320602
+dijeni n 1 2 @ ~ 1 0 00288754
+trap n 2 1 @ 2 0 00337610 00384829
+sulm_i_vrullshëm n 1 3 ;c @ ~ 1 0 00515230
+mikpritës n 3 2 @ ~ 3 0 00172283 00289420 00367014
+material_mbushës n 1 2 @ ~ 1 0 00169826
+experimentim n 1 0 1 0 00067099
+stil n 4 3 ;c @ ~ 4 0 00075910 00089568 00122746 00498480
+origjina n 2 2 @ ~ 2 0 00201401 00250263
+kategori_sintaksore n 1 2 @ ~ 1 0 00324754
+marrëzi n 2 3 ! @ ~ 2 0 00363013 00400382
+pyll n 2 2 @ %m 2 0 00105481 00227370
+pu n 1 1 @ 1 0 00399319
+interesante n 1 1 @ 1 0 00332387
+vullnet n 1 1 @ 1 0 00226873
+organ_bimor n 1 2 @ ~ 1 0 00322749
+qëndrim_grotesk n 1 1 @ 1 0 00028495
+asistentt n 1 2 @ ~ 1 0 00316111
+marr_përsipër n 1 2 @ ~ 1 0 00241529
+kontroll n 6 3 ;c @ ~ 6 0 00160825 00442712 00443538 00448971 00465373 00502543
+pune_sociale n 1 2 @ ~ 1 0 00245406
+linjë n 4 2 @ ~ 4 0 00041815 00061071 00300108 00395078
+para_të_thata_në_dorë n 1 0 1 0 00518577
+pezullim_nga_puna n 1 1 @ 1 0 00222984
+thirrje n 2 2 @ ~ 2 0 00119669 00140560
+vulë n 1 1 @ 1 0 00473347
+studiues n 1 1 @ 1 0 00480613
+kërpudhë_sferike n 1 1 @ 1 0 00337984
+thurje n 2 1 @ 2 0 00279370 00403338
+tavolinë n 1 3 %p @ ~ 1 0 00108770
+marrje n 1 1 @ 1 0 00375589
+personifikim n 1 2 @ ~ 1 0 00003709
+waste_material n 1 1 @ 1 0 00125216
+rrit n 1 1 @ 1 0 00495266
+ballkon n 2 1 @ 2 0 00388714 00423489
+vegël_muzikore n 1 2 @ ~ 1 0 00091305
+kopesht n 1 1 @ 1 0 00112596
+mishngrënës n 1 2 @ ~ 1 0 00003106
+shumëfaqësh n 1 2 @ ~ 1 0 00284704
+falsifikim n 2 2 @ ~ 2 0 00360399 00498356
+gjuhe n 3 4 -c ;c @ ~ 3 0 00052271 00261430 00341098
+burrë n 5 4 ! #m @ ~ 5 0 00245843 00249299 00269986 00345282 00511427
+elegancë n 1 2 @ ~ 1 0 00145113
+njëri_i_afërt n 1 1 @ 1 0 00457043
+notë n 1 0 1 0 00363820
+veproj_me_harbutëri n 1 2 @ ~ 1 0 00267143
+individuale n 1 1 @ 1 0 00420456
+gropë_,_vrimë n 1 2 @ ~ 1 0 00362175
+kukull n 1 1 @ 1 0 00162448
+gjest n 3 2 @ ~ 3 0 00422854 00457860 00511678
+vezë n 2 3 %p %s @ 2 0 00095869 00458900
+seminar n 1 1 @ 1 0 00072720
+ngas_makinë n 1 1 @ 1 0 00006627
+kohë_e_vazhduar n 1 2 @ ~ 1 0 00077725
+adresë n 2 3 %p @ ~ 2 0 00292387 00338485
+qelizë_seksuale n 1 2 @ ~ 1 0 00223519
+mëz n 1 2 #m @ 1 0 00480131
+vargonj n 1 3 #p ;c @ 1 0 00321608
+rritje_rroge n 1 1 @ 1 0 00401389
+frëngji_për_topat n 1 2 ;c @ 1 0 00134716
+shpërthim n 3 1 @ 3 0 00308176 00402919 00418673
+kompani n 5 3 ;c @ ~ 5 0 00040497 00069574 00217009 00375677 00440931
+kafshe_pune n 1 2 @ ~ 1 0 00281173
+ndjekje n 3 2 ;c @ 3 0 00245682 00302663 00417480
+dridhem_nga_frika n 1 1 @ 1 0 00069091
+pjese_e_jashtme n 1 2 ! @ 1 0 00103314
+shije n 1 1 @ 1 0 00009291
+doktor_dhëmbësh n 1 1 @ 1 0 00175724
+dhomë_në_papafingo n 1 2 #p @ 1 0 00317015
+njësi_organizative n 1 2 ;c @ 1 0 00502543
+njërëz_popullor n 1 2 @ ~ 1 0 00029282
+jo_arritës n 1 2 @ ~ 1 0 00250988
+kontrollor n 1 2 @ ~ 1 0 00113555
+aktor n 1 2 @ ~ 1 0 00074482
+tryezë_e_shtruar n 1 1 @ 1 0 00272360
+mbretëreshë n 1 1 @ 1 0 00280038
+ndeshje n 3 3 %p @ ~ 3 0 00039149 00123464 00207279
+parrezikshmëri n 1 2 ! ~ 1 0 00023682
+kursim n 1 1 @ 1 0 00351878
+supozim n 1 2 @ ~ 1 0 00303176
+cikerrime n 1 1 @ 1 0 00039944
+kompozoj n 1 1 @ 1 0 00397938
+koha_yjore n 1 2 @ ~ 1 0 00088925
+phylum n 1 2 ;c ~ 1 0 00131492
+key n 1 0 1 0 00191414
+lek n 1 1 @ 1 0 00243170
+njëri_fetar n 1 1 @ 1 0 00245568
+kafshë_ngarkesë n 1 2 @ ~ 1 0 00216281
+komunikim n 2 2 @ ~ 2 0 00226037 00256031
+grisje n 1 1 @ 1 0 00307403
+element n 4 2 @ ~ 4 0 00080412 00173780 00309396 00311342
+lojtar_kryesor n 1 1 @ 1 0 00097660
+grua_shtepie n 1 1 @ 1 0 00479972
+ndërmjetësues n 1 1 @ 1 0 00457408
+ekspozim n 2 2 ;c @ 2 0 00142973 00455821
+hënë n 1 1 @ 1 0 00146586
+intelekt n 3 1 @ 3 0 00335330 00488627 00511022
+nis n 1 2 @ ~ 1 0 00149175
+mallra n 2 3 #p @ ~ 2 0 00185538 00423336
+eventualisht n 1 1 @ 1 0 00111022
+shkuar n 1 2 ! @ 1 0 00141897
+prijës n 2 2 @ ~ 2 0 00094877 00171690
+zanaci n 1 1 @ 1 0 00105214
+gare n 2 2 @ ~ 2 0 00136892 00159650
+sasi_e_papërcaktuar n 1 2 @ ~ 1 0 00367151
+kam_nevojë n 1 1 ~ 1 0 00201944
+kujdes_shëndetësor n 1 2 @ ~ 1 0 00512587
+shtyllë n 2 1 @ 2 0 00211927 00260812
+paracaktim n 1 1 @ 1 0 00170892
+mirësi n 2 1 @ 2 0 00354608 00458473
+mizëri n 1 2 @ ~ 1 0 00496775
+seleksionim n 1 2 @ ~ 1 0 00307099
+fenomen_natyror n 1 2 @ ~ 1 0 00254422
+arenë n 2 4 -c %p ;c @ 2 0 00497371 00497802
+i_vdekshëm n 1 4 %p #m @ ~ 1 0 00093924
+natyrë_femërore n 1 1 @ 1 0 00200616
+ngritje_page n 1 1 @ 1 0 00401389
+emigrim n 2 2 @ ~ 2 0 00023225 00359525
+qendër n 1 1 @ 1 0 00263005
+tipar_i_fytyrës n 1 3 #p @ ~ 1 0 00119061
+periodike n 1 2 @ ~ 1 0 00294574
+mbrojte n 1 0 1 0 00345418
+ane n 2 2 @ ~ 2 0 00064207 00259834
+drejtim_politike n 1 1 @ 1 0 00484606
+planet n 1 1 @ 1 0 00457736
+nënshkrim n 2 3 ;c @ ~ 2 0 00088046 00285222
+shërbim n 3 5 #p %m ;c @ ~ 3 0 00118925 00282513 00478435
+kohë_e_limituar n 1 1 @ 1 0 00145501
+vrojtues n 1 1 @ 1 0 00121707
+libër_shënimesh n 1 2 @ ~ 1 0 00411349
+piedestal n 1 1 @ 1 0 00258961
+ndërmarr n 1 2 @ ~ 1 0 00241529
+artikuj_veshjesh n 1 2 @ ~ 1 0 00256797
+i_gjithë n 1 3 %p @ ~ 1 0 00231399
+pleqëri n 2 2 #p @ 2 0 00165980 00269009
+artiodactyl n 1 3 ! @ ~ 1 0 00255041
+fidanishte n 1 1 @ 1 0 00495381
+gjetje n 1 1 @ 1 0 00290537
+kategori n 6 3 #m @ ~ 6 0 00062141 00125592 00142254 00198216 00415077 00521832
+përjashtohesh n 1 2 @ ~ 1 0 00076159
+industri n 3 4 -c ;c @ ~ 3 0 00226724 00354436 00522866
+psikopat n 1 3 ! @ ~ 1 0 00002145
+shndërrim n 1 2 @ ~ 1 0 00352523
+ndertues n 1 0 1 0 00419835
+sipërmarrje n 1 2 @ ~ 1 0 00313285
+projektim n 1 2 @ ~ 1 0 00230480
+ndokush n 1 4 %p #m @ ~ 1 0 00093924
+kundërpërgjigje n 2 1 @ 2 0 00435754 00452157
+shtrat n 1 1 %p 1 0 00361146
+event_shoqëror n 1 2 @ ~ 1 0 00427712
+strukturë n 6 3 %p @ ~ 6 0 00104292 00126862 00401548 00423824 00471623 00537877
+disa_gjëra_të_ndryshme n 1 1 @ 1 0 00483694
+person_i_pafat n 1 2 @ ~ 1 0 00426839
+komunikim_me_zë n 1 3 ;c @ ~ 1 0 00261430
+perceptim_gustoje n 1 1 @ 1 0 00009291
+kamp n 4 2 @ ~ 4 0 00000942 00062141 00169267 00479852
+dëborë n 1 1 @ 1 0 00271685
+synim n 2 3 #p @ ~ 2 0 00180097 00255257
+kalim_kohe n 1 1 @ 1 0 00056369
+dje n 1 2 ! @ 1 0 00141897
+barishte n 2 1 @ 2 0 00006782 00439726
+mjet_plasës n 1 3 %p @ ~ 1 0 00101451
+luftim n 1 3 #p ;c @ 1 0 00047959
+barnatore n 1 1 @ 1 0 00247250
+depozitoj n 1 2 @ ~ 1 0 00208135
+çaj n 3 1 @ 3 0 00031047 00056800 00352126
+paraqitje_fizike n 1 1 @ 1 0 00096776
+firmë_biznesi n 1 1 @ 1 0 00254155
+lëkundje_valë n 1 1 @ 1 0 00160417
+vrapim n 3 1 @ 3 0 00242874 00243690 00413399
+karakterizim n 2 2 @ ~ 2 0 00003709 00217106
+shprehi n 1 1 @ 1 0 00268024
+përzierje n 4 3 ;c @ ~ 4 0 00075773 00238580 00401776 00492128
+luaj n 3 1 @ 3 0 00145309 00444361 00444513
+kllapë_hekuri n 1 1 @ 1 0 00155797
+partner n 3 3 #m @ ~ 3 0 00511427 00525186 00530581
+komentim n 1 1 @ 1 0 00313184
+kufizim n 2 1 @ 2 0 00047066 00257766
+qendërzim n 1 1 @ 1 0 00047486
+skeptik n 1 1 @ 1 0 00368569
+pajisje_ngrohëse n 1 1 @ 1 0 00350937
+pranverë n 1 1 @ 1 0 00180812
+kryetar n 5 2 @ ~ 5 0 00044918 00087542 00171690 00447545 00528658
+pikveshtrim n 1 0 1 0 00291467
+noçkë n 1 1 #p 1 0 00145902
+ekonomi_bujqësore n 1 3 -c @ ~ 1 0 00201156
+gradim n 1 2 @ ~ 1 0 00242965
+femer n 1 1 @ 1 0 00413906
+shkop n 2 2 @ ~ 2 0 00178244 00338170
+shah n 1 3 -c %p @ 1 0 00372388
+mjet n 2 2 @ ~ 2 0 00183154 00249024
+bandvale n 1 0 1 0 00513298
+mbeturina n 1 2 @ ~ 1 0 00123182
+rrjedhje n 3 1 @ 3 0 00165893 00349570 00382130
+shfaqje n 2 2 @ ~ 2 0 00046121 00423671
+transport_mallrash_me_ngarkesë n 1 1 @ 1 0 00050423
+difuzion n 1 2 ;c @ 1 0 00203312
+okazion_zyrtar n 1 2 @ ~ 1 0 00370029
+drejtkendesh n 1 1 @ 1 0 00488982
+as n 1 1 @ 1 0 00183716
+aritmetikë n 1 3 -c ;c @ 1 0 00081302
+makine_lufte n 1 2 -c @ 1 0 00218290
+pabesi n 1 1 @ 1 0 00163436
+dollap_në_mur n 1 1 @ 1 0 00006925
+rutine n 2 2 #p @ 2 0 00160567 00258478
+emri_i_familje n 1 1 @ 1 0 00215417
+kalë n 2 3 %m @ ~ 2 0 00085548 00204817
+qenie_supernatyrale n 1 2 @ ~ 1 0 00294009
+brenge n 1 2 ! ~ 1 0 00302250
+impotencë n 1 3 ! @ ~ 1 0 00333528
+përcjellës n 1 2 @ ~ 1 0 00130118
+priftëri n 1 2 @ ~ 1 0 00315296
+komshi n 1 1 @ 1 0 00368969
+rend n 3 5 ! ~ ;c @ %m 3 0 00167081 00357869 00497987
+poker n 1 1 @ 1 0 00197812
+gjymtyrë n 2 2 @ ~ 2 0 00222026 00331429
+ndryshimi_i_tërësisë n 1 2 @ ~ 1 0 00283665
+superstar n 1 1 @ 1 0 00183716
+gjuajtje n 3 2 @ ~ 3 0 00058189 00200400 00232808
+cnidarian n 1 1 @ 1 0 00240165
+pajisje n 2 2 @ ~ 2 0 00217311 00355660
+kërkim_te_dhenash n 1 1 @ 1 0 00001477
+prerje n 1 1 @ 1 0 00482618
+sugar n 1 1 @ 1 0 00405735
+grumbull n 8 3 #m @ ~ 8 0 00062141 00062449 00062900 00172055 00325830 00430521 00477544 00536039
+zëmër n 1 1 @ 1 0 00404639
+inat n 1 2 @ ~ 1 0 00520023
+lum n 1 2 -c @ 1 0 00387432
+bimë_shtëpiake n 1 1 @ 1 0 00241727
+përfaqësues n 3 2 @ ~ 3 0 00201520 00382713 00508280
+dritë_hëne n 1 1 @ 1 0 00124907
+kushëri_i_pare n 1 1 @ 1 0 00133965
+dhe n 3 2 @ ~ 3 0 00082382 00378596 00448175
+anije_luftarake n 1 4 ;c #m @ ~ 1 0 00529761
+chapiter n 1 1 @ 1 0 00532774
+zonjushe n 1 1 @ 1 0 00247147
+shikim n 1 1 @ 1 0 00140390
+meterie_jotekstuale n 1 2 #p @ 1 0 00146206
+armiqësi n 2 1 @ 2 0 00138880 00349471
+pasqyrë n 1 1 @ 1 0 00106006
+vrap n 1 1 @ 1 0 00413399
+përdorues n 1 1 @ 1 0 00121861
+mjeshtër n 1 1 @ 1 0 00053514
+strehe n 1 1 @ 1 0 00159346
+mysafir n 1 2 @ ~ 1 0 00403024
+patronazh n 2 1 @ 2 0 00014824 00345418
+vend_pune n 2 1 @ 2 0 00022487 00469888
+garanci n 2 2 @ ~ 2 0 00011556 00051444
+peshk n 1 2 %p @ 1 0 00073557
+njehsoj n 2 2 @ ~ 2 0 00108283 00139693
+sipërmarrje_të_vështira n 1 1 @ 1 0 00288311
+pamje_e_jashtme n 2 1 @ 2 0 00444214 00535518
+pije_e_forte n 1 1 ~ 1 0 00373862
+sport n 1 3 -c @ ~ 1 0 00363223
+kurs_,_drejtim n 1 1 @ 1 0 00437954
+pronar n 3 2 ;c @ 3 0 00119837 00147702 00228843
+kripë n 1 0 1 0 00231236
+gënjim n 1 1 @ 1 0 00326144
+besim n 4 3 -c @ ~ 4 0 00234839 00285694 00384222 00397172
+zonë_pyjore n 1 1 @ 1 0 00227370
+prodhime_baxho n 1 1 ~ 1 0 00048664
+rebelim n 3 2 ! @ 3 0 00024837 00079117 00402919
+çlirim n 2 1 @ 2 0 00414029 00460221
+që_shkon_përpara n 1 1 @ 1 0 00064518
+qark_i_madh n 1 2 @ ~ 1 0 00128851
+rit_fetar n 1 2 @ ~ 1 0 00397664
+kryetare n 1 1 @ 1 0 00087542
+kraharor n 2 4 #p %p @ ~ 2 0 00171197 00179557
+seri_ekologjiale n 1 1 @ 1 0 00311948
+kontrolloj n 2 2 @ ~ 2 0 00180680 00241039
+focal_ratio n 1 1 @ 1 0 00215542
+agate_line n 1 1 @ 1 0 00247748
+kuti_konservash n 2 1 @ 2 0 00213792 00239200
+gazolinë n 1 1 @ 1 0 00292197
+salutim n 1 2 @ ~ 1 0 00114509
+ndarje_administrative n 1 2 @ ~ 1 0 00343368
+arrest n 1 1 @ 1 0 00149806
+gdhendje n 1 2 @ ~ 1 0 00232915
+fillim n 4 2 @ ~ 4 0 00201401 00250263 00305445 00511949
+sëmundje n 2 2 @ ~ 2 0 00064905 00272697
+funksion n 4 4 #p ;c @ ~ 4 0 00017433 00228183 00258478 00388505
+njohës_i_procesit n 1 3 ;c @ ~ 1 0 00060675
+mbikëqyrës n 1 2 @ ~ 1 0 00113555
+nam n 1 1 @ 1 0 00182512
+dyndje n 2 3 ;c @ ~ 2 0 00402919 00515230
+sheqerkë n 1 2 @ ~ 1 0 00330204
+ekstrem n 1 2 @ ~ 1 0 00383485
+qëndrueshmëri n 1 1 @ 1 0 00212261
+muaj_kalendarik n 1 2 %p @ 1 0 00520309
+shërbim_korespondence n 1 1 @ 1 0 00147911
+proçedim n 1 1 @ 1 0 00211064
+sigurim n 3 3 ! @ ~ 3 0 00023682 00036636 00063281
+dogmë n 1 2 @ ~ 1 0 00373212
+shpjegim n 1 1 @ 1 0 00340258
+bisedim n 2 1 @ 2 0 00064791 00368210
+shitje n 3 2 @ ~ 3 0 00104943 00285379 00423336
+gju n 1 1 #p 1 0 00259616
+strukture n 1 2 @ ~ 1 0 00362529
+tub n 2 2 @ ~ 2 0 00272495 00450390
+kafshë_gjahu n 1 1 @ 1 0 00234923
+të_hysh_në_veprim n 1 2 @ ~ 1 0 00001754
+bujtinë n 1 1 @ 1 0 00019748
+vegla_me_perkuion n 1 2 @ ~ 1 0 00134587
+sezon n 1 1 @ 1 0 00309189
+automjet n 1 2 @ ~ 1 0 00196330
+motiv_etik n 1 1 @ 1 0 00208403
+ujdi n 1 1 @ 1 0 00357375
+humbje_e_mendjes n 1 1 @ 1 0 00326144
+lojë_me_tabelë n 1 2 @ ~ 1 0 00096622
+ndjenje_shoqerore n 1 1 ~ 1 0 00244096
+shok n 3 2 @ ~ 3 0 00208965 00269986 00481637
+vije n 4 3 %p @ ~ 4 0 00041815 00220294 00321339 00394396
+grupmoshë n 1 1 @ 1 0 00451620
+punë n 5 2 @ ~ 5 0 00032532 00307539 00364960 00389584 00449860
+dyshim n 2 3 ! @ ~ 2 0 00001477 00021828
+moshë_e_artë n 1 0 1 0 00071562
+gisht n 2 3 #p @ ~ 2 0 00135307 00318285
+tendosje_fizike n 1 1 @ 1 0 00489530
+strukturë_bimore n 1 3 #p @ ~ 1 0 00389433
+ekuilibër n 1 1 @ 1 0 00387569
+lipide n 1 1 ~ 1 0 00021449
+vendas n 1 1 @ 1 0 00062003
+autorizim n 2 2 @ ~ 2 0 00011556 00410411
+fushë_,qoshk n 1 1 @ 1 0 00091947
+bonifikoj n 1 2 @ ~ 1 0 00188212
+kulm_i_dellit n 1 2 #p @ 1 0 00071797
+ditë n 6 5 #p ! %p @ ~ 6 0 00010310 00124186 00202831 00402345 00443732 00513982
+fije_,_pe_,_spango n 1 2 @ ~ 1 0 00537697
+stop_number n 1 1 @ 1 0 00215542
+administrator_akademik n 1 2 @ ~ 1 0 00092141
+vit_kalendarik n 1 1 @ 1 0 00488735
+anormalitet n 1 1 @ 1 0 00176479
+vije_e_drejte n 1 2 ! @ 1 0 00188776
+violencë n 1 1 @ 1 0 00000712
+parti n 2 2 #m @ 2 0 00178337 00453952
+lezetim n 1 2 @ ~ 1 0 00066288
+refuzoj n 1 2 @ ~ 1 0 00467589
+ndihme n 2 2 @ ~ 2 0 00118925 00183154
+gjendje_normale n 1 1 @ 1 0 00103549
+kinkaleri n 1 1 @ 1 0 00433637
+amfiteatër n 1 3 %p ;c @ 1 0 00497371
+emigracion n 1 1 @ 1 0 00359525
+mbyllje n 2 2 #p @ 2 0 00060992 00357097
+shkallë_sipërore n 1 1 @ 1 0 00372832
+park_grumbullimi_për_qentë n 1 1 @ 1 0 00420166
+çerek n 1 2 #p @ 1 0 00181147
+fodull n 1 0 1 0 00202676
+ngjyre n 1 1 @ 1 0 00384660
+aktor_spontan n 1 1 @ 1 0 00205923
+performance n 1 1 ~ 1 0 00170778
+tabelë n 2 2 @ ~ 2 0 00041720 00182291
+njësi_ajrore n 1 3 ;c @ ~ 1 0 00392175
+pagesë n 5 2 @ ~ 5 0 00080633 00266420 00279589 00287868 00370183
+vije_malore n 1 2 %p @ 1 0 00321339
+objekt n 2 2 @ ~ 2 0 00255257 00324458
+bashkëshorte n 1 2 @ ~ 1 0 00206422
+vjeshtë n 1 1 @ 1 0 00430191
+shenjë_emri n 1 1 @ 1 0 00176988
+shkenca_e_zbatuar n 1 1 @ 1 0 00158496
+zanafillë n 2 2 @ ~ 2 0 00149175 00511949
+dhimbje n 4 3 ! @ ~ 4 0 00198435 00267556 00502964 00534199
+organ n 2 2 @ ~ 2 0 00083698 00307289
+art n 2 3 #p -c @ 2 0 00146206 00333111
+mesatar n 1 2 @ ~ 1 0 00388319
+hapa_kërcimi n 1 1 @ 1 0 00030902
+line n 1 1 @ 1 0 00247748
+shume_e_papërcaktuar n 1 2 @ ~ 1 0 00367151
+qen_i_vogël n 1 1 @ 1 0 00261970
+shkolle n 1 1 @ 1 0 00013995
+arush_pelushi n 1 1 @ 1 0 00460969
+gjë n 3 1 @ 3 0 00032532 00343616 00386026
+akt n 2 2 @ ~ 2 0 00160567 00431659
+vështirësi n 3 2 @ ~ 3 0 00088413 00459961 00481395
+shtim_i_burimit_të_të_ardhurave n 1 2 -c @ 1 0 00437460
+njëri_i_rëndësishëm n 1 0 1 0 00242473
+shtet n 7 4 %p #m @ %m 7 0 00014509 00038841 00158178 00393131 00410271 00492379 00524924
+gjendje_e_lëndës n 1 2 ;c ~ 1 0 00100038
+exezekutiv n 1 2 @ ~ 1 0 00279679
+gjendje_mendore n 1 2 ;c ~ 1 0 00342933
+mbishkrim n 1 1 @ 1 0 00419956
+libër n 3 2 @ ~ 3 0 00366284 00383199 00432704
+pjesëtar_fakulteti n 1 2 @ ~ 1 0 00401168
+i_gjallë n 1 1 @ 1 0 00182162
+dhunoj n 1 1 @ 1 0 00210136
+marezi n 1 1 @ 1 0 00458120
+gjurmim n 1 1 @ 1 0 00135097
+kafshë_grabitqare n 1 1 @ 1 0 00234706
+prejardhje n 3 2 @ ~ 3 0 00009961 00014645 00177110
+pakësim n 3 2 ! @ 3 0 00299776 00415422 00496663
+sallon n 1 1 @ 1 0 00400969
+minierë n 1 1 @ 1 0 00484410
+ndalesë n 2 1 @ 2 0 00331590 00436945
+rrugë_private_në_oborr n 1 1 @ 1 0 00084345
+lojë_jashtë_shtëpie n 1 2 @ ~ 1 0 00030776
+nder n 1 1 @ 1 0 00354608
+mekanizëm_i_thjeshtë n 1 2 @ ~ 1 0 00068298
+progres n 1 1 @ 1 0 00064518
+rreze_fotokimike n 1 2 @ ~ 1 0 00484953
+shhishe n 1 1 @ 1 0 00402031
+ndryshim_qëndrimi n 1 1 @ 1 0 00085346
+ndërtoj n 1 2 @ ~ 1 0 00428571
+marshim_muzikor n 1 0 1 0 00242142
+shprese n 3 1 @ 3 0 00415844 00460345 00460870
+e_dale n 1 1 @ 1 0 00046222
+njesi_gjuhe n 1 1 ~ 1 0 00424567
+shfuqizim n 1 2 @ ~ 1 0 00467589
+transformim n 1 2 @ ~ 1 0 00352523
+potencial n 1 1 @ 1 0 00028843
+ekspeditë_ushtarake n 1 2 ;c @ 1 0 00416186
+muaj_hënor n 1 1 @ 1 0 00181289
+e_bën_për_vdekje n 1 1 @ 1 0 00178703
+ndërmarrje n 2 2 @ ~ 2 0 00252693 00433229
+prezantim n 1 1 @ 1 0 00131807
+trillim n 1 1 @ 1 0 00304660
+ruli_i_revoles n 1 1 @ 1 0 00160717
+mallra_ushqimore n 1 1 ~ 1 0 00261826
+ndryshim_gjendjeje n 1 2 @ ~ 1 0 00051042
+ofertë n 2 1 @ 2 0 00009214 00027096
+mendim_krijues n 1 2 @ ~ 1 0 00117940
+serrë n 1 1 @ 1 0 00495381
+qark_i_brendeshem n 1 1 @ 1 0 00062141
+nevoje n 1 1 @ 1 0 00230606
+personazhe n 1 0 1 0 00242473
+seancë n 3 3 ;c @ ~ 3 0 00251889 00379257 00530478
+mensë n 1 1 @ 1 0 00042410
+stil_te_shkruari n 1 2 @ ~ 1 0 00397787
+ngjarje_e_përsëritur n 1 2 @ ~ 1 0 00082241
+fëlliq n 1 2 @ ~ 1 0 00457282
+drejtues_shteti n 1 2 @ ~ 1 0 00068891
+fjalim n 2 3 %p @ ~ 2 0 00290810 00292387
+pjesa_e_barkut n 1 3 #p %p @ 1 0 00280399
+kënaqësi n 4 3 ! @ ~ 4 0 00100663 00115933 00298964 00451416
+mbeshtetes n 1 2 @ ~ 1 0 00316111
+krah n 2 2 #p @ 2 0 00142672 00296187
+motokarro_plazhi n 1 2 @ ~ 1 0 00480334
+profesor n 1 1 @ 1 0 00042748
+pajtim n 1 1 @ 1 0 00163768
+këshill n 1 1 @ 1 0 00378409
+vezë_femërore n 1 1 @ 1 0 00095869
+taksi n 1 1 @ 1 0 00217900
+shtohem n 2 2 @ ~ 2 0 00330556 00495266
+dredhi n 1 2 @ ~ 1 0 00275987
+koha_e_lojës n 1 4 #p %p ;c ~ 1 0 00426965
+pako_letrash n 1 1 @ 1 0 00250132
+shtypi_i_përditshëm n 1 2 @ ~ 1 0 00087107
+audiencë n 3 2 #m @ 3 0 00158818 00195354 00351236
+ngjashmëri n 3 3 ! @ ~ 3 0 00312412 00412272 00474182
+dashamirësi n 1 1 @ 1 0 00354608
+motor_skuter n 1 1 @ 1 0 00327482
+rregull n 4 3 ! @ ~ 4 0 00118706 00225633 00357869 00393565
+mama n 1 2 ! @ 1 0 00035078
+sec n 1 2 #p @ 1 0 00462226
+rërë n 1 1 @ 1 0 00351990
+transmetim n 3 2 @ ~ 3 0 00226037 00320777 00421688
+moshatarë n 1 1 @ 1 0 00374702
+nuancë n 1 1 @ 1 0 00199481
+rishikim n 2 1 @ 2 0 00417480 00538398
+force_e_mbinatyrshme n 1 0 1 0 00527078
+vonesë n 2 1 @ 2 0 00045162 00405259
+ministër_i_pare n 1 1 @ 1 0 00529459
+mall_i_gjelber n 1 1 ~ 1 0 00261826
+person_mashkull n 1 3 ! @ ~ 1 0 00249299
+kushtetutë n 1 2 ;c @ 1 0 00504082
+shenjoj n 1 1 @ 1 0 00164859
+pikturë_kinemaje n 1 2 -c @ 1 0 00262194
+ekonomi n 1 2 %p @ 1 0 00383349
+gjëndër n 1 1 @ 1 0 00381239
+pazar n 1 3 %p @ ~ 1 0 00533440
+bar_mjekësor n 1 3 %p @ ~ 1 0 00321735
+zemërata n 1 2 @ ~ 1 0 00520023
+mal n 1 1 @ 1 0 00098485
+gjatësi_hapi n 1 1 @ 1 0 00002990
+llapë n 1 0 1 0 00529961
+proces_psikik n 1 3 ;c @ ~ 1 0 00060675
+mekanikë n 1 1 @ 1 0 00478316
+përdorueshmëri n 1 2 @ ~ 1 0 00140766
+atribut n 2 2 @ ~ 2 0 00040987 00278256
+sistemi_i_rregullave n 1 1 @ 1 0 00369902
+klasifikoj n 1 1 @ 1 0 00263265
+verë n 1 1 @ 1 0 00165206
+mënyrë_retorike n 1 1 @ 1 0 00462750
+popullaritet n 1 1 @ 1 0 00182512
+drejtor_ekzekutiv n 1 2 @ ~ 1 0 00279679
+dëshpërim n 1 1 @ 1 0 00460510
+vena n 1 1 @ 1 0 00233021
+llogari n 1 1 @ 1 0 00340258
+ring_boksi n 1 1 @ 1 0 00455975
+ngjitje n 2 2 @ ~ 2 0 00208853 00253324
+turme n 4 3 #m @ ~ 4 0 00172055 00477544 00496775 00507118
+ditët_e_muajit n 1 1 @ 1 0 00536580
+shans n 3 2 @ ~ 3 0 00092275 00108081 00374405
+shumë_takse n 1 2 -c @ 1 0 00437460
+qelizë n 1 3 #p ;c ~ 1 0 00213987
+shtetas n 1 3 ! #m @ 1 0 00000806
+ikon n 1 1 @ 1 0 00114198
+meritë n 1 1 @ 1 0 00491565
+stërgjysh n 3 2 @ ~ 3 0 00348149 00355508 00430646
+gjëra n 1 1 @ 1 0 00006164
+degë n 1 1 @ 1 0 00175872
+gjitar n 1 2 @ ~ 1 0 00383007
+damë n 2 2 %p @ 2 0 00413906 00482368
+demoralizim n 2 1 @ 2 0 00063082 00454068
+procedure_ligjore n 1 3 ;c @ ~ 1 0 00251889
+simbol_shkrimi n 1 2 @ ~ 1 0 00293298
+siguroj n 1 2 @ ~ 1 0 00212499
+argjendari n 1 1 @ 1 0 00336280
+tëmth n 1 2 #p @ 1 0 00097935
+harxhim n 1 1 @ 1 0 00495846
+kryeministër n 1 1 @ 1 0 00529459
+furçë n 1 2 %p @ 1 0 00383753
+mjet_mbrojtës n 2 2 @ ~ 2 0 00194575 00452654
+shitjet n 1 0 1 0 00071451
+kafshë_shtëpiake n 1 1 @ 1 0 00200525
+trashëgim n 1 0 1 0 00489712
+kostum_klasik n 1 1 @ 1 0 00233161
+papjekuri n 1 2 @ ~ 1 0 00187424
+velë n 1 1 @ 1 0 00192173
+elektricitet n 2 1 @ 2 0 00004746 00243821
+ndarës n 1 2 @ ~ 1 0 00105338
+ndermarje_komerciale n 1 2 @ ~ 1 0 00107061
+lehtësim n 1 1 @ 1 0 00123029
+gjendje n 5 3 ;c @ ~ 5 0 00100038 00211395 00291826 00297585 00382538
+strategji n 1 2 @ ~ 1 0 00286091
+hedhje_shorti n 1 1 @ 1 0 00031160
+derdhet n 1 2 @ ~ 1 0 00425737
+bonbone n 1 1 @ 1 0 00300439
+qelq n 1 3 #p #s @ 1 0 00465858
+detyrë_mbrojtëse n 1 1 @ 1 0 00150805
+dem n 1 2 @ ~ 1 0 00500054
+koha_e_sotshme n 1 1 @ 1 0 00365254
+rendiment n 1 1 @ 1 0 00508411
+word n 1 2 @ ~ 1 0 00111620
+ar n 1 0 1 0 00516710
+shikoj_drejt n 1 1 @ 1 0 00140390
+reformoj n 1 1 @ 1 0 00472467
+tendë n 1 1 @ 1 0 00360592
+ngatërrim n 1 1 @ 1 0 00489398
+luaj_kumar n 1 1 @ 1 0 00272013
+transport n 1 2 #p @ 1 0 00088792
+bishë n 1 4 -c %p @ ~ 1 0 00353243
+brilante n 1 1 @ 1 0 00130537
+nocion n 1 2 @ ~ 1 0 00365718
+produkt n 3 3 ! @ ~ 3 0 00125372 00165300 00507199
+nacion n 2 2 @ %m 2 0 00014509 00524924
+galaktike n 1 3 #m @ %m 1 0 00188924
+ndjesi n 1 1 @ 1 0 00252403
+dorëzim n 1 1 @ 1 0 00460221
+zgjatim n 1 1 @ 1 0 00076426
+toke_me_ujë n 1 1 @ 1 0 00297931
+lultari n 1 1 @ 1 0 00417832
+varfërim n 1 2 ! @ 1 0 00278533
+degjenerim n 1 2 @ ~ 1 0 00169630
+kulturë_prehistorike n 1 1 @ 1 0 00500978
+gënjeshtër n 1 1 @ 1 0 00162626
+sistem_i_referimit n 1 1 @ 1 0 00494418
+bastvenes n 1 2 @ ~ 1 0 00361736
+drithërimë n 1 1 @ 1 0 00069091
+aromë n 2 2 @ ~ 2 0 00372099 00414941
+ëmbëlsues n 1 2 @ ~ 1 0 00093772
+lëkurë n 2 2 %p @ 2 0 00258135 00350210
+sënduk n 1 1 @ 1 0 00490242
+përmisim n 1 1 ~ 1 0 00236759
+give-and-take n 1 2 @ ~ 1 0 00111620
+jetëgjatësi n 2 2 %p @ 2 0 00163637 00452775
+nevojshmëri n 1 1 @ 1 0 00243422
+zhubër n 2 2 #p @ 2 0 00148063 00479214
+ritransmetim n 1 2 @ ~ 1 0 00532650
+kulturë n 1 1 @ 1 0 00462509
+dobësim_i_kockave n 1 1 @ 1 0 00264812
+jaht_garash n 1 0 1 0 00178884
+monedhë n 2 2 @ ~ 2 0 00236177 00331701
+numër_identifikim n 1 0 1 0 00024179
+pjellje n 1 1 @ 1 0 00394212
+posicion n 1 1 @ 1 0 00201632
+cikël n 1 3 #p ;c @ 1 0 00530062
+numër n 7 2 @ ~ 7 0 00024179 00027188 00031819 00157238 00160567 00255936 00363449
+këpucë_druri n 1 1 @ 1 0 00192071
+skene n 1 1 @ 1 0 00460427
+turpëroj n 1 1 @ 1 0 00149580
+pajtues n 1 1 @ 1 0 00457408
+numerik n 1 1 @ 1 0 00157238
+dore n 1 1 @ 1 0 00037640
+voice n 1 1 @ 1 0 00462859
+person_me_influencë n 1 0 1 0 00242473
+atletike n 1 1 @ 1 0 00019201
+art_lëvizës n 1 2 @ ~ 1 0 00406235
+kopsht_me_lule n 1 1 @ 1 0 00417832
+lartësim n 3 3 %p @ ~ 3 0 00067394 00323230 00372832
+ekscentrik n 1 0 1 0 00277523
+arikull_i_fortë n 1 1 @ 1 0 00380910
+rrip n 3 2 @ ~ 3 0 00054302 00185246 00422520
+kanotazh n 1 1 @ 1 0 00074917
+ndjekes n 1 1 @ 1 0 00308293
+mjekër n 1 2 #p @ 1 0 00478041
+themel n 2 2 #p @ 2 0 00403994 00416552
+grup_biologjike n 1 2 @ ~ 1 0 00419195
+djalosh n 1 1 @ 1 0 00269986
+lëndë_djegëse n 1 1 ~ 1 0 00506052
+zogj n 1 3 %p #m @ 1 0 00481079
+aparat,pajisje n 1 1 @ 1 0 00514824
+epërsi n 1 1 ! 1 0 00461199
+perceptim n 4 2 @ ~ 4 0 00090976 00358188 00375589 00474473
+aromatizues n 1 2 @ ~ 1 0 00066288
+karakatinë n 1 1 @ 1 0 00118799
+kaluar n 1 2 #p @ 1 0 00045820
+dentist n 1 1 @ 1 0 00175724
+gramë n 1 1 @ 1 0 00505193
+perkrahje n 4 2 @ ~ 4 0 00123029 00183154 00238453 00345418
+rrezatim n 1 2 @ ~ 1 0 00304887
+lidhje n 16 4 ! #m @ ~ 16 0 00040878 00077091 00114410 00172517 00176165 00250615 00265376 00274734 00283887 00296462 00309068 00342157 00358624 00374214 00456136 00536159
+çështje_e_kësaj_toke n 1 1 @ 1 0 00449115
+mikrobus_kampimi n 1 0 1 0 00213387
+flete n 4 4 #p ;c @ ~ 4 0 00010739 00026933 00097411 00134514
+imitacion n 1 2 @ ~ 1 0 00008518
+bandë_kërcimi n 1 1 @ 1 0 00314620
+forme_natyrale n 1 1 @ 1 0 00154009
+abstrakt n 1 2 @ ~ 1 0 00502244
+biznes n 3 7 -c @ %p %m ~ #p ;c 3 0 00168622 00204007 00224881
+zyrtar n 1 2 @ ~ 1 0 00227191
+vëmendje n 4 2 @ ~ 4 0 00274371 00394905 00470259 00501905
+jetesë n 1 1 @ 1 0 00503169
+gjendje_e_egër n 1 1 @ 1 0 00242228
+gomarllëqe n 1 1 @ 1 0 00363013
+grup_social n 2 2 @ ~ 2 0 00193386 00225299
+çifut n 1 1 @ 1 0 00125734
+sens n 1 1 @ 1 0 00252403
+instrument_i_njehsueshëm n 1 2 @ ~ 1 0 00256321
+rruge_dalje n 1 1 @ 1 0 00475805
+prindi_femer n 1 2 ! @ 1 0 00035078
+rol_teatror n 1 1 @ 1 0 00172622
+kllapë_shtrënguese n 1 1 @ 1 0 00155797
+kerkese n 1 2 @ ~ 1 0 00328283
+shkop_golfi n 1 1 @ 1 0 00334966
+tapet n 1 1 @ 1 0 00331952
+shkrim_dore n 1 1 @ 1 0 00478608
+perime n 2 3 #p @ ~ 2 0 00045036 00261826
+mbështetje n 6 2 @ ~ 6 0 00092617 00183154 00227921 00238453 00345418 00436421
+konceptim n 1 1 @ 1 0 00510462
+ndreqje n 1 1 @ 1 0 00487455
+kompresim n 1 1 ~ 1 0 00364728
+buke n 2 2 @ ~ 2 0 00091554 00265256
+struktura_e_skeletit n 1 2 #p @ 1 0 00375256
+kohë n 6 2 @ ~ 6 0 00042567 00123771 00252854 00330455 00369293 00513982
+force n 2 5 ;c %m #m @ ~ 2 0 00190239 00291565
+llambadar n 1 1 @ 1 0 00517655
+kapitalizëm n 1 3 ;c @ ~ 1 0 00189868
+pjese_krahinë n 1 2 @ ~ 1 0 00057097
+nyje n 2 1 @ 2 0 00077954 00358624
+njeri_i_ushtrisë n 1 4 ;c #m @ ~ 1 0 00442854
+arrogancë n 1 0 1 0 00341762
+zgjedh n 1 2 @ ~ 1 0 00398016
+shtëpizë_gjuetie n 1 1 @ 1 0 00206727
+dekadë n 1 3 #p %p @ 1 0 00305205
+kabriolet n 1 1 @ 1 0 00234170
+kanoe,anije_lumore n 1 1 @ 1 0 00383922
+prapanicë n 2 2 #p @ 2 0 00317869 00445972
+ves n 1 2 ;c @ 1 0 00290394
+sukses_i_papritur n 1 1 @ 1 0 00173387
+uniformë n 1 1 @ 1 0 00370823
+pastrues n 1 2 @ ~ 1 0 00392896
+emision n 2 2 %p @ 2 0 00127291 00421688
+qelqurina n 1 2 %s @ 1 0 00430962
+xhaxha n 1 1 @ 1 0 00279471
+kerkese_indirekte n 1 1 @ 1 0 00492948
+veprim_i_mundshëm n 1 1 @ 1 0 00317406
+anoreksi n 1 0 1 0 00219815
+stimulues n 1 2 @ ~ 1 0 00028176
+qytet-shtet n 1 2 @ ~ 1 0 00335882
+keqtrajtim n 3 2 @ ~ 3 0 00334427 00524219 00534054
+sasi_relative n 1 1 ~ 1 0 00022383
+municion n 1 1 @ 1 0 00435886
+ligjet_e_natyrës n 1 2 #p @ 1 0 00131011
+festim n 3 2 @ ~ 3 0 00025737 00398385 00444709
+perfeksion n 1 3 ! @ ~ 1 0 00296968
+zhduket n 1 1 @ 1 0 00448753
+shkurre n 2 2 @ ~ 2 0 00121985 00499930
+kurbë n 2 3 #p ;c @ 2 0 00365509 00511324
+shkelmoj n 1 1 @ 1 0 00504530
+ndihmës n 1 2 @ ~ 1 0 00316111
+menu n 1 0 1 0 00417928
+e_drejte n 1 3 ;c @ ~ 1 0 00203798
+çun n 2 2 ! @ 2 0 00097121 00269986
+parodi n 1 1 @ 1 0 00209136
+influencë n 2 1 @ 2 0 00258609 00277405
+mbulesë_dyshemeje n 1 2 @ ~ 1 0 00527275
+sëmundje_mendore n 1 3 ! @ ~ 1 0 00002145
+pritje n 1 2 @ ~ 1 0 00340649
+aplikim_praktik n 1 1 @ 1 0 00277839
+alkool n 1 1 @ 1 0 00140688
+veprim_i_pandershëm n 1 2 @ ~ 1 0 00270273
+shputë n 1 2 #p @ 1 0 00018873
+i_përkohshëm n 1 1 @ 1 0 00022677
+kupe_qiellore n 1 2 %p @ 1 0 00318901
+ardhje n 2 2 @ ~ 2 0 00268349 00334307
+spiun n 1 1 ;c 1 0 00312213
+sekret n 1 1 @ 1 0 00398255
+kimi n 1 2 -c @ 1 0 00276367
+tallem n 1 1 @ 1 0 00028495
+devijim n 1 1 @ 1 0 00390861
+bonifikim n 1 1 @ 1 0 00367525
+dorëzohem n 1 1 @ 1 0 00159532
+rrotulloj n 2 1 @ 2 0 00403126 00414596
+pamje n 5 2 @ ~ 5 0 00140390 00244549 00333983 00444214 00490177
+tranzicion n 2 2 @ ~ 2 0 00327676 00463226
+rreth_metalik n 1 1 @ 1 0 00078902
+reaksion n 1 1 @ 1 0 00265096
+toke_e_forte n 1 3 #p @ ~ 1 0 00103053
+trajtim n 4 3 %p @ ~ 4 0 00152156 00290810 00424715 00453399
+ditë_e_shënuar n 1 2 @ ~ 1 0 00418047
+aftësi_mendore n 2 2 @ ~ 2 0 00028973 00376374
+kanal n 2 2 @ ~ 2 0 00264274 00533128
+ç&apos;nderoj n 1 3 ! @ ~ 1 0 00250375
+gosti n 1 2 @ ~ 1 0 00025737
+fyturë n 1 3 #p %p @ 1 0 00342487
+oponent n 1 1 @ 1 0 00489835
+përpiqem n 2 2 @ ~ 2 0 00229854 00504651
+figurë_zbukurimi n 1 2 @ ~ 1 0 00486760
+arnoj n 1 1 @ 1 0 00319956
+planifikim n 1 2 @ ~ 1 0 00002373
+mjekues n 1 2 #p @ 1 0 00464454
+srtukturë_nervore n 1 1 @ 1 0 00476953
+promotor n 1 1 @ 1 0 00504372
+person_i_ri n 1 2 @ ~ 1 0 00395667
+zbres n 2 3 ! @ ~ 2 0 00206588 00415422
+lodër n 1 2 @ ~ 1 0 00079533
+përvetësim_i_mësimeve n 1 1 @ 1 0 00108440
+vit n 4 4 #p %p @ ~ 4 0 00184287 00449622 00503069 00506358
+transport_publik n 1 1 @ 1 0 00451997
+substancat_e_trupit n 1 3 #p @ ~ 1 0 00135187
+xhungë n 1 1 @ 1 0 00046222
+ligësi n 3 2 @ ~ 3 0 00147805 00267143 00294309
+tingëllimë n 1 1 @ 1 0 00194909
+kuota n 1 1 @ 1 0 00128781
+aktivitet_biznesi n 1 2 #p ~ 1 0 00100343
+reaksion_nuklear n 1 2 ;c @ 1 0 00433880
+itinerar n 1 2 @ ~ 1 0 00395078
+veper_muzikore n 1 2 @ ~ 1 0 00445799
+parafango n 1 2 #p @ 1 0 00156974
+përforcoj n 1 1 @ 1 0 00417480
+forme_e_shtrembert n 1 1 @ 1 0 00435235
+vatër n 2 1 @ 2 0 00113434 00122587
+kuriozitet n 1 2 @ ~ 1 0 00136278
+mbërthej n 1 1 @ 1 0 00061483
+vakum n 1 1 @ 1 0 00502875
+emblemë n 1 2 @ ~ 1 0 00191789
+vendtakim n 2 2 @ ~ 2 0 00144608 00478207
+jakë n 3 4 #p %p @ ~ 3 0 00008277 00170501 00423096
+liker_i_forte n 1 1 ~ 1 0 00373862
+vend_mitik n 1 2 @ ~ 1 0 00038576
+karrige n 4 4 #m ;c @ ~ 4 0 00184993 00233805 00465128 00484230
+triumf n 1 3 ! @ ~ 1 0 00041255
+aquatic_vertebrate n 1 2 @ ~ 1 0 00289121
+kryq n 1 1 @ 1 0 00220491
+farefis n 4 3 %m @ ~ 4 0 00047156 00177110 00420682 00457043
+lutje n 3 2 @ ~ 3 0 00187300 00201944 00319716
+njësi_ushtrie n 1 4 ;c #m @ ~ 1 0 00323503
+subjekt n 3 2 @ ~ 3 0 00349310 00528532 00535872
+ngjeshje n 1 1 ~ 1 0 00364728
+histori n 2 2 @ ~ 2 0 00077563 00150650
+person_kreativ n 1 2 @ ~ 1 0 00519434
+paraqitje_mendore n 1 1 @ 1 0 00096776
+epifit n 1 1 @ 1 0 00004368
+hymenopteran n 1 2 @ ~ 1 0 00283440
+lojtar n 1 2 @ ~ 1 0 00074482
+përvetësim n 2 2 @ ~ 2 0 00053163 00501905
+koha_dimërore n 1 1 @ 1 0 00393687
+lajmërim n 2 2 @ ~ 2 0 00382243 00442037
+truall n 5 5 #p %m %p @ ~ 5 0 00120611 00156439 00274139 00380049 00492379
+kthjelltësi n 1 1 @ 1 0 00305927
+energji n 1 3 ;c @ ~ 1 0 00191183
+lidhje_kovalente n 1 1 @ 1 0 00137954
+kompozitor n 1 1 @ 1 0 00497277
+lëvizje n 9 2 @ ~ 9 0 00055999 00059435 00159215 00290615 00381978 00422854 00428149 00516005 00528776
+fushë_e_rregullt n 1 1 @ 1 0 00509350
+proçesimi_i_të_dhënave n 1 2 @ ~ 1 0 00331071
+interferent n 1 2 @ ~ 1 0 00105633
+ngjis_malin n 1 1 @ 1 0 00318087
+sistem_programimi n 1 2 ! ~ 1 0 00204607
+simbol_grafik n 1 2 @ ~ 1 0 00500162
+sistemi_i_skeletit n 1 2 %p @ 1 0 00523264
+mbledh_taksa n 1 2 @ ~ 1 0 00299990
+pako n 1 1 @ 1 0 00063688
+ndërmarrje_biznesi n 1 5 #p -c %p @ ~ 1 0 00224881
+gërmadhë n 1 1 @ 1 0 00146866
+load n 1 1 @ 1 0 00050423
+zgavër_tubolare n 1 2 @ ~ 1 0 00057966
+oborr n 1 1 @ 1 0 00084345
+refuzim n 3 2 @ ~ 3 0 00243976 00378750 00475427
+përhumbur n 1 2 @ ~ 1 0 00491208
+realitet n 2 1 @ 2 0 00059042 00467800
+acid n 1 0 1 0 00032093
+shesh_lojërash n 1 2 @ ~ 1 0 00428224
+living_substance n 1 1 @ 1 0 00234039
+poste n 2 2 %p @ 2 0 00147911 00232157
+krye n 4 3 #p %p @ 4 0 00107963 00211927 00372832 00429348
+rikthim n 4 2 @ ~ 4 0 00076970 00322415 00367890 00538065
+përhapje n 1 2 ;c @ 1 0 00203312
+pafuqi n 2 3 ! @ ~ 2 0 00272697 00333528
+tingëllim n 1 2 @ ~ 1 0 00109734
+hap n 2 2 @ ~ 2 0 00183591 00241199
+pëlhurë n 1 2 @ ~ 1 0 00121331
+mocion n 1 2 -c @ 1 0 00262194
+gardian n 1 1 ~ 1 0 00118250
+plotësues n 1 2 @ ~ 1 0 00075226
+agjent_sekret n 1 1 ;c 1 0 00312213
+vend_pushimi n 1 2 @ ~ 1 0 00428224
+simpati n 1 1 ~ 1 0 00244096
+pamja_fizike n 1 2 @ ~ 1 0 00044324
+përdredh n 1 1 @ 1 0 00414596
+kategori_gramatikore n 1 2 @ ~ 1 0 00324754
+vrapim_kuajsh n 1 1 @ 1 0 00002692
+përkushtim n 1 2 @ ~ 1 0 00394905
+kristali_i_syrit n 1 1 @ 1 0 00210968
+vlerësim n 4 2 @ ~ 4 0 00191898 00217572 00236759 00285784
+njerëzor n 1 4 %p #m @ ~ 1 0 00093924
+sprovë_e_rrezikshme n 1 1 @ 1 0 00288311
+e_drejtë_hyrjeje n 1 2 @ ~ 1 0 00411170
+avantazh n 1 1 ! 1 0 00461199
+mas n 2 2 @ ~ 2 0 00139693 00496775
+manovër_taktike n 1 1 @ 1 0 00123297
+zymbyle n 1 1 @ 1 0 00454235
+guaskë_deti n 1 1 @ 1 0 00386486
+intolerance n 1 2 @ ~ 1 0 00533008
+dëshmi n 1 2 @ ~ 1 0 00348264
+komitet n 2 1 @ 2 0 00038506 00404178
+ndershmëri n 1 2 @ ~ 1 0 00387690
+urrejtje n 3 3 ! @ ~ 3 0 00138880 00265644 00349471
+luftë n 4 4 %p ;c @ ~ 4 0 00063795 00188087 00348498 00388400
+shtyj n 1 1 @ 1 0 00045162
+peticion n 1 2 @ ~ 1 0 00319716
+gjendje_jo_normale n 1 1 @ 1 0 00176479
+i_rrumbullake n 1 1 @ 1 0 00152067
+kamzhik n 1 2 %p @ 1 0 00325448
+ngatërresë n 2 1 @ 2 0 00261187 00358371
+ftohtësi n 2 1 @ 2 0 00376145 00377001
+instrument_ligji n 1 3 ;c @ ~ 1 0 00087227
+sherbyes n 1 1 @ 1 0 00021022
+dëbim_nga_atdheu n 1 1 @ 1 0 00359525
+raca_humane n 1 2 @ %m 1 0 00464946
+trup n 4 5 #p %p ;c @ ~ 4 0 00052005 00170032 00246591 00482879
+kompensim n 1 1 @ 1 0 00209675
+ndërrim_vendesh n 1 1 @ 1 0 00085346
+asistent_sekretar n 1 1 @ 1 0 00258711
+plaçkë n 1 2 @ ~ 1 0 00426423
+fatlume n 1 1 @ 1 0 00350046
+lafshë n 2 2 @ ~ 2 0 00073288 00179014
+kamionçinë_stacioni n 1 2 @ ~ 1 0 00480334
+pendim n 1 1 @ 1 0 00502964
+substancë_e_lëngshme_e_trupit n 1 2 @ ~ 1 0 00305046
+djallos n 1 1 @ 1 0 00236304
+kub n 1 2 @ ~ 1 0 00234277
+urim n 1 1 @ 1 0 00230606
+e_shijshme n 1 2 @ ~ 1 0 00228566
+delegacion n 1 1 @ 1 0 00201520
+bota n 2 1 @ 2 0 00159420 00449115
+maskë n 2 1 @ 2 0 00091650 00463717
+nxjerr_përfundimin n 1 1 @ 1 0 00230712
+egër n 1 1 @ 1 0 00242228
+kostum n 1 1 @ 1 0 00233161
+zhurrme n 2 2 @ ~ 2 0 00041919 00505807
+mëkat n 1 2 @ ~ 1 0 00219020
+vegel_ligjore n 1 3 ;c @ ~ 1 0 00087227
+dyshek n 1 2 #p @ 1 0 00223647
+ofroj n 1 1 @ 1 0 00516005
+algë_leshterik n 1 1 @ 1 0 00344745
+min n 1 3 #p %p @ 1 0 00012695
+ndëshkim n 1 1 @ 1 0 00334427
+sipërfaqe_vertikale n 1 2 @ ~ 1 0 00441237
+element_pastrues n 1 2 @ ~ 1 0 00392896
+bombardoj n 1 1 @ 1 0 00392326
+erëza n 1 2 @ ~ 1 0 00066288
+ndërrim n 2 1 @ 2 0 00319515 00356715
+gjendje_e_keqe_shëndetësore n 1 2 @ ~ 1 0 00272697
+organizëm_strehues n 1 2 ! @ 1 0 00205622
+fund n 10 3 ! @ ~ 10 0 00036388 00053714 00073829 00118406 00122916 00127673 00138411 00252075 00391432 00408913
+prostitucion n 1 2 @ ~ 1 0 00519565
+test n 2 2 @ ~ 2 0 00442712 00489976
+reflektim n 1 1 @ 1 0 00264060
+kupolë_qiellore n 1 2 %p @ 1 0 00318901
+fonde_investuese n 1 0 1 0 00346889
+ndjesi_dëgjimi n 1 1 @ 1 0 00466441
+gjiton n 1 1 @ 1 0 00179205
+israelit n 1 1 @ 1 0 00125734
+kategorizoj n 1 1 @ 1 0 00263265
+vënie_në_lojë n 1 1 @ 1 0 00153691
+pasoje n 1 1 @ 1 0 00052767
+ngjitës n 1 1 @ 1 0 00099500
+protoplazmë n 1 1 @ 1 0 00234039
+furtunë_e_fuqishme n 1 1 @ 1 0 00391663
+nuhas n 1 1 @ 1 0 00371581
+godas n 1 1 @ 1 0 00504530
+dobësi n 4 4 ! %p @ ~ 4 0 00057379 00168973 00251161 00374880
+dotrinë n 1 1 @ 1 0 00059827
+naze n 1 1 @ 1 0 00356532
+post n 2 1 ~ 2 0 00469888 00521832
+kompozim_muzikor n 1 2 @ ~ 1 0 00445799
+bëj_shaka n 1 1 @ 1 0 00153691
+infeksion n 1 1 @ 1 0 00206050
+rice n 1 1 #p 1 0 00148063
+gëlltitje n 1 1 @ 1 0 00279130
+grupim_moshë n 1 1 @ 1 0 00451620
+nenkulture n 1 1 @ 1 0 00510592
+interval_kohor n 1 1 ~ 1 0 00080809
+akademik n 1 2 @ ~ 1 0 00401168
+shëtitje n 1 1 @ 1 0 00131719
+pafuqishëm n 1 3 ! @ ~ 1 0 00333528
+parashutizëm n 1 1 @ 1 0 00536666
+mandat n 2 1 @ 2 0 00011556 00333412
+ëmbëlsirë n 2 2 @ ~ 2 0 00021130 00330204
+student n 1 1 @ 1 0 00524086
+kuti_teneqeje n 1 1 @ 1 0 00213792
+diskutim n 3 2 @ ~ 3 0 00111620 00290810 00298540
+matje_lineare n 1 2 @ ~ 1 0 00224288
+kreshmë n 1 2 @ ~ 1 0 00531038
+poet n 1 1 @ 1 0 00297780
+depo_hekurudhor n 1 1 @ 1 0 00454671
+grumbull_hekurishtesh n 1 1 @ 1 0 00118799
+dollar n 1 1 @ 1 0 00058415
+i_punësuar n 1 2 ! @ 1 0 00138290
+peshku_shtizë n 1 1 @ 1 0 00143667
+distancë n 1 1 @ 1 0 00377750
+korrent_ajri n 1 0 1 0 00192830
+dru_zjarri n 1 1 @ 1 0 00201744
+ngjyrë_bakri n 1 1 @ 1 0 00008797
+plak n 2 1 @ 2 0 00071562 00269009
+ngurtësim n 1 1 @ 1 0 00487021
+vazhdë n 1 0 1 0 00190931
+lidhje_sasie n 1 2 @ ~ 1 0 00134222
+keqbërje n 3 2 @ ~ 3 0 00210136 00267143 00374557
+tumor n 2 2 @ ~ 2 0 00114102 00134066
+shtjellim n 1 1 @ 1 0 00424715
+dominancë n 1 0 1 0 00465373
+rrëmujë n 2 3 ! @ ~ 2 0 00079117 00393414
+shëndetligë n 1 1 ~ 1 0 00332188
+jetë_bashkëshortore n 1 2 ;c @ 1 0 00071086
+flete_shkrim n 1 2 @ ~ 1 0 00039378
+biznes_qeveritar n 1 2 @ ~ 1 0 00038714
+containerful n 1 2 @ ~ 1 0 00536958
+oksid n 1 0 1 0 00062707
+imitim n 1 2 @ ~ 1 0 00341874
+stivë n 2 1 @ 2 0 00430521 00536039
+mundim n 1 2 @ ~ 1 0 00293115
+organ_jetësor n 1 1 @ 1 0 00267763
+shkenca_e_kimisë n 1 2 -c @ 1 0 00276367
+amfib n 1 1 @ 1 0 00408419
+fuqi_e_dytë n 1 1 @ 1 0 00181047
+i_njomë n 1 2 @ ~ 1 0 00316656
+kope n 1 1 @ 1 0 00325830
+ideologji n 1 1 @ 1 0 00484606
+bimë_riprodhuese n 1 2 @ ~ 1 0 00341255
+lojë_pokeri n 1 1 @ 1 0 00197812
+film n 1 2 -c @ 1 0 00262194
+constituent n 1 2 @ ~ 1 0 00311342
+fosfor n 1 1 @ 1 0 00164521
+organizatë_muzikore n 1 3 ~ @ %m 1 0 00289900
+eksportoj n 1 2 ! @ 1 0 00371441
+agjent_policor n 1 1 @ 1 0 00155065
+prek n 1 2 @ ~ 1 0 00191473
+traktor n 1 0 1 0 00112751
+idiom n 1 1 @ 1 0 00262807
+regjistroj n 1 2 @ ~ 1 0 00463907
+kontrolli_social n 1 2 @ ~ 1 0 00496401
+lëndë_e_parë n 1 1 @ 1 0 00040374
+teatër n 1 3 %p ;c @ 1 0 00497371
+fortësi n 2 2 @ ~ 2 0 00020789 00281696
+60_minuta n 1 3 #p %p @ 1 0 00530745
+miqësi n 2 2 @ ~ 2 0 00092405 00395765
+nënshtetas n 1 3 #m @ ~ 1 0 00502400
+hymenopter n 1 2 @ ~ 1 0 00283440
+vendbanim n 2 3 %p @ ~ 2 0 00116039 00485871
+gabim_i_lehtë n 1 1 @ 1 0 00401056
+frutë n 1 2 @ ~ 1 0 00501130
+këngë n 1 1 @ 1 0 00057003
+rrotullim n 2 2 @ ~ 2 0 00025011 00352957
+nënkuptim n 1 2 @ ~ 1 0 00119669
+vegla_,_mjete n 1 1 @ 1 0 00463516
+artikuj_prej_qelqi n 1 2 %s @ 1 0 00430962
+fenomen n 1 2 @ ~ 1 0 00505579
+pigment n 1 2 #s @ 1 0 00215702
+kushëri n 2 2 @ ~ 2 0 00133965 00485787
+fitim n 1 3 ! @ ~ 1 0 00239705
+p n 1 1 @ 1 0 00164521
+korrent n 1 1 @ 1 0 00042041
+llum n 1 1 @ 1 0 00093200
+u_vë_fre n 1 1 @ 1 0 00168886
+zhvillim n 5 3 ;c @ ~ 5 0 00032607 00064518 00103887 00320418 00527415
+njeri_i_shkencës n 1 1 @ 1 0 00171814
+dhimbjeheqës n 1 2 @ ~ 1 0 00005613
+krijim n 9 4 ~ %p @ %m 9 0 00007951 00042887 00047372 00103887 00117940 00139471 00222769 00285930 00510462
+pellg n 1 1 @ 1 0 00255533
+hipotezë n 1 3 #p @ ~ 1 0 00467035
+motivim n 2 2 @ ~ 2 0 00208403 00518707
+kërcitje n 1 1 @ 1 0 00278752
+nata n 1 1 @ 1 0 00052859
+bojë n 3 3 %s @ ~ 3 0 00025859 00386795 00471249
+përplasje n 2 1 @ 2 0 00427612 00468771
+vështroj n 1 1 @ 1 0 00140390
+sekondë n 2 3 #p @ ~ 2 0 00152930 00462226
+ritual_fetar n 1 2 @ ~ 1 0 00409109
+dështoj n 1 1 @ 1 0 00236304
+tip n 3 3 ;c @ ~ 3 0 00277523 00340758 00468891
+sipërfaqe_në_nivel n 1 2 @ ~ 1 0 00184702
+transportoj n 2 3 #p @ ~ 2 0 00015314 00088792
+autoritet n 2 2 @ ~ 2 0 00056891 00315774
+përshkrim n 2 2 @ ~ 2 0 00190113 00203026
+alternim n 1 2 @ ~ 1 0 00151675
+dëgjim n 1 1 @ 1 0 00351236
+qytetar n 1 1 @ 1 0 00360136
+shkallë_lëvizëse n 1 0 1 0 00297433
+falimentim n 2 1 @ 2 0 00325923 00516613
+bukuri n 1 2 ! @ 1 0 00173496
+gjendje_kome n 1 1 @ 1 0 00488307
+rrafshine n 2 2 @ ~ 2 0 00307680 00340010
+substance n 2 2 @ ~ 2 0 00496913 00514232
+garë_force n 1 1 @ 1 0 00288663
+aspirim n 1 1 @ 1 0 00161331
+kërkim n 6 2 @ ~ 6 0 00001477 00302663 00438530 00446336 00449759 00490084
+mbledh n 3 2 @ ~ 3 0 00188212 00307099 00330556
+kamionçinë n 1 2 @ ~ 1 0 00480334
+ilustrim n 1 2 @ ~ 1 0 00485302
+vend n 23 6 @ %p %m ~ #p ;c 23 0 00013678 00014509 00033150 00042299 00053974 00082640 00090325 00103053 00120611 00184993 00233805 00269178 00273757 00274139 00302417 00311820 00312964 00380517 00469888 00476761 00478207 00492379 00524924
+konkurrent n 1 1 @ 1 0 00112457
+force_e_armatosur n 1 2 -c @ 1 0 00218290
+mirëbesim n 1 1 @ 1 0 00447041
+bimë_ajri n 1 1 @ 1 0 00004368
+rul n 1 1 @ 1 0 00160417
+krijoj_nga_materiale_të_pa_punuar n 1 2 @ ~ 1 0 00129413
+kube n 1 1 @ 1 0 00430864
+shërbesë_rituale n 1 2 @ ~ 1 0 00473509
+kryepunëtor n 1 1 @ 1 0 00447545
+peme_familjare n 1 2 @ ~ 1 0 00126362
+konstruktor n 1 0 1 0 00419835
+pakujdesi n 2 1 @ 2 0 00165017 00181540
+shkenca_inxhinierike n 1 1 @ 1 0 00158496
+dru n 2 2 @ %m 2 0 00105481 00446171
+importim n 1 2 ! @ 1 0 00263878
+hap_i_madh n 1 1 @ 1 0 00002990
+lumturi n 3 2 ! @ 3 0 00101587 00374107 00417365
+zyrë_e_çështjeve_gjyqësore n 1 1 ~ 1 0 00419450
+i_dashur n 1 1 @ 1 0 00223356
+infermiere n 1 1 @ 1 0 00402480
+fustan n 1 1 %p 1 0 00387846
+rruge n 2 2 @ ~ 2 0 00228028 00403583
+kthesë n 2 3 #p ;c @ 2 0 00085346 00365509
+pjerrësi n 1 2 #p @ 1 0 00005348
+eksperiment n 1 0 1 0 00067099
+kuptim n 2 1 @ 2 0 00324126 00413600
+shesh_,përdhe n 1 2 #p @ 1 0 00303904
+koha_e_jetës n 1 3 #p @ ~ 1 0 00063399
+reklamim n 1 1 @ 1 0 00442037
+lule n 1 1 @ 1 0 00314027
+bllok_qyteti n 1 1 @ 1 0 00323068
+dyqan n 2 2 @ ~ 2 0 00150556 00433097
+gërgëre n 1 1 @ 1 0 00143879
+grup_komunikimi n 1 0 1 0 00172517
+pune_biznesi n 1 4 ~ ;c @ %m 1 0 00204007
+udhëzim n 1 0 1 0 00248827
+juri n 1 2 #m @ 1 0 00084707
+lojë_me_letra n 1 3 -c @ ~ 1 0 00393263
+aparat_akumulimi n 1 1 @ 1 0 00405953
+konfederatë n 2 1 @ 2 0 00286545 00342157
+karkasë_makinerie n 1 1 @ 1 0 00146362
+sforcim n 1 1 @ 1 0 00504651
+frenim n 1 0 1 0 00047066
+substance_helmuese n 1 0 1 0 00166218
+gjyq n 1 2 @ %m 1 0 00022775
+prani n 1 1 @ 1 0 00036204
+mulli n 2 1 @ 2 0 00519855 00522866
+fisnikëri n 1 0 1 0 00020674
+faqe n 9 3 #p @ ~ 9 0 00001246 00134514 00257887 00259834 00314505 00331831 00366568 00445972 00519018
+vjedh n 1 1 @ 1 0 00049121
+element_kimik n 1 3 %p @ ~ 1 0 00335538
+caktim n 2 2 @ ~ 2 0 00170892 00402756
+proces n 3 3 ;c @ ~ 3 0 00060675 00132455 00510334
+qortim n 1 1 @ 1 0 00233935
+emocion n 1 1 ~ 1 0 00081708
+prodhim n 4 2 @ ~ 4 0 00029410 00165300 00230141 00235505
+tutelë n 1 1 @ 1 0 00177360
+burime_monetare n 1 0 1 0 00518577
+emërim n 1 2 @ ~ 1 0 00015089
+kompjuter_elektronik n 1 2 %p @ 1 0 00475164
+mjeshter n 1 1 @ 1 0 00105214
+experiencë n 1 1 @ 1 0 00166792
+periudhë_kohore_e_vitit n 1 3 #p @ ~ 1 0 00126571
+këmbim_valutor n 1 1 @ 1 0 00039816
+feste n 1 2 @ ~ 1 0 00087657
+treg n 1 3 %p @ ~ 1 0 00533440
+mjete_sportive n 1 2 @ ~ 1 0 00096930
+mikroorganizëm n 1 3 ;c @ ~ 1 0 00274569
+ndërrim_qëndrimi n 1 1 @ 1 0 00085346
+hollësi n 2 1 @ 2 0 00431215 00499365
+tërheqje n 1 1 @ 1 0 00491793
+përballë n 1 2 ! @ 1 0 00299539
+diktim n 1 2 @ ~ 1 0 00118085
+orvatem n 1 1 @ 1 0 00504651
+i_shpejtë n 1 0 1 0 00459562
+pengim n 3 2 @ ~ 3 0 00099143 00261187 00358371
+pelush n 1 1 @ 1 0 00460969
+beard n 1 1 @ 1 0 00460645
+komunikim_i_folur n 1 3 ;c @ ~ 1 0 00261430
+konvergjencë n 1 2 @ ~ 1 0 00043023
+nen_figurë n 1 2 @ ~ 1 0 00038381
+revistë n 1 1 @ 1 0 00500618
+interesim n 2 2 ! @ 2 0 00017310 00056369
+zonjushe_e_re n 1 1 @ 1 0 00247147
+çështje n 3 2 @ ~ 3 0 00364960 00419450 00496579
+rrënim n 1 1 @ 1 0 00146866
+seksion_konik n 1 2 @ ~ 1 0 00203140
+perime_me_gjethe n 1 1 @ 1 0 00249145
+bije n 1 2 ! @ 1 0 00219895
+strukturë_organike n 1 3 %p ;c @ 1 0 00482879
+hymenopteron n 1 2 @ ~ 1 0 00283440
+krizë n 1 0 1 0 00461506
+pikë_ushtarake_,repart n 1 3 ;c @ ~ 1 0 00052408
+makinë_ushtarake n 1 3 ;c @ ~ 1 0 00241333
+personel_ushtarak n 1 4 ;c #m @ ~ 1 0 00442854
+lakuriqësi n 1 0 1 0 00312853
+temperaturë n 1 1 @ 1 0 00293784
+lot n 1 1 @ 1 0 00430521
+apel n 1 1 @ 1 0 00187300
+kombinacion n 1 1 @ 1 0 00533237
+i_palidhur n 1 2 ! @ 1 0 00511219
+kalli n 1 1 @ 1 0 00220005
+asgjesoj n 1 2 @ ~ 1 0 00451759
+stendë n 1 2 @ ~ 1 0 00477106
+dekret_ligji n 1 3 -c ;c @ 1 0 00264938
+kadife_me_vija n 1 1 @ 1 0 00418148
+jetë_bimore n 1 4 -c %p @ ~ 1 0 00100804
+rigjenerim n 1 2 @ ~ 1 0 00322415
+kujtesë n 2 2 @ ~ 2 0 00202344 00444027
+taks n 1 2 -c @ 1 0 00437460
+pasuri_e_transferueshme n 1 2 @ ~ 1 0 00209246
+temë n 5 2 @ ~ 5 0 00343782 00379674 00456745 00528532 00535872
+figurë n 1 1 @ 1 0 00068187
+idiom_frazeologjike n 1 1 @ 1 0 00262807
+kafshë_brejtëse n 1 2 @ ~ 1 0 00244694
+marrëdhënie_humane n 1 1 @ 1 0 00120369
+bëj_shkel_e_shko n 1 1 @ 1 0 00236304
+njësi n 4 3 %p @ ~ 4 0 00058702 00181687 00231399 00532189
+objektiv n 1 2 @ ~ 1 0 00255257
+vlerë n 3 2 @ ~ 3 0 00026508 00280223 00368740
+listimi n 1 3 %p @ ~ 1 0 00262617
+hormon n 1 1 @ 1 0 00496055
+ndryshim_i_zhdërvjelltë n 1 1 @ 1 0 00085346
+vazhdueshmëri n 1 1 @ 1 0 00046582
+orë n 6 4 #p %p @ ~ 6 0 00252854 00290931 00416087 00430431 00446517 00530745
+kornizë n 1 1 @ 1 0 00220719
+bazë_e_protezës_dentare n 1 1 @ 1 0 00133225
+zotërues n 1 1 @ 1 0 00147702
+në_rregull_nga_mëndtë n 1 1 @ 1 0 00103549
+udhë n 3 3 %p @ ~ 3 0 00126202 00302129 00463226
+artikull_gazetë n 1 2 #p @ 1 0 00509206
+kujdesem n 1 2 @ ~ 1 0 00394905
+camarok n 1 1 @ 1 0 00525045
+shtatzënësi n 1 1 @ 1 0 00044766
+variacion n 4 3 ;c @ ~ 4 0 00170135 00200963 00272951 00432840
+fyt n 1 2 %p @ 1 0 00271442
+njohje n 1 2 @ ~ 1 0 00437059
+rekord n 3 2 @ ~ 3 0 00020171 00383199 00442293
+shilte n 1 2 @ ~ 1 0 00029096
+shushatje n 2 1 @ 2 0 00116420 00326144
+brez_i_kositur n 1 1 @ 1 0 00422520
+forme_e_mysët n 1 2 @ ~ 1 0 00349936
+mëshire n 1 1 @ 1 0 00388954
+inteligjencë n 2 2 @ ~ 2 0 00131299 00240909
+gjendje_e_arkës n 1 1 @ 1 0 00360789
+hit n 1 1 @ 1 0 00173387
+formoj n 2 2 @ ~ 2 0 00163279 00365718
+pastërti n 1 1 @ 1 0 00516339
+interval_kohe n 1 1 @ 1 0 00068665
+preokupim n 1 2 @ ~ 1 0 00260509
+kqyres n 1 1 @ 1 0 00121707
+komë n 1 1 @ 1 0 00488307
+gjezdis n 1 2 @ ~ 1 0 00391001
+kokëshkëmb n 1 2 @ ~ 1 0 00115271
+kacavirrem n 1 1 @ 1 0 00318087
+pergjegjes n 1 1 @ 1 0 00447545
+soj n 1 2 @ ~ 1 0 00272951
+divizion_detar n 1 1 @ 1 0 00302793
+reagim n 2 1 @ 2 0 00265096 00452157
+protektori n 1 1 ~ 1 0 00118250
+breg n 2 3 ;c @ ~ 2 0 00142019 00172932
+skuqje n 1 1 @ 1 0 00280857
+ardhme n 1 2 ! @ 1 0 00107335
+njeri_me_pozitë n 1 2 @ ~ 1 0 00410117
+pjesëtar n 4 3 #m @ ~ 4 0 00142254 00167671 00327017 00440410
+bojaxhi n 1 1 @ 1 0 00131637
+organizatë_biznesi n 1 4 ~ ;c @ %m 1 0 00204007
+substancë_lubrifikuese n 1 0 1 0 00512773
+eksploziv n 1 2 #p @ 1 0 00046662
+agrikulrurë n 1 3 -c @ ~ 1 0 00201156
+marrëdhënie_sociale n 1 2 @ ~ 1 0 00058541
+rrethana_te_favorshme n 1 1 @ 1 0 00452654
+vere n 1 0 1 0 00453344
+mbrapa n 1 2 ! @ 1 0 00148684
+mendim_llogjik n 1 2 @ ~ 1 0 00138505
+shumëllojshmëri n 1 1 @ 1 0 00492128
+juridiksion n 2 3 ~ @ %m 2 0 00022775 00248902
+njësi_lineare n 1 2 @ ~ 1 0 00224288
+minutë n 2 4 #p %p @ ~ 2 0 00012695 00152930
+dukuri_mekanike n 1 2 @ ~ 1 0 00485645
+oponencë n 1 2 @ ~ 1 0 00143413
+rrogë n 1 1 @ 1 0 00279589
+pasim n 1 1 @ 1 0 00161824
+rrugëdalje n 1 1 @ 1 0 00153522
+fizika_e_përgjithshme n 1 2 -c @ 1 0 00350343
+bisht n 2 3 #p @ ~ 2 0 00141321 00332722
+pavarësi n 2 2 @ ~ 2 0 00040026 00466274
+parkim n 1 1 @ 1 0 00144179
+hebre n 1 1 @ 1 0 00125734
+alkal n 1 0 1 0 00176761
+program n 3 3 %p @ ~ 3 0 00127291 00364164 00421688
+kufi n 5 2 @ ~ 5 0 00070595 00216595 00396730 00462400 00536267
+fundërrine n 1 1 @ 1 0 00093200
+kam n 1 2 @ ~ 1 0 00382860
+mesazh_i_shkruar n 1 4 #p %p @ ~ 1 0 00032330
+çibuk n 1 1 @ 1 0 00477669
+molekulë n 2 3 %p ;c @ 2 0 00074603 00273432
+marrje_ne_pyetje n 2 2 @ ~ 2 0 00000577 00001477
+inekzistencë n 1 3 ! @ ~ 1 0 00350793
+zhvendosje n 2 2 @ ~ 2 0 00059435 00352523
+shkarkim_elektrike n 1 2 @ ~ 1 0 00337499
+det n 1 1 @ 1 0 00372271
+dizenjo n 1 2 @ ~ 1 0 00486760
+shaka n 2 1 @ 2 0 00028495 00153691
+lojë_atletike n 1 3 %p @ ~ 1 0 00189201
+prone n 1 3 #p @ ~ 1 0 00380049
+vendosje n 2 2 @ ~ 2 0 00080186 00237675
+kap n 1 1 @ 1 0 00061483
+korrje n 1 1 @ 1 0 00532059
+pjesëmarrje n 1 1 @ 1 0 00489398
+trgues_të_dhënash n 1 2 @ ~ 1 0 00408559
+arachnid n 1 1 @ 1 0 00221547
+24orë n 1 3 %p @ ~ 1 0 00124186
+event n 1 2 @ ~ 1 0 00409309
+pluhurzoj n 1 1 @ 1 0 00508513
+alegori n 1 0 1 0 00073461
+kohë_e_shkuar n 1 2 ! @ 1 0 00141897
+objekt_mendor n 1 2 @ ~ 1 0 00298964
+pengesë n 7 2 @ ~ 7 0 00027994 00088413 00099143 00261187 00358371 00405259 00436945
+shkollim n 1 1 @ 1 0 00214534
+lajthitje n 1 1 @ 1 0 00401056
+event_periodike n 1 2 @ ~ 1 0 00082241
+ngritje_çmimesh n 1 1 @ 1 0 00401389
+rehati n 1 0 1 0 00219228
+fotografi n 1 1 @ 1 0 00114198
+shërbimi_ushtarak n 1 1 @ 1 0 00298397
+libër_me_fakte n 1 1 @ 1 0 00155174
+motor n 3 2 @ ~ 3 0 00035902 00248176 00259987
+këllëf_dhëmbi n 1 2 #p @ 1 0 00163535
+bimë_shkëmbore n 1 1 @ 1 0 00171955
+shoqatë n 2 3 ~ @ %m 2 0 00067217 00070820
+gjykim n 5 3 ;c @ ~ 5 0 00048152 00217572 00285784 00305927 00504790
+bezdisje n 1 2 ;c @ 1 0 00245682
+lajm n 1 1 @ 1 0 00231906
+ankand n 1 2 @ ~ 1 0 00285379
+i_potershëm n 1 1 @ 1 0 00173387
+paaftësi_paguese n 1 2 @ ~ 1 0 00020061
+javë_pune n 1 2 #p @ 1 0 00114709
+kaluç n 1 0 1 0 00066772
+dikush n 1 4 %p #m @ ~ 1 0 00093924
+kamje n 2 2 @ ~ 2 0 00275303 00531967
+dremitje n 1 1 @ 1 0 00183492
+urdhërese n 1 2 ;c @ 1 0 00497987
+stampim n 1 2 @ ~ 1 0 00507008
+referencë_pune n 1 1 @ 1 0 00155174
+ndryshim n 7 3 ;c @ ~ 7 0 00151675 00172161 00200963 00203517 00319515 00387078 00390861
+lojë_me_pasa n 1 1 @ 1 0 00385513
+përqëndrim n 2 1 @ 2 0 00047486 00343261
+forme_e_harkuar n 1 3 ! @ ~ 1 0 00302517
+instrumente_muzikore n 1 2 @ ~ 1 0 00091305
+shuarje n 1 1 @ 1 0 00183377
+pjatë n 4 4 #p %p @ ~ 4 0 00070944 00184886 00277991 00536754
+pyetje n 2 2 @ ~ 2 0 00001477 00328283
+enëzor n 1 1 @ 1 0 00156695
+period n 1 1 ~ 1 0 00339041
+vrasje n 2 1 @ 2 0 00178703 00294690
+njësi_detare n 1 3 ;c @ ~ 1 0 00465524
+shami n 1 1 @ 1 0 00234392
+këmbë n 2 3 #p %p @ 2 0 00089977 00466770
+agjenci_federale n 1 2 @ ~ 1 0 00083988
+largim n 4 2 @ ~ 4 0 00144441 00194290 00468542 00503453
+njeri_i_shërbimit n 1 4 ;c #m @ ~ 1 0 00442854
+skuadër n 2 2 #m @ 2 0 00012972 00290149
+disonancë n 1 1 @ 1 0 00254770
+mbërritje n 3 2 @ ~ 3 0 00217686 00268349 00334307
+qenie_humane n 1 2 @ %m 1 0 00464946
+panik n 1 1 @ 1 0 00459754
+muzikë n 2 4 -c ;c @ ~ 2 0 00248613 00412503
+rezultat_përfundimtar n 1 1 ~ 1 0 00435592
+kartëvizite n 1 1 @ 1 0 00011178
+keqpërdorim n 1 2 @ ~ 1 0 00524219
+filozofi n 1 1 @ 1 0 00059827
+ëmbëlsim n 1 2 @ ~ 1 0 00093772
+pushim n 7 3 ! @ ~ 7 0 00090419 00222984 00264665 00325112 00331590 00377114 00378903
+guaskë n 2 2 @ ~ 2 0 00109935 00282262
+impuls n 2 1 @ 2 0 00252153 00368004
+afat_i_fundit n 1 1 @ 1 0 00121107
+i_dashuruar n 1 2 @ ~ 1 0 00179958
+gjethe n 2 3 #p @ ~ 2 0 00010739 00127777
+shkronja_alfabeti n 1 1 @ 1 0 00298056
+pasuri n 4 3 ! @ ~ 4 0 00275303 00424818 00458588 00531967
+hapsire_matematike n 1 2 ;c @ 1 0 00483376
+shprehje n 3 2 @ ~ 3 0 00228393 00264060 00444214
+sipërfaqe_urbanistike n 1 3 %p @ ~ 1 0 00097222
+aksion_ushtarak n 1 3 ;c @ ~ 1 0 00237823
+metrik n 1 0 1 0 00359970
+thyej n 2 2 @ ~ 2 0 00267143 00270873
+kryengritje n 1 1 @ 1 0 00024837
+shoqëri n 9 3 %p @ ~ 9 0 00070820 00092405 00159839 00338621 00368472 00391277 00426320 00467800 00489084
+e_kaluara n 1 1 @ 1 0 00432206
+helm n 1 0 1 0 00166218
+drejtim_i_gabuar n 1 2 @ ~ 1 0 00222223
+pjesë_bashkuese n 1 1 @ 1 0 00264521
+tokë n 6 2 @ ~ 6 0 00082382 00139371 00274139 00378596 00426423 00532268
+person n 3 4 %p #m @ ~ 3 0 00093924 00269986 00495601
+trajektore n 1 1 @ 1 0 00337015
+ingredient n 1 2 #p ~ 1 0 00469642
+udhëzues n 1 1 @ 1 0 00501270
+vërtetësi n 1 1 @ 1 0 00470601
+renie n 1 1 ~i 1 0 00303576
+tryezë_shkrimi n 1 1 @ 1 0 00314865
+pemë n 1 2 #m @ 1 0 00402185
+gjurmë n 3 2 @ ~ 3 0 00190931 00461610 00490788
+kujtoj n 1 2 @ ~ 1 0 00202344
+qëllim n 3 3 #p @ ~ 3 0 00180097 00312649 00388505
+burim_parash n 1 0 1 0 00518577
+i_ngrënshme n 1 1 @ 1 0 00449289
+fis n 4 3 %m @ ~ 4 0 00009961 00047156 00177110 00420682
+drith n 1 2 @ ~ 1 0 00107600
+pjesë_loje n 1 2 #p @ 1 0 00049972
+indigjen n 1 1 @ 1 0 00062003
+aftësi_njohëse n 1 2 @ ~ 1 0 00288754
+shtresë_trupi n 1 2 @ ~ 1 0 00190436
+tingull n 3 2 @ ~ 3 0 00194909 00271920 00466441
+mallra_sportivë n 1 2 @ ~ 1 0 00096930
+vije_kufitare n 2 2 @ ~ 2 0 00216595 00462400
+moralitet n 1 1 @ 1 0 00208403
+tërbim n 2 2 @ ~ 2 0 00458120 00520023
+konvikt n 1 1 @ 1 0 00019748
+province n 1 2 #m @ 1 0 00410271
+ndotje n 2 2 @ ~ 2 0 00058093 00457282
+supozoj n 1 2 @ ~ 1 0 00303176
+fqinj n 1 2 @ ~ 1 0 00018215
+cigare n 2 2 @ ~ 2 0 00138151 00322936
+produkte n 1 3 #p @ ~ 1 0 00185538
+tog n 1 1 @ 1 0 00536039
+frme n 1 1 @ 1 0 00254155
+antagonizëm n 1 1 @ 1 0 00138880
+vokalice n 1 1 @ 1 0 00221279
+qafe_mali n 1 2 #p @ 1 0 00024509
+gëzim n 4 3 ! @ ~ 4 0 00025737 00100663 00101587 00417365
+pirg n 2 1 @ 2 0 00430521 00536039
+besë n 2 1 @ 2 0 00397172 00481227
+banues n 1 2 @ ~ 1 0 00208270
+mjet_optikë n 1 1 @ 1 0 00515790
+gropë n 1 2 @ ~ 1 0 00156079
+ngjyrues n 1 1 @ 1 0 00386795
+koalicion n 2 2 @ ~ 2 0 00274734 00399595
+kundert n 1 1 @ 1 0 00489835
+varg_fjalesh n 1 1 @ 1 0 00062556
+proçedurë n 2 2 @ ~ 2 0 00355239 00379366
+ndikim n 3 1 @ 3 0 00025312 00258609 00505310
+pjesë_e_punës n 1 2 @ ~ 1 0 00396537
+klasë n 2 1 @ 2 0 00415077 00503069
+sipërfaqe_strehimi n 1 2 @ ~ 1 0 00428224
+afeksion n 1 0 1 0 00220180
+interstice n 1 1 @ 1 0 00472172
+ëndërr n 1 1 @ 1 0 00161331
+proces_i_pavetëdijshëm n 1 1 @ 1 0 00510334
+mobilje n 2 2 @ ~ 2 0 00320910 00381615
+ekuator n 1 1 @ 1 0 00300315
+ëmbëlsi n 1 0 1 0 00220180
+institucion n 2 3 ;c @ ~ 2 0 00117253 00128331
+tundje_e_kokës n 1 1 @ 1 0 00258873
+copë n 2 3 #p @ ~ 2 0 00007263 00179791
+shkronje n 1 1 @ 1 0 00298056
+individualitet n 1 1 @ 1 0 00124560
+koment n 2 1 @ 2 0 00300564 00308687
+formë n 4 2 @ ~ 4 0 00284037 00297585 00423824 00538523
+rival n 1 1 @ 1 0 00112457
+erozion n 1 1 @ 1 0 00466918
+fryrje n 1 3 #p @ ~ 1 0 00422073
+grabis n 1 1 @ 1 0 00061483
+uniformë,veshje n 1 1 @ 1 0 00450540
+vepër n 1 2 @ ~ 1 0 00382381
+pupla n 1 1 @ 1 0 00072283
+arratisem n 1 1 @ 1 0 00144441
+piramida n 1 1 @ 1 0 00239335
+h2o n 1 2 #s @ 1 0 00368330
+ujë n 1 2 #s @ 1 0 00368330
+detyrë_mbeshtetese n 1 1 @ 1 0 00209872
+marrëdhënie_miqësie n 1 2 @ ~ 1 0 00395765
+identifikim n 1 1 @ 1 0 00223992
+komunikacion_i_shkruar n 1 3 %p @ ~ 1 0 00266671
+vakt n 1 2 %p @ 1 0 00493713
+zbutës,lehtësues n 1 1 @ 1 0 00154313
+përpunim n 3 2 @ ~ 3 0 00162282 00265808 00286749
+e_shtënë n 2 1 @ 2 0 00152366 00432987
+ngjesh n 1 2 @ ~ 1 0 00103685
+germadhe n 1 1 ~ 1 0 00436693
+mase n 1 1 @ 1 0 00430521
+barna n 1 2 @ ~ 1 0 00532459
+kozmetikë n 1 1 @ 1 0 00487618
+operacion_finaciar n 1 2 @ ~ 1 0 00270962
+mbështjell n 1 1 @ 1 0 00279370
+natyrë n 3 4 #p %p @ ~ 3 0 00049749 00109529 00512249
+ligjshmëri n 1 1 ~ 1 0 00317257
+galeri n 1 2 @ ~ 1 0 00351727
+trembje n 1 2 @ ~ 1 0 00083363
+dhunë n 1 1 @ 1 0 00000712
+forcë_lëvizëse n 1 1 @ 1 0 00354729
+ngastër n 1 2 @ ~ 1 0 00156439
+fat_i_keq n 1 2 @ ~ 1 0 00380597
+skllavëri n 1 1 @ 1 0 00523689
+shembull n 2 2 @ ~ 2 0 00391800 00485302
+lojë_futbolli n 1 2 %p @ 1 0 00385148
+makroksmos n 1 3 %p @ %m 1 0 00007951
+parabolë n 1 1 @ 1 0 00059272
+autoritet_suprem n 1 2 @ ~ 1 0 00245226
+gjilpërë n 1 2 %p @ 1 0 00024284
+shfaq n 1 1 @ 1 0 00142973
+kohë_përpara n 1 2 ! @ 1 0 00141897
+premtim_i_shenjtë n 1 2 @ ~ 1 0 00133062
+pjese_aksioni n 1 1 @ 1 0 00438902
+qytet n 3 1 @ 3 0 00177526 00360136 00411031
+send n 3 2 @ ~ 3 0 00032532 00261660 00324458
+ndarje n 8 3 #p @ ~ 8 0 00045711 00069253 00084592 00085644 00123577 00216808 00307403 00503453
+ngushticë_ekonomike n 1 1 @ 1 0 00067789
+përshkrimi_i_objektit n 1 0 1 0 00349310
+base_on_balls n 1 1 @ 1 0 00002822
+testim_gojor n 1 1 @ 1 0 00429980
+marrëdhënie_matematike n 1 3 ;c @ ~ 1 0 00414709
+organizatë_financiare n 1 0 1 0 00309283
+waste n 1 1 @ 1 0 00125216
+pasardhës_djalë n 1 3 ! @ ~ 1 0 00095629
+kamionçinë_plazhi n 1 2 @ ~ 1 0 00480334
+orvajtje n 2 2 @ ~ 2 0 00229854 00528776
+mbuloj n 1 1 @ 1 0 00268712
+tërheq n 1 1 @ 1 0 00163896

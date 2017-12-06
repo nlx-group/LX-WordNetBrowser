@@ -1,0 +1,506 @@
+karismatisk a 1 0 1 0 00021740
+litterær a 1 0 1 0 00028349
+ru a 1 1 ! 1 0 00002033
+tilstedeværende a 1 1 = 1 0 00016290
+stille a 1 0 1 0 00024436
+offentlig a 1 1 ^ 1 0 00005303
+fargerik a 1 0 1 0 00014168
+bevegelig a 1 0 1 0 00006317
+tilgjengelig a 2 1 ^ 2 0 00008212 00011308
+imponerende a 1 0 1 0 00003205
+grundig a 1 1 ^ 1 0 00010623
+komplisert a 1 1 ^ 1 0 00026394
+midlertidig a 1 1 ! 1 0 00014850
+stram a 2 2 ! ^ 2 0 00002350 00004000
+transparent a 1 0 1 0 00016821
+fleksibel a 1 0 1 0 00011386
+uvant a 1 1 & 1 0 00003011
+økonomisk a 1 0 1 0 00029549
+syk a 1 0 1 0 00023148
+adelig a 1 0 1 0 00025714
+levende a 1 0 1 0 00012015
+verdslig a 1 0 1 0 00016058
+skyldig a 1 0 1 0 00021781
+skrøpelig a 1 0 1 0 00024075
+alvorlig a 1 1 = 1 0 00002137
+konvensjonell a 1 1 = 1 0 00002580
+musikalsk a 1 0 1 0 00021963
+rasjonell a 1 1 ^ 1 0 00011867
+het a 2 3 ! ^ = 2 0 00015473 00022293
+kvinnelig a 1 0 1 0 00025877
+tilfeldig a 1 0 1 0 00004705
+felles a 3 2 ! ^ 3 0 00011671 00012919 00016004
+tydelig a 1 1 ^ 1 0 00000849
+heldig a 1 0 1 0 00005764
+giftig a 1 1 ^ 1 0 00013644
+tankefull a 1 0 1 0 00022723
+sunn a 3 0 3 0 00002862 00019890 00024945
+immun a 1 0 1 0 00002203
+doven a 1 0 1 0 00003317
+mør a 1 0 1 0 00020390
+åpenlys a 1 1 ^ 1 0 00025916
+fet a 1 3 ! ^ & 1 0 00006686
+politisk a 1 0 1 0 00006020
+inkompetent a 1 1 & 1 0 00024472
+trivelig a 1 1 ^ 1 0 00016725
+veltalende a 1 0 1 0 00005198
+evig a 1 1 & 1 0 00012313
+geologisk a 1 0 1 0 00028388
+appetittlig a 1 0 1 0 00022119
+selskapelig a 1 2 ;c ^ 1 0 00010545
+dynamisk a 1 0 1 0 00001834
+bevisst a 1 1 ^ 1 0 00013739
+snar a 1 1 ;c 1 0 00001087
+passiv a 1 0 1 0 00001321
+likefrem a 1 0 1 0 00007367
+uvitende a 2 0 2 0 00012881 00018059
+offisiell a 1 0 1 0 00020611
+fast a 2 3 ! ^ = 2 0 00002697 00009062
+meningsfullt a 1 1 ^ 1 0 00004053
+endelig a 1 0 1 0 00026249
+kontroversiell a 1 0 1 0 00008508
+lukket a 1 0 1 0 00018897
+urolig a 1 1 & 1 0 00008791
+gjensidig a 1 0 1 0 00009559
+anonym a 1 0 1 0 00025165
+følsom a 1 1 = 1 0 00007312
+eiendommelig a 1 1 ! 1 0 00008845
+fortapt a 1 0 1 0 00020353
+misunnelig a 1 0 1 0 00007869
+lang a 2 2 ! = 2 0 00011743 00016096
+effektiv a 2 1 ^ 2 0 00010214 00013101
+estetisk a 1 0 1 0 00026645
+alkoholfri a 1 0 1 0 00007829
+bitter a 1 0 1 0 00008986
+gammel a 1 2 ^ = 1 0 00019924
+diplomatisk a 1 0 1 0 00012105
+ærlig a 1 1 ^ 1 0 00026286
+fornøyd a 1 0 1 0 00011171
+hjelpeløs a 1 0 1 0 00002310
+bekvemmelig a 1 1 = 1 0 00023897
+redd a 1 1 = 1 0 00017334
+original a 1 1 ^ 1 0 00021183
+feil a 2 0 2 0 00004634 00016219
+legal a 1 1 ! 1 0 00000960
+fysisk a 1 0 1 0 00027164
+tidlig a 1 2 ^ & 1 0 00024155
+nukleær a 1 0 1 0 00022980
+uforskammet a 1 0 1 0 00017706
+kunstnerisk a 1 0 1 0 00028985
+spontant a 1 0 1 0 00023807
+barnslig a 1 0 1 0 00005982
+produktiv a 1 0 1 0 00013463
+avskyelig a 1 0 1 0 00027769
+forsiktig a 2 1 ^ 2 0 00012146 00014386
+hyppig a 1 0 1 0 00011350
+primær a 1 3 ! ^ & 1 0 00028012
+frisk a 3 1 ^ 3 0 00002862 00016354 00018196
+familiær a 1 0 1 0 00006773
+gunstig a 1 0 1 0 00021031
+oral a 1 0 1 0 00010842
+triviell a 1 1 & 1 0 00000697
+ordentlig a 1 1 ^ 1 0 00000379
+indre a 1 2 ! ^ 1 0 00005871
+kald a 3 3 ! ^ = 3 0 00010386 00026452 00026808
+transportabel a 1 0 1 0 00013794
+akademisk a 1 0 1 0 00028310
+lignende a 1 0 1 0 00002472
+søt a 2 1 ! 2 0 00004127 00018249
+munter a 1 1 ^ 1 0 00027092
+sosialistisk a 1 1 ^ 1 0 00000753
+skriftlig a 1 0 1 0 00027345
+virkelig a 3 4 ! ^ & = 3 0 00013228 00015275 00020869
+løs a 1 1 ! 1 0 00025582
+tilstrekkelig a 2 1 ! 2 0 00001357 00011425
+skadelig a 1 1 ^ 1 0 00004578
+ansvarlig a 1 0 1 0 00021490
+filosofisk a 1 0 1 0 00028867
+nøyaktig a 2 1 ^ 2 0 00007219 00017929
+direkte a 2 0 2 0 00006904 00011978
+lovmessig a 1 0 1 0 00028787
+berømt a 1 0 1 0 00000454
+ledig a 1 0 1 0 00019201
+regelmessig a 1 1 ^ 1 0 00005451
+internasjonal a 1 0 1 0 00006941
+tvetydig a 1 0 1 0 00015633
+respektabel a 1 0 1 0 00013698
+privat a 1 1 & 1 0 00011254
+fulltids a 1 1 ! 1 0 00014963
+hjelpsom a 1 0 1 0 00001629
+ytre a 1 1 ! 1 0 00002904
+større a 1 1 ! 1 0 00017571
+glad a 1 2 ! ^ 1 0 00010013
+ulik a 2 1 ^ 2 0 00012530 00018450
+single a 1 1 ! 1 0 00023511
+romantisk a 1 0 1 0 00026514
+riktig a 2 4 ! ^ & = 2 0 00013228 00020869
+separat a 1 2 ! ^ 1 0 00013372
+eksklusiv a 1 0 1 0 00022904
+daglig a 1 0 1 0 00023606
+avhengig a 2 1 ! 2 0 00008905 00019007
+gravid a 1 0 1 0 00016482
+kulturell a 1 0 1 0 00029305
+typisk a 1 1 ^ 1 0 00010754
+demokratisk a 1 0 1 0 00003752
+systematisk a 1 1 ^ 1 0 00023344
+meningsfull a 1 1 ^ 1 0 00004053
+påståelig a 1 1 ^ 1 0 00017422
+mektig a 1 2 ^ = 1 0 00015914
+genetisk a 1 0 1 0 00029063
+operasjonell a 1 0 1 0 00028546
+flytende a 1 2 ! = 1 0 00003534
+ferdig a 2 1 = 2 0 00014741 00015437
+presis a 2 1 ^ 2 0 00007681 00020650
+velduftende a 1 0 1 0 00008171
+akseptabel a 1 0 1 0 00022119
+klassisk a 1 0 1 0 00013502
+takknemlig a 1 0 1 0 00013896
+permanent a 1 3 ! ^ & 1 0 00016632
+fantastisk a 1 0 1 0 00017258
+sjelden a 1 0 1 0 00018301
+avgjørende a 1 0 1 0 00009859
+rolig a 2 1 ^ 2 0 00008365 00014206
+myk a 2 3 ! ^ = 2 0 00005360 00022173
+mekanisk a 1 0 1 0 00004269
+maksimal a 1 1 ! 1 0 00006520
+indirekte a 1 0 1 0 00001282
+tjenstvillig a 1 0 1 0 00001629
+høy a 3 3 ! ^ = 3 0 00007167 00008418 00021529
+upassende a 2 2 ! & 2 0 00009938 00019327
+eksperimentell a 1 0 1 0 00028427
+arrogant a 1 1 & 1 0 00026984
+irrelevant a 1 1 ! 1 0 00019832
+provinsiell a 1 0 1 0 00006610
+yrkesmessig a 1 0 1 0 00028826
+frossen a 1 0 1 0 00022943
+plutselig a 1 1 ! 1 0 00006170
+vanskelig a 1 2 ! = 1 0 00027437
+ravfarget a 1 0 1 0 00004539
+rettferdig a 1 0 1 0 00016781
+interaktiv a 1 0 1 0 00025674
+manuell a 1 1 ! 1 0 00013046
+abnorm a 1 1 ! 1 0 00024770
+blåst a 1 1 ! 1 0 00021313
+vellykket a 1 0 1 0 00024036
+fakultativ a 1 0 1 0 00026100
+farlig a 1 1 ! 1 0 00015542
+kontinental a 1 0 1 0 00028944
+historisk a 1 0 1 0 00020479
+lys a 2 1 ! 2 0 00005003 00022260
+hard a 3 2 ! ^ 3 0 00001782 00008705 00012955
+tom a 1 2 ! & 1 0 00018828
+firkantet a 1 1 ! 1 0 00014629
+sky a 1 2 ! = 1 0 00025513
+ny a 2 2 ^ = 2 0 00004362 00027646
+enkel a 1 0 1 0 00006651
+entusiastisk a 1 1 ^ 1 0 00008552
+ærverdig a 1 1 ^ 1 0 00016389
+negativ a 1 1 ! 1 0 00002956
+stadig a 1 0 1 0 00004929
+spennende a 1 1 ^ 1 0 00027882
+sterk a 3 1 ^ 3 0 00003077 00015782 00025442
+blodig a 1 0 1 0 00000813
+innfødt a 1 0 1 0 00000922
+sneversynt a 1 2 ^ & 1 0 00009312
+tradisjonell a 1 0 1 0 00016518
+stolt a 1 1 & 1 0 00020558
+medfødt a 1 0 1 0 00015019
+tolerant a 1 1 ^ 1 0 00021257
+fargeblind a 1 1 & 1 0 00019518
+sannsynlig a 1 0 1 0 00007909
+varig a 1 0 1 0 00013193
+dyp a 1 1 ! 1 0 00024824
+etablert a 1 0 1 0 00022685
+pasjonert a 1 1 ^ 1 0 00022503
+landlig a 1 0 1 0 00029026
+forutsigbar a 1 0 1 0 00014480
+positiv a 1 1 ! 1 0 00023752
+ordinær a 2 3 ! ^ & 2 0 00025053 00026553
+dramatisk a 1 0 1 0 00028471
+langsom a 1 1 ^ 1 0 00009257
+uendelig a 1 0 1 0 00009900
+elegant a 1 1 ^ 1 0 00014686
+blank a 1 1 & 1 0 00018775
+nøytral a 1 0 1 0 00004965
+konstruktiv a 1 0 1 0 00025313
+moden a 2 3 ! ^ = 2 0 00012052 00022362
+alene a 1 0 1 0 00011636
+progressiv a 1 1 ^ 1 0 00005054
+tro a 2 1 = 2 0 00005510 00012420
+kort a 2 2 ! = 2 0 00015385 00022433
+nervøs a 2 0 2 0 00018022 00029256
+smertefull a 1 0 1 0 00025634
+døv a 1 0 1 0 00006576
+full a 1 1 ! 1 0 00014063
+lav a 2 1 ! 2 0 00002421 00012848
+sentral a 1 0 1 0 00005543
+relevant a 1 1 ! 1 0 00019366
+fientlig a 1 1 ^ 1 0 00007093
+uungåelig a 1 0 1 0 00010288
+illegal a 1 1 ! 1 0 00025990
+arkeologisk a 1 0 1 0 00029668
+nødvendig a 2 1 ^ 2 0 00017162 00020032
+mulig a 1 1 = 1 0 00009506
+sikker a 3 1 ! 3 0 00002785 00019576 00027939
+umoden a 2 2 ! & 2 0 00004485 00004875
+dødelig a 1 0 1 0 00023642
+kunstig a 1 0 1 0 00001418
+gratis a 1 0 1 0 00027309
+fredfylt a 1 1 ^ 1 0 00019672
+vilter a 1 0 1 0 00022868
+representativ a 1 0 1 0 00021140
+mangfoldig a 1 0 1 0 00020518
+smal a 1 2 ^ = 1 0 00025354
+utstrakt a 1 2 ^ & 1 0 00010083
+kvantitativ a 1 0 1 0 00029138
+konservativ a 1 3 ! ^ = 1 0 00018680
+lineær a 1 0 1 0 00010678
+vis a 2 1 ! 2 0 00006846 00009801
+spesifikk a 1 0 1 0 00013007
+trinnvis a 1 2 ! ^ 1 0 00024979
+tålmodig a 1 1 ^ 1 0 00009388
+hellig a 2 1 ^ 2 0 00011924 00025841
+minneverdig a 1 0 1 0 00002821
+usårlig a 1 0 1 0 00020831
+høflig a 1 0 1 0 00027975
+usedvanlig a 1 1 & 1 0 00003011
+vill a 1 0 1 0 00023440
+sammenlignbar a 1 1 ^ 1 0 00027248
+kompatibel a 1 0 1 0 00005411
+pratsom a 1 0 1 0 00017669
+tørr a 1 0 1 0 00007986
+klønete a 1 0 1 0 00025803
+dumdristig a 1 1 & 1 0 00007771
+fortidig a 1 1 ! 1 0 00005650
+innlysende a 2 1 ^ 2 0 00003608 00009649
+lik a 1 1 ! 1 0 00017111
+sofistikert a 1 1 ^ 1 0 00012471
+moderne a 1 1 ^ 1 0 00018338
+magnetisk a 1 0 1 0 00028271
+innflytelsesrik a 1 0 1 0 00011209
+ynkelig a 1 0 1 0 00012591
+svart a 1 0 1 0 00019630
+kritisk a 2 1 = 2 0 00002137 00023965
+plan a 1 1 ^ 1 0 00024875
+nobel a 1 1 ^ 1 0 00027384
+middelaldersk a 1 0 1 0 00029428
+reservert a 1 0 1 0 00010175
+implisitt a 1 1 ! 1 0 00006058
+utdødd a 1 0 1 0 00027211
+organisk a 1 0 1 0 00003793
+elektronisk a 1 0 1 0 00029589
+personlig a 1 1 & 1 0 00027512
+abstrakt a 1 1 ! 1 0 00016862
+grafisk a 1 1 & 1 0 00000491
+gresselig a 1 0 1 0 00027769
+dyktig a 2 1 ^ 2 0 00002238 00013936
+uformell a 1 0 1 0 00021599
+minimal a 1 1 ! 1 0 00014008
+latterlig a 1 1 ! 1 0 00003148
+brun a 1 0 1 0 00026774
+ødelagt a 1 0 1 0 00020793
+venstreorientert a 1 1 ^ 1 0 00017747
+moteriktig a 1 0 1 0 00019422
+sint a 1 0 1 0 00024002
+forskjellig a 2 1 ^ 2 0 00012530 00018450
+dekorativ a 1 0 1 0 00015743
+mild a 1 1 ! 1 0 00014577
+lett a 2 2 ! = 2 0 00021637 00026197
+aggressiv a 1 1 ^ 1 0 00024677
+morsom a 1 0 1 0 00017298
+strukturell a 1 0 1 0 00028192
+uavbrutt a 1 1 & 1 0 00012792
+romlig a 1 0 1 0 00011135
+mental a 1 0 1 0 00028510
+mett a 1 0 1 0 00010808
+død a 1 0 1 0 00006812
+overvektig a 1 1 & 1 0 00010328
+statistisk a 1 0 1 0 00028747
+fullstendig a 1 1 ! 1 0 00015855
+tallrikt a 1 1 ^ 1 0 00014521
+velkjent a 1 0 1 0 00020147
+engstelig a 1 0 1 0 00029256
+sekundær a 1 1 ! 1 0 00007624
+grusom a 1 0 1 0 00024531
+rask a 1 1 ;c 1 0 00001087
+intern a 1 1 ! 1 0 00024623
+interessant a 1 1 ^ 1 0 00015057
+lykkelig a 2 1 ^ 2 0 00005764 00011043
+glatt a 2 2 ! ^ 2 0 00015116 00021400
+utrolig a 1 1 = 1 0 00023059
+moralsk a 1 1 ^ 1 0 00020424
+umulig a 1 1 = 1 0 00012628
+praktisk a 2 2 ^ & 2 0 00011486 00022002
+ren a 3 2 ! ^ 3 0 00012244 00018097 00019799
+myndig a 1 1 ;c 1 0 00007038
+mørk a 1 1 ! 1 0 00026721
+siste a 1 0 1 0 00023181
+førstehånds a 1 1 & 1 0 00009445
+tynn a 1 1 ! 1 0 00027040
+billig a 1 1 ! 1 0 00006356
+sirlig a 1 1 ^ 1 0 00006984
+sur a 1 1 ! 1 0 00009598
+liten a 1 2 ! = 1 0 00019728
+overlegen a 1 1 = 1 0 00018393
+relativ a 1 1 ! 1 0 00023289
+gift a 1 1 ! 1 0 00001730
+grunnleggende a 1 0 1 0 00017626
+behjelpelig a 1 0 1 0 00001629
+perfekt a 1 1 ^ 1 0 00014259
+dyr a 1 1 ! 1 0 00017025
+tørst a 1 1 ! 1 0 00022631
+konkret a 1 2 ! ^ 1 0 00004394
+universell a 1 1 & 1 0 00005706
+nasjonal a 1 0 1 0 00029630
+klebrig a 2 0 2 0 00000546 00001245
+klar a 2 1 ^ 2 0 00003608 00009649
+skjendig a 1 0 1 0 00024398
+teknisk a 1 0 1 0 00029179
+optimistisk a 1 0 1 0 00027605
+intens a 1 2 ! ^ 1 0 00016560
+funksjonell a 1 1 = 1 0 00008112
+tung a 1 2 ! = 1 0 00002510
+blond a 1 0 1 0 00004744
+bekvem a 1 1 = 1 0 00023897
+fattig a 1 0 1 0 00003112
+sivil a 1 0 1 0 00017076
+sympatisk a 1 0 1 0 00010715
+primitiv a 1 0 1 0 00004837
+senior a 1 2 ! ^ 1 0 00015671
+første a 1 1 ^ 1 0 00010952
+skarp a 1 1 ! 1 0 00028139
+klok a 2 1 ! 2 0 00006846 00009801
+stabil a 2 1 ^ 2 0 00006227 00023680
+årlig a 1 0 1 0 00003831
+aktiv a 1 3 ^ & = 1 0 00007405
+diskré a 1 0 1 0 00016253
+utilstrekkelig a 1 1 ! 1 0 00027820
+ufeilbarlig a 1 0 1 0 00018097
+individuell a 1 0 1 0 00012203
+nåværende a 1 1 ! 1 0 00013837
+strategisk a 1 0 1 0 00029509
+råtten a 2 0 2 0 00023403 00023474
+finansiell a 1 0 1 0 00019287
+tett a 2 2 ! = 2 0 00005580 00017481
+formell a 1 0 1 0 00003655
+deltids a 1 1 ! 1 0 00018568
+digital a 1 0 1 0 00028907
+blind a 1 1 & 1 0 00016918
+konstant a 2 2 ^ & 2 0 00001872 00019462
+vitenskapelig a 1 0 1 0 00022076
+empirisk a 1 0 1 0 00026683
+rund a 1 1 ! 1 0 00018144
+stor a 2 3 ! & = 2 0 00009714 00022762
+følelsesbetonet a 1 0 1 0 00003352
+populær a 1 1 = 1 0 00024567
+generell a 1 1 ^ 1 0 00024283
+real a 1 1 ^ 1 0 00023845
+ekte a 2 2 ^ & 2 0 00015223 00026896
+profesjonell a 1 0 1 0 00029344
+horisontal a 1 2 & = 1 0 00011560
+kronisk a 1 1 ! 1 0 00020185
+sulten a 1 1 ! 1 0 00011813
+menneskelig a 1 0 1 0 00028706
+ubetydelig a 2 2 ! & 2 0 00004779 00025201
+liberal a 1 3 ! ^ = 1 0 00008021
+uskyldig a 1 0 1 0 00000583
+eksplisitt a 1 3 ! ^ & 1 0 00001517
+uintelligent a 1 1 ! 1 0 00021313
+vannrett a 1 1 & 1 0 00002641
+modig a 2 3 ^ & = 2 0 00003246 00007553
+handy a 1 1 & 1 0 00022578
+viktig a 2 2 ^ = 2 0 00006448 00027569
+rik a 1 1 ^ 1 0 00019236
+behendig a 1 1 & 1 0 00008649
+rikelig a 1 1 & 1 0 00004307
+industriell a 1 1 ^ 1 0 00024339
+tykk a 2 1 ^ 2 0 00001053 00009096
+juridisk a 1 0 1 0 00028588
+rå a 1 0 1 0 00021707
+yngling a 1 1 ! 1 0 00010490
+vel_tilfreds a 1 1 ^ 1 0 00003692
+obskur a 1 0 1 0 00008329
+begrenset a 2 1 ^ 2 0 00003438 00020108
+selvsikker a 1 2 ! = 1 0 00000621
+bedrøvet a 1 1 ! 1 0 00021818
+anspent a 1 1 & 1 0 00012365
+fjern a 2 3 ! ^ = 2 0 00016148 00020722
+ekstern a 1 1 ! 1 0 00006115
+våken a 1 1 ^ 1 0 00014314
+ekstraordinær a 1 2 ! ^ 1 0 00001147
+eksotisk a 2 1 & 2 0 00015817 00024227
+offensiv a 1 1 ^ 1 0 00018933
+skamfull a 1 0 1 0 00006410
+fin a 2 2 ^ = 2 0 00005147 00013540
+legmelig a 1 0 1 0 00027164
+sløv a 1 1 ! 1 0 00014115
+intellektuell a 1 1 = 1 0 00017868
+fri a 1 2 ^ = 1 0 00001928
+travel a 1 0 1 0 00001997
+skitten a 2 1 ! 2 0 00014443 00014795
+sann a 2 4 ! ^ & = 2 0 00013228 00020869
+overfladisk a 1 0 1 0 00023018
+bratt a 1 0 1 0 00009766
+gavmild a 1 0 1 0 00027732
+dum a 1 1 ! 1 0 00021313
+realistisk a 1 1 ^ 1 0 00010876
+normal a 2 2 ! ^ 2 0 00002083 00021068
+objektiv a 1 1 ! 1 0 00000323
+overvåken a 1 1 ^ 1 0 00003867
+ivrig a 1 1 ^ 1 0 00021875
+vakker a 2 1 & 2 0 00016971 00025259
+nysgjerrig a 1 0 1 0 00009022
+fæl a 1 0 1 0 00010456
+uavhengig a 1 2 ! ^ 1 0 00019108
+oppstemt a 1 0 1 0 00009148
+miljømessig a 1 0 1 0 00029386
+nedtrykt a 1 0 1 0 00017220
+revolusjonær a 1 0 1 0 00008943
+kommunal a 1 0 1 0 00029471
+falsk a 1 2 ! = 1 0 00009186
+vennlig a 2 1 ^ 2 0 00012682 00026045
+ortodoks a 1 1 ^ 1 0 00025109
+skallet a 1 0 1 0 00007949
+sort a 2 0 2 0 00001696 00019630
+vilkårlig a 1 0 1 0 00001013
+homoseksuell a 1 1 = 1 0 00005811
+akutt a 1 1 ! 1 0 00025750
+maritim a 1 0 1 0 00029101
+oppmerksom a 1 0 1 0 00003398
+trøtt a 1 0 1 0 00017386
+usynlig a 1 0 1 0 00008612
+føderativ a 1 0 1 0 00005942
+dårlig a 3 0 3 0 00015596 00020240 00021453
+seksuell a 1 1 = 1 0 00008452
+månedlig a 1 0 1 0 00003495
+karakteristisk a 1 1 ^ 1 0 00001455
+etnisk a 1 1 & 1 0 00013318
+ønskverdig a 1 0 1 0 00023565
+parallell a 1 1 ^ 1 0 00008272
+kjølig a 2 2 ^ = 2 0 00012719 00026452
+vital a 1 0 1 0 00005112
+etisk a 1 0 1 0 00021928
+hjernetom a 1 1 ! 1 0 00021313
+logisk a 1 1 ^ 1 0 00005249
+seriøs a 1 0 1 0 00004668
+erfaren a 1 1 ^ 1 0 00023216
+livlig a 1 1 ^ 1 0 00014909
+komplett a 1 1 ^ 1 0 00017515
+årstidsbestemt a 1 0 1 0 00019063
+subjektiv a 1 1 ! 1 0 00003943
+matematisk a 1 0 1 0 00029216
+regional a 1 0 1 0 00028668
+rett a 2 0 2 0 00008757 00023114
+åpen a 1 0 1 0 00013609
+byråkratisk a 1 0 1 0 00028626
+behagelig a 1 1 ^ 1 0 00026140
+pålitelig a 1 0 1 0 00024115
+religiøs a 1 0 1 0 00017829
+sosial a 1 2 ^ & 1 0 00004179
+ambisiøs a 1 1 = 1 0 00018623
+automatisk a 1 2 ! ^ 1 0 00020277
+militær a 1 0 1 0 00028233
+annerledes a 2 1 ^ 2 0 00012530 00018450
+sømmelig a 1 0 1 0 00018529
+elokvent a 1 0 1 0 00005198
+kommersiell a 1 1 = 1 0 00007494

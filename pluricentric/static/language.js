@@ -49,6 +49,7 @@ function languageSettings(type, language) {
             'formLabel': 'traduzir para: ',
             'searchInput': 'pesquisar uma palavra',
             'search': 'pesquisa',
+            'mismatchText': 'Incompatibilidade de par interlingue',
             'globe': 'traduções',
             'startPhrase': 'línguas: ',
             'languageChange': 'selecionar língua',
@@ -104,6 +105,7 @@ function languageSettings(type, language) {
             'formLabel': 'translations to: ',
             'searchInput': 'search for a word',
             'search': 'search',
+            'mismatchText': 'Interlingual paring mismatch',
             'globe': 'translations',
             'startPhrase': 'translations to: ',
             'languageChange': 'change the display language',
@@ -111,6 +113,61 @@ function languageSettings(type, language) {
             'collision': 'The word you are searching for appears in more than one language. Choose which one you would'+
             ' like to explore through in the menu below.',
             'langSelect': 'Select a language'
+        },
+        'فارسى': {
+            'concept': 'مفاهیم مرتبط',
+            'relationsMenu': {
+                'translation': 'ترجمه ها',
+                'directHypernym': 'انتقالی',
+                'inheritedHypernym': 'پدر های مستقیم',
+                'directHyponym': 'انتقالی',
+                'fullHyponym': 'فرزند های مستقیم',
+                'directTroponym': 'انتقالی',
+                'fullTroponym': 'تروپونیم های مستقیم',
+                'memberHolonym': 'هولونیم عضویت',
+                'substanceHolonym': 'هولونیم جنس',
+                'partHolonym': 'هولونیم بخش',
+                'memberMeronym': 'مرونیم عضویت',
+                'substanceMeronym': 'مرونیم ماده',
+                'partMeronym': 'مرونیم بخش',
+                'antonym': 'تضاد',
+                'instanceHypernym': 'نمونه ای است از ...',
+                'instanceHyponym': 'نمونه ای دارد از ...',
+                'attribute': 'ویژگی',
+                'derivationallyRelatedForm': 'اشتقاق',
+                'entailment': 'استلزام',
+                'cause': 'علت',
+                'alsoSee': 'همچنین مشاهده کنید',
+                'verbGroup': 'گروه فعلی',
+                'similarTo': 'شبیه به',
+                'participleOfVerb': 'وجه وصفی فعل',
+                'pertainym': 'pertainym',
+                'derivedFromAdjective': 'مشتق از صفت',
+                'domainCategory': 'رده حوزه',
+                'domainTermCategory': 'رده حوزه لغوی',
+                'domainRegion': 'حوزه ناحیه',
+                'domainTermRegion': 'حوزه ناحیه لغوی',
+                'domainUsage': 'حوزه کاربرد',
+                'domainTermUsage': 'حوزه کاربرد لغوی',
+                'noRelations': 'رابطه ای بین این گروه معنایی و گروه دیگری ثبت نشده است',
+                'derivationallyRelatedFormDisplay': 'مرتبط با',
+                'concept': 'مفهوم',
+                'overview': 'مرور',
+                'sentenceFrame': 'ساختمان جمله',
+            },
+            'searchNotFound': 'جستجو موفق به پیدا کردن کلمه مورد نظر نشد',
+            'defLabel': 'معنا',
+            'transConcept': 'مفهوم',
+            'formLabel': 'ترجمه ها به',
+            'searchInput': 'جستجو برای کلمه',
+            'search': 'جستجو',
+            'mismatchText': 'عدم تناسب جفت های میان زبانی',
+            'globe': 'ترجمه ها',
+            'startPhrase': 'ترجمه ها به:',
+            'languageChange': 'تغییر زبان',
+            'noTransLangSelected': 'زبانی انتخاب نشده است',
+            'collision': 'کلمه مورد نظر شما در بیش از یک زبان یافت شد.  زبان مورد نظر را از لیست زیر انتخاب نمایید',
+            'langSelect': 'زبان مورد نظر را انتخاب نمایید'
         }
     };
     return languageList[language][type];
@@ -127,7 +184,7 @@ function languageList(){
 }
 
 function implementedLanguageList(){
-    return ['Portuguese', 'English'];
+    return ['Portuguese', 'English', 'فارسى'];
 }
 
 function CodeToCountry(language) {
@@ -154,7 +211,8 @@ function CodeToCountry(language) {
             'lat':'Latin','lav':'Latvian','lit':'Lithuanian','mkd':'Macedonian','nld':'Dutch','nno':'Nynorsk',
             'nob':'Bokmål','pol':'Polish','ron':'Romanian','rus':'Russian','slk':'Slovak','slv':'Slovene',
             'spa':'Spanish','swa':'Swahili','swe':'Swedish','tel':'Telugu','tha':'Thai','tur':'Turkish',
-            'ukr':'Ukrainian','urd':'Urdu','vie':'Vietnamese','vol':'Volapük','zsm':'Malaysian'
+            'ukr':'Ukrainian','urd':'Urdu','vie':'Vietnamese','vol':'Volapük','zsm':'Malaysian', 'qcn': 'Taiwan Chinese',
+            'por': 'Português'
         }
     };
     return countryCodeList[language];
@@ -172,7 +230,7 @@ function CountryToCode(language) {
                   'Nynorsk': 'nno', 'Bokmål': 'nob', 'Polish': 'pol', 'Romanian': 'ron', 'Russian': 'rus',
                   'Slovak': 'slk', 'Slovene': 'slv', 'Spanish': 'spa', 'Swahili': 'swa', 'Swedish': 'swe',
                   'Telugu': 'tel', 'Thai': 'tha', 'Turkish': 'tur', 'Ukrainian': 'ukr', 'Urdu': 'urd',
-                  'Vietnamese': 'vie', 'Volapük': 'vol', 'Malaysian': 'zsm'}
+                  'Vietnamese': 'vie', 'Volapük': 'vol', 'Malaysian': 'zsm', 'Taiwan Chinese':'qcn', 'Português': 'por'};
     return codeList[language];
 }
 

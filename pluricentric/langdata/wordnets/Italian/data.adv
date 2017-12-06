@@ -1,0 +1,1329 @@
+  01 This file is a derivation of the wn-ita-lmf.xml file; the original ita-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 label: MultiWordNet
+  04 language: ita
+  05 version: 10
+  06 languageCoding: ISO 639-3
+  07 owner: BY
+00000321 00 r 04 difilato 0 dritto 0 direttamente 0 diritto 0 001 ! 00019417 r 0000 |    
+00000411 00 r 01 anticostituzionalmente 0 001 ! 00015108 r 0000 |    
+00000481 00 r 01 centralmente 0 001 ! 00014742 r 0000 | in centro
+00000547 00 r 01 espressamente 0 000 |    
+00000590 00 r 03 senza_dare_nell&apos;occhio 0 in_modo_da_non_attirare_l&apos;attenzione 0 GAP! 0 001 ! 00021709 r 0000 |    
+00000716 00 r 01 ambiziosamente 0 000 | in modo ambizioso
+00000774 00 r 03 permanentemente 0 stabilmente 0 definitivamente 0 001 ! 00021090 r 0000 |    
+00000869 00 r 02 in_linea_teorica 0 teoricamente 0 001 ! 00016461 r 0000 |    
+00000948 00 r 01 plausibilmente 0 001 ! 00006540 r 0000 |    
+00001010 00 r 01 proprio 0 001 ;u 01300328 n 0000 |    
+00001066 00 r 01 dubbiosamente 0 000 |    
+00001109 00 r 06 illegalmente 0 ingiustamente 0 indebitamente 0 abusivamente 0 illecitamente 0 illegittimamente 0 001 ! 00025182 r 0000 | in modo contrario alle leggi vigenti
+00001284 00 r 01 asimmetricamente 0 001 ! 00002270 r 0000 |    
+00001348 00 r 03 coerentemente 0 conseguentemente 0 sistematicamente 0 001 ! 00003120 r 0000 |    
+00001447 00 r 03 dovunque 0 dappertutto 0 ovunque 0 001 ;u 01300328 n 0000 |    
+00001528 00 r 01 con_la_presente 0 000 |    
+00001573 00 r 02 fuori 0 all&apos;aria_aperta 0 001 ! 00009164 r 0000 |    
+00001649 00 r 06 benevolmente 0 premurosamente 0 benignamente 0 garbatamente 0 gentilmente 0 bonariamente 0 000 |    
+00001767 00 r 01 attivamente 0 001 ! 00004683 r 0000 | In modo attivo
+00001837 00 r 08 sfrenatamente 0 scatenatamente 0 eccessivamente 0 sregolatamente 0 clamorosamente 0 smoderatamente 0 smodatamente 0 a-crepapelle 0 001 ! 00004505 r 0000 | in modo eccessivo, senza moderazione
+00002046 00 r 01 insolitamente 0 001 ! 00024702 r 0000 |    
+00002107 00 r 01 uniformemente 0 000 |    
+00002150 00 r 05 mal_volentieri 0 malvolentieri 0 malincuore 0 malavoglia 0 sforzatamente 0 001 ! 00018707 r 0000 |    
+00002270 00 r 01 simmetricamente 0 001 ! 00001284 r 0000 |    
+00002333 00 r 01 avanti 0 002 ! 00007158 r 0000 ;u 02484601 n 0000 |    
+00002406 00 r 05 veramente 0 davvero 0 realmente 0 invero 0 proprio 0 001 ;u 01635352 n 0000 |    
+00002505 00 r 01 moltissimo 0 001 ;u 01300328 n 0000 |    
+00002564 00 r 02 ingiustamente 0 immeritatamente 0 001 ! 00024916 r 0000 |    
+00002643 00 r 01 pulito 0 001 ! 00018389 r 0000 |    
+00002697 00 r 02 competitivamente 0 agonisticamente 0 000 |    
+00002761 00 r 07 maledettamente 0 tremendamente 0 spaventosamente 0 malissimo 0 terribilmente 0 formidabilmente 0 disumanamente 0 001 ;u 01300328 n 0000 | intensifica il significato dell&apos;elemento che accompagna
+00002977 00 r 02 incomparabilmente 0 impareggiabilmente 0 000 |    
+00003045 00 r 02 illegalmente 0 abusivamente 0 001 ! 00016719 r 0000 |    
+00003120 00 r 01 incoerentemente 0 001 ! 00001348 r 0000 |    
+00003183 00 r 02 internamente 0 interiormente 0 001 ! 00023932 r 0000 |    
+00003259 00 r 01 regolarmente 0 000 |    
+00003301 00 r 01 in_senso_antiorario 0 001 ! 00017565 r 0000 |    
+00003368 00 r 01 impazientemente 0 001 ! 00022659 r 0000 |    
+00003431 00 r 02 equivocamente 0 ambiguamente 0 001 ! 00018107 r 0000 | in modo che possa essere mal interpretato
+00003545 00 r 02 sinceramente 0 rettamente 0 001 ! 00003742 r 0000 |    
+00003618 00 r 01 naturalmente 0 001 ! 00023819 r 0000 |    
+00003678 00 r 01 pretenziosamente 0 001 ! 00021328 r 0000 |    
+00003742 00 r 02 disonestamente 0 venalmente 0 001 ! 00003545 r 0000 | in modo venale
+00003828 00 r 02 opportunamente 0 tempestivamente 0 001 ! 00011031 r 0000 |    
+00003908 00 r 01 meno 0 001 ! 00012580 r 0000 |    
+00003960 00 r 01 infrequentemente 0 001 ! 00018273 r 0000 |    
+00004024 00 r 01 diplomaticamente 0 000 |    
+00004070 00 r 02 male 0 malamente 0 001 ! 00015708 r 0000 |    
+00004134 00 r 01 inorganicamente 0 000 |    
+00004179 00 r 04 decisamente 0 risolutamente 0 nettamente 0 fermamente 0 001 ! 00020462 r 0000 | in modo netto e deciso
+00004299 00 r 01 riverentemente 0 000 |    
+00004343 00 r 01 espertamente 0 000 |    
+00004385 00 r 05 in_tal_modo 0 talmente 0 tanto 0 così 0 a_tal_punto 0 001 ;u 01635352 n 0000 | oltre una certa soglia
+00004505 00 r 01 regolatamente 0 001 ! 00001837 r 0000 |    
+00004566 00 r 03 a-voce-alta 0 forte 0 ad-alta-voce 0 001 ! 00011637 r 0000 | con tono di voce più alto del normale
+00004683 00 r 01 passivamente 0 001 ! 00001767 r 0000 |    
+00004743 00 r 02 in_una_posizione_comoda 0 GAP! 0 001 ! 00024975 r 0000 |    
+00004821 00 r 03 fantasiosamente 0 estrosamente 0 fantasticamente 0 000 |    
+00004899 00 r 02 galantemente 0 cavallerescamente 0 000 | in modo galante
+00004973 00 r 01 incondizionatamente 0 001 ! 00012340 r 0000 |    
+00005040 00 r 02 sacrosantamente 0 meritatamente 0 001 ! 00017720 r 0000 |    
+00005119 00 r 02 fittamente 0 densamente 0 000 |    
+00005172 00 r 01 polemicamente 0 000 | in modo polemico
+00005228 00 r 05 velatamente 0 sottomano 0 nascostamente 0 di-nascosto 0 copertamente 0 000 | In modo velato, nascosto
+00005347 00 r 01 sotto 0 001 ! 00010510 r 0000 |    
+00005400 00 r 01 fortemente 0 001 ! 00010888 r 0000 | con forza, con energia e intensità
+00005490 00 r 02 inutilmente 0 infruttuosamente 0 001 ! 00016900 r 0000 |    
+00005568 00 r 01 sottovento 0 001 ! 00008485 r 0000 |    
+00005626 00 r 01 dannosamente 0 000 |    
+00005668 00 r 01 paurosamente 0 001 ! 00016015 r 0000 |    
+00005728 00 r 02 con_ubbidienza 0 ubbidientemente 0 000 | in modo obbediente
+00005805 00 r 01 responsabilmente 0 001 ! 00013205 r 0000 |    
+00005869 00 r 01 soggettivamente 0 001 ! 00015629 r 0000 |    
+00005932 00 r 01 così 0 001 ;u 01635352 n 0000 |    
+00005986 00 r 01 realisticamente 0 000 |    
+00006031 00 r 01 raffinatamente 0 001 ! 00023046 r 0000 |    
+00006093 00 r 02 verso_l&apos;interno 0 GAP! 0 001 ! 00016583 r 0000 |    
+00006168 00 r 01 manualmente 0 000 |    
+00006209 00 r 03 vantaggiosamente 0 proficuamente 0 utilmente 0 000 | in modo utile e vantaggioso
+00006307 00 r 02 fortunatamente 0 fortuitamente 0 001 ! 00017799 r 0000 |    
+00006385 00 r 01 democraticamente 0 000 |    
+00006431 00 r 02 memorabilmente 0 indimenticabilmente 0 000 |    
+00006497 00 r 01 leggibilmente 0 000 |    
+00006540 00 r 07 pazzescamente 0 sbalorditivamente 0 spaventosamente 0 romanzescamente 0 incredibilmente 0 inverosimilmente 0 formidabilmente 0 001 ! 00000948 r 0000 |    
+00006712 00 r 01 lealmente 0 001 ! 00009447 r 0000 |    
+00006769 00 r 01 inumanamente 0 001 ! 00006879 r 0000 |    
+00006829 00 r 01 incommensurabilmente 0 000 |    
+00006879 00 r 01 umanamente 0 001 ! 00006769 r 0000 |    
+00006937 00 r 05 gaudiosamente 0 lietamente 0 festosamente 0 gioiosamente 0 giocondamente 0 000 |    
+00007039 00 r 05 beatamente 0 lietamente 0 felicemente 0 contentamente 0 giocondamente 0 000 | con felicità e letizia
+00007158 00 r 01 indietro 0 001 ! 00002333 r 0000 | indica la posizione o la direzione che è alle spalle della persona che parla o della persona o cosa che fa da punto di riferimento
+00007342 00 r 04 follemente 0 da_folle 0 da_pazzo 0 pazzamente 0 000 | da pazzo, come un pazzo
+00007437 00 r 01 imperdonabilmente 0 000 |    
+00007484 00 r 01 efficientemente 0 000 |    
+00007529 00 r 07 cortesemente 0 urbanamente 0 civilmente 0 garbatamente 0 educatamente 0 gentilmente 0 compitamente 0 001 ! 00008044 r 0000 |    
+00007675 00 r 02 accettabilmente 0 così_così 0 001 ! 00024186 r 0000 |    
+00007752 00 r 02 dentro 0 interiormente 0 001 ! 00026268 r 0000 |    
+00007822 00 r 05 saggiamente 0 assennatamente 0 saviamente 0 sapientemente 0 accortamente 0 001 ! 00011531 r 0000 |    
+00007942 00 r 01 ampiamente 0 000 |    
+00007982 00 r 01 flessibilmente 0 001 ! 00010563 r 0000 |    
+00008044 00 r 0a villanamente 0 scorrettamente 0 scortesemente 0 screanzatamente 0 sgarbatamente 0 malamente 0 sguaiatamente 0 incivilmente 0 maleducatamente 0 inurbanamente 0 001 ! 00007529 r 0000 | in modo sguaiato, incivile, senza educazione
+00008289 00 r 01 forte 0 000 |    
+00008324 00 r 02 soavemente 0 dolcemente 0 002 ;u 01300328 n 0000 ;c 00131577 n 0000 |    
+00008415 00 r 03 lontano 0 via 0 fuori 0 001 ;u 02394991 n 0000 |    
+00008485 00 r 02 sopravento 0 sopravvento 0 001 ! 00005568 r 0000 |    
+00008557 00 r 05 deferentemente 0 ossequiosamente 0 rispettosamente 0 riguardosamente 0 riverentemente 0 001 ! 00014080 r 0000 | in modo ossequioso, riverente
+00008716 00 r 01 presto 0 001 ! 00020409 r 0000 |    
+00008770 00 r 02 canoramente 0 melodiosamente 0 000 | melodiosamente
+00008839 00 r 01 indiscretamente 0 001 ! 00010734 r 0000 |    
+00008902 00 r 0a piano 0 consideratamente 0 cautamente 0 attentamente 0 studiosamente 0 accuratamente 0 oculatamente 0 prudentemente 0 guardingamente 0 diligentemente 0 001 ! 00019315 r 0000 |    
+00009099 00 r 01 intransitivamente 0 001 ! 00013868 r 0000 |    
+00009164 00 r 01 dentro 0 001 ! 00001573 r 0000 |    
+00009218 00 r 06 beninteso 0 certo 0 certamente 0 sicuramente 0 ben_inteso 0 sicuro 0 001 ;u 01300328 n 0000 |    
+00009333 00 r 01 sopra 0 001 ! 00018199 r 0000 |    
+00009386 00 r 02 in_modo_poco_convincente 0 GAP! 0 000 |    
+00009447 00 r 01 slealmente 0 001 ! 00006712 r 0000 |    
+00009505 00 r 04 accidentalmente 0 casualmente 0 per_caso 0 fortuitamente 0 001 ! 00025445 r 0000 |    
+00009609 00 r 01 illegittimamente 0 000 |    
+00009655 00 r 01 oralmente 0 001 ;c 01199764 n 0000 |    
+00009713 00 r 01 sempre 0 001 ! 00012632 r 0000 |    
+00009767 00 r 03 inconsapevolmente 0 sprovvedutamente 0 inavvedutamente 0 000 |    
+00009851 00 r 02 incivilmente 0 inurbanamente 0 001 ! 00011190 r 0000 |    
+00009927 00 r 01 fiduciosamente 0 000 | in modo pieno di fiducia
+00009992 00 r 03 comunque 0 ancora 0 tuttora 0 001 ! 00015963 r 0000 |    
+00010067 00 r 01 figuratamente 0 001 ! 00016093 r 0000 |    
+00010128 00 r 04 sconciamente 0 impudicamente 0 scabrosamente 0 indecentemente 0 000 |    
+00010219 00 r 02 inavvertitamente 0 involontariamente 0 001 ! 00025445 r 0000 |    
+00010303 00 r 04 sconsideratamente 0 imprudentemente 0 incautamente 0 malaccortamente 0 001 ! 00021960 r 0000 |    
+00010419 00 r 03 generalmente 0 globalmente 0 complessivamente 0 000 | in modo complessivo
+00010510 00 r 01 sopra 0 001 ! 00005347 r 0000 |    
+00010563 00 r 01 inflessibilmente 0 001 ! 00007982 r 0000 |    
+00010627 00 r 01 pubblicamente 0 000 | in pubblico, davanti a tutti
+00010695 00 r 02 qua 0 qui 0 000 |    
+00010734 00 r 02 riservatamente 0 discretamente 0 001 ! 00008839 r 0000 | con discrezione
+00010824 00 r 02 grammaticalmente 0 grammaticamente 0 000 |    
+00010888 00 r 04 fiaccamente 0 tenuamente 0 debolmente 0 fragilmente 0 001 ! 00005400 r 0000 |    
+00010987 00 r 01 in_primo_luogo 0 000 |    
+00011031 00 r 02 inopportunamente 0 intempestivamente 0 001 ! 00003828 r 0000 |    
+00011115 00 r 01 ivi 0 000 |    
+00011148 00 r 01 costosamente 0 000 |    
+00011190 00 r 01 civilmente 0 001 ! 00009851 r 0000 | in modo civile
+00011259 00 r 04 pudicamente 0 semplicemente 0 modestamente 0 dimessamente 0 001 ! 00013271 r 0000 |    
+00011364 00 r 02 violentemente 0 con_violenza 0 000 |    
+00011422 00 r 01 espressivamente 0 000 |    
+00011467 00 r 02 soddisfacentemente 0 adeguatamente 0 000 |    
+00011531 00 r 04 stoltamente 0 insensatamente 0 balordamente 0 scioccamente 0 001 ! 00007822 r 0000 |    
+00011637 00 r 03 piano 0 silenziosamente 0 sommessamente 0 001 ! 00004566 r 0000 |    
+00011724 00 r 03 intelligibilmente 0 comprensibilmente 0 chiaramente 0 000 |    
+00011805 00 r 01 virilmente 0 000 | in modo virile
+00011856 00 r 02 avvenentemente 0 attraentemente 0 000 | fatto con avvenenza
+00011933 00 r 0d ratto 0 rapidamente 0 presto 0 spedito 0 veloce 0 prontamente 0 lesto 0 velocemente 0 lestamente 0 sollecitamente 0 speditamente 0 celermente 0 sveltamente 0 001 ! 00019850 r 0000 |    
+00012136 00 r 02 speranzosamente 0 ottimisticamente 0 000 | in modo ottimista, con ottimismo
+00012229 00 r 01 patriotticamente 0 000 |    
+00012275 00 r 01 involontariamente 0 001 ! 00024394 r 0000 |    
+00012340 00 r 02 condizionatamente 0 condizionalmente 0 001 ! 00004973 r 0000 |    
+00012424 00 r 03 agevolmente 0 facilmente 0 con_facilità 0 001 ;u 01300328 n 0000 | con agio, senza difficoltà
+00012537 00 r 01 illogicamente 0 000 |    
+00012580 00 r 01 più 0 001 ! 00003908 r 0000 |    
+00012632 00 r 02 non 0 mai 0 001 ! 00009713 r 0000 |    
+00012689 00 r 01 intelligentemente 0 000 |    
+00012736 00 r 01 almeno 0 001 ;u 01300328 n 0000 |    
+00012791 00 r 01 malevolmente 0 001 ! 00023379 r 0000 |    
+00012851 00 r 02 imperfettamente 0 viziatamente 0 001 ! 00023709 r 0000 |    
+00012929 00 r 02 più 0 molto 0 001 ! 00019030 r 0000 |    
+00012989 00 r 05 gradevolmente 0 piacevolmente 0 simpaticamente 0 con_piacere 0 amenamente 0 001 ! 00020297 r 0000 | in modo piacevole e gradito
+00013134 00 r 01 specificamente 0 000 | in modo specifico, particolare
+00013205 00 r 01 irresponsabilmente 0 001 ! 00005805 r 0000 |    
+00013271 00 r 01 impudicamente 0 001 ! 00011259 r 0000 |    
+00013332 00 r 01 giù 0 000 |    
+00013366 00 r 01 semplicemente 0 001 ;u 01635352 n 0000 |    
+00013428 00 r 02 verso_i_quartieri_residenziali 0 in_un_quartiere_residenziale 0 000 |    
+00013519 00 r 02 letteralmente 0 virtualmente 0 001 ;u 01635352 n 0000 |    
+00013596 00 r 08 accuratamente 0 finemente 0 delineatamente 0 minuziosamente 0 capillarmente 0 meticolosamente 0 precisamente 0 con_precisione 0 000 | Con grande precisione e accuratezza
+00013783 00 r 04 priori 0 precedentemente 0 a_priori 0 aprioristicamente 0 000 |    
+00013868 00 r 01 transitivamente 0 001 ! 00009099 r 0000 |    
+00013931 00 r 04 disordinatamente 0 sconnessamente 0 slegatamente 0 incoerentemente 0 000 |    
+00014027 00 r 01 sopra 0 001 ! 00014629 r 0000 |    
+00014080 00 r 01 irrispettosamente 0 001 ! 00008557 r 0000 |    
+00014145 00 r 01 reversibilmente 0 002 ;c 01957481 n 0000 ;c 01542721 n 0000 |    
+00014228 00 r 01 più 0 000 |    
+00014262 00 r 03 sconsideratamente 0 sventatamente 0 poco_saggiamente 0 001 ! 00025363 r 0000 |    
+00014362 00 r 02 romanticamente 0 sentimentalmente 0 000 | In modo sentimentale, romantico
+00014453 00 r 01 ospitalmente 0 000 |    
+00014495 00 r 06 frettolosamente 0 precipitosamente 0 a_precipizio 0 precipitatamente 0 affrettatamente 0 sbrigativamente 0 000 |    
+00014629 00 r 07 dabbasso 0 abbasso 0 di_sotto 0 sotto 0 disotto 0 giù 0 da_basso 0 001 ! 00014027 r 0000 |    
+00014742 00 r 01 perifericamente 0 001 ! 00000481 r 0000 |    
+00014805 00 r 02 con_aria_incredula 0 GAP! 0 000 |    
+00014860 00 r 01 impercettibilmente 0 000 |    
+00014908 00 r 02 insensibilmente 0 aridamente 0 001 ! 00021266 r 0000 |    
+00014984 00 r 01 irrazionalmente 0 001 ! 00016522 r 0000 |    
+00015047 00 r 01 adeguatamente 0 001 ! 00020050 r 0000 |    
+00015108 00 r 01 costituzionalmente 0 001 ! 00000411 r 0000 |    
+00015174 00 r 01 igienicamente 0 000 |    
+00015217 00 r 02 infrequentemente 0 raramente 0 001 ! 00018273 r 0000 |    
+00015293 00 r 06 sovranamente 0 straordinariamente 0 portentosamente 0 stupendamente 0 meravigliosamente 0 fantasticamente 0 001 ;u 01635352 n 0000 | in modo stupendo. meraviglioso
+00015474 00 r 02 sinceramente 0 schietto 0 000 |    
+00015527 00 r 03 mendacemente 0 falsamente 0 bugiardamente 0 001 ! 00018895 r 0000 | in modo bugiardo
+00015629 00 r 02 oggettivamente 0 obiettivamente 0 001 ! 00005869 r 0000 |    
+00015708 00 r 03 ben 0 bene 0 molto 0 001 ! 00004070 r 0000 | in maniera o in misura soddisfacente
+00015807 00 r 01 efficacemente 0 001 ! 00025822 r 0000 |    
+00015868 00 r 03 consapevolmente 0 coscientemente 0 consciamente 0 001 ! 00021440 r 0000 |    
+00015963 00 r 01 più 0 001 ! 00009992 r 0000 |    
+00016015 00 r 02 intrepidamente 0 impavidamente 0 001 ! 00005668 r 0000 |    
+00016093 00 r 02 testualmente 0 letteralmente 0 001 ! 00010067 r 0000 |    
+00016169 00 r 02 assurdamente 0 illogicamente 0 000 | in modo contrario ad ogni logica
+00016256 00 r 01 sanguinosamente 0 000 |    
+00016301 00 r 01 sportivamente 0 000 |    
+00016344 00 r 02 completamente 0 pienamente 0 000 |    
+00016400 00 r 02 più 0 molto 0 001 ;u 01635352 n 0000 |    
+00016461 00 r 01 empiricamente 0 001 ! 00000869 r 0000 |    
+00016522 00 r 01 razionalmente 0 001 ! 00014984 r 0000 |    
+00016583 00 r 02 verso_l&apos;esterno 0 GAP! 0 001 ! 00006093 r 0000 |    
+00016658 00 r 01 a_tempo_pieno 0 001 ! 00024056 r 0000 |    
+00016719 00 r 06 legittimamente 0 d&apos;autorità 0 giustamente 0 legalmente 0 debitamente 0 lecitamente 0 001 ! 00003045 r 0000 | sulla base di un potere riconosciuto e legittimo
+00016900 00 r 06 fiorentemente 0 fruttuosamente 0 prosperamente 0 proficuamente 0 convenientemente 0 fecondamente 0 001 ! 00005490 r 0000 | In modo proficuo e fruttuoso
+00017069 00 r 06 abbastanza 0 piuttosto 0 ragionevolmente 0 discretamente 0 alquanto 0 passabilmente 0 000 |    
+00017182 00 r 01 felicemente 0 000 |    
+00017223 00 r 02 sconsideratamente 0 inconsideratamente 0 000 |    
+00017291 00 r 07 compiutamente 0 tutto 0 completamente 0 interamente 0 pienamente 0 totalmente 0 radicalmente 0 002 ! 00019144 r 0000 ;u 01300328 n 0000 |    
+00017450 00 r 01 visibilmente 0 000 | in modo visibile
+00017505 00 r 01 unilateralmente 0 000 | che è unilaterale
+00017565 00 r 01 in_senso_orario 0 001 ! 00003301 r 0000 |    
+00017628 00 r 04 ruvidamente 0 sgangheratamente 0 grossolanamente 0 volgarmente 0 000 |    
+00017720 00 r 02 indebitamente 0 immeritatamente 0 001 ! 00005040 r 0000 |    
+00017799 00 r 08 disgraziatamente 0 purtroppo 0 infelicemente 0 sventuratamente 0 malauguratamente 0 sciaguratamente 0 sfortunatamente 0 pur_troppo 0 001 ! 00006307 r 0000 |    
+00017977 00 r 02 fedelmente 0 lealmente 0 001 ! 00022884 r 0000 |    
+00018047 00 r 02 leggiadramente 0 graziosamente 0 000 |    
+00018107 00 r 02 univocamente 0 inequivocabilmente 0 001 ! 00003431 r 0000 | che è univoco
+00018199 00 r 03 di_sotto 0 sotto 0 disotto 0 001 ! 00009333 r 0000 |    
+00018273 00 r 04 ordinariamente 0 frequentemente 0 sovente 0 spesso 0 002 ! 00003960 r 0000 ! 00015217 r 0000 |    
+00018389 00 r 02 poco_elegantemente 0 GAP! 0 001 ! 00002643 r 0000 |    
+00018462 00 r 01 pubblicamente 0 000 |    
+00018505 00 r 0a sinceramente 0 veracemente 0 candidamente 0 schietto 0 onestamente 0 francamente 0 franco 0 chiaramente 0 apertamente 0 schiettamente 0 001 ;u 01635352 n 0000 | in modo aperto, sincero
+00018707 00 r 02 volenterosamente 0 volentieri 0 001 ! 00002150 r 0000 |    
+00018784 00 r 05 assennatamente 0 sensatamente 0 equilibratamente 0 accortamente 0 ragionevolmente 0 000 |    
+00018895 00 r 05 veracemente 0 veridicamente 0 veritieramente 0 esattamente 0 precisamente 0 001 ! 00015527 r 0000 | in modo veritiero
+00019030 00 r 01 meno 0 001 ! 00012929 r 0000 |    
+00019082 00 r 01 impensatamente 0 001 ! 00021502 r 0000 |    
+00019144 00 r 03 in_parte 0 parte 0 parzialmente 0 001 ! 00017291 r 0000 | in modo parziale
+00019236 00 r 02 moralmente 0 eticamente 0 000 | Secondo l&apos;etica o morale
+00019315 00 r 01 malaccortamente 0 001 ! 00008902 r 0000 |    
+00019378 00 r 01 equamente 0 000 |    
+00019417 00 r 04 trasversalmente 0 indirettamente 0 obliquamente 0 mediatamente 0 001 ! 00000321 r 0000 | in modo obliquo, non diretto;in modo non diretto
+00019572 00 r 01 necessariamente 0 000 |    
+00019617 00 r 01 fuori 0 001 ! 00025745 r 0000 |    
+00019670 00 r 03 impudicamente 0 sconvenientemente 0 impropriamente 0 001 ! 00021865 r 0000 |    
+00019768 00 r 01 irriconoscibilmente 0 000 |    
+00019817 00 r 01 qui 0 000 |    
+00019850 00 r 02 lentamente 0 lento 0 002 ! 00011933 r 0000 ;u 01300328 n 0000 |    
+00019935 00 r 02 scorrettamente 0 slealmente 0 000 |    
+00019992 00 r 02 onoratamente 0 onorabilmente 0 000 |    
+00020050 00 r 02 insufficientemente 0 inadeguatamente 0 001 ! 00015047 r 0000 |    
+00020134 00 r 01 caratteristicamente 0 000 |    
+00020183 00 r 04 allegramente 0 spensieratamente 0 gaiamente 0 giocondamente 0 000 | in modo allegro;allegramente
+00020297 00 r 03 spiacevolmente 0 sgradevolmente 0 antipaticamente 0 001 ! 00012989 r 0000 | in modo antipatico
+00020409 00 r 01 tardi 0 001 ! 00008716 r 0000 |    
+00020462 00 r 01 irresolutamente 0 001 ! 00004179 r 0000 |    
+00020525 00 r 03 ugualmente 0 equamente 0 in_parti_uguali 0 000 | senza disparità
+00020608 00 r 02 caratteristicamente 0 tipicamente 0 000 |    
+00020671 00 r 01 indelicatamente 0 001 ! 00020780 r 0000 |    
+00020734 00 r 01 facoltativamente 0 000 |    
+00020780 00 r 01 discretamente 0 001 ! 00020671 r 0000 |    
+00020841 00 r 02 scorrettamente 0 impropriamente 0 001 ! 00022959 r 0000 |    
+00020920 00 r 01 egoisticamente 0 000 |    
+00020964 00 r 02 compatibilmente 0 accordabilmente 0 000 |    
+00021027 00 r 01 indecorosamente 0 001 ! 00023995 r 0000 |    
+00021090 00 r 03 transitoriamente 0 provvisoriamente 0 temporaneamente 0 001 ! 00000774 r 0000 | in modo provvisorio
+00021207 00 r 01 umoristicamente 0 000 | che è umoristico
+00021266 00 r 01 sensitivamente 0 001 ! 00014908 r 0000 |    
+00021328 00 r 01 umilmente 0 001 ! 00003678 r 0000 |    
+00021385 00 r 01 peggio 0 001 ;u 02692660 n 0000 |    
+00021440 00 r 01 inconsciamente 0 001 ! 00015868 r 0000 |    
+00021502 00 r 01 pensierosamente 0 001 ! 00019082 r 0000 |    
+00021565 00 r 0a beninteso 0 certo 0 sissignore 0 ovviamente 0 certamente 0 sì_signore 0 naturalmente 0 già 0 ben_inteso 0 sicuro 0 000 |    
+00021709 00 r 02 in_modo_da_farsi_notare 0 GAP! 0 001 ! 00000590 r 0000 |    
+00021787 00 r 02 scostumatamente 0 immoralmente 0 001 ! 00022810 r 0000 |    
+00021865 00 r 02 appropriatamente 0 decentemente 0 001 ! 00019670 r 0000 | in modo appropriato
+00021960 00 r 05 avvedutamente 0 saviamente 0 con_prudenza 0 prudentemente 0 previdentemente 0 001 ! 00010303 r 0000 |    
+00022083 00 r 01 vantaggiosamente 0 001 ! 00022372 r 0000 |    
+00022147 00 r 02 inscindibilmente 0 inseparabilmente 0 000 |    
+00022212 00 r 01 convessamente 0 000 |    
+00022255 00 r 02 contravvento 0 controvento 0 000 |    
+00022311 00 r 02 ingiù 0 giù 0 001 ! 00023486 r 0000 |    
+00022372 00 r 02 sconvenientemente 0 svantaggiosamente 0 001 ! 00022083 r 0000 |    
+00022457 00 r 01 convenzionalmente 0 000 |    
+00022504 00 r 01 intempestivamente 0 000 |    
+00022551 00 r 01 insufficientemente 0 001 ! 00023600 r 0000 |    
+00022617 00 r 01 emotivamente 0 000 |    
+00022659 00 r 03 tenacemente 0 costantemente 0 pazientemente 0 001 ! 00003368 r 0000 |    
+00022750 00 r 02 rumorosamente 0 chiassosamente 0 000 |    
+00022810 00 r 01 virtuosamente 0 001 ! 00021787 r 0000 | in modo virtuoso
+00022884 00 r 02 infedelmente 0 balordamente 0 001 ! 00017977 r 0000 |    
+00022959 00 r 03 corretto 0 correttamente 0 propriamente 0 001 ! 00020841 r 0000 |    
+00023046 00 r 01 insipidamente 0 001 ! 00006031 r 0000 |    
+00023107 00 r 03 ovviamente 0 logicamente 0 evidentemente 0 001 ;u 01300328 n 0000 |    
+00023196 00 r 04 vezzosamente 0 leggiadramente 0 graziosamente 0 aggraziatamente 0 000 | in modo aggraziato
+00023304 00 r 01 a_poppa 0 002 ;c 02230152 n 0000 ;c 01690519 n 0000 |    
+00023379 00 r 01 benevolmente 0 001 ! 00012791 r 0000 |    
+00023439 00 r 01 proporzionalmente 0 000 |    
+00023486 00 r 01 su 0 001 ! 00022311 r 0000 |    
+00023536 00 r 01 ottimisticamente 0 001 ! 00025076 r 0000 |    
+00023600 00 r 03 bastantemente 0 abbastanza 0 sufficientemente 0 001 ! 00022551 r 0000 | in modo sufficiente
+00023709 00 r 05 menadito 0 appuntino 0 perfettamente 0 a_puntino 0 ottimamente 0 001 ! 00012851 r 0000 |    
+00023819 00 r 02 artificiosamente 0 artificialmente 0 001 ! 00003618 r 0000 | in modo non spontaneo, artificiale
+00023932 00 r 01 estrinsecamente 0 001 ! 00003183 r 0000 |    
+00023995 00 r 01 decorosamente 0 001 ! 00021027 r 0000 |    
+00024056 00 r 03 a_tempo_parziale 0 part-time 0 part_time 0 001 ! 00016658 r 0000 |    
+00024144 00 r 01 criticamente 0 000 |    
+00024186 00 r 01 intollerabilmente 0 001 ! 00007675 r 0000 |    
+00024251 00 r 04 angustamente 0 limitatamente 0 strettamente 0 ristrettamente 0 000 | in modo angusto
+00024353 00 r 01 tristemente 0 000 |    
+00024394 00 r 05 volontariamente 0 di-proposito 0 intenzionalmente 0 deliberatamente 0 ad-arte 0 001 ! 00012275 r 0000 | in modo volontario, con intenzione
+00024550 00 r 03 idoneamente 0 adeguatamente 0 appropriatamente 0 001 ! 00026021 r 0000 | in modo adeguato
+00024657 00 r 01 definitivamente 0 000 |    
+00024702 00 r 0b generalmente 0 ordinariamente 0 consuetamente 0 per_lo_più 0 normalmente 0 usitatamente 0 usualmente 0 comunemente 0 perlopiù 0 abitualmente 0 solitamente 0 001 ! 00002046 r 0000 | che è usuale
+00024916 00 r 01 giustamente 0 001 ! 00002564 r 0000 |    
+00024975 00 r 03 inappropriatamente 0 inopportunamente 0 infelicemente 0 001 ! 00004743 r 0000 |    
+00025076 00 r 01 pessimisticamente 0 001 ! 00023536 r 0000 |    
+00025141 00 r 01 acerbamente 0 000 |    
+00025182 00 r 06 legittimamente 0 d&apos;autorità 0 giustamente 0 legalmente 0 debitamente 0 lecitamente 0 001 ! 00001109 r 0000 | sulla base di un potere riconosciuto e legittimo
+00025363 00 r 02 giudiziosamente 0 equilibratamente 0 001 ! 00014262 r 0000 |    
+00025445 00 r 09 appositamente 0 apposta 0 scientemente 0 calcolatamente 0 meditatamente 0 studiatamente 0 volutamente 0 intenzionalmente 0 deliberatamente 0 002 ! 00010219 r 0000 ! 00009505 r 0000 | in modo voluto
+00025660 00 r 04 praticamente 0 in-pratica 0 in-concreto 0 concretamente 0 000 |    
+00025745 00 r 03 dentro 0 indentro 0 in_dentro 0 001 ! 00019617 r 0000 |    
+00025822 00 r 03 inefficientemente 0 difettosamente 0 inefficacemente 0 001 ! 00015807 r 0000 |    
+00025922 00 r 02 favorevolmente 0 vantaggiosamente 0 000 |    
+00025985 00 r 01 almeno 0 000 |    
+00026021 00 r 07 inappropriatamente 0 inopportunamente 0 intempestivamente 0 impropriamente 0 infelicemente 0 inadeguatamente 0 poco_appropriatamente 0 001 ! 00024550 r 0000 |    
+00026201 00 r 02 entusiasticamente 0 appassionatamente 0 000 |    
+00026268 00 r 01 esteriormente 0 001 ! 00007752 r 0000 |    
+00026329 00 r 01 incidentalmente 0 000 |    
+00026374 00 r 01 anatomicamente 0 000 |    
+00026418 00 r 01 nominalmente 0 000 |    
+00026460 00 r 01 avverbialmente 0 000 |    
+00026504 00 r 02 interrogativamente 0 in_forma_interrogativa 0 000 |    
+00026577 00 r 02 vale_a_dire 0 cioe 0 000 |    
+00026625 00 r 03 con_fermezza 0 fermamente 0 saldamente 0 000 |    
+00026693 00 r 04 indegnamente 0 obbrobriosamente 0 vergognosamente 0 vituperosamente 0 000 |    
+00026790 00 r 02 irreparabilmente 0 irrimediabilmente 0 000 |    
+00026856 00 r 04 spigliatamente 0 sicuramente 0 confidentemente 0 disinvoltamente 0 000 |    
+00026950 00 r 01 doppiamente 0 000 |    
+00026991 00 r 03 lugubremente 0 cupamente 0 tetramente 0 000 |    
+00027058 00 r 01 velenosamente 0 000 |    
+00027101 00 r 04 abominevolmente 0 detestabilmente 0 esecrabilmente 0 odiosamente 0 000 |    
+00027195 00 r 03 presentemente 0 momentaneamente 0 attualmente 0 000 |    
+00027270 00 r 02 dal_punto_di_vista_sessuale 0 GAP! 0 000 |    
+00027334 00 r 01 attualmente 0 000 |    
+00027375 00 r 02 spassionatamente 0 serenamente 0 000 |    
+00027435 00 r 01 spietatamente 0 000 |    
+00027478 00 r 01 colpevolmente 0 000 |    
+00027521 00 r 01 vocalmente 0 000 |    
+00027561 00 r 02 beffardamente 0 derisoriamente 0 000 |    
+00027621 00 r 02 delicatamente 0 dolcemente 0 000 |    
+00027677 00 r 03 accanitamente 0 assiduamente 0 diligentemente 0 000 |    
+00027752 00 r 02 moltissimo 0 stretto 0 000 |    
+00027802 00 r 01 intempestivamente 0 000 |    
+00027849 00 r 01 personalmente 0 000 |    
+00027892 00 r 06 veramente 0 davvero 0 realmente 0 invero 0 proprio 0 effettivamente 0 000 |    
+00027989 00 r 01 magnanimamente 0 000 |    
+00028033 00 r 01 internazionalmente 0 000 |    
+00028081 00 r 05 intorno 0 nei-pressi 0 in_giro 0 nelle_vicinanze 0 attorno 0 000 |    
+00028169 00 r 01 dinamicamente 0 000 |    
+00028212 00 r 02 con_aria_afflitta 0 GAP! 0 000 |    
+00028266 00 r 03 ansiosamente 0 desiderosamente 0 smaniosamente 0 000 |    
+00028342 00 r 02 discordemente 0 disarmonicamente 0 000 |    
+00028404 00 r 02 gradualmente 0 gradatamente 0 000 |    
+00028461 00 r 03 astronomicamente 0 a-dismisura 0 enormemente 0 000 |    
+00028535 00 r 01 complessivamente 0 000 |    
+00028581 00 r 01 storicamente 0 000 |    
+00028623 00 r 04 con_forza 0 con_vigore 0 gagliardamente 0 vigorosamente 0 000 |    
+00028708 00 r 03 biecamente 0 sinistramente 0 torvamente 0 000 |    
+00028777 00 r 04 sopratutto 0 soprattutto 0 innanzitutto 0 innanzi_tutto 0 000 |    
+00028862 00 r 03 fastidiosamente 0 molestamente 0 noiosamente 0 000 |    
+00028936 00 r 01 pensosamente 0 000 |    
+00028978 00 r 01 succintamente 0 000 |    
+00029021 00 r 01 indiscutibilmente 0 000 |    
+00029068 00 r 01 prima 0 000 |    
+00029103 00 r 02 lacrimevolmente 0 lacrimosamente 0 000 |    
+00029165 00 r 01 impotentemente 0 000 |    
+00029209 00 r 01 diametralmente 0 000 |    
+00029253 00 r 01 riservatamente 0 000 |    
+00029297 00 r 01 con_pagamento_alla_consegna 0 000 |    
+00029354 00 r 01 dopotutto 0 000 |    
+00029393 00 r 01 beatamente 0 000 |    
+00029433 00 r 01 qualitativamente 0 000 |    
+00029479 00 r 01 obliquamente 0 000 |    
+00029521 00 r 01 strutturalmente 0 000 |    
+00029566 00 r 01 alfabeticamente 0 000 |    
+00029611 00 r 02 derisoriamente 0 canzonatoriamente 0 000 |    
+00029675 00 r 01 chiaramente 0 000 |    
+00029716 00 r 03 consuetamente 0 d&apos;abitudine 0 abitualmente 0 000 |    
+00029793 00 r 01 filantropicamente 0 000 |    
+00029840 00 r 0a artificiosamente 0 viscidamente 0 scaltramente 0 subdolamente 0 ambiguamente 0 doppiamente 0 furbescamente 0 tortuosamente 0 furbamente 0 strategicamente 0 000 |    
+00030023 00 r 02 prodigamente 0 lautamente 0 000 |    
+00030078 00 r 03 leggermente 0 piuttosto 0 alquanto 0 000 |    
+00030142 00 r 01 morfologicamente 0 000 |    
+00030188 00 r 02 capricciosamente 0 bizzosamente 0 000 |    
+00030249 00 r 02 personalmente 0 di_persona 0 000 |    
+00030305 00 r 04 apprensivamente 0 affannosamente 0 penosamente 0 ansiosamente 0 000 |    
+00030396 00 r 03 perfettamente 0 pienamente 0 assolutamente 0 000 |    
+00030468 00 r 01 confusamente 0 000 |    
+00030510 00 r 04 laboriosamente 0 faticosamente 0 penosamente 0 con_fatica 0 000 |    
+00030597 00 r 01 tangenzialmente 0 000 |    
+00030642 00 r 01 dialetticamente 0 000 |    
+00030687 00 r 03 ingiustificatamente 0 a_caso 0 arbitrariamente 0 000 |    
+00030763 00 r 0a perspicacemente 0 avvedutamente 0 cautamente 0 prudentamente 0 scaltramente 0 astutamente 0 sagacemente 0 finemente 0 accortamente 0 oculatamente 0 000 |    
+00030938 00 r 01 tempestosamente 0 000 |    
+00030983 00 r 01 un_po&apos; 0 000 |    
+00031024 00 r 01 ideologicamente 0 000 |    
+00031069 00 r 01 futilmente 0 000 |    
+00031109 00 r 03 intensamente 0 molto 0 intensivamente 0 000 |    
+00031176 00 r 01 radialmente 0 000 |    
+00031217 00 r 01 colloquialmente 0 000 |    
+00031262 00 r 02 equanimemente 0 imparzialmente 0 000 |    
+00031322 00 r 04 in-altro-modo 0 diversamente 0 differentemente 0 altrimenti 0 000 |    
+00031411 00 r 01 praticamente 0 000 |    
+00031453 00 r 03 diabolicamente 0 moltissimo 0 satanicamente 0 000 |    
+00031526 00 r 09 rapidamente 0 presto 0 veloce 0 prontamente 0 velocemente 0 lestamente 0 sollecitamente 0 speditamente 0 sveltamente 0 000 |    
+00031672 00 r 02 abbastanza 0 sufficientemente 0 000 |    
+00031731 00 r 02 gelidamente 0 glacialmente 0 000 |    
+00031787 00 r 01 alias 0 000 |    
+00031822 00 r 01 facilmente 0 000 |    
+00031862 00 r 04 presso 0 vicino 0 accosto 0 accanto 0 000 |    
+00031927 00 r 01 sonnacchiosamente 0 000 |    
+00031974 00 r 01 sovranamente 0 000 |    
+00032016 00 r 02 castamente 0 pudicamente 0 000 |    
+00032070 00 r 01 superstiziosamente 0 000 |    
+00032118 00 r 01 contagiosamente 0 000 |    
+00032163 00 r 01 assestatamente 0 000 |    
+00032207 00 r 01 vogliosamente 0 000 |    
+00032250 00 r 06 solo 0 soltanto 0 esclusivamente 0 unicamente 0 puramente 0 solamente 0 000 |    
+00032349 00 r 01 peggiorativamente 0 000 |    
+00032396 00 r 02 affatto 0 assolutamente 0 000 |    
+00032449 00 r 01 presto 0 000 |    
+00032485 00 r 01 teneramente 0 000 |    
+00032526 00 r 05 automaticamente 0 inavvertitamente 0 istintivamente 0 inconsapevolmente 0 involontariamente 0 000 |    
+00032647 00 r 01 istantaneamente 0 000 |    
+00032692 00 r 01 pesantemente 0 000 |    
+00032734 00 r 04 sotto_cute 0 sotto_pelle 0 sottopelle 0 sottocute 0 000 |    
+00032813 00 r 01 vendicativamente 0 000 |    
+00032859 00 r 02 autonomamente 0 indipendentemente 0 000 |    
+00032922 00 r 01 tranquillamente 0 000 |    
+00032967 00 r 02 avaramente 0 grettamente 0 000 |    
+00033021 00 r 01 giovialmente 0 000 |    
+00033063 00 r 04 protervamente 0 superbamente 0 alteramente 0 altezzosamente 0 000 |    
+00033152 00 r 02 sempre 0 mai 0 000 |    
+00033194 00 r 01 artificiosamente 0 000 |    
+00033240 00 r 04 dettagliatamente 0 circostanziatamente 0 specificatamente 0 distesamente 0 000 |    
+00033342 00 r 04 probabilmente 0 verosimilmente 0 facilmente 0 possibilmente 0 000 |    
+00033431 00 r 01 apologeticamente 0 000 |    
+00033477 00 r 01 sottilmente 0 000 |    
+00033518 00 r 05 sprezzantemente 0 schernevolmente 0 spregiativamente 0 disdegnosamente 0 sdegnosamente 0 000 |    
+00033634 00 r 02 a_livello_nazionale 0 su_scala_nazionale 0 000 |    
+00033704 00 r 01 verso_l&apos;interno 0 000 |    
+00033754 00 r 01 lautamente 0 000 |    
+00033794 00 r 01 si_spera 0 000 |    
+00033832 00 r 03 allo_stesso_modo 0 similmente 0 analogamente 0 000 |    
+00033906 00 r 02 amorevolmente 0 amorosamente 0 000 |    
+00033964 00 r 01 negligentemente 0 000 |    
+00034009 00 r 02 comunque 0 in_ogni_caso 0 000 |    
+00034062 00 r 03 barbaramente 0 crudelmente 0 malvagiamente 0 000 |    
+00034134 00 r 01 climaticamente 0 000 |    
+00034178 00 r 05 intorno 0 nei-pressi 0 in_giro 0 nelle_vicinanze 0 attorno 0 000 |    
+00034266 00 r 01 paradossalmente 0 000 |    
+00034311 00 r 01 da_uomo_a_uomo 0 000 |    
+00034355 00 r 01 economicamente 0 000 |    
+00034399 00 r 02 urgentemente 0 disperatamente 0 000 |    
+00034458 00 r 02 sanamente 0 salutarmente 0 000 |    
+00034512 00 r 01 solo 0 000 |    
+00034546 00 r 01 clamorosamente 0 000 |    
+00034590 00 r 02 dal_punto_di_vista_tecnico 0 GAP! 0 000 |    
+00034653 00 r 01 inversamente 0 000 |    
+00034695 00 r 05 enfaticamente 0 boriosamente 0 pomposamente 0 tronfiamente 0 ampollosamente 0 000 |    
+00034800 00 r 02 non 0 più 0 000 |    
+00034840 00 r 01 svogliatamente 0 000 |    
+00034884 00 r 03 imperativamente 0 tassativamente 0 perentoriamente 0 000 |    
+00034964 00 r 01 GAP! 0 000 |    
+00034998 00 r 01 giocosamente 0 000 |    
+00035040 00 r 01 oltre 0 000 |    
+00035075 00 r 02 raucamente 0 con_voce_roca 0 000 |    
+00035131 00 r 05 indarno 0 invano 0 frustra 0 vanamente 0 in_vano 0 000 |    
+00035209 00 r 01 fraudolentemente 0 000 |    
+00035255 00 r 01 intuitivamente 0 000 |    
+00035299 00 r 02 ordinatamente 0 metodicamente 0 000 |    
+00035358 00 r 01 grottescamente 0 000 |    
+00035402 00 r 01 organizzativamente 0 000 |    
+00035450 00 r 03 brutalmente 0 selvaggiamente 0 ferocemente 0 000 |    
+00035522 00 r 03 a_zigzag 0 a-zig-zag 0 a-zigzag 0 000 |    
+00035583 00 r 01 molto 0 000 |    
+00035618 00 r 01 di_gran_carriera 0 000 |    
+00035664 00 r 01 direttamente 0 000 |    
+00035706 00 r 03 sfacciatamente 0 impudentemente 0 sfrontatamente 0 000 |    
+00035784 00 r 01 a_metà_strada 0 000 |    
+00035828 00 r 01 fragorosamente 0 000 |    
+00035872 00 r 05 bassamente 0 spregevolmente 0 indegnamente 0 abiettamente 0 meschinamente 0 000 |    
+00035975 00 r 01 inaspettatamente 0 000 |    
+00036021 00 r 01 matematicamente 0 000 |    
+00036066 00 r 01 cavillosamente 0 000 |    
+00036110 00 r 02 precipitosamente 0 a_capofitto 0 000 |    
+00036170 00 r 01 ironicamente 0 000 |    
+00036212 00 r 01 con_costante_determinazione 0 000 |    
+00036269 00 r 01 appresso 0 000 |    
+00036307 00 r 02 secondo_le_testimonianze 0 GAP! 0 000 |    
+00036368 00 r 01 lautamente 0 000 |    
+00036408 00 r 04 coralmente 0 concordemente 0 unanimemente 0 unanimamente 0 000 |    
+00036494 00 r 04 insieme 0 congiuntamente 0 collettivamente 0 assieme 0 000 |    
+00036576 00 r 03 omogeneamente 0 ugualmente 0 uniformemente 0 000 |    
+00036648 00 r 01 tendenziosamente 0 000 |    
+00036694 00 r 06 oramai 0 praticamente 0 quasi 0 pressoché 0 presso_che 0 ormai 0 000 |    
+00036787 00 r 01 provocatoriamente 0 000 |    
+00036834 00 r 05 spiritosamente 0 briosamente 0 argutamente 0 amenamente 0 ironicamente 0 000 |    
+00036934 00 r 01 elementarmente 0 000 |    
+00036978 00 r 03 pure 0 anche 0 per_di_più 0 000 |    
+00037034 00 r 01 decisamente 0 000 |    
+00037075 00 r 01 maleficamente 0 000 |    
+00037118 00 r 01 estrinsecamente 0 000 |    
+00037163 00 r 02 preferibilmente 0 elettivamente 0 000 |    
+00037224 00 r 01 dottrinalmente 0 000 |    
+00037268 00 r 01 solo 0 000 |    
+00037302 00 r 02 immancabilmente 0 infallibilmente 0 000 |    
+00037365 00 r 05 priori 0 da_prima 0 originariamente 0 inizialmente 0 dapprima 0 000 |    
+00037456 00 r 02 rozzamente 0 barbaricamente 0 000 |    
+00037513 00 r 01 due_volte 0 000 |    
+00037552 00 r 01 plenariamente 0 000 |    
+00037595 00 r 08 appena 0 quasi 0 stentatamente 0 difficilmente 0 non 0 malapena 0 a_stento 0 a-fatica 0 000 |    
+00037710 00 r 08 peculiarmente 0 precipuamente 0 specie 0 sopratutto 0 soprattutto 0 tipicamente 0 specialmente 0 particolarmente 0 000 |    
+00037852 00 r 02 sacrilegamente 0 empiamente 0 000 |    
+00037909 00 r 08 appena 0 solo 0 soltanto 0 giusto 0 meramente 0 semplicemente 0 proprio 0 solamente 0 000 |    
+00038022 00 r 01 dogmaticamente 0 000 |    
+00038066 00 r 03 telegraficamente 0 epigraficamente 0 concisamente 0 000 |    
+00038145 00 r 01 a_piedi 0 000 |    
+00038182 00 r 02 razionalmente 0 dal_punto_di_vista_funzionale 0 000 |    
+00038257 00 r 05 confusamente 0 genericamente 0 indistintamente 0 vagamente 0 fumosamente 0 000 |    
+00038359 00 r 02 insulsamente 0 fatuamente 0 000 |    
+00038414 00 r 06 solo 0 giusto 0 esattamente 0 proprio 0 appunto 0 precisamente 0 000 |    
+00038506 00 r 06 nuovamente 0 di_nuovo 0 ancora 0 anche 0 un&apos;altra-volta 0 più 0 000 |    
+00038603 00 r 02 con_energia 0 energicamente 0 000 |    
+00038660 00 r 02 trasversalmente 0 orizzontalmente 0 000 |    
+00038723 00 r 02 marcatamente 0 accentuatamente 0 000 |    
+00038783 00 r 01 vastamente 0 000 |    
+00038823 00 r 01 in_quarto_luogo 0 000 |    
+00038868 00 r 01 dorsalmente 0 000 |    
+00038909 00 r 01 remissivamente 0 000 |    
+00038953 00 r 03 sarcasticamente 0 beffardamente 0 sardonicamente 0 000 |    
+00039031 00 r 01 precariamente 0 000 |    
+00039074 00 r 04 originalmente 0 eccentricamente 0 stravagantemente 0 bizzarramente 0 000 |    
+00039170 00 r 02 cautamente 0 con_circospezione 0 000 |    
+00039230 00 r 01 strettamente 0 000 |    
+00039272 00 r 01 pericolosamente 0 000 |    
+00039317 00 r 01 imperiosamente 0 000 |    
+00039361 00 r 03 conformemente 0 similmente 0 analogamente 0 000 |    
+00039432 00 r 01 battericamente 0 000 |    
+00039476 00 r 03 alternamente 0 alternatamente 0 alternativamente 0 000 |    
+00039554 00 r 02 salutarmente 0 beneficamente 0 000 |    
+00039612 00 r 01 sobriamente 0 000 |    
+00039653 00 r 01 variamente 0 000 |    
+00039693 00 r 01 foneticamente 0 000 |    
+00039736 00 r 01 sconnessamente 0 000 |    
+00039780 00 r 06 da_canto 0 presso 0 vicino 0 appresso 0 accanto 0 daccanto 0 000 |    
+00039868 00 r 01 così 0 000 |    
+00039903 00 r 01 estremamente 0 000 |    
+00039945 00 r 01 sensibilmente 0 000 |    
+00039988 00 r 02 rissosamente 0 litigiosamente 0 000 |    
+00040047 00 r 01 priori 0 000 |    
+00040083 00 r 01 mordacemente 0 000 |    
+00040125 00 r 01 addietro 0 000 |    
+00040163 00 r 02 indefinitamente 0 indeterminatamente 0 000 |    
+00040229 00 r 02 con_fare_d&apos;accusa 0 GAP! 0 000 |    
+00040288 00 r 02 erroneamente 0 erratamente 0 000 |    
+00040344 00 r 01 anacronisticamente 0 000 |    
+00040392 00 r 01 causalmente 0 000 |    
+00040433 00 r 01 regalmente 0 000 |    
+00040473 00 r 02 dal_punto_di_vista_dell&apos;istruzione 0 GAP! 0 000 |    
+00040549 00 r 02 parcamente 0 frugalmente 0 000 |    
+00040603 00 r 01 cronologicamente 0 000 |    
+00040649 00 r 08 indi 0 in_seguito 0 posteriormente 0 successivamente 0 poi 0 in_un_secondo_tempo 0 in_secondo_tempo 0 dopo 0 000 |    
+00040785 00 r 01 rigidamente 0 000 |    
+00040826 00 r 02 con_funzione_di_aggettivo 0 aggettivamente 0 000 |    
+00040898 00 r 01 chimicamente 0 000 |    
+00040940 00 r 03 illusoriamente 0 ingannevolmente 0 illusivamente 0 000 |    
+00041018 00 r 02 evasivamente 0 elusivamente 0 000 |    
+00041075 00 r 03 trascuratamente 0 sciattamente 0 trasandatamente 0 000 |    
+00041153 00 r 01 globalmente 0 000 |    
+00041194 00 r 02 continuativamente 0 ininterrottamente 0 000 |    
+00041261 00 r 01 puntualmente 0 000 |    
+00041303 00 r 02 quotidianamente 0 giornalmente 0 000 |    
+00041363 00 r 02 in_tutto_il_paese 0 GAP! 0 000 |    
+00041417 00 r 01 meglio 0 000 |    
+00041453 00 r 01 dopo 0 000 |    
+00041487 00 r 01 riflessivamente 0 000 |    
+00041532 00 r 03 sempre_più 0 sempre 0 progressivamente 0 000 |    
+00041601 00 r 01 istericamente 0 000 |    
+00041644 00 r 01 ottusamente 0 000 |    
+00041685 00 r 05 tediosamente 0 uggiosamente 0 noiosamente 0 monotonamente 0 stucchevolmente 0 000 |    
+00041790 00 r 01 ritualmente 0 000 |    
+00041831 00 r 02 ben 0 bene 0 000 |    
+00041871 00 r 01 in_funzione_di_predicato 0 000 |    
+00041925 00 r 01 nostalgicamente 0 000 |    
+00041970 00 r 01 oscuramente 0 000 |    
+00042011 00 r 02 più 0 inoltre 0 000 |    
+00042055 00 r 02 paurosamente 0 spaventosamente 0 000 |    
+00042115 00 r 01 corrottamente 0 000 |    
+00042158 00 r 05 arcignamente 0 scorbuticamente 0 ombrosamente 0 scostantemente 0 scontrosamente 0 000 |    
+00042267 00 r 01 sacrilegamente 0 000 |    
+00042311 00 r 01 mensilmente 0 000 |    
+00042352 00 r 02 sudiciamente 0 sozzamente 0 000 |    
+00042407 00 r 01 sensualmente 0 000 |    
+00042449 00 r 05 ingordamente 0 avidamente 0 cupidamente 0 golosamente 0 ghiottamente 0 000 |    
+00042547 00 r 01 comicamente 0 000 |    
+00042588 00 r 01 occultamente 0 000 |    
+00042630 00 r 02 saccentemente 0 presuntuosamente 0 000 |    
+00042692 00 r 01 problematicamente 0 000 |    
+00042739 00 r 02 a_titolo_provvisorio 0 provvisoriamente 0 000 |    
+00042808 00 r 06 automaticamente 0 inavvertitamente 0 istintivamente 0 inconsapevolmente 0 involontariamente 0 spontaneamente 0 000 |    
+00042946 00 r 02 altrimenti 0 alternativamente 0 000 |    
+00043005 00 r 02 brillantemente 0 acutamente 0 000 |    
+00043062 00 r 01 molto 0 000 |    
+00043097 00 r 04 realmente 0 in-realtà 0 di-fatto 0 effettivamente 0 000 |    
+00043177 00 r 05 tutto 0 completamente 0 abbastanza 0 piuttosto 0 proprio 0 000 |    
+00043263 00 r 01 spregiativamente 0 000 |    
+00043309 00 r 01 in_primo_luogo 0 000 |    
+00043353 00 r 02 perpendicolarmente 0 appiombo 0 000 |    
+00043412 00 r 01 appetitosamente 0 000 |    
+00043457 00 r 02 per_un_momento 0 GAP! 0 000 |    
+00043508 00 r 01 concitatamente 0 000 |    
+00043552 00 r 01 insieme 0 000 |    
+00043589 00 r 02 dolorosamente 0 penosamente 0 000 |    
+00043646 00 r 01 semanticamente 0 000 |    
+00043690 00 r 02 con_aria_imbronciata 0 GAP! 0 000 |    
+00043747 00 r 06 scambievolmente 0 a_vicenda 0 mutualmente 0 mutuamente 0 reciprocamente 0 vicendevolmente 0 000 |    
+00043866 00 r 01 fanaticamente 0 000 |    
+00043909 00 r 01 scurrilmente 0 000 |    
+00043951 00 r 01 proprio 0 000 |    
+00043988 00 r 02 oltre 0 ulteriormente 0 000 |    
+00044039 00 r 01 ben 0 000 |    
+00044072 00 r 01 semestralmente 0 000 |    
+00044116 00 r 01 inconfondibilmente 0 000 |    
+00044164 00 r 01 relativamente 0 000 |    
+00044207 00 r 01 radicalmente 0 000 |    
+00044249 00 r 03 appena 0 quasi 0 malapena 0 000 |    
+00044304 00 r 02 flosciamente 0 flaccidamente 0 000 |    
+00044362 00 r 03 angustamente 0 avaramente 0 sordidamente 0 000 |    
+00044432 00 r 01 amministrativamente 0 000 |    
+00044481 00 r 02 luttuosamente 0 lamentosamente 0 000 |    
+00044541 00 r 01 quando 0 000 |    
+00044577 00 r 01 compuntamente 0 000 |    
+00044620 00 r 01 ad_valorem 0 000 |    
+00044660 00 r 01 cupamente 0 000 |    
+00044699 00 r 01 disastrosamente 0 000 |    
+00044744 00 r 04 quale 0 altrettanto 0 tanto 0 come 0 000 |    
+00044808 00 r 04 elasticamente 0 agilmente 0 leggermente 0 scioltamente 0 000 |    
+00044892 00 r 01 architettonicamente 0 000 |    
+00044941 00 r 01 occasionalmente 0 000 |    
+00044986 00 r 01 ingegnosamente 0 000 |    
+00045030 00 r 02 discutibilmente 0 equivocamente 0 000 |    
+00045091 00 r 03 precedentemente 0 antecedentemente 0 prima 0 000 |    
+00045163 00 r 01 numericamente 0 000 |    
+00045206 00 r 01 unitamente 0 000 |    
+00045246 00 r 01 superlativamente 0 000 |    
+00045292 00 r 01 terzo 0 000 |    
+00045327 00 r 01 in_absentia 0 000 |    
+00045368 00 r 02 prosperamente 0 prosperosamente 0 000 |    
+00045429 00 r 01 acusticamente 0 000 |    
+00045472 00 r 04 consideratamente 0 attentamente 0 con_attenzione 0 accuratamente 0 000 |    
+00045566 00 r 02 piuttosto 0 alquanto 0 000 |    
+00045616 00 r 01 scandalosamente 0 000 |    
+00045661 00 r 01 in_nuce 0 000 |    
+00045698 00 r 01 impietosamente 0 000 |    
+00045742 00 r 02 oramai 0 già 0 000 |    
+00045785 00 r 02 peraltro 0 inoltre 0 000 |    
+00045833 00 r 02 all&apos;impazzata 0 furiosamente 0 000 |    
+00045896 00 r 05 coartatamente 0 forzatamente 0 costrettamente 0 artatamente 0 obbligatamente 0 000 |    
+00046002 00 r 01 metaforicamente 0 000 |    
+00046047 00 r 02 sprovvedutamente 0 inconsultamente 0 000 |    
+00046111 00 r 01 per_un_motivo_o_per_l&apos;altro 0 000 |    
+00046173 00 r 0b animosamente 0 ardimentosamente 0 audacemente 0 arditamente 0 coraggiosamente 0 prodemente 0 intrepidamente 0 bravamente 0 impavidamente 0 baldanzosamente 0 spavaldamente 0 000 |    
+00046373 00 r 02 familiarmente 0 con_molta_confidenza 0 000 |    
+00046439 00 r 01 misticamente 0 000 |    
+00046481 00 r 01 poeticamente 0 000 |    
+00046523 00 r 01 concettualmente 0 000 |    
+00046568 00 r 01 ieri 0 000 |    
+00046602 00 r 01 fraternamente 0 000 |    
+00046645 00 r 04 considerevolmente 0 fortemente 0 sostanzialmente 0 notevolmente 0 000 |    
+00046738 00 r 01 automaticamente 0 000 |    
+00046783 00 r 01 ferventemente 0 000 |    
+00046826 00 r 01 pacificamente 0 000 |    
+00046869 00 r 02 boriosamente 0 vanamente 0 000 |    
+00046923 00 r 03 non 0 neanche 0 no 0 000 |    
+00046971 00 r 01 mostruosamente 0 000 |    
+00047015 00 r 01 analogamente 0 000 |    
+00047057 00 r 01 succintamente 0 000 |    
+00047100 00 r 01 satiricamente 0 000 |    
+00047143 00 r 01 da_queste_parti 0 000 |    
+00047188 00 r 07 fastosamente 0 magnificamente 0 grandiosamente 0 superbamente 0 splendido 0 splendidamente 0 sfarzosamente 0 000 |    
+00047324 00 r 01 sfrenatamente 0 000 |    
+00047367 00 r 01 ritmicamente 0 000 |    
+00047409 00 r 01 anarchicamente 0 000 |    
+00047453 00 r 01 glacialmente 0 000 |    
+00047495 00 r 02 grettamente 0 meschinamente 0 000 |    
+00047552 00 r 05 in_definitiva 0 infine 0 alla_fine 0 finalmente 0 poi 0 000 |    
+00047635 00 r 03 caldamente 0 fervidamente 0 calorosamente 0 000 |    
+00047706 00 r 01 geograficamente 0 000 |    
+00047751 00 r 01 veementemente 0 000 |    
+00047794 00 r 01 ardimentosamente 0 000 |    
+00047840 00 r 03 teoreticamente 0 potenzialmente 0 virtualmente 0 000 |    
+00047916 00 r 02 dimane 0 domani 0 000 |    
+00047961 00 r 01 fiscalmente 0 000 |    
+00048002 00 r 01 geologicamente 0 000 |    
+00048046 00 r 01 indelebilmente 0 000 |    
+00048090 00 r 02 indescrivibilmente 0 indicibilmente 0 000 |    
+00048155 00 r 01 rapacemente 0 000 |    
+00048196 00 r 04 irreparabilmente 0 forzosamente 0 fatalmente 0 inevitabilmente 0 000 |    
+00048288 00 r 04 difilato 0 dritto 0 direttamente 0 diritto 0 000 |    
+00048360 00 r 01 amichevolmente 0 000 |    
+00048404 00 r 03 laboriosamente 0 industriosamente 0 operosamente 0 000 |    
+00048482 00 r 01 tenacemente 0 000 |    
+00048523 00 r 07 in_primo_luogo 0 innanzitutto 0 prima 0 anzi_tutto 0 innanzi_tutto 0 in_primis 0 anzitutto 0 000 |    
+00048643 00 r 02 in_modo_poco_serio 0 GAP! 0 000 |    
+00048698 00 r 01 culturalmente 0 000 |    
+00048741 00 r 01 mutamente 0 000 |    
+00048780 00 r 02 prodigiosamente 0 miracolosamente 0 000 |    
+00048843 00 r 08 passionalmente 0 infuocatamente 0 accoratamente 0 svisceratamente 0 ardentemente 0 accesamente 0 appassionatamente 0 focosamente 0 000 |    
+00049001 00 r 01 idealmente 0 000 |    
+00049041 00 r 04 rapidamente 0 presto 0 veloce 0 velocemente 0 000 |    
+00049114 00 r 06 abbondantemente 0 con_grande_effusione 0 profusamente 0 in_grande_abbondanza 0 con_effusione 0 lautamente 0 000 |    
+00049249 00 r 03 per_la_prima_volta 0 per-la-prima-volta 0 prima 0 000 |    
+00049326 00 r 04 magniloquentemente 0 solennemente 0 aulicamente 0 elevatamente 0 000 |    
+00049418 00 r 04 sconsideratamente 0 precipitosamente 0 avventatamente 0 irriflessivamente 0 000 |    
+00049521 00 r 01 spregiudicatamente 0 000 |    
+00049569 00 r 01 invincibilmente 0 000 |    
+00049614 00 r 01 bene 0 000 |    
+00049648 00 r 01 giustamente 0 000 |    
+00049689 00 r 01 basso 0 000 |    
+00049724 00 r 03 apposta 0 volutamente 0 deliberatamente 0 000 |    
+00049793 00 r 02 prevedibilmente 0 scontatamente 0 000 |    
+00049854 00 r 02 eternamente 0 sempre 0 000 |    
+00049904 00 r 01 classicamente 0 000 |    
+00049947 00 r 01 freddamente 0 000 |    
+00049988 00 r 01 asceticamente 0 000 |    
+00050031 00 r 06 a_persona 0 ciascuno 0 per_uno 0 per_persona 0 a_testa 0 per_ciascuno 0 000 |    
+00050130 00 r 01 mediocremente 0 000 |    
+00050173 00 r 02 a_sangue_freddo 0 freddamente 0 000 |    
+00050232 00 r 02 donchisciottescamente 0 alla_don_Chisciotte 0 000 |    
+00050305 00 r 02 stanotte 0 stasera 0 000 |    
+00050353 00 r 02 riccamente 0 sontuosamente 0 000 |    
+00050409 00 r 02 senza_misura 0 troppo 0 000 |    
+00050460 00 r 04 vis-a-vis 0 di_rimpetto 0 dirimpetto 0 davanti 0 000 |    
+00050536 00 r 07 con_liberalità 0 liberalmente 0 largamente 0 prodigalmente 0 generosamente 0 lautamente 0 munificamente 0 000 |    
+00050670 00 r 03 ultimamente 0 recentemente 0 negli_ultimi_tempi 0 000 |    
+00050747 00 r 01 significativamente 0 000 |    
+00050795 00 r 02 ostilmente 0 bellicosamente 0 000 |    
+00050852 00 r 02 con_aria_assonnata 0 GAP! 0 000 |    
+00050907 00 r 02 quindi 0 così 0 000 |    
+00050951 00 r 02 buffonescamente 0 scherzosamente 0 000 |    
+00051013 00 r 04 irascibilmente 0 rancorosamente 0 rabbiosamente 0 astiosamente 0 000 |    
+00051105 00 r 01 ampiamente 0 000 |    
+00051145 00 r 01 molto 0 000 |    
+00051180 00 r 01 validamente 0 000 |    
+00051221 00 r 01 eroicamente 0 000 |    
+00051262 00 r 01 morbosamente 0 000 |    
+00051304 00 r 02 con_aria_abbattuta 0 GAP! 0 000 |    
+00051359 00 r 01 rispettivamente 0 000 |    
+00051404 00 r 01 contrattualmente 0 000 |    
+00051450 00 r 0f press&apos;a_poco 0 grosso_modo 0 pressappoco 0 pressapoco 0 grossomodo 0 all&apos;incirca 0 circumcirca 0 a_occhio 0 circa 0 attorno 0 suppergiù 0 più_o_meno 0 su_per_giù 0 all&apos;_incirca 0 approssimativamente 0 000 |    
+00051696 00 r 02 gravemente 0 seriamente 0 000 |    
+00051749 00 r 03 anzi 0 antiteticamente 0 contrariamente 0 000 |    
+00051818 00 r 01 scontrosamente 0 000 |    
+00051862 00 r 02 irreprensibilmente 0 impeccabilmente 0 000 |    
+00051928 00 r 01 in_extremis 0 000 |    
+00051969 00 r 04 maleficamente 0 malvagiamente 0 sciaguratamente 0 scelleratamente 0 000 |    
+00052064 00 r 05 boriosamente 0 arrogantemente 0 prepotentemente 0 altezzosamente 0 presuntuosamente 0 000 |    
+00052177 00 r 0a sconsideratamente 0 precipitosamente 0 ardimentosamente 0 avventatamente 0 sventatamente 0 temerariamente 0 precipitatamente 0 incautamente 0 malaccortamente 0 inconsultamente 0 000 |    
+00052382 00 r 01 manualmente 0 000 |    
+00052423 00 r 01 grintosamente 0 000 |    
+00052466 00 r 01 aritmeticamente 0 000 |    
+00052511 00 r 02 speciosamente 0 capziosamente 0 000 |    
+00052570 00 r 01 pallidamente 0 000 |    
+00052612 00 r 06 ammirevolmente 0 apprezzabilmente 0 encomiabilmente 0 pregevolmente 0 mirabilmente 0 lodevolmente 0 000 |    
+00052739 00 r 01 spericolatamente 0 000 |    
+00052785 00 r 01 liberamente 0 000 |    
+00052826 00 r 02 secondariamente 0 secondo 0 000 |    
+00052881 00 r 01 prevalentemente 0 000 |    
+00052926 00 r 01 con_aria_assente 0 000 |    
+00052972 00 r 03 stretto 0 da_presso 0 dappresso 0 000 |    
+00053033 00 r 04 vilmente 0 turpemente 0 ignobilmente 0 villanescamente 0 000 |    
+00053117 00 r 03 con_insistenza 0 insistentemente 0 in_modo_insistente 0 000 |    
+00053200 00 r 01 consecutivamente 0 000 |    
+00053246 00 r 01 estaticamente 0 000 |    
+00053289 00 r 01 GAP! 0 000 |    
+00053323 00 r 01 tacitamente 0 000 |    
+00053364 00 r 01 longitudinalmente 0 000 |    
+00053411 00 r 01 inesorabilmente 0 000 |    
+00053456 00 r 01 periodicamente 0 000 |    
+00053500 00 r 03 mordacemente 0 causticamente 0 pungentemente 0 000 |    
+00053574 00 r 01 oggi 0 000 |    
+00053608 00 r 01 eccetera 0 000 |    
+00053646 00 r 01 bonariamente 0 000 |    
+00053688 00 r 02 mollemente 0 languidamente 0 000 |    
+00053744 00 r 02 spiritosamente 0 argutamente 0 000 |    
+00053802 00 r 01 algebricamente 0 000 |    
+00053846 00 r 01 pro_capite 0 000 |    
+00053886 00 r 02 macchinalmente 0 meccanicamente 0 000 |    
+00053947 00 r 04 sostanzialmente 0 fondamentalmente 0 essenzialmente 0 radicalmente 0 000 |    
+00054043 00 r 02 commercialmente 0 mercantilmente 0 000 |    
+00054105 00 r 05 automaticamente 0 inavvertitamente 0 istintivamente 0 inconsapevolmente 0 involontariamente 0 000 |    
+00054226 00 r 02 con_fare_impotente 0 GAP! 0 000 |    
+00054281 00 r 03 mutevolmente 0 estrosamente 0 irregolarmente 0 000 |    
+00054355 00 r 06 curiosamente 0 stranamente 0 strambamente 0 balordamente 0 singolarmente 0 bizzarramente 0 000 |    
+00054473 00 r 01 rinfusa 0 000 |    
+00054510 00 r 07 veramente 0 davvero 0 realmente 0 in-realtà 0 di-fatto 0 proprio 0 effettivamente 0 000 |    
+00054622 00 r 01 blandamente 0 000 |    
+00054663 00 r 05 disordinatamente 0 arruffatamente 0 confusamente 0 caoticamente 0 sconclusionatamente 0 000 |    
+00054778 00 r 03 candidamente 0 ingenuamente 0 innocentemente 0 000 |    
+00054852 00 r 01 gratuitamente 0 000 |    
+00054895 00 r 01 sintatticamente 0 000 |    
+00054940 00 r 01 transitoriamente 0 000 |    
+00054986 00 r 04 irreparabilmente 0 per_cause_di_forza_maggiore 0 ineluttabilmente 0 inevitabilmente 0 000 |    
+00055099 00 r 01 solo 0 000 |    
+00055133 00 r 01 supplichevolmente 0 000 |    
+00055180 00 r 01 impertinentemente 0 000 |    
+00055227 00 r 01 incontrario 0 000 |    
+00055268 00 r 01 interrogativamente 0 000 |    
+00055316 00 r 01 meglio 0 000 |    
+00055352 00 r 01 gutturalmente 0 000 |    
+00055395 00 r 01 intrinsecamente 0 000 |    
+00055440 00 r 02 apparentemente 0 a_quanto_pare 0 000 |    
+00055500 00 r 01 abbozzatamente 0 000 |    
+00055544 00 r 02 didatticamente 0 pedagogicamente 0 000 |    
+00055606 00 r 01 penalmente 0 000 |    
+00055646 00 r 02 spaventosamente 0 terribilmente 0 000 |    
+00055707 00 r 01 sghembo 0 000 |    
+00055744 00 r 03 assiduamente 0 zelantemente 0 diligentemente 0 000 |    
+00055818 00 r 01 miseramente 0 000 |    
+00055859 00 r 01 stupendamente 0 000 |    
+00055902 00 r 01 scandalosamente 0 000 |    
+00055947 00 r 05 artificiosamente 0 vezzosamente 0 studiatamente 0 ricercatamente 0 leziosamente 0 000 |    
+00056056 00 r 04 viziatamente 0 capricciosamente 0 bizzosamente 0 scontrosamente 0 000 |    
+00056149 00 r 02 con_energia 0 energicamente 0 000 |    
+00056206 00 r 02 angosciatamente 0 angosciosamente 0 000 |    
+00056269 00 r 01 gerarchicamente 0 000 |    
+00056314 00 r 01 indietro 0 000 |    
+00056352 00 r 02 con_continuità 0 continuamente 0 000 |    
+00056413 00 r 04 estesamente 0 largamente 0 ampiamente 0 vastamente 0 000 |    
+00056493 00 r 01 in_larghezza 0 000 |    
+00056535 00 r 04 veramente 0 genuinamente 0 autenticamente 0 schiettamente 0 000 |    
+00056622 00 r 01 sempre 0 000 |    
+00056658 00 r 08 curiosamente 0 stranamente 0 strambamente 0 cervelloticamente 0 balordamente 0 singolarmente 0 stravagantemente 0 bizzarramente 0 000 |    
+00056815 00 r 05 libidinosamente 0 lussuriosamente 0 voluttuosamente 0 lascivamente 0 sensualmente 0 000 |    
+00056926 00 r 02 storicamente 0 storiograficamente 0 000 |    
+00056989 00 r 05 di_recente 0 da_poco 0 appena 0 recentemente 0 di-fresco 0 000 |    
+00057075 00 r 01 a_gambe_incrociate 0 000 |    
+00057123 00 r 01 molto_in_alto 0 000 |    
+00057166 00 r 02 risentitamente 0 astiosamente 0 000 |    
+00057225 00 r 05 indi 0 quinci 0 perciò 0 quindi 0 così 0 000 |    
+00057295 00 r 01 intellettualmente 0 000 |    
+00057342 00 r 02 con_aria_imbronciata 0 GAP! 0 000 |    
+00057399 00 r 01 scientificamente 0 000 |    
+00057445 00 r 01 bellamente 0 000 |    
+00057485 00 r 05 incondizionatamente 0 tassativamente 0 categoricamente 0 perentoriamente 0 incontrovertibilmente 0 000 |    
+00057611 00 r 01 maternamente 0 000 |    
+00057653 00 r 01 straordinariamente 0 000 |    
+00057701 00 r 01 irrevocabilmente 0 000 |    
+00057747 00 r 05 perfino 0 nemmeno 0 neanche 0 anche 0 persino 0 000 |    
+00057822 00 r 01 pietosamente 0 000 |    
+00057864 00 r 01 palpabilmente 0 000 |    
+00057907 00 r 01 innegabilmente 0 000 |    
+00057951 00 r 04 ancora 0 anche 0 sempre 0 ancor 0 000 |    
+00058012 00 r 04 veramente 0 ben 0 molto 0 proprio 0 000 |    
+00058075 00 r 01 irrequietamente 0 000 |    
+00058120 00 r 03 correntemente 0 comunemente 0 diffusamente 0 000 |    
+00058192 00 r 02 rudemente 0 chiaro_e_tondo 0 000 |    
+00058248 00 r 03 musicalmente 0 armonicamente 0 armoniosamente 0 000 |    
+00058323 00 r 03 bramosamente 0 vogliosamente 0 desiderosamente 0 000 |    
+00058399 00 r 02 quattamente 0 furtivamente 0 000 |    
+00058455 00 r 01 meglio 0 000 |    
+00058491 00 r 01 analiticamente 0 000 |    
+00058535 00 r 01 comunque 0 000 |    
+00058573 00 r 05 innanzi 0 anteriormente 0 avanti 0 già 0 prima 0 000 |    
+00058650 00 r 01 offensivamente 0 000 |    
+00058694 00 r 01 emblematicamente 0 000 |    
+00058740 00 r 01 contemporaneamente 0 000 |    
+00058788 00 r 01 ipoteticamente 0 000 |    
+00058832 00 r 02 vistosamente 0 chiassosamente 0 000 |    
+00058891 00 r 01 persuasivamente 0 000 |    
+00058936 00 r 03 scrupolosamente 0 coscienziosamente 0 religiosamente 0 000 |    
+00059018 00 r 01 settimanalmente 0 000 |    
+00059063 00 r 02 prodigamente 0 lautamente 0 000 |    
+00059118 00 r 01 tragicamente 0 000 |    
+00059160 00 r 02 con_vivacità 0 vivacemente 0 000 |    
+00059217 00 r 04 viscidamente 0 scivolosamente 0 untuosamente 0 mellifluamente 0 000 |    
+00059308 00 r 01 iniquamente 0 000 |    
+00059349 00 r 02 ornatamente 0 adornatamente 0 000 |    
+00059406 00 r 05 intorno 0 nei-pressi 0 in_giro 0 nelle_vicinanze 0 attorno 0 000 |    
+00059494 00 r 01 lessicalmente 0 000 |    
+00059537 00 r 01 metafisicamente 0 000 |    
+00059582 00 r 01 flemmaticamente 0 000 |    
+00059627 00 r 01 sotto 0 000 |    
+00059662 00 r 04 abbastanza 0 parecchio 0 piuttosto 0 più 0 000 |    
+00059733 00 r 01 presto 0 000 |    
+00059769 00 r 01 maliziosamente 0 000 |    
+00059813 00 r 02 bestialmente 0 animalescamente 0 000 |    
+00059873 00 r 01 apaticamente 0 000 |    
+00059915 00 r 05 mal_volentieri 0 malvolentieri 0 malincuore 0 riluttantemente 0 malavoglia 0 000 |    
+00060019 00 r 01 tranquillamente 0 000 |    
+00060064 00 r 02 ossequiosamente 0 servilmente 0 000 |    
+00060123 00 r 01 ostentatamente 0 000 |    
+00060167 00 r 02 appena 0 proprio 0 000 |    
+00060213 00 r 02 trucemente 0 acremente 0 000 |    
+00060265 00 r 01 generalmente 0 000 |    
+00060307 00 r 03 dal_punto_di_vista_materiale 0 materialmente 0 GAP! 0 000 |    
+00060388 00 r 01 sotto_costa 0 000 |    
+00060429 00 r 01 puntigliosamente 0 000 |    
+00060475 00 r 02 oculatamente 0 guardingamente 0 000 |    
+00060534 00 r 07 adiratamente 0 arrabbiatamente 0 stizzosamente 0 adirosamente 0 iratamente 0 irosamente 0 rabbiosamente 0 000 |    
+00060667 00 r 01 lontano 0 000 |    
+00060704 00 r 02 biasimevolmente 0 riprovevolmente 0 000 |    
+00060767 00 r 01 catastroficamente 0 000 |    
+00060814 00 r 02 in_modo_tutto_particolare 0 GAP! 0 000 |    
+00060876 00 r 02 gratuitamente 0 gratis 0 000 |    
+00060928 00 r 02 con_falsa_timidezza 0 GAP! 0 000 |    
+00060984 00 r 09 schifosamente 0 paurosamente 0 tremendamente 0 spaventosamente 0 orribilmente 0 orridamente 0 malissimo 0 terribilmente 0 atrocemente 0 000 |    
+00061147 00 r 01 eufemisticamente 0 000 |    
+00061193 00 r 01 pittorescamente 0 000 |    
+00061238 00 r 01 odiosamente 0 000 |    
+00061279 00 r 03 ordinatamente 0 con_cura 0 pulitamente 0 000 |    
+00061347 00 r 01 invariabilmente 0 000 |    
+00061392 00 r 03 superficialmente 0 semplicisticamente 0 sommariamente 0 000 |    
+00061475 00 r 01 ridicolmente 0 000 |    
+00061517 00 r 01 convulsamente 0 000 |    
+00061560 00 r 02 ufficialmente 0 formalmente 0 000 |    
+00061617 00 r 01 piuttosto 0 000 |    
+00061656 00 r 01 tradizionalmente 0 000 |    
+00061702 00 r 01 strategicamente 0 000 |    
+00061747 00 r 01 dopotutto 0 000 |    
+00061786 00 r 01 effettivamente 0 000 |    
+00061830 00 r 01 maestosamente 0 000 |    
+00061873 00 r 03 diversamente 0 differentemente 0 altrimenti 0 000 |    
+00061946 00 r 01 insidiosamente 0 000 |    
+00061990 00 r 01 chirurgicamente 0 000 |    
+00062035 00 r 03 adesso 0 ora 0 ormai 0 000 |    
+00062085 00 r 02 infine 0 in_fine 0 000 |    
+00062131 00 r 01 ben_in_vista 0 000 |    
+00062173 00 r 01 arrischiatamente 0 000 |    
+00062219 00 r 01 clinicamente 0 000 |    
+00062261 00 r 03 eccessivamente 0 esageratamente 0 troppo 0 000 |    
+00062331 00 r 03 ingordamente 0 avidamente 0 voracemente 0 000 |    
+00062400 00 r 01 mentalmente 0 000 |    
+00062441 00 r 01 sorprendentemente 0 000 |    
+00062488 00 r 01 spontaneamente 0 000 |    
+00062532 00 r 01 serenamente 0 000 |    
+00062573 00 r 02 dopo_la_sua_morte 0 GAP! 0 000 |    
+00062627 00 r 03 vertiginosamente 0 vorticosamente 0 con_un_senso_di_vertigine 0 000 |    
+00062718 00 r 01 frontalmente 0 000 |    
+00062760 00 r 01 sillaba_per_sillaba 0 000 |    
+00062809 00 r 01 fisicamente 0 000 |    
+00062850 00 r 01 plasticamente 0 000 |    
+00062893 00 r 01 cupamente 0 000 |    
+00062932 00 r 01 eroticamente 0 000 |    
+00062974 00 r 01 perfidamente 0 000 |    
+00063016 00 r 01 fotograficamente 0 000 |    
+00063062 00 r 01 ecologicamente 0 000 |    
+00063106 00 r 01 irritabilmente 0 000 |    
+00063150 00 r 02 con_aria_di_rimprovero 0 GAP! 0 000 |    
+00063209 00 r 07 ardimentosamente 0 gagliardamente 0 arditamente 0 valorosamente 0 coraggiosamente 0 bravamente 0 strenuamente 0 000 |    
+00063348 00 r 01 ossessivamente 0 000 |    
+00063392 00 r 01 mediamente 0 000 |    
+00063432 00 r 02 d&apos;onde 0 donde 0 000 |    
+00063481 00 r 02 lievemente 0 leggermente 0 000 |    
+00063535 00 r 01 volgarmente 0 000 |    
+00063576 00 r 01 restrittivamente 0 000 |    
+00063622 00 r 01 oscenamente 0 000 |    
+00063663 00 r 01 semplicemente 0 000 |    
+00063706 00 r 01 liricamente 0 000 |    
+00063747 00 r 01 umilmente 0 000 |    
+00063786 00 r 01 oltre 0 000 |    
+00063821 00 r 02 popolarmente 0 volgarmente 0 000 |    
+00063877 00 r 01 lucidamente 0 000 |    
+00063918 00 r 03 caramente 0 affezionatamente 0 affettuosamente 0 000 |    
+00063994 00 r 02 sicuramente 0 indubbiamente 0 000 |    
+00064051 00 r 03 solennemente 0 gravemente 0 ieraticamente 0 000 |    
+00064122 00 r 01 omogeneamente 0 000 |    
+00064165 00 r 01 cerebralmente 0 000 |    
+00064208 00 r 02 oltre_oceano 0 oltreoceano 0 000 |    
+00064264 00 r 02 silenziosamente 0 tacitamente 0 000 |    
+00064323 00 r 01 contortamente 0 000 |    
+00064366 00 r 01 tatticamente 0 000 |    
+00064408 00 r 03 scopertamente 0 dichiaratamente 0 apertamente 0 000 |    
+00064483 00 r 01 quantitativamente 0 000 |    
+00064530 00 r 01 quattro_volte_tanto 0 000 |    
+00064579 00 r 01 continuamente 0 000 |    
+00064622 00 r 07 odiernamente 0 oggidì 0 oggi 0 oggigiorno 0 modernamente 0 adesso 0 ora 0 000 |    
+00064724 00 r 05 accidentalmente 0 casualmente 0 per_caso 0 incidentalmente 0 fortuitamente 0 000 |    
+00064828 00 r 03 ratto 0 rapidamente 0 celermente 0 000 |    
+00064890 00 r 05 di_nascosto 0 furtivamente 0 nascostamente 0 in_segreto 0 segretamente 0 000 |    
+00064990 00 r 01 difettosamente 0 000 |    
+00065034 00 r 01 irreprensibilmente 0 000 |    
+00065082 00 r 03 eccellentemente 0 egregiamente 0 ottimamente 0 000 |    
+00065156 00 r 01 macroscopicamente 0 000 |    
+00065203 00 r 03 consuetamente 0 d&apos;abitudine 0 abitualmente 0 000 |    
+00065280 00 r 01 avidamente 0 000 |    
+00065320 00 r 04 enigmaticamente 0 tenebrosamente 0 misteriosamente 0 occultamente 0 000 |    
+00065415 00 r 03 impetuosamente 0 con_impeto 0 impulsivamente 0 000 |    
+00065489 00 r 02 gratuitamente 0 gratis 0 000 |    
+00065541 00 r 01 peggio 0 000 |    
+00065577 00 r 01 molto 0 000 |    
+00065612 00 r 01 campanilisticamente 0 000 |    
+00065661 00 r 02 compassionevolmente 0 pietosamente 0 000 |    
+00065725 00 r 01 esteticamente 0 000 |    
+00065768 00 r 01 artisticamente 0 000 |    
+00065812 00 r 01 insieme 0 000 |    
+00065849 00 r 05 floridamente 0 oltre_modo 0 grandemente 0 molto 0 oltremodo 0 000 |    
+00065938 00 r 01 drasticamente 0 000 |    
+00065981 00 r 01 sperticatamente 0 000 |    
+00066026 00 r 02 screanzatamente 0 scostumatamente 0 000 |    
+00066089 00 r 03 romanzescamente 0 favolosamente 0 fantasticamente 0 000 |    
+00066168 00 r 01 GAP! 0 000 |    
+00066202 00 r 01 altrove 0 000 |    
+00066239 00 r 03 altamente 0 estremamente 0 molto 0 000 |    
+00066301 00 r 01 amaramente 0 000 |    
+00066341 00 r 02 valorosamente 0 strenuamente 0 000 |    
+00066399 00 r 01 ogni_quindici_giorni 0 000 |    
+00066449 00 r 03 sprezzantemente 0 spregiudicatamente 0 cinicamente 0 000 |    
+00066529 00 r 02 aspramente 0 rigorosamente 0 000 |    
+00066585 00 r 02 stancamente 0 straccamente 0 000 |    
+00066641 00 r 01 tutto_d&apos;un_fiato 0 000 |    
+00066692 00 r 01 mansuetamente 0 000 |    
+00066735 00 r 01 via 0 000 |    
+00066768 00 r 04 giudiziosamente 0 coscienziosamente 0 responsabilmente 0 seriamente 0 000 |    
+00066865 00 r 01 elettronicamente 0 000 |    
+00066911 00 r 01 a_metà_prezzo 0 000 |    
+00066955 00 r 01 inutilmente 0 000 |    
+00066996 00 r 01 lento 0 000 |    
+00067031 00 r 04 continuamente 0 costantemente 0 incessantemente 0 in_modo_continuo 0 000 |    
+00067127 00 r 01 acidamente 0 000 |    
+00067167 00 r 01 magicamente 0 000 |    
+00067208 00 r 01 offensivamente 0 000 |    
+00067252 00 r 02 nemmeno 0 pure 0 000 |    
+00067296 00 r 01 rigidamente 0 000 |    
+00067337 00 r 01 profeticamente 0 000 |    
+00067381 00 r 04 talvolta 0 talotta 0 talora 0 tal_volta 0 000 |    
+00067450 00 r 01 tipograficamente 0 000 |    
+00067496 00 r 02 qua_sù 0 quassù 0 000 |    
+00067543 00 r 01 metricamente 0 000 |    
+00067585 00 r 01 ogni_mezz&apos;ora 0 000 |    
+00067633 00 r 01 biologicamente 0 000 |    
+00067677 00 r 01 elettricamente 0 000 |    
+00067721 00 r 01 schematicamente 0 000 |    
+00067766 00 r 01 spiritualmente 0 000 |    
+00067810 00 r 04 paurosamente 0 timidamente 0 ritrosamente 0 vergognosamente 0 000 |    
+00067899 00 r 01 smorfiosamente 0 000 |    
+00067943 00 r 05 schizzinosamente 0 lunaticamente 0 stizzosamente 0 schifiltosamente 0 bisbeticamente 0 000 |    
+00068057 00 r 01 famosamente 0 000 |    
+00068098 00 r 01 monotonamente 0 000 |    
+00068141 00 r 01 severamente 0 000 |    
+00068182 00 r 01 pertinacemente 0 000 |    
+00068226 00 r 01 nobilmente 0 000 |    
+00068266 00 r 01 irresistibilmente 0 000 |    
+00068313 00 r 02 oralmente 0 verbalmente 0 000 |    
+00068366 00 r 01 torpidamente 0 000 |    
+00068408 00 r 01 universalmente 0 000 |    
+00068452 00 r 03 indefessamente 0 instancabilmente 0 infaticabilmente 0 000 |    
+00068534 00 r 01 tiepidamente 0 000 |    
+00068576 00 r 01 creativamente 0 000 |    
+00068619 00 r 01 eccezionalmente 0 000 |    
+00068664 00 r 06 separatamente 0 distintamente 0 individualmente 0 a_parte 0 singolarmente 0 disgiuntamente 0 000 |    
+00068784 00 r 01 bilateralmente 0 000 |    
+00068828 00 r 01 spedito 0 000 |    
+00068865 00 r 02 indietro 0 in_dietro 0 000 |    
+00068915 00 r 01 così 0 000 |    
+00068950 00 r 02 perpetuamente 0 perennemente 0 000 |    
+00069008 00 r 08 nettamente 0 ovviamente 0 lapalissianamente 0 distintamente 0 eclatantemente 0 perspicuamente 0 evidentemente 0 chiaramente 0 000 |    
+00069161 00 r 01 proprio 0 000 |    
+00069198 00 r 01 allo_stesso_modo 0 000 |    
+00069244 00 r 03 umilmente 0 modestamente 0 dimessamente 0 000 |    
+00069313 00 r 01 improvvisamente 0 000 |    
+00069358 00 r 01 sinteticamente 0 000 |    
+00069402 00 r 01 puntualmente 0 000 |    
+00069444 00 r 02 vilmente 0 spregevolmente 0 000 |    
+00069499 00 r 01 ad_hoc 0 000 |    
+00069535 00 r 03 poi 0 quindi 0 allora 0 000 |    
+00069586 00 r 04 in_anticipo 0 prima 0 preventivamente 0 anticipatamente 0 000 |    
+00069671 00 r 01 enormemente 0 000 |    
+00069712 00 r 01 topograficamente 0 000 |    
+00069758 00 r 04 piano 0 sottovoce 0 a_bassa_voce 0 basso 0 000 |    
+00069828 00 r 01 presumibilmente 0 000 |    
+00069873 00 r 01 attraverso_i_campi 0 000 |    
+00069921 00 r 04 alfine 0 infine 0 alla_fine 0 finalmente 0 000 |    
+00069991 00 r 04 acerbamente 0 aspramente 0 rigorosamente 0 acremente 0 000 |    
+00070073 00 r 02 sconsolatamente 0 desolatamente 0 000 |    
+00070134 00 r 01 verticalmente 0 000 |    
+00070177 00 r 01 stoicamente 0 000 |    
+00070218 00 r 04 cocciutamente 0 testardamente 0 caparbiamente 0 ostinatamente 0 000 |    
+00070309 00 r 01 frivolamente 0 000 |    
+00070351 00 r 01 allegoricamente 0 000 |    
+00070396 00 r 01 molto_bene 0 000 |    
+00070436 00 r 02 minuziosamente 0 meticolosamente 0 000 |    
+00070498 00 r 01 solo 0 000 |    
+00070532 00 r 01 senza_dubbio 0 000 |    
+00070574 00 r 01 vezzosamente 0 000 |    
+00070616 00 r 02 in_modo_poco_convincente 0 GAP! 0 000 |    
+00070677 00 r 01 idillicamente 0 000 |    
+00070720 00 r 05 valentemente 0 sapientemente 0 magistralmente 0 abilmente 0 destramente 0 000 |    
+00070821 00 r 01 ripidamente 0 000 |    
+00070862 00 r 01 irreprensibilmente 0 000 |    
+00070910 00 r 01 non 0 000 |    
+00070943 00 r 01 consecutivamente 0 000 |    
+00070989 00 r 01 a_quel_punto 0 000 |    
+00071031 00 r 02 da_allora_in_poi 0 poscia 0 000 |    
+00071086 00 r 01 disperatamente 0 000 |    
+00071130 00 r 01 lacunosamente 0 000 |    
+00071173 00 r 01 sventatamente 0 000 |    
+00071216 00 r 01 professionalmente 0 000 |    
+00071263 00 r 01 gelosamente 0 000 |    
+00071304 00 r 06 cocciutamente 0 accanitamente 0 pervicacemente 0 inesorabilmente 0 caparbiamente 0 ostinatamente 0 000 |    
+00071430 00 r 01 empiamente 0 000 |    
+00071470 00 r 01 umanamente 0 000 |    
+00071510 00 r 04 asciutto 0 accorciatamente 0 seccamente 0 abbreviatamente 0 000 |    
+00071597 00 r 01 irregolarmente 0 000 |    
+00071641 00 r 01 inalterabilmente 0 000 |    
+00071687 00 r 03 caducamente 0 labilmente 0 fugacemente 0 000 |    
+00071755 00 r 01 disordinatamente 0 000 |    
+00071801 00 r 01 sordidamente 0 000 |    
+00071843 00 r 01 industrialmente 0 000 |    
+00071888 00 r 01 rovinosamente 0 000 |    
+00071931 00 r 03 maliziosamente 0 malevolmente 0 malignamente 0 000 |    
+00072005 00 r 01 fuori 0 000 |    
+00072040 00 r 02 angelicamente 0 dolcemente 0 000 |    
+00072096 00 r 02 in_modo_poco_convincente 0 GAP! 0 000 |    
+00072157 00 r 01 qui 0 000 |    
+00072190 00 r 01 rigorosamente 0 000 |    
+00072233 00 r 01 svenevolmente 0 000 |    
+00072276 00 r 01 meteorologicamente 0 000 |    
+00072324 00 r 01 emblematicamente 0 000 |    
+00072370 00 r 01 ecologicamente 0 000 |    
+00072414 00 r 01 ammirativamente 0 000 |    
+00072459 00 r 02 tempestosamente 0 burrascosamente 0 000 |    
+00072522 00 r 01 avanti 0 000 |    
+00072558 00 r 03 affabilmente 0 amabilmente 0 adorabilmente 0 000 |    
+00072630 00 r 01 finanziariamente 0 000 |    
+00072676 00 r 02 celestialmente 0 divinamente 0 000 |    
+00072734 00 r 01 febbrilmente 0 000 |    
+00072776 00 r 01 assolutamente 0 000 |    
+00072819 00 r 01 variabilmente 0 000 |    
+00072862 00 r 01 molto 0 000 |    
+00072897 00 r 04 incontenibilmente 0 prepotentemente 0 impellentemente 0 irrefrenabilmente 0 000 |    
+00073000 00 r 01 ogni_ora 0 000 |    
+00073038 00 r 01 empiamente 0 000 |    
+00073078 00 r 01 insieme 0 000 |    
+00073115 00 r 01 insieme 0 000 |    
+00073152 00 r 01 di_traverso 0 000 |    
+00073193 00 r 03 schifosamente 0 disgustosamente 0 orribilmente 0 000 |    
+00073269 00 r 03 piu&apos;_volte 0 ripetutamente 0 reiteratamente 0 000 |    
+00073347 00 r 01 accademicamente 0 000 |    
+00073392 00 r 03 lussuriosamente 0 lascivamente 0 volgarmente 0 000 |    
+00073466 00 r 02 candidamente 0 ingenuamente 0 000 |    
+00073523 00 r 02 regionalmente 0 a_livello_regionale 0 000 |    
+00073588 00 r 01 viceversa 0 000 |    
+00073627 00 r 03 a_pezzi_e_bocconi 0 poco_alla_volta 0 a_spizzichi 0 000 |    
+00073706 00 r 02 impudentemente 0 sfrontatamente 0 000 |    
+00073767 00 r 01 lontano_dal_bersaglio 0 000 |    
+00073818 00 r 01 scolasticamente 0 000 |    
+00073863 00 r 01 docilmente 0 000 |    
+00073903 00 r 02 disordinatamente 0 irrefrenabilmente 0 000 |    
+00073969 00 r 01 carnalmente 0 000 |    
+00074010 00 r 01 agiatamente 0 000 |    
+00074051 00 r 03 comunque 0 tuttavia 0 ciononostante 0 000 |    
+00074116 00 r 01 attentamente 0 000 |    
+00074158 00 r 02 proditoriamente 0 infidamente 0 000 |    
+00074217 00 r 01 senza_fare_una_piega 0 000 |    
+00074267 00 r 01 ordinatamente 0 000 |    
+00074310 00 r 01 nominalmente 0 000 |    
+00074352 00 r 04 per_lo_più 0 ampiamente 0 prevalentemente 0 in_buona_parte 0 000 |    
+00074441 00 r 02 ancora 0 finora 0 000 |    
+00074486 00 r 05 tranquillamente 0 placidamente 0 chetamente 0 rilassatamente 0 serenamente 0 000 |    
+00074590 00 r 04 poi 0 quindi 0 in_tal_caso 0 allora 0 000 |    
+00074655 00 r 01 spaziosamente 0 000 |    
+00074698 00 r 01 scetticamente 0 000 |    
+00074741 00 r 06 espressamente 0 specie 0 sopratutto 0 soprattutto 0 specialmente 0 particolarmente 0 000 |    
+00074853 00 r 01 agrestemente 0 000 |    
+00074895 00 r 01 fuori 0 000 |    
+00074930 00 r 02 cupidamente 0 lascivamente 0 000 |    
+00074986 00 r 01 con_la_forza 0 000 |    
+00075028 00 r 02 dottamente 0 eruditamente 0 000 |    
+00075083 00 r 01 sentenziosamente 0 000 |    
+00075129 00 r 02 posteriormente 0 dietro 0 000 |    
+00075182 00 r 02 svogliatamente 0 indolentemente 0 000 |    
+00075243 00 r 03 carpone 0 carponi 0 gattoni 0 000 |    
+00075300 00 r 01 ardimentosamente 0 000 |    
+00075346 00 r 01 visivamente 0 000 |    
+00075387 00 r 01 castigatamente 0 000 |    
+00075431 00 r 01 etnicamente 0 000 |    
+00075472 00 r 04 tremendamente 0 spaventosamente 0 terribilmente 0 disumanamente 0 000 |    
+00075565 00 r 01 lacrimosamente 0 000 |    
+00075609 00 r 03 poi 0 quindi 0 allora 0 000 |    
+00075660 00 r 01 aristocraticamente 0 000 |    
+00075708 00 r 01 laconicamente 0 000 |    
+00075751 00 r 01 biennalmente 0 000 |    
+00075793 00 r 01 animatamente 0 000 |    
+00075835 00 r 03 leggiadramente 0 pulito 0 graziosamente 0 000 |    
+00075904 00 r 04 tremendamente 0 orrendamente 0 orribilmente 0 mostruosamente 0 000 |    
+00075994 00 r 02 adesso 0 ora 0 000 |    
+00076036 00 r 01 ingiustificabilmente 0 000 |    
+00076086 00 r 04 fanciullescamente 0 infantilmente 0 bambinescamente 0 puerilmente 0 000 |    
+00076181 00 r 01 inimitabilmente 0 000 |    
+00076226 00 r 01 statisticamente 0 000 |    
+00076271 00 r 01 altruisticamente 0 000 |    
+00076317 00 r 02 armonicamente 0 armoniosamente 0 000 |    
+00076377 00 r 01 poco 0 000 |    
+00076411 00 r 01 assiomaticamente 0 000 |    
+00076457 00 r 02 in_modo_burbero 0 burberamente 0 000 |    
+00076517 00 r 01 mortalmente 0 000 |    
+00076558 00 r 01 forzosamente 0 000 |    
+00076600 00 r 01 retoricamente 0 000 |    
+00076643 00 r 02 profondamente 0 vivamente 0 000 |    
+00076698 00 r 01 adorabilmente 0 000 |    
+00076741 00 r 03 studiosamente 0 solertemente 0 diligentemente 0 000 |    
+00076816 00 r 01 ufficiosamente 0 000 |    
+00076860 00 r 01 meglio 0 000 |    
+00076896 00 r 04 confusamente 0 indistintamente 0 vagamente 0 nebulosamente 0 000 |    
+00076984 00 r 01 incestuosamente 0 000 |    
+00077029 00 r 01 deliziosamente 0 000 |    
+00077073 00 r 03 coerentemente 0 conseguentemente 0 di_conseguenza 0 000 |    
+00077152 00 r 01 trasversalmente 0 000 |    
+00077197 00 r 05 caldamente 0 caloroso 0 cordialmente 0 calorosamente 0 vivamente 0 000 |    
+00077291 00 r 03 finemente 0 squisitamente 0 preziosamente 0 000 |    
+00077362 00 r 04 orgogliosamente 0 superbamente 0 alteramente 0 fieramente 0 000 |    
+00077449 00 r 0d immantinente 0 difilato 0 prontamente 0 in_tempo_reale 0 all&apos;-impronta 0 tantosto 0 subito 0 istantaneamente 0 immediatamente 0 all&apos;istante 0 ora 0 tosto 0 diviato 0 000 |    
+00077652 00 r 02 ancora 0 tuttavia 0 000 |    
+00077699 00 r 01 proverbialmente 0 000 |    
+00077744 00 r 02 deplorevolmente 0 tristemente 0 000 |    
+00077803 00 r 01 inestricabilmente 0 000 |    
+00077850 00 r 02 con_aria_sognante 0 GAP! 0 000 |    
+00077904 00 r 01 riservatamente 0 000 |    
+00077948 00 r 06 asinescamente 0 stoltamente 0 stupidamente 0 insensatamente 0 balordamente 0 ignorantemente 0 000 |    
+00078069 00 r 03 castigatamente 0 verecondamente 0 austeramente 0 000 |    
+00078145 00 r 01 anonimamente 0 000 |    
+00078187 00 r 02 ipocritamente 0 farisaicamente 0 000 |    
+00078247 00 r 05 sinteticamente 0 in-breve 0 brevemente 0 concisamente 0 per-sommi-capi 0 000 |    
+00078347 00 r 04 praticamente 0 in-pratica 0 in-concreto 0 concretamente 0 000 |    
+00078432 00 r 02 veemente 0 aggressivamente 0 000 |    
+00078488 00 r 03 spregevolmente 0 ignobilmente 0 abiettamente 0 000 |    
+00078562 00 r 01 minacciosamente 0 000 |    
+00078607 00 r 01 meditatamente 0 000 |    
+00078650 00 r 01 intermittentemente 0 000 |    
+00078698 00 r 05 svogliatamente 0 accidiosamente 0 pigramente 0 negligentemente 0 indolentemente 0 000 |    
+00078807 00 r 01 poco 0 000 |    
+00078841 00 r 01 freneticamente 0 000 |    
+00078885 00 r 08 appositamente 0 espressamente 0 specie 0 sopratutto 0 soprattutto 0 apposta 0 specialmente 0 particolarmente 0 000 |    
+00079023 00 r 03 prolissamente 0 verbosamente 0 ventosamente 0 000 |    
+00079096 00 r 01 diagonalmente 0 000 |    
+00079139 00 r 03 santamente 0 piamente 0 devotamente 0 000 |    
+00079204 00 r 03 frattempo 0 intanto 0 frattanto 0 000 |    
+00079265 00 r 02 insomma 0 complessivamente 0 000 |    
+00079321 00 r 02 lievemente 0 leggermente 0 000 |    
+00079375 00 r 05 rapidamente 0 presto 0 veloce 0 forte 0 velocemente 0 000 |    
+00079456 00 r 02 equivocamente 0 incertamente 0 000 |    
+00079514 00 r 04 cattedraticamente 0 accademicamente 0 pedantemente 0 dottorescamente 0 000 |    
+00079612 00 r 01 praticamente 0 000 |    
+00079654 00 r 01 lussuosamente 0 000 |    
+00079697 00 r 03 maldestramente 0 goffamente 0 impacciatamente 0 000 |    
+00079772 00 r 04 forse 0 possibilmente 0 eventualmente 0 magari 0 000 |    
+00079848 00 r 01 senza_pagare_l&apos;affitto 0 000 |    
+00079905 00 r 04 viziosamente 0 scostumatamente 0 dissolutamente 0 dissipatamente 0 000 |    
+00079999 00 r 01 precocemente 0 000 |    
+00080041 00 r 02 birbantescamente 0 birbonescamente 0 000 |    
+00080105 00 r 02 verso_il_mare 0 GAP! 0 000 |    
+00080155 00 r 01 cioè 0 000 |    
+00080190 00 r 03 insieme 0 simultaneamente 0 contemporaneamente 0 000 |    
+00080266 00 r 01 pesantemente 0 000 |    
+00080308 00 r 01 annualmente 0 000 |    
+00080349 00 r 01 invidiabilmente 0 000 |    
+00080394 00 r 01 atrocemente 0 000 |    
+00080435 00 r 06 innanzi 0 anteriormente 0 prima 0 dirimpetto 0 di_fronte 0 davanti 0 000 |    
+00080531 00 r 02 scenicamente 0 scenograficamente 0 000 |    
+00080593 00 r 01 loquacemente 0 000 |    
+00080635 00 r 01 volente_o_nolente 0 000 |    
+00080682 00 r 07 precipuamente 0 in_gran_parte 0 soprattutto 0 eminentemente 0 principalmente 0 prevalentemente 0 maggiormente 0 000 |    
+00080821 00 r 01 assurdamente 0 000 |    
+00080863 00 r 04 maliziosamente 0 abilmente 0 furbamente 0 destramente 0 000 |    
+00080946 00 r 01 completamente 0 000 |    
+00080989 00 r 01 sperimentalmente 0 000 |    
+00081035 00 r 03 a_buon_mercato 0 a_buon_prezzo 0 con_poca_spesa 0 000 |    
+00081112 00 r 01 farmacologicamente 0 000 |    
+00081160 00 r 01 giovanilmente 0 000 |    
+00081203 00 r 01 item 0 000 |    
+00081237 00 r 01 burocraticamente 0 000 |    
+00081283 00 r 01 spettacolarmente 0 000 |    
+00081329 00 r 01 insopportabilmente 0 000 |    
+00081377 00 r 01 geneticamente 0 000 |    
+00081420 00 r 01 incisivamente 0 000 |    
+00081463 00 r 01 praticabilmente 0 000 |    
+00081508 00 r 01 presto 0 000 |    
+00081544 00 r 01 stilisticamente 0 000 |    
+00081589 00 r 01 degnamente 0 000 |    
+00081629 00 r 02 insulsamente 0 scipitamente 0 000 |    
+00081686 00 r 05 compassionevolmente 0 piamente 0 caritatevolmente 0 pietosamente 0 misericordiosamente 0 000 |    
+00081802 00 r 04 d&apos;emblee 0 bruscamente 0 improvvisamente 0 subitaneamente 0 000 |    
+00081894 00 r 01 falsamente 0 000 |    
+00081934 00 r 02 intorno 0 dintorno 0 000 |    
+00081982 00 r 01 dall&apos;altra_parte 0 000 |    
+00082033 00 r 01 disinteressatamente 0 000 |    
+00082082 00 r 03 meramente 0 strettamente 0 puramente 0 000 |    
+00082148 00 r 01 a_metà_settimana 0 000 |    
+00082195 00 r 03 insignemente 0 autorevolmente 0 influentemente 0 000 |    
+00082271 00 r 03 astrusamente 0 complicatamente 0 sibillinamente 0 000 |    
+00082348 00 r 01 prosaicamente 0 000 |    
+00082391 00 r 01 retrospettivamente 0 000 |    
+00082439 00 r 05 intorno 0 nei-pressi 0 in_giro 0 nelle_vicinanze 0 attorno 0 000 |    
+00082527 00 r 03 anzi 0 infatti 0 effettivamente 0 000 |    
+00082588 00 r 04 trucemente 0 ferocemente 0 acremente 0 efferatamente 0 000 |    
+00082670 00 r 02 sfacciatamente 0 insolentemente 0 000 |    
+00082731 00 r 01 vittoriosamente 0 000 |    
+00082776 00 r 01 in_quantità 0 000 |    
+00082818 00 r 01 ermeticamente 0 000 |    
+00082861 00 r 01 comprensivamente 0 000 |    
+00082907 00 r 01 selettivamente 0 000 |    
+00082951 00 r 03 anticamente 0 già 0 prima 0 000 |    
+00083007 00 r 05 fiocamente 0 esilmente 0 flebilmente 0 debolmente 0 fievolmente 0 000 |    
+00083100 00 r 05 sinteticamente 0 brevemente 0 epigraficamente 0 concisamente 0 succosamente 0 000 |    
+00083205 00 r 03 teoreticamente 0 potenzialmente 0 virtualmente 0 000 |    
+00083281 00 r 01 fisiologicamente 0 000 |    
+00083327 00 r 03 grandemente 0 assai 0 molto 0 000 |    

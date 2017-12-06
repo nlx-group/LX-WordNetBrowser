@@ -186,6 +186,13 @@ Languages
 - Volapük
 - Malaysian
 
+Part of Speech
+^^^^^^^^^^^^^^
+- Noun
+- Verb
+- Adjective
+- Adverb
+
 How to submit your translations
 -------------------------------
 

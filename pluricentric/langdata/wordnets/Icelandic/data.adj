@@ -1,0 +1,681 @@
+  01 This file is a derivation of the wn-isl-lmf.xml file; the original isl-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 label: IceWordNet
+  04 language: isl
+  05 version: 10
+  06 languageCoding: ISO 639-3
+  07 owner: BY
+00000319 00 a 06 aðlaðandi 0 sætur 0 fallegur 0 daglegur 0 lekker 0 dagstæður 0 001 & 00018766 a 0000 |    
+00000432 00 a 07 viðurkvæmilegur 0 sem_vera_ber 0 tilheyrilegur 0 tilhlýðilegur 0 hæfilegur 0 eins_og_vera_ber 0 viðeigandi 0 002 ! 00041305 a 0000 ^ 00033165 a 0000 |    
+00000610 00 a 04 byrstur 0 frískur 0 heilbrigður 0 hörkulegur 0 003 ! 00028730 a 0000 = 00142523 n 0000 ^ 00004530 a 0000 |    
+00000741 00 a 05 objektívur 0 hlutkenndur 0 hlutlægur 0 hlutbundinn 0 hlutverulegur 0 001 ! 00008688 a 0000 |    
+00000857 00 a 0b hirtinn 0 þrifinn 0 félegur 0 prúðbúinn 0 snyrtilegur 0 hreinlegur 0 penn 0 vel_búinn 0 þriflegur 0 vel_tilhafður 0 geðslegur 0 002 ^ 00026383 a 0000 ^ 00014562 a 0000 |    
+00001057 00 a 04 dýrlegur 0 dásamlegur 0 ljómandi 0 skínandi 0 000 |    
+00001134 00 a 01 lýsandi 0 001 & 00003220 a 0000 |    
+00001190 00 a 03 kámugur 0 límugur 0 límkenndur 0 000 |    
+00001253 00 a 06 ferlegur 0 hrikalegur 0 hræðilegur 0 agalegur 0 gasalegur 0 ógurlegur 0 002 ! 00035623 a 0000 ^ 00056262 a 0000 |    
+00001391 00 a 09 syndlaus 0 vammlaus 0 saklaus 0 sýkn 0 flekklaus 0 heiðarlegur 0 hrekklaus 0 grandalaus 0 ósekur 0 000 |    
+00001520 00 a 08 örugglegur 0 fullviss 0 einbeittur 0 öruggur 0 handviss 0 ákveðinn 0 vissulegur 0 viss 0 001 = 00050705 n 0000 |    
+00001658 00 a 03 félagslegur 0 þjóðfélagslegur 0 sósíalískur 0 001 ^ 00038300 a 0000 |    
+00001757 00 a 02 dreyrugur 0 blóðugur 0 000 |    
+00001809 00 a 02 ljós 0 hvítur 0 002 ! 00042063 a 0000 ^ 00047244 a 0000 |    
+00001890 00 a 06 glöggur 0 skýr 0 greinilegur 0 ljós 0 ómyrkur 0 augljós 0 002 ^ 00016493 a 0000 ^ 00043971 a 0000 |    
+00002016 00 a 04 fæðingi 0 innfæddur 0 innlendur 0 innborinn 0 000 |    
+00002092 00 a 04 löglegur 0 lögfræðilegur 0 lagalegur 0 lögmætur 0 001 ! 00055519 a 0000 |    
+00002193 00 a 01 geðþóttalegur 0 000 |    
+00002239 00 a 04 lygilegur 0 undraverður 0 undrunarverður 0 furðulegur 0 001 & 00007275 a 0000 |    
+00002343 00 a 03 þykkur 0 þéttur 0 éttlegur 0 000 |    
+00002403 00 a 02 hraður 0 fljótur 0 001 ;c 00192205 n 0000 |    
+00002470 00 a 0f sérstakur 0 hæfilátur 0 óvenjulegur 0 eftirgefanlegur 0 réttmætur 0 sannsýnn 0 sannlegur 0 afbrigðilegur 0 rélegru 0 aðgengilegur 0 réttlátur 0 hæfilegur 0 hóflátur 0 hófsamur 0 sanngjarn 0 003 ! 00057336 a 0000 ^ 00039818 a 0000 ^ 00007275 a 0000 |    
+00002757 00 a 03 mollulegur 0 heitur 0 kæfandi 0 001 & 00029105 a 0000 |    
+00002835 00 a 01 óbeinn 0 000 |    
+00002872 00 a 02 aðgerðalaus 0 afskiptalaus 0 000 |    
+00002930 00 a 03 nægur 0 nógur 0 mátulegur 0 001 ! 00060627 a 0000 |    
+00003006 00 a 05 öndverður 0 andvígur 0 mótfallinn 0 andsnúinn 0 andstæður 0 000 |    
+00003100 00 a 02 óeðlilegur 0 gervi 0 000 |    
+00003150 00 a 02 dæmiger 0 einkennandi 0 001 ^ 00023010 a 0000 |    
+00003220 00 a 06 glöggur 0 skýr 0 greinilegur 0 ljós 0 ómyrkur 0 augljós 0 004 & 00001134 a 0000 ! 00013018 a 0000 ^ 00055436 a 0000 ^ 00043971 a 0000 |    
+00003382 00 a 02 greiðvikinn 0 hjálplegur 0 003 ^ 00017941 a 0000 ^ 00056439 a 0000 ^ 00052626 a 0000 |    
+00003492 00 a 02 svartur 0 án_mjólkur_og_sykurs 0 000 |    
+00003554 00 a 06 XXXkvæntur 0 eiginkvongaður 0 eiginkvæntur 0 giftur 0 útenginn;_gefinXXX 0 kvongaður 0 001 ! 00049984 a 0000 |    
+00003691 00 a 11 skaðsamlegur 0 skaðvænn 0 skaðsamur 0 meinsamur 0 meinafullur 0 pestkynjaður 0 skaðlegur 0 meinfullur 0 háskólaegur 0 ómjúkur 0 saknæmur 0 harður 0 meinsamlegur 0 skæður 0 meinlegur 0 bagalegur 0 skaðvænlegur 0 001 ! 00011437 a 0000 |    
+00003963 00 a 02 gangfræðilegur 0 hreyfifræðilegur 0 000 |    
+00004030 00 a 04 sífelldur 0 stanslaus 0 stöðugur 0 viðstöðulaus 0 001 ^ 00013331 a 0000 |    
+00004131 00 a 09 hindrunarlaus 0 frjáls 0 ánauðarlaus 0 fyrirstöðulaus 0 hömlulaus 0 sjálfráður 0 frír 0 laus 0 tálmunarlaus 0 002 = 00091158 n 0000 ^ 00040975 a 0000 |    
+00004315 00 a 05 vant_við_látinn 0 viðbundinn 0 tímabundinn 0 önnum_kafinn 0 upptekinn 0 000 |    
+00004419 00 a 05 tiltalslegur 0 hlutfallslegur 0 hlutbundinn 0 í_réttu_hlutfalli 0 tiltölulegur 0 000 |    
+00004530 00 a 04 hrjúfur 0 grófgerður 0 grófur 0 hrjúfgerður 0 002 ! 00031864 a 0000 ^ 00000610 a 0000 |    
+00004645 00 a 02 forréttinda- 0 fríðinda- 0 001 ^ 00041154 a 0000 |    
+00004720 00 a 02 samræmdur 0 staðlaður 0 001 ^ 00044842 a 0000 |    
+00004792 00 a 03 lífshættulegur 0 alvarlegur 0 tvísýnn 0 001 = 00217004 n 0000 |    
+00004881 00 a 03 ónæmur 0 tornæmur 0 ómóttækilegur 0 000 |    
+00004950 00 a 03 æfður 0 fær 0 reyndur 0 002 ^ 00029354 a 0000 ^ 00049304 a 0000 |    
+00005040 00 a 03 réttmætur 0 gildur 0 lögmætur 0 001 ^ 00020629 a 0000 |    
+00005121 00 a 02 bjargarlaus 0 umkomulaus 0 000 |    
+00005175 00 a 09 aðkrepptur 0 öngur 0 rúmlítill 0 hrappur 0 aðskorinn 0 órúmlegur 0 þröngur 0 þrönglendur 0 aðsniðinn 0 002 ! 00054664 a 0000 ^ 00008998 a 0000 |    
+00005354 00 a 01 grunnur 0 001 ! 00053091 a 0000 |    
+00005409 00 a 03 tómur 0 auður 0 laus 0 001 & 00040520 a 0000 |    
+00005479 00 a 04 líkur 0 áþekkur 0 svipaður 0 álíka 0 000 |    
+00005549 00 a 01 þungur 0 002 ! 00046300 a 0000 = 00003564 n 0000 |    
+00005622 00 a 02 vanabundinn 0 hefðbundinn 0 001 = 00034545 n 0000 |    
+00005696 00 a 01 flatur 0 001 & 00024903 a 0000 |    
+00005750 00 a 02 fastur 0 í_föstu_formi 0 003 ! 00008078 a 0000 = 00048320 n 0000 ^ 00003691 a 0000 |    
+00005858 00 a 03 ráhugaverður 0 eftirminnilegur 0 minnisstæður 0 000 |    
+00005937 00 a 02 fyrir_utan 0 ytri 0 001 ! 00012633 a 0000 |    
+00006002 00 a 01 neikvæður 0 001 ! 00050349 a 0000 |    
+00006061 00 a 02 allsráðandi 0 ríkjandi 0 001 = 00205409 n 0000 |    
+00006134 00 a 05 annarlegur 0 sérkennilegur 0 einkennilegur 0 skrítinn 0 kynlegur 0 001 & 00051812 a 0000 |    
+00006248 00 a 11 afrdráttarlaus 0 fastur 0 órækur 0 eindreginn 0 hiklaus 0 einarður 0 fastur_fyrir 0 einbeittur 0 afgerandi 0 harður 0 skeleggur 0 eindrægur 0 óhikandi 0 ákveðinn 0 einhugi_um 0 ótvílugur 0 ótrauður 0 000 |    
+00006488 00 a 12 rúinn_að_fjármunum 0 bágstaddur 0 févana 0 vesall 0 vanefnaður 0 allslaus 0 illa_stæður 0 fátækur 0 þurfugur 0 vanefna 0 armur 0 efnalítill 0 slyppur_og_snauður 0 félaus 0 efnalaus 0 þarfur 0 eignalítill 0 aumur 0 000 |    
+00006745 00 a 02 ólögmætur 0 ólöglegur 0 001 & 00055519 a 0000 |    
+00006819 00 a 1c flónskulegur 0 sauðarlegur 0 óviturlegur 0 þynnkulegur 0 ratalegur 0 grunnfærnislegur 0 flónslegur 0 heimskulegur 0 bjálfalegur 0 fálkalegur 0 hálfvitalegur 0 fíflalegur 0 fákalegur 0 bjánalegur 0 fánalegur 0 fávíslegur 0 aukalegur 0 kjánalegur 0 glópslegur 0 álfslegur 0 fábjánalegur 0 fáráðlingslegur 0 asnalegur 0 álfalegur 0 glópskulegur 0 glánalegu 0 andhælislegur 0 flónskur 0 001 ! 00021119 a 0000 |    
+00007275 00 a 03 aðsúgsmikill 0 tilkomumikill 0 mikilfenglegur 0 002 & 00002239 a 0000 ^ 00025810 a 0000 |    
+00007388 00 a 03 tilkomumikill 0 stórkostlegur 0 mikilfenglegur 0 000 |    
+00007465 00 a 09 bíræfinn 0 áleitinn 0 framur 0 ófeilinn 0 ósvífinn 0 kartinn 0 frakkur 0 frekur 0 framhleypinn 0 002 & 00016794 a 0000 ^ 00016200 a 0000 |    
+00007631 00 a 0f slækinn 0 nenningarlaus 0 dáðlaus 0 iðjulítill 0 sérhlífinn 0 ónenninn 0 makráður 0 skussalegur 0 slyttinn 0 hyskinn 0 latur 0 nennulaus 0 duglaus 0 framkvæmdalaus 0 framkvæmdalítill 0 000 |    
+00007856 00 a 02 tilfinningalegur 0 tilfinningasamu 0 000 |    
+00007920 00 a 03 vakandi_fyrir 0 meðvitandi 0 vitandi 0 000 |    
+00007987 00 a 03 afmarkaður 0 takmarkaður 0 einskorðaður 0 001 ^ 00053882 a 0000 |    
+00008078 00 a 07 lögur 0 vessi 0 ylgja 0 safi 0 væta 0 vökvi 0 vatn 0 002 ! 00005750 a 0000 = 00048320 n 0000 |    
+00008197 00 a 03 margvíslegur 0 sundurleitur 0 fjölbreyttur 0 001 = 00099386 n 0000 |    
+00008289 00 a 04 auðséður 0 auðsær 0 skýr 0 augljós 0 000 |    
+00008360 00 a 03 formlegur 0 stífur 0 formfastur 0 000 |    
+00008422 00 a 02 ánægður 0 ásáttur 0 001 ^ 00023747 a 0000 |    
+00008492 00 a 02 lýðræðislegur 0 lýðhollur 0 000 |    
+00008553 00 a 01 lífrænn 0 000 |    
+00008592 00 a 03 vökull 0 á_verði 0 árvakur 0 002 ^ 00030220 a 0000 ^ 00031523 a 0000 |    
+00008688 00 a 06 óhlutlægur 0 frumlægur 0 súbjektívur 0 huglægur 0 hugrænn 0 óhlutstæður 0 001 ! 00000741 a 0000 |    
+00008817 00 a 03 bilaður 0 ónýtur 0 brotinn 0 001 = 00106225 n 0000 |    
+00008894 00 a 01 samkeppnishæfur 0 000 |    
+00008940 00 a 02 nýstárlegastur 0 nýjastur 0 000 |    
+00008998 00 a 02 þaninn 0 strekktur 0 001 ^ 00005175 a 0000 |    
+00009065 00 a 02 þýðingarmikill 0 mikilvægur 0 001 ^ 00013668 a 0000 |    
+00009144 00 a 03 mildur 0 blíður 0 meyr 0 001 ! 00027497 a 0000 |    
+00009216 00 a 02 félagslegur 0 þjóðfélagslegur 0 003 & 00028412 a 0000 ^ 00022697 a 0000 ^ 00055681 a 0000 |    
+00009334 00 a 03 vélrænn 0 sjálfvirkur 0 vélgengur 0 000 |    
+00009401 00 a 04 stór 0 ríflegur 0 rúmgóður 0 víður 0 001 & 00048163 a 0000 |    
+00009490 00 a 02 hættur_störfum_sökum_aldurs 0 fara_á_eftirlaun 0 000 |    
+00009570 00 a 01 óþekktur 0 000 |    
+00009610 00 a 02 áþreifanlegur 0 hlutkenndur 0 003 ! 00035813 a 0000 ^ 00024615 a 0000 ^ 00032255 a 0000 |    
+00009723 00 a 02 óþroskaður 0 grænn 0 001 ! 00026027 a 0000 |    
+00009793 00 a 02 gulbrúnn 0 gulleitur 0 000 |    
+00009844 00 a 06 ranglegur 0 staðlaus 0 óréttur 0 skakkur 0 rangur 0 vitlaus 0 000 |    
+00009936 00 a 02 óvæntur 0 ófyrirséður 0 001 ^ 00033826 a 0000 |    
+00010010 00 a 03 grafalvarlegur 0 alvarlegur 0 alvörugefinn 0 000 |    
+00010083 00 a 01 tilviljanakenndur 0 000 |    
+00010130 00 a 03 bjartur_á_hár 0 ljóshærður 0 bjarthærður 0 000 |    
+00010207 00 a 05 smásálarlegur 0 smásmugulegur 0 smálegur 0 ómerkilegur 0 lítilmannlegur 0 001 & 00019932 a 0000 |    
+00010332 00 a 03 klúr 0 ruddalegur 0 grófur 0 000 |    
+00010390 00 a 02 ótíma- 0 ótímabær 0 001 & 00051519 a 0000 |    
+00010460 00 a 05 þrár 0 þrálátur 0 stífur 0 þrjóskur 0 þver 0 000 |    
+00010541 00 a 02 óháður 0 hlutlaus 0 000 |    
+00010591 00 a 04 skíma 0 ljós 0 glóra 0 týra 0 001 ! 00057759 a 0000 |    
+00010670 00 a 04 framfarasinnaður 0 langvinnur 0 langvarandi 0 framsækinn 0 002 ^ 00052131 a 0000 ^ 00036390 a 0000 |    
+00010794 00 a 03 þýðingarmikill 0 mikilvægur 0 nauðsynlegur 0 000 |    
+00010871 00 a 07 smágerður 0 fínlegur 0 nettlegur 0 smáfelldur 0 fíngerður 0 smáger 0 nettur 0 002 = 00161297 n 0000 ^ 00011845 a 0000 |    
+00011019 00 a 03 vel_máli_farinn 0 málsnjall 0 mælskur 0 000 |    
+00011089 00 a 04 rökréttur 0 rökfastur 0 rökrænn 0 röklegur 0 002 ^ 00020629 a 0000 ^ 00025461 a 0000 |    
+00011203 00 a 03 sjálfboða 0 sjálfviljugur 0 sjálfboðinn 0 001 ^ 00029017 a 0000 |    
+00011295 00 a 02 almanna- 0 almennings- 0 001 ^ 00055436 a 0000 |    
+00011365 00 a 03 bragðlaus 0 tilþrifalaus 0 bragðlítill 0 000 |    
+00011437 00 a 02 mjúkur 0 linur 0 001 ! 00003691 a 0000 |    
+00011500 00 a 07 varmur 0 mildur 0 hlýr 0 ylvolgur 0 heitur 0 þíður 0 volgur 0 003 ! 00027160 a 0000 = 00135890 n 0000 ^ 00032637 a 0000 |    
+00011647 00 a 03 samræmur 0 samrýmanlegur 0 samkvæmur 0 000 |    
+00011716 00 a 03 reglulegur 0 formfastur 0 skipulegur 0 001 ^ 00049549 a 0000 |    
+00011800 00 a 02 tryggur 0 trúr 0 000 |    
+00011845 00 a 07 veikburða 0 vikulegur 0 þreklaus 0 lasburða 0 veill 0 veiklulegur 0 krokulegur 0 002 = 00161297 n 0000 ^ 00010871 a 0000 |    
+00011992 00 a 02 miðju- 0 miðlægur 0 000 |    
+00012042 00 a 08 í_nánd 0 skammt_undan 0 rétt_hjá 0 á_næsta_leiti 0 á_næstu_grösum 0 nálægur 0 nærri 0 nærliggjandi 0 002 ! 00044254 a 0000 = 00176878 n 0000 |    
+00012219 00 a 06 umliðinn 0 sem_leið 0 undanfarinn 0 undangenginn 0 síðastliðinn 0 liðinn 0 001 ! 00029242 a 0000 |    
+00012345 00 a 01 hnattrænn 0 001 & 00021659 a 0000 |    
+00012403 00 a 01 núgildandi 0 002 ^ 00039730 a 0000 ^ 00060168 a 0000 |    
+00012480 00 a 05 happsamur 0 heppinn 0 slympinn 0 happadrjúgur 0 þrælheppinn 0 000 |    
+00012572 00 a 02 hómósexúal 0 samkynhneigður 0 000 |    
+00012633 00 a 02 innri 0 innanverður 0 002 ! 00005937 a 0000 ^ 00011992 a 0000 |    
+00012719 00 a 01 ríkis- 0 000 |    
+00012756 00 a 0d bernskulegur 0 einfeldningslegur 0 fákænn 0 krakkalegur 0 barnalegur 0 einfeldnislegur 0 grunnhygginn 0 auðtrúa 0 einfaldur 0 fávíslegur 0 grænn 0 bernskur 0 blár 0 000 |    
+00012956 00 a 02 pólitískur 0 stjórnmálalegur 0 000 |    
+00013018 00 a 03 óskýr 0 óljós 0 hulin 0 001 ! 00003220 a 0000 |    
+00013091 00 a 03 utanverður 0 sem_snýr_út 0 ytri 0 001 ! 00052690 a 0000 |    
+00013173 00 a 04 sviplegur 0 bráður 0 snögglegur 0 skyndilegur 0 001 ! 00053318 a 0000 |    
+00013269 00 a 03 hrár 0 óhreinsaður 0 óunninn 0 000 |    
+00013331 00 a 02 stöðugur 0 staðfastlegur 0 003 ^ 00004030 a 0000 ^ 00050256 a 0000 ^ 00035360 a 0000 |    
+00013442 00 a 02 hreyfanlegur 0 færanlegur 0 000 |    
+00013498 00 a 03 billegur 0 ódýr 0 verðlítill 0 001 ! 00036200 a 0000 |    
+00013578 00 a 04 sneypilegur 0 sneyptur 0 skömmustulegur 0 sem_skammast_sín 0 000 |    
+00013668 00 a 03 markverður 0 merkilegur 0 mikilvægur 0 001 ^ 00009065 a 0000 |    
+00013754 00 a 02 hámark 0 hæsta_stig 0 001 ! 00029561 a 0000 |    
+00013823 00 a 04 heyrnarlaus 0 heyrnardaufur 0 þykkheyrður 0 daufur 0 000 |    
+00013905 00 a 01 fylkis- 0 000 |    
+00013942 00 a 02 fábrotinn 0 hversdagslegur 0 000 |    
+00013999 00 a 11 feitlaginn 0 holdugur 0 digur 0 þrifinn 0 skvapholda 0 kjötvaxinn 0 feitur 0 vænn 0 þriflegur 0 pattaralegur 0 þykkur 0 sællegur 0 spilaður 0 fitumukill 0 holdmikill 0 jússulegur 0 hjassalegur 0 003 & 00022112 a 0000 ! 00058686 a 0000 ^ 00019352 a 0000 |    
+00014283 00 a 03 skyldur 0 sömuættar 0 í_ætt_við 0 000 |    
+00014349 00 a 02 gáfaður 0 klár 0 001 ! 00045274 a 0000 |    
+00014414 00 a 05 stríður 0 hraður 0 fljótur 0 greiður 0 ferðmikill 0 000 |    
+00014499 00 a 02 fjölfjóðlegur 0 alþjóðlegur 0 000 |    
+00014562 00 a 08 vandfísa 0 vandfisa 0 krymtinn 0 kostavandur 0 kræsinn 0 vandlátur 0 vandfýsinn 0 vandfýsa 0 002 & 00035556 a 0000 ^ 00000857 a 0000 |    
+00014723 00 a 07 umboðsfær 0 fjárráða 0 lögráða 0 sjálfráða 0 fullráða 0 fullveðja 0 lögráður 0 001 ;c 00065715 n 0000 |    
+00014865 00 a 05 öndverður 0 fjandsamlegur 0 fjandalegur 0 óvinveittur 0 mótdrægur 0 003 ^ 00060716 a 0000 ^ 00052894 a 0000 ^ 00040665 a 0000 |    
+00015019 00 a 03 stórvaxinn 0 langur 0 hávaxinn 0 001 ^ 00048163 a 0000 |    
+00015099 00 a 10 vandlegur 0 náinn 0 nostursamur 0 ítarlegur 0 gagnorður 0 gaumgæfilegur 0 nákvæmur 0 grandvar 0 vendilegur 0 bókstaflegur 0 áreiðanlegur 0 smábrotinn 0 hnitmaiðaður 0 rækilegur 0 gerhugull 0 grandvarlegur 0 003 ^ 00016493 a 0000 ^ 00028183 a 0000 ^ 00038476 a 0000 |    
+00015400 00 a 17 næmgeðja 0 lingeðja 0 viðkvæmur 0 taugasnæmur 0 veiklaður 0 klaksár 0 hirfnæmur 0 purkunarsamur 0 uppstökkur 0 blíður 0 vandmeðfarinn 0 angursamur 0 veiklyndur 0 kveifarlegur 0 ýfinn 0 meyr 0 næmur 0 hörundsár 0 tilfinningaríkur 0 næmlyndur 0 viðbrigðinn 0 tilfinninganæmur 0 uppnæmur 0 001 = 00079861 n 0000 |    
+00015755 00 a 11 vandaður 0 einarðlegur 0 hugheill 0 hreinlyndur 0 einlægur 0 brjóstheill 0 undirferilslaus 0 afdráttarlaus 0 bersögull 0 beinn 0 opinspjallur 0 opinskár 0 einarður 0 hreinn 0 falslaus 0 hreinskilinn 0 heill 0 000 |    
+00015999 00 a 04 þróttmikill 0 aktífur 0 fjörugur 0 virkur 0 003 & 00018523 a 0000 = 00214385 n 0000 ^ 00031523 a 0000 |    
+00016128 00 a 02 verslunar- 0 viðskipta- 0 001 = 00180212 n 0000 |    
+00016200 00 a 04 vaskur 0 frækinn 0 hughraustur 0 hugaður 0 002 = 00032073 n 0000 ^ 00007465 a 0000 |    
+00016308 00 a 09 jarðlegur 0 verslegur 0 verndaður 0 lítilsháttar 0 jarðneskur 0 veraldlegur 0 minniháttar 0 öruggur 0 heimslegur 0 002 & 00037499 a 0000 ! 00061426 a 0000 |    
+00016493 00 a 10 vandlegur 0 náinn 0 nostursamur 0 ítarlegur 0 gagnorður 0 gaumgæfilegur 0 nákvæmur 0 grandvar 0 vendilegur 0 bókstaflegur 0 áreiðanlegur 0 smábrotinn 0 hnitmaiðaður 0 rækilegur 0 gerhugull 0 grandvarlegur 0 003 ^ 00001890 a 0000 ^ 00015099 a 0000 ^ 00038476 a 0000 |    
+00016794 00 a 02 fljótfær 0 hirðulaus 0 001 & 00007465 a 0000 |    
+00016865 00 a 02 öfundsjúkur 0 afbrýðisamur 0 000 |    
+00016925 00 a 03 snuðrinn 0 forvitinn 0 hnýsinn 0 002 ! 00017841 a 0000 ^ 00045823 a 0000 |    
+00017023 00 a 02 líklegur 0 sennilegur 0 001 ! 00026309 a 0000 |    
+00017093 00 a 03 sköllóttur 0 með_skalla 0 hárlaus 0 000 |    
+00017160 00 a 03 rakalaus 0 bleytulaus 0 þurr 0 001 ! 00029105 a 0000 |    
+00017237 00 a 03 frjálslyndur 0 frjálshugaður 0 frjálshuga 0 003 ! 00040289 a 0000 = 00228401 n 0000 ^ 00038300 a 0000 |    
+00017366 00 a 03 í_lagi 0 gangfær 0 rólfær 0 001 = 00181923 n 0000 |    
+00017443 00 a 02 angandi 0 ilmandi 0 000 |    
+00017490 00 a 07 tækur 0 tilgengilegur 0 tiltækur 0 aðgengilegur 0 auðnotaður 0 auðveldur 0 auðfenginn 0 001 ^ 00046796 a 0000 |    
+00017630 00 a 02 samsíða 0 samhliða 0 001 ^ 00059187 a 0000 |    
+00017699 00 a 09 torskilinn 0 óljós 0 strembinn 0 torskiljanlegur 0 flókinn 0 tyrfinn 0 torræður 0 torráðinn 0 þunskilinn 0 000 |    
+00017841 00 a 03 hljóðlaus 0 þögull 0 þegjandi 0 002 ! 00016925 a 0000 ^ 00047132 a 0000 |    
+00017941 00 a 02 nytsamlegur 0 gagnlegur 0 003 ! 00019512 a 0000 ^ 00027929 a 0000 ^ 00003382 a 0000 |    
+00018048 00 a 02 hár 0 mikill 0 001 = 00062096 n 0000 |    
+00018109 00 a 03 einstakur 0 dæmalaus 0 sérstæður 0 000 |    
+00018175 00 a 02 lifandi 0 myndrænn 0 001 & 00023297 a 0000 |    
+00018242 00 a 01 kynferðislegur 0 001 = 00004515 n 0000 |    
+00018305 00 a 02 umdeildur 0 umdeilanlegur 0 000 |    
+00018360 00 a 01 fullur_ákafa 0 001 ^ 00047721 a 0000 |    
+00018421 00 a 04 hulinn_sjónum 0 ósýnilegur 0 ósjáanlegur 0 hulinn 0 001 ! 00033386 a 0000 |    
+00018523 00 a 02 lipur 0 fimur 0 001 & 00015999 a 0000 |    
+00018584 00 a 05 kræfur 0 seigur 0 harður 0 harðsnúinn 0 þrautseigur 0 001 ^ 00049304 a 0000 |    
+00018688 00 a 05 bugðulaus 0 krókalaus 0 beinn 0 réttur 0 gegn 0 000 |    
+00018766 00 a 03 aðlaðandi 0 myndarlegur 0 geðslegur 0 003 & 00000319 a 0000 & 00046420 a 0000 ^ 00053715 a 0000 |    
+00018888 00 a 06 annarlegur 0 undarlegur 0 einkennilegur 0 skrítinn 0 furðulegur 0 kostulegur 0 001 ! 00036461 a 0000 |    
+00019014 00 a 02 ofurseldur 0 háður 0 000 |    
+00019064 00 a 03 byltingar- 0 þjóðfélagsbyltingar- 0 umbyltingar- 0 000 |    
+00019146 00 a 03 beiskur 0 apur 0 bitur 0 000 |    
+00019198 00 a 01 forvitinn 0 000 |    
+00019237 00 a 02 sofandi 0 sofinn 0 001 ! 00030220 a 0000 |    
+00019301 00 a 02 gegnheill 0 massívur 0 000 |    
+00019352 00 a 02 digur 0 þykkur 0 001 ^ 00013999 a 0000 |    
+00019415 00 a 04 óþreyjufullur 0 eftirvæntingarfullur 0 spenntur 0 taugastrekktur 0 000 |    
+00019512 00 a 09 duglítill 0 nytjalaus 0 ónýtur 0 gagnslaus 0 óþarfur 0 fánýtur 0 óduglegur 0 einskisnýtur 0 ónothæfur 0 001 ! 00017941 a 0000 |    
+00019672 00 a 0c falsaður 0 umsnúinn 0 ranglegur 0 öfugur 0 viðsnúinn 0 staðlaus 0 óréttur 0 skakkur 0 rangur 0 vitlaus 0 loginn 0 ósannur 0 002 ! 00044620 a 0000 = 00241357 n 0000 |    
+00019868 00 a 02 hægur 0 dræmur 0 001 ^ 00053318 a 0000 |    
+00019932 00 a 04 þröngsýnn 0 skammsýnn 0 þröngur 0 ófrjálslyndur 0 002 & 00010207 a 0000 ^ 00053882 a 0000 |    
+00020053 00 a 02 undrandi 0 hissa 0 000 |    
+00020099 00 a 06 eirinn 0 þolinmóður 0 umburðarlyndur 0 þrautseigur 0 þolugur 0 þolgóður 0 001 ^ 00045113 a 0000 |    
+00020227 00 a 02 milliliðalaus 0 beinn 0 001 & 00061426 a 0000 |    
+00020297 00 a 01 miðstéttar 0 001 = 00205409 n 0000 |    
+00020357 00 a 0c kleifur 0 múttulegur 0 sem_getur_gerst 0 hugsanlegur 0 sem_verða_má 0 sem_hægt_er_að_koma_til_leiðar 0 mögulegur 0 sem_kemur_til_mála 0 sem_tök_eru_ásem_verða_kann 0 sem_getur_átt_sér_stað 0 gerlegur 0 megnugur 0 001 = 00014176 n 0000 |    
+00020629 00 a 02 hæfilegur 0 skikkanlegur 0 003 ^ 00005040 a 0000 ^ 00025461 a 0000 ^ 00011089 a 0000 |    
+00020738 00 a 04 gagnkvæmur 0 gagnvikur 0 gagnverkandi 0 gagnhverfur 0 000 |    
+00020820 00 a 02 sýrður 0 súr 0 002 ! 00039305 a 0000 ^ 00048432 a 0000 |    
+00020901 00 a 05 sýnn 0 auðsær 0 augsýnilegur 0 einsær 0 augljós 0 001 ^ 00055436 a 0000 |    
+00021002 00 a 02 risa- 0 stór- 0 001 & 00048163 a 0000 |    
+00021064 00 a 01 brattur 0 001 ^ 00023189 a 0000 |    
+00021119 00 a 09 djúpvitur 0 spakur 0 spakvitur 0 spaklegur 0 djúpúðugur 0 viturlegur 0 vitur 0 greindur 0 svinnur 0 001 ! 00006819 a 0000 |    
+00021268 00 a 02 auður 0 ber 0 000 |    
+00021310 00 a 02 afgerandi 0 ákveðinn 0 000 |    
+00021362 00 a 02 endalaus 0 óendanlegur 0 000 |    
+00021415 00 a 03 ónógur 0 ófullnægjandi 0 ófullkominn 0 002 & 00052368 a 0000 ! 00024512 a 0000 |    
+00021522 00 a 02 glaður 0 ánægður 0 002 ! 00046533 a 0000 ^ 00058987 a 0000 |    
+00021608 00 a 02 búsettur 0 búfastur 0 000 |    
+00021659 00 a 04 alhliða 0 víðfaðma 0 yfirgripsmikill 0 víðtækur 0 003 & 00012345 a 0000 ^ 00052026 a 0000 ^ 00037743 a 0000 |    
+00021797 00 a 03 fjarlægur 0 fáskiptinn 0 fálátur 0 000 |    
+00021863 00 a 05 afkastasamur 0 mikilvirkur 0 duglegur 0 skilvirkur 0 afkastamikill 0 002 ^ 00027929 a 0000 ^ 00029354 a 0000 |    
+00021995 00 a 05 óhjákvæmilegur 0 óumflýjanlegur 0 ófrávíkjanlegur 0 óflýjandi 0 nauðsynlegur 0 000 |    
+00022112 00 a 04 spikfeitur 0 akfeitur 0 feitur 0 spikaður 0 001 & 00013999 a 0000 |    
+00022202 00 a 0c óbreyttur 0 almennur 0 vanabundinn 0 venjulegur 0 algengur 0 tíður 0 alþýðlegur 0 hversdagslegur 0 vanur 0 tíðkanlegur 0 vanalegur 0 eðlislegur 0 001 ^ 00053419 a 0000 |    
+00022402 00 a 02 kuldalegur 0 kaldlyndur 0 002 ! 00047313 a 0000 ^ 00056967 a 0000 |    
+00022491 00 a 07 móralskur 0 siðrænn 0 siðferðilegur 0 vanskapaður 0 siðgæðislegur 0 afskræmdur 0 mánaðarlegur 0 001 & 00028279 a 0000 |    
+00022644 00 a 01 yngri 0 001 ! 00033006 a 0000 |    
+00022697 00 a 02 félagslyndur 0 mannblendinn 0 002 ;c 00164726 n 0000 ^ 00009216 a 0000 |    
+00022792 00 a 03 spekingslegur 0 heimspekilegur 0 andríkur 0 001 ^ 00035257 a 0000 |    
+00022882 00 a 01 línulegur 0 000 |    
+00022922 00 a 04 geðþekkur 0 geðfelldur 0 viðkunnanlegur 0 vorkunnsamur 0 000 |    
+00023010 00 a 02 týpískur 0 dæmigerður 0 001 ^ 00003150 a 0000 |    
+00023083 00 a 04 fullur 0 mettur 0 ánægður 0 saddur 0 000 |    
+00023150 00 a 01 munnlegur 0 000 |    
+00023189 00 a 02 fallbeinn 0 lóðréttur 0 003 ! 00024903 a 0000 = 00127142 n 0000 ^ 00021064 a 0000 |    
+00023297 00 a 02 realitískur 0 raunsær 0 003 & 00018175 a 0000 ^ 00024615 a 0000 ^ 00032255 a 0000 |    
+00023404 00 a 03 áhyggjufullur 0 órólegur 0 órór 0 002 ^ 00049622 a 0000 ^ 00026539 a 0000 |    
+00023506 00 a 02 fyrstur 0 fyrstnefndur 0 003 ^ 00045021 a 0000 ^ 00051519 a 0000 ^ 00061426 a 0000 |    
+00023612 00 a 02 óheppinn 0 ólánsamur 0 000 |    
+00023665 00 a 02 hagnýtur 0 concerned_with_concrete_problems_or_data 0 000 |    
+00023747 00 a 05 glaður 0 sæll 0 hamingjusamur 0 ánægður 0 lífsglaður 0 003 ^ 00058987 a 0000 ^ 00021522 a 0000 ^ 00008422 a 0000 |    
+00023890 00 a 02 rúm- 0 rýmis- 0 000 |    
+00023935 00 a 02 ánægður 0 sáttur 0 000 |    
+00023985 00 a 02 mikilsráðandi 0 áhrifamikill 0 000 |    
+00024046 00 a 03 prívat- 0 einka- 0 sér- 0 001 & 00059969 a 0000 |    
+00024119 00 a 03 gersemi 0 djásn 0 dýrgripur 0 001 ^ 00036200 a 0000 |    
+00024196 00 a 03 tiltækur 0 fáanlegur 0 laus 0 000 |    
+00024255 00 a 09 þráfaldlegur 0 þráfelldur 0 þrásamlegur 0 algengur 0 tíður 0 þrálegur 0 iðulegur 0 þráæskilegur 0 vanalegur 0 000 |    
+00024406 00 a 03 liðugur 0 lipur 0 fimur 0 000 |    
+00024460 00 a 02 kærkominn 0 velkominn 0 000 |    
+00024512 00 a 03 fullnægjandi 0 nógur 0 nægjanlegur 0 002 ! 00021415 a 0000 ^ 00045532 a 0000 |    
+00024615 00 a 11 hagnýtur 0 búhygginn 0 aðdráttasamur 0 nytsamlegur 0 sniðugur 0 sparsamur 0 hagsamur 0 hagsýnn 0 praktískur 0 gagnlegur 0 útsjónarsamur 0 séður 0 framsýnn 0 glúrinn 0 nothæfur 0 hagkvæmur 0 ráðdeildarsamur 0 002 ^ 00009610 a 0000 ^ 00023297 a 0000 |    
+00024903 00 a 02 marflatur 0 láréttur 0 003 & 00005696 a 0000 ! 00023189 a 0000 = 00127142 n 0000 |    
+00025009 00 a 06 einmana 0 einstæður 0 einsamall 0 einslegur 0 einmanalegur 0 einn 0 000 |    
+00025106 00 a 03 hæfileikaríkur 0 hæfileikamikill 0 mikilhæfur 0 000 |    
+00025185 00 a 02 sameinaður 0 sameiginlegur 0 003 ! 00028492 a 0000 ^ 00033979 a 0000 ^ 00037845 a 0000 |    
+00025296 00 a 02 spordrjúgur 0 langur 0 002 ! 00047511 a 0000 = 00001855 n 0000 |    
+00025383 00 a 03 svangur 0 soltinn 0 hungraður 0 001 ! 00047935 a 0000 |    
+00025461 00 a 03 vitænn 0 vitsmunalegur 0 röklegur 0 002 ^ 00020629 a 0000 ^ 00011089 a 0000 |    
+00025562 00 a 02 helgur 0 heilagur 0 001 ^ 00055274 a 0000 |    
+00025627 00 a 08 væntanlegur 0 sem_í_vændum_er 0 tilvonandi 0 sem_gera_má_ráð_fyrir 0 fyrirhugaður 0 sem_í_hönd_fer 0 nálægur 0 sem_koma_skal 0 001 ! 00033826 a 0000 |    
+00025810 00 a 02 átakanlegur 0 áhrifamikill 0 001 ^ 00007275 a 0000 |    
+00025886 00 a 03 tæpitungulaus 0 hvatorður 0 skorinorður 0 000 |    
+00025958 00 a 04 á_lífi 0 með_lífi 0 lífs 0 lifandi 0 000 |    
+00026027 00 a 02 fullþroska 0 þroskaður 0 001 ! 00009723 a 0000 |    
+00026100 00 a 02 háttvís 0 nærgætinn 0 000 |    
+00026153 00 a 05 gaumgæfilegur 0 vandvirkur 0 gætinn 0 varfærinn 0 varkár 0 001 ^ 00030311 a 0000 |    
+00026261 00 a 02 stakur 0 einsamall 0 000 |    
+00026309 00 a 02 ólíklegur 0 ósennilegur 0 001 ! 00017023 a 0000 |    
+00026383 00 a 02 hreinlegur 0 hreinn 0 002 ! 00031276 a 0000 ^ 00000857 a 0000 |    
+00026468 00 a 02 óendanlegur 0 eilífur 0 001 & 00035360 a 0000 |    
+00026539 00 a 06 taugaóstyrkur 0 taugaveiklaður 0 síðastur 0 trekktur 0 enda- 0 taugastrekktur 0 001 ^ 00023404 a 0000 |    
+00026668 00 a 07 hollur 0 trúfastur 0 tryggur 0 trúr 0 ósvikull 0 vinfastur 0 dyggilegur 0 001 = 00191537 n 0000 |    
+00026790 00 a 02 kurteis 0 fágaður 0 001 ^ 00030960 a 0000 |    
+00026857 00 a 05 ólíkur 0 sundurleitur 0 frábrugðinn 0 öðruvísi 0 mismunandi 0 000 |    
+00026953 00 a 02 auvirðilegur 0 lítilmótlegur 0 000 |    
+00027014 00 a 03 ófær 0 ómögulegur 0 útilokaður 0 000 |    
+00027080 00 a 04 vænn 0 góðhjartaður 0 góður 0 brjóstgóður 0 000 |    
+00027160 00 a 03 úrsvalur 0 kaldur 0 svalur 0 003 ! 00011500 a 0000 = 00135890 n 0000 ^ 00058051 a 0000 |    
+00027271 00 a 04 látlaus 0 samfelldur 0 stöðugur 0 sleitulaus 0 001 & 00041696 a 0000 |    
+00027366 00 a 02 láglendur 0 lágur 0 000 |    
+00027415 00 a 05 hóp- 0 sam- 0 sameignar- 0 sameiginlegur 0 félags- 0 000 |    
+00027497 00 a 05 harðsvíraður 0 óvægilegur 0 harður 0 ódeigur 0 haðrskeyttur 0 001 ! 00009144 a 0000 |    
+00027612 00 a 0a eftirtakanlegur 0 einstakur 0 sérstakur 0 óvenjulegur 0 sérlegur 0 sér 0 einkennilegur 0 tiltekinn 0 sérstæður 0 dæmafár 0 000 |    
+00027771 00 a 01 handknúinn 0 001 ! 00043420 a 0000 |    
+00027830 00 a 03 hlýr 0 blíðlegur 0 alúðlegur 0 002 ! 00056967 a 0000 ^ 00055681 a 0000 |    
+00027929 00 a 02 áhrifaríkur 0 skilvirkur 0 004 ^ 00017941 a 0000 ^ 00054153 a 0000 ^ 00021863 a 0000 ^ 00033680 a 0000 |    
+00028057 00 a 07 þrálátur 0 þrásamlegur 0 langvinnur 0 þráheldinn 0 varanlegur 0 þrásækinn 0 þrásamur 0 000 |    
+00028183 00 a 02 rétt 0 satt 0 003 ^ 00015099 a 0000 ^ 00044620 a 0000 ^ 00033165 a 0000 |    
+00028279 00 a 04 ólaglegur 0 ljótur 0 herfilegur 0 ófrýnilegur 0 003 & 00022491 a 0000 ! 00053715 a 0000 ^ 00055211 a 0000 |    
+00028412 00 a 02 þjóðernislegur 0 þjóðlegur 0 001 & 00009216 a 0000 |    
+00028492 00 a 02 aðskilinn 0 frálaus 0 003 ! 00025185 a 0000 ^ 00040975 a 0000 ^ 00039930 a 0000 |    
+00028597 00 a 02 myndandi 0 skapandi 0 000 |    
+00028646 00 a 04 gullarldar- 0 sígildur 0 klassískur 0 gullaldarlegur 0 000 |    
+00028730 00 a 03 fínn 0 fínlegur 0 fíngerður 0 003 ! 00000610 a 0000 = 00142523 n 0000 ^ 00031864 a 0000 |    
+00028845 00 a 02 galopinn 0 opinn 0 000 |    
+00028891 00 a 02 eitraður 0 eiturblandinn 0 000 |    
+00028946 00 a 03 tignarlegur 0 æruverðugur 0 virðulegur 0 000 |    
+00029017 00 a 02 vakandi 0 meðvitaður 0 002 ^ 00030220 a 0000 ^ 00011203 a 0000 |    
+00029105 00 a 02 blautur 0 votur 0 002 & 00002757 a 0000 ! 00017160 a 0000 |    
+00029186 00 a 02 flytjanlegur 0 færanlegur 0 000 |    
+00029242 00 a 01 nútíðar 0 001 ! 00012219 a 0000 |    
+00029300 00 a 02 þakklátur 0 þakksamur 0 000 |    
+00029354 00 a 03 dugandi 0 fær 0 hæfur 0 004 ^ 00004950 a 0000 ^ 00061561 a 0000 ^ 00033539 a 0000 ^ 00021863 a 0000 |    
+00029479 00 a 03 kjörgengur 0 hæfugr 0 liðtækur 0 001 ^ 00061561 a 0000 |    
+00029561 00 a 01 lágmarks 0 001 ! 00013754 a 0000 |    
+00029618 00 a 01 fullur 0 001 ! 00040520 a 0000 |    
+00029672 00 a 01 útivið 0 001 ! 00050971 a 0000 |    
+00029728 00 a 05 óskarpur 0 daufeggjaður 0 sljór 0 bitlítill 0 bitlaus 0 001 ! 00061747 a 0000 |    
+00029833 00 a 0e drægjulegur 0 hægur 0 hægfara 0 seinlátur 0 seinfær 0 dræmur 0 silalegur 0 svifaseinn 0 seinförull 0 ganglaus 0 vikaseinn 0 seinvirkur 0 seinn 0 silakeppslegur 0 000 |    
+00030029 00 a 02 litríkur 0 marglitur 0 000 |    
+00030080 00 a 02 kyrr 0 hljóður 0 001 ^ 00042132 a 0000 |    
+00030144 00 a 02 fullkominn 0 óaðfinnanlegr 0 001 ^ 00038476 a 0000 |    
+00030220 00 a 01 vakandi 0 003 ! 00019237 a 0000 ^ 00029017 a 0000 ^ 00008592 a 0000 |    
+00030311 00 a 02 mjúkhendur 0 aðgætinn 0 001 ^ 00026153 a 0000 |    
+00030383 00 a 02 klúr 0 lágkúrulegur 0 000 |    
+00030435 00 a 01 fyrirsjáanlegur 0 000 |    
+00030481 00 a 0a ríkmannlegur 0 ríkulegur 0 ofnógur 0 yfirfljótanlegur 0 kappnógur 0 yfirgænfanlegur 0 ótæpur 0 yfirgnæfandi 0 nógur 0 stórfeinginn 0 001 ^ 00041154 a 0000 |    
+00030670 00 a 02 heiður 0 skír 0 000 |    
+00030715 00 a 04 mildur 0 góðlyndur 0 blíður 0 góður 0 002 ! 00035257 a 0000 = 00062096 n 0000 |    
+00030822 00 a 03 ferskeyttur 0 ferhyrndur 0 fernings- 0 001 ! 00039125 a 0000 |    
+00030906 00 a 02 kynstofns- 0 kynþátta- 0 000 |    
+00030960 00 a 04 tígulegur 0 smekklegur 0 fágaður 0 glæsilegur 0 001 ^ 00026790 a 0000 |    
+00031057 00 a 0d fullbúinn 0 reiðubúinn 0 ferðbúinn 0 tilbúinn 0 búinn 0 útbúinn 0 sem_er_ekkert_að_vanbúnaði 0 altilbúinn 0 til_reiðu 0 albúinn 0 klár 0 gerður 0 lagaður 0 001 = 00001443 n 0000 |    
+00031276 00 a 05 saurugur 0 skítugur 0 sóðalegur 0 kámugur 0 óhreinn 0 001 ! 00026383 a 0000 |    
+00031380 00 a 02 hæfileikamikill 0 fær 0 001 & 00033539 a 0000 |    
+00031451 00 a 02 tímabundinn 0 tiltekinn 0 001 ! 00035360 a 0000 |    
+00031523 00 a 06 fjörmikill 0 líflegur 0 hvatlegur 0 fjörugur 0 hress 0 sprækur 0 002 ! 00051247 a 0000 ^ 00008592 a 0000 |    
+00031655 00 a 01 fullur 0 001 ! 00040139 a 0000 |    
+00031709 00 a 04 fæðingi 0 innfæddur 0 innlendur 0 innborinn 0 000 |    
+00031785 00 a 02 áhugaverður 0 athyglisverður 0 001 ^ 00060925 a 0000 |    
+00031864 00 a 06 hrukkulaus 0 jafn 0 hrufulaus 0 sléttur 0 örðulaus 0 silkimjúkur 0 004 ! 00004530 a 0000 ^ 00028730 a 0000 ^ 00045358 a 0000 ^ 00053160 a 0000 |    
+00032034 00 a 04 þróttmikill 0 þróttsamur 0 kröftugur 0 þrekmikill 0 000 |    
+00032119 00 a 02 ekta 0 ósvikinn 0 001 & 00044620 a 0000 |    
+00032183 00 a 04 einróma 0 sammála 0 ókunnugt_um 0 óvar 0 000 |    
+00032255 00 a 07 verulegur 0 raunsannur 0 áþreifanlegur 0 frumlægur 0 raunverulegur 0 raunréttur 0 hlutverulegur 0 004 = 00009098 n 0000 ^ 00009610 a 0000 ^ 00058298 a 0000 ^ 00023297 a 0000 |    
+00032456 00 a 03 lágvaxinn 0 stuttur 0 lágur 0 001 ! 00034051 a 0000 |    
+00032533 00 a 02 búinn 0 lokinn 0 000 |    
+00032578 00 a 03 óskýr 0 óljós 0 óræður 0 000 |    
+00032637 00 a 03 varmur 0 hlýr 0 heitur 0 003 ! 00058051 a 0000 = 00135890 n 0000 ^ 00011500 a 0000 |    
+00032744 00 a 04 háskalegur 0 hættulegur 0 viðsjáll 0 skæður 0 002 ! 00041952 a 0000 ^ 00034386 a 0000 |    
+00032859 00 a 03 vondur 0 slæmur 0 lélegur 0 000 |    
+00032916 00 a 05 óljós 0 margræður 0 tvíbentur 0 vafasamur 0 tvíræður 0 000 |    
+00033006 00 a 02 æðri 0 eldri 0 002 ! 00022644 a 0000 ^ 00042494 a 0000 |    
+00033086 00 a 04 skrautlegur 0 fagur 0 forkostulegur 0 glæsilegur 0 000 |    
+00033165 00 a 02 ærlegur 0 almennilegur 0 002 ^ 00028183 a 0000 ^ 00000432 a 0000 |    
+00033254 00 a 03 sterkur 0 megn 0 magnaður 0 000 |    
+00033310 00 a 04 ókunnur 0 útlendur 0 framandlegur 0 framandi 0 000 |    
+00033386 00 a 03 sýnn 0 sýnilegur 0 sjáanlegur 0 001 ! 00018421 a 0000 |    
+00033466 00 a 02 fullkominn 0 fullkomlegur 0 001 ! 00049475 a 0000 |    
+00033539 00 a 02 liðtækur 0 megnugur 0 002 & 00031380 a 0000 ^ 00029354 a 0000 |    
+00033626 00 a 02 gallaður 0 ófullkominn 0 000 |    
+00033680 00 a 03 sterkur 0 voldugur 0 valdamikill 0 002 ^ 00027929 a 0000 ^ 00054153 a 0000 |    
+00033778 00 a 02 endanlegur 0 loka- 0 000 |    
+00033826 00 a 06 ósanngjarn 0 óvæntur 0 ranglátur 0 ófyrirséður 0 ótilheyrilegur 0 óréttmætur 0 002 ! 00025627 a 0000 ^ 00009936 a 0000 |    
+00033979 00 a 02 almennur 0 sameiginlegur 0 001 ^ 00025185 a 0000 |    
+00034051 00 a 02 langur 0 hár 0 001 ! 00032456 a 0000 |    
+00034112 00 a 03 fjarski 0 fjarlægur 0 firð 0 002 = 00176878 n 0000 ^ 00044254 a 0000 |    
+00034206 00 a 02 ranglegur 0 rangur 0 000 |    
+00034254 00 a 02 lífvænlegur 0 lífvænn 0 000 |    
+00034309 00 a 04 sagnafár 0 þagmælskur 0 fámáll 0 þagmáll 0 000 |    
+00034386 00 a 17 næmgeðja 0 lingeðja 0 viðkvæmur 0 taugasnæmur 0 veiklaður 0 klaksár 0 hirfnæmur 0 purkunarsamur 0 uppstökkur 0 blíður 0 vandmeðfarinn 0 angursamur 0 veiklyndur 0 kveifarlegur 0 ýfinn 0 meyr 0 næmur 0 hörundsár 0 tilfinningaríkur 0 næmlyndur 0 viðbrigðinn 0 tilfinninganæmur 0 uppnæmur 0 001 ^ 00032744 a 0000 |    
+00034741 00 a 06 nærverandi 0 viðlátur 0 viðstaddur 0 staddur_við 0 nálægur 0 nærstaddur 0 002 ! 00035902 a 0000 = 00018097 n 0000 |    
+00034886 00 a 04 ágengur 0 hortugur 0 frakkur 0 framhleypinn 0 000 |    
+00034960 00 a 02 barnshafandi 0 ófrísk 0 000 |    
+00035013 00 a 10 arfhelgur 0 venjubundinn 0 rótgróinn 0 arftekinn 0 arfgengur 0 vanabundinn 0 arfgenginn 0 viðtekinn 0 arfhelgaður 0 hefðgróinn 0 hefðhelgaður 0 erfður 0 hefðfestur 0 arfþeginn 0 hefðbundinn 0 arfbundinn 0 000 |    
+00035257 00 a 02 ofsalegur 0 ákafur 0 003 ! 00030715 a 0000 = 00062096 n 0000 ^ 00022792 a 0000 |    
+00035360 00 a 08 viðvarandi 0 langvinnur 0 blífanlegur 0 endingargóður 0 varanlegur 0 drjúgur 0 landlægur 0 til_frambúðar 0 003 & 00026468 a 0000 ! 00031451 a 0000 ^ 00013331 a 0000 |    
+00035556 00 a 02 vandasamur 0 vandur 0 001 & 00014562 a 0000 |    
+00035623 00 a 03 indæll 0 notalegur 0 ljúfur 0 002 ! 00001253 a 0000 ^ 00056085 a 0000 |    
+00035718 00 a 05 léttvægur 0 gagnsær 0 gegnsær 0 smávægilegur 0 ómerkilegur 0 000 |    
+00035813 00 a 03 óhlutbundinn 0 sértekinn 0 sérstæður 0 001 ! 00009610 a 0000 |    
+00035902 00 a 02 fjarstaddur 0 fjarverandi 0 002 ! 00034741 a 0000 = 00018097 n 0000 |    
+00035993 00 a 04 blindur 0 ósýnn 0 sjónlaus 0 ósjáandi 0 001 & 00041846 a 0000 |    
+00036083 00 a 05 töfrandi 0 undurfagur 0 unaðsfagur 0 forkunnarfagur 0 undurfallegur 0 001 & 00053715 a 0000 |    
+00036200 00 a 04 dýrseldur 0 dýrkeyptur 0 verðmikill 0 dýr 0 002 ! 00013498 a 0000 ^ 00024119 a 0000 |    
+00036311 00 a 03 alþýða 0 almennur_borgari 0 óbreyttur_borgari 0 000 |    
+00036390 00 a 02 utarlegur 0 framarlegur 0 001 ^ 00010670 a 0000 |    
+00036461 00 a 02 jafn 0 sléttur 0 001 ! 00018888 a 0000 |    
+00036524 00 a 07 óhjákvæmilegur 0 þarfsamlegur 0 þarflegur 0 nauðsynlegur 0 ómissandi 0 sem_nauðsyn_ber_til 0 þarfur 0 001 ^ 00042845 a 0000 |    
+00036680 00 a 09 amalegur 0 gramur 0 stúrlyndur 0 dapur 0 svartsýnn 0 amalyndur 0 lundþungur 0 hugsjúkur 0 þunglyndur 0 000 |    
+00036815 00 a 03 fyndinn 0 skoplegur 0 spaugilegur 0 000 |    
+00036878 00 a 0f felmtraður 0 felmtsfullur 0 hræddur 0 skelkaður 0 felmsfullur 0 banginn 0 smeykur 0 uggsamur 0 óttasleginn 0 skelfingu_lostinn 0 skelfdur 0 uggandi 0 deigur 0 óttafullur 0 felmtri_sleginn 0 001 = 00040209 n 0000 |    
+00037118 00 a 17 lúinn 0 frá 0 lerka 0 þjakaður 0 eftir_sig 0 máttdreginn 0 dasaður 0 örmagna 0 laraður 0 máttfarinn 0 að_niðurlotum_kominn 0 úrvinda 0 uppgefinn 0 móður 0 útþvældur 0 göngumóður 0 þrekaður 0 slæptur 0 þreyttur 0 að_þrotum_kominn 0 dauðþreyttur 0 þvældur 0 lerkaður 0 000 |    
+00037443 00 a 02 án_átvinnu 0 atvinnulaus 0 000 |    
+00037499 00 a 02 auka- 0 viðbótar- 0 001 & 00016308 a 0000 |    
+00037566 00 a 07 röskur 0 skorinorður 0 öruggur 0 djarfur 0 skeleggur 0 ákveðinn 0 ótrauður 0 001 ^ 00052894 a 0000 |    
+00037695 00 a 02 náinn 0 nákominn 0 000 |    
+00037743 00 a 03 fullbúinn 0 tilbúinn 0 fullgerður 0 002 ^ 00057144 a 0000 ^ 00021659 a 0000 |    
+00037845 00 a 05 andlegur 0 vitsmunalegur 0 samþáttað 0 hugsunar- 0 samofið 0 001 ^ 00025185 a 0000 |    
+00037955 00 a 03 sterkur 0 stórfelldur 0 mikill 0 001 ! 00053638 a 0000 |    
+00038034 00 a 02 grundvallar- 0 undirstöðu- 0 000 |    
+00038092 00 a 03 ræðinn 0 skrafhreifinn 0 málgefinn 0 000 |    
+00038159 00 a 07 errinn 0 áreitinn 0 ónotalegur 0 óþægilegur 0 viðskotaillur 0 hryssingslegur 0 afundinn 0 001 ^ 00056262 a 0000 |    
+00038300 00 a 02 vinstrisinnaður 0 vinstri 0 002 ^ 00001658 a 0000 ^ 00017237 a 0000 |    
+00038392 00 a 04 guðhræddur 0 trúaður 0 trúrækinn 0 trúhneigður 0 000 |    
+00038476 00 a 10 vandlegur 0 náinn 0 nostursamur 0 ítarlegur 0 gagnorður 0 gaumgæfilegur 0 nákvæmur 0 grandvar 0 vendilegur 0 bókstaflegur 0 áreiðanlegur 0 smábrotinn 0 hnitmaiðaður 0 rækilegur 0 gerhugull 0 grandvarlegur 0 003 ^ 00016493 a 0000 ^ 00015099 a 0000 ^ 00030144 a 0000 |    
+00038777 00 a 02 hvumpinn 0 fælinn 0 000 |    
+00038825 00 a 03 fáfróður 0 fávís 0 fákænn 0 000 |    
+00038887 00 a 02 tær 0 hreinn 0 000 |    
+00038930 00 a 0b feikilegur 0 tröllslegur 0 feiknarmikill 0 hrikalegur 0 afarstór 0 gríðarmikill 0 risavaxinn 0 risalegur 0 geysistór 0 risastór 0 afskaplegur 0 001 & 00048163 a 0000 |    
+00039125 00 a 02 kringlóttur 0 hringlaga 0 001 ! 00030822 a 0000 |    
+00039197 00 a 03 nýr 0 glænýr 0 ferskur 0 001 ^ 00060168 a 0000 |    
+00039270 00 a 01 beint 0 000 |    
+00039305 00 a 03 sætur 0 sykraður 0 ísætur 0 002 ! 00020820 a 0000 ^ 00048432 a 0000 |    
+00039400 00 a 17 ótíður 0 fáhittur 0 vandgæfur 0 sjaldéður 0 óvenjulegur 0 torfenginn 0 fáséður 0 nýstárlegur 0 torfengur 0 fátíður 0 óalgengur 0 sjaldfenginn 0 sjaldgæfur 0 sjaldhittur 0 dæmalaus 0 fáheyrður 0 fádæma 0 fágætur 0 torfundinn 0 torgætur 0 fágæfur 0 dæmafár 0 sjaldheyrður 0 000 |    
+00039730 00 a 02 nýtísku- 0 nútíma- 0 002 ^ 00060168 a 0000 ^ 00012403 a 0000 |    
+00039818 00 a 07 æðri 0 meiri 0 efri 0 hærri 0 fremri 0 yfirsterkari 0 tignari 0 001 = 00224077 n 0000 |    
+00039930 00 a 03 annar 0 ekki_sá_sami 0 annar_til 0 001 ^ 00028492 a 0000 |    
+00040011 00 a 03 hógvær 0 hæverskur 0 hóflegur 0 000 |    
+00040074 00 a 03 grimmur 0 ruddalegur 0 siðspilltur 0 000 |    
+00040139 00 a 01 hluta- 0 001 ! 00031655 a 0000 |    
+00040193 00 a 03 metnaðargjarn 0 metorðagjarn 0 metnaðarfullur 0 001 = 00005042 n 0000 |    
+00040289 00 a 06 fastheldinn 0 vanafastur 0 þráheldinn 0 afturhaldssamur 0 íhaldssamur 0 íheldinn 0 003 ! 00017237 a 0000 = 00228401 n 0000 ^ 00053504 a 0000 |    
+00040457 00 a 02 tómur 0 auður 0 001 & 00040520 a 0000 |    
+00040520 00 a 02 tómur 0 auður 0 003 & 00040457 a 0000 & 00005409 a 0000 ! 00029618 a 0000 |    
+00040619 00 a 02 aftur 0 lokaður 0 000 |    
+00040665 00 a 02 árásar- 0 sóknar- 0 002 ^ 00052894 a 0000 ^ 00014865 a 0000 |    
+00040751 00 a 04 talhlýðinn 0 háður 0 ófrjáls 0 ósjálfstæður 0 001 ! 00040975 a 0000 |    
+00040852 00 a 01 árstíðabundinn 0 000 |    
+00040899 00 a 02 ánægjulegur 0 skemmtilegur 0 001 & 00056085 a 0000 |    
+00040975 00 a 03 óháður 0 sjálfstæður 0 óhlutbundinn 0 003 ! 00040751 a 0000 ^ 00028492 a 0000 ^ 00004131 a 0000 |    
+00041101 00 a 03 auður 0 frjáls 0 laus 0 000 |    
+00041154 00 a 03 ríkur 0 auðugur 0 rímannlegur 0 002 ^ 00004645 a 0000 ^ 00030481 a 0000 |    
+00041252 00 a 02 fjárhags 0 fjármála- 0 000 |    
+00041305 00 a 03 óviðeigandi 0 illa_til_fundið 0 ótímabær 0 001 ! 00000432 a 0000 |    
+00041399 00 a 09 sæmandi 0 vel_til_fallið 0 sæmilegur 0 vel_til_fundið 0 hæfilegur 0 viðurkvæmlegur 0 viðeigandi 0 sem_skiptir_máli 0 sem_á_vel_við 0 001 ! 00042362 a 0000 |    
+00041588 00 a 06 móðins 0 nýmóðins 0 nýtískur 0 nútímalegur 0 tískur 0 nýtískulegur 0 000 |    
+00041696 00 a 07 látlaus 0 sífelldur 0 langvinnur 0 stanslaus 0 stöðugur 0 stjórnarskrárlegur 0 stjórnskipulegur 0 001 & 00027271 a 0000 |    
+00041846 00 a 01 litblindur 0 001 & 00035993 a 0000 |    
+00041904 00 a 02 ungur 0 uppvaxandi 0 000 |    
+00041952 00 a 05 örugglegur 0 hættulaus 0 ártryggilegur 0 öruggur 0 óhultur 0 001 ! 00032744 a 0000 |    
+00042063 00 a 02 svartur 0 þeldökkur 0 001 ! 00001809 a 0000 |    
+00042132 00 a 03 friðsæll 0 friðsamur 0 friðsamlegur 0 001 ^ 00030080 a 0000 |    
+00042219 00 a 02 lávaxinn 0 lítill 0 002 ! 00048163 a 0000 = 00002575 n 0000 |    
+00042304 00 a 03 ósvikinn 0 réttur 0 sannur 0 000 |    
+00042362 00 a 02 óviðkomandi 0 utan_við_efnið 0 001 ! 00041399 a 0000 |    
+00042442 00 a 02 óskemmdur 0 gallalaus 0 000 |    
+00042494 00 a 11 aldinn 0 hrumur 0 forn 0 ellihniginn 0 roskinn 0 eldgamall 0 öldurmannlegur 0 hniginn_að_aldri 0 hniginn_á_efri_aldur 0 aldraður 0 gamall 0 gamlaður 0 aldurhniginn 0 kominn_á_efri_ár 0 langlífur 0 kominn_til_ára_sinna 0 af_léttasta_skeiði 0 004 = 00245317 n 0000 ^ 00033006 a 0000 ^ 00047392 a 0000 ^ 00049304 a 0000 |    
+00042845 00 a 03 grundvallar- 0 megin- 0 undirstöðu- 0 002 ^ 00036524 a 0000 ^ 00061426 a 0000 |    
+00042948 00 a 03 afmarkaður 0 takmarkaður 0 einskorðaður 0 000 |    
+00043021 00 a 02 orða- 0 munnlegur 0 000 |    
+00043069 00 a 06 venslaður 0 sifjaður 0 tengdur 0 nákominn 0 í_tengslum_við 0 mægður 0 000 |    
+00043173 00 a 02 kunnuglegur 0 kunnugur 0 000 |    
+00043225 00 a 07 þrálátur 0 þrásamlegur 0 langvinnur 0 þráheldinn 0 varanlegur 0 þrásækinn 0 þrásamur 0 001 ! 00055147 a 0000 |    
+00043369 00 a 02 skemmdur 0 skaddaður 0 000 |    
+00043420 00 a 02 sjálfkrafa 0 sjálfvirkur 0 002 ! 00027771 a 0000 ^ 00009334 a 0000 |    
+00043512 00 a 01 villur 0 001 ^ 00052249 a 0000 |    
+00043566 00 a 02 mjúkur 0 meyr 0 000 |    
+00043610 00 a 02 sögulegur 0 sagnfræðilegur 0 000 |    
+00043669 00 a 01 margfaldur 0 000 |    
+00043709 00 a 01 stoltur 0 002 & 00058398 a 0000 & 00046029 a 0000 |    
+00043782 00 a 04 negatívur 0 neitandi 0 neikvæður 0 andrænn 0 000 |    
+00043858 00 a 01 opinber 0 000 |    
+00043895 00 a 03 óviðeigandi 0 illa_til_fundið 0 ótímabær 0 000 |    
+00043971 00 a 10 vandlegur 0 náinn 0 nostursamur 0 ítarlegur 0 gagnorður 0 gaumgæfilegur 0 nákvæmur 0 grandvar 0 vendilegur 0 bókstaflegur 0 áreiðanlegur 0 smábrotinn 0 hnitmaiðaður 0 rækilegur 0 gerhugull 0 grandvarlegur 0 002 ^ 00001890 a 0000 ^ 00003220 a 0000 |    
+00044254 00 a 03 fjarski 0 fjarlægur 0 firð 0 002 ! 00012042 a 0000 = 00176878 n 0000 |    
+00044348 00 a 03 aðframkominn 0 úr_leik 0 búinn_að_vera 0 000 |    
+00044420 00 a 0d traustur 0 örugglegur 0 fulltraustur 0 traustlegur 0 haldgóður 0 öruggur 0 vís 0 áreiðanlegur 0 óbrigðull 0 pottþéttur 0 óyggjandi 0 pottheldur 0 ófallvaltur 0 000 |    
+00044620 00 a 02 sannleikur 0 sannur 0 006 & 00032119 a 0000 ! 00019672 a 0000 = 00241357 n 0000 ^ 00028183 a 0000 ^ 00058298 a 0000 ^ 00056746 a 0000 |    
+00044777 00 a 03 byrlegur 0 hagstæður 0 hagkvæmur 0 000 |    
+00044842 00 a 05 náttúrlegur 0 venjulegur 0 eðlilegur 0 normal 0 eðlislægur 0 002 ! 00053014 a 0000 ^ 00004720 a 0000 |    
+00044971 00 a 02 fulltrúa- 0 umboðs 0 000 |    
+00045021 00 a 02 upphaflegur 0 upprunalegur 0 002 ^ 00061426 a 0000 ^ 00023506 a 0000 |    
+00045113 00 a 07 hleypidómalaus 0 frjálslyndur 0 þolinmóður 0 vorkunnlátur 0 umburðarlyndur 0 umburðarsamur 0 vorkunnsamur 0 001 ^ 00020099 a 0000 |    
+00045274 00 a 04 sljór 0 heimskur 0 vitlaus 0 óvita 0 001 ! 00014349 a 0000 |    
+00045358 00 a 03 skreipur 0 háll 0 sleipur 0 001 ^ 00031864 a 0000 |    
+00045432 00 a 06 vondur 0 afleitur 0 siðlaus 0 slæmur 0 siðferðilega_rangur 0 illur 0 000 |    
+00045532 00 a 08 viðhlítandi 0 sæmilegur 0 sómasamlegur 0 tilbærilegur 0 boðlegur 0 skammlaus 0 frambærilegur 0 virðingarverður 0 002 ^ 00024512 a 0000 ^ 00047045 a 0000 |    
+00045717 00 a 06 hvíldarlaus 0 eirðarlaus 0 óstilltur 0 ábyrgur 0 áreiðanlegur 0 óvær 0 000 |    
+00045823 00 a 09 hávær 0 raddsterkur 0 skellibjöllulegur 0 aðsúgsmikill 0 hávaðasamur 0 hellur 0 háróma 0 garralegur 0 hátalaður 0 003 ! 00047132 a 0000 = 00235662 n 0000 ^ 00016925 a 0000 |    
+00046029 00 a 07 teprulegur 0 tilgerðarlegur 0 hégómagjarn 0 hégómlegur 0 pjattaður 0 hégómafullur 0 pempíulegur 0 001 & 00043709 a 0000 |    
+00046181 00 a 04 beiskur 0 megn 0 rammur 0 súr 0 001 & 00048432 a 0000 |    
+00046259 00 a 01 óformlegur 0 000 |    
+00046300 00 a 01 léttur 0 002 ! 00005549 a 0000 = 00003564 n 0000 |    
+00046373 00 a 02 hrár 0 ósoðinn 0 000 |    
+00046420 00 a 01 gæddur_persónutöfrum 0 001 & 00018766 a 0000 |    
+00046491 00 a 01 gjaldfallinn 0 000 |    
+00046533 00 a 04 leiður 0 sorgmæddur 0 hnugginn 0 angurmóður 0 001 ! 00021522 a 0000 |    
+00046628 00 a 02 áfjáður 0 ákafur 0 001 ^ 00018360 a 0000 |    
+00046696 00 a 01 siðfræðilegur 0 000 |    
+00046742 00 a 02 tónvís 0 músíkalskur 0 000 |    
+00046796 00 a 09 hægur 0 handhægur 0 meðfærilegur 0 viðráðanlegur 0 léttur 0 praktískur 0 auðveldur 0 hagkvæmur_handbær 0 hentugur 0 002 & 00047851 a 0000 ^ 00017490 a 0000 |    
+00046987 00 a 02 vísindalegur 0 fræðilegur 0 000 |    
+00047045 00 a 03 ásættanlegur 0 viðunandi 0 skaplegur 0 001 ^ 00045532 a 0000 |    
+00047132 00 a 02 hljóðlegur 0 hljóðlátur 0 003 ! 00045823 a 0000 = 00235662 n 0000 ^ 00017841 a 0000 |    
+00047244 00 a 02 ljóslitaður 0 ljós 0 001 ^ 00001809 a 0000 |    
+00047313 00 a 02 ör 0 ákafur 0 002 ! 00022402 a 0000 ^ 00047721 a 0000 |    
+00047392 00 a 04 stálpaður 0 fullorðinn 0 fullþroska 0 þroskaður 0 002 = 00245317 n 0000 ^ 00042494 a 0000 |    
+00047511 00 a 0c hlédrægur 0 feiminn 0 óframfærinn 0 einurðarlaus 0 stuttur 0 dulur 0 feilinn 0 ómannblendinn 0 bljúgur 0 skammur 0 óframgjarn 0 óframur 0 002 ! 00025296 a 0000 = 00001855 n 0000 |    
+00047721 00 a 02 ástríðufullur 0 ástugur 0 002 ^ 00047313 a 0000 ^ 00018360 a 0000 |    
+00047814 00 a 01 hvítur 0 000 |    
+00047851 00 a 03 innanhandar 0 nærtækur 0 nálægur 0 001 & 00046796 a 0000 |    
+00047935 00 a 01 þyrstur 0 001 ! 00025383 a 0000 |    
+00047991 00 a 03 stofnað 0 sem_hefð_er_fyrir 0 fast 0 000 |    
+00048057 00 a 02 frábær 0 mikilfenglegur 0 000 |    
+00048112 00 a 02 hugulsamur 0 íhugull 0 000 |    
+00048163 00 a 04 stór 0 stæðilegur 0 fastur_fyrir 0 þéttur_fyrir 0 005 & 00021002 a 0000 & 00038930 a 0000 & 00009401 a 0000 ! 00042219 a 0000 = 00002575 n 0000 |    
+00048335 00 a 04 stórskemmtilegur 0 forkostulegur 0 bráðskemmtilegur 0 kostulegur 0 000 |    
+00048432 00 a 02 ljúffengur 0 bragðgóður 0 003 & 00046181 a 0000 ^ 00039305 a 0000 ^ 00020820 a 0000 |    
+00048543 00 a 02 einskorðaður 0 ætlaður_fáum_úvöldum 0 000 |    
+00048615 00 a 02 frosinn 0 freðinn 0 000 |    
+00048663 00 a 02 atóm- 0 kjarnorku- 0 000 |    
+00048712 00 a 05 barnalegur 0 grunnhygginn 0 grunnfær 0 grunnsær 0 grunnur 0 000 |    
+00048801 00 a 02 milli- 0 sem_er_á_milli 0 000 |    
+00048855 00 a 02 lygilegur 0 ósennilegur 0 001 = 00062363 n 0000 |    
+00048927 00 a 03 réttlátur 0 góður 0 dyggðugur 0 000 |    
+00048991 00 a 03 veikur 0 þjáður 0 sjúkur 0 002 & 00059865 a 0000 ! 00054743 a 0000 |    
+00049085 00 a 09 hlutvandur 0 réttilegur 0 réttmætur 0 réttskiptinn 0 réttvís 0 rélegur 0 réttsýnn 0 réttlátur 0 sanngjarn 0 000 |    
+00049231 00 a 04 seinastur 0 aftastur 0 síðastur 0 hinstur 0 000 |    
+00049304 00 a 08 æfður 0 veraldarvanur 0 eldri_en_tvævetur 0 reyndur 0 vanur 0 útfarinn 0 þrautreyndur 0 gamalreyndur 0 002 ^ 00004950 a 0000 ^ 00018584 a 0000 |    
+00049475 00 a 02 afstæður 0 viðmiðaður 0 001 ! 00033466 a 0000 |    
+00049549 00 a 02 skipulagður 0 skipulegur 0 001 ^ 00011716 a 0000 |    
+00049622 00 a 08 amalegur 0 ógeðfelldur 0 neyðarlegur 0 óhentugur 0 óheppilegur 0 óþægilegur 0 illur 0 bagalegur 0 001 ^ 00023404 a 0000 |    
+00049773 00 a 04 morkinn 0 úldinn 0 fúinn 0 rotinn 0 000 |    
+00049838 00 a 03 ólmur 0 villtur 0 óstýrilátur 0 000 |    
+00049901 00 a 04 hryggilegur 0 hræðilegur 0 ömurlegur 0 nöturlegur 0 000 |    
+00049984 00 a 03 ókvæntur 0 einhleypur 0 ógiftur 0 001 ! 00003554 a 0000 |    
+00050066 00 a 03 fýsilegur 0 ákjósanlegur 0 eftirsóknarverður 0 000 |    
+00050145 00 a 01 einsleitur 0 000 |    
+00050185 00 a 03 lífshættulegur 0 mannhættur 0 banvænn 0 000 |    
+00050256 00 a 02 stöðugur 0 staðfastlegur 0 002 ^ 00013331 a 0000 ^ 00053160 a 0000 |    
+00050349 00 a 05 jákvæður 0 frumlægur 0 pósitífur 0 játandi 0 uppbyggilegur 0 001 ! 00006002 a 0000 |    
+00050462 00 a 02 sjálfkrafa 0 sem_gerist_sjálfkrafa 0 000 |    
+00050528 00 a 03 ráðvandur 0 heiðarlegur 0 hreinskilinn 0 001 ^ 00056746 a 0000 |    
+00050617 00 a 02 þægilegur 0 notalegur 0 001 = 00102471 n 0000 |    
+00050688 00 a 03 dómharður 0 gagnrýninn 0 aðfinnslusamur 0 000 |    
+00050761 00 a 0d gramur 0 vondur 0 þykkjuþungur 0 byrstur 0 heiftugur 0 heitur 0 bálreiður 0 reiður 0 þykkjufullur 0 illur 0 yearly 0 árlegur 0 styggur 0 000 |    
+00050932 00 a 01 foreldra- 0 000 |    
+00050971 00 a 06 inni_við 0 innanveggja 0 innangátta 0 innandyra 0 innanhúss 0 innanstokks 0 001 ! 00029672 a 0000 |    
+00051095 00 a 04 árangursríkur 0 happasæll 0 affarsæll 0 farsæll 0 000 |    
+00051177 00 a 03 viðkvæmur 0 beygjulegur 0 veikbyggður 0 000 |    
+00051247 00 a 0c leiðinlegur 0 þurrlegur 0 bragðlítill 0 hvimleiður 0 leiður 0 jarganlegur 0 þulbaldalegur 0 þurr 0 leiðigjarn 0 þreytandi 0 dauflegur 0 langsamur 0 001 ! 00031523 a 0000 |    
+00051450 00 a 03 traustur 0 áreiðanlegur 0 óbrigðull 0 000 |    
+00051519 00 a 0c snemmbært 0 í_rauðabítið 0 snemmendis 0 snemma 0 t´rimanlega 0 árla 0 í_bítið 0 ár 0 í_morgunsárið 0 snemmt 0 snemmbúinn 0 öndverðlega 0 002 & 00010390 a 0000 ^ 00023506 a 0000 |    
+00051736 00 a 04 téður 0 tiltekinn 0 ákveðinn 0 tilgreindur 0 000 |    
+00051812 00 a 0c annarlegur 0 ankringislegur 0 undarlegur 0 ókennilegur 0 einkennilegur 0 fáránlegur 0 kynlegur 0 fjarstæður 0 kynjafullur 0 skrýtinn 0 furðulegur 0 kjánalegur 0 001 & 00006134 a 0000 |    
+00052026 00 a 05 allsherjar- 0 almennur 0 almennings- 0 opinber 0 altækur 0 001 ^ 00021659 a 0000 |    
+00052131 00 a 02 iðn- 0 iðnaðar- 0 001 ^ 00010670 a 0000 |    
+00052197 00 a 02 alræmdur 0 illræmdur 0 000 |    
+00052249 00 a 03 glataður 0 týndur 0 tapaður 0 001 ^ 00043512 a 0000 |    
+00052327 00 a 02 lygn 0 kyrr 0 000 |    
+00052368 00 a 03 vanær 0 getulaus 0 ófær 0 001 & 00021415 a 0000 |    
+00052442 00 a 02 grimmur 0 andstyggilegur 0 000 |    
+00052496 00 a 08 þokkasæll 0 lýðhollur 0 vinsæll 0 vingóður 0 ástsæll 0 vinmargur 0 vel_þokkaður 0 tíður 0 000 |    
+00052626 00 a 01 samvinnuþýður 0 001 ^ 00003382 a 0000 |    
+00052690 00 a 03 innri 0 innanvert 0 innvortis 0 001 ! 00013091 a 0000 |    
+00052767 00 a 02 í_jafnvægi 0 jafnvægur 0 000 |    
+00052822 00 a 02 mólekúl- 0 sameindar- 0 001 ;c 00089415 n 0000 |    
+00052894 00 a 03 ágengur 0 árásargjarn 0 áleitinn 0 003 ^ 00040665 a 0000 ^ 00037566 a 0000 ^ 00014865 a 0000 |    
+00053014 00 a 02 óeðlilegur 0 afbrigðilegur 0 001 ! 00044842 a 0000 |    
+00053091 00 a 02 djúpur 0 djúpsettur 0 001 ! 00005354 a 0000 |    
+00053160 00 a 03 samstæður 0 jafn 0 samur 0 002 ^ 00031864 a 0000 ^ 00050256 a 0000 |    
+00053252 00 a 03 tilvalinn 0 hagstæður 0 heppilegur 0 000 |    
+00053318 00 a 02 jafn 0 sem_gerist_skref_fyrir_skref 0 002 ! 00013173 a 0000 ^ 00019868 a 0000 |    
+00053419 00 a 02 almennur 0 algengur 0 002 ^ 00022202 a 0000 ^ 00057336 a 0000 |    
+00053504 00 a 03 viðtekinn 0 algildur 0 hefðbundinn 0 001 ^ 00040289 a 0000 |    
+00053588 00 a 02 nafnlaus 0 ónefndur 0 000 |    
+00053638 00 a 02 lítilsháttar 0 minniháttar 0 001 ! 00037955 a 0000 |    
+00053715 00 a 03 fagur 0 fallegur 0 fríður 0 003 & 00036083 a 0000 ! 00028279 a 0000 ^ 00018766 a 0000 |    
+00053826 00 a 02 jákvæður 0 uppbyggjandi 0 000 |    
+00053882 00 a 09 aðkrepptur 0 öngur 0 rúmlítill 0 hrappur 0 aðskorinn 0 órúmlegur 0 þröngur 0 þrönglendur 0 aðsniðinn 0 003 = 00165725 n 0000 ^ 00019932 a 0000 ^ 00007987 a 0000 |    
+00054079 00 a 04 ójafn 0 ólíkur 0 öðruvísi 0 mismunandi 0 000 |    
+00054153 00 a 18 sterklegur 0 handsterkur 0 sterkur 0 þróttmikill 0 átakamikill 0 magnmikill 0 jötunefldur 0 grísefldur 0 jötunsterkur 0 styrkur 0 burðastór 0 rammefldur 0 handgóður 0 burðasterkur 0 rammur 0 knár 0 kröftugur 0 stæltur 0 kraftamikill 0 aflmikill 0 kraftmikill 0 hamrammur 0 öflugur 0 aflþrunginn 0 002 ^ 00027929 a 0000 ^ 00033680 a 0000 |    
+00054529 00 a 07 talsverður 0 allmikill 0 rinn 0 töluverður 0 allverulegur 0 drjúgur 0 umtalsverður 0 001 ^ 00048163 a 0000 |    
+00054664 00 a 03 hreyfanlegur 0 lauslegur 0 laus 0 001 ! 00005175 a 0000 |    
+00054743 00 a 0b sterkur 0 þróttmikill 0 harðfenginn 0 ern 0 hraustur 0 heilbrigður 0 harðfengur 0 harðger 0 stálsleginn 0 dáðrakkur 0 harðgerður 0 001 ! 00048991 a 0000 |    
+00054930 00 a 03 sársaukafullur 0 sár 0 kvalafullur 0 000 |    
+00054996 00 a 02 víxlverkandi 0 gagnverkandi 0 000 |    
+00055054 00 a 05 tiginn 0 stórættaður 0 ættgöfugur 0 tiginborinn 0 göfugur 0 000 |    
+00055147 00 a 02 oddhvass 0 hvass 0 001 ! 00043225 a 0000 |    
+00055211 00 a 01 vandræðalegur 0 001 ^ 00028279 a 0000 |    
+00055274 00 a 02 helgur 0 heilagur 0 000 |    
+00055321 00 a 03 kvenlegur 0 fínlegur 0 kvenskur 0 000 |    
+00055383 00 a 02 eftirfarandi 0 síðari 0 000 |    
+00055436 00 a 02 opinskár 0 opinn 0 002 ^ 00011295 a 0000 ^ 00003220 a 0000 |    
+00055519 00 a 07 ólögmætur 0 ólöglegur 0 leyfislaus 0 á_móti_lögum 0 óheimill 0 óréttmætur 0 rétlaus 0 002 & 00006745 a 0000 ! 00002092 a 0000 |    
+00055681 00 a 18 þægilegur 0 vinveittur 0 mjúkur 0 vinsamlegur 0 dæll 0 hlýlegur 0 hýrlegur 0 vinalegur 0 hýr 0 ljúfmannlegur 0 altillegur 0 alteita 0 góplyndur 0 alúðlegur 0 ljúfur 0 þýður 0 ástsamlegur 0 góður 0 ljúflegur 0 þýðlegur 0 blíðlyndur 0 vingjarnlegur 0 elskulegur 0 almennilegur 0 002 ^ 00009216 a 0000 ^ 00027830 a 0000 |    
+00056045 00 a 01 valfrjáls 0 000 |    
+00056085 00 a 06 aðlaðandi 0 viðmótsþýður 0 þekkilegur 0 geðfelldur 0 viðkunnanlegur 0 vingjarnlegur 0 003 & 00040899 a 0000 ! 00056262 a 0000 ^ 00035623 a 0000 |    
+00056262 00 a 07 errinn 0 áreitinn 0 ónotalegur 0 óþægilegur 0 viðskotaillur 0 hryssingslegur 0 afundinn 0 003 ! 00056085 a 0000 ^ 00001253 a 0000 ^ 00038159 a 0000 |    
+00056439 00 a 02 hvetjandi 0 örvandi 0 001 ^ 00003382 a 0000 |    
+00056507 00 a 0a hægur 0 handhægur 0 viðráðanlegur 0 vandalítill 0 aðgengilegur 0 auðveldur 0 aldæla 0 auðgefinn 0 vandalaus 0 greiður 0 001 ! 00059530 a 0000 |    
+00056683 00 a 03 ódæll 0 ólmur 0 óstýrilátur 0 000 |    
+00056746 00 a 04 heiðvirður 0 ráðvandur 0 heiðarlegur 0 ærlegur 0 003 ^ 00050528 a 0000 ^ 00044620 a 0000 ^ 00058298 a 0000 |    
+00056882 00 a 03 flókinn 0 margslunginn 0 margbrotinn 0 001 ^ 00059530 a 0000 |    
+00056967 00 a 08 kuldalegur 0 spunastuttur 0 stuttaralegur 0 óþýður 0 kaldranalegur 0 óblíður 0 hryssingslegur 0 fálegur 0 002 ! 00027830 a 0000 ^ 00022402 a 0000 |    
+00057144 00 a 08 óskertur 0 óskaddaður 0 alger 0 órifinn 0 óskiptur 0 allur 0 heill 0 óskaddur 0 002 = 00106225 n 0000 ^ 00037743 a 0000 |    
+00057293 00 a 01 rómantískur 0 000 |    
+00057336 00 a 0c óbreyttur 0 almennur 0 vanabundinn 0 venjulegur 0 algengur 0 tíður 0 alþýðlegur 0 hversdagslegur 0 vanur 0 tíðkanlegur 0 vanalegur 0 eðlislegur 0 003 ! 00002470 a 0000 ^ 00022202 a 0000 ^ 00053419 a 0000 |    
+00057572 00 a 02 fagurfræðilegur 0 listrænn 0 000 |    
+00057631 00 a 02 náttúruvísindalegur 0 raunvísindalegur 0 000 |    
+00057703 00 a 02 innanlands- 0 innanríkis- 0 000 |    
+00057759 00 a 03 látinn 0 dimmur 0 dauður 0 001 ! 00010591 a 0000 |    
+00057833 00 a 03 brúnn 0 móbrúnn 0 skilbrúnn 0 000 |    
+00057894 00 a 0a óhlífinn 0 ómildur 0 óvægilegur 0 stranglegur 0 siðavandr 0 harður 0 harðráður 0 stjórnsamur 0 strangur 0 ákveðinn 0 000 |    
+00058051 00 a 0d þræsingslegur 0 andkaldur 0 nöturkaldur 0 úrsvalur 0 kaldur 0 ískaldur 0 ahrákaldur 0 napur 0 hrollkaldur 0 hryssingslegur 0 svalur 0 nöturlegur 0 kaldsamur 0 003 ! 00032637 a 0000 = 00135890 n 0000 ^ 00027160 a 0000 |    
+00058298 00 a 02 ekta 0 ósvikinn 0 003 ^ 00044620 a 0000 ^ 00056746 a 0000 ^ 00032255 a 0000 |    
+00058398 00 a 11 hrokamikill 0 upplásinn 0 uppbelgdur 0 tattinn 0 golubelgdur 0 þóttalegur 0 stoltur 0 þóttafullur 0 digurbarkalegur 0 reiginn 0 dreissugur 0 dramblátur 0 hrokafullur 0 ofstopafullur 0 merkilegur_með_sig 0 belgingslegur 0 drambsfullur 0 001 & 00043709 a 0000 |    
+00058686 00 a 14 pervisalegur 0 léttvaxinn 0 spóalegur 0 pervisinn 0 grannholda 0 strengdur 0 nettvaxinn 0 grannur 0 mjósleginn 0 grennlulegur 0 spengilegur 0 horaður 0 krangalegur 0 smálimaður 0 rennilegur 0 magur 0 teygður 0 útlimagrannur 0 grannvaxinn 0 mjór 0 001 ! 00013999 a 0000 |    
+00058987 00 a 02 glaðlyndur 0 kátur 0 002 ^ 00023747 a 0000 ^ 00021522 a 0000 |    
+00059073 00 a 02 líkamlegur 0 holdlegur 0 000 |    
+00059126 00 a 03 aldauða 0 útdauður 0 dauður 0 000 |    
+00059187 00 a 02 sambærilegur 0 hliðstæður 0 001 ^ 00017630 a 0000 |    
+00059264 00 a 08 án_endurgjalds 0 frítt 0 ókeypis 0 að_kostnaðalausu 0 gefins 0 gjaldfrjálst 0 endurgjaldslaust 0 eftirgjaldlaust 0 000 |    
+00059412 00 a 02 skrifaður 0 skjallegur 0 000 |    
+00059465 00 a 03 göfuglyndur 0 veglyndur 0 göfugur 0 000 |    
+00059530 00 a 14 erfiður 0 brösóttur 0 torveldur 0 vandasamur 0 þunglegur 0 svellur 0 strembinn 0 þungur 0 amasamur 0 stríður 0 þungbær 0 tregur 0 trauður 0 vandur 0 þungsóttur 0 torsóttur 0 umvindur 0 snúinn 0 örðugur 0 þvælinn 0 002 ! 00056507 a 0000 = 00215982 n 0000 |    
+00059825 00 a 01 óáfengur 0 000 |    
+00059865 00 a 06 máttlaus 0 máttvana 0 lama 0 lamaður 0 visinn 0 lamur 0 001 & 00048991 a 0000 |    
+00059969 00 a 03 einstæður 0 persónulegur 0 sérstæður 0 001 & 00024046 a 0000 |    
+00060059 00 a 03 höfuð- 0 megin- 0 aðal- 0 000 |    
+00060115 00 a 02 vonglaður 0 bjartsýnn 0 000 |    
+00060168 00 a 03 nýr 0 nýstárlegur 0 nýtilkominn 0 004 = 00245317 n 0000 ^ 00039730 a 0000 ^ 00039197 a 0000 ^ 00012403 a 0000 |    
+00060305 00 a 04 örlátur 0 veglyndur 0 rausnarlegur 0 gjafmildur 0 000 |    
+00060384 00 a 0f tröllslegur 0 ferlegur 0 nauðljótur 0 hrikalegur 0 afkárlegur 0 forynjulegur 0 afskræmilegur 0 forljótur 0 herfilegur 0 fáránlegur 0 ruddalegur 0 óhræsilegur 0 skrímslislegur 0 hryllilegur 0 afarljótur 0 000 |    
+00060627 00 a 03 ónógur 0 óviðunandi 0 ófullnægjandi 0 001 ! 00002930 a 0000 |    
+00060716 00 a 03 gerræðisfullur 0 yfirgangssamur 0 ofbeldisfullur 0 001 ^ 00014865 a 0000 |    
+00060814 00 a 06 verulegur 0 talsverður 0 töluverður 0 ósmár 0 umtalsverður 0 tilfinnanlegur 0 000 |    
+00060925 00 a 0a áhugaverður 0 hrífandi 0 áhrifaríkur 0 spennandi 0 gagntakandi 0 æsandi 0 sem_tekur_á_taugrnar 0 kitlandi 0 áhrifamikill 0 æsilegur 0 002 = 00090844 n 0000 ^ 00031785 a 0000 |    
+00061131 00 a 03 öruggur 0 ákveðinn 0 viss 0 000 |    
+00061189 00 a 0f stimamjúkur 0 kurteis 0 fagurmáll 0 háttvís 0 heflaður_í_framkomu 0 nærgætinn 0 siðaður 0 kureislegur 0 hupplegur 0 háttprúður 0 látprúður 0 hæverskur 0 fágaður 0 siðprúður 0 siðlátur 0 000 |    
+00061426 00 a 02 megin- 0 aðal- 0 005 & 00020227 a 0000 ! 00016308 a 0000 ^ 00042845 a 0000 ^ 00045021 a 0000 ^ 00023506 a 0000 |    
+00061561 00 a 0a fær_um 0 ítækur 0 bær_um 0 réttkvaddur 0 liðtækur 0 hæfur 0 fallinn_til 0 réttbær 0 vel_til_fallinn 0 lagaður 0 002 ^ 00029354 a 0000 ^ 00029479 a 0000 |    
+00061747 00 a 03 skarpur 0 hvass 0 beittur 0 001 ! 00029728 a 0000 |    
+00061820 00 a 02 formgerðar- 0 byggingar- 0 000 |    
+00061875 00 a 03 hernaðar- 0 hermanna- 0 her- 0 000 |    
+00061934 00 a 02 segul- 0 segulmagnaður 0 000 |    
+00061987 00 a 02 húsnæðis- 0 íbúðar- 0 000 |    
+00062042 00 a 02 fræðilegur 0 bóklegur 0 000 |    
+00062096 00 a 01 bókmenntalegur 0 000 |    
+00062141 00 a 02 sólar- 0 sól- 0 000 |    
+00062186 00 a 01 landfræðilegur 0 000 |    
+00062232 00 a 02 tilrauna- 0 rannsókna- 0 000 |    
+00062285 00 a 02 þegnlegur 0 borgarlegur 0 000 |    
+00062339 00 a 01 leikrænn 0 000 |    
+00062378 00 a 01 geðrænn 0 000 |    
+00062417 00 a 02 rekstrar- 0 starfs- 0 000 |    
+00062466 00 a 01 búskaparlegur 0 000 |    
+00062510 00 a 01 dóm- 0 000 |    
+00062545 00 a 02 skriffinsku- 0 skrifræðis- 0 000 |    
+00062603 00 a 05 svæðisbundinn 0 staðhátta- 0 staðlegur 0 staðbundinn 0 staðar- 0 000 |    
+00062702 00 a 01 hitabeltis- 0 000 |    
+00062743 00 a 02 mennskur 0 mannlegur 0 000 |    
+00062793 00 a 02 sjónar- 0 sjón- 0 000 |    
+00062840 00 a 02 tölfræðilegur 0 reikningslegur 0 000 |    
+00062903 00 a 02 laga- 0 löggjafar- 0 000 |    
+00062952 00 a 02 atvinnu- 0 starfs- 0 000 |    
+00063000 00 a 03 spekingslegur 0 fílósófískur 0 heimspekilegur 0 000 |    
+00063079 00 a 01 stafrænn 0 000 |    
+00063118 00 a 02 álfu- 0 heimsálfu- 0 000 |    
+00063168 00 a 02 listfengur 0 listrænn 0 000 |    
+00063220 00 a 03 mennta- 0 menningar- 0 menntunar- 0 000 |    
+00063283 00 a 03 landsbyggðar- 0 sveita- 0 dreifbýlis- 0 000 |    
+00063352 00 a 01 erfðafræðis- 0 000 |    
+00063397 00 a 03 sjávar- 0 sæ- 0 sjó- 0 000 |    
+00063450 00 a 02 megindlegur 0 magnbundinn 0 000 |    
+00063505 00 a 02 fjölskyldu- 0 heimilis- 0 000 |    
+00063559 00 a 03 fræðilegur 0 teknískur 0 tæknilegur 0 000 |    
+00063628 00 a 01 stærðfræðilegur 0 000 |    
+00063677 00 a 04 taugaóstyrkur 0 taugaveiklaður 0 trekktur 0 taugastrekktur 0 000 |    
+00063767 00 a 02 forseta- 0 þjóðhöfðingja- 0 000 |    
+00063827 00 a 02 fyrirtækis- 0 hlutafélags- 0 000 |    
+00063885 00 a 01 menningarlegur 0 000 |    
+00063929 00 a 02 sérfræðilegur 0 faglegur 0 000 |    
+00063986 00 a 02 fjölbýlis- 0 þéttbýlis- 0 000 |    
+00064044 00 a 04 samstæður 0 jafn 0 samur 0 umhverfis- 0 000 |    
+00064113 00 a 01 miðaldar- 0 000 |    
+00064153 00 a 04 atvinnu- 0 starfs- 0 iðn- 0 fag- 0 000 |    
+00064216 00 a 03 bæjarstjórnar- 0 sveitastjórnar- 0 sveitafélaga- 0 000 |    
+00064298 00 a 03 herstjórnarlegur 0 hernaðarlistar- 0 herkænsku- 0 000 |    
+00064378 00 a 02 efnahagslegur 0 hagkvæmur 0 000 |    
+00064434 00 a 01 rafrænn 0 000 |    
+00064472 00 a 01 þjóðlegur 0 000 |    
+00064514 00 a 02 fornfræðilegur 0 fornleifafræðilegur 0 000 |    
+00064584 00 a 01 keisaralegur 0 000 |    

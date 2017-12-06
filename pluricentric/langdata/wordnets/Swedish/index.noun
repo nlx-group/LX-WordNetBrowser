@@ -1,0 +1,3924 @@
+matta n 2 0 2 0 00190138 00228298
+giv n 1 0 1 0 00061601
+fiende n 2 1 @ 2 0 00075938 00078456
+poesi n 1 0 1 0 00012558
+rösträtt n 1 1 ;c 1 0 00216236
+paraply n 1 0 1 0 00144174
+rea n 1 0 1 0 00034110
+kaos n 1 0 1 0 00030987
+person n 1 4 ~ @ %p #m 1 0 00044446
+hjortron n 1 0 1 0 00216697
+tandläkare n 1 0 1 0 00082762
+skiva n 2 1 ~ 2 0 00103253 00219729
+brist n 3 2 ~ @ 3 0 00021973 00034510 00220649
+frihet n 2 3 ~ @ = 2 0 00036130 00092314
+uppgift n 1 1 @ 1 0 00180542
+forskning n 2 1 ~ 2 0 00104677 00205587
+notering n 1 0 1 0 00043929
+hjärna n 2 1 #p 2 0 00025253 00125937
+tariff n 1 0 1 0 00184160
+rök n 1 0 1 0 00177701
+behållare n 1 2 ~ %p 1 0 00189007
+sköld n 1 0 1 0 00197885
+skikt n 1 1 ~ 1 0 00062528
+amatör n 2 1 @ 2 0 00028194 00111986
+gen n 1 2 @ #p 1 0 00135099
+påslag n 1 1 @ 1 0 00187730
+vigsel n 1 1 @ 1 0 00201834
+lilja n 1 0 1 0 00210759
+instrument n 2 1 ~ 2 0 00043588 00066365
+jämnmod n 1 1 @ 1 0 00042133
+testamente n 1 1 ;c 1 0 00087253
+droppe n 1 0 1 0 00043682
+andel n 2 1 #p 2 0 00029101 00176218
+konvention n 2 1 = 2 0 00033947 00046160
+rebell n 2 1 @ 2 0 00211949 00226667
+arbete n 2 2 ! @ 2 0 00057271 00188243
+rep n 1 1 ~ 1 0 00057876
+teckning n 1 1 ~ 1 0 00136528
+stånd n 1 0 1 0 00032825
+befruktning n 1 0 1 0 00168648
+injektion n 2 0 2 0 00033485 00162618
+repressalie n 1 1 @ 1 0 00139137
+safari n 1 0 1 0 00210243
+syn n 1 0 1 0 00190356
+frys n 1 1 @ 1 0 00249397
+cancer n 1 0 1 0 00054709
+bly n 1 1 @ 1 0 00241930
+parkering n 1 0 1 0 00033072
+telning n 1 1 @ 1 0 00213064
+bukspottkörtel n 1 0 1 0 00016507
+moské n 1 0 1 0 00248655
+omsorg n 1 0 1 0 00007244
+grann n 1 0 1 0 00025456
+mammografi n 1 0 1 0 00123088
+yrväder n 1 1 @ 1 0 00017563
+nämnare n 1 0 1 0 00092924
+förbehåll n 2 1 @ 2 0 00060526 00133770
+nota n 1 1 @ 1 0 00073325
+kryssning n 1 0 1 0 00246781
+tändare n 1 1 ~ 1 0 00017000
+charlatan n 1 0 1 0 00241602
+försäljning n 2 3 ~ @ #p 2 0 00133259 00198160
+låntagare n 1 0 1 0 00031975
+påtryckning n 1 0 1 0 00215422
+skrammel n 1 1 @ 1 0 00054395
+terminologi n 1 1 @ 1 0 00087761
+azalea n 1 0 1 0 00127549
+skoj n 1 1 @ 1 0 00047811
+elevhem n 1 1 @ 1 0 00145095
+aorta n 1 0 1 0 00089718
+parasoll n 1 0 1 0 00236985
+ängel n 1 1 %p 1 0 00229293
+komet n 1 1 ;c 1 0 00004864
+ylle n 1 1 @ 1 0 00032861
+likhet n 1 1 ~ 1 0 00144966
+tradition n 1 1 ~ 1 0 00016158
+skäl n 1 0 1 0 00205096
+podium n 1 1 @ 1 0 00020411
+licens n 1 1 ;c 1 0 00092653
+körbana n 1 1 #p 1 0 00234379
+klientel n 1 1 @ 1 0 00144518
+lärjunge n 1 0 1 0 00143193
+kör n 1 0 1 0 00066441
+politiker n 1 2 ~ @ 1 0 00089516
+aluminium n 1 1 @ 1 0 00073000
+accent n 1 0 1 0 00208983
+helikopter n 1 0 1 0 00004767
+hink n 1 1 @ 1 0 00086736
+avnämare n 1 1 @ 1 0 00061093
+undsättning n 1 1 @ 1 0 00216176
+jubileum n 1 1 ~ 1 0 00215464
+brott n 2 3 ~ @ -c 2 0 00148595 00227124
+hörn n 1 0 1 0 00059663
+höna n 1 1 @ 1 0 00048754
+atlet n 1 1 ~ 1 0 00008904
+mikroskop n 1 0 1 0 00056915
+betäckning n 1 0 1 0 00077278
+kajak n 1 0 1 0 00251908
+tåg n 1 2 -c %m 1 0 00002955
+transport n 1 3 ~ @ #p 1 0 00042716
+tonart n 1 0 1 0 00123980
+antagande n 1 1 ~ 1 0 00002213
+migration n 1 1 ~ 1 0 00010476
+klitoris n 1 0 1 0 00157865
+bakterie n 1 0 1 0 00220720
+änka n 1 1 @ 1 0 00139396
+synonym n 1 1 @ 1 0 00187064
+gurka n 2 3 @ #p %p 2 0 00064570 00237462
+auktoritet n 2 2 ~ @ 2 0 00027040 00146775
+maskot n 1 0 1 0 00020338
+trend n 1 0 1 0 00239542
+abc n 1 0 1 0 00195761
+höft n 1 1 #p 1 0 00012941
+toast n 1 1 @ 1 0 00056693
+sediment n 1 1 @ 1 0 00093062
+vitamin n 1 0 1 0 00060748
+dekor n 1 1 @ 1 0 00041063
+förklaring n 1 0 1 0 00219356
+sluttning n 1 1 ~ 1 0 00002739
+tennis n 1 1 -c 1 0 00128111
+mössa n 1 1 ~ 1 0 00091781
+sammansvärjning n 1 1 ~ 1 0 00005229
+prydnad n 1 1 ~ 1 0 00024116
+vänskap n 1 1 ~ 1 0 00186023
+nostalgi n 1 1 @ 1 0 00201186
+skällsord n 1 1 ~ 1 0 00045529
+själ n 1 1 ~ 1 0 00241877
+hinder n 2 0 2 0 00013451 00171959
+nationalitet n 2 1 @ 2 0 00092100 00192869
+salvelse n 1 0 1 0 00238900
+spegel n 3 2 ~ @ 3 0 00050937 00140420 00182579
+vas n 1 1 @ 1 0 00210575
+tidskrift n 2 2 ~ @ 2 0 00087960 00137197
+åtal n 1 2 @ ;c 1 0 00078197
+medborgare n 1 2 ! ~ 1 0 00000668
+hemmafru n 1 1 @ 1 0 00225585
+hasch n 1 0 1 0 00238306
+fläta n 1 0 1 0 00207238
+flykt n 1 0 1 0 00220235
+årstid n 1 2 ~ @ 1 0 00061851
+ideal n 2 2 ~ @ 2 0 00005391 00077787
+funkis n 1 0 1 0 00034874
+botten n 1 2 ~ @ 1 0 00057199
+ko n 1 3 ~ @ %p 1 0 00095132
+självförverkligande n 1 0 1 0 00238341
+torv n 1 0 1 0 00206352
+öken n 1 0 1 0 00224957
+skymning n 1 2 @ #p 1 0 00109594
+tyngd n 1 1 = 1 0 00003387
+redare n 1 0 1 0 00021220
+gymnastik n 1 1 @ 1 0 00081030
+säng n 1 1 #p 1 0 00169457
+decimeter n 1 1 %p 1 0 00056466
+trollformel n 1 0 1 0 00213985
+gravitation n 1 2 @ ;c 1 0 00193572
+p-piller n 1 1 @ 1 0 00134033
+täcke n 1 0 1 0 00150889
+dromedar n 1 1 @ 1 0 00030487
+integration n 1 0 1 0 00018180
+kvartal n 1 1 @ 1 0 00184442
+belägenhet n 2 2 ~ @ 2 0 00038420 00112041
+fack n 1 1 @ 1 0 00123128
+inälvor n 1 1 @ 1 0 00046540
+hak n 1 0 1 0 00204897
+telefonväxel n 1 0 1 0 00109040
+parkas n 1 1 @ 1 0 00185960
+brännskada n 1 1 @ 1 0 00247827
+faktor n 1 1 ~ 1 0 00038680
+sol n 1 0 1 0 00023820
+bankrutt n 1 1 @ 1 0 00247943
+moped n 1 0 1 0 00075992
+förmögenhet n 4 1 @ 4 0 00045865 00164087 00175674 00197178
+studie n 1 1 @ 1 0 00046881
+ökning n 1 1 ~ 1 0 00058563
+inskolning n 1 0 1 0 00065283
+dagdrivare n 1 1 ~ 1 0 00191228
+universum n 1 2 ~ %m 1 0 00003767
+sår n 3 2 ~ @ 3 0 00022837 00055694 00158765
+grädde n 1 0 1 0 00187693
+baner n 1 1 @ 1 0 00170411
+ackord n 1 1 @ 1 0 00177984
+hjärntvätt n 1 1 @ 1 0 00218388
+krasch n 1 0 1 0 00221725
+tävlan n 1 1 @ 1 0 00074138
+virus n 2 0 2 0 00066238 00190463
+varning n 1 1 @ 1 0 00214989
+elit n 1 0 1 0 00147884
+ansträngning n 1 1 ~ 1 0 00108336
+aptit n 1 0 1 0 00215950
+kumpan n 1 0 1 0 00226487
+royalty n 2 1 %m 2 0 00100284 00249561
+överlevande n 1 0 1 0 00194416
+front n 2 1 #p 2 0 00181171 00196630
+medel n 1 0 1 0 00245798
+produktion n 1 0 1 0 00119850
+lögnhals n 1 0 1 0 00026888
+beredskap n 1 1 = 1 0 00001514
+drake n 2 1 @ 2 0 00144009 00194227
+munsbit n 2 0 2 0 00058177 00245672
+protest n 1 1 ~ 1 0 00044373
+ring n 3 3 ~ @ #p 3 0 00037974 00153052 00215781
+handtag n 1 1 @ 1 0 00017978
+försmak n 1 1 @ 1 0 00156993
+deg n 1 1 %s 1 0 00176056
+handväska n 1 0 1 0 00192829
+titel n 3 1 ~ 3 0 00013273 00118718 00216918
+panik n 2 1 @ 2 0 00202875 00215985
+växelström n 1 0 1 0 00158338
+samråd n 1 0 1 0 00251546
+maskineri n 1 2 ~ @ 1 0 00160656
+råd n 2 1 ~ 2 0 00160283 00177272
+kärve n 1 1 ~ 1 0 00175504
+borste n 1 0 1 0 00180007
+ideologi n 2 2 ~ = 2 0 00159968 00227798
+monster n 1 0 1 0 00054544
+stridsvagn n 1 0 1 0 00068575
+lunginflammation n 1 0 1 0 00080418
+grymhet n 1 0 1 0 00002569
+invandrare n 1 0 1 0 00022578
+insättning n 1 1 @ 1 0 00121389
+personsökare n 1 0 1 0 00147561
+anspråk n 1 0 1 0 00238691
+höst n 1 1 @ 1 0 00201009
+europa n 1 1 #p 1 0 00219599
+slagord n 1 1 @ 1 0 00063870
+spricka n 1 1 ~ 1 0 00021499
+snaps n 1 0 1 0 00228333
+gavel n 1 1 @ 1 0 00175621
+murkla n 1 1 @ 1 0 00003512
+pingstlilja n 1 1 ~ 1 0 00033770
+bädd n 1 1 @ 1 0 00151792
+benådning n 1 2 @ ;c 1 0 00140185
+äktenskap n 2 3 ~ ;c %m 2 0 00033562 00190922
+karaff n 1 1 @ 1 0 00215611
+skåp n 2 2 @ %p 2 0 00164406 00221856
+meny n 1 2 @ ;c 1 0 00164956
+kultur n 2 1 @ 2 0 00117137 00186496
+kvarn n 1 1 @ 1 0 00245139
+russin n 1 0 1 0 00179175
+skumpa n 1 0 1 0 00001607
+passion n 1 1 ~ 1 0 00225782
+återhämtning n 1 2 ~ @ 1 0 00149556
+värja n 1 1 @ 1 0 00076292
+flygning n 1 0 1 0 00021034
+stillestånd n 1 1 @ 1 0 00110209
+offensiv n 1 1 @ 1 0 00213530
+uppassning n 1 0 1 0 00180102
+copywriter n 1 1 @ 1 0 00210626
+skulderblad n 1 1 @ 1 0 00104525
+torp n 1 1 @ 1 0 00219129
+perenn n 1 1 @ 1 0 00121130
+magkatarr n 1 0 1 0 00109801
+terapeut n 1 2 ~ @ 1 0 00087649
+aktivitet n 1 2 @ = 1 0 00214361
+stengods n 1 0 1 0 00161387
+bomb n 1 1 ~ 1 0 00039663
+växtlighet n 2 4 ~ @ ;c #m 2 0 00020487 00244078
+periferi n 1 0 1 0 00116728
+vanära n 1 0 1 0 00008765
+haka n 1 2 @ #p 1 0 00225026
+skohorn n 1 0 1 0 00090056
+rättighet n 2 2 @ ;c 2 0 00067719 00236421
+undersökning n 1 0 1 0 00211166
+klöver n 1 0 1 0 00216773
+förläggning n 1 0 1 0 00144870
+populism n 1 1 @ 1 0 00075433
+hydda n 1 0 1 0 00057576
+erosion n 1 0 1 0 00178441
+reproduktion n 1 1 @ 1 0 00179317
+förgätmigej n 1 1 @ 1 0 00040650
+menstruation n 1 0 1 0 00149915
+ögonbryn n 1 2 @ #p 1 0 00026927
+hertig n 2 0 2 0 00118753 00250118
+kök n 2 2 @ #p 2 0 00013358 00214026
+snäcka n 1 0 1 0 00052329
+etikett n 1 0 1 0 00078419
+handel n 2 5 ~ @ = %p -c 2 0 00163706 00180651
+vävstol n 1 0 1 0 00069170
+gerilla n 1 1 @ 1 0 00071790
+inspiration n 1 0 1 0 00240221
+eko n 1 0 1 0 00034040
+föl n 1 1 #m 1 0 00225695
+slagfält n 1 1 %p 1 0 00085902
+energi n 1 1 @ 1 0 00119158
+litteratur n 1 0 1 0 00055329
+fjäll n 1 0 1 0 00075397
+tunnbröd n 1 1 @ 1 0 00120405
+bag n 1 0 1 0 00089105
+potatis n 2 3 ~ #p %p 2 0 00092560 00230741
+bulletin n 1 1 @ 1 0 00020282
+alternativ n 1 1 ~ 1 0 00114156
+förebild n 2 2 ~ @ 2 0 00202714 00243595
+kåseri n 1 0 1 0 00135352
+liv n 1 0 1 0 00077527
+girigbuk n 1 0 1 0 00126105
+smärting n 1 2 ~ @ 1 0 00139746
+sko n 2 1 ~ 2 0 00079232 00222480
+välsignelse n 1 2 ~ @ 1 0 00215703
+metodologi n 1 1 @ 1 0 00132563
+styvfar n 1 0 1 0 00043400
+pappskalle n 1 0 1 0 00091341
+trafik n 1 1 @ 1 0 00234979
+tält n 2 0 2 0 00080670 00169230
+plan n 2 2 ~ #p 2 0 00010847 00143956
+ravin n 1 1 @ 1 0 00168917
+spenat n 2 3 @ #p %p 2 0 00006970 00197282
+lik n 1 1 @ 1 0 00092962
+nunna n 1 0 1 0 00212184
+springa n 1 0 1 0 00002083
+avdelning n 1 1 #m 1 0 00080800
+bröllop n 1 1 @ 1 0 00166346
+exempel n 1 1 ~ 1 0 00228079
+företag n 1 3 ~ @ -c 1 0 00106413
+terapi n 1 1 ~ 1 0 00239908
+rot n 1 2 ~ %p 1 0 00222032
+skog n 1 1 @ 1 0 00107837
+belöning n 2 2 ~ @ 2 0 00063032 00141515
+ordination n 1 0 1 0 00238767
+sjukhus n 1 2 ~ %p 1 0 00114238
+myra n 1 0 1 0 00016552
+dyna n 1 2 ~ @ 1 0 00022730
+förort n 1 1 @ 1 0 00150781
+mischmasch n 1 0 1 0 00043034
+kapsyl n 1 0 1 0 00198446
+smitare n 1 1 @ 1 0 00066273
+välvilja n 1 0 1 0 00067680
+paj n 1 0 1 0 00107393
+redundans n 1 0 1 0 00113187
+styre n 3 1 @ 3 0 00029816 00187821 00218227
+häll n 1 1 ~ 1 0 00247587
+paranoia n 1 1 @ 1 0 00221413
+skattebetalare n 1 0 1 0 00229249
+vapen n 2 3 ~ @ %p 2 0 00210040 00223604
+varsel n 1 1 ~ 1 0 00248330
+smärta n 2 0 2 0 00064178 00108658
+ordbok n 1 0 1 0 00036039
+cyklist n 1 0 1 0 00029155
+fest n 1 1 ~ 1 0 00084131
+protein n 1 2 ~ #s 1 0 00150084
+ansvar n 2 1 ~ 2 0 00030653 00069282
+textil n 1 1 ~ 1 0 00058699
+minnesmärke n 3 1 @ 3 0 00053496 00224691 00224822
+sammankomst n 1 1 ~ 1 0 00024225
+man n 1 3 ! ~ @ 1 0 00115542
+båtsman n 1 1 @ 1 0 00152828
+standard n 1 1 @ 1 0 00059138
+skolk n 1 0 1 0 00146281
+bekant n 1 0 1 0 00119814
+slump n 1 1 @ 1 0 00175674
+dop n 1 1 @ 1 0 00230657
+kongressman n 1 0 1 0 00024668
+fördel n 2 1 @ 2 0 00071538 00076794
+begrepp n 2 2 ~ @ 2 0 00041568 00172253
+vax n 1 0 1 0 00101102
+feminist n 1 0 1 0 00151359
+bågfil n 1 0 1 0 00114558
+examen n 1 0 1 0 00078072
+historia n 3 5 ~ @ ;c %p -c 3 0 00007025 00068704 00073159
+rörelse n 2 1 ~ 2 0 00135455 00198086
+fullmakt n 1 2 ~ ;c 1 0 00061776
+vinge n 2 2 @ #p 2 0 00137689 00217582
+beröring n 1 0 1 0 00219654
+bulle n 1 2 ~ @ 1 0 00014742
+radium n 1 1 @ 1 0 00115291
+sekretariat n 1 0 1 0 00185067
+presidentskap n 1 0 1 0 00159726
+efterrätt n 1 1 ~ 1 0 00009791
+krux n 1 0 1 0 00232414
+applåd n 1 0 1 0 00119600
+antologi n 1 0 1 0 00141194
+inflation n 1 0 1 0 00155568
+projektion n 2 0 2 0 00161997 00240373
+kuvös n 1 2 @ %p 1 0 00053681
+patient n 1 0 1 0 00031454
+gryning n 1 1 @ 1 0 00147454
+hastighet n 1 0 1 0 00005352
+miljö n 2 1 ~ 2 0 00048318 00213383
+kap n 1 1 @ 1 0 00235249
+dialekt n 1 0 1 0 00208983
+nyckel n 1 0 1 0 00208614
+bildning n 2 1 ~ 2 0 00082688 00120933
+rodnad n 1 0 1 0 00112565
+skämt n 1 0 1 0 00139196
+ämne n 3 1 ~ 3 0 00026404 00177859 00248223
+mod n 1 3 ! ~ = 1 0 00031774
+formulering n 1 0 1 0 00138744
+drivhus n 1 1 @ 1 0 00118381
+jänta n 1 0 1 0 00200283
+butik n 1 2 ~ @ 1 0 00202253
+räls n 1 2 @ #p 1 0 00029261
+snurra n 1 1 @ 1 0 00069875
+kant n 2 3 ~ @ #p 2 0 00099604 00224468
+utbildning n 1 1 ~ 1 0 00189229
+handikapp n 1 0 1 0 00031401
+manus n 1 0 1 0 00023326
+diagnos n 1 0 1 0 00174794
+dagstidning n 1 1 @ 1 0 00100039
+ljus n 2 1 ~ 2 0 00024616 00169511
+leksak n 1 1 ~ 1 0 00038219
+jämvikt n 2 2 ~ @ 2 0 00026057 00141304
+bidrag n 2 1 ~ 2 0 00032096 00237973
+land n 4 2 ~ %p 4 0 00006347 00075489 00078627 00102828
+uggla n 1 0 1 0 00103127
+biennal n 1 1 @ 1 0 00002298
+pålägg n 1 1 ~ 1 0 00086295
+transfer n 1 1 ~ 1 0 00178837
+trängsel n 1 1 @ 1 0 00161582
+tillgång n 4 1 ~ 4 0 00033639 00043495 00145020 00173159
+utställning n 2 2 @ ;c 2 0 00014926 00214097
+bisittare n 1 0 1 0 00139232
+mossa n 1 0 1 0 00179488
+termometer n 1 0 1 0 00000499
+hund n 1 2 ~ #m 1 0 00200177
+ek n 2 3 @ #s %s 2 0 00025737 00162473
+zenit n 1 0 1 0 00181746
+barnvakt n 1 0 1 0 00220312
+spröjs n 1 0 1 0 00116016
+villkor n 1 2 ~ @ 1 0 00132267
+montage n 1 1 @ 1 0 00251214
+imperialist n 1 0 1 0 00233862
+walkie-talkie n 1 0 1 0 00141958
+öster n 2 0 2 0 00027469 00152249
+regatta n 1 0 1 0 00163174
+körtel n 1 1 @ 1 0 00088615
+praxis n 1 1 ~ 1 0 00059963
+profil n 1 0 1 0 00163976
+århundrade n 1 2 @ %p 1 0 00007914
+galleri n 1 1 @ 1 0 00181493
+gåva n 2 2 ~ @ 2 0 00100964 00241752
+spole n 1 0 1 0 00229993
+barnvagn n 1 0 1 0 00153494
+abc-bok n 1 1 @ 1 0 00210403
+korståg n 1 0 1 0 00248258
+publik n 1 0 1 0 00076120
+tarmvred n 1 0 1 0 00092236
+hjort n 1 0 1 0 00133629
+val n 3 2 ~ -c 3 0 00082049 00109176 00114156
+vita n 1 1 #p 1 0 00029369
+arbetsbänk n 1 0 1 0 00194280
+majs n 1 1 @ 1 0 00117656
+hjälm n 2 0 2 0 00034632 00055658
+sektor n 1 1 @ 1 0 00097731
+apport n 1 0 1 0 00204645
+inventarier n 1 0 1 0 00116834
+kyckling n 1 1 ~ 1 0 00247999
+tillägg n 2 2 ~ @ 2 0 00089171 00096264
+utlämning n 1 0 1 0 00238508
+amulett n 2 2 ~ @ 2 0 00013132 00091159
+syster n 1 2 ! ~ 1 0 00075688
+tampong n 1 0 1 0 00125073
+schakt n 2 1 #p 2 0 00115042 00144100
+glädje n 2 1 @ 2 0 00102217 00195706
+stuga n 2 1 @ 2 0 00154099 00168121
+blick n 1 0 1 0 00080765
+olycka n 2 2 ~ @ 2 0 00065137 00082383
+batik n 1 1 @ 1 0 00100841
+resa n 1 0 1 0 00054050
+oro n 1 0 1 0 00079687
+torpare n 1 0 1 0 00024709
+hjälpreda n 1 2 ~ @ 1 0 00146907
+skottkärra n 1 1 @ 1 0 00091835
+kryss n 1 0 1 0 00016290
+nöd n 1 0 1 0 00128421
+integritet n 2 1 = 2 0 00011598 00107426
+vaktmästare n 1 1 @ 1 0 00235577
+delegat n 1 1 @ 1 0 00055369
+saga n 1 0 1 0 00221187
+fördröjning n 1 1 ~ 1 0 00021400
+fyrkant n 1 2 @ ;c 1 0 00066164
+skur n 2 1 @ 2 0 00043823 00074193
+dusch n 2 2 #p %p 2 0 00109669 00122490
+förlovning n 1 1 @ 1 0 00076831
+hjälp n 1 1 ~ 1 0 00086518
+hetta n 1 0 1 0 00117708
+teleprinter n 1 0 1 0 00109723
+orolighet n 2 0 2 0 00014220 00251396
+sågspån n 1 1 @ 1 0 00055961
+diesel n 1 0 1 0 00218098
+eldstad n 1 0 1 0 00076438
+fråga n 2 1 ! 2 0 00001370 00198752
+fett n 1 0 1 0 00089281
+kluster n 1 1 ~ 1 0 00229504
+vänster n 1 1 ! 1 0 00022487
+brev n 1 4 ~ @ #p %p 1 0 00015860
+vävnad n 1 0 1 0 00174288
+vokalist n 1 1 ~ 1 0 00051253
+pennkniv n 1 0 1 0 00025344
+väktare n 1 2 ~ @ 1 0 00010603
+lägenhet n 1 2 ~ @ 1 0 00241641
+bidé n 1 0 1 0 00084201
+skägg n 1 2 #p %p 1 0 00232667
+lift n 1 0 1 0 00158497
+välbefinnande n 1 1 ~ 1 0 00141119
+infarkt n 1 0 1 0 00243850
+beteende n 1 1 ~ 1 0 00145655
+sjö n 1 1 ~ 1 0 00249807
+utkant n 1 0 1 0 00072000
+flinta n 1 0 1 0 00176740
+syra n 1 1 @ 1 0 00015394
+mjölk n 1 3 ~ @ %s 1 0 00009083
+partner n 1 1 @ 1 0 00033715
+rättstavning n 1 1 ~ 1 0 00133000
+vindruta n 1 2 @ #p 1 0 00094729
+prestation n 2 0 2 0 00001655 00076156
+kok n 1 0 1 0 00174870
+motgift n 1 1 @ 1 0 00187578
+glosa n 1 1 @ 1 0 00008051
+opinion n 1 1 @ 1 0 00140860
+batong n 1 1 @ 1 0 00116210
+massage n 1 0 1 0 00092199
+mage n 2 2 #p %p 2 0 00014968 00130853
+gods n 1 1 ~ 1 0 00250154
+bön n 1 0 1 0 00165904
+krav n 2 2 ~ @ 2 0 00026370 00100894
+hangar n 1 2 @ #p 1 0 00019557
+liknelse n 1 0 1 0 00241054
+mikrofon n 1 0 1 0 00099765
+fängsel n 1 0 1 0 00133850
+overall n 2 0 2 0 00180302 00209941
+noshörning n 1 0 1 0 00088935
+armatur n 1 0 1 0 00091214
+bredd n 1 2 @ = 1 0 00166103
+kunskap n 1 1 ~ 1 0 00134858
+konfrontation n 1 0 1 0 00166572
+garage n 2 0 2 0 00136013 00158302
+råskinn n 1 0 1 0 00063489
+grace n 1 0 1 0 00189321
+lyktstolpe n 1 1 #p 1 0 00165492
+deltagare n 1 1 ~ 1 0 00197447
+skatteåterbäring n 1 0 1 0 00130773
+amfetamin n 1 0 1 0 00212771
+pianist n 1 0 1 0 00023724
+invandring n 1 1 @ 1 0 00000539
+farmor n 1 0 1 0 00123052
+mejeri n 1 1 @ 1 0 00133664
+vind n 2 4 ~ @ #p %s 2 0 00090900 00147162
+månad n 2 2 @ %p 2 0 00009293 00245599
+sejour n 1 0 1 0 00187028
+hällristning n 1 0 1 0 00058618
+logaritm n 1 0 1 0 00148001
+försörjning n 1 0 1 0 00253346
+simulator n 1 2 ~ @ 1 0 00133888
+flygvapen n 1 1 @ 1 0 00146666
+lutfisk n 1 1 @ 1 0 00053538
+korrigering n 1 1 ~ 1 0 00228932
+instinkt n 1 0 1 0 00006582
+klippa n 1 0 1 0 00145923
+rotvälska n 1 2 ~ @ 1 0 00202581
+regel n 3 2 ~ @ 3 0 00052664 00142786 00161059
+stuckatur n 1 0 1 0 00063535
+apparat n 1 2 ~ @ 1 0 00242336
+soldat n 1 0 1 0 00075361
+kvot n 1 1 @ 1 0 00069667
+playboy n 1 0 1 0 00050603
+möjlighet n 2 1 @ 2 0 00051928 00147233
+tå n 1 1 #p 1 0 00252127
+prov n 3 2 ~ @ 3 0 00146723 00205770 00207528
+släkting n 2 4 ~ @ #m %m 2 0 00197078 00214176
+skylt n 1 1 @ 1 0 00188071
+frilans n 1 1 @ 1 0 00220999
+kalkon n 1 0 1 0 00189395
+brådska n 1 0 1 0 00168030
+auktion n 2 2 @ -c 2 0 00014852 00090681
+sjal n 1 0 1 0 00131124
+tuva n 1 1 @ 1 0 00139821
+vrå n 1 0 1 0 00127515
+kommunikation n 1 1 ~ 1 0 00107020
+tidsålder n 1 3 ~ @ #p 1 0 00003292
+funktion n 2 1 ;c 2 0 00108057 00141554
+stadium n 1 1 @ 1 0 00225837
+upptäckt n 1 1 @ 1 0 00151107
+restaurering n 1 1 @ 1 0 00238448
+kompress n 1 1 @ 1 0 00206110
+klarsignal n 1 0 1 0 00171670
+kadaver n 1 1 @ 1 0 00092962
+sommar n 2 1 @ 2 0 00078006 00175136
+surpuppa n 1 0 1 0 00063925
+onani n 1 0 1 0 00042545
+katarr n 1 0 1 0 00177735
+urin n 1 0 1 0 00093243
+samlevnad n 1 0 1 0 00229900
+räcke n 1 1 #p 1 0 00037736
+harmoni n 2 1 @ 2 0 00153323 00163137
+fotogen n 1 1 @ 1 0 00007670
+accepterande n 1 1 @ 1 0 00220420
+lyxvilla n 1 0 1 0 00068174
+glänta n 1 0 1 0 00247698
+näsa n 1 2 #p %p 1 0 00242463
+avkomma n 2 2 ~ @ 2 0 00147019 00212568
+luft n 1 2 #s %s 1 0 00159860
+efterforskning n 1 1 @ 1 0 00036688
+son n 1 1 ! 1 0 00049553
+filosof n 2 2 @ ;c 2 0 00116971 00185182
+ögonkast n 1 0 1 0 00004142
+frimärke n 1 1 @ 1 0 00042451
+snöre n 2 1 @ 2 0 00126410 00196155
+svärmor n 1 1 @ 1 0 00195009
+programmerare n 1 2 @ ;c 1 0 00069534
+flykting n 1 0 1 0 00182485
+kontrabas n 1 0 1 0 00179933
+modul n 1 1 @ 1 0 00060695
+tum n 2 1 #p 2 0 00127193 00223571
+jordgubbe n 1 1 @ 1 0 00045908
+målvakt n 1 0 1 0 00141832
+rörelsemängd n 1 0 1 0 00213303
+hyresgäst n 1 1 ~ 1 0 00071480
+pengar n 1 1 @ 1 0 00114368
+hypnos n 1 0 1 0 00006036
+passersedel n 1 1 @ 1 0 00132658
+missuppfattning n 1 0 1 0 00158452
+karneval n 1 0 1 0 00169363
+förmånstagare n 1 1 ~ 1 0 00177583
+spurt n 1 0 1 0 00056254
+nagel n 1 0 1 0 00094130
+regn n 1 1 ~ 1 0 00019072
+återupplivande n 1 0 1 0 00140683
+vår n 1 1 @ 1 0 00085203
+tyfus n 1 0 1 0 00064106
+grovkök n 1 1 @ 1 0 00205307
+klarinett n 1 0 1 0 00093277
+boskap n 2 4 ~ #m %p %m 2 0 00048156 00218698
+styresman n 1 1 #m 1 0 00196360
+grundval n 1 0 1 0 00195390
+brosch n 1 0 1 0 00101320
+radio n 2 2 #p %p 2 0 00106359 00184298
+fusk n 1 0 1 0 00207274
+anknytning n 2 1 @ 2 0 00150598 00221147
+smog n 1 0 1 0 00062581
+elfenben n 2 0 2 0 00030258 00244040
+raffinaderi n 1 1 @ 1 0 00046101
+ilska n 2 2 ~ @ 2 0 00214882 00245192
+tron n 1 0 1 0 00211802
+bråkdel n 1 0 1 0 00231429
+akne n 1 0 1 0 00137818
+hektar n 1 0 1 0 00151164
+albino n 1 0 1 0 00020751
+ärm n 1 1 #p 1 0 00210112
+plikt n 1 1 ~ 1 0 00082205
+alkoholist n 1 1 @ 1 0 00120690
+folk n 3 3 ~ @ %m 3 0 00013824 00162187 00249078
+juridik n 1 2 @ -c 1 0 00066475
+klimat n 1 0 1 0 00247735
+lok n 1 1 #m 1 0 00111463
+brevbärare n 1 0 1 0 00206311
+scen n 4 2 @ #p 4 0 00035846 00087481 00153141 00187119
+hederlighet n 1 0 1 0 00136110
+glasbruk n 1 1 @ 1 0 00117743
+symbol n 2 2 ~ @ 2 0 00062834 00107135
+gräns n 1 1 @ 1 0 00217065
+tak n 3 2 ~ #p 3 0 00040920 00099968 00225968
+soffa n 1 1 @ 1 0 00027784
+bryggare n 1 0 1 0 00163632
+prestige n 1 0 1 0 00245338
+ozon n 1 1 %s 1 0 00018312
+teleskop n 1 0 1 0 00124433
+solsken n 2 1 @ 2 0 00045770 00242033
+motor n 1 0 1 0 00017619
+listig n 1 0 1 0 00253389
+kompott n 1 1 @ 1 0 00222716
+drift n 2 1 @ 2 0 00035114 00098230
+byråkrati n 1 1 @ 1 0 00161464
+trumvirvel n 1 0 1 0 00198311
+anka n 1 0 1 0 00029032
+öra n 1 1 #p 1 0 00160880
+sadism n 1 0 1 0 00077930
+kandidat n 1 1 @ 1 0 00005630
+järnvägsknut n 1 2 ~ @ 1 0 00070301
+rebus n 1 1 @ 1 0 00023069
+psykiatri n 1 1 -c 1 0 00248165
+tragedi n 1 1 ! 1 0 00050240
+turism n 1 1 @ 1 0 00091689
+watt n 1 1 #p 1 0 00016454
+påhopp n 1 1 @ 1 0 00184572
+kamp n 1 0 1 0 00030349
+harang n 1 0 1 0 00075760
+bibliofil n 1 1 @ 1 0 00112454
+assimilation n 1 0 1 0 00238150
+brorson n 1 0 1 0 00190641
+mjöl n 1 2 ~ #s 1 0 00232741
+blekansikte n 1 0 1 0 00078960
+uppehåll n 2 0 2 0 00015355 00202986
+avsmak n 1 0 1 0 00212532
+bräde n 1 0 1 0 00174325
+know-how n 1 1 ~ 1 0 00211494
+tandvärk n 1 0 1 0 00078510
+pumpa n 2 3 @ #p %p 2 0 00055476 00186974
+kongress n 1 1 @ 1 0 00079176
+solist n 1 0 1 0 00150925
+osanning n 1 2 ! ~ 1 0 00138179
+tävling n 1 1 ~ 1 0 00138652
+komedi n 1 1 ! 1 0 00196063
+utlägg n 1 1 ! 1 0 00086824
+erfarenhet n 1 1 @ 1 0 00078661
+talg n 1 0 1 0 00162657
+utskick n 1 1 @ 1 0 00054122
+kirurg n 1 1 @ 1 0 00144707
+genomkörare n 1 0 1 0 00229814
+röntgen n 1 0 1 0 00020787
+inbyte n 1 1 @ 1 0 00091635
+grind n 1 1 %p 1 0 00176469
+kilometer n 1 0 1 0 00173529
+dunge n 1 1 @ 1 0 00143903
+penicillin n 1 0 1 0 00092274
+myt n 1 0 1 0 00161639
+gnissel n 1 1 @ 1 0 00091526
+förlust n 3 2 ~ @ 3 0 00152719 00197040 00215851
+sekret n 2 1 ~ 2 0 00186300 00196767
+nod n 1 0 1 0 00142875
+ingång n 1 1 ~ 1 0 00031661
+skiljeman n 1 0 1 0 00060135
+valuta n 1 1 ~ 1 0 00153811
+trubadur n 1 1 @ 1 0 00190981
+skrå n 1 1 @ 1 0 00033359
+horn n 1 2 #p %s 1 0 00137852
+symmetri n 1 1 ;c 1 0 00138271
+lag n 2 2 ~ @ 2 0 00123424 00135169
+korn n 1 1 @ 1 0 00236146
+lax n 1 0 1 0 00029906
+koppar n 1 1 @ 1 0 00003843
+distans n 1 0 1 0 00176523
+tillmötesgående n 1 0 1 0 00052699
+aveny n 1 0 1 0 00204681
+juver n 1 1 #p 1 0 00016835
+kiosk n 1 0 1 0 00037171
+kemi n 1 1 -c 1 0 00129207
+industri n 1 2 @ -c 1 0 00166028
+ohm n 1 0 1 0 00222447
+däck n 2 1 @ 2 0 00125795 00146537
+leverantör n 1 0 1 0 00206566
+väckning n 1 0 1 0 00021733
+spaljé n 1 0 1 0 00014259
+sociologi n 1 0 1 0 00065884
+kannibal n 1 0 1 0 00229348
+materia n 1 1 ~ 1 0 00230281
+rykte n 1 1 @ 1 0 00071593
+deklaration n 1 1 ~ 1 0 00076890
+knuff n 1 0 1 0 00212446
+prototyp n 1 0 1 0 00124323
+mask n 3 0 3 0 00043753 00075579 00231742
+livvakt n 1 1 @ 1 0 00184627
+lån n 2 1 @ 2 0 00133061 00246081
+ekvation n 1 1 ;c 1 0 00070964
+sten n 1 1 ~ 1 0 00169911
+grodman n 1 0 1 0 00124471
+luftbro n 1 1 @ 1 0 00227448
+universalmedel n 1 1 @ 1 0 00052477
+plagg n 1 2 ~ %p 1 0 00111172
+födelsemärke n 1 0 1 0 00195890
+film n 2 1 ;c 2 0 00011127 00092856
+referens n 1 1 @ 1 0 00166516
+kylskåp n 2 2 ~ @ 2 0 00093187 00145228
+svett n 1 2 @ %s 1 0 00224249
+jobbarkompis n 1 1 @ 1 0 00172049
+jord n 1 1 ~ 1 0 00039414
+aktion n 1 1 ~ 1 0 00112117
+stöld n 1 1 ~ 1 0 00022889
+ägare n 1 2 @ ;c 1 0 00108187
+kammare n 1 1 @ 1 0 00047389
+tenta n 1 1 ~ 1 0 00207528
+hjärnhalva n 1 0 1 0 00019630
+biografi n 1 2 ~ @ 1 0 00242590
+epilepsi n 1 0 1 0 00215044
+visum n 1 1 #p 1 0 00197650
+video n 1 1 @ 1 0 00228991
+efterfrågan n 1 1 ~ 1 0 00022103
+brottslighet n 1 1 @ 1 0 00054745
+avsked n 2 1 @ 2 0 00141870 00236198
+mördare n 1 1 @ 1 0 00242736
+area n 1 0 1 0 00251180
+död n 1 1 @ 1 0 00017826
+dossier n 1 0 1 0 00069133
+häst n 2 3 ~ %p %m 2 0 00096618 00198788
+klot n 1 0 1 0 00241496
+lantmäteri n 1 0 1 0 00236252
+nerdragning n 1 1 @ 1 0 00208293
+jakt n 2 1 @ 2 0 00011958 00084378
+aning n 1 2 ~ @ 1 0 00164202
+förebud n 1 1 @ 1 0 00049423
+uppmärksamhet n 1 1 ~ 1 0 00194828
+svävare n 1 0 1 0 00013732
+megafon n 1 0 1 0 00006933
+helgdag n 1 0 1 0 00155759
+reptil n 1 0 1 0 00151610
+godbit n 1 0 1 0 00053460
+underskott n 1 1 @ 1 0 00200746
+lantgård n 1 2 ~ @ 1 0 00126763
+inkomst n 2 1 ! 2 0 00133113 00213174
+adrenalin n 1 1 @ 1 0 00193986
+inkörsport n 1 1 @ 1 0 00135040
+värde n 3 0 3 0 00012172 00199801 00244650
+bukt n 1 0 1 0 00165608
+strimma n 1 0 1 0 00221819
+värdighet n 1 0 1 0 00047274
+klave n 1 2 ! #p 1 0 00126143
+ånga n 1 0 1 0 00026244
+urklipp n 1 1 @ 1 0 00055906
+gudstjänst n 1 0 1 0 00222549
+astronaut n 1 0 1 0 00204144
+förälder n 2 2 ! ~ 2 0 00016215 00138523
+fallgrop n 1 1 @ 1 0 00181268
+plantskola n 2 2 ~ @ 2 0 00123710 00232977
+förfader n 1 1 @ 1 0 00166651
+reaktor n 2 2 @ ;c 2 0 00033678 00117548
+ynkrygg n 1 1 @ 1 0 00113356
+attraktion n 3 2 ~ @ 3 0 00096206 00102917 00233053
+segel n 1 0 1 0 00090718
+illusion n 1 0 1 0 00121518
+fan n 1 0 1 0 00001858
+sömntuta n 1 1 @ 1 0 00106146
+bojkott n 1 1 @ 1 0 00123493
+polyglott n 1 1 @ 1 0 00212659
+palats n 1 0 1 0 00148926
+hast n 1 0 1 0 00022979
+borgen n 2 1 ;c 2 0 00177217 00252393
+stuprör n 1 1 ~ 1 0 00235809
+tablå n 1 1 ~ 1 0 00208787
+visitkort n 1 1 @ 1 0 00004807
+laboratorium n 2 1 @ 2 0 00036388 00183573
+gårdsplan n 1 1 #p 1 0 00240490
+aids n 1 0 1 0 00091420
+biskop n 1 0 1 0 00219397
+kruka n 1 0 1 0 00174599
+aska n 1 0 1 0 00206204
+värnplikt n 1 0 1 0 00114518
+avbön n 1 0 1 0 00103217
+kåsör n 1 0 1 0 00055621
+senator n 1 0 1 0 00184084
+våldtäkt n 1 0 1 0 00098110
+universitet n 1 0 1 0 00149223
+köpman n 1 1 ~ 1 0 00024284
+rådgivare n 1 1 @ 1 0 00127991
+skämtteckning n 1 2 ~ #p 1 0 00234298
+försiktighet n 1 0 1 0 00204854
+arrende n 1 1 @ 1 0 00001424
+honung n 1 0 1 0 00078269
+broder n 1 1 @ 1 0 00130226
+kväll n 1 2 @ %p 1 0 00212056
+influensa n 1 0 1 0 00052119
+söder n 2 0 2 0 00007100 00110281
+överbyggnad n 1 1 @ 1 0 00059850
+kafé n 1 1 @ 1 0 00220758
+slem n 1 1 @ 1 0 00201332
+brosk n 1 0 1 0 00114740
+överblick n 1 1 @ 1 0 00045807
+tidvatten n 1 0 1 0 00106693
+karaktär n 2 0 2 0 00156300 00226062
+krämpa n 1 0 1 0 00030950
+kalender n 1 0 1 0 00240413
+pronomen n 1 0 1 0 00230848
+inkräktare n 1 0 1 0 00145614
+överfall n 1 1 ~ 1 0 00038363
+individualist n 1 2 ~ @ 1 0 00058303
+fantasi n 1 0 1 0 00037791
+sommartid n 1 1 @ 1 0 00078006
+hylla n 1 2 @ #p 1 0 00237333
+sandwich n 1 0 1 0 00133413
+svavel n 1 1 @ 1 0 00190535
+syndabock n 1 1 @ 1 0 00077002
+koppling n 1 0 1 0 00137980
+fyndighet n 1 1 @ 1 0 00093062
+skrivare n 1 1 ;c 1 0 00013562
+hyresvärd n 1 1 @ 1 0 00119677
+rasist n 1 0 1 0 00236949
+faktum n 1 1 @ 1 0 00212219
+diarré n 1 2 @ #p 1 0 00134168
+löv n 1 1 ~ 1 0 00062476
+mängd n 1 0 1 0 00201150
+nu n 1 1 @ 1 0 00128664
+terminal n 1 0 1 0 00185144
+betänklighet n 1 0 1 0 00207773
+upptagenhet n 1 1 @ 1 0 00031562
+park n 1 0 1 0 00119929
+plankton n 1 0 1 0 00057665
+parentes n 1 0 1 0 00249598
+blod n 1 1 %s 1 0 00009363
+längd n 2 2 ~ = 2 0 00001768 00053827
+register n 2 0 2 0 00103583 00178316
+kött n 2 2 ~ %s 2 0 00014390 00153696
+natrium n 1 1 @ 1 0 00199922
+marknadsföring n 2 2 @ %p 2 0 00095720 00230028
+pipa n 1 1 #p 1 0 00165439
+plånbok n 1 0 1 0 00107799
+stygn n 1 0 1 0 00087312
+borgenär n 1 2 ! @ 1 0 00153989
+källare n 1 1 @ 1 0 00231776
+maräng n 1 0 1 0 00201648
+diva n 1 0 1 0 00233470
+flygare n 1 1 ~ 1 0 00093722
+bokföring n 1 0 1 0 00068134
+tok n 1 0 1 0 00027328
+whisky n 1 0 1 0 00235944
+hästsko n 1 0 1 0 00224613
+användare n 1 2 ~ @ 1 0 00003969
+öre n 1 1 @ 1 0 00243256
+association n 1 0 1 0 00118495
+skala n 1 1 @ 1 0 00008156
+konstellation n 1 0 1 0 00183277
+varaktighet n 1 2 ~ @ 1 0 00076623
+elakhet n 1 0 1 0 00244613
+löpeld n 1 0 1 0 00027003
+republik n 2 0 2 0 00018486 00125035
+penna n 3 1 %p 3 0 00029066 00182322 00193351
+professor n 1 0 1 0 00020546
+förstaårsstudent n 1 0 1 0 00208211
+utdelning n 1 1 @ 1 0 00181915
+självmord n 2 1 @ 2 0 00003566 00073680
+röstläge n 1 1 @ 1 0 00143434
+ordspråk n 1 1 @ 1 0 00153228
+konduktör n 1 0 1 0 00098190
+körsbär n 1 0 1 0 00142908
+gyttja n 1 1 @ 1 0 00249166
+system n 1 2 ~ %p 1 0 00199710
+sprej n 1 0 1 0 00043074
+utveckling n 1 1 ~ 1 0 00016023
+kristall n 2 0 2 0 00077414 00148888
+kalv n 1 1 #m 1 0 00014689
+pedagog n 1 1 @ 1 0 00039554
+frieri n 1 0 1 0 00165773
+uppryckning n 1 0 1 0 00146108
+kvarter n 1 0 1 0 00149878
+torn n 1 1 @ 1 0 00143794
+bricka n 1 0 1 0 00243123
+vadare n 1 0 1 0 00207985
+teori n 1 2 ~ @ 1 0 00219433
+mygga n 1 0 1 0 00203410
+bosättning n 1 0 1 0 00129374
+bikarbonat n 1 0 1 0 00103621
+pläd n 1 1 @ 1 0 00101763
+fot n 2 2 #p %p 2 0 00051392 00117243
+humla n 1 1 @ 1 0 00178207
+dräng n 1 1 @ 1 0 00070537
+tanke n 1 1 ~ 1 0 00039190
+opposition n 1 1 @ 1 0 00129542
+cappuccino n 1 1 @ 1 0 00101135
+dagbrott n 1 1 %p 1 0 00227741
+transvestit n 1 1 @ 1 0 00194950
+anseende n 2 0 2 0 00003729 00249227
+gäst n 1 1 @ 1 0 00065434
+logik n 1 1 @ 1 0 00103074
+lättnad n 1 1 @ 1 0 00171212
+klåpare n 1 0 1 0 00064364
+böjelse n 1 1 ~ 1 0 00103509
+förhoppning n 1 2 ! ~ 1 0 00216619
+introduktion n 2 1 @ 2 0 00096302 00111623
+sand n 2 3 @ #s %s 2 0 00164847 00218998
+avstånd n 1 1 = 1 0 00177016
+spegelbild n 1 1 @ 1 0 00247640
+dator n 1 5 ~ @ ;c %p -c 1 0 00223274
+sändning n 1 1 @ 1 0 00248438
+skolbänk n 1 1 %p 1 0 00146223
+styrman n 1 1 @ 1 0 00235754
+cellulosa n 1 1 #s 1 0 00014557
+skådespelare n 1 2 ~ @ 1 0 00035622
+infrastruktur n 2 0 2 0 00025901 00170055
+koncession n 1 0 1 0 00199338
+begäran n 1 1 ~ 1 0 00038555
+publikation n 2 2 ~ %p 2 0 00013410 00034910
+kompositör n 1 1 @ 1 0 00233903
+nässla n 1 1 @ 1 0 00100653
+ytter n 1 2 @ ;c 1 0 00219984
+ruelse n 1 1 @ 1 0 00060785
+advokat n 1 3 ~ @ ;c 1 0 00056524
+krona n 2 2 ! #p 2 0 00034597 00145414
+diet n 1 0 1 0 00239377
+tränare n 3 1 @ 3 0 00071182 00235698 00238392
+projekt n 2 2 ~ @ 2 0 00053189 00113560
+mänsklighet n 1 0 1 0 00196021
+ursprung n 1 0 1 0 00118343
+lärling n 1 0 1 0 00191413
+lasso n 1 1 @ 1 0 00149710
+gång n 1 0 1 0 00034005
+egendom n 1 1 @ 1 0 00098512
+läsekrets n 1 0 1 0 00045489
+timme n 2 4 ~ @ #p %p 2 0 00194721 00248933
+karta n 1 1 ~ 1 0 00082258
+prolog n 1 1 @ 1 0 00042921
+pyramid n 2 0 2 0 00112771 00193817
+ljud n 1 1 ~ 1 0 00219304
+insekt n 1 2 ~ %p 1 0 00107261
+räddning n 1 1 @ 1 0 00129600
+jätte n 1 0 1 0 00207202
+vakt n 1 1 ~ 1 0 00024005
+hår n 1 1 ~ 1 0 00136638
+ogräs n 2 2 ~ @ 2 0 00051463 00106092
+slipover n 1 1 @ 1 0 00226383
+förhistoria n 1 1 @ 1 0 00235410
+stad n 2 0 2 0 00191487 00224751
+förorening n 1 0 1 0 00027540
+orm n 1 0 1 0 00196471
+bleck n 1 0 1 0 00046643
+sakrament n 1 1 ~ 1 0 00064251
+nykomling n 2 0 2 0 00116093 00232483
+tassemark n 1 1 @ 1 0 00179690
+parameter n 1 1 @ 1 0 00054211
+djurliv n 1 0 1 0 00086408
+påbud n 1 2 ~ ;c 1 0 00234168
+espresso n 1 1 @ 1 0 00047755
+okunnighet n 1 0 1 0 00130335
+skada n 2 2 ~ @ 2 0 00235069 00239710
+framgång n 1 1 ~ 1 0 00089406
+landsman n 1 0 1 0 00154636
+sjöstjärna n 1 0 1 0 00229559
+utväxt n 1 2 ~ @ 1 0 00065064
+konformism n 1 0 1 0 00196803
+napalm n 1 1 @ 1 0 00158001
+lidande n 1 2 ~ @ 1 0 00062761
+humör n 2 2 ~ @ 2 0 00115665 00241716
+skytt n 1 0 1 0 00117946
+blaj n 1 0 1 0 00085114
+vecka n 1 2 @ #p 1 0 00145542
+märke n 1 0 1 0 00052539
+konsument n 1 2 ~ @ 1 0 00114909
+mor n 1 3 ! ~ @ 1 0 00017183
+gråt n 1 0 1 0 00094038
+bilist n 1 1 @ 1 0 00151449
+explosion n 2 2 ~ @ 2 0 00035789 00196209
+dynasti n 1 1 @ 1 0 00224356
+hemlighet n 2 2 ~ @ 2 0 00009416 00186842
+indexreglering n 1 0 1 0 00027962
+initiativ n 1 0 1 0 00121778
+träning n 1 1 ~ 1 0 00253425
+modell n 4 1 @ 4 0 00075044 00087044 00164148 00205951
+kontakt n 4 1 @ 4 0 00125485 00145726 00170171 00252541
+betalning n 1 1 @ 1 0 00134654
+ringklocka n 1 1 @ 1 0 00168689
+hud n 1 2 ~ %p 1 0 00121617
+valkrets n 1 1 #m 1 0 00203559
+aggression n 1 1 ~ 1 0 00070132
+brigad n 1 0 1 0 00206912
+lungsäck n 1 0 1 0 00091381
+börd n 2 2 ~ @ 2 0 00031276 00209685
+räd n 1 0 1 0 00094004
+lösenord n 1 1 @ 1 0 00112896
+pizzeria n 1 1 @ 1 0 00057143
+fält n 1 1 ~ 1 0 00082617
+klinik n 1 0 1 0 00253552
+självaktning n 1 0 1 0 00047274
+helvete n 1 1 ;c 1 0 00119359
+sistaårsstudent n 1 0 1 0 00169865
+tandprotes n 1 0 1 0 00011253
+slöseri n 1 0 1 0 00156917
+anis n 1 0 1 0 00195600
+motorcykel n 1 0 1 0 00116875
+hållning n 2 2 ~ @ 2 0 00018977 00147291
+axel n 2 3 @ #p %p 2 0 00084933 00155670
+diamant n 1 1 @ 1 0 00166819
+klorofyll n 1 0 1 0 00007336
+staty n 1 1 @ 1 0 00232361
+kokong n 1 0 1 0 00166615
+blomma n 1 1 ~ 1 0 00041666
+svan n 1 0 1 0 00252429
+flyg n 2 0 2 0 00006620 00127159
+trilogi n 1 0 1 0 00038182
+pålle n 1 1 @ 1 0 00069480
+semikolon n 1 0 1 0 00131015
+truck n 2 2 ~ @ 2 0 00099803 00183165
+pir n 1 2 @ #p 1 0 00023542
+marmelad n 1 0 1 0 00151754
+strumpbyxor n 1 0 1 0 00012995
+attack n 1 2 ~ @ 1 0 00242664
+slägga n 1 1 @ 1 0 00029607
+säl n 1 0 1 0 00169605
+sensitivitet n 1 1 = 1 0 00080705
+dilemma n 1 0 1 0 00105252
+likör n 1 1 @ 1 0 00191037
+insikt n 2 1 ~ 2 0 00053791 00172618
+gevär n 1 0 1 0 00124562
+bringa n 1 0 1 0 00058214
+framsteg n 1 0 1 0 00180946
+vattenfall n 1 1 #p 1 0 00220811
+slusk n 1 0 1 0 00063489
+nutid n 1 1 ~ 1 0 00172109
+reporter n 1 0 1 0 00181972
+banan n 2 1 @ 2 0 00183673 00233269
+tegel n 2 1 %s 2 0 00130925 00232448
+sorl n 1 1 @ 1 0 00151934
+tjuv n 1 2 ~ @ 1 0 00099327
+rättstvist n 1 1 ;c 1 0 00211268
+stil n 2 0 2 0 00119089 00238083
+graf n 1 1 %p 1 0 00205661
+svar n 1 1 ! 1 0 00077840
+moral n 2 1 @ 2 0 00191743 00219931
+kommission n 1 1 @ 1 0 00095426
+förtröstan n 1 1 = 1 0 00050295
+stöt n 1 0 1 0 00240602
+halvbror n 1 1 @ 1 0 00072549
+snut n 1 1 @ 1 0 00163051
+parabolantenn n 1 1 #p 1 0 00188785
+minskning n 1 1 ~ 1 0 00194458
+särdrag n 1 1 #p 1 0 00192682
+krycka n 1 0 1 0 00015534
+avslutning n 2 2 ~ #p 2 0 00112640 00167235
+padda n 1 0 1 0 00009901
+bil n 1 3 ~ %p -c 1 0 00246562
+funktionär n 1 1 ~ 1 0 00107668
+patrull n 1 0 1 0 00086699
+maximum n 1 1 ! 1 0 00159180
+uttryck n 1 1 ~ 1 0 00108114
+trovärdighet n 1 1 = 1 0 00063107
+flytt n 1 0 1 0 00129062
+överväldigande n 1 1 @ 1 0 00158969
+psykopat n 1 0 1 0 00134130
+besättning n 1 0 1 0 00214782
+antikropp n 1 1 @ 1 0 00237916
+röra n 1 0 1 0 00220200
+lager n 3 1 @ 3 0 00004599 00101356 00140262
+fax n 1 0 1 0 00086626
+gnabb n 1 1 @ 1 0 00154152
+kjol n 1 1 @ 1 0 00200088
+bränsle n 1 1 ~ 1 0 00238009
+armé n 1 1 @ 1 0 00200375
+check n 1 0 1 0 00197143
+belåning n 1 0 1 0 00188367
+reserv n 1 0 1 0 00154961
+expropriation n 1 0 1 0 00011518
+college n 1 0 1 0 00099290
+midja n 1 1 #p 1 0 00060641
+sugrör n 1 0 1 0 00066328
+nyans n 1 1 @ 1 0 00250596
+frestelse n 1 0 1 0 00054970
+konferencier n 1 0 1 0 00032015
+blodhund n 1 0 1 0 00194321
+talesman n 1 2 ~ @ 1 0 00129717
+hobby n 1 1 @ 1 0 00044019
+kedja n 2 2 #p ;c 2 0 00134564 00205131
+påsklilja n 1 1 @ 1 0 00125591
+massa n 1 1 ~ 1 0 00147366
+diskriminering n 1 1 ~ 1 0 00097292
+apostel n 1 0 1 0 00074340
+harv n 1 0 1 0 00083093
+mineral n 1 1 @ 1 0 00150319
+färdighet n 1 1 ~ 1 0 00165697
+reform n 1 0 1 0 00222203
+frakt n 1 1 @ 1 0 00245086
+övergångsställe n 1 0 1 0 00115345
+zon n 1 1 @ 1 0 00221674
+anhalt n 1 1 @ 1 0 00028324
+radar n 1 1 %p 1 0 00101193
+ånger n 1 1 ~ 1 0 00236018
+dröm n 2 2 ~ @ 2 0 00076949 00117477
+överlåtelse n 1 1 ~ 1 0 00077164
+stämning n 2 2 ~ @ 2 0 00224411 00224520
+lie n 1 0 1 0 00154526
+marmor n 3 1 @ 3 0 00056218 00086113 00248384
+vedbod n 1 0 1 0 00237880
+kvickhet n 1 1 @ 1 0 00169401
+demagog n 1 1 @ 1 0 00130171
+hårnål n 1 0 1 0 00182250
+växellåda n 1 1 #p 1 0 00120835
+band n 4 1 #p 4 0 00009329 00067909 00088581 00176706
+upprättelse n 1 0 1 0 00154317
+granskare n 1 0 1 0 00031861
+pekfinger n 1 1 @ 1 0 00143846
+vitrinskåp n 1 0 1 0 00218844
+överman n 1 0 1 0 00246225
+dagslända n 1 0 1 0 00031621
+fotokopia n 1 1 @ 1 0 00048845
+sabbatsår n 1 1 @ 1 0 00198351
+ädelsten n 1 0 1 0 00230147
+lucka n 1 0 1 0 00032332
+dubbelgångare n 2 1 @ 2 0 00033028 00128768
+töcken n 1 0 1 0 00080633
+bryne n 1 0 1 0 00123222
+vågspel n 1 1 @ 1 0 00134748
+skiss n 1 1 @ 1 0 00121222
+missil n 1 1 @ 1 0 00176304
+tunga n 1 2 @ #p 1 0 00232576
+nätverk n 2 1 @ 2 0 00022270 00145486
+recession n 1 0 1 0 00023445
+slav n 1 1 @ 1 0 00107931
+otrohet n 1 0 1 0 00051047
+diabetiker n 1 0 1 0 00187171
+njure n 1 0 1 0 00073645
+bud n 1 0 1 0 00063837
+donation n 1 1 ~ 1 0 00051683
+predikstol n 1 1 @ 1 0 00020411
+geometri n 1 2 ;c -c 1 0 00146590
+störning n 1 0 1 0 00042619
+miljöpartist n 1 0 1 0 00147958
+budget n 2 1 @ 2 0 00196986 00250224
+finger n 1 3 ~ #p %p 1 0 00147700
+farvatten n 1 0 1 0 00193386
+skärp n 1 0 1 0 00151898
+dal n 1 2 ~ @ 1 0 00161894
+flygplan n 2 3 ~ %p -c 2 0 00187211 00239301
+fåtal n 1 1 @ 1 0 00093839
+äng n 1 0 1 0 00011093
+syndikalist n 1 1 @ 1 0 00220350
+järnväg n 2 3 ~ #p %p 2 0 00102254 00114832
+armhåla n 1 1 #p 1 0 00059410
+teknik n 1 0 1 0 00025182
+arrendator n 1 1 @ 1 0 00128273
+avhandling n 1 0 1 0 00207418
+sädesslag n 1 0 1 0 00054581
+fönster n 1 0 1 0 00026206
+lojalitet n 2 2 ~ = 2 0 00093023 00191521
+pommes_frites n 1 1 @ 1 0 00120588
+aspekt n 1 2 ~ @ 1 0 00051142
+behaviorism n 1 0 1 0 00107352
+krokodil n 1 0 1 0 00120895
+tro n 4 3 ~ @ -c 4 0 00099455 00156650 00174937 00180232
+godhet n 1 1 ~ 1 0 00091581
+organ n 1 1 ~ 1 0 00040178
+producent n 2 0 2 0 00020955 00123327
+bröst n 2 1 #p 2 0 00005742 00080858
+harm n 1 1 ~ 1 0 00018365
+optiker n 1 0 1 0 00224785
+erbjudande n 1 0 1 0 00004181
+partnerskap n 1 1 @ 1 0 00019726
+pion n 1 1 @ 1 0 00203671
+dödshjälp n 1 0 1 0 00141360
+löfte n 1 1 ~ 1 0 00101816
+blindtarm n 1 0 1 0 00081640
+bankett n 1 0 1 0 00126446
+utbyte n 1 1 @ 1 0 00185350
+värdshus n 1 1 @ 1 0 00189431
+åklagare n 1 2 @ ;c 1 0 00002645
+murgröna n 1 0 1 0 00158586
+väljarkår n 1 1 %m 1 0 00168221
+stjälk n 1 1 ~ 1 0 00003087
+överenskommelse n 1 2 ! ~ 1 0 00077615
+snigel n 1 0 1 0 00129415
+fredstid n 1 1 @ 1 0 00051627
+måltid n 1 2 ~ %p 1 0 00231888
+läkemedel n 1 2 ~ @ 1 0 00250278
+ansamling n 1 1 @ 1 0 00157903
+häck n 1 1 @ 1 0 00232832
+fanatiker n 1 0 1 0 00192149
+symposium n 1 1 @ 1 0 00005778
+gom n 1 2 @ #p 1 0 00101888
+baksida n 1 1 ! 1 0 00003194
+dimension n 1 2 ~ @ 1 0 00105783
+plysch n 1 1 @ 1 0 00173475
+skandal n 2 1 @ 2 0 00088880 00131670
+censur n 2 0 2 0 00171814 00183412
+bjälke n 1 2 @ %s 1 0 00154452
+leende n 1 1 ~ 1 0 00195967
+indoktrinering n 1 2 ~ @ 1 0 00064455
+behov n 1 2 ~ @ 1 0 00095649
+kriminalregister n 1 1 @ 1 0 00236588
+kropp n 3 5 ~ @ #p ;c %p 3 0 00080464 00215297 00226887
+laxermedel n 1 0 1 0 00148241
+krök n 1 1 @ 1 0 00190017
+test n 1 0 1 0 00083502
+solo n 1 0 1 0 00167201
+presentation n 1 1 ~ 1 0 00129657
+vän n 1 2 ~ @ 1 0 00148380
+telefonnummer n 1 1 @ 1 0 00012593
+mainstream n 1 0 1 0 00122662
+arkeologi n 1 2 @ -c 1 0 00184972
+rest n 2 1 @ 2 0 00086243 00202789
+demonstrant n 1 0 1 0 00105971
+nationalist n 2 1 @ 2 0 00005293 00058452
+kringla n 1 0 1 0 00130736
+mäklare n 1 0 1 0 00005592
+utsida n 2 2 ! @ 2 0 00039360 00049369
+brandman n 1 0 1 0 00073454
+bonde n 2 0 2 0 00112260 00136416
+genomslag n 1 1 @ 1 0 00032606
+bungalow n 1 1 @ 1 0 00168121
+kartell n 1 0 1 0 00067328
+geologi n 1 0 1 0 00178170
+hantverkare n 1 1 ~ 1 0 00050454
+blåmärke n 1 1 @ 1 0 00025843
+känsla n 1 0 1 0 00247116
+misstanke n 1 1 @ 1 0 00240073
+gisslan n 1 1 @ 1 0 00040747
+framtid n 1 1 ! 1 0 00051739
+palm n 1 1 @ 1 0 00045679
+skapande n 1 1 ~ 1 0 00133555
+stång n 2 1 ~ 2 0 00005138 00122626
+frågeställning n 1 1 ~ 1 0 00021855
+datum n 1 2 ~ @ 1 0 00252811
+nypon n 1 2 @ #p 1 0 00241530
+gaffel n 1 0 1 0 00253722
+tomat n 2 3 @ #p %p 2 0 00071251 00138089
+sits n 1 2 ~ @ 1 0 00227617
+koalition n 1 0 1 0 00191189
+centiliter n 1 2 #p %p 1 0 00027250
+expedition n 2 0 2 0 00034470 00089847
+häl n 1 1 #p 1 0 00241092
+påhäng n 1 0 1 0 00011480
+pannkaka n 1 1 @ 1 0 00037494
+bazooka n 1 0 1 0 00158835
+incitament n 2 1 ~ 2 0 00097957 00107983
+tjänst n 1 0 1 0 00229768
+vila n 1 1 @ 1 0 00205185
+bete n 1 1 #p 1 0 00188406
+ställning n 2 2 ~ = 2 0 00077966 00204984
+tull n 2 1 @ 2 0 00136726 00184160
+storhetsvansinne n 1 0 1 0 00074909
+inställning n 1 2 ~ @ 1 0 00025491
+överlevnad n 1 0 1 0 00227983
+ryggrad n 1 1 %p 1 0 00040486
+hårdvara n 1 5 ! ~ @ #p ;c 1 0 00112987
+helgerån n 1 0 1 0 00051214
+strut n 1 0 1 0 00040802
+dikt n 1 1 %p 1 0 00162816
+affär n 3 2 ~ %p 3 0 00036298 00240637 00251107
+ändtarm n 1 1 %p 1 0 00202657
+konst n 1 3 ~ @ -c 1 0 00155113
+initial n 1 1 @ 1 0 00000404
+snöskoter n 1 0 1 0 00004482
+jordmån n 1 0 1 0 00160064
+låt n 1 2 ~ @ 1 0 00036846
+päls n 1 0 1 0 00252092
+blöja n 1 1 @ 1 0 00050883
+ritual n 1 1 ~ 1 0 00187434
+älva n 2 3 ~ @ ;c 2 0 00067365 00131988
+sondotter n 1 1 @ 1 0 00178647
+optimist n 1 2 ! @ 1 0 00121927
+vegetarian n 1 0 1 0 00140949
+murare n 1 1 @ 1 0 00098458
+granne n 1 1 @ 1 0 00084484
+demonstration n 2 1 @ 2 0 00195347 00243195
+gitarrist n 1 0 1 0 00157484
+svaghet n 2 1 ! 2 0 00118663 00136778
+utgrävning n 1 2 @ ;c 1 0 00172740
+kamratskap n 1 0 1 0 00179893
+jurisdiktion n 1 1 ;c 1 0 00212273
+potential n 1 1 = 1 0 00013619
+loppa n 1 1 @ 1 0 00122001
+ragu n 1 0 1 0 00171780
+psalm n 1 0 1 0 00083307
+krigare n 1 2 ~ @ 1 0 00138785
+försäkringspremie n 1 0 1 0 00004221
+flyktingläger n 1 1 @ 1 0 00149816
+neuros n 1 0 1 0 00041116
+lök n 2 2 ~ @ 2 0 00131054 00250764
+promemoria n 1 0 1 0 00079136
+kaj n 1 0 1 0 00038647
+hötorgskonst n 1 0 1 0 00195304
+arbetslöshet n 1 1 ! 1 0 00083441
+kupp n 1 0 1 0 00104143
+skal n 3 2 ~ #p 3 0 00120500 00142109 00174903
+mina n 1 0 1 0 00238548
+charkuteri n 1 0 1 0 00059038
+leda n 1 0 1 0 00173998
+essä n 1 1 ~ 1 0 00148542
+aceton n 1 0 1 0 00007208
+predikan n 1 1 @ 1 0 00080065
+aria n 1 1 #p 1 0 00176003
+föredöme n 1 2 ~ @ 1 0 00188516
+säd n 1 1 ~ 1 0 00207458
+badkar n 1 2 @ #p 1 0 00236652
+insulin n 1 1 @ 1 0 00091286
+legosoldat n 1 0 1 0 00153731
+rulle n 1 1 @ 1 0 00204447
+påstående n 3 2 ~ @ 3 0 00097017 00131359 00166174
+orkester n 1 0 1 0 00178704
+varg n 1 0 1 0 00220909
+topp n 3 2 ~ @ 3 0 00016586 00154602 00248547
+härbärge n 1 2 ~ @ 1 0 00070021
+lekkamrat n 1 0 1 0 00035206
+curry n 1 2 @ ;c 1 0 00236516
+vikt n 3 1 ~ 3 0 00009867 00010159 00028701
+bröd n 1 2 ~ %s 1 0 00125377
+koppel n 1 0 1 0 00230423
+drivkraft n 1 2 ~ @ 1 0 00091894
+termos n 1 0 1 0 00116622
+roman n 2 1 @ 2 0 00065549 00140132
+album n 2 1 @ 2 0 00063384 00184734
+kallskänka n 1 1 @ 1 0 00208082
+teckenförklaring n 1 1 @ 1 0 00033420
+rehabilitering n 1 1 @ 1 0 00106809
+gudmoder n 1 0 1 0 00252693
+nougat n 1 0 1 0 00235874
+paket n 2 1 @ 2 0 00025944 00030296
+dag n 1 2 ~ %p 1 0 00060928
+patent n 2 2 @ ;c 2 0 00150726 00165850
+kullersten n 1 0 1 0 00209866
+armod n 1 0 1 0 00119123
+stege n 1 1 @ 1 0 00030116
+knytnäve n 1 1 @ 1 0 00050826
+departement n 1 0 1 0 00102558
+geografi n 1 0 1 0 00206528
+mannagryn n 1 1 @ 1 0 00031181
+samhörighet n 1 1 @ 1 0 00219816
+tillfällighet n 1 1 @ 1 0 00093777
+innovation n 2 0 2 0 00085492 00141592
+filosofi n 2 3 ~ @ -c 2 0 00014164 00090753
+insida n 1 1 ! 1 0 00236725
+solglasögon n 1 1 @ 1 0 00069758
+rabalder n 1 1 @ 1 0 00051517
+monogami n 1 1 @ 1 0 00152193
+indikation n 1 2 ~ @ 1 0 00171322
+lever n 1 0 1 0 00093893
+boende n 1 2 ~ @ 1 0 00000913
+division n 2 0 2 0 00115920 00139637
+opera n 2 1 %p 2 0 00036615 00240788
+slinka n 1 0 1 0 00245432
+servitris n 1 1 @ 1 0 00169173
+planta n 1 0 1 0 00080255
+hekto n 1 1 #p 1 0 00036334
+kremering n 1 0 1 0 00086969
+vittne n 1 2 @ ;c 1 0 00017379
+fylleri n 1 0 1 0 00018849
+vattendrag n 1 1 ~ 1 0 00102051
+bumling n 1 1 @ 1 0 00209539
+omfattning n 1 0 1 0 00183320
+by n 1 0 1 0 00013326
+rutschbana n 1 1 @ 1 0 00069040
+svågerpolitik n 1 1 @ 1 0 00203234
+prinskorv n 1 1 @ 1 0 00142348
+utgivare n 1 1 @ 1 0 00181379
+förbud n 1 1 @ 1 0 00017128
+kakel n 1 1 @ 1 0 00253499
+schack n 1 0 1 0 00177381
+ände n 2 1 @ 2 0 00096835 00119036
+jägare n 1 0 1 0 00214324
+cellgift n 1 0 1 0 00079373
+slit n 1 1 @ 1 0 00126215
+falk n 1 0 1 0 00089984
+federation n 1 0 1 0 00159353
+arbetarklass n 1 2 @ %m 1 0 00099197
+implikation n 1 0 1 0 00007873
+hot n 1 0 1 0 00084345
+prostata n 1 0 1 0 00218060
+arvinge n 2 2 ~ @ 2 0 00170356 00204590
+brus n 1 0 1 0 00069248
+uppsättning n 1 3 ~ @ %m 1 0 00170715
+sak n 2 2 ~ @ 2 0 00108900 00150374
+bokmärke n 1 0 1 0 00045731
+fjord n 1 0 1 0 00074724
+anor n 1 1 @ 1 0 00055424
+beställning n 1 0 1 0 00059808
+silver n 2 1 @ 2 0 00013770 00107632
+sjösjuka n 1 0 1 0 00108489
+nonsens n 1 1 ~ 1 0 00251435
+gardin n 1 0 1 0 00010404
+passus n 1 2 ~ #p 1 0 00048465
+ponny n 1 1 @ 1 0 00201685
+intervju n 1 0 1 0 00102790
+sal n 1 1 @ 1 0 00245959
+lek n 2 1 @ 2 0 00030383 00150268
+apa n 1 0 1 0 00230708
+kamel n 1 1 ~ 1 0 00131826
+slagsmål n 1 0 1 0 00239671
+veckoslut n 1 2 @ %p 1 0 00059698
+stolpe n 1 0 1 0 00224009
+borgmästare n 1 0 1 0 00233820
+killing n 1 1 @ 1 0 00034819
+läder n 1 0 1 0 00111665
+bordell n 1 1 @ 1 0 00004427
+index n 1 1 @ 1 0 00132887
+friare n 1 0 1 0 00191286
+betesmark n 1 0 1 0 00252596
+fragment n 1 1 ~ 1 0 00018642
+åra n 1 0 1 0 00148798
+arrangemang n 1 1 ~ 1 0 00145337
+självservering n 1 0 1 0 00192581
+dricks n 1 0 1 0 00113226
+kudde n 1 1 @ 1 0 00142733
+beroende n 1 0 1 0 00030615
+pacifist n 1 1 @ 1 0 00202104
+läsk n 1 0 1 0 00097372
+barn n 1 3 ! ~ @ 1 0 00072605
+enklav n 1 1 @ 1 0 00149169
+planet n 1 1 ;c 1 0 00214671
+ritare n 1 0 1 0 00213455
+reservoar n 1 1 @ 1 0 00020898
+pilot n 1 2 @ ;c 1 0 00070625
+detektiv n 2 1 @ 2 0 00001950 00028466
+lukt n 2 0 2 0 00174760 00234818
+robot n 1 1 @ 1 0 00030434
+strövtåg n 1 0 1 0 00071960
+djungel n 1 0 1 0 00005192
+gallon n 1 0 1 0 00234488
+grepp n 1 1 @ 1 0 00232211
+årtionde n 1 3 @ #p %p 1 0 00141689
+verktyg n 1 1 ~ 1 0 00200463
+förpliktelse n 1 1 ~ 1 0 00069282
+cykel n 1 1 @ 1 0 00103306
+anledning n 2 2 ~ @ 2 0 00022308 00196504
+spratt n 1 0 1 0 00239027
+medvetande n 1 2 ! ~ 1 0 00157211
+anförande n 1 2 ~ %p 1 0 00136223
+arsel n 1 1 @ 1 0 00130375
+dirigent n 1 1 @ 1 0 00114312
+spett n 1 0 1 0 00006547
+biograf n 2 3 ~ @ %p 2 0 00110577 00123548
+reling n 1 0 1 0 00250082
+filter n 1 0 1 0 00227947
+formel n 2 2 @ ;c 2 0 00126267 00148450
+stjärntecken n 1 1 ;c 1 0 00083379
+anklagelse n 1 1 @ 1 0 00247242
+översvämning n 1 0 1 0 00083679
+brygd n 1 2 ~ @ 1 0 00005067
+behandling n 1 1 @ 1 0 00198636
+flit n 1 0 1 0 00101247
+femkamp n 1 0 1 0 00121448
+mops n 1 1 @ 1 0 00001168
+ayatolla n 1 0 1 0 00111948
+betraktelse n 2 1 ~ 2 0 00105064 00139449
+jordklot n 1 1 %p 1 0 00229639
+blad n 3 2 @ #p 3 0 00153883 00191322 00231652
+golv n 1 1 #p 1 0 00141232
+arena n 1 0 1 0 00112225
+mässling n 1 0 1 0 00167294
+kritik n 2 2 ~ @ 2 0 00030044 00230603
+måtta n 2 1 @ 2 0 00033305 00252357
+rekord n 1 0 1 0 00207111
+demokrat n 1 1 @ 1 0 00170208
+ekonom n 1 0 1 0 00048628
+infanteri n 1 0 1 0 00170464
+hushåll n 1 0 1 0 00054084
+mun n 1 1 %p 1 0 00016638
+diameter n 2 0 2 0 00018090 00251358
+ära n 2 2 ~ @ 2 0 00055728 00085255
+analöppning n 1 2 ~ #p 1 0 00000762
+gitarr n 1 0 1 0 00078305
+ansiktsdrag n 1 2 ~ #p 1 0 00057744
+hammare n 1 1 ~ 1 0 00129985
+kisel n 1 2 @ #s 1 0 00009603
+sammandrag n 2 2 ~ @ 2 0 00053038 00220515
+barnbarn n 1 2 ~ @ 1 0 00130604
+hibiskus n 1 0 1 0 00121184
+tillväxt n 1 1 ~ 1 0 00052158
+ceremoni n 1 2 ~ @ 1 0 00174066
+option n 1 0 1 0 00163670
+gelé n 1 0 1 0 00229865
+kol n 2 4 ~ @ #s %s 2 0 00109542 00228804
+mascara n 1 1 @ 1 0 00202526
+vana n 2 2 @ ;c 2 0 00135299 00138328
+pornografi n 1 1 @ 1 0 00023484
+misstag n 1 1 ~ 1 0 00203723
+segrare n 1 0 1 0 00240036
+insisterande n 1 0 1 0 00015818
+kroppsvisitation n 1 0 1 0 00133451
+grammatik n 1 1 -c 1 0 00206663
+arbetsplats n 2 2 ~ @ 2 0 00055157 00119415
+pollen n 1 0 1 0 00068022
+agent n 2 2 ~ @ 2 0 00074991 00100098
+kupong n 1 0 1 0 00046450
+förlikning n 1 0 1 0 00155906
+raket n 1 2 ~ @ 1 0 00217989
+fundamentalist n 1 0 1 0 00198932
+smide n 1 0 1 0 00091251
+tänkare n 2 0 2 0 00142695 00194626
+aforism n 1 0 1 0 00247039
+delfin n 2 0 2 0 00151574 00215815
+gästfrihet n 1 1 @ 1 0 00183218
+kopp n 2 0 2 0 00012870 00048594
+minister n 1 0 1 0 00087723
+horisont n 1 0 1 0 00074496
+timmer n 1 2 ~ %s 1 0 00040847
+nedräkning n 1 0 1 0 00078549
+färja n 2 1 @ 2 0 00157049 00180597
+mästare n 2 1 @ 2 0 00185404 00228242
+häxa n 1 0 1 0 00088976
+tvål n 1 0 1 0 00081830
+förvaltning n 1 0 1 0 00192929
+dynamit n 1 0 1 0 00215082
+bibel n 2 1 @ 2 0 00000841 00089463
+blåhet n 1 1 ~ 1 0 00176612
+avbrott n 1 1 ~ 1 0 00125170
+passage n 1 0 1 0 00124708
+marsch n 2 0 2 0 00113920 00138143
+tand n 2 2 ~ @ 2 0 00034563 00079411
+kontaktperson n 1 1 @ 1 0 00009174
+akvarium n 1 0 1 0 00216735
+smör n 2 0 2 0 00146316 00205626
+croissant n 1 1 @ 1 0 00084288
+överordnad n 1 2 ~ @ 1 0 00190737
+eye-liner n 1 1 @ 1 0 00050729
+allmosa n 1 1 @ 1 0 00158531
+klocka n 2 1 ~ 2 0 00135607 00235337
+ramaskri n 1 0 1 0 00087098
+samhälle n 2 3 ~ @ %p 2 0 00026131 00076529
+sänka n 1 1 ~ 1 0 00156339
+eftersmak n 1 0 1 0 00078341
+lekskola n 1 1 @ 1 0 00054488
+rasism n 2 1 @ 2 0 00120182 00139583
+emigration n 1 1 @ 1 0 00168475
+antihjälte n 1 0 1 0 00041974
+observatör n 2 2 ~ @ 2 0 00102311 00106616
+motell n 1 0 1 0 00223238
+festmåltid n 1 1 @ 1 0 00014498
+paus n 1 1 ~ 1 0 00176560
+nattskjorta n 1 0 1 0 00079095
+avfall n 2 2 ~ @ 2 0 00061240 00241145
+psykos n 1 1 ~ 1 0 00102145
+släktskap n 2 2 ~ ;c 2 0 00136451 00226738
+lista n 1 1 ~ 1 0 00123783
+väljare n 1 2 @ #m 1 0 00004634
+prinsessa n 1 2 @ #m 1 0 00252940
+grundlag n 1 1 ;c 1 0 00236779
+camping n 1 0 1 0 00103420
+nerv n 1 0 1 0 00039520
+cynism n 1 0 1 0 00249130
+flaska n 1 2 ~ @ 1 0 00187874
+sexualitet n 1 1 = 1 0 00004344
+tesaurus n 1 0 1 0 00245921
+glåpord n 1 0 1 0 00118116
+erkännande n 4 2 ~ @ 4 0 00074683 00180043 00188632 00248765
+pissoar n 1 0 1 0 00174490
+bäck n 1 1 @ 1 0 00032553
+elektron n 1 0 1 0 00088783
+resurs n 1 1 @ 1 0 00207308
+storm n 1 1 ~ 1 0 00183486
+design n 1 0 1 0 00048192
+socker n 1 0 1 0 00189921
+mulatt n 1 0 1 0 00124089
+atom n 2 4 ~ @ #p ;c 2 0 00035701 00176108
+begravning n 2 2 ~ @ 2 0 00152064 00180339
+mars n 1 0 1 0 00152391
+vrist n 1 0 1 0 00071445
+insider n 1 0 1 0 00034073
+studio n 1 1 @ 1 0 00112171
+foster n 1 0 1 0 00086788
+pionjär n 1 0 1 0 00023249
+nonchalering n 1 0 1 0 00110535
+svarv n 1 0 1 0 00050040
+söndag n 1 1 #p 1 0 00079631
+distrikt n 2 2 ~ @ 2 0 00105658 00115119
+transaktion n 1 1 ~ 1 0 00127082
+kommentar n 1 1 ~ 1 0 00105064
+barometer n 1 0 1 0 00216038
+återkomst n 1 0 1 0 00150044
+kungarike n 1 1 @ 1 0 00234003
+ögonlock n 1 2 #p %p 1 0 00185843
+vetenskapsman n 1 1 ~ 1 0 00203814
+sallad n 1 1 @ 1 0 00117423
+bo n 1 0 1 0 00012766
+tjuder n 1 0 1 0 00230423
+dopping n 1 0 1 0 00128932
+accis n 1 0 1 0 00088401
+skiftnyckel n 1 0 1 0 00208460
+beslut n 1 0 1 0 00001571
+prostitution n 1 0 1 0 00200536
+revben n 1 1 @ 1 0 00105387
+appendix n 1 0 1 0 00240262
+bättring n 1 0 1 0 00201609
+slinga n 1 0 1 0 00216548
+surfingbräda n 1 0 1 0 00041623
+marginal n 1 1 #p 1 0 00094073
+eftermiddag n 2 1 @ 2 0 00024057 00238192
+sjukhusavdelning n 1 1 #p 1 0 00134425
+påverkan n 1 1 @ 1 0 00237568
+spion n 1 1 ~ 1 0 00144913
+sekretär n 1 2 @ %p 1 0 00230186
+missförhållande n 1 0 1 0 00059194
+tandkräm n 1 0 1 0 00032913
+psykoanalytiker n 1 1 @ 1 0 00105324
+slalom n 1 0 1 0 00064070
+sagesman n 1 0 1 0 00056655
+jury n 2 2 @ #m 2 0 00027679 00040542
+örsprång n 1 0 1 0 00065191
+debet n 1 0 1 0 00170639
+bergskedja n 1 1 %p 1 0 00149110
+hedning n 1 0 1 0 00029869
+handfat n 1 1 @ 1 0 00181324
+ställ n 1 0 1 0 00223747
+nät n 1 0 1 0 00163103
+pub n 1 2 @ %p 1 0 00186683
+fälla n 1 2 ~ ;c 1 0 00012447
+frukost n 1 1 @ 1 0 00029552
+marin n 2 1 @ 2 0 00117855 00173656
+krympling n 1 1 @ 1 0 00141632
+bettleri n 1 0 1 0 00198538
+referenspunkt n 1 1 ~ 1 0 00032367
+majoritet n 1 1 ;c 1 0 00042658
+landskap n 1 0 1 0 00217951
+narr n 1 0 1 0 00195118
+korsning n 2 2 @ #p 2 0 00077452 00113956
+salt n 1 0 1 0 00244868
+arbetsgivare n 1 2 ! @ 1 0 00025979
+adress n 1 1 ~ 1 0 00157287
+godkänd n 1 0 1 0 00062994
+aktualitet n 1 0 1 0 00183633
+margarin n 1 2 @ %s 1 0 00012045
+bibliografi n 1 1 @ 1 0 00088158
+kort n 2 2 ~ @ 2 0 00018128 00150656
+sammanhang n 1 0 1 0 00152550
+bokhylla n 1 2 @ %p 1 0 00210684
+presenning n 1 1 @ 1 0 00013036
+utomjording n 1 0 1 0 00102957
+skimmer n 1 1 @ 1 0 00156540
+kompensation n 1 1 @ 1 0 00118154
+trä n 1 2 ~ #s 1 0 00209136
+cellofan n 1 0 1 0 00050202
+röst n 2 0 2 0 00015115 00043718
+kärna n 3 2 ~ @ 3 0 00015987 00031329 00057611
+altare n 2 1 @ 2 0 00060274 00201114
+användning n 1 1 = 1 0 00182010
+dygd n 1 1 @ 1 0 00162727
+företagare n 1 1 @ 1 0 00075245
+elektricitet n 1 0 1 0 00002527
+konto n 1 2 @ %p 1 0 00142947
+fackla n 1 1 @ 1 0 00104752
+blockhus n 1 0 1 0 00213947
+fontän n 1 0 1 0 00104584
+variant n 1 0 1 0 00080517
+kontraktion n 1 0 1 0 00155355
+fabrikant n 1 0 1 0 00139357
+strävan n 3 2 @ = 3 0 00004918 00120462 00184404
+grafik n 1 0 1 0 00111912
+paragraf n 1 1 #p 1 0 00114775
+avslag n 1 1 @ 1 0 00114686
+omgivning n 1 0 1 0 00008247
+konsulat n 1 0 1 0 00156001
+byxor n 1 2 ~ @ 1 0 00162904
+besök n 2 2 ~ @ 2 0 00115830 00193650
+byte n 3 2 @ %p 3 0 00022434 00028006 00167167
+kista n 1 1 @ 1 0 00173568
+medium n 3 0 3 0 00039243 00186753 00210458
+graffiti n 1 1 @ 1 0 00048100
+varm_korv n 1 1 @ 1 0 00138380
+hälsning n 1 1 ~ 1 0 00055046
+dispyt n 1 1 ~ 1 0 00084596
+prärie n 1 0 1 0 00233304
+spång n 1 1 @ 1 0 00122436
+förväxling n 1 1 @ 1 0 00193722
+region n 1 3 ~ @ @i 1 0 00109398
+stjärt n 1 1 #p 1 0 00147644
+kund n 1 2 ~ @ 1 0 00082117
+hemisfär n 1 1 #p 1 0 00192000
+agronom n 1 1 @ 1 0 00159033
+båt n 1 3 ~ @ -c 1 0 00186193
+botemedel n 1 2 ~ @ 1 0 00218134
+fobi n 1 1 ~ 1 0 00179841
+förfrågan n 1 0 1 0 00201422
+firande n 1 2 ~ @ 1 0 00011885
+matematik n 1 3 @ ;c -c 1 0 00038820
+medlem n 1 0 1 0 00151538
+växelmynt n 1 1 @ 1 0 00250816
+tomt n 1 1 ~ 1 0 00146002
+bulldogg n 1 0 1 0 00033267
+decibel n 1 0 1 0 00055009
+armbåge n 1 1 #p 1 0 00055272
+norm n 3 3 ~ @ ;c 3 0 00173709 00188297 00250933
+musikal n 1 1 @ 1 0 00023194
+telefonlinje n 1 0 1 0 00249725
+gata n 1 0 1 0 00172706
+befallning n 1 0 1 0 00057103
+artist n 2 2 ~ @ 2 0 00039609 00050075
+telegram n 1 1 @ 1 0 00104974
+proletär n 1 1 #m 1 0 00062088
+lagstiftning n 2 2 ;c -c 2 0 00125297 00234580
+riktlinje n 1 1 @ 1 0 00227503
+tapetserare n 1 1 @ 1 0 00169304
+yoghurt n 1 0 1 0 00104231
+förstärkare n 1 1 #p 1 0 00209978
+matris n 1 1 ;c 1 0 00203616
+kolhydrat n 1 0 1 0 00009944
+flicka n 1 1 ! 1 0 00193193
+testikel n 1 0 1 0 00196729
+hinna n 1 1 @ 1 0 00218538
+stam n 2 2 #m %m 2 0 00197078 00216295
+synd n 1 0 1 0 00103769
+skjuts n 2 1 @ 2 0 00058382 00245468
+karikatyr n 1 1 ~ 1 0 00018033
+publicitet n 1 0 1 0 00111132
+kärande n 1 2 ! ;c 1 0 00246964
+mode n 1 0 1 0 00120748
+mil n 1 0 1 0 00125691
+underlag n 1 0 1 0 00009473
+plutonium n 1 1 @ 1 0 00186917
+ögonfrans n 1 2 @ #p 1 0 00040030
+tillämpning n 1 0 1 0 00129791
+lektion n 1 2 @ #p 1 0 00166215
+kränkning n 1 1 @ 1 0 00197389
+pojkvän n 1 1 @ 1 0 00205531
+frossa n 1 1 @ 1 0 00136584
+tuberkulos n 1 0 1 0 00153771
+avskedsansökan n 1 1 @ 1 0 00167722
+akademi n 1 0 1 0 00160933
+sherry n 1 0 1 0 00132438
+knoge n 1 1 #p 1 0 00177805
+utmaning n 1 1 @ 1 0 00182523
+psykologi n 1 2 @ -c 1 0 00090389
+fotnot n 1 1 @ 1 0 00101484
+kanal n 2 1 ;c 2 0 00032428 00131879
+substantiv n 2 2 ~ @ 2 0 00079481 00161219
+militärtjänst n 1 2 ~ %m 1 0 00132149
+rop n 1 0 1 0 00087098
+avkastning n 1 1 ~ 1 0 00123366
+bord n 1 1 @ 1 0 00127353
+stat n 1 0 1 0 00190814
+mullvad n 2 1 @ 2 0 00072309 00101673
+bortgång n 1 1 @ 1 0 00017826
+förlossning n 1 1 @ 1 0 00195428
+dråp n 1 0 1 0 00244283
+muskel n 1 0 1 0 00111757
+gris n 2 0 2 0 00224992 00230921
+cigarr n 1 0 1 0 00186460
+turbin n 1 0 1 0 00213347
+återfå n 1 0 1 0 00253649
+bal n 1 0 1 0 00137558
+bar n 1 2 @ #p 1 0 00010035
+längtan n 1 2 ~ @ 1 0 00017489
+shopping n 1 0 1 0 00253308
+morbror n 1 1 ! 1 0 00130280
+pocket n 1 1 @ 1 0 00086019
+allergi n 1 0 1 0 00185514
+stolthet n 1 1 @ 1 0 00009547
+förståelse n 1 1 @ 1 0 00169079
+glamour n 1 0 1 0 00032991
+bekymmer n 1 0 1 0 00208650
+tic n 1 0 1 0 00160438
+centrum n 1 1 @ 1 0 00124125
+biologi n 1 2 @ %m 1 0 00211420
+spånskiva n 1 1 @ 1 0 00094485
+underkjol n 1 0 1 0 00032057
+infinitiv n 1 0 1 0 00005480
+get n 2 2 ~ %p 2 0 00160368 00230815
+solidaritet n 1 0 1 0 00170674
+stiftelse n 1 0 1 0 00035167
+lockout n 1 1 @ 1 0 00157103
+steward n 1 0 1 0 00007836
+sekund n 1 1 #p 1 0 00216971
+dryck n 1 2 ~ @ 1 0 00212810
+skateboard n 1 0 1 0 00174248
+händelse n 2 1 ~ 2 0 00130114 00161672
+bälg n 1 0 1 0 00035952
+pol n 1 0 1 0 00116766
+juvel n 2 2 ~ @ 2 0 00190225 00247335
+katastrof n 1 0 1 0 00019239
+arbetsrum n 1 2 @ #p 1 0 00001220
+krångel n 1 0 1 0 00085864
+var n 1 0 1 0 00149957
+konkurs n 2 1 ;c 2 0 00243435 00247771
+silikon n 1 1 %s 1 0 00200032
+strålning n 2 1 @ 2 0 00122942 00189616
+röstsedel n 1 1 @ 1 0 00087423
+björn n 2 0 2 0 00067513 00081720
+inskrivning n 1 0 1 0 00074642
+tombola n 1 1 @ 1 0 00118288
+deodorant n 1 1 @ 1 0 00217159
+badminton n 1 1 -c 1 0 00065376
+oljud n 1 1 ~ 1 0 00249636
+tack n 2 1 @ 2 0 00068507 00189656
+pakt n 1 0 1 0 00072264
+revisor n 1 1 @ 1 0 00211057
+blödarsjuka n 1 0 1 0 00108260
+mundering n 1 0 1 0 00233111
+rädsla n 1 3 ~ @ = 1 0 00039715
+torg n 1 0 1 0 00003695
+migrän n 1 0 1 0 00239212
+ingenjör n 1 2 ~ @ 1 0 00203084
+förening n 2 3 ~ @ ;c 2 0 00031900 00239577
+kula n 1 1 @ 1 0 00037119
+sällskap n 2 2 @ %m 2 0 00173399 00199580
+stavelse n 1 1 #p 1 0 00098339
+morfin n 1 0 1 0 00096981
+fossil n 1 0 1 0 00149636
+hyra n 1 0 1 0 00160563
+rullstol n 1 1 @ 1 0 00110759
+metall n 2 2 ~ @ 2 0 00112511 00198976
+skelett n 1 0 1 0 00246354
+bokstav n 2 2 ~ @ 2 0 00138450 00235122
+predikant n 1 0 1 0 00139098
+handelsfartyg n 1 0 1 0 00097878
+bild n 2 1 ~ 2 0 00059593 00087926
+uppsats n 1 1 @ 1 0 00119963
+straff n 1 1 ~ 1 0 00155514
+böter n 1 1 ;c 1 0 00228024
+dynamo n 1 0 1 0 00178948
+sadist n 1 1 ! 1 0 00037828
+utdrag n 1 2 ~ @ 1 0 00193425
+kaffe n 1 3 ~ @ %s 1 0 00241299
+skriftsystem n 1 2 ~ @ 1 0 00252463
+reaktionär n 1 0 1 0 00091118
+gonorré n 1 0 1 0 00010366
+bror n 1 2 ! ~ 1 0 00228494
+berättigande n 1 1 @ 1 0 00207924
+mull n 1 1 @ 1 0 00038768
+måne n 1 0 1 0 00024581
+pessar n 1 1 @ 1 0 00125883
+bänk n 1 1 @ 1 0 00084078
+blodbad n 1 0 1 0 00206836
+känguru n 1 0 1 0 00156393
+satsning n 1 1 @ 1 0 00209337
+snatteri n 1 1 @ 1 0 00214726
+flygplats n 1 1 %p 1 0 00195832
+mellanslag n 1 1 @ 1 0 00084538
+bracka n 1 0 1 0 00141796
+tunnelbana n 1 1 @ 1 0 00051084
+fru n 1 3 ! ~ @ 1 0 00097187
+anorak n 1 1 @ 1 0 00185960
+begär n 1 1 ~ 1 0 00151646
+minne n 2 2 @ #p 2 0 00208176 00212374
+fotografi n 1 1 ~ 1 0 00054859
+veck n 2 1 #p 2 0 00072129 00225458
+kontorist n 2 1 @ 2 0 00040267 00078380
+gymping n 1 0 1 0 00014127
+bekvämlighet n 2 3 ~ @ = 2 0 00003249 00103803
+himmel n 2 3 @ #p %p 2 0 00124779 00193120
+pennalism n 1 0 1 0 00184121
+gikt n 1 0 1 0 00246820
+maskros n 1 1 @ 1 0 00089663
+pizza n 1 1 @ 1 0 00192096
+nudist n 1 1 @ 1 0 00020174
+bokhandel n 1 1 @ 1 0 00025125
+preventivmedel n 1 1 ~ 1 0 00132340
+molekyl n 2 4 ~ @ ;c %p 2 0 00035701 00127738
+besvikelse n 2 1 ~ 2 0 00080121 00178984
+lunch n 1 1 @ 1 0 00122702
+sjuksköterska n 1 1 ~ 1 0 00188124
+produkt n 3 3 ~ @ #p 3 0 00087834 00182722 00248878
+koloni n 1 0 1 0 00191451
+kverulant n 1 0 1 0 00100169
+näthinna n 1 1 #p 1 0 00167972
+sandpapper n 1 0 1 0 00184497
+stadion n 1 2 @ %p 1 0 00182829
+destination n 1 0 1 0 00014349
+bistånd n 1 2 ~ @ 1 0 00129097
+evergreen n 1 0 1 0 00015002
+period n 2 1 ~ 2 0 00157523 00243399
+lobby n 2 2 @ #p 2 0 00050373 00070789
+nål n 2 0 2 0 00010968 00229734
+oavgjord n 1 0 1 0 00008209
+asbest n 1 0 1 0 00228206
+misär n 1 0 1 0 00042015
+motståndare n 1 2 ~ @ 1 0 00160802
+början n 2 1 ! 2 0 00126626 00241459
+förbättring n 1 2 ~ @ 1 0 00111833
+halva n 1 0 1 0 00016255
+måttband n 1 0 1 0 00206238
+psoriasis n 1 0 1 0 00043109
+ironi n 1 0 1 0 00181872
+säkerhetssystem n 1 0 1 0 00189875
+ros n 1 2 @ %p 1 0 00160213
+prygel n 1 0 1 0 00027926
+sonson n 1 1 @ 1 0 00088104
+zebra n 1 0 1 0 00081494
+linjal n 1 1 @ 1 0 00153935
+myteri n 1 1 @ 1 0 00060874
+kabinett n 1 0 1 0 00215665
+alarm n 1 1 @ 1 0 00020698
+avrättning n 1 0 1 0 00128623
+frid n 1 0 1 0 00067875
+brillor n 1 1 ~ 1 0 00183035
+spik n 1 0 1 0 00105030
+pjäs n 1 1 %p 1 0 00225153
+pin-kod n 1 0 1 0 00249360
+kategori n 1 1 @ 1 0 00093427
+manuskript n 1 0 1 0 00023326
+kota n 1 2 @ #p 1 0 00171543
+ugn n 2 0 2 0 00034328 00253758
+ego n 1 0 1 0 00178354
+fanatism n 1 0 1 0 00075541
+bakgrund n 3 1 @ 3 0 00018221 00113786 00229096
+läsare n 1 1 @ 1 0 00195488
+tvåa n 1 1 @ 1 0 00116417
+linne n 1 0 1 0 00020621
+maskinskrivning n 1 0 1 0 00074414
+lärare n 1 1 ~ 1 0 00070246
+missbrukare n 1 1 @ 1 0 00208728
+sockel n 2 2 @ #p 2 0 00122131 00159769
+enkelhet n 1 0 1 0 00100485
+bål n 1 0 1 0 00163942
+affärsman n 1 1 ~ 1 0 00092708
+våld n 1 2 ~ @ 1 0 00000597
+ledning n 2 1 ~ 2 0 00011561 00170098
+handla n 2 1 @ 2 0 00233150 00252303
+glödlampa n 1 0 1 0 00220609
+pojke n 1 1 ! 1 0 00046272
+grotta n 1 0 1 0 00175468
+sammanbrott n 1 0 1 0 00237128
+block n 2 1 @ 2 0 00186789 00201297
+etik n 1 1 @ 1 0 00061150
+domstol n 1 1 %m 1 0 00010310
+våg n 2 1 ~ 2 0 00171746 00199156
+grus n 1 0 1 0 00184264
+pastill n 1 0 1 0 00147810
+kompetens n 1 1 @ 1 0 00191852
+kalori n 2 2 #p %p 2 0 00076700 00212716
+öga n 1 2 #p %p 1 0 00166967
+eftergift n 1 0 1 0 00092160
+föredrag n 2 2 @ #p 2 0 00140784 00173102
+spoling n 1 0 1 0 00031132
+svada n 1 0 1 0 00163431
+växel n 1 2 @ %p 1 0 00040990
+krokus n 1 0 1 0 00161023
+fjant n 1 0 1 0 00208141
+formgivare n 1 0 1 0 00224045
+pris n 3 0 3 0 00038734 00112953 00115454
+fia n 1 0 1 0 00028249
+glasögon n 1 1 ~ 1 0 00183035
+ångest n 1 2 ~ ;c 1 0 00015041
+te n 1 2 @ %s 1 0 00026819
+konglomerat n 1 0 1 0 00019479
+arbetsläger n 1 0 1 0 00249484
+allmänhet n 1 0 1 0 00081919
+nonchalans n 1 0 1 0 00050786
+ischias n 1 0 1 0 00067437
+hov n 1 1 @ 1 0 00139306
+schizofreni n 1 1 @ 1 0 00064624
+premiss n 1 1 ~ 1 0 00002213
+sida n 3 3 ~ @ %p 3 0 00065323 00122330 00178478
+marionett n 1 0 1 0 00075206
+trumma n 2 1 ~ 2 0 00017890 00068650
+antropologi n 1 2 ~ -c 1 0 00210165
+gram n 1 0 1 0 00237534
+depression n 2 1 @ 2 0 00044109 00119637
+fil n 3 0 3 0 00121485 00123750 00218448
+arkitektur n 1 2 @ -c 1 0 00094285
+plast n 1 0 1 0 00048664
+foajé n 1 2 @ #p 1 0 00050373
+rad n 3 2 ~ @ 3 0 00029192 00088436 00233671
+rum n 1 3 ~ #p %p 1 0 00098786
+kvartsdollar n 1 1 @ 1 0 00187633
+motiv n 2 1 @ 2 0 00163359 00182197
+förband n 2 2 ~ @ 2 0 00104268 00135533
+kodein n 1 0 1 0 00028058
+trupp n 2 0 2 0 00004309 00145302
+kassör n 1 0 1 0 00162779
+galax n 1 3 @ ;c #m 1 0 00089315
+prejudikat n 1 1 @ 1 0 00164348
+tumör n 1 1 @ 1 0 00054805
+glass n 1 0 1 0 00044203
+bistro n 1 1 @ 1 0 00052366
+underverk n 1 0 1 0 00227908
+kantarell n 1 0 1 0 00194188
+despot n 1 0 1 0 00011293
+förkämpe n 1 2 ~ @ 1 0 00179578
+foto n 1 1 @ 1 0 00042230
+tempo n 1 0 1 0 00163851
+meteorolog n 1 1 @ 1 0 00203352
+järn n 1 2 @ #s 1 0 00082311
+saxofon n 1 0 1 0 00034433
+inspektör n 1 1 @ 1 0 00202468
+elektronik n 1 2 @ -c 1 0 00101596
+datalogi n 1 3 @ ;c -c 1 0 00183781
+trumpet n 1 0 1 0 00040802
+trehjuling n 1 0 1 0 00242296
+bedömning n 2 1 @ 2 0 00133497 00242163
+svårmod n 1 1 @ 1 0 00072383
+jordlott n 1 0 1 0 00192058
+tunnel n 2 2 ;c %p 2 0 00063574 00195152
+åskådning n 1 1 @ 1 0 00072848
+spänning n 3 3 ~ @ = 3 0 00091969 00101958 00247886
+legend n 2 1 @ 2 0 00110887 00124508
+vuxen n 1 2 ~ @ 1 0 00213676
+styvmor n 1 0 1 0 00040449
+logotyp n 1 0 1 0 00065756
+miljard n 1 0 1 0 00020374
+astrologi n 1 1 -c 1 0 00115958
+symtom n 2 3 ~ @ #p 2 0 00227249 00237625
+kackerlacka n 1 0 1 0 00075647
+läroplan n 1 1 @ 1 0 00034233
+spår n 3 2 @ ;c 3 0 00025309 00090560 00227177
+uteblivande n 1 0 1 0 00041845
+studerande n 1 2 ~ @ 1 0 00225892
+grönsak n 2 3 ~ @ #p 2 0 00021289 00236072
+gift n 2 0 2 0 00078163 00243779
+örn n 2 0 2 0 00080031 00161860
+musiker n 1 3 ~ @ ;c 1 0 00243930
+faktura n 1 2 ~ @ 1 0 00124250
+håla n 1 0 1 0 00195152
+dragspel n 1 0 1 0 00068096
+älskare n 1 0 1 0 00242810
+betyg n 1 0 1 0 00086167
+ombyggnad n 1 0 1 0 00213491
+spott n 1 1 @ 1 0 00088017
+hälsa n 2 2 ! @ 2 0 00051573 00098643
+centrifug n 1 1 @ 1 0 00079316
+runa n 1 1 @ 1 0 00084236
+anteckning n 1 0 1 0 00250006
+dike n 1 0 1 0 00161963
+stormarknad n 1 1 @ 1 0 00214823
+markägare n 1 1 ~ 1 0 00081320
+perception n 1 1 ~ 1 0 00043437
+klassrum n 1 2 @ #p 1 0 00073920
+tallrik n 1 0 1 0 00056181
+under n 1 0 1 0 00253687
+matsedel n 2 0 2 0 00155476 00196117
+alkohol n 1 2 ~ @ 1 0 00242996
+kolon n 2 0 2 0 00007489 00105289
+tönt n 1 0 1 0 00070097
+dörr n 1 1 %p 1 0 00016946
+pessimist n 1 1 ! 1 0 00232264
+monarki n 1 1 ~ 1 0 00037421
+diskett n 1 1 #p 1 0 00007280
+äpple n 2 2 #p %p 2 0 00036075 00083571
+fritid n 1 0 1 0 00124053
+förslag n 2 0 2 0 00012520 00089887
+vägran n 1 0 1 0 00072811
+klädstreck n 1 0 1 0 00167785
+lockbete n 1 0 1 0 00004104
+milliliter n 1 1 #p 1 0 00108528
+skulptur n 2 2 ~ @ 2 0 00031076 00213855
+hö n 1 0 1 0 00108397
+kåda n 1 0 1 0 00153459
+grund n 2 2 @ #p 2 0 00139271 00175252
+vårdnadshavare n 1 1 ~ 1 0 00100708
+hänryckning n 1 1 @ 1 0 00081434
+piska n 1 1 @ 1 0 00150836
+senat n 1 1 @ 1 0 00069370
+blus n 1 1 @ 1 0 00128059
+barnflicka n 1 1 @ 1 0 00252635
+roll n 2 0 2 0 00081566 00205404
+difteri n 1 0 1 0 00213586
+otalt n 1 1 @ 1 0 00152775
+is n 1 2 #s %s 1 0 00116658
+artighet n 1 0 1 0 00156955
+fetma n 1 0 1 0 00226778
+stängsel n 1 1 ~ 1 0 00195543
+fred n 1 1 ~ 1 0 00202823
+frisyr n 1 0 1 0 00159824
+pall n 1 1 @ 1 0 00013968
+arketyp n 1 0 1 0 00198409
+hand n 2 4 ~ @ #p %p 2 0 00061667 00219764
+utslagning n 1 0 1 0 00230468
+staffli n 1 0 1 0 00217636
+slöja n 1 1 @ 1 0 00070422
+adressat n 1 0 1 0 00229601
+balans n 1 1 @ 1 0 00046997
+genitiv n 1 0 1 0 00041255
+självstyre n 1 0 1 0 00033169
+säte n 1 1 @ 1 0 00084025
+mangel n 1 0 1 0 00028665
+metafor n 1 0 1 0 00190848
+skymt n 1 1 @ 1 0 00212003
+kurva n 2 3 @ #p ;c 2 0 00105198 00172162
+pullover n 1 1 @ 1 0 00226383
+tribut n 1 0 1 0 00243525
+typsnitt n 1 0 1 0 00183448
+steg n 4 3 ~ @ #p 4 0 00001734 00097407 00113411 00190589
+nivå n 2 1 @ 2 0 00151845 00173198
+fjärt n 1 0 1 0 00011696
+stearin n 1 0 1 0 00026640
+komp n 1 1 @ 1 0 00077112
+tulpan n 1 0 1 0 00044238
+designer n 1 1 @ 1 0 00074800
+uppvaknande n 1 0 1 0 00021733
+flickvän n 1 1 @ 1 0 00007432
+gruvarbetare n 1 1 @ 1 0 00201774
+glöd n 2 1 @ 2 0 00035451 00238847
+recept n 1 1 @ 1 0 00151053
+skyddsling n 1 1 @ 1 0 00085325
+jobb n 3 2 ~ @ 3 0 00010258 00049038 00240823
+verkställande n 1 1 #m 1 0 00229186
+kaka n 2 2 ~ @ 2 0 00112295 00193247
+nationalism n 1 1 @ 1 0 00160597
+hierarki n 2 2 @ #p 2 0 00026583 00133168
+stock n 1 1 @ 1 0 00243346
+norr n 1 0 1 0 00140915
+besvär n 1 0 1 0 00155722
+sjökort n 1 1 @ 1 0 00140572
+taktik n 1 0 1 0 00132527
+astronomi n 1 2 @ -c 1 0 00169713
+förutsättning n 1 1 @ 1 0 00143092
+bibliotek n 1 1 @ 1 0 00194359
+syren n 1 1 @ 1 0 00096362
+fåtölj n 1 1 @ 1 0 00199282
+koma n 1 1 @ 1 0 00229044
+pormask n 1 1 #p 1 0 00060585
+vad n 1 0 1 0 00195934
+par n 2 2 ~ @ 2 0 00057414 00105607
+biff n 1 2 @ #p 1 0 00138018
+trädgård n 1 1 @ 1 0 00206778
+final n 1 1 @ 1 0 00030169
+gymnast n 1 1 @ 1 0 00049641
+del n 2 1 ~ 2 0 00019367 00140351
+encyklopedi n 1 0 1 0 00157960
+utfyllnad n 1 1 ~ 1 0 00080361
+dåtiden n 1 2 ! ~ 1 0 00068928
+remsa n 1 0 1 0 00025421
+inbjudan n 1 1 @ 1 0 00047051
+rännsten n 1 1 ~ 1 0 00028137
+minimum n 2 1 ! 2 0 00011732 00041919
+arkiv n 3 1 @ 3 0 00154064 00206493 00219504
+fascism n 1 1 @ 1 0 00064814
+avlopp n 1 1 ~ 1 0 00235809
+käpp n 1 0 1 0 00148091
+reservation n 1 0 1 0 00048997
+propeller n 1 0 1 0 00197959
+tid n 1 1 ~ 1 0 00209432
+borr n 1 1 @ 1 0 00071130
+livstid n 1 1 @ 1 0 00212129
+snutt n 1 1 @ 1 0 00197704
+lem n 1 1 ~ 1 0 00153572
+fågelsång n 1 0 1 0 00122755
+slagsida n 2 0 2 0 00019201 00045641
+utbyggnad n 1 2 @ #p 1 0 00116264
+parafras n 1 0 1 0 00078719
+fysik n 1 2 ~ -c 1 0 00164477
+mentalsjukhus n 1 1 @ 1 0 00057999
+jolle n 1 0 1 0 00249526
+ordförande n 1 0 1 0 00042051
+samarbete n 1 1 @ 1 0 00188186
+tjäder n 1 0 1 0 00179245
+vaccin n 1 0 1 0 00243159
+kar n 1 1 @ 1 0 00018435
+katalog n 2 1 @ 2 0 00107502 00138987
+minut n 1 2 #p %p 1 0 00005519
+biljett n 1 0 1 0 00072346
+talong n 1 0 1 0 00234852
+gaphals n 1 1 @ 1 0 00213119
+portier n 1 1 @ 1 0 00072036
+känsel n 1 1 @ 1 0 00122796
+ägodel n 1 1 ~ 1 0 00199637
+väder n 1 1 ~ 1 0 00083127
+radband n 1 0 1 0 00085383
+siden n 1 1 @ 1 0 00041202
+hosta n 1 1 @ 1 0 00118610
+suput n 1 1 ~ 1 0 00206057
+baby n 1 2 ~ @ 1 0 00205987
+uniform n 1 0 1 0 00174361
+brännvin n 1 0 1 0 00042580
+missfall n 2 1 @ 2 0 00048409 00191909
+ovanlighet n 1 0 1 0 00224651
+princip n 2 2 ~ @ 2 0 00124016 00247514
+groda n 1 0 1 0 00009901
+halsband n 2 2 ~ @ 2 0 00037026 00081378
+slips n 1 0 1 0 00210279
+t-shirt n 1 1 @ 1 0 00150961
+kollision n 1 0 1 0 00004270
+värme n 1 1 #p 1 0 00073104
+finanser n 1 1 @ 1 0 00231832
+undervisning n 1 1 ~ 1 0 00168747
+dam n 1 1 @ 1 0 00084882
+spel n 1 1 -c 1 0 00083626
+fiol n 1 0 1 0 00086935
+acklamation n 1 0 1 0 00113262
+grimas n 1 0 1 0 00083884
+bingo n 1 0 1 0 00083536
+lutning n 2 1 ~ 2 0 00175215 00238251
+förkärlek n 1 0 1 0 00042189
+tamburin n 1 1 @ 1 0 00249304
+skugga n 1 0 1 0 00162691
+kontanter n 1 2 ~ @ 1 0 00177306
+motbok n 1 1 @ 1 0 00218280
+huvudstad n 1 0 1 0 00011349
+leasing n 1 1 @ 1 0 00002158
+kokain n 1 0 1 0 00188035
+hämnd n 1 1 ~ 1 0 00208501
+tomrum n 1 2 ~ @ 1 0 00126483
+överflöd n 1 0 1 0 00195251
+skift n 1 0 1 0 00163760
+sylt n 1 0 1 0 00047444
+joller n 1 1 @ 1 0 00171995
+hemkomst n 1 0 1 0 00226574
+bensin n 1 2 ~ @ 1 0 00136151
+morgon n 1 2 @ #p 1 0 00072439
+tortyr n 1 0 1 0 00145150
+terrorism n 1 1 -c 1 0 00011769
+lås n 1 1 #p 1 0 00222863
+korsord n 1 1 @ 1 0 00153641
+sedel n 1 1 ~ 1 0 00249025
+näktergal n 1 0 1 0 00208688
+tempus n 1 0 1 0 00199544
+samvete n 1 0 1 0 00053754
+uppskattning n 1 1 @ 1 0 00120018
+grävling n 1 0 1 0 00104009
+pop n 1 0 1 0 00061634
+livsmedelsaffär n 1 2 ~ %p 1 0 00233186
+propaganda n 1 1 @ 1 0 00184860
+katedral n 1 1 @ 1 0 00207717
+ockupant n 1 1 @ 1 0 00102370
+aperitif n 1 1 @ 1 0 00135788
+bark n 1 1 #p 1 0 00023122
+briljans n 1 1 @ 1 0 00106964
+akrobat n 1 1 @ 1 0 00052027
+aktie n 1 1 #p 1 0 00085060
+trottoar n 1 0 1 0 00238729
+desinformation n 1 0 1 0 00116541
+dos n 1 2 ~ @ 1 0 00152481
+baseboll n 1 1 -c 1 0 00193854
+bestraffning n 1 1 @ 1 0 00154997
+stins n 1 0 1 0 00006654
+framfart n 1 0 1 0 00143019
+invånare n 1 2 ~ @ 1 0 00097785
+avlyssning n 1 0 1 0 00116053
+strömbrytare n 1 1 ~ 1 0 00208021
+offer n 3 3 ~ @ ;c 3 0 00023374 00093669 00229939
+frack n 1 0 1 0 00053593
+bryggeri n 1 1 @ 1 0 00117799
+orgie n 1 0 1 0 00247300
+gas n 1 1 @ 1 0 00071394
+kod n 2 2 ~ ;c 2 0 00089138 00167902
+paper n 1 1 @ 1 0 00162420
+natt n 1 4 ! @ #p %p 1 0 00074534
+tendens n 1 2 ~ @ 1 0 00122851
+modem n 1 0 1 0 00224321
+anslag n 3 2 ~ @ 3 0 00009029 00134618 00225531
+mitt n 2 1 ! 2 0 00110614 00189287
+anstånd n 1 1 @ 1 0 00174398
+rekreation n 2 1 ~ 2 0 00177417 00248691
+arm n 1 3 @ #p %p 1 0 00139986
+drulle n 1 1 @ 1 0 00041438
+spårvagn n 1 0 1 0 00047716
+papiljott n 1 0 1 0 00067474
+anda n 1 1 @ 1 0 00015150
+kontor n 1 1 ~ 1 0 00057945
+omväxling n 1 1 = 1 0 00100523
+fastland n 1 1 @ 1 0 00134984
+fat n 1 0 1 0 00175801
+retorik n 1 0 1 0 00106732
+torgskräck n 1 1 @ 1 0 00190678
+karriär n 1 0 1 0 00170561
+pupill n 1 0 1 0 00035916
+statistik n 1 1 -c 1 0 00170503
+båge n 1 1 @ 1 0 00159673
+jag n 1 1 @ 1 0 00023612
+tystnad n 1 0 1 0 00216471
+korridor n 2 3 ~ @ %p 2 0 00089011 00092386
+brunch n 1 1 @ 1 0 00237679
+inspelning n 2 2 ~ @ 2 0 00114984 00163556
+uppvisning n 1 0 1 0 00069208
+servicebox n 1 2 ~ @ 1 0 00016325
+guvernör n 1 0 1 0 00016081
+slott n 1 0 1 0 00228635
+estrad n 1 1 @ 1 0 00020411
+gelike n 1 2 ~ @ 1 0 00085420
+underhållning n 1 1 @ 1 0 00098396
+ejder n 1 0 1 0 00027505
+lera n 2 3 @ #s %s 2 0 00211693 00249166
+ryggskott n 1 0 1 0 00028993
+kennel n 1 0 1 0 00130979
+ålderdom n 1 0 1 0 00126724
+högtalare n 1 0 1 0 00239411
+smink n 1 1 ~ 1 0 00050640
+expertis n 1 0 1 0 00059372
+försäkringsskydd n 1 0 1 0 00180984
+gallsten n 1 0 1 0 00109138
+sandal n 1 1 @ 1 0 00166765
+herde n 1 0 1 0 00016419
+strid n 1 2 ~ %p 1 0 00097478
+ryttare n 1 0 1 0 00071682
+bilism n 1 0 1 0 00227054
+vägkant n 1 1 #p 1 0 00069818
+majonnäs n 1 0 1 0 00084737
+försäkring n 1 1 @ 1 0 00169545
+klubba n 1 2 ~ @ 1 0 00083920
+poäng n 2 0 2 0 00043787 00235033
+politik n 1 0 1 0 00196877
+recension n 1 0 1 0 00023287
+företrädare n 2 1 @ 2 0 00151986 00226001
+tätting n 1 1 @ 1 0 00128567
+tumult n 1 0 1 0 00033829
+tarm n 1 1 #p 1 0 00096153
+återkoppling n 1 1 @ 1 0 00121556
+collie n 1 0 1 0 00209649
+jasmin n 1 1 @ 1 0 00043875
+boll n 1 1 ~ 1 0 00036522
+förruttnelse n 1 0 1 0 00126681
+bylte n 1 1 @ 1 0 00090336
+utgåva n 1 0 1 0 00162150
+invändning n 1 0 1 0 00200913
+passagerare n 1 1 ;c 1 0 00045965
+ficktjuv n 1 1 @ 1 0 00113824
+rotation n 2 1 @ 2 0 00011388 00033524
+bedragare n 1 0 1 0 00124961
+syre n 1 2 @ #s 1 0 00171850
+munspel n 1 0 1 0 00241199
+namn n 1 1 ~ 1 0 00141401
+bräckjärn n 1 0 1 0 00093628
+hyena n 1 0 1 0 00071755
+strejk n 3 1 @ 3 0 00178387 00185478 00222680
+manfall n 1 1 @ 1 0 00128366
+dollar n 1 1 @ 1 0 00076196
+maka n 1 3 ~ @ #m 1 0 00240947
+biolog n 1 1 @ 1 0 00105441
+betydelse n 1 1 @ 1 0 00075881
+tåglinje n 1 2 @ %p 1 0 00244955
+abbedissa n 1 0 1 0 00142235
+ordalag n 1 0 1 0 00235300
+apartheid n 1 0 1 0 00240451
+sammanträde n 1 2 ~ @ 1 0 00223031
+landsbygd n 1 1 @ 1 0 00194664
+bråkmakare n 2 1 ~ 2 0 00023761 00036574
+bundsförvant n 2 1 @ 2 0 00025025 00027581
+glidning n 1 1 @ 1 0 00111701
+avsikt n 2 1 @ 2 0 00129451 00158248
+ränta n 1 0 1 0 00048282
+mars n 1 0 1 0 00235910
+information n 1 1 ~ 1 0 00231467
+rabbin n 1 0 1 0 00182615
+rabatt n 1 1 @ 1 0 00112842
+karies n 1 0 1 0 00228711
+sönderfall n 1 0 1 0 00233962
+elektriker n 1 0 1 0 00223969
+kastrull n 1 1 @ 1 0 00249859
+fenomen n 1 1 ~ 1 0 00237789
+befordran n 1 0 1 0 00141080
+avtal n 1 1 ~ 1 0 00057325
+bajonett n 1 0 1 0 00004992
+sekreterare n 1 2 ~ @ 1 0 00122054
+handpenning n 1 0 1 0 00120649
+docka n 1 1 @ 1 0 00077059
+sopran n 1 0 1 0 00245885
+doktor n 1 1 @ 1 0 00092802
+inavel n 1 0 1 0 00191669
+dubbel n 1 0 1 0 00074304
+ordning n 1 2 ! @ 1 0 00184787
+järnverk n 1 1 @ 1 0 00024856
+fogde n 1 1 @ 1 0 00195065
+sumpmark n 1 0 1 0 00174667
+krut n 1 0 1 0 00092890
+berg n 1 1 ~ 1 0 00046945
+lår n 1 2 ~ @ 1 0 00205237
+kris n 1 2 ~ = 1 0 00216848
+fisk n 2 1 ~ 2 0 00013916 00035080
+aktning n 1 0 1 0 00077697
+civilist n 1 2 ! @ 1 0 00226813
+status n 1 2 ~ @ 1 0 00027361
+korg n 1 0 1 0 00213269
+begonia n 1 1 @ 1 0 00096870
+klick n 1 0 1 0 00029716
+punktering n 1 0 1 0 00212953
+regnbåge n 2 1 #p 2 0 00012708 00056954
+investering n 1 0 1 0 00161819
+upplopp n 1 1 @ 1 0 00104436
+plugghäst n 1 1 @ 1 0 00034761
+knapp n 2 2 ~ @ 2 0 00071323 00242203
+brottsling n 1 1 ~ 1 0 00053935
+diskussion n 1 0 1 0 00135493
+opportunist n 1 0 1 0 00109898
+pension n 1 0 1 0 00037082
+nätet n 1 0 1 0 00007634
+avtalsförhandling n 1 1 @ 1 0 00035486
+kurs n 1 3 ~ @ %p 1 0 00247388
+blodsutgjutelse n 1 1 @ 1 0 00241236
+fukt n 1 0 1 0 00225748
+rön n 1 1 @ 1 0 00190173
+sport n 1 3 ~ @ -c 1 0 00170865
+saldo n 1 1 #p 1 0 00114595
+glaciär n 1 1 %s 1 0 00223127
+appendicit n 1 0 1 0 00030910
+ost n 1 0 1 0 00217918
+flagga n 1 1 ~ 1 0 00110978
+förskingring n 1 1 @ 1 0 00197221
+barndom n 2 0 2 0 00045452 00151322
+morfar n 1 0 1 0 00030222
+avundsjuka n 1 1 @ 1 0 00211328
+monogram n 1 1 @ 1 0 00251490
+formation n 1 1 @ 1 0 00196266
+medlöpare n 1 0 1 0 00164308
+debatt n 1 0 1 0 00167647
+kokbok n 1 0 1 0 00091082
+krig n 1 0 1 0 00227090
+belägring n 1 0 1 0 00162110
+motsättning n 1 1 ~ 1 0 00067962
+utgång n 1 0 1 0 00074377
+serve n 1 1 ;c 1 0 00203486
+legitimation n 2 0 2 0 00104394 00106012
+ödem n 1 0 1 0 00135264
+farsa n 1 1 @ 1 0 00110317
+scharlakansfeber n 1 0 1 0 00060228
+statsman n 1 1 @ 1 0 00163886
+spad n 1 2 ~ @ 1 0 00063419
+publicist n 1 0 1 0 00220870
+gentleman n 2 1 @ 2 0 00006072 00069719
+motsvarighet n 1 1 @ 1 0 00002857
+specimen n 1 0 1 0 00216810
+tillåtelse n 1 1 ~ 1 0 00251849
+lamm n 1 0 1 0 00175434
+bokstöd n 1 1 @ 1 0 00073234
+parti n 1 2 ~ @ 1 0 00212993
+räv n 1 0 1 0 00112808
+undantag n 1 1 @ 1 0 00092044
+sejdel n 1 0 1 0 00078757
+försöksperson n 1 1 @ 1 0 00183102
+skröna n 1 1 @ 1 0 00230508
+tröja n 1 2 ~ @ 1 0 00108810
+kolik n 1 0 1 0 00125225
+treudd n 1 0 1 0 00145966
+andnöd n 1 1 @ 1 0 00048699
+ringblomma n 1 1 @ 1 0 00071902
+tungomål n 1 1 @ 1 0 00024799
+underskrift n 1 1 @ 1 0 00042975
+hål n 1 0 1 0 00060492
+mustasch n 1 1 #p 1 0 00033210
+pling n 1 0 1 0 00076346
+bröstsim n 1 0 1 0 00047145
+möte n 1 0 1 0 00200248
+apelsin n 2 0 2 0 00148343 00178911
+böna n 1 0 1 0 00110120
+förbiseende n 1 1 @ 1 0 00175890
+museum n 1 1 @ 1 0 00128878
+kapitel n 1 1 #p 1 0 00185237
+apati n 2 0 2 0 00039029 00184537
+tving n 1 0 1 0 00220480
+olja n 2 1 #s 2 0 00047184 00232142
+grammofon n 1 0 1 0 00035245
+pöl n 1 0 1 0 00121096
+militär n 1 3 ! ~ #m 1 0 00207606
+avsnitt n 1 2 @ #p 1 0 00097113
+frustration n 2 1 @ 2 0 00158724 00221615
+nämnd n 1 2 @ %m 1 0 00071021
+pil n 2 1 @ 2 0 00083992 00120131
+ovation n 1 1 @ 1 0 00135400
+transistor n 1 1 ;c 1 0 00074245
+lymfa n 1 0 1 0 00079940
+gren n 1 2 @ %p 1 0 00082984
+klang n 1 0 1 0 00147419
+träd n 2 1 ~ 2 0 00187946 00222379
+älskling n 1 0 1 0 00105858
+bank n 2 1 @ 2 0 00056129 00124745
+legislatur n 1 2 ~ #m 1 0 00125974
+projektil n 1 2 ~ @ 1 0 00101391
+skalpell n 1 0 1 0 00252179
+utkast n 1 1 @ 1 0 00048228
+värdering n 3 1 @ 3 0 00037603 00167513 00188592
+motstånd n 1 1 ~ 1 0 00069423
+juice n 1 0 1 0 00077319
+arbetskraft n 1 1 ~ 1 0 00211209
+jävel n 1 0 1 0 00176433
+inkast n 1 1 ;c 1 0 00099675
+njutning n 1 0 1 0 00090018
+rektangel n 1 1 ~ 1 0 00166289
+hologram n 1 1 @ 1 0 00231066
+batteri n 1 0 1 0 00025806
+obygd n 1 0 1 0 00079596
+viadukt n 1 1 @ 1 0 00087142
+jockey n 1 0 1 0 00074955
+riktning n 2 2 @ = 2 0 00127832 00198823
+kniv n 1 1 %p 1 0 00136868
+kanyl n 1 0 1 0 00125000
+stol n 1 3 ~ @ %p 1 0 00218591
+appell n 1 1 @ 1 0 00128513
+gärning n 1 1 ~ 1 0 00224085
+layout n 2 1 @ 2 0 00003659 00175567
+turist n 1 0 1 0 00168185
+växt n 1 2 ~ -c 1 0 00047863
+inbillning n 1 1 ~ 1 0 00062672
+firma n 1 1 ~ 1 0 00120078
+tik n 1 0 1 0 00021822
+kolumn n 1 1 #m 1 0 00183726
+sprinkler n 1 0 1 0 00153378
+iteration n 1 1 ;c 1 0 00049311
+rokoko n 1 0 1 0 00210367
+ersättare n 1 0 1 0 00056372
+privilegium n 1 0 1 0 00189708
+postverk n 1 0 1 0 00072091
+kupol n 1 1 @ 1 0 00095562
+tillgivenhet n 1 0 1 0 00161135
+folklore n 1 1 -c 1 0 00218481
+fluor n 1 1 @ 1 0 00090847
+tråd n 1 0 1 0 00073290
+motsats n 3 0 3 0 00047530 00095821 00221319
+får n 1 1 #m 1 0 00113994
+monark n 1 1 ~ 1 0 00222140
+utkik n 1 1 @ 1 0 00059319
+anmärkning n 1 0 1 0 00115078
+gräslök n 1 0 1 0 00101281
+sökande n 1 1 @ 1 0 00104621
+skönlitteratur n 1 1 ~ 1 0 00155607
+imperium n 1 1 @ 1 0 00207362
+beskydd n 1 0 1 0 00147847
+strand n 2 1 %s 2 0 00039915 00081756
+laddning n 1 0 1 0 00222102
+föda n 1 1 ~ 1 0 00161334
+författare n 1 1 ~ 1 0 00089925
+avantgarde n 1 0 1 0 00171049
+skåpbil n 1 1 @ 1 0 00148832
+enzym n 1 1 @ 1 0 00176776
+vektor n 1 1 @ 1 0 00225641
+kittel n 1 1 @ 1 0 00011039
+tidsfördriv n 1 2 ~ @ 1 0 00026730
+telefon n 1 1 ~ 1 0 00040595
+korrespondens n 1 2 ~ %p 1 0 00251583
+schimpans n 1 0 1 0 00105897
+skuld n 2 2 ~ @ 2 0 00031491 00152999
+bi n 2 1 ~ 2 0 00041152 00130821
+garant n 1 0 1 0 00185442
+knut n 1 0 1 0 00208259
+hingst n 1 0 1 0 00082013
+sparsamhet n 1 0 1 0 00147918
+text n 1 3 ~ #p %p 1 0 00005835
+belastning n 1 1 ;c 1 0 00126874
+symbios n 1 0 1 0 00197998
+pincett n 1 0 1 0 00006896
+resultat n 3 2 ~ @ 3 0 00094247 00203296 00234524
+ombudsman n 1 1 @ 1 0 00062615
+utsatthet n 1 0 1 0 00189802
+väggrepp n 1 1 ;c 1 0 00078793
+hav n 1 0 1 0 00196597
+genomgång n 1 1 @ 1 0 00253791
+tal n 3 2 ~ @ 3 0 00022365 00075796 00236335
+konferens n 1 1 ~ 1 0 00164012
+kemikalier n 1 2 ~ @ 1 0 00100208
+telefonsamtal n 1 0 1 0 00028094
+fascist n 1 0 1 0 00163519
+atmosfär n 1 1 ~ 1 0 00246133
+hus n 1 3 ~ @ %p 1 0 00173798
+stoppur n 1 0 1 0 00067796
+kuvert n 1 0 1 0 00246391
+bibliotekarie n 1 1 @ 1 0 00140474
+mål n 6 3 ~ @ ;c 6 0 00054177 00061549 00084812 00120971 00162076 00240130
+svält n 1 1 @ 1 0 00169025
+samtal n 2 2 ~ @ 2 0 00006824 00207852
+repetition n 1 2 @ ;c 1 0 00090093
+daggmask n 1 0 1 0 00029514
+skaft n 1 0 1 0 00194551
+löpande_band n 1 1 #p 1 0 00132825
+hopp n 1 0 1 0 00063350
+bomull n 1 1 @ 1 0 00046486
+joule n 1 0 1 0 00232176
+livränta n 1 0 1 0 00206873
+proletariat n 1 2 @ %m 1 0 00099197
+översikt n 1 1 @ 1 0 00072907
+namnlängd n 1 1 @ 1 0 00148126
+angelägenhet n 1 0 1 0 00142652
+mosaik n 1 0 1 0 00251322
+pump n 1 0 1 0 00151288
+lock n 2 3 @ #p %p 2 0 00009983 00181781
+credo n 1 1 @ 1 0 00099455
+mened n 1 1 @ 1 0 00232089
+samspel n 1 0 1 0 00125260
+session n 2 1 @ 2 0 00177646 00243652
+akustik n 1 0 1 0 00042508
+bageri n 1 2 ~ @ 1 0 00088217
+omdöme n 1 0 1 0 00114649
+piga n 1 0 1 0 00182651
+evenemang n 1 1 ~ 1 0 00007375
+skampåle n 1 0 1 0 00072182
+teologi n 1 1 @ 1 0 00036791
+kreditkort n 1 0 1 0 00119319
+mottagning n 3 2 ~ @ 3 0 00080197 00122544 00167571
+kulvert n 1 1 @ 1 0 00238636
+spetälska n 1 0 1 0 00147604
+huvud n 1 2 #p %p 1 0 00200578
+nyckelpiga n 1 0 1 0 00086073
+berömmelse n 1 1 @ 1 0 00085960
+inflytande n 1 1 ~ 1 0 00011638
+procent n 1 1 @ 1 0 00199977
+katten n 1 0 1 0 00010440
+yxa n 1 1 %p 1 0 00105731
+kind n 4 2 @ #p 4 0 00001021 00059774 00139712 00209083
+risk n 1 0 1 0 00038148
+tabell n 1 1 %m 1 0 00085718
+duva n 1 0 1 0 00007174
+underkastelse n 1 1 @ 1 0 00253588
+komplott n 1 1 @ 1 0 00116915
+mord n 1 1 ~ 1 0 00137308
+brons n 1 1 @ 1 0 00037550
+uppträdande n 1 1 ~ 1 0 00194890
+rojalism n 1 0 1 0 00002120
+mutation n 1 1 @ 1 0 00242848
+bölja n 1 1 @ 1 0 00076475
+rallare n 1 1 @ 1 0 00154262
+uppror n 1 1 ~ 1 0 00011199
+segelflyg n 1 0 1 0 00226284
+emancipation n 1 0 1 0 00087552
+asket n 1 0 1 0 00207040
+nattklubb n 1 0 1 0 00010677
+ås n 1 0 1 0 00021256
+livsstil n 1 0 1 0 00127405
+dysenteri n 1 1 %p 1 0 00104048
+natur n 3 2 @ %p 3 0 00024746 00052215 00234888
+halm n 1 0 1 0 00234134
+kräm n 1 1 @ 1 0 00074856
+tvivel n 1 1 @ 1 0 00222274
+mugg n 1 0 1 0 00041774
+seminarium n 2 1 @ 2 0 00033111 00034668
+quisling n 1 0 1 0 00232939
+svans n 1 0 1 0 00068615
+attest n 1 1 @ 1 0 00081959
+pina n 1 2 ! ~ 1 0 00126340
+antal n 1 1 ~ 1 0 00171089
+tillverkning n 3 1 @ 3 0 00077354 00145186 00236293
+handled n 1 1 #p 1 0 00205714
+rosett n 1 1 @ 1 0 00063963
+institution n 1 2 ~ @ 1 0 00109939
+tomgång n 1 0 1 0 00015647
+exercis n 1 1 @ 1 0 00251794
+stup n 1 0 1 0 00145923
+individ n 2 4 ~ @ %p #m 2 0 00044446 00196914
+rör n 2 0 2 0 00056843 00211386
+gåta n 1 0 1 0 00192739
+cellist n 1 0 1 0 00074459
+ande n 1 0 1 0 00197355
+vägg n 1 3 ~ #p %p 1 0 00035322
+väta n 1 0 1 0 00126591
+golf n 1 0 1 0 00160731
+garderob n 1 1 @ 1 0 00098283
+spets n 2 2 @ #p 2 0 00086445 00199378
+satir n 1 0 1 0 00181872
+kotteri n 1 0 1 0 00029716
+handske n 1 0 1 0 00109764
+smitta n 1 1 @ 1 0 00223184
+paradox n 1 1 @ 1 0 00085005
+förordnande n 1 1 @ 1 0 00102730
+kondom n 1 1 @ 1 0 00100431
+frekvens n 1 0 1 0 00240183
+struktur n 2 2 ~ = 2 0 00049768 00143548
+pastor n 1 0 1 0 00159932
+sjukgymnastik n 1 2 ~ @ 1 0 00178568
+tilldelning n 1 1 ~ 1 0 00188726
+hotell n 2 2 ~ @ 2 0 00003915 00211550
+knall n 1 1 @ 1 0 00019785
+ultimatum n 1 1 @ 1 0 00025641
+alumn n 1 1 @ 1 0 00164755
+framsida n 1 2 ! ~ 1 0 00138913
+sprut n 1 0 1 0 00056254
+absorption n 1 1 ;c 1 0 00088821
+sjöman n 2 2 ~ @ 2 0 00070697 00152590
+sinnelag n 1 1 ~ 1 0 00063258
+kavalkad n 1 0 1 0 00018939
+feodalism n 1 0 1 0 00220161
+fejd n 1 0 1 0 00028432
+telegraf n 1 1 @ 1 0 00108695
+böjning n 1 1 ~ 1 0 00140728
+president n 1 0 1 0 00176667
+lysning n 1 0 1 0 00140535
+fartyg n 1 1 ~ 1 0 00201463
+citron n 2 0 2 0 00073377 00187785
+herravälde n 2 2 ~ @ 2 0 00217673 00218885
+hjärter n 2 0 2 0 00168879 00234941
+ynnest n 1 0 1 0 00229768
+läger n 1 1 @ 1 0 00012654
+expo n 1 0 1 0 00058951
+vinst n 1 0 1 0 00200428
+lärobok n 1 2 ~ @ 1 0 00252000
+ögonskugga n 1 1 @ 1 0 00006689
+lågtryck n 1 0 1 0 00209393
+serum n 1 1 #s 1 0 00182069
+förskola n 1 1 ~ 1 0 00221262
+addition n 1 0 1 0 00206166
+tjänare n 2 2 ~ @ 2 0 00016120 00200804
+prefekt n 1 1 @ 1 0 00231011
+skyfall n 1 1 @ 1 0 00103162
+lergods n 1 1 %s 1 0 00175834
+verksamhet n 1 0 1 0 00096578
+aktivist n 1 0 1 0 00170017
+stroke n 1 0 1 0 00134528
+stank n 1 0 1 0 00181657
+consensus n 1 1 @ 1 0 00016889
+maraton n 2 1 @ 2 0 00081529 00160508
+demokrati n 1 0 1 0 00018486
+faster n 1 1 ! 1 0 00242536
+favorit n 1 0 1 0 00226450
+dagtid n 1 5 ! ~ @ #p %p 1 0 00095897
+tillvägagångssätt n 2 1 ~ 2 0 00099147 00190070
+upphovsrätt n 1 1 @ 1 0 00059078
+motorväg n 1 1 %p 1 0 00198694
+altruist n 1 0 1 0 00053096
+styvbarn n 1 1 @ 1 0 00013676
+skydd n 1 1 ~ 1 0 00196418
+distributör n 1 0 1 0 00153417
+entusiasm n 1 0 1 0 00249265
+konflikt n 2 1 ~ 2 0 00035284 00036448
+champagne n 1 0 1 0 00001607
+höjdpunkt n 1 1 @ 1 0 00162993
+invaliditet n 1 0 1 0 00031401
+drog n 1 1 ~ 1 0 00100771
+variabel n 1 2 ~ @ 1 0 00233704
+tröst n 1 0 1 0 00060328
+plundring n 1 0 1 0 00094543
+gärningsman n 1 0 1 0 00219050
+stål n 1 2 @ %s 1 0 00036226
+vapenvila n 1 1 @ 1 0 00110209
+ifrågasättande n 1 0 1 0 00229458
+målare n 1 1 @ 1 0 00083829
+förskott n 1 0 1 0 00169265
+matsilver n 1 0 1 0 00001695
+stolpiller n 1 1 @ 1 0 00134276
+kloster n 2 3 ~ @ %p 2 0 00037329 00239962
+urval n 1 0 1 0 00001479
+fasad n 1 1 @ 1 0 00189749
+begränsning n 4 2 ~ @ 4 0 00102426 00159275 00161177 00189957
+seans n 1 0 1 0 00128331
+belägg n 1 1 ~ 1 0 00065793
+tillsats n 1 1 @ 1 0 00017654
+sovrum n 1 3 @ #p %p 1 0 00194096
+kabin n 1 1 #p 1 0 00154398
+intresse n 1 2 ~ @ 1 0 00026730
+rikoschett n 1 0 1 0 00107557
+omelett n 1 1 @ 1 0 00077560
+lekman n 1 0 1 0 00061370
+vakuum n 2 1 @ 2 0 00079775 00201738
+gamling n 1 1 @ 1 0 00034143
+badrum n 1 3 @ #p %p 1 0 00006219
+enhet n 1 0 1 0 00085622
+oskuld n 1 0 1 0 00164441
+kapten n 1 0 1 0 00207075
+bubbla n 1 0 1 0 00236913
+elev n 1 0 1 0 00058418
+invasion n 1 0 1 0 00121058
+hatt n 1 0 1 0 00075613
+kindknota n 1 2 @ #p 1 0 00001092
+kristallkrona n 1 0 1 0 00243887
+däggdjur n 1 0 1 0 00179747
+disk n 1 0 1 0 00248097
+storlek n 1 2 @ = 1 0 00002436
+piano n 1 0 1 0 00143362
+ris n 1 1 @ 1 0 00198035
+verkan n 1 2 ~ @ 1 0 00142001
+embryo n 1 1 @ 1 0 00081865
+toppmöte n 2 1 @ 2 0 00037643 00193515
+sanning n 2 3 ! ~ = 2 0 00097550 00240300
+boulevard n 1 0 1 0 00204681
+gud n 1 1 ~ 1 0 00222328
+musik n 1 2 ~ -c 1 0 00192379
+duggregn n 1 1 @ 1 0 00245376
+boning n 1 1 @ 1 0 00150214
+björntjänst n 1 1 ! 1 0 00120344
+nedgång n 1 1 @ 1 0 00139042
+kilo n 1 1 %p 1 0 00053628
+kikare n 1 0 1 0 00006311
+meddelande n 1 2 ~ @ 1 0 00105495
+folkmusik n 1 0 1 0 00145763
+student n 1 1 ~ 1 0 00246909
+feber n 1 1 @ 1 0 00074085
+frekvensband n 1 0 1 0 00076250
+hjord n 1 1 %m 1 0 00206420
+stilett n 1 0 1 0 00190498
+kindtand n 1 1 @ 1 0 00143492
+satellit n 1 2 ~ @ 1 0 00007762
+överste n 1 0 1 0 00201384
+skinn n 1 0 1 0 00164273
+ställföreträdare n 1 1 @ 1 0 00220094
+evolution n 2 0 2 0 00068212 00148759
+medlemskap n 1 0 1 0 00252771
+bråck n 1 0 1 0 00169677
+ö n 1 1 @ 1 0 00247153
+handbok n 1 1 ~ 1 0 00026279
+komfort n 1 0 1 0 00243813
+solsting n 1 0 1 0 00144669
+guide n 2 1 @ 2 0 00120782 00163466
+skivstång n 1 1 @ 1 0 00004709
+polis n 2 3 %m ~ #m 2 0 00032463 00078851
+avgrund n 1 0 1 0 00205914
+rivalitet n 1 1 ~ 1 0 00133963
+ergonomi n 1 1 @ 1 0 00193930
+löpare n 1 2 ~ @ 1 0 00172818
+fosfor n 1 0 1 0 00131725
+basker n 1 1 @ 1 0 00055852
+fikon n 1 0 1 0 00022543
+intelligens n 1 2 ~ = 1 0 00063685
+fotografering n 1 1 -c 1 0 00127585
+reklam n 3 3 ~ @ #p 3 0 00037275 00195634 00249915
+ton n 2 1 ~ 2 0 00033875 00253883
+kandelaber n 1 0 1 0 00002043
+patriot n 1 0 1 0 00058452
+term n 1 1 @ 1 0 00173014
+decennium n 1 3 @ #p %p 1 0 00141689
+schnitzel n 1 1 @ 1 0 00228747
+haveri n 1 0 1 0 00135698
+rälsbuss n 1 1 #m 1 0 00168417
+belopp n 1 0 1 0 00084776
+kollega n 1 0 1 0 00231378
+vånda n 2 1 @ 2 0 00085810 00168340
+yard n 1 1 %p 1 0 00160970
+privatliv n 1 0 1 0 00088487
+skjorta n 1 2 ~ @ 1 0 00142162
+takt n 2 0 2 0 00182288 00206386
+linje n 1 0 1 0 00018277
+uppfödare n 1 0 1 0 00086659
+korpral n 1 0 1 0 00072512
+analogi n 1 0 1 0 00006510
+fläck n 1 0 1 0 00088365
+förespråkare n 1 1 @ 1 0 00115229
+reggae n 1 0 1 0 00055585
+trikå n 1 0 1 0 00071094
+organist n 1 0 1 0 00152921
+kalaskula n 1 1 #p 1 0 00146351
+stycke n 1 1 @ 1 0 00209029
+fågel n 1 2 ~ %p 1 0 00226173
+lapp n 1 0 1 0 00010934
+stöd n 3 2 ~ @ 3 0 00019986 00112383 00203965
+post n 1 2 @ %p 1 0 00108969
+väster n 1 0 1 0 00200140
+tillfredsställelse n 1 2 ~ @ 1 0 00199837
+utsikt n 2 2 ~ @ 2 0 00030689 00083723
+fjärdedel n 1 0 1 0 00158055
+plattform n 1 1 ~ 1 0 00093316
+tumme n 1 1 @ 1 0 00159393
+emfas n 1 0 1 0 00226703
+differens n 1 0 1 0 00130491
+fånge n 1 1 ~ 1 0 00120290
+ägg n 1 2 %p %s 1 0 00215520
+rapport n 1 1 @ 1 0 00046881
+självsvåld n 1 0 1 0 00159138
+bur n 1 0 1 0 00184371
+snabbköp n 1 2 ~ @ 1 0 00013487
+prioritet n 1 0 1 0 00131472
+grundämne n 1 2 ~ %p 1 0 00156039
+ras n 1 0 1 0 00188847
+glasmästare n 1 1 @ 1 0 00109265
+rock n 1 0 1 0 00154837
+avgift n 3 1 ~ 3 0 00029333 00097921 00187488
+pyroman n 1 0 1 0 00135661
+förskoning n 1 0 1 0 00178796
+motivation n 3 1 @ 3 0 00128455 00211891 00244463
+brud n 1 1 @ 1 0 00239249
+övertygelse n 2 1 @ 2 0 00064963 00226323
+stridsspets n 1 0 1 0 00019160
+språk n 1 2 ~ @ 1 0 00158380
+harem n 1 0 1 0 00121023
+salong n 2 1 @ 2 0 00045587 00114066
+aktieägare n 1 0 1 0 00127041
+feghet n 1 2 ! = 1 0 00051320
+hormon n 1 2 ~ @ 1 0 00233581
+solbränna n 1 0 1 0 00081600
+dotter n 1 1 ! 1 0 00104177
+fattiglapp n 1 0 1 0 00080593
+klass n 3 3 ~ @ #p 3 0 00026677 00068780 00193782
+fotboll n 2 3 ~ @ -c 2 0 00146149 00180450
+version n 2 0 2 0 00129948 00231341
+motsägelse n 1 2 ~ @ 1 0 00048920
+aristokrat n 1 2 ~ @ 1 0 00079001
+profylax n 1 0 1 0 00056877
+hiss n 1 1 #p 1 0 00210314
+vulkan n 2 1 @ 2 0 00060174 00233416
+anekdot n 1 0 1 0 00182685
+medicin n 1 1 -c 1 0 00094582
+precision n 1 0 1 0 00167683
+skatt n 2 1 @ 2 0 00018886 00204500
+drag n 3 4 ~ @ ;c #p 3 0 00056077 00059910 00245709
+peppar n 1 0 1 0 00163288
+lunga n 1 0 1 0 00117981
+idé n 1 1 ~ 1 0 00225316
+art n 1 1 %m 1 0 00008104
+versal n 1 1 @ 1 0 00020228
+cirkulation n 1 0 1 0 00119735
+ört n 2 2 ~ %p 2 0 00149264 00206277
+innehav n 1 0 1 0 00219092
+koncentration n 2 1 @ 2 0 00158681 00235637
+nötskal n 1 1 @ 1 0 00086879
+sigill n 1 0 1 0 00047567
+primär n 1 1 @ 1 0 00201242
+hypotes n 1 1 @ 1 0 00246854
+bevis n 2 3 ~ @ ;c 2 0 00065923 00174158
+dart n 1 0 1 0 00248731
+sensation n 1 1 @ 1 0 00063780
+kommunist n 1 1 @ 1 0 00093571
+klump n 1 0 1 0 00073995
+vinthund n 1 0 1 0 00119776
+hugg n 1 2 ~ #p 1 0 00197814
+glipa n 1 0 1 0 00112082
+nikotin n 1 0 1 0 00160176
+tonhöjd n 1 0 1 0 00197921
+tax n 1 0 1 0 00181138
+boom n 1 1 @ 1 0 00047478
+påssjuka n 1 0 1 0 00134386
+restaurang n 1 2 ~ @ 1 0 00020039
+generation n 1 1 @ 1 0 00175743
+understatement n 1 0 1 0 00167058
+summa n 1 1 @ 1 0 00046325
+rättvisa n 1 1 ~ 1 0 00221356
+pensionär n 1 1 @ 1 0 00222973
+koffert n 1 1 #p 1 0 00022163
+furste n 1 1 ~ 1 0 00222140
+vilja n 1 0 1 0 00107597
+folkomröstning n 1 0 1 0 00008802
+kläder n 1 0 1 0 00092616
+make n 1 2 ! @ 1 0 00080291
+ståhej n 2 0 2 0 00002006 00033829
+kön n 1 1 = 1 0 00004344
+möblemang n 1 1 ~ 1 0 00148962
+plog n 1 1 @ 1 0 00070912
+tonåring n 1 0 1 0 00031132
+räfst n 1 0 1 0 00113463
+våning n 1 3 ~ @ #p 1 0 00094970
+ballong n 2 1 @ 2 0 00006417 00207147
+åktur n 1 1 ~ 1 0 00003458
+säkerhet n 1 3 ! ~ @ 1 0 00010754
+samfärdsel n 1 1 @ 1 0 00108430
+permission n 1 1 ~ 1 0 00150540
+tillit n 2 1 @ 2 0 00115884 00201888
+maskin n 1 1 ~ 1 0 00097623
+täljare n 1 0 1 0 00172580
+misstänkt n 1 1 @ 1 0 00192321
+tålamod n 1 0 1 0 00032294
+expansion n 1 0 1 0 00025382
+konsert n 1 1 -c 1 0 00099514
+buske n 1 1 ~ 1 0 00059504
+regnrock n 1 1 @ 1 0 00080974
+facilitet n 2 1 ~ 2 0 00094804 00148184
+snacks n 1 1 @ 1 0 00211112
+halsfluss n 1 0 1 0 00244503
+skalp n 1 1 @ 1 0 00058250
+ståndpunkt n 2 2 ~ @ 2 0 00095484 00135844
+jämförelse n 1 0 1 0 00145881
+civilisation n 2 3 @ ;c %p 2 0 00022670 00246464
+baddräkt n 1 2 ~ @ 1 0 00167387
+motion n 1 0 1 0 00229814
+mekanism n 1 1 ~ 1 0 00122185
+klotter n 1 0 1 0 00124598
+förare n 1 1 ~ 1 0 00078905
+shorts n 2 1 @ 2 0 00178742 00242127
+tryck n 3 0 3 0 00025218 00151503 00200878
+gaspedal n 1 1 #p 1 0 00204256
+diplomat n 2 1 @ 2 0 00171614 00191705
+allt_i_allo n 1 1 @ 1 0 00118057
+kusk n 1 0 1 0 00169139
+rally n 1 0 1 0 00222590
+tjänsteman n 1 3 ! ~ @ 1 0 00067549
+förnekande n 1 1 @ 1 0 00217859
+radikal n 1 2 ~ @ 1 0 00176829
+svåger n 1 0 1 0 00160471
+bautasten n 1 0 1 0 00079557
+afasi n 1 0 1 0 00236386
+sockerdricka n 1 0 1 0 00123180
+isolering n 1 0 1 0 00156261
+rikedom n 2 0 2 0 00027642 00049604
+balett n 2 2 @ %p 2 0 00165642 00204930
+stetoskop n 1 0 1 0 00166928
+kromosom n 1 1 %p 1 0 00227560
+sekretess n 1 0 1 0 00032952
+pinne n 1 1 ~ 1 0 00157158
+venus n 1 0 1 0 00034198
+avgång n 2 0 2 0 00152884 00180142
+kappa n 1 1 ~ 1 0 00246010
+kampanj n 2 1 @ 2 0 00134711 00195196
+misslyckande n 1 1 @ 1 0 00182975
+flock n 2 1 %m 2 0 00052886 00120236
+termostat n 1 1 #p 1 0 00185785
+kvinna n 1 3 ! ~ @ 1 0 00137360
+kortlek n 1 0 1 0 00118251
+subkultur n 1 1 #p 1 0 00240673
+psykiater n 1 1 ~ 1 0 00015761
+bit n 2 2 ~ @ 2 0 00084650 00176253
+format n 2 3 @ #p ;c 2 0 00057503 00094897
+påfyllning n 1 0 1 0 00137648
+lavemang n 1 0 1 0 00006129
+bås n 1 0 1 0 00037171
+bestickning n 1 0 1 0 00073413
+sjukgymnast n 1 1 @ 1 0 00231122
+rännil n 1 1 @ 1 0 00019671
+pastell n 1 0 1 0 00197613
+moln n 1 1 #p 1 0 00096415
+vandringsled n 1 0 1 0 00220270
+vitlök n 2 2 #p %p 2 0 00062420 00144574
+högkvarter n 1 1 @ 1 0 00118436
+drama n 1 0 1 0 00249449
+sångare n 1 1 ~ 1 0 00051253
+sammet n 1 1 @ 1 0 00028378
+välljud n 1 1 @ 1 0 00217526
+sfär n 2 0 2 0 00037939 00052629
+bronkit n 1 0 1 0 00160765
+ingivelse n 1 1 @ 1 0 00106302
+invektiv n 1 1 @ 1 0 00155057
+anorexi n 1 0 1 0 00104106
+tuta n 1 2 @ #p 1 0 00124890
+aktris n 1 1 @ 1 0 00132095
+tidtabell n 1 1 @ 1 0 00186136
+nomad n 1 0 1 0 00152122
+donator n 1 0 1 0 00007725
+husdjur n 1 1 @ 1 0 00132717
+reaktion n 3 1 ;c 3 0 00041325 00152681 00231704
+ögonblick n 1 0 1 0 00051888
+kompis n 2 0 2 0 00226487 00248842
+konsumtion n 2 2 @ ;c 2 0 00130074 00233504
+pund n 2 0 2 0 00186390 00196843
+gynekolog n 1 0 1 0 00225492
+kran n 1 0 1 0 00075847
+undanflykt n 1 0 1 0 00159235
+vadd n 1 1 @ 1 0 00123000
+diskotek n 1 0 1 0 00106871
+brottare n 1 0 1 0 00093928
+pantomim n 1 0 1 0 00023911
+arbetsförmedling n 1 0 1 0 00073057
+penis n 1 0 1 0 00018738
+yta n 1 2 ~ @ 1 0 00021572
+förstörelse n 1 1 @ 1 0 00204195
+skott n 1 0 1 0 00202160
+hänsyn n 1 0 1 0 00011002
+manér n 1 1 ~ 1 0 00135734
+ansikte n 1 2 #p %p 1 0 00159446
+våffla n 1 1 @ 1 0 00064759
+självbiografi n 1 1 @ 1 0 00148281
+blickfång n 1 0 1 0 00209262
+rodd n 1 1 @ 1 0 00035987
+tagg n 1 0 1 0 00070591
+relation n 1 0 1 0 00236836
+nominering n 1 0 1 0 00228892
+abort n 1 1 ~ 1 0 00042320
+höger n 2 1 ! 2 0 00073884 00149990
+kritiker n 1 1 @ 1 0 00178260
+tunna n 2 3 ~ @ %p 2 0 00229386 00244902
+flotta n 1 0 1 0 00221111
+absorberande n 1 0 1 0 00122584
+census n 1 0 1 0 00174454
+fotgängare n 1 0 1 0 00165809
+bacon n 1 0 1 0 00209906
+förtjänst n 1 0 1 0 00027170
+personlighet n 1 3 ~ #p %p 1 0 00052940
+choklad n 1 0 1 0 00103732
+operation n 2 2 ~ ;c 2 0 00042828 00088307
+brunn n 1 0 1 0 00070877
+rån n 1 1 @ 1 0 00181032
+revolution n 1 0 1 0 00232321
+tvekan n 1 1 ~ 1 0 00010193
+problem n 2 1 ~ 2 0 00053134 00078590
+komplikation n 1 1 @ 1 0 00038088
+kusin n 1 1 @ 1 0 00065011
+maträtt n 1 3 ~ #p %p 1 0 00253053
+förkylning n 1 0 1 0 00205363
+spak n 1 0 1 0 00103661
+fackman n 2 2 ~ @ 2 0 00144761 00177108
+sorg n 2 0 2 0 00141924 00216348
+platå n 1 0 1 0 00043148
+behärskning n 2 1 @ 2 0 00017710 00132940
+ketchup n 1 0 1 0 00096043
+bolmört n 1 1 @ 1 0 00117333
+minibil n 1 1 @ 1 0 00032203
+vision n 1 1 @ 1 0 00037682
+överraskning n 1 1 @ 1 0 00085657
+ben n 3 4 ~ @ #p #s 3 0 00123640 00174634 00215119
+lacknafta n 1 0 1 0 00178038
+kyrkogård n 1 1 @ 1 0 00095219
+form n 2 0 2 0 00053244 00253849
+massiv n 1 1 #p 1 0 00129487
+skruv n 1 1 ~ 1 0 00077734
+prövning n 1 0 1 0 00014813
+kabel n 1 1 @ 1 0 00149763
+kurragömma n 1 0 1 0 00057703
+humle n 1 0 1 0 00064535
+dialog n 2 1 @ 2 0 00185551 00232522
+socialist n 1 1 @ 1 0 00071845
+revolutionär n 1 2 ~ @ 1 0 00145802
+bok n 2 2 ~ @ 2 0 00172475 00201942
+kraftmätning n 1 0 1 0 00072221
+jeans n 1 1 @ 1 0 00175950
+bärsärkagång n 1 0 1 0 00196684
+vägledning n 1 1 ~ 1 0 00251663
+överskott n 1 0 1 0 00195251
+piket n 1 1 ~ 1 0 00057050
+frotté n 1 1 @ 1 0 00209594
+förstånd n 1 0 1 0 00206948
+relevans n 1 0 1 0 00083055
+sentiment n 1 0 1 0 00209827
+psykoanalys n 1 0 1 0 00098069
+bräda n 1 2 ~ @ 1 0 00046200
+immunitet n 1 1 @ 1 0 00179042
+torso n 1 2 #p %p 1 0 00024375
+xylofon n 1 0 1 0 00118214
+ögonvittne n 1 1 @ 1 0 00047330
+utpressning n 1 0 1 0 00088670
+ovisshet n 2 1 ~ 2 0 00010193 00148486
+elefant n 2 0 2 0 00116585 00143397
+övervikt n 1 0 1 0 00110720
+barnmorska n 1 1 @ 1 0 00064905
+bro n 1 3 ~ @ %p 1 0 00156754
+förmedling n 1 0 1 0 00072711
+bindestreck n 1 0 1 0 00056802
+småbruk n 1 1 @ 1 0 00090227
+förseelse n 1 2 ~ @ 1 0 00098567
+metallarbetare n 1 0 1 0 00094165
+trick n 1 1 @ 1 0 00253255
+panel n 1 0 1 0 00116799
+knäskål n 1 1 #p 1 0 00142499
+egenskap n 2 2 ~ @ 2 0 00129874 00190389
+pamflett n 1 1 @ 1 0 00250649
+seger n 3 2 ~ @ 3 0 00019278 00070824 00245564
+guld n 1 0 1 0 00243561
+höjd n 1 0 1 0 00191634
+medalj n 1 0 1 0 00017056
+gatlykta n 1 1 %p 1 0 00251943
+svägerska n 1 0 1 0 00106769
+nattlinne n 1 0 1 0 00199431
+lokal n 1 1 @ 1 0 00244815
+näsborre n 1 1 #p 1 0 00202195
+förväntan n 2 0 2 0 00118016 00158207
+transformator n 1 0 1 0 00154559
+svärfar n 1 1 @ 1 0 00079975
+förhållande n 3 1 ~ 3 0 00136049 00175172 00190313
+strof n 1 3 @ #p %p 1 0 00239451
+befolkning n 1 1 @ 1 0 00160006
+beståndsdel n 1 1 ~ 1 0 00143622
+damm n 1 0 1 0 00252217
+lipsill n 1 0 1 0 00012904
+näbb n 1 1 #p 1 0 00099914
+västerlandet n 1 2 ~i %p 1 0 00210494
+fara n 1 2 ! @ 1 0 00124180
+oordning n 1 2 ! @ 1 0 00096761
+arbetare n 4 2 ~ @ 4 0 00007560 00053278 00060364 00142274
+lampa n 1 2 @ %p 1 0 00217787
+tandlossning n 1 1 @ 1 0 00052269
+prins n 1 2 @ #m 1 0 00030543
+skogsbruk n 1 0 1 0 00164808
+mus n 2 0 2 0 00041886 00110370
+ambassad n 1 0 1 0 00193082
+redogörelse n 2 1 ~ 2 0 00158129 00176956
+utseende n 2 2 ~ @ 2 0 00021110 00230091
+protektionism n 1 0 1 0 00002814
+zoo n 1 1 @ 1 0 00101017
+jordnöt n 1 0 1 0 00134490
+action n 1 1 @ 1 0 00181692
+efterlevande n 1 1 @ 1 0 00161522
+talare n 1 0 1 0 00171710
+konservatism n 1 1 @ 1 0 00125110
+grad n 3 3 ~ @ = 3 0 00062870 00094695 00183360
+förvar n 1 1 @ 1 0 00088526
+bas n 1 0 1 0 00090648
+karate n 1 0 1 0 00021786
+verklighet n 1 1 = 1 0 00009235
+tunnland n 1 0 1 0 00061202
+bryderi n 1 1 @ 1 0 00244408
+serie n 2 3 @ #p %p 2 0 00119212 00250408
+iakttagelse n 1 0 1 0 00070381
+kilowatt n 1 1 %p 1 0 00165551
+betong n 1 1 %s 1 0 00140628
+kö n 1 1 @ 1 0 00000353
+partikel n 1 0 1 0 00021461
+sats n 1 0 1 0 00234713
+ranch n 1 1 @ 1 0 00194043
+kvitto n 2 2 ~ ;c 2 0 00007524 00020825
+psykolog n 1 1 @ 1 0 00230955
+fotograf n 1 1 @ 1 0 00050991
+motgång n 1 0 1 0 00002917
+orkan n 1 0 1 0 00196951
+fruktkött n 1 0 1 0 00230563
+kokkärl n 1 2 ~ @ 1 0 00049479
+härad n 1 0 1 0 00205804
+tips n 1 1 @ 1 0 00133718
+rönnbär n 1 1 @ 1 0 00165938
+ord n 2 3 ~ @ %p 2 0 00127940 00231181
+sup n 1 1 @ 1 0 00079265
+kraft n 2 2 ~ @ 2 0 00069614 00131599
+cylinder n 1 1 ~ 1 0 00019016
+sked n 1 0 1 0 00028925
+detalj n 1 2 ~ @ 1 0 00034361
+åldringsvård n 1 1 ! 1 0 00135202
+nolla n 1 0 1 0 00034726
+halvtimme n 1 1 #p 1 0 00109840
+papper n 1 3 ~ @ %s 1 0 00154674
+gudinna n 1 1 @ 1 0 00204535
+sammandrabbning n 1 1 @ 1 0 00105135
+beröm n 1 1 ~ 1 0 00208352
+hackspett n 1 0 1 0 00137158
+ytterlighet n 1 1 @ 1 0 00001891
+e-post n 1 1 ;c 1 0 00087594
+blyerts n 1 1 @ 1 0 00174705
+spindel n 1 0 1 0 00095525
+namne n 1 1 @ 1 0 00151235
+druvsocker n 1 0 1 0 00168300
+dåre n 1 0 1 0 00010899
+tuba n 1 0 1 0 00126971
+dom n 3 1 ;c 3 0 00015482 00064963 00237076
+fristad n 1 0 1 0 00055548
+kassaapparat n 1 0 1 0 00142610
+brandfackla n 1 1 @ 1 0 00056018
+gränssnitt n 1 2 @ ;c 1 0 00185625
+motåtgärd n 1 1 @ 1 0 00007992
+svärd n 1 3 ~ @ %p 1 0 00155796
+fel n 2 0 2 0 00013205 00222414
+förlängning n 2 1 @ 2 0 00115393 00215907
+trosa n 1 0 1 0 00147074
+födelsedag n 2 1 @ 2 0 00060017 00115771
+ficka n 1 1 #p 1 0 00052575
+mörker n 2 2 ~ @ 2 0 00200954 00226612
+misshandel n 2 1 @ 2 0 00121331 00247076
+alg n 1 0 1 0 00160335
+muskulatur n 1 0 1 0 00185920
+kaviar n 1 0 1 0 00186424
+värd n 1 1 @ 1 0 00134931
+skulptör n 1 1 @ 1 0 00056993
+fabrik n 2 3 ~ @ %p 2 0 00202378 00246263
+kyrka n 1 1 ~ 1 0 00024972
+dust n 1 1 @ 1 0 00085570
+tvärslå n 1 0 1 0 00056616
+dödsruna n 1 1 @ 1 0 00012208
+följd n 1 1 ~ 1 0 00238582
+värld n 1 0 1 0 00219693
+popularitet n 1 1 = 1 0 00163211
+kärra n 2 2 ~ @ 2 0 00088711 00218334
+slutvinjett n 1 0 1 0 00134089
+kärlek n 1 0 1 0 00052082
+välling n 1 1 @ 1 0 00214436
+hjul n 2 1 %p 2 0 00108302 00170812
+balkong n 1 2 @ %p 1 0 00182123
+stadsdel n 1 0 1 0 00089067
+slyna n 2 1 @ 2 0 00113651 00142557
+åskådare n 1 2 ~ @ 1 0 00064683
+fiskare n 1 0 1 0 00070752
+muta n 1 0 1 0 00040324
+siesta n 1 0 1 0 00137122
+fältassistent n 1 1 @ 1 0 00181206
+cyniker n 1 0 1 0 00246427
+historiker n 1 2 @ ;c 1 0 00116340
+färg n 2 1 @ 2 0 00011992 00234660
+tiger n 2 1 @ 2 0 00030761 00058985
+blankett n 1 2 ~ @ 1 0 00191778
+svin n 1 0 1 0 00095615
+fond n 1 1 ~ 1 0 00068251
+ockupation n 1 0 1 0 00152959
+såll n 1 0 1 0 00205496
+labyrint n 1 0 1 0 00214544
+altan n 1 0 1 0 00198276
+porträtt n 2 0 2 0 00009713 00076755
+middag n 1 1 @ 1 0 00214935
+kors n 1 1 @ 1 0 00104342
+fluga n 1 0 1 0 00180415
+koffein n 1 1 #s 1 0 00224882
+kaktus n 1 0 1 0 00046378
+argumentation n 2 0 2 0 00002353 00038045
+akt n 1 2 #p %p 1 0 00017270
+stipendium n 2 1 @ 2 0 00041492 00175078
+multimedia n 1 0 1 0 00061330
+mästerskap n 1 0 1 0 00129833
+trappa n 3 4 ~ @ #p %p 3 0 00049696 00056412 00121817
+sensor n 1 0 1 0 00168843
+tinning n 1 2 @ #p 1 0 00046715
+bombare n 1 1 @ 1 0 00014634
+korv n 2 2 ~ @ 2 0 00054621 00083795
+meningit n 1 0 1 0 00042282
+affekt n 1 1 ~ 1 0 00039064
+vandalism n 1 0 1 0 00186604
+interaktion n 1 1 ~ 1 0 00250705
+hjälte n 1 1 @ 1 0 00239157
+morot n 1 1 @ 1 0 00039862
+bär n 2 4 ~ @ #p %p 2 0 00032663 00082913
+ärr n 1 0 1 0 00028959
+vinsch n 1 0 1 0 00237169
+frimurare n 1 1 @ 1 0 00197757
+laser n 1 0 1 0 00133224
+frukt n 1 1 ~ 1 0 00235470
+sociolog n 1 0 1 0 00015317
+taxi n 1 1 @ 1 0 00103457
+champinjon n 1 1 ~ 1 0 00062362
+strejkbrytare n 1 1 @ 1 0 00094424
+lava n 1 0 1 0 00215388
+program n 5 4 ! ~ @ ;c 5 0 00061996 00087386 00096468 00171434 00197504
+cigarett n 1 0 1 0 00149672
+insats n 1 0 1 0 00228170
+variation n 1 1 @ 1 0 00202047
+självständighet n 1 0 1 0 00046596
+neutrum n 1 0 1 0 00253016
+grannlåt n 1 0 1 0 00054011
+ansökan n 1 1 @ 1 0 00248599
+lögn n 1 2 ~ @ 1 0 00040107
+utlänning n 1 1 ! 1 0 00168590
+handlag n 1 1 @ 1 0 00109083
+parad n 1 0 1 0 00069098
+pass n 1 2 ;c %p 1 0 00053863
+vinkel n 2 1 @ 2 0 00182376 00216417
+korsförhör n 1 1 ;c 1 0 00023663
+elände n 1 0 1 0 00236479
+cerat n 1 0 1 0 00101728
+människa n 1 2 %p -c 1 0 00073492
+intellekt n 1 1 @ 1 0 00240731
+förvaltare n 3 3 ~ @ ;c 3 0 00004522 00058503 00204813
+spökskrivare n 1 1 @ 1 0 00070476
+ambulans n 1 1 @ 1 0 00170264
+situation n 1 1 ~ 1 0 00179377
+servett n 1 0 1 0 00151016
+bult n 1 1 @ 1 0 00204728
+show n 1 1 ~ 1 0 00093483
+tenn n 1 1 @ 1 0 00148039
+kolera n 1 0 1 0 00009511
+nödfall n 1 0 1 0 00126933
+mittpunkt n 1 1 ~ 1 0 00036916
+figur n 1 2 ~ @ 1 0 00228564
+väg n 3 3 ~ @ %p 3 0 00062146 00117622 00245833
+midnatt n 1 2 @ #p 1 0 00001296
+kung n 3 3 ! @ #m 3 0 00088070 00158095 00208841
+identitet n 2 1 @ 2 0 00061036 00192188
+kyla n 1 1 @ 1 0 00184682
+svarande n 1 2 ! ;c 1 0 00233341
+källa n 2 1 @ 2 0 00010105 00179139
+korsett n 1 0 1 0 00085773
+belåtenhet n 1 1 ~ 1 0 00072752
+aber n 1 0 1 0 00153194
+tår n 1 1 %s 1 0 00191947
+grav n 1 1 @ 1 0 00012120
+bedövning n 1 2 ! ~ 1 0 00162542
+gräs n 2 0 2 0 00003624 00190278
+övergång n 1 0 1 0 00098150
+vardag n 1 0 1 0 00120552
+åsikt n 2 2 ~ ;c 2 0 00016763 00031021
+flod n 1 3 @ %p -c 1 0 00181548
+volontär n 2 1 @ 2 0 00155298 00221054
+ändring n 2 1 ~ 2 0 00073720 00077892
+förmåga n 1 2 ~ = 1 0 00133338
+soppa n 1 1 @ 1 0 00240549
+avkoppling n 1 0 1 0 00002396
+arrest n 2 0 2 0 00072964 00127005
+temperatur n 1 2 ~ = 1 0 00136921
+mobiltelefon n 1 0 1 0 00136337
+svårighet n 1 1 = 1 0 00216118
+barock n 1 0 1 0 00152157
+tapet n 1 1 @ 1 0 00077225
+tvilling n 2 0 2 0 00021072 00143155
+bärare n 2 1 @ 2 0 00104806 00179523
+deadline n 1 0 1 0 00058661
+terrorist n 1 2 @ ;c 1 0 00018773
+heroin n 1 0 1 0 00109325
+tecken n 4 2 ~ @ 4 0 00069929 00128714 00232885 00244318
+råtta n 1 0 1 0 00140315
+truism n 1 2 ~ @ 1 0 00012798
+år n 1 2 @ #p 1 0 00210831
+gräl n 1 2 ~ @ 1 0 00110016
+chauvinist n 1 0 1 0 00130696
+skepsis n 1 0 1 0 00112734
+eldorado n 1 0 1 0 00068058
+teater n 1 1 -c 1 0 00234060
+sortiment n 1 0 1 0 00161425
+stimulans n 1 0 1 0 00247203
+förehavande n 1 1 ~ 1 0 00145655
+schema n 2 2 ~ @ 2 0 00044167 00127443
+ombud n 1 1 ~ 1 0 00238938
+uppgång n 1 1 @ 1 0 00006454
+gudbarn n 1 1 @ 1 0 00217732
+kapplöpning n 1 1 @ 1 0 00066104
+illustration n 1 0 1 0 00107889
+bildspråk n 1 1 ~ 1 0 00062672
+anarkist n 1 1 @ 1 0 00220350
+grön n 1 0 1 0 00189488
+finansiär n 1 0 1 0 00099415
+ström n 1 0 1 0 00019838
+förbindelse n 2 1 @ 2 0 00036184 00198576
+satin n 1 1 @ 1 0 00052746
+fordon n 1 1 ~ 1 0 00092506
+övervägande n 1 1 @ 1 0 00184203
+smolk n 1 2 ~ @ 1 0 00035701
+orgel n 1 0 1 0 00179972
+laptop n 1 0 1 0 00185108
+turnering n 1 1 @ 1 0 00139526
+baneman n 1 2 ~ @ 1 0 00140989
+bofink n 1 0 1 0 00214582
+masochist n 1 1 ! 1 0 00234241
+övning n 1 2 ~ @ 1 0 00157393
+domherre n 1 0 1 0 00178530
+match n 1 2 ~ @ 1 0 00018571
+mått n 1 1 ~ 1 0 00032150
+utstyrsel n 1 0 1 0 00080554
+densitet n 1 0 1 0 00094209
+rörmokare n 1 1 @ 1 0 00205438
+skvaller n 2 1 ~ 2 0 00135352 00143232
+härkomst n 1 0 1 0 00210901
+dragning n 1 1 ~ 1 0 00131158
+djur n 1 3 ~ %p -c 1 0 00165201
+blazer n 1 1 @ 1 0 00016709
+korkskruv n 1 0 1 0 00119890
+beatnik n 1 0 1 0 00000876
+tejp n 2 1 @ 2 0 00000319 00193299
+förtegenhet n 1 0 1 0 00219557
+glas n 2 3 ~ #p %p 2 0 00098715 00219181
+räckvidd n 1 1 ~ 1 0 00185293
+besökare n 1 1 ~ 1 0 00188459
+skreva n 1 0 1 0 00064215
+sängvätare n 1 0 1 0 00233778
+sajt n 1 1 @ 1 0 00206988
+byrålåda n 1 2 #p %p 1 0 00158872
+strupe n 1 2 #p %p 1 0 00127245
+dimma n 2 2 ~ @ 2 0 00131546 00213623
+gård n 1 1 @ 1 0 00102677
+punkt n 2 0 2 0 00018536 00131214
+avresa n 1 2 ~ @ 1 0 00091454
+matlagning n 1 2 ~ -c 1 0 00028753
+skål n 1 1 @ 1 0 00243472
+ledtråd n 2 2 ~ @ 2 0 00121275 00137924
+era n 1 2 ~ @ 1 0 00113118
+bastu n 1 0 1 0 00036991
+ungdomsvårdsskola n 1 0 1 0 00128830
+förlamning n 1 0 1 0 00074759
+träff n 2 2 %m #m 2 0 00078108 00156595
+schism n 2 1 @ 2 0 00040358 00110666
+ateist n 1 0 1 0 00017092
+tandpetare n 1 0 1 0 00170599
+slag n 2 1 @ 2 0 00010551 00022618
+kopia n 1 1 ~ 1 0 00156431
+falsett n 1 0 1 0 00109361
+jordbävning n 1 0 1 0 00159088
+prognos n 1 0 1 0 00047237
+tema n 2 2 @ ;c 2 0 00116470 00214492
+körsnär n 1 0 1 0 00087347
+tillfälle n 1 0 1 0 00013876
+länk n 1 0 1 0 00179282
+sömngångare n 1 0 1 0 00094381
+triangel n 1 0 1 0 00069002
+kick n 1 0 1 0 00127906
+larm n 1 1 ~ 1 0 00095080
+kirurgi n 1 1 -c 1 0 00048538
+vätska n 2 2 ~ @ 2 0 00048027 00209738
+hemgift n 1 1 @ 1 0 00222625
+utvisning n 1 0 1 0 00236874
+urmakare n 1 0 1 0 00031238
+rabies n 1 0 1 0 00174212
+ingrediens n 1 1 @ 1 0 00202928
+mardröm n 2 1 @ 2 0 00057465 00206607
+rovdjur n 2 1 @ 2 0 00110923 00173761
+socialvård n 1 1 @ 1 0 00208555
+konsult n 1 1 @ 1 0 00127991
+granat n 1 0 1 0 00080161
+möda n 1 1 @ 1 0 00237023
+gest n 1 1 @ 1 0 00241407
+trans n 1 0 1 0 00163324
+monopol n 1 1 @ 1 0 00154906
+skörd n 2 2 @ #p 2 0 00015244 00250046
+läskunnighet n 1 1 @ 1 0 00118849
+ledare n 2 2 ~ @ 2 0 00043184 00063168
+försäljare n 2 1 @ 2 0 00039970 00067833
+pubertet n 1 0 1 0 00117908
+cider n 1 1 @ 1 0 00225263
+tidning n 1 2 ~ %p 1 0 00146409
+byggnad n 1 3 ~ @ %p 1 0 00008286
+forskare n 2 2 ~ @ 2 0 00081210 00160102
+mummel n 1 0 1 0 00251033
+separation n 1 1 ~ 1 0 00250480
+välgörenhet n 2 1 @ 2 0 00113499 00113686
+remiss n 1 0 1 0 00040711
+proportion n 2 2 ~ @ 2 0 00104861 00143736
+nöt n 1 1 @ 1 0 00152339
+skorsten n 1 0 1 0 00235980
+verkstad n 2 1 @ 2 0 00198482 00220943
+export n 1 2 ! @ 1 0 00174527
+jukebox n 1 0 1 0 00006748
+bevarande n 2 1 @ 2 0 00025698 00076381
+utmätning n 1 0 1 0 00164662
+försummelse n 2 0 2 0 00015202 00245522
+metod n 1 2 ~ @ 1 0 00244542
+sprinter n 1 1 @ 1 0 00055216
+skepnad n 1 0 1 0 00063648
+fint n 1 0 1 0 00068541
+krage n 1 0 1 0 00246190
+insamling n 1 0 1 0 00095858
+jumpa n 1 0 1 0 00152029
+lä n 1 1 @ 1 0 00230372
+avvikelse n 1 0 1 0 00144630
+humor n 1 0 1 0 00105936
+avskräde n 1 1 @ 1 0 00166708
+blixt n 4 0 4 0 00032790 00146502 00156719 00165067
+änkling n 1 1 @ 1 0 00021677
+dagordning n 2 1 @ 2 0 00023853 00111074
+asyl n 2 1 @ 2 0 00057999 00174032
+dödskalle n 1 3 @ #p %p 1 0 00204332
+rekvisita n 1 0 1 0 00242088
+halvö n 1 1 @ 1 0 00115488
+kombination n 1 1 @ 1 0 00250874
+tablett n 1 1 @ 1 0 00014020
+buffé n 1 1 @ 1 0 00030856
+expert n 1 2 ~ @ 1 0 00082437
+ingripande n 2 2 ~ ;c 2 0 00223838 00249767
+hågkomst n 1 0 1 0 00217026
+sjukvård n 1 0 1 0 00006785
+valv n 1 2 @ #p 1 0 00125724
+kapacitet n 1 1 @ 1 0 00090170
+allvar n 1 0 1 0 00071646
+smuts n 1 0 1 0 00178135
+helgedom n 1 0 1 0 00243308
+nomenklatur n 1 1 @ 1 0 00087761
+bekantskap n 1 0 1 0 00018698
+skyskrapa n 1 1 @ 1 0 00037882
+företal n 1 2 @ #p 1 0 00082803
+öl n 1 1 @ 1 0 00054344
+utlåning n 1 0 1 0 00027211
+handduk n 1 0 1 0 00083342
+driva n 2 2 @ ;c 2 0 00147109 00171268
+wienerkorv n 1 1 @ 1 0 00138380
+optimism n 2 1 @ 2 0 00064308 00209483
+tröskel n 2 0 2 0 00085532 00195794
+gir n 1 0 1 0 00199470
+stormakt n 1 1 @ 1 0 00144044
+chips n 2 1 #p 2 0 00061495 00138617
+framkallning n 1 0 1 0 00125649
+mark n 1 3 ~ @ #p 1 0 00049168
+fördom n 1 1 ~ 1 0 00223783
+garanti n 1 0 1 0 00005030
+skida n 1 0 1 0 00218809
+gensvar n 1 1 @ 1 0 00182430
+smil n 1 1 @ 1 0 00014075
+kvantitet n 1 2 ~ @ 1 0 00128969
+konstitution n 1 0 1 0 00020656
+dunk n 1 0 1 0 00100397
+viljestyrka n 1 0 1 0 00203445
+spelare n 1 0 1 0 00046678
+inledning n 1 2 ~ #p 1 0 00192227
+enkät n 3 2 @ ;c 3 0 00074030 00211003 00222771
+nöje n 1 1 ! 1 0 00211640
+millimeter n 1 1 #p 1 0 00203025
+cell n 3 2 @ #p 3 0 00100581 00117191 00137051
+marsipan n 1 0 1 0 00013094
+underhåll n 1 0 1 0 00051794
+stålverk n 1 1 @ 1 0 00156860
+smak n 3 1 @ 3 0 00115737 00188880 00248131
+nytta n 1 1 ~ 1 0 00061406
+ocean n 1 0 1 0 00216382
+fängelse n 1 0 1 0 00009752
+lossning n 1 0 1 0 00169639
+kompromiss n 2 0 2 0 00019874 00113880
+halvsyster n 1 1 @ 1 0 00099856
+domare n 2 2 @ ;c 2 0 00029662 00219876
+journal n 2 1 @ 2 0 00192774 00196323
+teknologi n 1 2 ~ @ 1 0 00076027
+utredare n 1 2 ~ @ 1 0 00058067
+personal n 1 0 1 0 00091743
+trumslagare n 1 0 1 0 00201535
+pelare n 1 2 ;c %p 1 0 00205840
+nedrustning n 1 0 1 0 00216077
+dräkt n 3 1 @ 3 0 00046414 00087008 00110155
+syrsa n 2 0 2 0 00173621 00188691
+tryckpress n 1 1 @ 1 0 00101538
+process n 1 1 ~ 1 0 00166443
+knapphål n 1 1 #p 1 0 00252882
+service n 2 2 ! @ 2 0 00044274 00239835
+tavla n 1 0 1 0 00230886
+klister n 1 0 1 0 00059467
+sköka n 1 1 @ 1 0 00043534
+syl n 1 0 1 0 00204780
+hamburgerkött n 1 2 @ #p 1 0 00039279
+bestämmelse n 2 0 2 0 00028282 00111032
+respons n 1 1 ~ 1 0 00211836
+puck n 1 1 @ 1 0 00151397
+sjukdom n 3 4 ! ~ @ %p 3 0 00079829 00127647 00138858
+opium n 1 0 1 0 00222239
+skärm n 2 1 ~ 2 0 00065994 00208424
+plattityd n 1 1 @ 1 0 00245263
+regering n 1 2 ~ %m 1 0 00139873
+professur n 1 0 1 0 00133811
+otack n 1 0 1 0 00109507
+puppa n 1 1 @ 1 0 00198879
+spektrum n 1 1 @ 1 0 00131303
+gäldenär n 1 2 ! @ 1 0 00167826
+incest n 1 0 1 0 00142463
+stadga n 1 1 @ 1 0 00155947
+sannolikhet n 2 0 2 0 00042092 00221221
+vågbrytare n 1 0 1 0 00168376
+dussin n 1 0 1 0 00102015
+ekonomi n 2 2 @ -c 2 0 00096925 00179786
+broms n 1 0 1 0 00125848
+förvrängning n 2 1 @ 2 0 00044329 00065487
+kassett n 1 0 1 0 00044072
+spillra n 1 0 1 0 00190885
+arkeolog n 1 0 1 0 00191596
+kviga n 1 1 @ 1 0 00014296
+mening n 1 0 1 0 00022398
+majstång n 1 0 1 0 00189356
+eksem n 1 0 1 0 00131511
+kofta n 1 1 @ 1 0 00251269
+pudding n 1 1 @ 1 0 00168970
+aktiekapital n 1 1 %p 1 0 00080913
+gunga n 2 1 @ 2 0 00105696 00214618
+förakt n 1 0 1 0 00103695
+koranen n 1 0 1 0 00136379
+plåster n 1 0 1 0 00156502
+provision n 1 1 @ 1 0 00176376
+försurning n 1 0 1 0 00081679
+skenben n 1 0 1 0 00089810
+bandit n 1 1 @ 1 0 00134804
+förhandling n 1 1 ~ 1 0 00030796
+skinka n 1 0 1 0 00170320
+kurir n 1 0 1 0 00082082
+skilsmässa n 1 2 @ ;c 1 0 00102599
+medeltal n 1 1 ;c 1 0 00250933
+solarium n 1 1 @ 1 0 00225207
+vykort n 1 1 @ 1 0 00186550
+rubrik n 1 1 #p 1 0 00104919
+vedermöda n 1 0 1 0 00114422
+tvetydighet n 1 0 1 0 00166402
+tillstånd n 2 3 ~ ;c = 2 0 00047603 00217216
+papp n 1 0 1 0 00134242
+medlidande n 1 0 1 0 00153532
+skötsel n 2 1 ~ 2 0 00163795 00185587
+återförsäljare n 2 1 @ 2 0 00131761 00167102
+chock n 1 0 1 0 00056337
+plats n 3 3 ~ @ ;c 3 0 00110403 00128166 00208930
+parlament n 1 1 @ 1 0 00075304
+fiber n 1 2 @ %s 1 0 00251722
+vatten n 1 3 @ #s %s 1 0 00173269
+lejon n 2 0 2 0 00013238 00162869
+krok n 1 0 1 0 00101068
+bilaga n 1 1 @ 1 0 00051834
+jeep n 1 1 @ 1 0 00028522
+konvulsion n 1 0 1 0 00194586
+box n 1 2 ~ %p 1 0 00172891
+nackdel n 1 1 ~ 1 0 00106909
+ballerina n 1 0 1 0 00112601
+chef n 3 2 ~ @ 3 0 00081122 00209775 00221928
+intrig n 1 1 ~ 1 0 00131249
+syfilis n 1 0 1 0 00153104
+pussel n 1 1 ~ 1 0 00043628
+välstånd n 2 1 ~ 2 0 00141119 00181435
+teolog n 1 1 @ 1 0 00084430
+krukväxt n 1 1 @ 1 0 00113729
+själamässa n 1 0 1 0 00248055
+innebörd n 1 1 ~ 1 0 00192971
+lösning n 2 1 ~ 2 0 00146851 00222825
+mandolin n 1 0 1 0 00093966
+aladåb n 1 0 1 0 00041808
+prefix n 1 0 1 0 00114120
+policy n 1 1 @ 1 0 00169963
+storhet n 1 1 ~ 1 0 00103900
+samtid n 1 1 @ 1 0 00098015
+basketboll n 1 0 1 0 00242956
+kommissarie n 1 0 1 0 00172434
+förtvivlan n 2 3 ! ~ @ 2 0 00015570 00060076
+blodsugare n 1 0 1 0 00252731
+blåskatarr n 1 0 1 0 00228670
+knippe n 1 1 ~ 1 0 00175504
+bebyggelse n 1 1 @ 1 0 00068870
+försäkran n 1 0 1 0 00004063
+kvalitet n 1 2 @ = 1 0 00223497
+spöke n 1 1 @ 1 0 00181084
+frånvaro n 1 0 1 0 00174831
+själsstyrka n 1 2 ~ @ 1 0 00042373
+textrad n 1 2 @ #p 1 0 00189523
+näsduk n 2 1 @ 2 0 00110850 00131933
+bikini n 1 1 @ 1 0 00021919
+general n 1 0 1 0 00156224
+fall n 2 1 @ 2 0 00118984 00183539
+hämning n 1 1 ;c 1 0 00008847
+stek n 1 0 1 0 00096727
+lotteri n 1 1 ~ 1 0 00085148
+fjäril n 2 0 2 0 00022800 00239063
+hem n 2 3 ~ @ %p 2 0 00165995 00228368
+kock n 1 0 1 0 00117389
+tempel n 1 0 1 0 00035880
+magnat n 1 1 @ 1 0 00132041
+käke n 1 2 @ #p 1 0 00182903
+astma n 1 0 1 0 00154871
+scenario n 1 1 @ 1 0 00143306
+likvaka n 1 0 1 0 00193156
+oenighet n 1 2 ! @ 1 0 00118910
+bett n 1 1 @ 1 0 00134334
+beundran n 1 1 @ 1 0 00114462
+ägande n 1 0 1 0 00139675
+konditori n 1 1 @ 1 0 00168533
+kredit n 2 0 2 0 00064869 00250997
+kortslutning n 1 0 1 0 00226532
+svit n 1 1 @ 1 0 00065231
+malört n 1 0 1 0 00029422
+bilbälte n 1 0 1 0 00154359
+giraff n 1 0 1 0 00015446
+veteran n 1 1 @ 1 0 00029761
+kapitalism n 1 0 1 0 00179099
+hamn n 1 0 1 0 00248296
+jacka n 1 2 ~ @ 1 0 00027837
+farmaceut n 1 0 1 0 00002606
+led n 1 0 1 0 00201576
+diagram n 2 2 ~ @ 2 0 00096080 00245031
+rytm n 1 0 1 0 00177771
+kärnmjölk n 1 1 @ 1 0 00051968
+öde n 1 1 ~ 1 0 00043967
+flisa n 1 1 @ 1 0 00090283
+pulver n 1 0 1 0 00173066
+citat n 1 1 @ 1 0 00121725
+arkitekt n 1 0 1 0 00048807
+geting n 1 0 1 0 00071719
+skam n 2 1 ~ 2 0 00104491 00147509
+narkos n 1 1 @ 1 0 00095372
+panna n 2 3 ~ @ #p 2 0 00027731 00226101
+bom n 1 1 @ 1 0 00022219
+krita n 1 0 1 0 00148724
+vinter n 1 1 @ 1 0 00184918
+kilskrift n 1 1 @ 1 0 00239100
+experiment n 1 0 1 0 00031734
+berättelse n 1 0 1 0 00036750
+operett n 1 0 1 0 00210794
+snö n 1 0 1 0 00127319
+kommitté n 1 1 ~ 1 0 00188932
+referat n 1 0 1 0 00059241
+korruption n 1 0 1 0 00111793
+förgasare n 1 0 1 0 00186643
+keramiker n 1 1 @ 1 0 00089753
+knä n 2 2 @ %p 2 0 00122277 00241981
+advokatsamfund n 1 1 ;c 1 0 00210940
+centimeter n 1 2 #p %p 1 0 00116132
+försprång n 1 0 1 0 00161094
+sömn n 1 0 1 0 00143057
+samling n 1 1 ~ 1 0 00144211
+eld n 1 0 1 0 00238117
+ruin n 2 1 @ 2 0 00221998 00242904
+deciliter n 1 1 %p 1 0 00178077
+gröt n 1 2 ~ @ 1 0 00108587
+bana n 2 0 2 0 00108023 00189841
+duns n 1 0 1 0 00172672
+yrke n 3 1 @ 3 0 00017926 00171160 00248495
+bybo n 1 1 @ 1 0 00182777
+odugling n 1 1 ~ 1 0 00023013
+organisation n 1 1 ~ 1 0 00068321
+syndrom n 2 3 ~ @ #p 2 0 00037384 00117045
+följetong n 1 1 @ 1 0 00213211
+familj n 1 1 ~ 1 0 00083253
+förvärv n 1 1 ~ 1 0 00025068
+sinne n 2 1 @ 2 0 00064017 00119284
+manual n 1 1 @ 1 0 00152285
+föreståndare n 1 2 ~ @ 1 0 00155396
+skrivmaskin n 1 0 1 0 00003046
+lakan n 1 0 1 0 00082878
+fadäs n 1 0 1 0 00173233
+slum n 1 0 1 0 00130040
+jordbruk n 1 2 %p -c 1 0 00095277
+tvätt n 1 1 @ 1 0 00083199
+persongalleri n 2 2 @ #m 2 0 00103359 00141453
+nedtrappning n 1 1 @ 1 0 00165102
+toalettartikel n 1 1 ~ 1 0 00191091
+hat n 1 1 @ 1 0 00125540
+dokument n 1 1 ~ 1 0 00012265
+forum n 2 1 @ 2 0 00164702 00209302
+haj n 1 0 1 0 00041292
+pråm n 1 1 @ 1 0 00180179
+myndighet n 1 0 1 0 00033908
+sensmoral n 1 1 @ 1 0 00052420
+vetenskap n 1 3 ~ @ -c 1 0 00149425
+formalin n 1 1 @ 1 0 00023949
+klubb n 1 1 @ 1 0 00033359
+katt n 1 0 1 0 00179211
+singular n 1 0 1 0 00039824
+konkurrens n 1 1 ~ 1 0 00133963
+kulle n 1 0 1 0 00216584
+soptunna n 1 1 @ 1 0 00041382
+portion n 1 1 #p 1 0 00225097
+ven n 1 0 1 0 00110087
+styrning n 1 2 ~ @ 1 0 00118536
+uppvaktning n 1 0 1 0 00199503
+dagsljus n 1 0 1 0 00065662
+kanin n 1 0 1 0 00151200
+kronofogde n 1 0 1 0 00165027
+bedrägeri n 1 0 1 0 00038515
+nyhet n 3 1 @ 3 0 00113303 00136815 00168068
+läkare n 1 1 ~ 1 0 00048354
+rugby n 1 2 @ -c 1 0 00237205
+blandning n 1 0 1 0 00203159
+intrång n 1 0 1 0 00075168
+broschyr n 2 1 @ 2 0 00056746 00100615
+krog n 1 2 ~ @ 1 0 00075098
+fladdermus n 1 1 %p 1 0 00108751
+fräken n 1 1 #p 1 0 00066048
+reumatiker n 1 0 1 0 00130564
+alkov n 1 0 1 0 00081087
+vallmo n 1 1 @ 1 0 00223915
+magasin n 1 0 1 0 00235373
+utrustning n 2 1 ~ 2 0 00102998 00216508
+fjäder n 2 1 #p 2 0 00019520 00237733
+not n 1 2 ~ @ 1 0 00052799
+börda n 1 0 1 0 00032258
+broccoli n 2 2 #p %p 2 0 00137591 00154205
+horoskop n 2 1 @ 2 0 00106054 00158625
+sabotage n 1 0 1 0 00153285
+cirkel n 1 0 1 0 00203198
+asterisk n 1 1 @ 1 0 00005686
+bevakning n 1 0 1 0 00165162
+styrbord n 1 0 1 0 00081792
+rutt n 1 1 ~ 1 0 00185703
+bokslut n 1 1 ~ 1 0 00124635
+portfölj n 1 0 1 0 00186097
+eftervård n 1 0 1 0 00217119
+semester n 1 0 1 0 00047107
+envåldshärskare n 1 0 1 0 00011293
+uppfart n 1 1 @ 1 0 00040394
+synagoga n 1 0 1 0 00251069
+teoretiker n 1 1 ;c 1 0 00049090
+färdväg n 1 1 ~ 1 0 00185703
+omloppsbana n 1 1 @ 1 0 00024913
+jazz n 1 0 1 0 00003160
+ålder n 1 1 = 1 0 00243689
+adoption n 1 1 ;c 1 0 00091025
+rutin n 1 1 @ 1 0 00064402
+rekommendation n 1 1 @ 1 0 00037213
+tredska n 1 0 1 0 00027098
+komplimang n 1 1 @ 1 0 00142405
+medarbetare n 1 0 1 0 00231378
+fackförening n 1 1 @ 1 0 00150479
+kosmonaut n 1 0 1 0 00204144
+volym n 3 4 ~ @ = #m 3 0 00029972 00132772 00234747
+stjärna n 3 1 @ 3 0 00007136 00034290 00087197
+tv n 3 4 #p ;c %p -c 3 0 00035552 00123257 00219234
+socka n 1 0 1 0 00110815
+fluktuation n 1 0 1 0 00221469
+beräkning n 2 1 ~ 2 0 00238807 00242238
+vete n 1 0 1 0 00099570
+parfym n 1 1 @ 1 0 00167333
+mögel n 1 0 1 0 00207816
+kamera n 2 0 2 0 00011444 00175362
+underrättelsetjänst n 1 0 1 0 00167462
+skräck n 1 0 1 0 00097076
+hals n 1 2 #p %p 1 0 00019914
+defensiv n 1 1 @ 1 0 00069965
+hop n 1 0 1 0 00029939
+realism n 1 0 1 0 00163394
+artikel n 1 1 ~ 1 0 00046826
+ljusstyrka n 1 0 1 0 00020994
+kroppsbyggare n 1 1 @ 1 0 00019418
+far n 1 3 ! ~ @ 1 0 00221510
+drottning n 1 2 ! #m 1 0 00015685
+styrka n 3 6 = ! ~ @ %m #m 3 0 00135921 00161729 00244229
+festival n 1 1 @ 1 0 00192626
+hjärta n 3 1 @ 3 0 00017452 00029459 00237296
+hakkors n 1 0 1 0 00046789
+servitör n 1 1 ~ 1 0 00161277
+epileptiker n 1 0 1 0 00020133
+definition n 2 1 @ 2 0 00056297 00221761
+burk n 1 3 ~ @ %p 1 0 00062273
+vask n 1 1 ~ 1 0 00229134
+förskräckelse n 1 1 @ 1 0 00130428
+konstnär n 1 1 ~ 1 0 00244686
+residens n 1 1 @ 1 0 00200319
+munk n 1 1 ~ 1 0 00006167
+sputnik n 1 1 @ 1 0 00050147
+läpp n 1 0 1 0 00099730
+hög n 1 1 @ 1 0 00252251
+soluppgång n 1 0 1 0 00086202
+tändsticka n 1 1 @ 1 0 00022044
+bris n 1 1 @ 1 0 00157341
+vin n 1 1 @ 1 0 00212481
+detaljhandel n 1 1 @ 1 0 00118789
+stall n 1 0 1 0 00090613
+inträdesavgift n 1 1 @ 1 0 00106203
+skadestånd n 1 0 1 0 00059278
+lön n 1 0 1 0 00130530
+semifinal n 1 1 @ 1 0 00173941
+extremist n 1 1 @ 1 0 00086351
+tjockis n 1 0 1 0 00064141
+analfabet n 1 0 1 0 00162037
+upprepning n 1 1 ~ 1 0 00250538
+bombplan n 1 1 @ 1 0 00032734
+återblick n 1 0 1 0 00212334
+skalv n 1 0 1 0 00159088
+intryck n 1 1 @ 1 0 00079720
+terrier n 1 0 1 0 00132621
+gorilla n 1 0 1 0 00047990
+dadel n 1 0 1 0 00027135
+handledare n 2 2 ~ @ 2 0 00054268 00071182
+stav n 1 1 @ 1 0 00234436
+ledarskap n 2 2 ~ @ 2 0 00045395 00093130
+akupunktur n 1 0 1 0 00000459
+fördrag n 1 0 1 0 00072264
+sås n 1 1 #p 1 0 00187381
+import n 1 2 ! @ 1 0 00124361
+mynt n 1 2 ~ %p 1 0 00111515
+manskap n 1 0 1 0 00054451
+kamrer n 1 0 1 0 00106266
+anarki n 1 0 1 0 00175398
+back n 1 0 1 0 00172980
+hall n 2 2 @ %p 2 0 00092386 00201062
+färdtjänst n 1 1 @ 1 0 00065602
+korrelation n 1 0 1 0 00110494
+konfetti n 1 1 @ 1 0 00065700
+buss n 1 1 -c 1 0 00132474
+ungdom n 2 1 ! 2 0 00020585 00166874
+kontroll n 2 1 @ 2 0 00010716 00199226
+gräsmatta n 1 1 @ 1 0 00011827
+närvaro n 2 2 @ = 2 0 00017752 00070190
+skola n 2 2 @ %p 2 0 00055780 00060839
+doktrin n 1 2 ~ @ 1 0 00028574
+hantverk n 1 1 @ 1 0 00152425

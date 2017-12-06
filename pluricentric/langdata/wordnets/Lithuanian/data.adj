@@ -1,0 +1,773 @@
+  01 This file is a derivation of the wn-lit-lmf.xml file; the original lit-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: CC
+  06 language: lit
+  07 label: Lithuanian
+00000319 00 a 02 svetimas 0 užsieninis 0 000 |    
+00000371 00 a 01 plius 0 000 |    
+00000406 00 a 01 poliarinis 0 000 |    
+00000446 00 a 02 nepakenčiamas 0 nepakeliamas 0 000 |    
+00000505 00 a 02 vientisas 0 integralus 0 000 |    
+00000557 00 a 02 blogas 0 nepalankus 0 001 ! 00021404 a 0000 |    
+00000624 00 a 01 paliestas 0 000 |    
+00000663 00 a 02 atitinkamas 0 tinkamas 0 001 ^ 00017100 a 0000 |    
+00000733 00 a 03 grublėtas 0 šiurkštus 0 rupus 0 001 ^ 00002471 a 0000 |    
+00000813 00 a 02 palaikantis 0 palaikomas 0 001 ^ 00011259 a 0000 |    
+00000885 00 a 02 nešališkas 0 objektyvus 0 000 |    
+00000940 00 a 01 radioaktyvus 0 000 |    
+00000982 00 a 02 neįvertinamas 0 neapskaičiuojamas 0 000 |    
+00001047 00 a 02 nekaltas 0 tyras 0 000 |    
+00001093 00 a 02 įsitikinęs 0 pasitikintis 0 001 = 00106055 n 0000 |    
+00001168 00 a 01 socialistinis 0 001 ! 00006496 a 0000 |    
+00001229 00 a 01 kruvinas 0 000 |    
+00001267 00 a 02 panaikintas 0 atšauktas 0 000 |    
+00001321 00 a 02 legalus 0 teisėtas 0 002 ! 00027310 a 0000 ^ 00029248 a 0000 |    
+00001406 00 a 04 savavališkas 0 savavalis 0 šališkas 0 subjektyvus 0 000 |    
+00001488 00 a 02 nacionalinis 0 tautinis 0 002 ! 00008622 a 0000 ^ 00028126 a 0000 |    
+00001577 00 a 01 greitas 0 001 ;c 00392844 n 0000 |    
+00001633 00 a 02 nenuolaidus 0 bekompromisis 0 000 |    
+00001690 00 a 02 pasyvus 0 neveiklus 0 000 |    
+00001739 00 a 01 pakankamas 0 002 ! 00029170 a 0000 = 00187259 n 0000 |    
+00001815 00 a 01 nubaustas 0 000 |    
+00001854 00 a 01 krikščioniškas 0 000 |    
+00001901 00 a 02 materialinis 0 žemiškas 0 000 |    
+00001956 00 a 03 geros_reputacijos 0 gerbiamas 0 garbingas 0 000 |    
+00002027 00 a 03 būdingas 0 tipiškas 0 charakteringas 0 000 |    
+00002095 00 a 01 malonus 0 001 ^ 00005934 a 0000 |    
+00002150 00 a 02 nepriimtinas 0 nepageidautinas 0 000 |    
+00002210 00 a 02 naudingas 0 pagalbinis 0 000 |    
+00002262 00 a 03 vedęs 0 ištekėjusi 0 susituokęs 0 001 ! 00024448 a 0000 |    
+00002345 00 a 02 energingas 0 dinamiškas 0 000 |    
+00002399 00 a 02 teikiantis_pasitenkinimą 0 praturtinantis 0 000 |    
+00002471 00 a 02 nelygus 0 šiurkštus 0 001 ^ 00000733 a 0000 |    
+00002540 00 a 02 išspręstas 0 išaiškintas 0 000 |    
+00002598 00 a 01 standartinis 0 003 ! 00007481 a 0000 = 00299757 n 0000 ^ 00021493 a 0000 |    
+00002694 00 a 04 numatomas 0 ateities 0 laukiamas 0 būsimas 0 001 ! 00008740 a 0000 |    
+00002785 00 a 01 neatsakingas 0 001 ! 00021955 a 0000 |    
+00002845 00 a 02 numatytas 0 skirtas 0 000 |    
+00002894 00 a 02 nerišlus 0 bežadis 0 000 |    
+00002944 00 a 01 bejėgis 0 001 ^ 00015236 a 0000 |    
+00003000 00 a 02 beribis 0 neapibrėžtas 0 000 |    
+00003054 00 a 01 turintis_žemės 0 000 |    
+00003100 00 a 02 įspėjamasis 0 prevencinis 0 000 |    
+00003157 00 a 02 eksportuojamas 0 tinkamas_eksportui 0 000 |    
+00003222 00 a 02 sugadintas 0 pažeistas 0 001 ^ 00005020 a 0000 |    
+00003293 00 a 03 retas 0 nepaprastas 0 neįprastas 0 002 ! 00012138 a 0000 ^ 00005560 a 0000 |    
+00003392 00 a 02 kontroliuojamas 0 valdomas 0 000 |    
+00003448 00 a 02 vienodas 0 panašus 0 001 ! 00013736 a 0000 |    
+00003515 00 a 02 vienodas 0 panašus 0 000 |    
+00003564 00 a 01 integralus 0 001 ^ 00018699 a 0000 |    
+00003622 00 a 02 neaiškus 0 neapibrėžtas 0 001 ^ 00012058 a 0000 |    
+00003696 00 a 03 įprastas 0 tradicinis 0 priimtas 0 000 |    
+00003759 00 a 01 racionalus 0 001 ;c 00082087 n 0000 |    
+00003818 00 a 02 punktualus 0 tikslus 0 000 |    
+00003868 00 a 01 apeliacinis 0 000 |    
+00003909 00 a 02 neįprastas 0 keistas 0 001 ! 00020605 a 0000 |    
+00003978 00 a 03 nepriklausantis_įstaigai 0 išorinis 0 neakivaizdinis_(mokslas) 0 000 |    
+00004072 00 a 02 būsimas 0 negimęs 0 000 |    
+00004121 00 a 02 protestantiškas 0 protestantų 0 000 |    
+00004182 00 a 02 bendraujantis 0 komunikabilus 0 000 |    
+00004241 00 a 01 antgamtinis 0 001 ^ 00007908 a 0000 |    
+00004300 00 a 01 orientacinis 0 000 |    
+00004342 00 a 03 fizinis 0 kūniškas 0 materialus 0 001 = 00141622 n 0000 |    
+00004423 00 a 02 pagamintas_mechaniškai 0 mašininis 0 001 ! 00016425 a 0000 |    
+00004507 00 a 01 operatyvinis 0 000 |    
+00004549 00 a 01 įprastinis 0 001 ! 00023789 a 0000 |    
+00004608 00 a 01 paklusnus 0 001 ^ 00011695 a 0000 |    
+00004665 00 a 02 neapsimokantis 0 nepelningas 0 000 |    
+00004723 00 a 02 nematerialus 0 nerealus 0 001 ! 00021769 a 0000 |    
+00004794 00 a 02 neoficialus 0 laisvas 0 001 ^ 00022432 a 0000 |    
+00004863 00 a 01 patenkintas 0 001 ! 00016052 a 0000 |    
+00004922 00 a 02 demokratiškas 0 demokratinis 0 000 |    
+00004981 00 a 01 organinis 0 000 |    
+00005020 00 a 02 sulaužytas 0 sudaužytas 0 002 = 00222812 n 0000 ^ 00003222 a 0000 |    
+00005111 00 a 02 ne_visas 0 nepilnas 0 001 ! 00018578 a 0000 |    
+00005178 00 a 03 konkursinis 0 rungtyniaujantis 0 konkurencinis 0 000 |    
+00005254 00 a 01 krikščioniškas 0 000 |    
+00005301 00 a 02 visuomeninis 0 bendruomeninis 0 001 = 00418840 n 0000 |    
+00005378 00 a 02 paruoštas 0 pasiruošęs 0 000 |    
+00005433 00 a 02 įstrižas 0 įžambus 0 001 ! 00009924 a 0000 |    
+00005503 00 a 01 konkretus 0 001 ^ 00016697 a 0000 |    
+00005560 00 a 02 retas 0 neeilinis 0 002 ! 00026224 a 0000 ^ 00003293 a 0000 |    
+00005643 00 a 02 daugiausiai 0 daugelis 0 000 |    
+00005695 00 a 02 vienareikšmis 0 aiškus 0 000 |    
+00005749 00 a 01 paviršinis 0 000 |    
+00005790 00 a 03 žiaurus 0 beširdis 0 bejausmis 0 000 |    
+00005852 00 a 03 kandus 0 sarkastiškas 0 pašaipus 0 001 = 00369832 n 0000 |    
+00005934 00 a 02 nežalingas 0 nekenksmingas 0 002 ^ 00002095 a 0000 ^ 00019933 a 0000 |    
+00006027 00 a 01 nepakeistas 0 000 |    
+00006068 00 a 02 asmeninis 0 privatus 0 002 ^ 00016182 a 0000 ^ 00028800 a 0000 |    
+00006154 00 a 02 neveikiantis 0 negaliojantis 0 001 ! 00010065 a 0000 |    
+00006230 00 a 03 stilingas 0 madingas 0 elegantiškas 0 000 |    
+00006296 00 a 01 dvimetis 0 001 ;c 00362135 n 0000 |    
+00006353 00 a 02 brandus 0 subrendęs 0 000 |    
+00006403 00 a 01 logiškas 0 003 ^ 00011559 a 0000 ^ 00022576 a 0000 ^ 00013230 a 0000 |    
+00006496 00 a 01 kapitalistiškas 0 001 ! 00001168 a 0000 |    
+00006560 00 a 01 savanoriškas 0 000 |    
+00006603 00 a 02 leistinas 0 priimtinas 0 001 ! 00025872 a 0000 |    
+00006673 00 a 01 galvaninis 0 001 ;c 00004776 n 0000 |    
+00006732 00 a 01 žmogiškas 0 000 |    
+00006773 00 a 03 greitas 0 skubus 0 skubotas 0 000 |    
+00006830 00 a 02 kūrybiškas 0 kūrybingas 0 003 = 00117476 n 0000 ^ 00021630 a 0000 ^ 00022116 a 0000 |    
+00006940 00 a 01 tikras 0 000 |    
+00006976 00 a 01 artimas 0 002 ! 00021196 a 0000 = 00359467 n 0000 |    
+00007049 00 a 03 aktualus 0 dabartinis 0 šiuometinis 0 000 |    
+00007115 00 a 01 homoseksualus 0 000 |    
+00007158 00 a 01 federacinis 0 001 ;c 00032070 n 0000 |    
+00007218 00 a 01 ryžtingas 0 000 |    
+00007258 00 a 02 vėlyvas 0 vėlus 0 000 |    
+00007305 00 a 02 politiškas 0 politinis 0 000 |    
+00007358 00 a 01 išorinis 0 002 ! 00025677 a 0000 = 00255954 n 0000 |    
+00007433 00 a 02 įtemptas 0 sunkus 0 000 |    
+00007481 00 a 01 nestandartinis 0 002 ! 00002598 a 0000 = 00299757 n 0000 |    
+00007561 00 a 02 neapdirbtas 0 neišgrynintas 0 000 |    
+00007619 00 a 02 paženklintas 0 pažymėtas 0 000 |    
+00007676 00 a 01 darbininkiškas 0 000 |    
+00007721 00 a 03 paslankus 0 judamas 0 mobilus 0 000 |    
+00007780 00 a 02 plokštuminis 0 dvimatis 0 000 |    
+00007834 00 a 04 sielvartingas 0 skaudus 0 liūdnas 0 graudus 0 000 |    
+00007908 00 a 02 netikras 0 nerealus 0 004 ! 00016697 a 0000 = 00016396 n 0000 ^ 00008328 a 0000 ^ 00004241 a 0000 |    
+00008029 00 a 01 pigus 0 001 ! 00018126 a 0000 |    
+00008082 00 a 01 senas 0 001 = 00492791 n 0000 |    
+00008135 00 a 03 aiškus 0 apibrėžtas 0 nustatytas 0 000 |    
+00008200 00 a 01 neramus 0 001 ! 00020005 a 0000 |    
+00008255 00 a 02 didžiausias 0 maksimalus 0 001 ! 00015557 a 0000 |    
+00008328 00 a 03 netikras 0 suklastotas 0 padirbtas 0 001 ^ 00007908 a 0000 |    
+00008410 00 a 02 santūrus 0 ramus 0 001 ^ 00014278 a 0000 |    
+00008475 00 a 01 geresnis 0 000 |    
+00008513 00 a 02 daugiaspalvis 0 įmantrus 0 000 |    
+00008568 00 a 02 išleistas 0 publikuotas 0 000 |    
+00008622 00 a 01 tarptautinis 0 001 ! 00001488 a 0000 |    
+00008682 00 a 01 pilnametis 0 001 ! 00023339 a 0000 |    
+00008740 00 a 02 praeities 0 retrospektyvus 0 001 ! 00002694 a 0000 |    
+00008814 00 a 02 atitinkantis 0 tikslus 0 000 |    
+00008866 00 a 03 energingas 0 gyvas 0 aktyvus 0 001 = 00433325 n 0000 |    
+00008942 00 a 01 reklaminis 0 001 = 00367783 n 0000 |    
+00009000 00 a 02 narsus 0 drąsus 0 001 ^ 00011893 a 0000 |    
+00009064 00 a 02 šalutinis 0 antraeilis 0 001 ! 00029699 a 0000 |    
+00009135 00 a 02 meilus 0 mylintis 0 001 ^ 00015128 a 0000 |    
+00009200 00 a 02 protinis 0 mintinis 0 001 ! 00028557 a 0000 |    
+00009267 00 a 01 triukšmingas 0 001 ^ 00022193 a 0000 |    
+00009328 00 a 01 tikėtinas 0 001 ! 00013461 a 0000 |    
+00009386 00 a 02 laisvų_pažiūrų 0 liberalus 0 001 = 00461028 n 0000 |    
+00009464 00 a 01 spalvotas 0 001 ;c 00266776 n 0000 |    
+00009522 00 a 01 organinis 0 001 ;c 00269956 n 0000 |    
+00009580 00 a 01 motyvuotas 0 000 |    
+00009620 00 a 01 santūrus 0 000 |    
+00009659 00 a 02 žemas 0 mažaaukštis 0 000 |    
+00009711 00 a 03 atsitiktinis 0 sporadiškas 0 sporadinis 0 000 |    
+00009781 00 a 01 pasirašytas 0 001 ! 00014979 a 0000 |    
+00009841 00 a 03 šaltas 0 abejingas 0 nesujaudintas 0 001 ! 00013595 a 0000 |    
+00009924 00 a 02 lygiagretus 0 paralelinis 0 001 ! 00005433 a 0000 |    
+00009997 00 a 03 tiriamasis 0 bandomasis 0 žvalgomasis 0 000 |    
+00010065 00 a 01 veikiantis 0 001 ! 00006154 a 0000 |    
+00010123 00 a 03 bevardis 0 anoniminis 0 beveidis 0 000 |    
+00010185 00 a 02 drėgnas 0 šlapias 0 000 |    
+00010234 00 a 03 esantis 0 realus 0 tikras 0 002 ! 00011490 a 0000 = 00056470 n 0000 |    
+00010325 00 a 02 nepatogus 0 neparankus 0 000 |    
+00010377 00 a 01 nematomas 0 000 |    
+00010416 00 a 01 sujungtas 0 000 |    
+00010455 00 a 02 pamokomas 0 šviečiamasis 0 000 |    
+00010511 00 a 02 šiaurinis 0 šiaurės 0 000 |    
+00010563 00 a 02 žavus 0 patrauklus 0 001 = 00465759 n 0000 |    
+00010630 00 a 01 revoliucingas 0 000 |    
+00010673 00 a 01 nepastebimas 0 000 |    
+00010715 00 a 01 infliacinis 0 001 ;c 00200748 n 0000 |    
+00010775 00 a 01 storas 0 000 |    
+00010811 00 a 03 sužadintas 0 susijaudinęs 0 sujaudintas 0 000 |    
+00010882 00 a 01 netikslus 0 000 |    
+00010921 00 a 01 forte 0 000 |    
+00010956 00 a 02 kintamas 0 nepastovus 0 000 |    
+00011007 00 a 02 skaistus 0 doras 0 001 ^ 00020674 a 0000 |    
+00011071 00 a 01 paveldimas 0 000 |    
+00011111 00 a 01 nustebęs 0 000 |    
+00011150 00 a 02 pritvirtintas 0 įtvirtintas 0 000 |    
+00011208 00 a 02 netiesus 0 aplinkinis 0 000 |    
+00011259 00 a 02 geras 0 teigiamas 0 003 = 00026505 n 0000 ^ 00026439 a 0000 ^ 00000813 a 0000 |    
+00011360 00 a 01 viduriniosios_klasės 0 001 = 00416715 n 0000 |    
+00011429 00 a 01 branduolinis 0 001 ;c 00154051 n 0000 |    
+00011490 00 a 02 potencialus 0 galimas 0 001 ! 00010234 a 0000 |    
+00011559 00 a 02 protingas 0 išmintingas 0 002 ^ 00013230 a 0000 ^ 00006403 a 0000 |    
+00011649 00 a 02 mielas 0 mylimas 0 000 |    
+00011695 00 a 01 geras 0 004 = 00026505 n 0000 ^ 00021404 a 0000 ^ 00012773 a 0000 ^ 00004608 a 0000 |    
+00011802 00 a 01 žemas 0 000 |    
+00011838 00 a 02 netinkamas 0 nepakankamas 0 000 |    
+00011893 00 a 02 nuotykingas 0 drąsus 0 001 ^ 00009000 a 0000 |    
+00011962 00 a 01 kokybinis 0 000 |    
+00012001 00 a 01 naktinis 0 001 ;c 00154051 n 0000 |    
+00012058 00 a 02 negalutinis 0 nedavęs_rezultato 0 001 ^ 00003622 a 0000 |    
+00012138 00 a 01 įprastas 0 002 ! 00003293 a 0000 ^ 00026224 a 0000 |    
+00012213 00 a 02 jaunesnis 0 jaunesnysis 0 001 ! 00017000 a 0000 |    
+00012284 00 a 03 nenumatytas 0 atsitiktinis 0 papildomas 0 000 |    
+00012353 00 a 02 malonus 0 simpatiškas 0 001 ;c 00281378 n 0000 |    
+00012424 00 a 01 neteisingas 0 000 |    
+00012465 00 a 01 nežinomas 0 000 |    
+00012505 00 a 01 taikomasis 0 000 |    
+00012545 00 a 01 cukringas 0 000 |    
+00012584 00 a 01 reguliuojamas 0 000 |    
+00012627 00 a 01 analitinis 0 000 |    
+00012667 00 a 01 tikėtinas 0 001 ! 00023860 a 0000 |    
+00012725 00 a 02 lankstus 0 liaunas 0 000 |    
+00012773 00 a 01 geresnis 0 000 |    
+00012811 00 a 02 veikiantis 0 aktyvus 0 000 |    
+00012861 00 a 01 horizontalus 0 001 = 00268149 n 0000 |    
+00012921 00 a 01 atrastas 0 000 |    
+00012959 00 a 02 periodinis 0 periodiškas 0 000 |    
+00013014 00 a 02 gabus 0 talentingas 0 000 |    
+00013063 00 a 02 gobšus 0 godus 0 000 |    
+00013108 00 a 01 adresuotas 0 000 |    
+00013148 00 a 01 alkanas 0 000 |    
+00013185 00 a 01 prezidentiškas 0 000 |    
+00013230 00 a 02 racionalus 0 protingas 0 003 ! 00020249 a 0000 ^ 00011559 a 0000 ^ 00006403 a 0000 |    
+00013336 00 a 01 alkoholinis 0 000 |    
+00013377 00 a 01 diplomatiškas 0 000 |    
+00013421 00 a 01 naudojamas 0 000 |    
+00013461 00 a 02 neįtikimas 0 neįtikėtinas 0 001 ! 00009328 a 0000 |    
+00013537 00 a 02 neįtikimas 0 neįtikėtinas 0 000 |    
+00013595 00 a 01 sujaudintas 0 001 ! 00009841 a 0000 |    
+00013654 00 a 03 kariuomenės 0 karinis 0 kariškas 0 001 ! 00018181 a 0000 |    
+00013736 00 a 02 nepanašus 0 skirtingas 0 001 ! 00003448 a 0000 |    
+00013807 00 a 03 neįmanomas 0 neįvykdomas 0 nerealus 0 001 = 00084148 n 0000 |    
+00013892 00 a 03 ištisinis 0 nepertraukiamas 0 tęstinis 0 001 = 00167251 n 0000 |    
+00013980 00 a 01 įtikinamas 0 000 |    
+00014021 00 a 02 vietinis 0 lokalus 0 001 ;c 00364847 n 0000 |    
+00014088 00 a 01 nenaudojamas 0 000 |    
+00014130 00 a 03 manieringas 0 įmantrus 0 pretenzingas 0 000 |    
+00014198 00 a 01 pokarinis 0 000 |    
+00014237 00 a 01 suderinamas 0 000 |    
+00014278 00 a 01 orus 0 001 ^ 00008410 a 0000 |    
+00014330 00 a 02 veiksmingas 0 efektyvus 0 003 ! 00015236 a 0000 = 00261024 n 0000 ^ 00026825 a 0000 |    
+00014437 00 a 04 nešiojamas 0 kelioninis 0 portatyvus 0 kišeninis 0 000 |    
+00014517 00 a 01 kalnuotas 0 001 ! 00026944 a 0000 |    
+00014574 00 a 03 našus 0 produktyvus 0 vaisingas 0 000 |    
+00014636 00 a 04 neteisingas 0 neobjektyvus 0 šališkas 0 nesąžiningas 0 000 |    
+00014722 00 a 02 leistinas 0 leidžiamas 0 000 |    
+00014775 00 a 02 išvardytas 0 įtrauktas_į_sąrašą 0 000 |    
+00014842 00 a 01 automatiškai_valdomas 0 000 |    
+00014894 00 a 02 gyslinis 0 gyslų 0 000 |    
+00014941 00 a 01 šlapias 0 000 |    
+00014979 00 a 01 nepasirašytas 0 001 ! 00009781 a 0000 |    
+00015041 00 a 02 nesaugus 0 abejotinas 0 002 ^ 00029440 a 0000 ^ 00016911 a 0000 |    
+00015128 00 a 02 mielas 0 simpatiškas 0 001 ^ 00009135 a 0000 |    
+00015197 00 a 01 parduotas 0 000 |    
+00015236 00 a 02 neefektyvus 0 neveiksmingas 0 003 ! 00014330 a 0000 = 00261024 n 0000 ^ 00002944 a 0000 |    
+00015347 00 a 03 dabartinis 0 esamas 0 nūdienis 0 000 |    
+00015408 00 a 02 kompetentingas 0 nusimanantis 0 001 ^ 00029804 a 0000 |    
+00015485 00 a 02 pageidaujamas 0 tinkamas 0 001 ^ 00029804 a 0000 |    
+00015557 00 a 02 minimalus 0 mažiausias 0 001 ! 00008255 a 0000 |    
+00015628 00 a 02 nelabas 0 nedoras 0 000 |    
+00015675 00 a 03 hidro- 0 vandeninis 0 turintis_vandens 0 001 ;c 00269956 n 0000 |    
+00015762 00 a 02 tobulas 0 idealus 0 001 = 00290799 n 0000 |    
+00015827 00 a 01 nesutinkantis_pasipriešinimo 0 000 |    
+00015886 00 a 03 vienašališkas 0 vienpusis 0 vienašalis 0 000 |    
+00015957 00 a 02 apskųstinas 0 apeliuotinas 0 000 |    
+00016014 00 a 01 palankus 0 000 |    
+00016052 00 a 01 nepatenkintas 0 002 ! 00004863 a 0000 ^ 00017458 a 0000 |    
+00016131 00 a 02 kritiškas 0 lemiamas 0 000 |    
+00016182 00 a 02 paslaptingas 0 ezoterinis 0 001 ^ 00006068 a 0000 |    
+00016255 00 a 02 literatūrinis 0 sunormintas 0 001 ;c 00270254 n 0000 |    
+00016332 00 a 01 rasinis 0 000 |    
+00016369 00 a 02 gailestingas 0 geraširdis 0 000 |    
+00016425 00 a 01 rankų_darbo 0 001 ! 00004423 a 0000 |    
+00016485 00 a 01 vidutinis 0 000 |    
+00016524 00 a 02 teorinis 0 teoriškas 0 000 |    
+00016575 00 a 04 malonus 0 gardus 0 skanus 0 priimtinas 0 003 ! 00029319 a 0000 ^ 00023175 a 0000 ^ 00023726 a 0000 |    
+00016697 00 a 03 realus 0 esamas 0 tikras 0 003 ! 00007908 a 0000 = 00016396 n 0000 ^ 00005503 a 0000 |    
+00016805 00 a 02 baigtas 0 užbaigtas 0 000 |    
+00016855 00 a 01 karštas 0 001 = 00287719 n 0000 |    
+00016911 00 a 02 rizikingas 0 pavojingas 0 002 ! 00019933 a 0000 ^ 00015041 a 0000 |    
+00017000 00 a 03 vyresnis 0 vyresnysis 0 viršesnis 0 002 ! 00012213 a 0000 ^ 00020422 a 0000 |    
+00017100 00 a 03 deramas 0 teisingas 0 tinkamas 0 002 = 00034941 n 0000 ^ 00000663 a 0000 |    
+00017196 00 a 01 tinkamas_parduoti 0 000 |    
+00017243 00 a 01 aiškiai_mąstantis 0 000 |    
+00017292 00 a 02 absoliutus 0 visiškas 0 001 ! 00024164 a 0000 |    
+00017362 00 a 02 netinkamas 0 nenaudingas 0 000 |    
+00017416 00 a 01 civilizuotas 0 000 |    
+00017458 00 a 02 gižus 0 nepatenkintas 0 001 ^ 00016052 a 0000 |    
+00017528 00 a 03 staigus 0 netikėtas 0 nelauktas 0 000 |    
+00017590 00 a 01 dramatiškas 0 000 |    
+00017632 00 a 02 sunkus 0 reikalaujantis_daug_pastangų 0 000 |    
+00017700 00 a 02 informuotas 0 žinantis 0 000 |    
+00017753 00 a 01 esantis 0 000 |    
+00017790 00 a 03 intensyvus 0 stiprus 0 smarkus 0 001 = 00127927 n 0000 |    
+00017868 00 a 04 permanentinis 0 pastovus 0 nuolatinis 0 ilgalaikis 0 000 |    
+00017948 00 a 01 besparnis 0 000 |    
+00017987 00 a 02 palankus 0 laimingas 0 001 ! 00029096 a 0000 |    
+00018055 00 a 02 produktyvus 0 vaisingas 0 001 ^ 00022116 a 0000 |    
+00018126 00 a 01 brangus 0 001 ! 00008029 a 0000 |    
+00018181 00 a 01 civilinis 0 001 ! 00013654 a 0000 |    
+00018238 00 a 02 tikras 0 neabejotinas 0 000 |    
+00018289 00 a 02 reikalingas 0 būtinas 0 001 ! 00023399 a 0000 |    
+00018359 00 a 01 apmokestinamas 0 000 |    
+00018403 00 a 02 tranzityvinis 0 galininkinis 0 001 ;c 00419716 n 0000 |    
+00018480 00 a 01 broliškas 0 000 |    
+00018520 00 a 01 kvantinis 0 001 ;c 00336352 n 0000 |    
+00018578 00 a 02 visas 0 pilnas 0 001 ! 00005111 a 0000 |    
+00018640 00 a 02 veikiantis 0 funkcionuojantis 0 000 |    
+00018699 00 a 01 integruotas 0 001 ^ 00003564 a 0000 |    
+00018758 00 a 02 suprantantis 0 žinantis 0 001 ^ 00029500 a 0000 |    
+00018830 00 a 02 gynybos 0 ginamasis 0 001 ! 00019542 a 0000 |    
+00018897 00 a 02 nedalus 0 nedalijamas 0 000 |    
+00018948 00 a 01 negeriamas 0 000 |    
+00018988 00 a 02 visas 0 nesutrumpintas 0 000 |    
+00019040 00 a 02 ginčijamas 0 ginčytinas 0 001 ^ 00027956 a 0000 |    
+00019113 00 a 01 progresinis 0 001 ;c 00415770 n 0000 |    
+00019173 00 a 01 basas 0 000 |    
+00019208 00 a 02 šiaurinis 0 šiaurės 0 001 ! 00024534 a 0000 |    
+00019278 00 a 01 magnetinis 0 000 |    
+00019318 00 a 01 netradicinis 0 000 |    
+00019360 00 a 01 pasirinktas 0 000 |    
+00019401 00 a 01 didesnis 0 000 |    
+00019439 00 a 01 kitas 0 001 = 00129839 n 0000 |    
+00019492 00 a 02 apdairus 0 protingas 0 000 |    
+00019542 00 a 02 puolimo 0 puolamasis 0 001 ! 00018830 a 0000 |    
+00019610 00 a 02 vasarinis 0 vasariškas 0 000 |    
+00019663 00 a 01 sezoninis 0 000 |    
+00019702 00 a 01 nepriklausomas 0 001 = 00443853 n 0000 |    
+00019764 00 a 01 finansinis 0 000 |    
+00019804 00 a 03 atitinkamas 0 susijęs 0 svarbus 0 000 |    
+00019866 00 a 03 stilingas 0 elegantiškas 0 skoningas 0 000 |    
+00019933 00 a 01 saugus 0 002 ! 00016911 a 0000 ^ 00005934 a 0000 |    
+00020005 00 a 02 taikos 0 taikus 0 001 ! 00008200 a 0000 |    
+00020068 00 a 02 mažytis 0 mažas 0 002 ! 00023653 a 0000 = 00004651 n 0000 |    
+00020151 00 a 01 ginkluotas 0 000 |    
+00020191 00 a 01 pasodintas 0 001 ! 00022663 a 0000 |    
+00020249 00 a 03 nelogiškas 0 neprotingas 0 iracionalus 0 001 ! 00013230 a 0000 |    
+00020336 00 a 01 erdvus 0 000 |    
+00020372 00 a 02 veikiantis 0 aktyvus 0 000 |    
+00020422 00 a 01 senas 0 002 = 00492791 n 0000 ^ 00017000 a 0000 |    
+00020493 00 a 01 motiniškas 0 000 |    
+00020534 00 a 02 chroniškas 0 lėtinis 0 001 ;c 00364847 n 0000 |    
+00020605 00 a 02 įprastas 0 tipiškas 0 001 ! 00003909 a 0000 |    
+00020674 00 a 04 moralus 0 dorovingas 0 dorinis 0 moralinis 0 002 = 00392553 n 0000 ^ 00011007 a 0000 |    
+00020782 00 a 01 pietietiškas 0 002 = 00228568 n 0000 = 00089418 n 0000 |    
+00020861 00 a 02 intelektualus 0 racionalus 0 000 |    
+00020917 00 a 02 pamokomas 0 paaiškinamas 0 000 |    
+00020972 00 a 02 esantis_žemiau 0 papėdės 0 000 |    
+00021029 00 a 01 oficialus 0 000 |    
+00021068 00 a 02 trūkstamas 0 nepakankamas 0 001 = 00187259 n 0000 |    
+00021142 00 a 02 operacinis 0 chirurginis 0 000 |    
+00021196 00 a 01 tolimas 0 002 ! 00006976 a 0000 = 00359467 n 0000 |    
+00021269 00 a 02 veikiantis 0 aktyvus 0 001 = 00317625 n 0000 |    
+00021337 00 a 03 negailestingas 0 nedosnus 0 šykštus 0 000 |    
+00021404 00 a 02 palankus 0 pritariantis 0 002 ! 00000557 a 0000 ^ 00011695 a 0000 |    
+00021493 00 a 01 normalus 0 002 ! 00025750 a 0000 ^ 00002598 a 0000 |    
+00021567 00 a 02 atstovaujantis 0 simbolizuojantis 0 000 |    
+00021630 00 a 02 originalus 0 savitas 0 002 ^ 00006830 a 0000 ^ 00029699 a 0000 |    
+00021716 00 a 02 metališkas 0 metalinis 0 000 |    
+00021769 00 a 02 realus 0 apčiuopiamas 0 002 ! 00004723 a 0000 ^ 00026647 a 0000 |    
+00021857 00 a 01 sujungtas 0 000 |    
+00021896 00 a 03 šeimyninis 0 namų 0 naminis 0 000 |    
+00021955 00 a 01 atsakingas 0 002 ! 00002785 a 0000 ^ 00023555 a 0000 |    
+00022031 00 a 02 žemas 0 mažas 0 000 |    
+00022076 00 a 01 melodingas 0 000 |    
+00022116 00 a 01 produktyvus 0 002 ^ 00018055 a 0000 ^ 00006830 a 0000 |    
+00022193 00 a 02 triukšmingas 0 garsus 0 001 ^ 00009267 a 0000 |    
+00022263 00 a 01 komiškas 0 001 ;c 00281378 n 0000 |    
+00022321 00 a 02 atidus 0 dėmesingas 0 000 |    
+00022371 00 a 01 branduolinis 0 001 ;c 00336352 n 0000 |    
+00022432 00 a 01 neoficialus 0 001 ^ 00004794 a 0000 |    
+00022491 00 a 01 ciklinis 0 000 |    
+00022529 00 a 02 vidinis 0 esminis 0 000 |    
+00022576 00 a 02 nuoseklus 0 logiškas 0 002 ^ 00013230 a 0000 ^ 00006403 a 0000 |    
+00022663 00 a 01 nepasodintas 0 001 ! 00020191 a 0000 |    
+00022723 00 a 03 nacionalinis 0 valstybinis 0 tautinis 0 001 ! 00024702 a 0000 |    
+00022808 00 a 03 pilnutėlis 0 perpildytas 0 prigrūstas 0 000 |    
+00022877 00 a 02 homogeninis 0 vienarūšis 0 000 |    
+00022933 00 a 01 etiškas 0 000 |    
+00022971 00 a 02 karinis 0 kareiviškas 0 000 |    
+00023023 00 a 01 šviesus 0 000 |    
+00023061 00 a 02 kompetentingas 0 pilnateisis 0 000 |    
+00023119 00 a 01 karštas 0 001 = 00383075 n 0000 |    
+00023175 00 a 01 valgomas 0 001 ^ 00016575 a 0000 |    
+00023231 00 a 02 pakeltas 0 paaukštintas 0 000 |    
+00023285 00 a 02 apčiuopiamas 0 juntamas 0 000 |    
+00023339 00 a 01 nepilnametis 0 001 ! 00008682 a 0000 |    
+00023399 00 a 02 atliekamas 0 nereikalingas 0 001 ! 00018289 a 0000 |    
+00023473 00 a 01 šiltakraujis 0 000 |    
+00023516 00 a 01 artezinis 0 000 |    
+00023555 00 a 02 patikimas 0 vertas_pasitikėjimo 0 002 ^ 00021955 a 0000 ^ 00025157 a 0000 |    
+00023653 00 a 01 didelis 0 002 ! 00020068 a 0000 = 00004651 n 0000 |    
+00023726 00 a 02 gardus 0 skanus 0 001 ^ 00016575 a 0000 |    
+00023789 00 a 02 atominis 0 branduolinis 0 001 ! 00004549 a 0000 |    
+00023860 00 a 03 neįtikimas 0 neįtikėtinas 0 nerealus 0 001 ! 00012667 a 0000 |    
+00023947 00 a 02 paženklintas 0 pažymėtas 0 000 |    
+00024004 00 a 01 gramatiškas 0 000 |    
+00024046 00 a 03 nuobodus 0 vienodas 0 ramus 0 000 |    
+00024103 00 a 03 ligotas 0 sergantis 0 nesveikas 0 000 |    
+00024164 00 a 02 santykinis 0 reliatyvus 0 001 ! 00017292 a 0000 |    
+00024235 00 a 02 faktiškai 0 de_facto 0 001 ^ 00016697 a 0000 |    
+00024304 00 a 01 tinkamas_plaukioti 0 001 ! 00028359 a 0000 |    
+00024370 00 a 01 palankus 0 000 |    
+00024408 00 a 01 kelintinis 0 000 |    
+00024448 00 a 03 nesusituokęs 0 nevedęs 0 netekėjusi 0 001 ! 00002262 a 0000 |    
+00024534 00 a 02 pietinis 0 pietų 0 002 ! 00019208 a 0000 = 00404429 n 0000 |    
+00024617 00 a 01 žvaigždėtas 0 000 |    
+00024661 00 a 01 palaimintas 0 000 |    
+00024702 00 a 01 vietinis 0 001 ! 00022723 a 0000 |    
+00024758 00 a 02 nuostolingas 0 nuostolinis 0 000 |    
+00024814 00 a 02 patogus 0 jaukus 0 001 = 00214465 n 0000 |    
+00024878 00 a 01 muzikinis 0 000 |    
+00024917 00 a 01 artimiausias 0 000 |    
+00024959 00 a 02 tėviškas 0 motiniškas 0 000 |    
+00025013 00 a 02 keletas 0 nedaug 0 000 |    
+00025059 00 a 02 esantis_viduje 0 kambarinis 0 000 |    
+00025116 00 a 01 identiškas 0 000 |    
+00025157 00 a 01 patikimas 0 001 ^ 00023555 a 0000 |    
+00025214 00 a 01 sunkiai_virškinamas 0 000 |    
+00025264 00 a 01 bendras 0 000 |    
+00025301 00 a 02 pramoninis 0 industrinis 0 000 |    
+00025355 00 a 02 paskutinis 0 vėlesnis 0 000 |    
+00025407 00 a 01 beausis 0 000 |    
+00025444 00 a 02 tinkliškas 0 tinklinis 0 000 |    
+00025497 00 a 01 nemirtingas 0 000 |    
+00025538 00 a 01 sąlyginis 0 000 |    
+00025578 00 a 01 magnetinis 0 000 |    
+00025618 00 a 01 geografinis 0 001 ! 00027000 a 0000 |    
+00025677 00 a 01 vidinis 0 002 ! 00007358 a 0000 = 00255954 n 0000 |    
+00025750 00 a 02 nenormalus 0 anomalus 0 001 ! 00021493 a 0000 |    
+00025819 00 a 01 mokus 0 001 ! 00026592 a 0000 |    
+00025872 00 a 02 neleistinas 0 nepriimtinas 0 001 ! 00006603 a 0000 |    
+00025946 00 a 02 neraminantis 0 neramus 0 000 |    
+00025998 00 a 03 įvairus 0 kitoniškas 0 skirtingas 0 002 = 00097110 n 0000 ^ 00013736 a 0000 |    
+00026099 00 a 02 veikiantis_psichiką 0 psichotropinis 0 000 |    
+00026166 00 a 02 patartinas 0 rekomenduotinas 0 000 |    
+00026224 00 a 02 paprastas 0 eilinis 0 003 ! 00005560 a 0000 ^ 00012138 a 0000 ^ 00027757 a 0000 |    
+00026327 00 a 03 tradicinis 0 ortodoksinis 0 visų_priimtas 0 000 |    
+00026399 00 a 01 pataisomas 0 000 |    
+00026439 00 a 01 konstruktyvus 0 002 ! 00026738 a 0000 ^ 00011259 a 0000 |    
+00026518 00 a 02 jungiamasis 0 jungtukinis 0 001 ;c 00419716 n 0000 |    
+00026592 00 a 01 nemokus 0 001 ! 00025819 a 0000 |    
+00026647 00 a 02 materialus 0 medžiaginis 0 002 = 00141622 n 0000 ^ 00021769 a 0000 |    
+00026738 00 a 03 destruktyvus 0 ardomasis 0 griaunamasis 0 001 ! 00026439 a 0000 |    
+00026825 00 a 01 stiprus 0 001 ^ 00014330 a 0000 |    
+00026880 00 a 02 atsiprašantis 0 apgailestaujantis 0 000 |    
+00026944 00 a 01 žemumų 0 001 ! 00014517 a 0000 |    
+00027000 00 a 01 magnetinis 0 001 ! 00025618 a 0000 |    
+00027058 00 a 01 kalbinis 0 000 |    
+00027096 00 a 01 nepasotinamas 0 000 |    
+00027139 00 a 03 tolesnis 0 paskesnis 0 vėlesnis 0 000 |    
+00027201 00 a 04 akivaizdus 0 viešas 0 aiškus 0 atviras 0 000 |    
+00027271 00 a 01 vokalinis 0 000 |    
+00027310 00 a 02 nelegalus 0 neteisėtas 0 001 ! 00001321 a 0000 |    
+00027381 00 a 01 esantis_viduje 0 000 |    
+00027425 00 a 02 belaidis 0 bevielis 0 000 |    
+00027474 00 a 01 atviras 0 000 |    
+00027511 00 a 02 nejautrus 0 neimlus 0 000 |    
+00027560 00 a 01 sudėtingas 0 001 = 00374060 n 0000 |    
+00027619 00 a 01 išvystytas 0 000 |    
+00027660 00 a 01 rimtas 0 000 |    
+00027696 00 a 02 perkalbantis 0 atkalbinėjantis 0 000 |    
+00027757 00 a 03 įprastas 0 paprastas 0 eilinis 0 002 ^ 00012138 a 0000 ^ 00026224 a 0000 |    
+00027854 00 a 02 estetinis 0 estetiškas 0 000 |    
+00027907 00 a 02 nepatyręs 0 naivus 0 000 |    
+00027956 00 a 02 abejotinas 0 ginčytinas 0 001 ^ 00019040 a 0000 |    
+00028028 00 a 01 kalbantis 0 000 |    
+00028067 00 a 01 medialinis 0 001 ;c 00223952 n 0000 |    
+00028126 00 a 02 vidaus 0 vidinis 0 001 ^ 00001488 a 0000 |    
+00028190 00 a 01 ortodoksinis 0 000 |    
+00028232 00 a 02 lygus 0 vienodas 0 000 |    
+00028278 00 a 02 besiverčiantis_privačia_praktika 0 nepriklausomas 0 000 |    
+00028359 00 a 01 netinkamas_plaukioti 0 001 ! 00024304 a 0000 |    
+00028427 00 a 02 konvencionalus 0 visuotinai_priimtas 0 000 |    
+00028493 00 a 02 lieknas 0 plonas 0 001 = 00057568 n 0000 |    
+00028557 00 a 02 fizinis 0 kūno 0 001 ! 00009200 a 0000 |    
+00028620 00 a 02 esamas 0 egzistuojantis 0 001 = 00429668 n 0000 |    
+00028691 00 a 01 nepriimtinas_į_darbą 0 000 |    
+00028743 00 a 02 informacinis 0 informatyvus 0 000 |    
+00028800 00 a 02 asmeninis 0 privatus 0 001 ^ 00006068 a 0000 |    
+00028868 00 a 02 trumpas 0 glaustas 0 000 |    
+00028916 00 a 01 beplunksnis 0 000 |    
+00028957 00 a 01 ekologinis 0 001 ;c 00154051 n 0000 |    
+00029016 00 a 01 finansuojamas 0 000 |    
+00029059 00 a 01 lydimas 0 000 |    
+00029096 00 a 02 nesėkmingas 0 nelaimingas 0 001 ! 00017987 a 0000 |    
+00029170 00 a 01 nepakankamas 0 002 ! 00001739 a 0000 = 00187259 n 0000 |    
+00029248 00 a 02 santuokinis 0 teisėtas 0 001 ^ 00001321 a 0000 |    
+00029319 00 a 02 nemalonus 0 neskanus 0 001 ! 00016575 a 0000 |    
+00029387 00 a 02 beprasmis 0 bereikšmis 0 000 |    
+00029440 00 a 01 neapsaugotas 0 001 ^ 00015041 a 0000 |    
+00029500 00 a 01 jautrus 0 001 ^ 00018758 a 0000 |    
+00029555 00 a 02 įsitikinęs 0 tikras 0 002 = 00424875 n 0000 = 00004341 n 0000 |    
+00029642 00 a 01 spalvotas 0 001 = 00449359 n 0000 |    
+00029699 00 a 03 pagrindinis 0 pirmaeilis 0 svarbiausias 0 002 ! 00009064 a 0000 ^ 00021630 a 0000 |    
+00029804 00 a 02 tinkamas 0 kvalifikuotas 0 002 ^ 00015408 a 0000 ^ 00015485 a 0000 |    
+00029894 00 a 01 aklas 0 000 |    
+00029929 00 a 02 dieviškas 0 dangiškas 0 000 |    
+00029982 00 a 01 motyvacijos 0 000 |    
+00030023 00 a 01 dramaturginis 0 000 |    
+00030066 00 a 02 cirkuliuojantis 0 apytakinis 0 000 |    
+00030124 00 a 01 gydomasis 0 000 |    
+00030163 00 a 01 vandeningas 0 000 |    
+00030204 00 a 01 karinis 0 000 |    
+00030241 00 a 01 geometrinis 0 000 |    
+00030282 00 a 01 dangaus 0 000 |    
+00030319 00 a 01 magnetinis 0 000 |    
+00030359 00 a 03 Kanados 0 kanadietiškas 0 kanadiečių 0 000 |    
+00030428 00 a 01 jojimo 0 000 |    
+00030464 00 a 02 apaštališkas 0 apaštalų 0 000 |    
+00030521 00 a 03 amerikietiškas 0 Amerikos 0 amerikiečių 0 000 |    
+00030593 00 a 03 palestinietiškas 0 Palestinos 0 palestiniečių 0 000 |    
+00030671 00 a 01 komunikacinis 0 000 |    
+00030714 00 a 03 romų 0 čigonų 0 čigoniškas 0 000 |    
+00030775 00 a 02 nacionalinis 0 tautinis 0 000 |    
+00030828 00 a 01 muzikinis 0 000 |    
+00030867 00 a 03 anglų 0 Anglijos 0 angliškas 0 000 |    
+00030927 00 a 01 asmeninis 0 000 |    
+00030966 00 a 02 politinis 0 valdiškas 0 000 |    
+00031018 00 a 01 arkliškas 0 000 |    
+00031058 00 a 02 literatūros 0 literatūrinis 0 000 |    
+00031117 00 a 01 psichiatrinis 0 000 |    
+00031160 00 a 02 šeimos 0 šeimyninis 0 000 |    
+00031211 00 a 01 alpinis 0 000 |    
+00031248 00 a 02 agronominis 0 žemdirbystės 0 000 |    
+00031306 00 a 02 parapijos 0 parapinis 0 000 |    
+00031357 00 a 03 vokiškas 0 Vokietijos 0 vokiečių 0 000 |    
+00031422 00 a 03 olandų 0 Olandijos 0 olandiškas 0 000 |    
+00031485 00 a 02 klimato 0 klimatinis 0 000 |    
+00031535 00 a 01 kapitalistinis 0 000 |    
+00031579 00 a 01 geologinis 0 000 |    
+00031619 00 a 01 eksperimentinis 0 000 |    
+00031664 00 a 03 dramos 0 teatrinis 0 draminis 0 000 |    
+00031723 00 a 03 departamento 0 skyriaus 0 žinybinis 0 000 |    
+00031789 00 a 02 ministrų 0 ministerijos 0 000 |    
+00031843 00 a 03 belgiškas 0 belgų 0 Belgijos 0 000 |    
+00031903 00 a 01 psichinis 0 000 |    
+00031942 00 a 02 sėklinis 0 gaminantis_arba_nešantis_sėklą 0 000 |    
+00032017 00 a 02 Moravijos 0 moravų 0 000 |    
+00032066 00 a 01 vyskupijos 0 000 |    
+00032106 00 a 02 sausumos 0 žemės 0 000 |    
+00032154 00 a 02 sovietinis 0 sovietų 0 000 |    
+00032205 00 a 02 valdymo 0 administracinis 0 000 |    
+00032260 00 a 02 kunigų 0 kunigiškas 0 000 |    
+00032311 00 a 01 genetinis 0 000 |    
+00032350 00 a 01 alavinis 0 000 |    
+00032388 00 a 01 geografinis 0 000 |    
+00032429 00 a 01 kosminis 0 000 |    
+00032467 00 a 02 žemės_ūkio 0 agrikultūrinis 0 000 |    
+00032528 00 a 02 farmacijos 0 farmacinis 0 000 |    
+00032581 00 a 03 imperinis 0 imperatoriškas 0 imperijos 0 000 |    
+00032650 00 a 02 krūminis 0 krūmiškas 0 000 |    
+00032703 00 a 02 teisminis 0 teisinis 0 000 |    
+00032753 00 a 01 leksinis 0 000 |    
+00032791 00 a 01 grafinis 0 000 |    
+00032829 00 a 01 astrologinis 0 000 |    
+00032871 00 a 02 Atlanto 0 atlantinis 0 000 |    
+00032921 00 a 02 ekonominis 0 ūkinis 0 000 |    
+00032971 00 a 03 rumuniškas 0 Rumunijos 0 rumunų 0 000 |    
+00033034 00 a 03 Arabijos 0 arabų 0 arabiškas 0 000 |    
+00033094 00 a 01 propagandinis 0 000 |    
+00033137 00 a 02 lotyniškas 0 lotynų 0 000 |    
+00033188 00 a 01 federalinis 0 000 |    
+00033229 00 a 01 fašistinis 0 000 |    
+00033270 00 a 01 tautinis 0 000 |    
+00033308 00 a 02 piniginis 0 finansinis 0 000 |    
+00033360 00 a 01 kalnų 0 000 |    
+00033396 00 a 03 Norvegijos 0 norvegiškas 0 norvegų 0 000 |    
+00033462 00 a 01 respublikonų 0 000 |    
+00033505 00 a 02 teritorinis 0 regioninis 0 000 |    
+00033559 00 a 01 marmurinis 0 000 |    
+00033599 00 a 01 gramatinis 0 000 |    
+00033639 00 a 01 pieno 0 000 |    
+00033674 00 a 02 jūrinis 0 laivybinis 0 000 |    
+00033725 00 a 01 grafiškas 0 000 |    
+00033765 00 a 01 astronominis 0 000 |    
+00033807 00 a 02 raumens 0 raumeninis 0 000 |    
+00033857 00 a 02 egzistencialinis 0 egzistencializmo 0 000 |    
+00033922 00 a 01 dokumentinis 0 000 |    
+00033964 00 a 02 popiežiaus 0 apaštalų 0 000 |    
+00034018 00 a 01 simbolinis 0 000 |    
+00034058 00 a 02 visuomeninis 0 socialinis 0 000 |    
+00034113 00 a 01 liekamasis 0 000 |    
+00034153 00 a 02 akušerinis 0 gimdymo 0 000 |    
+00034204 00 a 02 tiekimo 0 logistikos 0 000 |    
+00034254 00 a 03 kaimyninis 0 gretimas 0 vietinis 0 000 |    
+00034316 00 a 02 santuokinis 0 vedybinis 0 000 |    
+00034369 00 a 02 juridinis 0 teisinis 0 000 |    
+00034419 00 a 02 iškvepiamasis 0 iškvėpimo 0 000 |    
+00034477 00 a 02 rasinis 0 rasių 0 000 |    
+00034523 00 a 02 juridinis 0 teisinis 0 000 |    
+00034573 00 a 01 avionikos 0 000 |    
+00034612 00 a 01 įstatyminis 0 000 |    
+00034654 00 a 01 žmoniškas 0 000 |    
+00034695 00 a 02 pilietinis 0 civilinis 0 000 |    
+00034747 00 a 01 arbitražinis 0 000 |    
+00034790 00 a 01 aeromechaninis 0 000 |    
+00034834 00 a 01 odos 0 000 |    
+00034868 00 a 03 anglies 0 anglingas 0 anglinis 0 000 |    
+00034928 00 a 01 įstatymų_leidžiamasis 0 000 |    
+00034982 00 a 01 aliuminatinis 0 000 |    
+00035025 00 a 01 žinduolių 0 000 |    
+00035066 00 a 01 architektūrinis 0 000 |    
+00035112 00 a 01 poetinis 0 000 |    
+00035150 00 a 01 barokinis 0 000 |    
+00035189 00 a 02 cerebrinis 0 smegeninis 0 000 |    
+00035242 00 a 01 opinis 0 000 |    
+00035278 00 a 03 argentiniškas 0 Argentinos 0 argentiniečių 0 000 |    
+00035353 00 a 02 slaviškas 0 slavų 0 000 |    
+00035402 00 a 01 citrininis 0 000 |    
+00035442 00 a 01 belaidis 0 000 |    
+00035480 00 a 02 kognityvus 0 pažinimo 0 000 |    
+00035532 00 a 01 biudžetinis 0 000 |    
+00035574 00 a 01 olimpinis 0 000 |    
+00035613 00 a 02 musulmonų 0 islamo 0 000 |    
+00035662 00 a 02 filosofiškas 0 filosofinis 0 000 |    
+00035719 00 a 02 nakties 0 naktinis 0 000 |    
+00035767 00 a 02 rankinis 0 portatyvinis 0 000 |    
+00035820 00 a 01 vykdomasis 0 000 |    
+00035860 00 a 01 šventinis 0 000 |    
+00035900 00 a 01 olimpinis 0 000 |    
+00035939 00 a 01 medicininis 0 000 |    
+00035980 00 a 02 juridinis 0 teisinis 0 000 |    
+00036030 00 a 01 skaitmeninis 0 000 |    
+00036072 00 a 03 Portugalijos 0 portugalų 0 portugališkas 0 000 |    
+00036144 00 a 03 Egipto 0 egiptietiškas 0 egiptiečių 0 000 |    
+00036212 00 a 01 archyvinis 0 000 |    
+00036252 00 a 03 Danijos 0 danų 0 daniškas 0 000 |    
+00036309 00 a 01 iltinis 0 000 |    
+00036346 00 a 02 afrikietiškas 0 Afrikos 0 000 |    
+00036400 00 a 02 kardialinis 0 širdies 0 000 |    
+00036452 00 a 03 indiškas 0 Indijos 0 indų 0 000 |    
+00036509 00 a 02 komunistiškas 0 komunistinis 0 000 |    
+00036568 00 a 01 valdymo 0 000 |    
+00036605 00 a 03 paryžietiškas 0 Paryžiaus 0 paryžiečių 0 000 |    
+00036679 00 a 03 Korėjos 0 korėjiečių 0 korėjietiškas 0 000 |    
+00036751 00 a 02 kontinentinis 0 žemyninis 0 000 |    
+00036807 00 a 01 vilnonis 0 000 |    
+00036845 00 a 01 poliarinis 0 000 |    
+00036885 00 a 01 sakinio 0 000 |    
+00036922 00 a 02 vietinis 0 lokalus 0 000 |    
+00036970 00 a 03 australiškas 0 Australijos 0 australų 0 000 |    
+00037039 00 a 03 Prancūzijos 0 prancūziškas 0 prancūzų 0 000 |    
+00037111 00 a 01 revoliucinis 0 000 |    
+00037153 00 a 01 žvejybinis 0 000 |    
+00037194 00 a 02 fotinis 0 apšvietos 0 000 |    
+00037244 00 a 02 balso 0 balsinis 0 000 |    
+00037290 00 a 01 molinis 0 000 |    
+00037327 00 a 01 genetinis 0 000 |    
+00037366 00 a 03 kroatų 0 kroatiškas 0 Kroatijos 0 000 |    
+00037429 00 a 01 rekreacinis 0 000 |    
+00037470 00 a 02 vestuvinis 0 vedybinis 0 000 |    
+00037522 00 a 01 namų 0 000 |    
+00037557 00 a 01 teisėjų 0 000 |    
+00037596 00 a 01 bendruomeninis 0 000 |    
+00037640 00 a 01 biologinis 0 000 |    
+00037680 00 a 01 biblinis 0 000 |    
+00037718 00 a 01 banginių 0 000 |    
+00037757 00 a 01 matematinis 0 000 |    
+00037798 00 a 02 gydomasis 0 terapinis 0 000 |    
+00037849 00 a 01 faktinis 0 000 |    
+00037887 00 a 03 slovakiškas 0 Slovakijos 0 slovakų 0 000 |    
+00037953 00 a 01 operinis 0 000 |    
+00037991 00 a 01 krikšto 0 000 |    
+00038029 00 a 01 filogenetinis 0 000 |    
+00038072 00 a 02 pakrantinis 0 pakrančių 0 000 |    
+00038127 00 a 02 nervų 0 nervinis 0 000 |    
+00038174 00 a 01 nominalus 0 000 |    
+00038213 00 a 01 žurnalistinis 0 000 |    
+00038257 00 a 02 psichologijos 0 psichologinis 0 000 |    
+00038316 00 a 03 Rusijos 0 rusiškas 0 rusų 0 000 |    
+00038373 00 a 02 pramoninis 0 gamybinis 0 000 |    
+00038425 00 a 01 ideografinis 0 000 |    
+00038467 00 a 01 prezidentinis 0 000 |    
+00038510 00 a 02 klasikinis 0 antikinis 0 000 |    
+00038562 00 a 01 korporacinis 0 000 |    
+00038604 00 a 01 žmogiškas 0 000 |    
+00038645 00 a 02 Bizantijos 0 bizantinis 0 000 |    
+00038698 00 a 01 diplomatinis 0 000 |    
+00038740 00 a 01 mineralinis 0 000 |    
+00038781 00 a 01 makroekonominis 0 000 |    
+00038826 00 a 01 kinematografinis 0 000 |    
+00038872 00 a 01 varomasis 0 000 |    
+00038911 00 a 01 keraminis 0 000 |    
+00038950 00 a 02 fatalus 0 fatališkas 0 000 |    
+00039001 00 a 01 dvaro 0 000 |    
+00039036 00 a 01 Alpių 0 000 |    
+00039072 00 a 01 cirkadinis 0 000 |    
+00039112 00 a 02 miestietiškas 0 miesto 0 000 |    
+00039165 00 a 02 redakcinis 0 redaktoriaus 0 000 |    
+00039220 00 a 03 Serbijos 0 serbų 0 serbiškas 0 000 |    
+00039280 00 a 02 iš_motinos_pusės 0 motinos 0 000 |    
+00039338 00 a 01 kirpėjų 0 000 |    
+00039377 00 a 02 periferinis 0 provincinis 0 000 |    
+00039432 00 a 02 raidos 0 vystymosi 0 000 |    
+00039480 00 a 02 kadastrinis 0 kadastro 0 000 |    
+00039532 00 a 02 gentinis 0 genties 0 000 |    
+00039580 00 a 01 pedagoginis 0 000 |    
+00039621 00 a 01 aplinkos 0 000 |    
+00039659 00 a 02 labdaringas 0 labdaros 0 000 |    
+00039711 00 a 01 uolinis 0 000 |    
+00039748 00 a 01 viduramžių 0 000 |    
+00039790 00 a 01 odos 0 000 |    
+00039824 00 a 02 suomių 0 suomiškas 0 000 |    
+00039874 00 a 01 katalikiškas 0 000 |    
+00039917 00 a 03 kraujo 0 kraujingas 0 kraujinis 0 000 |    
+00039978 00 a 05 iranietiškas 0 Irano 0 iraniečių 0 persų 0 persiškas 0 000 |    
+00040065 00 a 01 humanitarinis 0 000 |    
+00040108 00 a 03 europietiškas 0 Europos 0 europinis 0 000 |    
+00040174 00 a 03 laikinas 0 išankstinis 0 provizorinis 0 000 |    
+00040242 00 a 01 politinis 0 000 |    
+00040281 00 a 02 egzistencijos 0 egzistencinis 0 000 |    
+00040340 00 a 01 aneroidinis 0 000 |    
+00040381 00 a 01 sekretoriaus 0 000 |    
+00040423 00 a 01 kulinarinis 0 000 |    
+00040464 00 a 01 profesinis 0 000 |    
+00040504 00 a 01 elektrinis 0 000 |    
+00040544 00 a 01 imuninis 0 000 |    
+00040582 00 a 01 liturginis 0 000 |    
+00040622 00 a 01 bažnytinis 0 000 |    
+00040663 00 a 01 teratogeninis 0 000 |    
+00040706 00 a 02 slaviškas 0 slavų 0 000 |    
+00040755 00 a 01 architektūrinis 0 000 |    
+00040801 00 a 01 Amerikos 0 000 |    
+00040839 00 a 03 Austrijos 0 austriškas 0 austrų 0 000 |    
+00040902 00 a 01 poetinis 0 000 |    
+00040940 00 a 01 strateginis 0 000 |    
+00040981 00 a 03 priežiūros 0 priežiūrinis 0 prižiūrintis 0 000 |    
+00041057 00 a 02 indėniškas 0 indėnų 0 000 |    
+00041110 00 a 01 fizikinis 0 000 |    
+00041149 00 a 01 vestuvinis 0 000 |    
+00041189 00 a 01 elektrostatinis 0 000 |    
+00041234 00 a 01 cheminis 0 000 |    
+00041272 00 a 01 mistinis 0 000 |    
+00041310 00 a 01 laidotuvių 0 000 |    
+00041351 00 a 01 priverstinis 0 000 |    
+00041393 00 a 02 įžanginis 0 debiutinis 0 000 |    
+00041447 00 a 01 demografinis 0 000 |    
+00041489 00 a 03 bulgariškas 0 Bulgarijos 0 bulgarų 0 000 |    
+00041555 00 a 01 fotografinis 0 000 |    
+00041597 00 a 01 pajūrinis 0 000 |    
+00041637 00 a 01 ekonominis 0 000 |    
+00041677 00 a 01 mistiškas 0 000 |    
+00041717 00 a 01 cezario 0 000 |    
+00041754 00 a 01 vienvalenčio_sidabro 0 000 |    
+00041805 00 a 03 graikiškas 0 Graikijos 0 graikų 0 000 |    
+00041868 00 a 02 izraeliečių 0 Izraelio 0 000 |    
+00041922 00 a 02 diametrinis 0 skersmeninis 0 000 |    
+00041978 00 a 01 komercinis 0 000 |    
+00042018 00 a 01 upinis 0 000 |    
+00042054 00 a 01 driežų 0 000 |    
+00042092 00 a 02 rankų 0 rankinis 0 000 |    
+00042139 00 a 03 sakramentalus 0 šventas 0 sakramentinis 0 000 |    
+00042209 00 a 03 nacionalinis 0 valstybinis 0 tautinis 0 000 |    
+00042276 00 a 02 astralinis 0 žvaigždinis 0 000 |    
+00042332 00 a 01 archeologinis 0 000 |    
+00042375 00 a 01 dvivalenčio_sidabro 0 000 |    
+00042425 00 a 01 augalinis 0 000 |    
+00042464 00 a 01 lotynų 0 000 |    
+00042501 00 a 03 japonų 0 japoniškas 0 Japonijos 0 000 |    
+00042564 00 a 03 vengriškas 0 vengrų 0 Vengrijos 0 000 |    
+00042627 00 a 02 nacistinis 0 fašistinis 0 000 |    
+00042681 00 a 01 autorinis 0 000 |    
+00042720 00 a 01 etinis 0 000 |    
+00042756 00 a 02 santuokinis 0 vedybinis 0 000 |    
+00042809 00 a 03 mechaninis 0 mašinų 0 mašininis 0 000 |    
+00042873 00 a 03 albanų 0 Albanijos 0 albaniškas 0 000 |    
+00042936 00 a 01 šlapimo 0 000 |    
+00042974 00 a 01 grybelinis 0 000 |    
+00043014 00 a 02 įsipareigojantis 0 žadantis 0 000 |    
+00043073 00 a 02 anglų 0 angliškas 0 000 |    
+00043122 00 a 02 nosinis 0 nosies 0 000 |    
+00043168 00 a 03 lenkų 0 lenkiškas 0 Lenkijos 0 000 |    

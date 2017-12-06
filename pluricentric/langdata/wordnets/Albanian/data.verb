@@ -1,0 +1,1445 @@
+  01 This file is a derivation of the wn-als-lmf.xml file; the original als-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 label: Albanet
+  05 owner: BY
+  06 language: als
+  07 version: 10
+00000316 00 v 04 shkatërroj 0 asnjanësi 0 neutralizoj 0 asgjesësoj 0 001 @ 00044941 v 0000 01 + 00 00 | çlirohen nga vrasjet
+00000445 00 v 02 paraqes 0 nxit 0 000 01 + 00 00 | shitje me një çmim të caktuar
+00000529 00 v 01 gëzon 0 000 01 + 00 00 | të kesh një fitim
+00000592 00 v 02 shpërndaj 0 ndaj 0 002 @ 00189738 v 0000 ~ 00146595 v 0000 01 + 00 00 | shpërndaj sipas planit
+00000706 00 v 02 garantoj 0 premtoj 0 000 01 + 00 00 | bëj një premtim apo zotim
+00000789 00 v 05 përvijoj 0 vizatoj 0 përshkoj 0 gjurmë 0 konturë 0 002 @ 00125793 v 0000 ~ 00046114 v 0000 01 + 00 00 | bën shenjë ose vijëzime mbi një sipërfaqe
+00000961 00 v 01 i_përshtatshëm 0 002 @ 00041386 v 0000 ~ 00186409 v 0000 01 + 00 00 | i përshtatshëm në formë dhe masë
+00001088 00 v 05 alarm 0 turbulloj 0 shqetësoj 0 vë_në_merak 0 alarmoj 0 001 @ 00171411 v 0000 01 + 00 00 | njoftoj ose ngjall një ndjenjë rreziku organizoj një gjendje gatishmërie
+00001276 00 v 02 gjurmë 0 kërkim 0 001 @ 00191569 v 0000 01 + 00 00 | të kërkosh për diçka me vlerë ose diçka të humbur
+00001405 00 v 01 planifikoj 0 002 @ 00024954 v 0000 ~ 00063774 v 0000 01 + 00 00 | bëj plane për diçka
+00001511 00 v 04 zgjidh_një_problem 0 gjej_përgjigjen 0 zgjidh 0 kuptoj 0 002 ~ 00153833 v 0000 * 00010495 v 0000 01 + 00 00 | gjetja e zgjidhjes ( së një problemi apo të një pyetjeje ) të arrish kuptimin e diçkaje
+00001734 00 v 01 pozicionoj 0 002 @ 00191146 v 0000 ~ 00071162 v 0000 01 + 00 00 | vendi ku përpunohen armet i një lufte
+00001857 00 v 01 shqyrtoj 0 001 @ 00197513 v 0000 01 + 00 00 | kërkim shkencor
+00001937 00 v 02 zbraz 0 rregullim_rrëmuje 0 001 @ 00117854 v 0000 01 + 00 00 | të heqësh qafe një pengesë
+00002049 00 v 01 stakoj 0 001 @ 00072885 v 0000 01 + 00 00 | stakoj, shkëpus ose zgjidh
+00002138 00 v 01 duket 0 001 @ 00183244 v 0000 01 + 00 00 | të ndiesh për ose nga diçka; konsideroj, vlerësoj, ose shikoj
+00002264 00 v 02 pastrim 0 i_pastër 0 006 ! 00104038 v 0000 @ 00117854 v 0000 ~ 00111302 v 0000 ~ 00076201 v 0000 ~ 00188134 v 0000 ~ 00065696 v 0000 01 + 00 00 | pastroj duke hequr pisllëkun fëlliqësi ose lëviz gjërat e padëshiruara nga
+00002509 00 v 03 respektoj 0 konsideroj 0 reputacion 0 001 @ 00006373 v 0000 01 + 00 00 | të konsiderosh diçka
+00002622 00 v 03 vlerësues 0 vlerësim 0 llogaritje 0 002 @ 00073615 v 0000 ~ 00193579 v 0000 01 + 00 00 | krijon një vlerësim ( të sasisë apo kohës )
+00002779 00 v 03 bëhem 0 nis 0 shkoj 0 001 @ 00166993 v 0000 01 + 00 00 | pranoj si të vërtetë një gjendje apo situatë të caktuar
+00002916 00 v 02 bravë 0 kyç 0 001 @ 00011253 v 0000 01 + 00 00 | mbyll me bravë
+00003000 00 v 02 veprim 0 akt 0 021 ~ 00141839 v 0000 ~ 00163924 v 0000 ~ 00074043 v 0000 ~ 00064927 v 0000 ~ 00014674 v 0000 ~ 00103397 v 0000 ~ 00009026 v 0000 ~ 00133198 v 0000 ~ 00103496 v 0000 ~ 00035838 v 0000 ~ 00029019 v 0000 ~ 00134044 v 0000 ~ 00179682 v 0000 ~ 00099293 v 0000 ~ 00184977 v 0000 ~ 00108786 v 0000 ~ 00150080 v 0000 ~ 00132320 v 0000 ~ 00182501 v 0000 ~ 00092732 v 0000 ~ 00032119 v 0000 01 + 00 00 | kryen një veprim , ose punon për të kryer një veprim
+00003484 00 v 04 çiftoj 0 çift 0 çiftohem 0 ndihmës 0 002 @ 00059628 v 0000 ~ 00035921 v 0000 01 + 00 00 | prodhoj dashuri
+00003611 00 v 03 qëndroj_ulur 0 rri_ulur 0 ndenjëse 0 002 @ 00137566 v 0000 > 00135899 v 0000 01 + 00 00 | shfaqem ulur ose qëndroj ulur
+00003751 00 v 03 caktoj 0 ndaj_mënjanë 0 ndaj_me_vijë 0 001 @ 00036258 v 0000 01 + 00 00 | shënoj kufijtë
+00003862 00 v 02 tingëllim_këmbanash 0 tingull 0 001 @ 00159987 v 0000 01 + 00 00 | një zhurmë tingëlluese ose këmbuese
+00003988 00 v 01 shtyp 0 001 @ 00052398 v 0000 01 + 00 00 | dëmton ose vret dikë duke e goditur me makinë në ecje
+00004106 00 v 04 restauroj 0 rregulloj 0 ujdis 0 riparoj 0 003 ! 00055716 v 0000 @ 00164306 v 0000 ~ 00196197 v 0000 01 + 00 00 | të restaurosh duke vendosur së bashku pjesëza që janë thyer , grisur apo shqyer
+00004321 00 v 02 ndalesë 0 ngurroj 0 001 @ 00052583 v 0000 01 + 00 00 | ndalon përkohësisht një aktivitet përpara se ta vazhdosh
+00004455 00 v 01 ecje_e_shpejtë 0 003 @ 00152948 v 0000 ~ 00050998 v 0000 ~ 00127960 v 0000 01 + 00 00 | të lëvizësh shpejtë duke përdorur këmbët
+00004609 00 v 01 lidhem 0 003 ! 00012907 v 0000 @ 00059628 v 0000 ~ 00163618 v 0000 01 + 00 00 | mbetem i lidhur
+00004722 00 v 02 depozit 0 depozitim 0 002 ! 00014118 v 0000 @ 00033380 v 0000 01 + 00 00 | hap në bankë një llogari
+00004842 00 v 01 ski 0 002 @ 00184095 v 0000 ;c 00363223 n 0000 01 + 00 00 | lëviz me ski
+00004933 00 v 02 kontrolloj 0 kërkoj 0 001 @ 00167718 v 0000 01 + 00 00 | kërkim me themel
+00005026 00 v 01 luan 0 002 @ 00081310 v 0000 ;c 00412503 n 0000 01 + 00 00 | luan një instrument
+00005125 00 v 03 mas 0 matje 0 ndaj_me_masë 0 001 @ 00021175 v 0000 01 + 00 00 | përcaktoj matjet apo përmasat e dikujt apo diçkaje ; i marr masat
+00005276 00 v 03 dërgoj 0 postoj 0 çoj 0 001 @ 00038872 v 0000 01 + 00 00 | rast kur drejtoj apo transmetoj drejt një vendi tjetër
+00005411 00 v 04 shoqëroj 0 shoqëri 0 mbaj_shoqëri 0 shoqërues 0 000 01 + 00 00 | je në shoqërin e dikujt
+00005523 00 v 02 zë 0 zotëroj 0 001 @ 00125452 v 0000 01 + 00 00 | ta zotërosh efektivisht
+00005617 00 v 02 goditje 0 përplasje 0 001 @ 00149631 v 0000 01 + 00 00 | goditje me force ose me dhune
+00005722 00 v 04 vikatje 0 britmë 0 sokëllij 0 çirrem 0 000 01 + 00 00 | nxjerr një të qarë të çjerrë
+00005833 00 v 02 refuzoj 0 kundërshtoj 0 003 ! 00108697 v 0000 @ 00186963 v 0000 ~ 00135610 v 0000 01 + 00 00 | kundërshton ose nuk e pranon një mendim
+00005988 00 v 03 kërkesë 0 nevoje 0 mungesë 0 001 @ 00041386 v 0000 01 + 00 00 | kam nevoje për
+00006088 00 v 03 mbllaçit 0 ngjeshje 0 përtypje 0 001 @ 00154516 v 0000 01 + 00 00 | përtyp ushqim
+00006190 00 v 02 tërheqje 0 bëj_me_forcë 0 004 ! 00149911 v 0000 @ 00007259 v 0000 ~ 00140302 v 0000 ~ 00150837 v 0000 01 + 00 00 | arsyeja e lëvizjes ose spostimit nga tërheqja
+00006373 00 v 04 kam_idenë_se 0 konsideroj 0 konceptoj 0 mendoj 0 003 @ 00079249 v 0000 ~ 00002509 v 0000 ~ 00183244 v 0000 01 + 00 00 | vlerësoj; gjykoj
+00006529 00 v 01 jap 0 001 @ 00041386 v 0000 01 + 00 00 | jam në gjendje të realizoj diçka , t&apos;a çoj deri në fund edhe pse do të lodhem
+00006676 00 v 02 rrjedhë 0 zhvillim_ngjarjesh 0 001 @ 00115332 v 0000 01 + 00 00 | zhvillim ngjarjesh
+00006779 00 v 04 copëtim_gurrësh 0 lë 0 ndërpres 0 cifël 0 000 01 + 00 00 | copëtim i një pjese të vogël nga
+00006897 00 v 02 vjen_nga 0 rrjedh 0 001 @ 00024191 v 0000 01 + 00 00 | është rezultat i
+00006988 00 v 03 ngrij 0 bën_ngricë 0 ngricë 0 002 @ 00175714 v 0000 ;c 00350343 n 0000 01 + 00 00 | ndryshimi nga gjendja e lëngët në të ngurtë kur bën ftohtë
+00007158 00 v 02 ngarkoj 0 vënie_taksash 0 001 @ 00157693 v 0000 01 + 00 00 | vendos dhe grumbulloj
+00007259 00 v 02 lëvizje 0 zhvendosje 0 031 ~ 00149911 v 0000 ~ 00051332 v 0000 ~ 00106837 v 0000 ~ 00144232 v 0000 ~ 00023431 v 0000 ~ 00196844 v 0000 ~ 00137566 v 0000 ~ 00032574 v 0000 ~ 00124384 v 0000 ~ 00148414 v 0000 ~ 00066846 v 0000 ~ 00072885 v 0000 ~ 00010905 v 0000 ~ 00114252 v 0000 ~ 00172171 v 0000 ~ 00154407 v 0000 ~ 00093536 v 0000 ~ 00140058 v 0000 ~ 00038872 v 0000 ~ 00187130 v 0000 ~ 00173709 v 0000 ~ 00171915 v 0000 ~ 00079718 v 0000 ~ 00147021 v 0000 ~ 00034521 v 0000 ~ 00167494 v 0000 ~ 00046655 v 0000 ~ 00006190 v 0000 ~ 00185612 v 0000 ~ 00037395 v 0000 > 00056928 v 0000 01 + 00 00 | shkaku i lëvizjes , të lëvizësh në të njëjtin sensë ose në sense të kundërt
+00007962 00 v 05 kap 0 marr 0 ndalim 0 rrëmbej 0 mbërthej 0 001 @ 00169350 v 0000 01 + 00 00 | të mbash dikë në ruajtje
+00008087 00 v 03 ndërpres 0 abstenoj 0 përmbahem 0 001 ! 00123713 v 0000 01 + 00 00 | një zgjedhje qe sduhet te konsumoj
+00008211 00 v 02 llogaris 0 llogaritje 0 002 ~ 00157693 v 0000 ~ 00128052 v 0000 01 + 00 00 | kam një llogari
+00008322 00 v 03 evoloj 0 siguroj 0 zhvilloj 0 001 @ 00100890 v 0000 01 + 00 00 | rritje përmes eksperiencës
+00008433 00 v 01 kërkoj_lëmosh 0 000 01 + 00 00 | lyp lëmosh
+00008497 00 v 04 bëhem_i_pandjeshëm 0 humbas_energji 0 mpihem 0 i_topitur 0 001 @ 00117854 v 0000 01 + 00 00 | të bëhesh më pak i gjallë; aktiv të dobësohesh në forcë, aktivitet, apo në ndjeshmëri
+00008706 00 v 03 pajis_me 0 furnizim 0 siguroj 0 008 @ 00033380 v 0000 ~ 00047889 v 0000 ~ 00094873 v 0000 ~ 00032281 v 0000 ~ 00160613 v 0000 ~ 00077102 v 0000 ~ 00184898 v 0000 ~ 00069394 v 0000 01 + 00 00 | siguroj ose furnizoj me
+00008940 00 v 01 fluturim 0 001 @ 00078174 v 0000 01 + 00 00 | të udhëtosh me avion
+00009026 00 v 01 forcë 0 001 @ 00003000 v 0000 01 + 00 00 | veprimi i një shtytje deri në ekzistencë
+00009131 00 v 03 prish 0 trazoj 0 çrregulloj 0 001 @ 00193698 v 0000 01 + 00 00 | lëvizje e fortë dhe e çrregullt
+00009249 00 v 03 sistem_veprimesh 0 eci_më_tej 0 drejtim 0 001 @ 00131856 v 0000 01 + 00 00 | drejton një organizim ; menaxhon dhe e kontrollon
+00009395 00 v 02 shkëmbej 0 ndaj 0 001 @ 00118876 v 0000 01 + 00 00 | komunikoj
+00009476 00 v 01 sëmundje 0 001 @ 00030895 v 0000 01 + 00 00 | të vuash nga, të jesh e sëmurë me
+00009578 00 v 04 çmontoj 0 zbres 0 zbres_nga 0 heq_nga_kali 0 001 @ 00166010 v 0000 01 + 00 00 | zbres nga kali
+00009691 00 v 03 grumbulloj 0 korr 0 mbledh 0 001 @ 00157887 v 0000 01 + 00 00 | grumbulloj produkte natyrale
+00009801 00 v 03 ndeshem 0 përputhem 0 pajtohem 0 003 @ 00060854 v 0000 ~ 00153461 v 0000 ~ 00039242 v 0000 01 + 00 00 | plotësoj një kusht
+00009944 00 v 04 futje 0 zhytem 0 futem 0 kridhem 0 001 @ 00069889 v 0000 01 + 00 00 | Bie në një gjendje të vështirë, nga ku nuk mund të dal dot lehtë; pushtohem i tëri nga një ndjenjë, nga mendimet, dëshirat, ëndërrimet etj.;
+00010185 00 v 03 paraqes 0 nxjerr_në_pah 0 ngre 0 000 01 + 00 00 | vendos në krye për vëmendje apo diskutim
+00010297 00 v 01 recitoj 0 002 @ 00085944 v 0000 ~ 00063591 v 0000 01 + 00 00 | Them me zë e në mënyrë shprehëse përpara të tjerëve një vjershë a një copë proze të mësuar përmendësh
+00010495 00 v 01 arsyetim 0 003 @ 00024954 v 0000 ~ 00130020 v 0000 ~ 00073615 v 0000 01 + 00 00 | të mendosh me logjik
+00010616 00 v 03 kultivoj 0 bëhem 0 zhvillohem 0 001 @ 00180030 v 0000 01 + 00 00 | rritje e përmasave si rezultat i proçeseve natyrore
+00010755 00 v 02 mbush_mendjen 0 bind 0 001 @ 00141988 v 0000 01 + 00 00 | bëj ( dikë ) të kuptoj , pranoj apo vërtetoj vlefshmërinë e diçkaje
+00010905 00 v 02 zhvendos 0 transportoj 0 003 @ 00007259 v 0000 ~ 00100109 v 0000 ~ 00076706 v 0000 01 + 00 00 | lëvizje me mbështetës ose transport me mjete te ndryshme
+00011078 00 v 03 kam 0 mbaj 0 zotëroj 0 003 ~ 00067427 v 0000 ~ 00030459 v 0000 ~ 00186963 v 0000 01 + 00 00 | kam ose zotëroj , zakonisht në kuptim konkretë ose abstrakt
+00011253 00 v 03 fiksoj 0 i_fiksuar_mirë 0 pozicionoj 0 008 @ 00109057 v 0000 ~ 00046781 v 0000 ~ 00198203 v 0000 ~ 00176817 v 0000 ~ 00034621 v 0000 ~ 00101540 v 0000 ~ 00002916 v 0000 ~ 00104368 v 0000 01 + 00 00 | arsyeja në mënyrë të vendosur të lidhur
+00011516 00 v 04 plasje 0 shpërthej 0 çarje 0 pëlcitje 0 001 @ 00092563 v 0000 01 + 00 00 | E çaj diçka, e plasarit, e kris çahet diçka vende-vende, merr një të çarë; plasaritet (nga nxehtësia, nga soditjet e lehta etj.)
+00011749 00 v 04 ngulmoj 0 nxis 0 stimuloj 0 shtyj 0 000 01 + 00 00 | detyorj ose shtyj drejt një drejtimi të sugjeruar
+00011871 00 v 02 kërcitje 0 trokitje_e_lehtë 0 001 @ 00159987 v 0000 01 + 00 00 | trokitja ose zhurma që krijohet mbi një sipërfaqe
+00012008 00 v 01 urdhëroj 0 004 @ 00131856 v 0000 ~ 00073303 v 0000 ~ 00151893 v 0000 > 00003000 v 0000 01 + 00 00 | porosi me gojë ose me shkrim që jepet nga një organ më i lartë nga një përfaqësues i tij , nga një epror
+00012240 00 v 01 vë_në_vijë 0 001 @ 00177376 v 0000 01 + 00 00 | zgjidh ; zgjidh një marrëveshje financiare
+00012353 00 v 02 përgatitem 0 pres 0 000 01 + 00 00 | shoh drejt ngjarjes më të mundshme që do ndodh
+00012458 00 v 01 krijoj_gojarisht 0 002 @ 00152110 v 0000 ~ 00176981 v 0000 01 + 00 00 | krijoj me anën e ose prej fjalëve
+00012583 00 v 03 aksident 0 shkatërroj 0 përplasje 0 001 @ 00122985 v 0000 01 + 00 00 | dëm ose shkatërrim me dhunë
+00012704 00 v 01 blej 0 001 @ 00041386 v 0000 01 + 00 00 | është e vleresueshme aftesia juaj e blerjes
+00012809 00 v 01 sjell_ndërmend 0 000 01 + 00 00 | kujtoj diçka të papëlqyeshme nga e shkuara
+00012907 00 v 02 shkëput 0 ia_dal 0 004 ! 00004609 v 0000 @ 00076279 v 0000 ~ 00046488 v 0000 ~ 00046552 v 0000 01 + 00 00 | arrij te shkëputem
+00013053 00 v 01 gjuajtje 0 003 @ 00051332 v 0000 ;c 00363223 n 0000 * 00007259 v 0000 01 + 00 00 | goditje ose shty me këmbë
+00013181 00 v 02 funksion 0 detyrë 0 001 @ 00133424 v 0000 01 + 00 00 | një detyrë ose një funksion i caktuar ne një zyrë
+00013309 00 v 02 pastroj 0 purifikoj 0 002 @ 00164807 v 0000 ~ 00129051 v 0000 01 + 00 00 | të pastrosh trupin apo pjesë te tij
+00013439 00 v 02 mbështetës 0 ndihmoj 0 002 @ 00049116 v 0000 ~ 00044436 v 0000 01 + 00 00 | jep një ndihmë ose asistoj për një ndihmë
+00013581 00 v 02 mbaj 0 fsheh 0 001 @ 00126826 v 0000 01 + 00 00 | mbaj teori ; mendime ; ndjenja
+00013679 00 v 02 heq 0 nxjerr_jashtë 0 004 ! 00047339 v 0000 @ 00022029 v 0000 ~ 00081427 v 0000 ~ 00160531 v 0000 01 + 00 00 | zhvendos ose nxjerr
+00013828 00 v 07 kristalizoj 0 qartësohem 0 kthjellohem 0 terezis 0 shpjegoj 0 sqaroj 0 vë_në_rregull 0 000 01 + 00 00 | të lirohesh nga çoroditjet apo ngatërresat; e bën të qartë një gjë
+00014027 00 v 01 numëroj 0 001 @ 00148756 v 0000 01 + 00 00 | përcaktoj numrin e sasisë
+00014118 00 v 03 tërheq 0 anulloj 0 heq 0 002 ! 00004722 v 0000 @ 00022029 v 0000 01 + 00 00 | lëviz ose tërheq nga një llogari ose një burim
+00014265 00 v 04 vlen 0 miratim 0 pranim 0 pëlqim 0 002 ! 00198504 v 0000 ~ 00114855 v 0000 01 + 00 00 | të japësh një përgjigje pohuese ; të përgjigjesh në favor të
+00014440 00 v 01 kthesë 0 001 @ 00062750 v 0000 01 + 00 00 | ndryshon drejtim
+00014519 00 v 01 kaloj 0 005 @ 00022844 v 0000 ~ 00029654 v 0000 ~ 00015623 v 0000 ~ 00132066 v 0000 ~ 00164054 v 0000 01 + 00 00 | kalimi ose në ruajtje
+00014674 00 v 01 krijim 0 002 @ 00003000 v 0000 ~ 00120691 v 0000 01 + 00 00 | ndjek një aktivitet krijues ; jam i angazhuar në aktivitete krijuese
+00014824 00 v 01 ngricë 0 001 @ 00082041 v 0000 01 + 00 00 | Kur papritur fillon te ftohet çdo gjë
+00014926 00 v 03 ndërpres 0 ndaloj 0 pushoj 0 002 @ 00036576 v 0000 ~ 00110739 v 0000 01 + 00 00 | parapri përfundimin
+00015047 00 v 05 zhvleftësoj 0 prish 0 dobësoj 0 keqësoj 0 dëmtoj 0 001 @ 00122985 v 0000 01 + 00 00 | ta bësh jo perfekte
+00015175 00 v 02 vërshim 0 përmbytje 0 001 @ 00019163 v 0000 01 + 00 00 | mbushur plot me lëng , kryesisht ujë
+00015290 00 v 06 arrati 0 arratisem_me_vrull 0 largohem 0 iki_fshehurazi 0 iki_me_vrap 0 vrapim 0 001 ~ 00086892 v 0000 01 + 00 00 | vrapoj ; ikën këmba këmbës ;
+00015456 00 v 01 afrohet 0 001 @ 00041386 v 0000 01 + 00 00 | Bëhet me i afërt, vjen me afër në kohë, mbetet pak kohë derisa të vijë a të përfundojë diçka
+00015623 00 v 02 lë_me_mirëbesim 0 besoj 0 001 @ 00014519 v 0000 01 + 00 00 | lë diçka dikujt në ruajtje
+00015733 00 v 04 bëj_bip 0 gjëmim 0 e_rënë_borie 0 bori 0 001 @ 00159987 v 0000 01 + 00 00 | bën një zhurmë me zë të lartë
+00015866 00 v 01 e_drejtë_e_votës 0 001 @ 00132451 v 0000 01 + 00 00 | shpreh një preferencë për një kandidatë ; formë votimi
+00016000 00 v 03 korrigjoj 0 ujdis 0 ndreq 0 001 @ 00117854 v 0000 01 + 00 00 | ndryshoj ose rregulloj për të arritur një përpikmëri apo përputhje të një standarti
+00016172 00 v 02 përputh 0 përshtat 0 001 @ 00146690 v 0000 01 + 00 00 | E bëj diçka që të shkojë e të përputhet me një qëllim të caktuar, i bëj ndryshimet e ndreqjet e nevojshme, që t&apos;u përgjigjet kushteve e rrethanave të caktuara.
+00016426 00 v 01 mos_kapje 0 001 ! 00068584 v 0000 01 + 00 00 | shkopsis ose një lirim nga e cila je i kapur
+00016536 00 v 01 ngrohtë 0 001 @ 00117854 v 0000 01 + 00 00 | të bësh ngrohtë
+00016618 00 v 01 udhëzoj 0 001 @ 00042568 v 0000 01 + 00 00 | jap instruksione apo drejtime në lidhje me disa detyra
+00016737 00 v 01 ankorim 0 001 @ 00184095 v 0000 01 + 00 00 | të lëvizësh ose të shkosh me vendosmëri ose gradualisht
+00016860 00 v 02 quaj 0 thërras 0 002 @ 00132971 v 0000 ~ 00103301 v 0000 01 + 00 00 | vendos një emër specifik
+00016975 00 v 02 del 0 gjendem 0 002 @ 00041386 v 0000 ~ 00024191 v 0000 01 + 00 00 | provon ose del që është e vërtetë
+00017100 00 v 0a pallavra 0 llomotis 0 flas_në_tym 0 thashetheme 0 marrëzira 0 broçkulla 0 flas_poshtë_e_lart 0 dërdëllit 0 llafe 0 gjepura 0 001 @ 00159480 v 0000 01 + 00 00 | flas (rreth një materiali të parëndësishëm) vazhdueshmërisht dhe në mënyrë të shpejt
+00017378 00 v 02 përdredhje 0 gërshetim 0 002 @ 00062750 v 0000 ~ 00072192 v 0000 01 + 00 00 | të kthehesh në dreijtimin e kundërt
+00017514 00 v 03 grumbulloj 0 lidhje 0 mbledh 0 001 ~ 00145045 v 0000 01 + 00 00 | bashkim i disa pjesëve ose bashkimi i një organizatë ose një grupi
+00017668 00 v 02 marr 0 thithin 0 001 @ 00032881 v 0000 01 + 00 00 | pranoj
+00017744 00 v 01 shfaqet 0 002 ! 00155466 v 0000 ~ 00083594 v 0000 01 + 00 00 | të dal në dukje.
+00017843 00 v 02 mbush 0 mbush_plot 0 005 ! 00028415 v 0000 @ 00117854 v 0000 ~ 00078742 v 0000 ~ 00072323 v 0000 > 00112811 v 0000 01 + 00 00 | e mbush plot, gjithashtu dhe në kuptimin metaforik
+00018040 00 v 01 ndryshim_i_integruar 0 011 @ 00100890 v 0000 ~ 00033240 v 0000 ~ 00036431 v 0000 ~ 00122511 v 0000 ~ 00140822 v 0000 ~ 00154234 v 0000 ~ 00092563 v 0000 ~ 00198735 v 0000 ~ 00175714 v 0000 ~ 00037250 v 0000 ~ 00196328 v 0000 01 + 00 00 | ndryshim i strukturës fizike
+00018325 00 v 04 zhvillohet 0 ngjet 0 vazhdoj 0 ndodh 0 004 ~ 00053531 v 0000 ~ 00181126 v 0000 ~ 00192650 v 0000 ~ 00114484 v 0000 01 + 00 00 | zhvillohet ose kryhet një ngjarje
+00018505 00 v 03 pëlqej 0 shijoj 0 gëzoj 0 000 01 + 00 00 | kam përfitime nga
+00018586 00 v 03 lidh 0 shtrëngoj 0 mbërthej 0 001 @ 00117854 v 0000 01 + 00 00 | Bashkoj skajet e një filli, të një litari etj. ose skajet e fijeve të ndryshme e i shtrëngoj së bashku nyjë; bëj nyjë në një fill; var a kap diçka në trup ose në një vend tjetër, duke bashkuar e duke shtrënguar fijet a rripat që ka;
+00018921 00 v 03 shpërndahem 0 përhap 0 shpërndarje 0 001 @ 00156080 v 0000 01 + 00 00 | një lëvizje e drejtuar jashtë
+00019046 00 v 02 gjej 0 piketoj 0 001 @ 00132451 v 0000 01 + 00 00 | të zgjedhësh me kujdes nga një grup gjërash
+00019163 00 v 02 kuvertë 0 mbulesë 0 002 @ 00161952 v 0000 ~ 00015175 v 0000 01 + 00 00 | një forme mbulimi
+00019274 00 v 03 themeloj 0 formoj 0 krijoj 0 001 @ 00144451 v 0000 01 + 00 00 | themeloj ose krijoj një bazë për
+00019391 00 v 03 motoçikletë 0 biçikletë 0 pedalon 0 001 @ 00081634 v 0000 01 + 00 00 | ngas me biçikletë
+00019503 00 v 04 dëshirë_e_madhe 0 dhembje 0 dobësi 0 kam_mall 0 001 @ 00027551 v 0000 01 + 00 00 | të kesh dëshirë për diçka ose për dikë që nuk është prezent
+00019676 00 v 02 çorientoj 0 keqinformoj 0 002 @ 00028051 v 0000 ~ 00178535 v 0000 01 + 00 00 | jap informacion fals
+00019794 00 v 02 tregoj 0 jap_sinjal 0 001 @ 00058441 v 0000 01 + 00 00 | një sinjal për diçka
+00019892 00 v 02 caktoj 0 përgjegjësi 0 001 ~ 00125630 v 0000 01 + 00 00 | cakton një detyrë , përgjegjësit ose angazhim
+00020019 00 v 03 bëj_për_vete 0 tërheq 0 zaptoj 0 001 @ 00045426 v 0000 01 + 00 00 | tërheq apo pushtoj të tërën
+00020139 00 v 01 joshje 0 000 01 + 00 00 | nxjerr një reagim ,protestë , kritikë , aprovim
+00020233 00 v 02 shkrij 0 zbut 0 001 @ 00037250 v 0000 01 + 00 00 | reduktim ose shkak për kalimin nga një gjendje e ngurtë në një gjendje të lëngshme , e shkaktuar zakonisht nga nxehtësia
+00020430 00 v 01 vallëzim 0 002 @ 00056928 v 0000 ;c 00324970 n 0000 01 + 00 00 | lëviz sipas një modeli ; zakonisht e shoqëruar me muzikë krijon ose e interpreton kërcimin
+00020609 00 v 02 rrit 0 mban 0 001 ~ 00162934 v 0000 01 + 00 00 | rrit lule ose mban kafshë
+00020702 00 v 02 arritje 0 përparim 0 000 01 + 00 00 | të rritesh në vlerë dhe përqindje
+00020796 00 v 03 ngazëllehem 0 triumfoj 0 gëzohem 0 001 @ 00129252 v 0000 01 + 00 00 | për të shprehur gëzim të madh
+00020919 00 v 01 kapje 0 003 @ 00169350 v 0000 ~ 00160865 v 0000 ~ 00190858 v 0000 01 + 00 00 | një kapje e shpejtë ose në mënyrë të vendosur
+00021067 00 v 03 formoj 0 përbëj 0 bëj 0 001 @ 00059109 v 0000 01 + 00 00 | të përbëj ose të paraqes
+00021175 00 v 03 përfundoj 0 vendos 0 merr_fund 0 004 ~ 00197398 v 0000 ~ 00080167 v 0000 ~ 00005125 v 0000 ~ 00132451 v 0000 01 + 00 00 | kërkoj , bëj ose arrij drejt një vendimi të diçkaje
+00021372 00 v 02 kutërbon 0 erë_e_keqe 0 001 @ 00151454 v 0000 01 + 00 00 | një nuhatje e keqe ose në mënyrë fyese
+00021493 00 v 03 marr 0 përvetësoj 0 birësoj 0 001 @ 00132451 v 0000 01 + 00 00 | zgjedh dhe përvetësoj ; një teori , ide , strategji dhe plane
+00021643 00 v 04 rrafshinë 0 rrafshoj 0 ve_në_një_nivel 0 barazoj 0 001 @ 00141536 v 0000 01 + 00 00 | bëj një rrafshinë ose një vijë të drejtë
+00021797 00 v 01 shërbej 0 000 01 + 00 00 | kushtoj një pjesë të jetës ose jetën kombit , ideve ose një institucioni
+00021921 00 v 01 rroj 0 001 * 00186027 v 0000 01 + 00 00 | kam një lloj jete ; të jetosh sipas një stili
+00022029 00 v 05 marr_mbrapsht 0 heq_nga_qarkullimi 0 marr_me_vete 0 marr 0 heq 0 017 ~ 00013679 v 0000 ~ 00144365 v 0000 ~ 00166744 v 0000 ~ 00186251 v 0000 ~ 00082785 v 0000 ~ 00155628 v 0000 ~ 00023927 v 0000 ~ 00128294 v 0000 ~ 00014118 v 0000 ~ 00112248 v 0000 ~ 00024613 v 0000 ~ 00077559 v 0000 ~ 00054062 v 0000 ~ 00027436 v 0000 ~ 00060504 v 0000 ~ 00163525 v 0000 ~ 00063454 v 0000 01 + 00 00 | tsh diçka konkrete duke e spostuar , shtyrë, ngritur etj. ose të lëvizë diçka abstrakte
+00022528 00 v 01 leh 0 001 @ 00040563 v 0000 01 + 00 00 | të bësh tinguj të zhurmshëm ( ulërij)
+00022629 00 v 01 gostit 0 001 ~ 00079924 v 0000 01 + 00 00 | siguroj një gosti për
+00022714 00 v 02 shëtitje 0 bredhje 0 001 @ 00115332 v 0000 01 + 00 00 | ecje në kohë të lirë dhe ose një ecje me dëshirë
+00022844 00 v 01 kalim 0 004 ~ 00014519 v 0000 ~ 00033380 v 0000 ~ 00106300 v 0000 * 00007259 v 0000 01 + 00 00 | arsyeja e kalimit të zakoneve , pasurive
+00023000 00 v 02 të_lejosh 0 lejoj 0 001 @ 00069394 v 0000 01 + 00 00 | Jap mundësi për diçka, e bëj të mundshme diçka; krijoj kushte për diçka, pajtohem me një gjendje
+00023179 00 v 02 zvogëloj 0 minimizoj 0 001 @ 00119441 v 0000 01 + 00 00 | reduktoj në madhësi të vogël gati të papeshë
+00023306 00 v 04 fishkem 0 vyshk 0 thahem 0 rrëgjohem 0 000 01 + 00 00 | vyshkje , zakonisht në mungesë të lagështirës
+00023431 00 v 01 udhëtim_me_makinë 0 001 @ 00007259 v 0000 01 + 00 00 | shkak i lëvizjes së diçka me makinë
+00023545 00 v 04 ndërtoj 0 vendos 0 rregulloj 0 sistemoj 0 001 @ 00090211 v 0000 01 + 00 00 | sistemoj idetë, mendimet, ngjarje të përkohshme , etj.
+00023698 00 v 02 marr_si_të_vërtetë 0 marr_parasysh 0 001 @ 00130773 v 0000 01 + 00 00 | ; e pranoj diçka pa verifikim apo provë
+00023832 00 v 01 gjendem 0 001 @ 00041386 v 0000 01 + 00 00 | jam në një gjendje të caktuar
+00023927 00 v 01 qëroj 0 001 @ 00022029 v 0000 01 + 00 00 | të heqësh guaska apo lëvozhga , cipë
+00024029 00 v 03 flas_në_tym 0 flas_mbyturazi 0 murmuritje 0 001 @ 00159480 v 0000 01 + 00 00 | i folur i paqartë , i padallueshëm; zakonisht me zë të ulët
+00024191 00 v 02 pasoj 0 rezultat 0 002 @ 00016975 v 0000 ~ 00006897 v 0000 01 + 00 00 | pason ose rezulton (e specifikuar një drejtim , një gjendje ); përfundon
+00024356 00 v 03 shtri 0 zgjat 0 shpalos 0 001 @ 00126492 v 0000 01 + 00 00 | zgjat ose shtri në gjatësi
+00024463 00 v 05 përgatis 0 formoj 0 edukoj 0 stërvit 0 mësoj 0 001 @ 00180579 v 0000 01 + 00 00 | formim nëpërmjet trajnimit dhe mësimdhënies
+00024613 00 v 02 largoj 0 liroj 0 002 ! 00104368 v 0000 @ 00022029 v 0000 01 + 00 00 | lëviz ose e liroj nga ai pozicion
+00024735 00 v 01 ngricë 0 002 @ 00117854 v 0000 > 00107245 v 0000 01 + 00 00 | shkakton ngricë
+00024832 00 v 02 model 0 formë 0 002 @ 00178826 v 0000 ;c 00333111 n 0000 01 + 00 00 | forma e argjilit ose me parafinë
+00024954 00 v 02 mendoj_thellë 0 çoj_nëpër_mend 0 006 ~ 00069889 v 0000 ~ 00079249 v 0000 ~ 00010495 v 0000 ~ 00190353 v 0000 ~ 00164588 v 0000 ~ 00001405 v 0000 01 + 00 00 | përdorimi ose stërvitje e mendjes apo e arsyes së një personi duke matur shkallën e arsyetimit , durueshmërisë dhe gjykimit të tij
+00025272 00 v 02 kontakt 0 përdore 0 001 ~ 00082648 v 0000 01 + 00 00 | te shfrytezosh mire burimet
+00025373 00 v 02 marr_në_foto 0 filmoj 0 002 @ 00148054 v 0000 ;c 00262194 n 0000 01 + 00 00 | bëj filmim apo fotografoj diçka
+00025503 00 v 08 dërdëllitje 0 llomotitje 0 bisedoj 0 shfryj 0 nis_muhabetin 0 shaj 0 fjalosem 0 bërbëlitje 0 001 @ 00056528 v 0000 01 + 00 00 | flas në mënyrë shoqërore pa shkëmbyer shumë informacion
+00025714 00 v 03 kanaçe 0 konservoj 0 kuti_teneqeje 0 002 @ 00182794 v 0000 ;c 00060124 n 0000 01 + 00 00 | ruajtje e ushqimit në një kanaçe apo kuti konservash
+00025879 00 v 06 shkoj_përpara 0 vij_në 0 zhvillim 0 arritje 0 realizoj 0 sukses 0 001 * 00184095 v 0000 01 + 00 00 | arrij në një destinacion ose një qëllim ,zakonisht real apo abstrakt
+00026072 00 v 04 forcë 0 trysni 0 detyroj 0 ngjeshje 0 002 @ 00161720 v 0000 > 00003000 v 0000 01 + 00 00 | shkaku i një trysnie dhe i një domosdoshmëri, ose në kuptim fizik , moral dhe intelektual
+00026275 00 v 02 marr 0 pranoj 0 001 @ 00041386 v 0000 01 + 00 00 | të jesh sipas një plani për të marr ose kapur diçka
+00026400 00 v 01 përmasë 0 002 @ 00041386 v 0000 ~ 00109591 v 0000 01 + 00 00 | madhësia e diçkaje,e matur në kufijtë e vet,përmasat reale që mund të ketë një trup
+00026575 00 v 01 shqyrtoj 0 001 @ 00070165 v 0000 01 + 00 00 | kontrolloj me kujdes
+00026659 00 v 02 mbaj_një_leksion 0 flas 0 001 @ 00180579 v 0000 01 + 00 00 | paraqes një fjalim apo leksion
+00026770 00 v 03 detyrim 0 përgjegjësi 0 angazhohem 0 001 @ 00038872 v 0000 01 + 00 00 | arsyeja që të pranohem; në një institucion
+00026908 00 v 01 punoj 0 002 ~ 00133424 v 0000 ~ 00162818 v 0000 01 + 00 00 | të jesh i punësuar
+00027007 00 v 02 mbroj 0 ruaj 0 001 @ 00177721 v 0000 01 + 00 00 | i qëndroj strikt diçkaje , kategorik
+00027113 00 v 02 erozion 0 zhvesh 0 000 01 + 00 00 | shtresë e zhveshur , e shkretë
+00027199 00 v 03 lidh 0 lidhem 0 ngjit 0 002 @ 00139005 v 0000 ~ 00091273 v 0000 01 + 00 00 | krijimi i një lidhje emocionale ose sociale
+00027338 00 v 03 kam 0 posedoj 0 zotëroj 0 000 01 + 00 00 | posedon një pronësi ose e zotëron
+00027436 00 v 04 çmontoj 0 pres_një_rripë 0 heq 0 zbërthej 0 001 @ 00022029 v 0000 01 + 00 00 | lëviz ose heq
+00027551 00 v 03 digjem 0 jam_i_etur 0 dua_shumë 0 002 @ 00077811 v 0000 ~ 00019503 v 0000 01 + 00 00 | dëshiroj fuqimisht ose me këmbëngulje
+00027697 00 v 01 irritoj 0 000 01 + 00 00 | të ndihesh i irrituar për
+00027769 00 v 03 i_valëzuar 0 rulon 0 i_dallgëzuar 0 001 @ 00056928 v 0000 01 + 00 00 | lëvizje në një model të valëzuar ose një lëvizje në zbritje
+00027927 00 v 01 tregëti 0 003 ;c 00386132 n 0000 * 00115023 v 0000 * 00145339 v 0000 01 + 00 00 | të merresh me tregëti
+00028051 00 v 03 vë_në_dijeni 0 informoj 0 njoftoj 0 013 @ 00118876 v 0000 ~ 00172295 v 0000 ~ 00019676 v 0000 ~ 00083723 v 0000 ~ 00180579 v 0000 ~ 00172044 v 0000 ~ 00058441 v 0000 ~ 00078829 v 0000 ~ 00140575 v 0000 ~ 00167953 v 0000 ~ 00173104 v 0000 ~ 00171411 v 0000 ~ 00135737 v 0000 01 + 00 00 | jap të njohur disa fakte, gjendje apo punë, ose ngjarje
+00028415 00 v 02 zbraz 0 boshatis 0 004 ! 00017843 v 0000 @ 00117854 v 0000 ~ 00105533 v 0000 > 00170740 v 0000 01 + 00 00 | të boshatisësh gjërat
+00028565 00 v 01 ndenjur 0 001 @ 00188407 v 0000 01 + 00 00 | Qëndrimi në një vend pa lëvizur, në mënyra të ndryshme, ndenjje
+00028698 00 v 02 konsultoj 0 këshillohem_me 0 001 @ 00182219 v 0000 01 + 00 00 | marr ose jap këshilla nga dikush
+00028814 00 v 01 maskim 0 002 @ 00132688 v 0000 ~ 00136969 v 0000 01 + 00 00 | një pamje e panjohurë
+00028917 00 v 02 lë_të_hyj 0 pranoj 0 001 @ 00114855 v 0000 01 + 00 00 | fut brenda ; lejon të hyj
+00029019 00 v 01 vullnetar 0 001 @ 00003000 v 0000 01 + 00 00 | pranoj lirisht
+00029098 00 v 02 arsyeje 0 shkak 0 004 @ 00152110 v 0000 ~ 00144451 v 0000 ~ 00126679 v 0000 ~ 00165421 v 0000 01 + 00 00 | shpërndaj ; shkaku i ngjarjes ose ndodhisë
+00029267 00 v 01 pagim 0 009 @ 00033380 v 0000 ~ 00109859 v 0000 ~ 00194152 v 0000 ~ 00079844 v 0000 ~ 00193393 v 0000 ~ 00197157 v 0000 ~ 00181940 v 0000 ~ 00053072 v 0000 ~ 00172960 v 0000 01 + 00 00 | jep para , zakonisht shkëmbim për të mira materiale
+00029526 00 v 02 turielë 0 vrimë 0 000 01 + 00 00 | bën një hendek me një pajisje me majë të mprehtë ose me vegël dore
+00029654 00 v 04 liroj 0 lë 0 heq_dorë 0 i_lirë 0 001 @ 00014519 v 0000 01 + 00 00 | pjesë e një prone ose një e drejtë
+00029781 00 v 01 dëshiroj 0 001 @ 00077811 v 0000 01 + 00 00 | të kesh preferencë për diçka ose për disa aktivitete
+00029903 00 v 01 admiroj 0 001 @ 00084148 v 0000 01 + 00 00 | ta shikosh me admirim
+00029987 00 v 07 përshtatem 0 akord 0 shoqërohem 0 harmonist 0 bie_dakort 0 marrëveshje 0 harmonizoj 0 001 @ 00060854 v 0000 01 + 00 00 | Përputhet me dikë a me diçka; i vete mirë diçkaje; pajtohet me të.
+00030201 00 v 03 rreh 0 pulsim 0 pulsë 0 001 @ 00058978 v 0000 01 + 00 00 | rrit ose rreh ritmikisht
+00030303 00 v 04 shfaq 0 demostroj 0 nxjerr 0 tregoj 0 001 @ 00113099 v 0000 01 + 00 00 | tregoj ose demostroj diçka që është interesante për publikun
+00030459 00 v 02 mbante 0 mban 0 001 @ 00011078 v 0000 01 + 00 00 | mban me të drejtë të plote , një titull
+00030571 00 v 01 ngrohem 0 001 @ 00100890 v 0000 01 + 00 00 | bëhet më i ngrohtë
+00030655 00 v 03 eskursion 0 udhëtim 0 shëtitje 0 002 ~ 00140177 v 0000 > 00184095 v 0000 01 + 00 00 | të bësh një eskursion për kënaqësi
+00030801 00 v 03 heq_dorë 0 largohem 0 mënjanohem 0 000 01 + 00 00 | largohem ose heq dorë
+00030895 00 v 02 lëndim 0 vuajtje 0 003 ! 00088105 v 0000 @ 00041386 v 0000 ~ 00009476 v 0000 01 + 00 00 | të ndiesh dhimbje apo ta përjetosh dhimbjen
+00031049 00 v 06 përmbush 0 përfundoj 0 veprim 0 zbatoj 0 realizoj 0 kryej 0 003 @ 00126679 v 0000 @ 00158890 v 0000 ~ 00058215 v 0000 01 + 00 00 | paraqitje e një përfundim
+00031227 00 v 06 mbaroj 0 le 0 pushoj_nga_puna 0 ndërpres 0 pezulloj_nga_puna 0 ndal 0 001 ~ 00090915 v 0000 01 + 00 00 | largomem nga një aktivitet ose gjendje
+00031390 00 v 02 përzjerje 0 bashkim 0 001 @ 00195104 v 0000 01 + 00 00 | përzjerje ose një ndërthurrje e gjërave
+00031509 00 v 05 mblidhem 0 grumbulloj 0 bëj_pirg 0 mbledh 0 akumuloj 0 001 @ 00134711 v 0000 01 + 00 00 | mbledh ose grumbulloj
+00031639 00 v 04 zhytem 0 zbres 0 ulem 0 fundosem 0 002 ! 00096747 v 0000 @ 00166010 v 0000 01 + 00 00 | zhytem
+00031751 00 v 03 fitim 0 të_ardhura 0 shtim 0 001 @ 00055384 v 0000 01 + 00 00 | nxjerr të ardhura nga
+00031856 00 v 02 lind 0 prodhoj 0 001 @ 00128620 v 0000 01 + 00 00 | zbuloj ose krijoj
+00031943 00 v 05 hipotezë 0 supozoj 0 arsyetoj 0 teorizoj 0 supozim 0 001 @ 00130773 v 0000 01 + 00 00 | të besosh veçanërisht në fusha të pa caktuara apo eksperimentale
+00032119 00 v 03 e_mbaj_larg,e_le_të_pres 0 pritë 0 frenoj,e_mbaj_brenda_të_fshehtën 0 002 @ 00003000 v 0000 ~ 00052583 v 0000 01 + 00 00 | paraprij veprimit
+00032281 00 v 01 mobilim 0 001 @ 00008706 v 0000 01 + 00 00 | pajis ose mobiloj me orendi
+00032371 00 v 01 atribuoj 0 001 @ 00079249 v 0000 01 + 00 00 | atribut ; Veti thelbësore, e domosdoshme dhe e përhershme e një sendi a e një dukurie; cilësi që karakterizon një send a një dukuri
+00032574 00 v 03 që_përmbyset 0 rrotullohem 0 përmbys 0 002 @ 00007259 v 0000 > 00176686 v 0000 01 + 00 00 | kthimi ose rrotullimi nga ana tjetër e pozicionit normal
+00032744 00 v 03 tabelë 0 gjurmë 0 shenjë 0 001 @ 00137566 v 0000 01 + 00 00 | vend i shënuar ose një tabelë e shenjave në rrugë
+00032881 00 v 02 marr 0 zotëroj 0 003 @ 00055384 v 0000 ~ 00017668 v 0000 ~ 00194019 v 0000 01 + 00 00 | marr diçka ; ta kesh në zotërim
+00033022 00 v 04 lëkund 0 dridhje 0 tund 0 dredh 0 001 @ 00079543 v 0000 01 + 00 00 | lëvizje me dridhje
+00033129 00 v 01 gërvisht 0 001 @ 00052398 v 0000 01 + 00 00 | gërvisht trupin në mënyrë të përsëritur
+00033240 00 v 01 gatuaj 0 002 @ 00018040 v 0000 ~ 00050709 v 0000 01 + 00 00 | të përgatisësh diçka të përshtatshme për të ngrënë
+00033380 00 v 01 dorëzoj 0 014 @ 00022844 v 0000 ~ 00045233 v 0000 ~ 00043346 v 0000 ~ 00008706 v 0000 ~ 00083236 v 0000 ~ 00038273 v 0000 ~ 00004722 v 0000 ~ 00126230 v 0000 ~ 00029267 v 0000 ~ 00138676 v 0000 ~ 00110457 v 0000 ~ 00108697 v 0000 ~ 00116834 v 0000 > 00011078 v 0000 01 + 00 00 | transferimi i një prone konkrete ose abstrakte dikujt
+00033732 00 v 01 ngjaj 0 003 @ 00060854 v 0000 ~ 00037564 v 0000 ~ 00119215 v 0000 01 + 00 00 | është i ngjashem,perngjan nga fytyra me dike
+00033875 00 v 03 hipi 0 rritem 0 ngjis 0 001 @ 00136300 v 0000 01 + 00 00 | të rritesh në vlerë apo në një pikë të caktuar
+00034005 00 v 04 mbath 0 marr 0 futem_në_rroba 0 vishem 0 002 @ 00174602 v 0000 ~ 00044774 v 0000 01 + 00 00 | të veshësh rroba
+00034136 00 v 03 konceptual 0 mendo 0 konceptoj 0 002 @ 00131400 v 0000 ~ 00143990 v 0000 01 + 00 00 | të kesh ide për
+00034257 00 v 03 gulçim 0 gjëmim 0 ulërim 0 001 @ 00094091 v 0000 01 + 00 00 | bëj zhurmë të lartë , si zhurmë ere , uji apo mjet transporti
+00034406 00 v 01 vlere 0 001 @ 00041386 v 0000 01 + 00 00 | është e denjë për te patur një vleresim te sigurt
+00034521 00 v 02 pozitë_shoqërorë 0 vendqëndrim 0 001 @ 00007259 v 0000 01 + 00 00 | vendtakimi
+00034621 00 v 03 thur 0 qep 0 qep_bashkë 0 002 @ 00011253 v 0000 * 00059628 v 0000 01 + 00 00 | fiksohem pas qepjes ; të bësh qëndisje
+00034760 00 v 03 kontestoj 0 përpiqem 0 konkurroj 0 001 ~ 00131107 v 0000 01 + 00 00 | konkurroj për dicka
+00034869 00 v 03 kap 0 zë 0 mberthej 0 001 @ 00131107 v 0000 01 + 00 00 | te jesh i kapur
+00034960 00 v 03 interpretoj 0 përshkruaj 0 shpjegoj 0 002 ~ 00121412 v 0000 ~ 00185102 v 0000 01 + 00 00 | t&apos;i japësh kuptim diçkaje;
+00035103 00 v 02 veçoj 0 ndahen 0 001 ~ 00147331 v 0000 01 + 00 00 | të ndash në pjesë ose veçon
+00035205 00 v 02 hedh 0 lëshoj 0 001 @ 00183885 v 0000 01 + 00 00 | lëshoj pa dashje
+00035292 00 v 05 artikuloj 0 deklamoj 0 nxjerr_zë 0 prononcoj 0 shqiptoj 0 002 ~ 00186761 v 0000 * 00159480 v 0000 01 + 00 00 | flas, prononcoj, shprehem në një lloj mënyre
+00035469 00 v 03 injoroj 0 pres_ftohtë 0 shpërfill 0 001 @ 00165843 v 0000 01 + 00 00 | të refuzosh
+00035572 00 v 02 skuq 0 thek 0 002 @ 00153340 v 0000 ;c 00060124 n 0000 01 + 00 00 | të bëhen të thekura dhe të skuqen nga nxehtësia
+00035710 00 v 04 shquaj 0 lokalizoj 0 dalloj 0 përgjoj 0 001 @ 00151547 v 0000 01 + 00 00 | dalloj ose shikoj një fushëpamje
+00035838 00 v 01 përsërit 0 001 @ 00003000 v 0000 01 + 00 00 | rilyej ose rivesh
+00035921 00 v 18 get_it_on 0 have_intercourse 0 make_out 0 have_sex 0 have_a_go_at_it 0 have_it_off 0 bed 0 know 0 bonk 0 lie_with 0 jazz 0 be_intimate 0 roll_in_the_hay 0 bang 0 make_love 0 hump 0 get_laid 0 do_it 0 have_it_away 0 sleep_with 0 love 0 fuck 0 eff 0 screw 0 001 @ 00003484 v 0000 01 + 00 00 | have sexual intercourse with
+00036258 00 v 06 vë_cak 0 pengoj 0 kufi 0 burgos 0 mbyll 0 kufizoj 0 002 @ 00093785 v 0000 ~ 00003751 v 0000 01 + 00 00 | hapësirë që kufizon askses apo zgjerimin e saj
+00036431 00 v 04 veçoj 0 pres_në_copa 0 e_prerë 0 ndaj 0 002 ! 00145045 v 0000 @ 00018040 v 0000 01 + 00 00 | ndan në pjesë ose në racione
+00036576 00 v 02 përfundoj 0 mbyll 0 009 ! 00083457 v 0000 @ 00117854 v 0000 ~ 00176264 v 0000 ~ 00145611 v 0000 ~ 00071262 v 0000 ~ 00056829 v 0000 ~ 00014926 v 0000 ~ 00158890 v 0000 ~ 00190630 v 0000 01 + 00 00 | të sjellësh diçka drejt një fundi apo ndalese
+00036843 00 v 02 pune 0 shërbim 0 001 @ 00049550 v 0000 01 + 00 00 | sherbej për një qellim te caktuar,rol ose funksion
+00036966 00 v 03 funksionoj 0 kontrolloj 0 operoj 0 002 @ 00125452 v 0000 ~ 00147505 v 0000 01 + 00 00 | manovroj për shkak të funksionit
+00037106 00 v 03 prek 0 afekt 0 ndikon 0 003 @ 00117854 v 0000 ~ 00171561 v 0000 ~ 00055280 v 0000 01 + 00 00 | të kesh një ndikim në diçka
+00037250 00 v 03 tret 0 trazoj 0 shpërbëj 0 002 @ 00018040 v 0000 ~ 00020233 v 0000 01 + 00 00 | gjendje që përfundon drejt një tretësirë
+00037395 00 v 05 nxjerr 0 largohem 0 qepem_keq 0 ndërroj 0 shpërndaj 0 001 @ 00007259 v 0000 01 + 00 00 | largoj me forcë ; përdoren të dyja në kuptimin metaforik
+00037564 00 v 01 perngjaj 0 001 @ 00033732 v 0000 01 + 00 00 | ka një ngjashmëri fizike me dike
+00037662 00 v 01 shoqëroj 0 001 @ 00184095 v 0000 01 + 00 00 | shoqëroj , kërkoj , përparoj
+00037758 00 v 02 përhap 0 shpëndaj 0 001 @ 00067718 v 0000 01 + 00 00 | largoj në drejtime të ndryshme diçka që është grumbulluar në një vend
+00037910 00 v 02 adresohem 0 drejtohem 0 002 @ 00180840 v 0000 ~ 00101746 v 0000 01 + 00 00 | i flas dikujt
+00038018 00 v 01 shkelm 0 001 @ 00194231 v 0000 01 + 00 00 | goditje me këmbë
+00038098 00 v 03 e_qarë 0 qaj 0 lotoj 0 004 ! 00114352 v 0000 @ 00069694 v 0000 ~ 00145215 v 0000 ~ 00127119 v 0000 01 + 00 00 | lëshoj lot nga mërzitja, inati ose dhimbja
+00038273 00 v 03 kontriboj 0 ndihmoj 0 ofroj 0 001 @ 00033380 v 0000 01 + 00 00 | jap ndihmë në një çështje
+00038386 00 v 02 raport 0 lidhem 0 001 @ 00041386 v 0000 01 + 00 00 | jam në një marrëveshje me ,në një marrëdhënie me
+00038512 00 v 01 gjendem_poshtë 0 001 @ 00041386 v 0000 01 + 00 00 | nuk jam ne forem për
+00038604 00 v 04 shkolloj 0 kultivoj 0 mësoj 0 arsimoj 0 001 @ 00142148 v 0000 01 + 00 00 | kultivon në kuptimin më të mirëfilltë ose një vendimi
+00038757 00 v 02 shpërhap 0 qarkulloj 0 001 @ 00184095 v 0000 01 + 00 00 | kur diçka bëhet gjerësisht e njohur
+00038872 00 v 01 kalim 0 003 @ 00007259 v 0000 ~ 00005276 v 0000 ~ 00026770 v 0000 01 + 00 00 | lëvizja nga një vend në një tjetër
+00039008 00 v 04 kundërshtoj 0 rezistoj 0 qendrese 0 përballoj 0 000 01 + 00 00 | ngrihem ose përpiqem te bej rezistencë me dike
+00039141 00 v 01 largim 0 001 ~ 00139970 v 0000 01 + 00 00 | ikën nga shtëpia për të shkuar diku
+00039242 00 v 04 përmbush 0 jetoj_sipas_parimeve 0 realizoj 0 plotësoj 0 003 @ 00009801 v 0000 ~ 00097039 v 0000 ~ 00049550 v 0000 01 + 00 00 | përmbushja e kerkesave te pritshme për
+00039429 00 v 02 lë_mënjanë 0 ruaj 0 002 @ 00186963 v 0000 ~ 00148054 v 0000 01 + 00 00 | lë mënjanë sende personale ose për përdorim në raste të veçanta
+00039594 00 v 05 më_vete 0 veçoj 0 klasifikoj 0 veçmas 0 ndaj 0 003 @ 00162613 v 0000 ~ 00045814 v 0000 * 00172679 v 0000 01 + 00 00 | e etiketoj si të veçantë
+00039760 00 v 03 formoj 0 jap_formë 0 i_jap_trajtë 0 005 @ 00117854 v 0000 ~ 00113991 v 0000 ~ 00057997 v 0000 ~ 00154896 v 0000 ~ 00071882 v 0000 01 + 00 00 | ti japë diçkaje formë ose trajtë
+00039959 00 v 03 bie_shi 0 shi_i_rrëmbyeshëm 0 rreshje 0 001 ~ 00188773 v 0000 01 + 00 00 | Reshje që formohet nga kthimi i avujve të atmosferës në ujë gjatë ftohjes dhe që bie pika-pika nga retë në tokë
+00040175 00 v 02 fekondoj 0 pllenim 0 002 @ 00117854 v 0000 ~ 00105841 v 0000 01 + 00 00 | të depërtoj lëngu i prodhuar nga gjëndrat gjinore mashkullore brenda trupit të një femre
+00040361 00 v 03 zgurdulloj 0 guak 0 gogësimë 0 001 @ 00084148 v 0000 01 + 00 00 | shikon me habi ; shikim i trullosur
+00040482 00 v 02 djeg 0 djegie 0 001 @ 00166993 v 0000 01 + 00 00 | sjell djegie
+00040563 00 v 04 rrezatoj 0 lëshoj 0 nxjerr 0 përhap 0 003 ~ 00070771 v 0000 ~ 00022528 v 0000 ~ 00085944 v 0000 01 + 00 00 | shpreh mënyrë dëgjimi , shpërhapja e tingujve( jo domozdoshmërisht fjalë)
+00040771 00 v 04 përmbaj 0 mbaj 0 prapsem 0 ruaj 0 001 @ 00186963 v 0000 01 + 00 00 | siguroj ose mbaj për përdorim në të ardhmen
+00040906 00 v 05 grupoj 0 klasifikoj 0 kategorizoj 0 heq_mënjanë 0 rendis 0 001 * 00172679 v 0000 01 + 00 00 | vendos sipas kategorive apo nivelit
+00041055 00 v 03 rrëfej 0 pranoj 0 deklaroj 0 000 01 + 00 00 | pohoj, a paraqit dikujt një gjë për ta parë, për t&apos;u njohur me të a për të gjykuar për të; zbuloj diçka që të shihet; tregoj
+00041262 00 v 01 inkurajoj 0 002 @ 00192504 v 0000 > 00080534 v 0000 01 + 00 00 | mbush me kurajoj ; jap shpresë ose guxim
+00041386 00 v 01 jam 0 036 ~ 00088105 v 0000 ~ 00112922 v 0000 ~ 00057483 v 0000 ~ 00000961 v 0000 ~ 00006529 v 0000 ~ 00005988 v 0000 ~ 00158395 v 0000 ~ 00161327 v 0000 ~ 00119314 v 0000 ~ 00172417 v 0000 ~ 00075239 v 0000 ~ 00026275 v 0000 ~ 00012704 v 0000 ~ 00182632 v 0000 ~ 00030895 v 0000 ~ 00077296 v 0000 ~ 00069508 v 0000 ~ 00143006 v 0000 ~ 00034406 v 0000 ~ 00023832 v 0000 ~ 00098211 v 0000 ~ 00188016 v 0000 ~ 00064286 v 0000 ~ 00038386 v 0000 ~ 00112327 v 0000 ~ 00048220 v 0000 ~ 00173983 v 0000 ~ 00015456 v 0000 ~ 00016975 v 0000 ~ 00092983 v 0000 ~ 00130518 v 0000 ~ 00110126 v 0000 ~ 00026400 v 0000 ~ 00038512 v 0000 ~ 00109310 v 0000 ~ 00098671 v 0000 01 + 00 00 | të kesh një cilësi
+00042096 00 v 04 zvarritje 0 ci_pa_u_ndier 0 iki_vjedhurazi 0 eci_ngadalë 0 001 @ 00115332 v 0000 01 + 00 00 | eci vjedhurazi ose fshehurazi
+00042238 00 v 03 gjykoj 0 tregoj 0 deklaroj 0 002 @ 00079249 v 0000 ~ 00161079 v 0000 01 + 00 00 | deklaroj se
+00042349 00 v 01 e_gabuar 0 002 @ 00165843 v 0000 ~ 00119795 v 0000 01 + 00 00 | i pajustifikueshëm ; gabohem
+00042460 00 v 02 operacion 0 operoj 0 001 ~ 00121661 v 0000 01 + 00 00 | kryej një ndërhyrje kirurgjikale
+00042568 00 v 02 them 0 urdhëroj 0 002 ~ 00075788 v 0000 ~ 00016618 v 0000 01 + 00 00 | i jap instruksione ose e drejtojë dikë të bëj diçka duke përdorur autoritetin
+00042741 00 v 03 i_freskët 0 i_acartë 0 ftohem 0 002 ! 00153340 v 0000 @ 00117854 v 0000 01 + 00 00 | e bën të ftohtë
+00042864 00 v 02 ndodhen 0 përket 0 001 @ 00188407 v 0000 01 + 00 00 | është në vendin ose situatën e duhur
+00042977 00 v 02 bisedoj 0 flas 0 002 @ 00118876 v 0000 ~ 00056528 v 0000 01 + 00 00 | shkëmbej mendime; flas me
+00043091 00 v 02 lënie_peng 0 garanci 0 002 @ 00124556 v 0000 ;c 00386132 n 0000 01 + 00 00 | lë diçka garanci në shkëmbim të parave
+00043230 00 v 02 pije 0 pi 0 003 @ 00123713 v 0000 ~ 00104239 v 0000 ~ 00047802 v 0000 01 + 00 00 | merr një lëng
+00043346 00 v 03 ushtroj 0 siguroj 0 parandaloj 0 005 @ 00033380 v 0000 ~ 00193494 v 0000 ~ 00185528 v 0000 ~ 00113274 v 0000 ~ 00072579 v 0000 01 + 00 00 | te parandalosh nevojat deshirat zakonisht ushqimi
+00043553 00 v 01 djeg 0 001 @ 00122985 v 0000 01 + 00 00 | të digjesh nga nxehtësia , me zjarri ,apo nga rrezatimi
+00043670 00 v 02 favorizoj 0 avancoj 0 001 @ 00123385 v 0000 01 + 00 00 | sjell përpara si rezultat i konsideratave
+00043787 00 v 02 tall 0 përqesh 0 002 @ 00165843 v 0000 ~ 00178707 v 0000 01 + 00 00 | të trajtosh me përbuzje
+00043901 00 v 02 brengë 0 dhimbje 0 002 @ 00059853 v 0000 ~ 00127019 v 0000 01 + 00 00 | të ndjesh dhimbje
+00044010 00 v 02 ftoj_brenda 0 thërras 0 000 01 + 00 00 | thërras për të hyrë brenda
+00044100 00 v 02 pasoj 0 ndjek 0 002 @ 00184095 v 0000 ~ 00112106 v 0000 01 + 00 00 | pason ose ndjek një kërkim ose një aktivitet
+00044234 00 v 01 prejardhje 0 000 01 + 00 00 | filloj nga ose vij prej
+00044305 00 v 02 rindërtoj 0 restauroj 0 000 01 + 00 00 | ta kthesh në origjinal ose në kushte të përdorshëm dhe funksionale
+00044436 00 v 01 lehtësoj 0 001 @ 00013439 v 0000 01 + 00 00 | e bëj më të thjeshtë diçka
+00044532 00 v 01 rrezatoj 0 001 @ 00081072 v 0000 01 + 00 00 | shkaku i emetimit ose përhapjes së rrezeve
+00044640 00 v 05 lulëzim 0 gjallërohem 0 buçitje 0 përparon 0 zhvilloj 0 001 @ 00136300 v 0000 01 + 00 00 | të rritesh fuqishëm
+00044774 00 v 03 tentativë 0 provoj 0 përpjekje 0 001 @ 00034005 v 0000 01 + 00 00 | të provosh veshje në mënyrë të tillë për të parë nëse të përshtatet
+00044941 00 v 01 vrasje 0 011 ~ 00085862 v 0000 ~ 00181697 v 0000 ~ 00087452 v 0000 ~ 00137101 v 0000 ~ 00095017 v 0000 ~ 00117512 v 0000 ~ 00000316 v 0000 ~ 00159798 v 0000 ~ 00104647 v 0000 ~ 00135090 v 0000 > 00142576 v 0000 01 + 00 00 | shkak vdekje zakonisht e qëllimshme ose me dashje
+00045233 00 v 06 ndaj_në_pjesë 0 sasi 0 derdh_parat 0 shpërndaj 0 kategorizoj 0 administroj 0 002 @ 00033380 v 0000 ~ 00189738 v 0000 01 + 00 00 | administroj ose jap , në pjesë të vogla
+00045426 00 v 01 interesim 0 001 ~ 00020019 v 0000 01 + 00 00 | të kesh interes për ; të zgjosh kuriozitetin
+00045538 00 v 04 kacafytje 0 përdredhje 0 gërshetim 0 përpëlitje 0 001 @ 00056928 v 0000 01 + 00 00 | një lëvizje gjarpërushe ose një lëvizje e shformuar
+00045701 00 v 02 përmbaj 0 përfshij 0 001 @ 00155058 v 0000 01 + 00 00 | përfshin ose përmban ; një element
+00045814 00 v 02 bëj_dallim 0 dalloj 0 001 @ 00039594 v 0000 01 + 00 00 | njoh ose dalloj ndryshimin
+00045916 00 v 02 jam_ne_gjendje 0 jap 0 001 @ 00053072 v 0000 01 + 00 00 | jam ne gjendje te kursej
+00046016 00 v 01 përfshij 0 001 @ 00183244 v 0000 01 + 00 00 | konsideroj si pjesë të diçkaje
+00046114 00 v 02 shkrim 0 shënim 0 002 @ 00000789 v 0000 ~ 00054347 v 0000 01 + 00 00 | lë një shënim ose një shkrim mbi një sipërfaqe
+00046256 00 v 02 skicoj 0 përshkruaj 0 000 01 + 00 00 | jap përshkrimin e diçkaje
+00046341 00 v 05 kriptoj 0 shkruaj_me_shifër 0 kodoj 0 shifroj 0 shkruaj_në_kode 0 000 01 + 00 00 | konvertimi i gjuhëve të zakonshme në kode
+00046488 00 v 01 bie 0 001 @ 00012907 v 0000 01 + 00 00 | ndodh
+00046552 00 v 03 ndërpres 0 heq 0 pres 0 001 @ 00012907 v 0000 01 + 00 00 | lëviz nga ose nqs e pres
+00046655 00 v 01 transportoj 0 001 @ 00007259 v 0000 01 + 00 00 | transportoj diçka ose dikë në një distancë të largët
+00046781 00 v 01 lëkundje 0 001 @ 00011253 v 0000 01 + 00 00 | një lëkundje nga një pozicion në tjetrin
+00046890 00 v 01 park 0 001 @ 00137566 v 0000 01 + 00 00 | një vend i përkohshëm
+00046974 00 v 01 nervozizëm 0 001 @ 00056928 v 0000 01 + 00 00 | një lëvizje e shqetësuar ose nervoze
+00047080 00 v 01 fasadë 0 001 @ 00084991 v 0000 01 + 00 00 | një anë e sipërfaqes ose një faqe e saj
+00047186 00 v 01 shëtitje 0 001 @ 00184095 v 0000 01 + 00 00 | shëtitje ose të qendrosh rreth kafshëve dhe zakonisht të kontrollosh veprimet e tyre
+00047339 00 v 02 mbledh 0 shtoj 0 006 ! 00013679 v 0000 @ 00134711 v 0000 ~ 00175446 v 0000 ~ 00194591 v 0000 ~ 00128383 v 0000 ~ 00053257 v 0000 01 + 00 00 | bëj një shtesë mbi; bashkoj ose kombinoj njësi së bashku; rris cilësinë , sasinë , përmasat ose një qëllim
+00047616 00 v 05 brejtje 0 grimcoj 0 bluarje 0 grij 0 thërrmoj 0 001 @ 00116183 v 0000 01 + 00 00 | të reduktosh në pjesëza të vogla apo grimca si pasojë e goditjeve apo kruarjeve
+00047802 00 v 01 gllënjka 0 001 @ 00043230 v 0000 01 + 00 00 | te pish një gllënjka
+00047889 00 v 01 strehohem 0 002 @ 00008706 v 0000 ~ 00081213 v 0000 01 + 00 00 | siguroj strehim për
+00047992 00 v 02 zakon 0 përdor 0 001 @ 00123713 v 0000 01 + 00 00 | merr ose e konsumon rregullisht
+00048094 00 v 02 flas_rreth 0 flas_në_lidhje_me 0 002 @ 00159480 v 0000 ~ 00148583 v 0000 01 + 00 00 | diskutoj apo përmend
+00048220 00 v 02 kthesë 0 vijë_e_lakuar,kurbë 0 001 @ 00041386 v 0000 01 + 00 00 | vendi ku një rrugë , një lumë etj kthehet a e ndërron drejtimin,bërryl rruge,lumi etj
+00048398 00 v 03 quaj 0 caktoj 0 emërtoj 0 001 ~ 00132971 v 0000 01 + 00 00 | i vendos emër apo titull diçkaje
+00048512 00 v 02 pluskues 0 mbiujës 0 002 @ 00184095 v 0000 ~ 00066754 v 0000 01 + 00 00 | një mënyrë qëndrimi në ajër ose në ujë
+00048651 00 v 01 marr_hua 0 002 ! 00110457 v 0000 @ 00055384 v 0000 01 + 00 00 | marr përkohësisht
+00048752 00 v 05 nxjerr_në_shesh 0 nxjerr 0 zbuloj 0 demaskoj 0 publikim 0 001 @ 00058441 v 0000 01 + 00 00 | të bësh të ditur publikisht atë që deri pak më parë ishte mbajtur sekrete
+00048944 00 v 02 pengoj 0 parandaloj 0 003 ! 00080783 v 0000 ~ 00060204 v 0000 ~ 00139774 v 0000 01 + 00 00 | parandalon nga diçka që ndodh ose të jesh në një gjendje
+00049116 00 v 02 ndihmon 0 mbështetje 0 002 ~ 00127592 v 0000 ~ 00013439 v 0000 01 + 00 00 | jep mbështetjen ose përkrahje morale ,psikologjike ,guxim
+00049270 00 v 05 hidhem 0 kërcej 0 zgjatem 0 përballoj 0 hidhem_brenda 0 001 @ 00112922 v 0000 01 + 00 00 | bie ne sy se tepermi
+00049401 00 v 05 nxis 0 stimuloj 0 shtyj 0 aktivizoj 0 i_jap_energji 0 001 @ 00080892 v 0000 01 + 00 00 | rast për tu bërë vigjilent dhe energjik
+00049550 00 v 04 përgjigjem 0 sherbej 0 mjaftueshme 0 mjafton 0 003 @ 00039242 v 0000 ~ 00036843 v 0000 ~ 00136823 v 0000 01 + 00 00 | mjaftoj;kompetent për me tepër ne cilësi ose ne sasi
+00049742 00 v 04 qetësoj 0 zbut 0 lehtësoj 0 lehtësim 0 001 @ 00164306 v 0000 01 + 00 00 | ndjesia kur çlirohemi nga një barrë e rëndë, nga një punë e vështirë dhe e lodhshme.
+00049930 00 v 01 fërkim 0 003 @ 00147653 v 0000 ~ 00054774 v 0000 ~ 00138550 v 0000 01 + 00 00 | lëviz sipër diçka me presion
+00050060 00 v 01 vrullshëm 0 000 01 + 00 00 | lëvizje e papritur , energjike , ose e dhunshme
+00050156 00 v 02 shkatërroj 0 bëj_rrëmujë 0 001 @ 00128158 v 0000 01 + 00 00 | çrregulloj ose krijoj rrëmujë
+00050272 00 v 05 këmbëngul 0 ngulmoj 0 nuk_lëshoj 0 nuk_tundem 0 insistoj 0 000 01 + 00 00 | të bëhesh këmbëngulës ; të refuzosh të ndalosh
+00050422 00 v 01 loje 0 002 @ 00131107 v 0000 ~ 00177614 v 0000 01 + 00 00 | te luash per leke
+00050517 00 v 02 vendos 0 zgjedh 0 001 @ 00132451 v 0000 01 + 00 00 | përcaktoj
+00050598 00 v 02 kaloj 0 harxhoj 0 001 ~ 00086588 v 0000 01 + 00 00 | harxhon kohë për një veprim,aktivitet
+00050709 00 v 02 skuq 0 tiganis 0 002 @ 00033240 v 0000 ;c 00060124 n 0000 01 + 00 00 | t gatuash në një sipërfaqe të nxehtë duke përdorur tiganin
+00050862 00 v 02 kapje 0 gjah 0 001 @ 00121883 v 0000 01 + 00 00 | arrin të kuptosh me ndjeshmëri shpejt , papritur , ose menjëherë
+00050998 00 v 02 vrap 0 lëvizje_e_shpejtë 0 001 @ 00004455 v 0000 01 + 00 00 | një lëvizje e shpejtë ose nxitimthi
+00051118 00 v 01 evoloj 0 001 @ 00180030 v 0000 01 + 00 00 | kaloj zhvillimin apo evolucionin
+00051212 00 v 02 gëlltitje 0 arrij 0 001 @ 00123713 v 0000 01 + 00 00 | kalimi poshtë e një pjese ushqimi ose lëngu
+00051332 00 v 02 shty 0 nxit 0 004 @ 00007259 v 0000 ~ 00088013 v 0000 ~ 00013053 v 0000 ~ 00122767 v 0000 01 + 00 00 | shkaku i një veprimi të përparuar madje dhe me forcë
+00051509 00 v 01 pjesë 0 000 01 + 00 00 | një përdorim të përbashkët
+00051584 00 v 01 zbritje_e_ëmbël 0 002 @ 00184095 v 0000 ~ 00138037 v 0000 01 + 00 00 | një lëvizje e ngadaltë ose e jo e mundimshme
+00051722 00 v 02 marr_me_të_mirë 0 lajkatoj 0 001 @ 00110213 v 0000 01 + 00 00 | i rris vlerat dikujt në mënyrë jo të ndershme
+00051855 00 v 02 riparoj 0 shëroj 0 001 @ 00140405 v 0000 01 + 00 00 | shëroj ose rimarr veten
+00051952 00 v 01 them_lamtumirë 0 001 @ 00101746 v 0000 01 + 00 00 | Përshëndetja që bëhet kur largohemi në një vend tjetër ose kur ndahemi nga një njeri i dashur për një kohë të gjatë a përgjithnjë
+00052167 00 v 01 udhëtoj 0 001 @ 00184095 v 0000 01 + 00 00 | udhëton në ose matanë
+00052255 00 v 03 shi_i_madh 0 bie_shi_me_vërtik 0 shi_me_shtambë 0 001 @ 00188773 v 0000 01 + 00 00 | shi i rrëmbyer,i rëndë,me gjyma etj
+00052398 00 v 02 lëndim 0 dëmtim 0 005 @ 00183441 v 0000 ~ 00003988 v 0000 ~ 00141317 v 0000 ~ 00183552 v 0000 ~ 00033129 v 0000 01 + 00 00 | të shkaktosh dëmtim ose lëndim trupor
+00052583 00 v 01 vonoj 0 003 @ 00032119 v 0000 ~ 00101876 v 0000 ~ 00004321 v 0000 01 + 00 00 | është veprim i realizuar jo ne kohen e duhur sipas planifikimit,programimit ose kerkeses
+00052770 00 v 04 punoj 0 operoj 0 funksion 0 punë 0 003 ~ 00083373 v 0000 ~ 00091014 v 0000 ~ 00116477 v 0000 01 + 00 00 | kryej dhe supozoj deri sa të zbatohet
+00052933 00 v 02 kujtoj 0 mendoj 0 002 ~ 00120789 v 0000 ~ 00158532 v 0000 01 + 00 00 | të mbahesh mend për pëkujdesje apo konsideratë
+00053072 00 v 02 shpenzoj 0 harxhoj 0 006 @ 00029267 v 0000 ~ 00179173 v 0000 ~ 00161505 v 0000 ~ 00045916 v 0000 ~ 00183034 v 0000 ~ 00151664 v 0000 01 + 00 00 | nxjerr para nga xhepi
+00053257 00 v 04 etiketoj 0 nënvizoj 0 shënoj 0 theksoj 0 001 @ 00047339 v 0000 01 + 00 00 | të vendosësh shënime të nënvizuara diku
+00053397 00 v 03 mbaj 0 mbajtëse 0 mbart 0 001 ~ 00103496 v 0000 01 + 00 00 | mbështes ose përkrahë një ose disa mënyra sjellje
+00053531 00 v 02 proçedoj 0 shkoj 0 001 @ 00018325 v 0000 01 + 00 00 | të ndjekësh një rrjedh
+00053629 00 v 01 tingëllon 0 001 > 00159987 v 0000 01 + 00 00 | shkaku i një tingulli
+00053717 00 v 01 largësi 0 001 @ 00143852 v 0000 01 + 00 00 | mbaj distance
+00053794 00 v 03 kontrolloj 0 kalim 0 kaloj_përmes 0 003 @ 00184095 v 0000 ~ 00062977 v 0000 ~ 00195952 v 0000 01 + 00 00 | kaloj përmes , kontrolloj
+00053946 00 v 01 rrëmbim 0 002 @ 00098839 v 0000 ~ 00127348 v 0000 01 + 00 00 | të mbash ose ta kapësh me forcë
+00054062 00 v 02 pastroj 0 rrjep 0 001 @ 00022029 v 0000 01 + 00 00 | të heqësh substanca të padëshiruara, siç janë puplat
+00054191 00 v 02 transformoj 0 ndryshoj 0 002 @ 00117854 v 0000 ~ 00198057 v 0000 01 + 00 00 | ndryshoj apo shndërrohem në formë , paraqitje ose natyrë
+00054347 00 v 01 kopjoj 0 001 @ 00046114 v 0000 01 + 00 00 | të kopjosh ashtu siç është origjinali
+00054450 00 v 03 ngjitem 0 ngjitje 0 kacavirrem 0 001 @ 00088368 v 0000 01 + 00 00 | ngjitem lart shkallë shkallë ose me një progres avancues
+00054595 00 v 04 ngritje 0 ngre_në_pozitë 0 lartësoj 0 gradoj 0 001 @ 00125630 v 0000 01 + 00 00 | e cakton në një detyrë më të lartë , ose në një nivel më të lartë
+00054774 00 v 02 lë_mënjanë 0 fshi 0 001 @ 00049930 v 0000 01 + 00 00 | fshirje me lëvizje qarkore
+00054877 00 v 02 shpif 0 keqinterpretoj 0 001 @ 00198603 v 0000 01 + 00 00 | të paraqesësh në mënyrë false
+00054989 00 v 03 ngjall 0 nxit 0 ndez 0 001 @ 00158034 v 0000 01 + 00 00 | ngacmim joshës
+00055080 00 v 01 diktoj 0 001 @ 00061971 v 0000 01 + 00 00 | Lexoj a them diçka qartë, ngadalë, shkoqur e me zë të lartë, në mënyrë që dëgjuesi të arrijë ta shkruajë ose ta mësoj mirë
+00055280 00 v 02 sulm 0 goditje 0 001 @ 00037106 v 0000 01 + 00 00 | godas ose një veprim armiqësorë
+00055384 00 v 02 fitoj 0 marr 0 013 ~ 00059757 v 0000 ~ 00116617 v 0000 ~ 00048651 v 0000 ~ 00134314 v 0000 ~ 00032881 v 0000 ~ 00145339 v 0000 ~ 00031751 v 0000 ~ 00150518 v 0000 ~ 00078578 v 0000 ~ 00169530 v 0000 ~ 00162222 v 0000 ~ 00088955 v 0000 ~ 00097364 v 0000 01 + 00 00 | fitoj ose zotëroj diçka konkrete ose abstrakte
+00055716 00 v 02 shkatërrim 0 dështim 0 002 ! 00004106 v 0000 @ 00110622 v 0000 01 + 00 00 | një shkatërrim krejtësisht
+00055841 00 v 05 largoj 0 injoroj 0 shtyj_mënjanë 0 heq 0 nënvleftësoj 0 001 @ 00157528 v 0000 01 + 00 00 | Vlerësoj dikë a diçka më pak nga sa vlen në të vërtetë, nuk i jap rëndësinë që ka, nënçmoj;
+00056059 00 v 02 kumbon 0 jehon 0 001 @ 00159987 v 0000 01 + 00 00 | kumbon ose jehon me muzikë
+00056156 00 v 02 pëlcas 0 fryj 0 000 01 + 00 00 | mbush me gaz ose ajër
+00056230 00 v 02 vrojton 0 periudhë 0 000 01 + 00 00 | një datë fikse e rregulltë ; ke një marrëdhënie të rregullt
+00056353 00 v 04 liroj 0 shfajësoj 0 nxjerr_të_pafajshëm 0 lëshoj 0 002 @ 00161079 v 0000 * 00079249 v 0000 01 + 00 00 | e prononcoj të pafajshëm për veprimin kriminal
+00056528 00 v 02 bisedoj 0 diskutoj 0 002 @ 00042977 v 0000 ~ 00025503 v 0000 01 + 00 00 | mbaj një bisedë
+00056637 00 v 04 përmbaj 0 mbaj 0 zotëroj 0 mbart 0 001 @ 00155058 v 0000 01 + 00 00 | përmban ose mban brenda saj një element,përfshin,ka si pjesë përbërëse; përfshin brenda diçka
+00056829 00 v 02 përmbush 0 konkludoj 0 001 @ 00036576 v 0000 01 + 00 00 | e sjell drejt mbylljes
+00056928 00 v 01 ndryshim_vendi 0 018 ~ 00168325 v 0000 ~ 00141690 v 0000 ~ 00045538 v 0000 ~ 00180425 v 0000 ~ 00080645 v 0000 ~ 00085467 v 0000 ~ 00149366 v 0000 ~ 00027769 v 0000 ~ 00177479 v 0000 ~ 00020430 v 0000 ~ 00162122 v 0000 ~ 00062429 v 0000 ~ 00168960 v 0000 ~ 00090450 v 0000 ~ 00062750 v 0000 ~ 00058978 v 0000 ~ 00046974 v 0000 ~ 00079543 v 0000 01 + 00 00 | lëviz ose ndryshon vendin
+00057330 00 v 03 koncentroj 0 avulloj 0 reduktoj 0 002 @ 00119441 v 0000 ;c 00060124 n 0000 01 + 00 00 | të gatuash derisa i gjithë lëngu nuk ka ikur
+00057483 00 v 01 krahasim 0 001 @ 00041386 v 0000 01 + 00 00 | bëhem i krahasueshëm
+00057569 00 v 02 shenjestër 0 shenjoj 0 001 @ 00152449 v 0000 01 + 00 00 | drejtoj (një vërejtje) sipas një synimi
+00057688 00 v 03 betejë 0 përleshje 0 përpjekje 0 004 ~ 00100246 v 0000 ~ 00062532 v 0000 ~ 00084685 v 0000 * 00034760 v 0000 01 + 00 00 | jam i zënë me pune vazhdoj te luftoje
+00057870 00 v 04 heq_dore 0 braktis 0 dorëzoj 0 pushoj 0 000 01 + 00 00 | dorëzohet perkundrejt shpreses qe është minimale
+00057997 00 v 01 mbush_me_ajër 0 001 @ 00039760 v 0000 01 + 00 00 | t&apos;i japësh formë diçkaje duke i dhënë ajër
+00058120 00 v 03 shtesë 0 fut 0 fus 0 001 @ 00109057 v 0000 01 + 00 00 | fus ose shtoj diçka
+00058215 00 v 02 përmbush 0 ajo_që_duhet_bërë 0 001 @ 00031049 v 0000 01 + 00 00 | diçka që është duke u bërë
+00058335 00 v 02 refuzoj 0 heq 0 001 @ 00186963 v 0000 01 + 00 00 | mbaj dhe kompesoj ose paguaj ; rrogë
+00058441 00 v 01 them 0 005 @ 00028051 v 0000 ~ 00019794 v 0000 ~ 00121778 v 0000 ~ 00048752 v 0000 ~ 00196496 v 0000 01 + 00 00 | ia bëj të ditur dikujt
+00058597 00 v 02 lëviz_ngadalë 0 zvarritje 0 001 @ 00184095 v 0000 01 + 00 00 | lëvizje e ngadaltë ; në rast të njerëzve ose kafshëve
+00058739 00 v 05 fishket 0 pakësoj 0 qetësohet 0 shuaj 0 bie 0 000 01 + 00 00 | bëhet më pak në sasi dhe intesitet
+00058859 00 v 04 gabim 0 bëj_gabim 0 rrëshqitje 0 gaboj 0 000 01 + 00 00 | të bëj një gabim apo të jesh i gabuar
+00058978 00 v 03 rreh 0 rrah 0 goditje_e_fortë 0 002 @ 00056928 v 0000 ~ 00030201 v 0000 01 + 00 00 | lëviz në mënyrë ritmike
+00059109 00 v 04 paraqes 0 përgatit 0 formoj 0 përbëj 0 003 ~ 00110937 v 0000 ~ 00021067 v 0000 ~ 00186875 v 0000 01 + 00 00 | një lloj ose krijoj
+00059260 00 v 02 mbaj_shënim 0 shënoj 0 002 @ 00196712 v 0000 ~ 00123132 v 0000 01 + 00 00 | mbaj shënim ; një text , kompozim muzikor, etj.
+00059405 00 v 03 liroj 0 lëshoj 0 zgjidh 0 001 ! 00176817 v 0000 01 + 00 00 | lidh një detyrë
+00059502 00 v 01 ngarkesë 0 002 @ 00117854 v 0000 ~ 00192770 v 0000 01 + 00 00 | mbushje ose ngarkesë me kapacitet të madh
+00059628 00 v 02 bashkohen 0 lidhen 0 002 ~ 00004609 v 0000 ~ 00003484 v 0000 01 + 00 00 | të kesh kontakt ose të jesh bashkë
+00059757 00 v 02 pjesë 0 marr_pjesën 0 001 @ 00055384 v 0000 01 + 00 00 | kam ose marr pjesë
+00059853 00 v 01 vuaj 0 002 @ 00126826 v 0000 ~ 00043901 v 0000 01 + 00 00 | një dhimbje ose vuajtje emocionale
+00059966 00 v 03 i_tejdukshëm 0 e_qartë 0 kthjellët 0 001 @ 00117854 v 0000 01 + 00 00 | e bëj të qartë , transparente ,të kthjellët
+00060107 00 v 02 përplasja 0 goditje 0 001 @ 00137353 v 0000 01 + 00 00 | një mbyllje drastike
+00060204 00 v 02 mbroj 0 justifikoj 0 004 ! 00100246 v 0000 @ 00048944 v 0000 ~ 00169215 v 0000 * 00057688 v 0000 01 + 00 00 | te jesh ne mbrojtje ; te jesh ne pritje nga një sulm
+00060385 00 v 02 shqiptoj_fjalë-fjalë 0 nënkuptoj 0 001 @ 00152449 v 0000 01 + 00 00 | tregon ose do të thotë që
+00060504 00 v 03 gërmoj 0 rrëmoj 0 përmbys 0 001 @ 00022029 v 0000 01 + 00 00 | gjendem , lirohem , ose lëviz tokën
+00060625 00 v 02 ndërtoj 0 krijoj 0 001 @ 00152110 v 0000 01 + 00 00 | një mënyrë krijimi nga artistët
+00060733 00 v 03 përndaj 0 hedh 0 shpërndaj 0 002 @ 00098561 v 0000 ~ 00099995 v 0000 01 + 00 00 | shpërndaj lirshëm
+00060854 00 v 07 perputhem 0 verifikoj 0 i_gatshëm 0 rregulloj 0 pranoj 0 pershtatem 0 korrespondon 0 006 @ 00175258 v 0000 ~ 00094467 v 0000 ~ 00029987 v 0000 ~ 00009801 v 0000 ~ 00033732 v 0000 ~ 00108474 v 0000 01 + 00 00 | pajtohem dhe perputhem me karakterin e tyre
+00061126 00 v 01 premtim 0 000 01 + 00 00 | premtim që merret apo jepet
+00061199 00 v 02 sipërfaqe 0 shtresë 0 002 @ 00084991 v 0000 ~ 00168066 v 0000 01 + 00 00 | mbuloj me një shtresë ; mobiloj një sipërfaqe
+00061343 00 v 04 të_marrësh_një_sy_gjumë 0 fle 0 gjumë 0 dremitje 0 001 @ 00149793 v 0000 01 + 00 00 | të jesh në gjumë
+00061471 00 v 03 konfuz 0 shqetësim 0 trazim 0 000 01 + 00 00 | shkaku i të ndjerit i çoroditur
+00061570 00 v 01 ndryshoj_madhësinë 0 002 @ 00100890 v 0000 ~ 00134711 v 0000 01 + 00 00 | ndryshim në përmasa apo madhësi
+00061698 00 v 01 përfshij,_angazhoj 0 001 @ 00194698 v 0000 01 + 00 00 | punoj si një pjesemarres
+00061798 00 v 05 përgatit 0 prodhoj 0 fabrikim 0 përpunoj 0 sajoj 0 001 @ 00189382 v 0000 01 + 00 00 | sajon diçka ose prodhon diçka artificialisht ose jo të vërtetë
+00061971 00 v 01 shpall 0 002 @ 00159480 v 0000 ~ 00055080 v 0000 01 + 00 00 | E bëj diçka të njohur për të gjithë me gojë a me shkrim, njoftoj botërisht; bëj një kumtim zyrtar.
+00062159 00 v 04 ngjall 0 marr 0 siguroj 0 arrij 0 001 @ 00100890 v 0000 01 + 00 00 | të arrish një trajtim specifik ( abstrakt )
+00062291 00 v 03 ndryshim 0 kthim_me_shkëmbim 0 këmbim 0 002 @ 00100890 v 0000 ~ 00096255 v 0000 01 + 00 00 | ndërrim në të kundërt
+00062429 00 v 02 rrëshqitje 0 iki_vjedhurazi 0 001 @ 00056928 v 0000 01 + 00 00 | lëvizje vjedhurazi
+00062532 00 v 02 betejë 0 luftim 0 001 @ 00057688 v 0000 01 + 00 00 | betejë ne kërkim te idealeve
+00062634 00 v 01 varg 0 001 @ 00093785 v 0000 01 + 00 00 | gjendem në një mënyrë afër një lidhje dhe teharrje
+00062750 00 v 01 kthesë 0 006 @ 00056928 v 0000 ~ 00014440 v 0000 ~ 00176686 v 0000 ~ 00017378 v 0000 ~ 00067303 v 0000 ~ 00193846 v 0000 01 + 00 00 | të ndryshosh orientim ose drejtim gjithashtu dhe në një sensë abstrakt
+00062977 00 v 01 vrap 0 001 @ 00053794 v 0000 01 + 00 00 | ecje me vrap ; vrapon në një distancë
+00063077 00 v 03 mbaj_revole 0 marr 0 mbaj_me_vete 0 001 @ 00183653 v 0000 01 + 00 00 | mbaj diçka me vete ku do që do shkoj
+00063204 00 v 02 vë_në_plan 0 organizoj 0 001 @ 00179906 v 0000 01 + 00 00 | të kesh dëshirën dhe synimin për të zbatuar disa veprime
+00063345 00 v 03 therje 0 pickim 0 shpim 0 001 @ 00155774 v 0000 01 + 00 00 | shkaku i një dhembje therëse
+00063454 00 v 03 kthjellohem 0 qartësoj 0 hapem 0 001 @ 00022029 v 0000 01 + 00 00 | e lirë (gryka) për të bërë një çirrje zëri
+00063591 00 v 01 numëroj 0 001 @ 00010297 v 0000 01 + 00 00 | them ose recitoj numrat
+00063678 00 v 01 godit 0 001 @ 00185706 v 0000 01 + 00 00 | godas në mënyrë të përsëritur
+00063774 00 v 03 caktoj 0 përcaktoj 0 specifikoj 0 001 @ 00001405 v 0000 01 + 00 00 | E vë në një detyrë, e ngarkoj me një punë; e emëroj; i jap a i ngarkoj (një punë, një detyrë etj.)
+00063971 00 v 01 kultivoj 0 002 ~ 00136124 v 0000 ;c 00201156 n 0000 01 + 00 00 | kujdesen për rritjen e një bimë
+00064088 00 v 01 rrenë_,gënjeshtër 0 001 @ 00188407 v 0000 01 + 00 00 | Fjalë e thënë që s&apos;është e vërtet;pohim që nuk përputhet me të vërtetën,e fsheh me qëllim të vërtetën
+00064286 00 v 01 përkatës 0 001 @ 00041386 v 0000 01 + 00 00 | Që përputhet me gjendjen e dikujt a të diçkaje, me punën që kryen dikush, me vendin a përgjegjësinë që mban etj.; që i duhet për t&apos;u rritur a për t&apos;u zhvilluar, i duhur, i nevojshëm.
+00064558 00 v 02 adresoj 0 drejtoj 0 002 @ 00118876 v 0000 ~ 00193145 v 0000 01 + 00 00 | i flas
+00064655 00 v 05 fshij 0 rregulloj 0 i_pastër 0 lahem 0 sistemoj 0 002 @ 00196929 v 0000 ~ 00180744 v 0000 01 + 00 00 | vendos rregull
+00064791 00 v 01 i_marr_me_forcë 0 002 @ 00135610 v 0000 ~ 00100440 v 0000 01 + 00 00 | i marr me forcë ,grabit ,ose marr në ruajtje
+00064927 00 v 04 shpejtoj 0 ngutem 0 turrem 0 nxitoj 0 001 @ 00003000 v 0000 01 + 00 00 | të veprosh apo lëvizësh me shpejtësi të madhe
+00065068 00 v 02 bashkon 0 ngjit 0 001 @ 00109057 v 0000 01 + 00 00 | lidh ose ngjit
+00065153 00 v 02 mblidhem 0 grumbulloj 0 001 ~ 00179433 v 0000 01 + 00 00 | mblidhen sëbashku për qëllime të përbashkëta
+00065280 00 v 02 jashtëshkruaj 0 kufizoj 0 001 @ 00119441 v 0000 01 + 00 00 | kufizoj ose shtrëngoj
+00065382 00 v 02 falenderoj 0 jap_falenderime 0 001 @ 00125032 v 0000 01 + 00 00 | shpreh mirënjohje dhe vlerësim
+00065498 00 v 02 marr_vesh 0 kuptoj 0 000 01 + 00 00 | të marrësh kuptimin e diçkaje
+00065586 00 v 01 rrëfej 0 000 01 + 00 00 | i rrëfehem zotit nëpërmjet një prifti, si në besimin Katolik
+00065696 00 v 02 lahet 0 larje 0 002 @ 00002264 v 0000 ~ 00074706 v 0000 01 + 00 00 | larje me agjent pastrues ose me sapun dhe ujë
+00065829 00 v 01 lidh 0 001 @ 00109057 v 0000 01 + 00 00 | ti lidhin ose ti sigurojnë dhe po të jetë e mundur dhe me litar
+00065955 00 v 03 kundërshtoj 0 kundërveproj 0 kontradikt 0 002 @ 00087750 v 0000 ~ 00133626 v 0000 01 + 00 00 | I dal kundër dikujt (për një veprim të tij, për sjelljen, për një kërkesë etj.); nuk pajtohem me dikë dhe shprehem a veproj kundër tij nuk pranoj një vendim, një urdhër një udhëzim etj. dhe përpiqem ta hedh poshtë ose ta ndaloj.
+00066316 00 v 02 vë_re 0 di 0 001 ~ 00070574 v 0000 01 + 00 00 | të jesh në dijeni apo i informuar në lidhje me një fakt apo me një pjesë specifike informacioni; zotërim i informacionit
+00066510 00 v 01 braktis 0 002 @ 00092217 v 0000 ~ 00096574 v 0000 01 + 00 00 | heq dorë nga , lë pas
+00066614 00 v 04 përvojë 0 marr 0 pranoj 0 zotëroj 0 001 @ 00100890 v 0000 01 + 00 00 | një eksperiencë ose gjendje mendore ose fizike
+00066754 00 v 01 valëvitje 0 001 @ 00048512 v 0000 01 + 00 00 | lëvizje nëpërmjet ajrit
+00066846 00 v 01 fundosje 0 002 @ 00007259 v 0000 > 00031639 v 0000 01 + 00 00 | arsyeja e fundosjes
+00066947 00 v 01 vij_në_jetë 0 002 ! 00142576 v 0000 @ 00166993 v 0000 01 + 00 00 | të vish në ekzistencë nëpërmjet lindjes
+00067078 00 v 02 rregull 0 qeveris 0 001 @ 00197249 v 0000 01 + 00 00 | ushtron një autoritet mbi ; komb
+00067184 00 v 02 shtrij 0 zgjatoj 0 001 @ 00095520 v 0000 01 + 00 00 | i bëj më të gjata duke tërhequr apo zgjatur
+00067303 00 v 01 faqe 0 001 @ 00062750 v 0000 01 + 00 00 | kthimi i një faqe ; kthimi i faqes në një drejtim të caktuar
+00067427 00 v 03 mbaj 0 mbroj 0 ruaj 0 001 @ 00011078 v 0000 01 + 00 00 | mbështes dike ne nevoj
+00067525 00 v 04 konsideroj 0 bie_dakort 0 përshat 0 akordoj 0 004 ~ 00168786 v 0000 ~ 00179309 v 0000 ~ 00177376 v 0000 ~ 00087302 v 0000 01 + 00 00 | të jesh në akord me ; të jesh dakort
+00067718 00 v 02 përshkoj 0 zgjas 0 002 @ 00188407 v 0000 ~ 00037758 v 0000 01 + 00 00 | nuk e di
+00067817 00 v 02 publikoj 0 reklamoj 0 001 @ 00135737 v 0000 01 + 00 00 | tërheq vëmendje
+00067909 00 v 02 shikim_i_shpejtë 0 një_shikim_vjedhurazi 0 001 @ 00084148 v 0000 01 + 00 00 | një shikim i shkurtër ose kalimthi
+00068043 00 v 01 telekomunikim 0 002 @ 00118876 v 0000 ~ 00107529 v 0000 01 + 00 00 | komunikim në distancë, me telefon ose adresë e elektronike
+00068191 00 v 05 ngjitem 0 shkoj_afër 0 afrim 0 afrohem 0 përparoj 0 002 @ 00180840 v 0000 * 00163123 v 0000 01 + 00 00 | lëviz në drejtim të
+00068338 00 v 02 zhytem 0 qetësohem 0 001 @ 00166010 v 0000 01 + 00 00 | ulem diku ose zhytem ,në një sipërfaqe të lëngshme ose në një vend
+00068486 00 v 04 pasoj 0 komunikoj 0 transmetoj 0 kaloj 0 000 01 + 00 00 | transmetoj informacion
+00068584 00 v 02 kapje 0 kap 0 002 ! 00016426 v 0000 @ 00109057 v 0000 01 + 00 00 | të jesh zënë në grackë ose të kesh rënë në kurth
+00068726 00 v 01 rrezik 0 001 @ 00108786 v 0000 01 + 00 00 | vë në dukje një mundësi humbje ose shkatërrimi
+00068839 00 v 06 ngut 0 shkoj_shpejt 0 shpejtoj 0 vrull 0 vrapim_shpejtësie 0 nxitoj 0 002 @ 00184095 v 0000 ~ 00094725 v 0000 01 + 00 00 | me një hap
+00068992 00 v 02 ecje 0 mënyrë_të_ecuri 0 001 @ 00184095 v 0000 01 + 00 00 | mënyrë të ecuri
+00069091 00 v 01 kushtoj 0 000 01 + 00 00 | kërkon pas një humbje ,vuajtje , sakrificë
+00069181 00 v 03 ushtrim 0 praktikoj 0 stërvitem 0 001 * 00026908 v 0000 01 + 00 00 | kryej ose praktikoj ; një punë ose një profesion
+00069320 00 v 01 dëgjoj 0 000 01 + 00 00 | për të dëgjuar dhe kuptuar
+00069394 00 v 01 prodhim 0 002 @ 00008706 v 0000 ~ 00023000 v 0000 01 + 00 00 | shkaku i prodhimit nga një burim
+00069508 00 v 01 kanoset 0 001 @ 00041386 v 0000 01 + 00 00 | kanosem dikujt; i bëj kërcënime dikujt; Afrohet për t`i shkaktuar dikujt dëm a një të keqe; vë në rrezik, rrezikon
+00069694 00 v 02 pasqyrim_emocionesh 0 pasqyrim_ndjenjash 0 003 ~ 00156228 v 0000 ~ 00038098 v 0000 ~ 00114352 v 0000 01 + 00 00 | të shprehësh gojarisht ndjenjat ose në një mënyrë tjetër
+00069889 00 v 03 përqëndrohem 0 fokusohem 0 vështroj_ngultas 0 002 @ 00024954 v 0000 ~ 00009944 v 0000 01 + 00 00 | drejtimi i vëmendjes së dikujt drejt diçkaje
+00070056 00 v 02 hapje 0 çel 0 002 ! 00137353 v 0000 > 00089984 v 0000 01 + 00 00 | shkak i të qenit hapur
+00070165 00 v 02 këqyr 0 ekzaminoj 0 004 ~ 00167718 v 0000 ~ 00026575 v 0000 ~ 00116951 v 0000 * 00084148 v 0000 01 + 00 00 | vëzhgoj , dhe shikoj me kujdes ose këqyr me kujdes
+00070345 00 v 01 miratoj 0 001 @ 00079249 v 0000 01 + 00 00 | E pranoj diçka zyrtarisht si të drejtë, të rregullt, të lejueshme etj.; e pranoj një gjë si të vendosur përfundimisht, shpreh pëlqim të plotë për diçka.
+00070574 00 v 01 arsyetoj 0 001 @ 00066316 v 0000 01 + 00 00 | të jesh totalisht i informuar ose i ditur
+00070680 00 v 01 përshëndes 0 001 @ 00118876 v 0000 01 + 00 00 | dërgoj urime, të fala
+00070771 00 v 01 hingëllimë 0 001 @ 00040563 v 0000 01 + 00 00 | karakteristikë e kuajve
+00070863 00 v 01 ëndërrim 0 002 @ 00121883 v 0000 * 00061343 v 0000 01 + 00 00 | një eksperiencë gjatë fjetjes
+00070979 00 v 03 dridhje 0 dridhje_zëri 0 cicërimë 0 001 @ 00128892 v 0000 01 + 00 00 | të këndosh apo të luash me dridhje, duke alternuar me një gjysëm note lart ose poshtë
+00071162 00 v 01 luaj 0 001 @ 00001734 v 0000 01 + 00 00 | veprimi strategjik ne një loje me letra
+00071262 00 v 01 ndërpres 0 001 @ 00036576 v 0000 01 + 00 00 | të ndalosh para se të kompletohet diçka; ta lësh përgjysmë
+00071391 00 v 02 përshkoj 0 depërtoj 0 001 ~ 00107853 v 0000 01 + 00 00 | hyj thellë ose mespërmes , ose pranë një nënkalimi
+00071523 00 v 02 pësoj_rënie 0 i_jap_të_përzier 0 001 @ 00095766 v 0000 01 + 00 00 | sëmurem
+00071621 00 v 03 fortifikoj 0 përforcoj 0 fuqizoj 0 002 ! 00121528 v 0000 @ 00117854 v 0000 01 + 00 00 | të bëhesh i fortë ose më i forti
+00071764 00 v 01 pëshpëris 0 002 ! 00190488 v 0000 @ 00159480 v 0000 01 + 00 00 | flas butësisht; me zë të ulët
+00071882 00 v 02 rrafshoj 0 sheshoj 0 002 @ 00039760 v 0000 ~ 00169127 v 0000 01 + 00 00 | E bëj shesh diçka, e bëj rrafsh, e rrafshoj; e shtrij, e bëj të sheshtë a pa rrudha
+00072063 00 v 02 gëzoj 0 ngre_humorin 0 001 > 00129252 v 0000 01 + 00 00 | bën dikë të ndihet më i gëzueshëm apo i lumtur
+00072192 00 v 02 dredhje 0 valëvitje 0 001 @ 00017378 v 0000 01 + 00 00 | dredhje ose rrotull një bobine ose një rreth i vogël
+00072323 00 v 03 mbush 0 i_ngarkuar 0 ngarkoj 0 001 @ 00017843 v 0000 01 + 00 00 | mbush ose ngarkoj një vend
+00072434 00 v 02 gurgullon 0 gurgullimë 0 001 @ 00159987 v 0000 01 + 00 00 | Zhurma që dëgjohet kur gurgullon uji a diçka tjetër e lëngët
+00072579 00 v 02 ndihme 0 sherbej 0 001 @ 00043346 v 0000 01 + 00 00 | te sherbej ushqim
+00072668 00 v 01 belbëzoj 0 001 @ 00159480 v 0000 01 + 00 00 | të flasësh me ndërprerje
+00072760 00 v 01 jap 0 001 ~ 00183138 v 0000 01 + 00 00 | shkak që të japësh , në kuptimin abstrakt dhe kuptimin fizikë
+00072885 00 v 04 shkëputem 0 përçaj 0 veçoj 0 ndaj 0 004 @ 00007259 v 0000 ~ 00166878 v 0000 ~ 00002049 v 0000 > 00076279 v 0000 01 + 00 00 | marr me forcë ; ose zaptoj ose zbërthej
+00073073 00 v 04 shpërthim 0 shterngate 0 habi 0 stuhi 0 001 @ 00100246 v 0000 01 + 00 00 | sulm ne befasi
+00073181 00 v 01 ndryshim_sjellje 0 002 @ 00100890 v 0000 ~ 00152672 v 0000 01 + 00 00 | kaloj një ndryshim të sjelljes
+00073303 00 v 02 mbaj 0 mbajtje 0 001 @ 00012008 v 0000 01 + 00 00 | organizim ose të jesh përgjegjës për
+00073413 00 v 01 errësoj 0 002 ! 00104937 v 0000 @ 00100890 v 0000 01 + 00 00 | e lë pa dritë e pa ndriçim diçka, e bëj të errët ia dobësoj, ia pengoj e ia pres dritën, shkëlqimin etj.,e zë
+00073615 00 v 05 bëj_llogari 0 kalkuloj 0 llogaris 0 shifroj 0 njehsoj 0 005 @ 00010495 v 0000 ~ 00107359 v 0000 ~ 00115920 v 0000 ~ 00002622 v 0000 ;c 00081302 n 0000 01 + 00 00 | bë një llogaritje matematikore
+00073830 00 v 02 drejtoj 0 administroj 0 001 @ 00131856 v 0000 01 + 00 00 | të punosh në një administratë : supervizor
+00073953 00 v 01 gozhdë 0 001 @ 00109057 v 0000 01 + 00 00 | ngul diçka diku me gozhdë
+00074043 00 v 01 çudi 0 001 @ 00003000 v 0000 01 + 00 00 | kap në befasi
+00074118 00 v 02 bëj_kaps 0 shtrëngohem 0 001 @ 00149208 v 0000 01 + 00 00 | gjendje e tillë kur nuk del dot jashtë ose del jashtë me vështirësi dhe me vonesë, për shkak të çrregullimeve në tretje ose për shkak të ndonjë sëmundjeje ( për njerëzit e për kafshët)
+00074400 00 v 02 marr_shërbimin 0 prodhoj 0 001 @ 00152110 v 0000 01 + 00 00 | lind
+00074485 00 v 03 hapërdaj 0 shpërndahem 0 shpërndaj 0 001 @ 00080645 v 0000 01 + 00 00 | lëviz larg nga njeri tjetri ose ndaj
+00074615 00 v 02 zgjedhje 0 zgjedh 0 001 @ 00157887 v 0000 01 + 00 00 | kërkoj dhe zgjedh
+00074706 00 v 02 shpëlarje 0 larje 0 001 @ 00065696 v 0000 01 + 00 00 | laj me sapun ose pastroj pisllëkun
+00074815 00 v 01 pëshpëritje 0 001 @ 00183885 v 0000 01 + 00 00 | shpreh ose them
+00074899 00 v 01 miratim 0 001 @ 00132862 v 0000 01 + 00 00 | një demostrim miratimi ose njohje
+00074996 00 v 02 vrojtoj 0 vëzhgim 0 001 @ 00141099 v 0000 01 + 00 00 | ndjek me sy ose me mendje ; vrojtoj
+00075105 00 v 06 tkurr 0 ngjesh 0 shtypje 0 ngjeshje 0 kompakt 0 shtrëngoj 0 001 @ 00103076 v 0000 01 + 00 00 | ngjeshje ose shtypje
+00075239 00 v 01 përkas 0 001 @ 00041386 v 0000 01 + 00 00 | një klasifikim i
+00075319 00 v 01 kuptosh 0 001 @ 00121883 v 0000 01 + 00 00 | të arrish të perceptosh me njëherë ; me një vështrim
+00075440 00 v 01 shoqëroj 0 001 @ 00184095 v 0000 01 + 00 00 | shkoj ose shoqëroj dikë në një udhëtim
+00075548 00 v 03 ekzekutoj 0 kryej 0 bëj 0 002 ~ 00198303 v 0000 ~ 00127219 v 0000 01 + 00 00 | kryej ose ekzekutoj një veprim
+00075677 00 v 01 fërshëllim 0 001 @ 00159987 v 0000 01 + 00 00 | të krijosh një zhurmë duke fërshëllyer
+00075788 00 v 02 dërgoj_për 0 thërras 0 001 @ 00042568 v 0000 01 + 00 00 | kërkoj , porosis ose urdhëroj të vij
+00075906 00 v 05 endem 0 endje 0 erë 0 gjarpërim 0 shkoj 0 001 @ 00184095 v 0000 01 + 00 00 | lëvizje ose shkaku i lëvizjes në dredha ose spiral ose një lëvizje qarkore
+00076082 00 v 02 imitoj 0 kopjoj 0 001 @ 00080317 v 0000 01 + 00 00 | kopjoj dikë nga sjellja ose nga pamja e jashtme
+00076201 00 v 01 fshi 0 001 @ 00002264 v 0000 01 + 00 00 | pastroj me fshirje
+00076279 00 v 03 veç 0 pjesë 0 ndaj 0 003 @ 00100890 v 0000 ~ 00144832 v 0000 ~ 00012907 v 0000 01 + 00 00 | bëhet mënjanë
+00076407 00 v 03 degradoj 0 humbje 0 poshtëroj 0 001 @ 00087139 v 0000 01 + 00 00 | ul vlerat dhe karakterin , zakonisht gojarisht
+00076539 00 v 04 jam_i_mendimit 0 duke_e_parë_si 0 besoj 0 kuptoj 0 001 @ 00183244 v 0000 01 + 00 00 | mbaj në mend ose e përçoj si bindje ose si pikë vështrimi
+00076706 00 v 01 fluturim 0 001 @ 00010905 v 0000 01 + 00 00 | transport ajror me ane të avionëve
+00076806 00 v 05 eci_këmbadoras 0 bie_barkas 0 zvarritem 0 mblidhem 0 strukem 0 001 @ 00160400 v 0000 01 + 00 00 | shoh me bindje ose me shqetësim
+00076955 00 v 02 mat 0 përcaktoj_sasinë 0 002 @ 00168438 v 0000 ~ 00189516 v 0000 01 + 00 00 | shprehje e numrit apo si njësi matëse e sasisë
+00077102 00 v 01 armë 0 001 @ 00008706 v 0000 01 + 00 00 | pajisen me armë
+00077179 00 v 02 provokoj 0 tërheq 0 001 @ 00158034 v 0000 01 + 00 00 | e fton dike që të pëlqen dhe të tërheq
+00077296 00 v 01 qëndrim 0 001 @ 00041386 v 0000 01 + 00 00 | të jesh në një gjendje të veçantë ose të kesh një qëndrim
+00077426 00 v 02 kërcitje 0 kërcëllonim 0 001 @ 00159987 v 0000 01 + 00 00 | një kërcitje e përsëritur ose e pakontrollueshme
+00077559 00 v 02 nxjerr_përjashta 0 shpaketoj 0 002 ! 00121226 v 0000 @ 00022029 v 0000 01 + 00 00 | lëviz ose nxjerr nga kutia
+00077689 00 v 03 vuajtje 0 mundim 0 torturoj 0 001 @ 00155195 v 0000 01 + 00 00 | të vuash mendërisht ose emocionalisht
+00077811 00 v 02 dëshirë_e_madhe 0 kërkoj 0 009 ~ 00029781 v 0000 ~ 00178270 v 0000 ~ 00089866 v 0000 ~ 00090085 v 0000 ~ 00080534 v 0000 ~ 00027551 v 0000 ~ 00169794 v 0000 ~ 00090373 v 0000 ~ 00085586 v 0000 01 + 00 00 | ndjen ose ke dëshirë për ; e kërkon me gjithë fuqi
+00078093 00 v 01 sfidoj 0 001 @ 00173359 v 0000 01 + 00 00 | lëshoj një sfidë
+00078174 00 v 01 udhëtim 0 003 @ 00184095 v 0000 ~ 00008940 v 0000 ~ 00081634 v 0000 01 + 00 00 | transportimi me mjete transporti
+00078306 00 v 01 bëj_ndryshim 0 001 @ 00100890 v 0000 01 + 00 00 | të bësh diçka më pak të ashpër, të papëlqyeshme apo më pak ekstreme
+00078451 00 v 01 zgjedhje 0 001 @ 00132451 v 0000 01 + 00 00 | i përzgjedhur me votim për një detyrë ose për një kryesim
+00078578 00 v 04 qera 0 marr 0 rezervoj 0 marr_me_qera 0 001 @ 00055384 v 0000 01 + 00 00 | angzhimi i një pune ose shërbimi përpara nënshkrimit të kontratës
+00078742 00 v 02 ngarkesë 0 mbushje 0 001 @ 00017843 v 0000 01 + 00 00 | jap municion
+00078829 00 v 05 tregoj 0 provoj 0 evidentoj 0 testoj 0 vërtetoj 0 002 @ 00028051 v 0000 ;c 00137442 n 0000 01 + 00 00 | tregoj vërtetësi për diçka
+00078982 00 v 02 fton 0 paguan_për 0 001 @ 00179682 v 0000 01 + 00 00 | ke një mysafir
+00079071 00 v 02 dërgoj 0 nxjerr 0 001 @ 00124384 v 0000 01 + 00 00 | shkaku për të marr ose dërguar informacion direkt ose duke e transmetuar nga një vend në një tjetër
+00079249 00 v 01 gjykoj 0 011 @ 00024954 v 0000 ~ 00006373 v 0000 ~ 00070345 v 0000 ~ 00170921 v 0000 ~ 00032371 v 0000 ~ 00157528 v 0000 ~ 00182348 v 0000 ~ 00130773 v 0000 ~ 00042238 v 0000 ~ 00168187 v 0000 ~ 00115624 v 0000 01 + 00 00 | krijoj një opinion apo kaloj në një fazë gjykimi
+00079543 00 v 02 lëvizje_refleksive 0 lëvizje_e_pavullnetshme 0 003 @ 00056928 v 0000 ~ 00173602 v 0000 ~ 00033022 v 0000 01 + 00 00 | lëvizje ne mënyrë te pakontrolluar
+00079718 00 v 01 transferoj 0 001 @ 00007259 v 0000 01 + 00 00 | ndryshimi i vendodhjes ( sende ) në hapësirë pa rrotullim
+00079844 00 v 01 paguaj 0 001 @ 00029267 v 0000 01 + 00 00 | paguaj për diçka
+00079924 00 v 03 zbavitem 0 argëtoj 0 dëfrej 0 001 @ 00022629 v 0000 01 + 00 00 | të jesh e zënë me organizime të këndshme dëfryese
+00080064 00 v 02 aftësi_mendore 0 vëmendje 0 001 @ 00117775 v 0000 01 + 00 00 | dëgjon me vëmendje
+00080167 00 v 03 përshtat 0 rregulloj 0 sistemoj 0 001 @ 00021175 v 0000 01 + 00 00 | një përshtatje e rregullave dhe principeve ; vendos rregulla
+00080317 00 v 02 riprodhoj 0 bëj_kopje 0 001 ~ 00076082 v 0000 01 + 00 00 | bën një kopje ose një ekuivalente me të
+00080438 00 v 03 marr_mbrapsht 0 zmbrapsje 0 kthej 0 000 01 + 00 00 | kthej mbrapsht një nisje
+00080534 00 v 02 shprese 0 besim 0 001 @ 00077811 v 0000 01 + 00 00 | të jesh optimist ; të jesh me shpresë
+00080645 00 v 03 shkëputem 0 veçoj 0 ndarje 0 002 @ 00056928 v 0000 ~ 00074485 v 0000 01 + 00 00 | shkoj larg asaj ; lëviz një pjesë
+00080783 00 v 03 lë 0 pranoj 0 lejoj 0 001 ! 00048944 v 0000 01 + 00 00 | lejon dikë për diçka që ndodh
+00080892 00 v 02 veproj 0 ndikoj 0 003 @ 00117854 v 0000 ~ 00188219 v 0000 ~ 00049401 v 0000 01 + 00 00 | të jesh i gatshëm të veprosh fizikisht; të arrish në një përfundim
+00081072 00 v 01 arsyeja_e_perceptimit 0 003 ~ 00044532 v 0000 ~ 00159987 v 0000 ~ 00171194 v 0000 01 + 00 00 | të kesh cilësi perceptuese
+00081213 00 v 02 ndërtoj 0 ndërtesë 0 001 @ 00047889 v 0000 01 + 00 00 | siguron një strehë
+00081310 00 v 01 interpretoj 0 002 @ 00085207 v 0000 ~ 00005026 v 0000 01 + 00 00 | jep një interpretim për diçka
+00081427 00 v 02 fshij 0 heq 0 001 @ 00013679 v 0000 01 + 00 00 | zhduk regjistrime magnetike
+00081521 00 v 02 pushtoj 0 mbizotëroj 0 000 01 + 00 00 | pushtim nga emocionet ose një stimul i perceptueshëm
+00081634 00 v 01 ngas 0 005 ! 00115332 v 0000 @ 00078174 v 0000 ~ 00175989 v 0000 ~ 00113394 v 0000 ~ 00019391 v 0000 01 + 00 00 | të ngasësh një mjet transporti
+00081799 00 v 04 hap 0 demaskim 0 tregoj 0 zbuloj 0 001 @ 00113099 v 0000 01 + 00 00 | ta bësh të dukshme
+00081907 00 v 01 mbytem 0 001 @ 00142576 v 0000 01 + 00 00 | vdekje nga fundosja në ujë , futje e ujit në mushkëri , dhe asfiksim
+00082041 00 v 03 sjellje 0 veprim 0 bëj 0 003 ~ 00128486 v 0000 ~ 00014824 v 0000 ~ 00187619 v 0000 01 + 00 00 | të sillesh ne një mënyrë të caktuar; shfaq një sjellje të caktuar
+00082228 00 v 04 këmbim 0 ndryshoj 0 konvertoj 0 zëvendësoj 0 000 01 + 00 00 | të këmbesh ose zëvendësosh një element me diçka tjetër, zakonisht me të njëjtën kategori
+00082409 00 v 04 shpalos 0 përhapje 0 shpërndahem 0 hapem 0 000 01 + 00 00 | shpërndahem ose hap atë që është e mbyllur
+00082536 00 v 03 xhindos 0 inatos 0 zemëroj 0 001 @ 00181376 v 0000 01 + 00 00 | të jesh i tërbuar nga inati
+00082648 00 v 02 minierë 0 burim_i_pashtershme 0 002 @ 00025272 v 0000 * 00060504 v 0000 01 + 00 00 | ajo çka mer nga vendi ku germone
+00082785 00 v 02 pastroj 0 heq_plehrat 0 002 @ 00022029 v 0000 ;c 00276367 n 0000 01 + 00 00 | të heqësh elemente të pa dëshirueshëm
+00082923 00 v 02 tambur 0 daulle 0 001 @ 00159987 v 0000 01 + 00 00 | të krijosh një muzikë me ritëm
+00083028 00 v 03 pyes 0 kërkoj 0 pres 0 001 @ 00120218 v 0000 01 + 00 00 | e konsideroj si të detyrueshme; kërkoj dhe pres
+00083154 00 v 02 humbje 0 shpenzim 0 000 01 + 00 00 | shpenzim i papërshtatshëm
+00083236 00 v 03 dorëzohem 0 heq_dorë 0 heq_qafe 0 001 @ 00033380 v 0000 01 + 00 00 | heq dorë nga një nevojë jo shumë e nevojshme
+00083373 00 v 01 punë 0 001 @ 00052770 v 0000 01 + 00 00 | fillon puna ose operimi
+00083457 00 v 02 filloj 0 nis 0 001 ! 00036576 v 0000 01 + 00 00 | hedhja e hapave të parë për të ndërmarrë përsipër një veprim
+00083594 00 v 04 dal_në_pah 0 dal 0 bëhet_publik 0 gjendem 0 001 @ 00017744 v 0000 01 + 00 00 | të bëhet i dukshëm; shfaqet
+00083723 00 v 03 orientoj 0 tregoj 0 shenjoj 0 001 @ 00028051 v 0000 01 + 00 00 | tregoj një vend, drejtim, njeri, ose send;
+00083849 00 v 04 lartësoj 0 lavdëroj 0 ngre_në_qiell 0 mburr 0 001 @ 00110213 v 0000 01 + 00 00 | nderoj , glorifikoj , lëvdoj Them fjalë të mira për të ngritur lart dikë a diçka, ngre lart meritat e një njeriu; e çmoj a e lavdëroj lart një punë; i thur lëvdata dikujt a diçkaje, .
+00084148 00 v 01 kërkim 0 005 ~ 00067909 v 0000 ~ 00029903 v 0000 ~ 00040361 v 0000 ~ 00142289 v 0000 * 00075319 v 0000 01 + 00 00 | shikon me vëmendje ; një vështrim ngulitës
+00084329 00 v 01 hapje 0 001 @ 00188407 v 0000 01 + 00 00 | zaptoj në largësi , shtrij në hapësirë
+00084433 00 v 02 këmbej 0 konvertoj 0 001 @ 00117854 v 0000 01 + 00 00 | ndryshim nga një sistem në një tjetër ose në një plan tjetër
+00084575 00 v 01 tringëllimë 0 001 @ 00159987 v 0000 01 + 00 00 | krijon ose emeton një zhurmë të lartë
+00084685 00 v 01 lufte 0 001 @ 00057688 v 0000 01 + 00 00 | pasoje lufte
+00084758 00 v 01 kërkesë 0 001 ! 00096574 v 0000 01 + 00 00 | bën një kërkesë
+00084842 00 v 03 ngazëllej 0 ngre_moralin 0 frymëzim 0 002 @ 00158034 v 0000 > 00110341 v 0000 01 + 00 00 | mbush me shpresë ; mbush me optimizim
+00084991 00 v 01 mbulesë 0 006 ~ 00047080 v 0000 ~ 00150742 v 0000 ~ 00166405 v 0000 ~ 00154815 v 0000 ~ 00061199 v 0000 ~ 00147957 v 0000 01 + 00 00 | sigurohem që jam e mbuluar ose shkaku i të qenit të mbuluar
+00085207 00 v 01 çlodhem 0 004 @ 00152110 v 0000 ~ 00081310 v 0000 ~ 00159355 v 0000 ~ 00120561 v 0000 01 + 00 00 | ripërtërihet
+00085339 00 v 02 tundem 0 tund_kokën 0 001 @ 00140925 v 0000 01 + 00 00 | të shprehesh apo të bësh të ditur me tundje koke
+00085467 00 v 04 dalje 0 nxjerr 0 largohem 0 ikje 0 001 @ 00056928 v 0000 01 + 00 00 | dal nga brenda ose largohem nga
+00085586 00 v 03 pëlqej 0 dua 0 dëshiroj 0 001 @ 00077811 v 0000 01 + 00 00 | preferoj ose dua diçka
+00085690 00 v 01 sharrë 0 000 01 + 00 00 | pres me sharrë
+00085750 00 v 02 marr 0 angazhohem 0 001 ~ 00196634 v 0000 01 + 00 00 | jap ndihmë , shërbim, ose mbështetje
+00085862 00 v 01 i_pres_kokën 0 001 @ 00044941 v 0000 01 + 00 00 | i pres kokën
+00085944 00 v 02 imitoj 0 përsëris 0 002 @ 00040563 v 0000 ~ 00010297 v 0000 01 + 00 00 | ta thuash diçka disa herë
+00086064 00 v 03 pushtoj 0 dhunoj 0 zaptoj 0 001 @ 00100246 v 0000 01 + 00 00 | marrja ne mënyrë agresive e një territori nga forcat ushtarake me qellim zaptimin e saj
+00086235 00 v 01 thirrje 0 000 01 + 00 00 | thirrje ose një kërkesë për një takim ose enjë mbledhje
+00086341 00 v 01 rrëzim 0 001 @ 00142576 v 0000 01 + 00 00 | shtyp , në një luftë ose në një betejë
+00086448 00 v 03 fal 0 dedikoj 0 kushtoj 0 000 01 + 00 00 | t&apos;i falesh plotësisht një personi , një aktiviteti apo një çështjeje
+00086588 00 v 02 shërbej 0 kryej 0 001 @ 00050598 v 0000 01 + 00 00 | një periudhë kohe e kryer për
+00086692 00 v 03 formoj_nocion 0 supozoj 0 imagjinoj 0 002 @ 00131400 v 0000 ~ 00187483 v 0000 01 + 00 00 | është një forme e pasqyrimit mendor për diçka që nuk është presente në të tashmen
+00086892 00 v 02 vrapoj 0 marr_arratinë 0 002 @ 00015290 v 0000 ~ 00112701 v 0000 01 + 00 00 | një lëvizje shumë e shpejtë
+00087020 00 v 03 fitoj 0 kap 0 arrij 0 000 01 + 00 00 | arritje në destinacion ; arritje nga një lëvizje progresive
+00087139 00 v 04 turpëroj 0 përul 0 ul 0 poshtëroj 0 002 @ 00143564 v 0000 ~ 00076407 v 0000 01 + 00 00 | arsyeja e të ndjerit të fajit ; cënim i krenarisë
+00087302 00 v 05 bëj_për_vete 0 qetësoj_grindjen 0 paqësoj 0 pajtoj 0 stabilizoj 0 001 @ 00067525 v 0000 01 + 00 00 | arrij në një marrëveshje
+00087452 00 v 03 mbyt 0 zë_frymën 0 shtrëngoj 0 002 @ 00044941 v 0000 * 00075105 v 0000 01 + 00 00 | vrasje duke e shtrënguar ose duke i zënë frymën
+00087608 00 v 03 frymëmarrje 0 marr_erë 0 nuhatje 0 001 @ 00091128 v 0000 01 + 00 00 | të kapësh një erë ;ose të mësosh të nuhatësh
+00087750 00 v 04 kundërshtoj 0 përgënjeshtroj 0 hedh_poshtë 0 rrëzoj 0 002 @ 00120997 v 0000 ~ 00065955 v 0000 01 + 00 00 | përmbys me argumenta apo fakte
+00087911 00 v 03 pije 0 deh 0 pije_alkoolike 0 001 @ 00123713 v 0000 01 + 00 00 | konsumim i alkoolit
+00088013 00 v 01 gjuajtje 0 001 @ 00051332 v 0000 01 + 00 00 | shkak i lëvizjes me goditje
+00088105 00 v 01 të_qënurit_mirë 0 002 ! 00030895 v 0000 @ 00041386 v 0000 01 + 00 00 | të jesh i shëndetshëm; ndihem mirë
+00088235 00 v 04 i_sheshtë 0 lustër 0 shkëlqim 0 i_lëmuar 0 002 @ 00097707 v 0000 * 00049930 v 0000 01 + 00 00 | lloj shkëlqimi
+00088368 00 v 05 lartësi 0 ngritje 0 lartësohem 0 ngre 0 e_përpjetë 0 004 ! 00166010 v 0000 @ 00184095 v 0000 ~ 00106449 v 0000 ~ 00054450 v 0000 01 + 00 00 | lëvizje për lartë
+00088552 00 v 01 dridhje 0 002 @ 00177479 v 0000 ~ 00149058 v 0000 01 + 00 00 | një lëvizje ose një dridhje e shpejtë dhe padashur
+00088687 00 v 03 paraqes 0 prezantoj 0 nxjerr 0 001 @ 00091743 v 0000 01 + 00 00 | I vë përpara a i jap dikujt diçka për ta parë, për ta shqyrtuar, për të dhënë një mendim për të etj.; ia bëj të njohur për ta plotësuar a për ta zgjidhur; parashtroj.
+00088955 00 v 02 rifitoj 0 gjej 0 002 ! 00170448 v 0000 @ 00055384 v 0000 01 + 00 00 | gjej pas një kërkimi ; gjen një diçka të humbur
+00089095 00 v 04 largohem_pa_rënë_në_sy 0 kaloj 0 kalim 0 shkoj 0 001 @ 00163123 v 0000 01 + 00 00 | iki pa u vënë re
+00089218 00 v 07 provokoj 0 ngacmoj 0 mërzit 0 shqetësoj 0 gjuaj 0 mundoj 0 debat 0 000 01 + 00 00 | ngacmoj vashdimisht ose në mënyrë të përsëritur
+00089375 00 v 04 hedh_poshtë_me_goditje 0 lëshim 0 shkurtoj 0 rrëzoj 0 001 > 00166010 v 0000 01 + 00 00 | shkak i një rënie
+00089504 00 v 08 degjenerohem 0 prishem 0 lëshim 0 i_keqësuar 0 degradim 0 rënie 0 shkatërrohem 0 dorëzoj 0 002 ! 00106143 v 0000 @ 00095766 v 0000 01 + 00 00 | humbet karakteristikat e veta dalluese thelbësore; humbet vetitë dhe cilësitë e llojit të vet.
+00089770 00 v 02 lë_diku 0 harroj 0 001 @ 00170448 v 0000 01 + 00 00 | lë diçka pa vetëdije
+00089866 00 v 02 paracaktoj 0 dëshirë 0 001 @ 00077811 v 0000 01 + 00 00 | të shpresosh për ose të kesh dëshira
+00089984 00 v 02 hap 0 zhbllokoj 0 002 ! 00183777 v 0000 @ 00166993 v 0000 01 + 00 00 | mbetet hapur
+00090085 00 v 01 mungesë 0 002 @ 00077811 v 0000 * 00191008 v 0000 01 + 00 00 | ndjen ose vuan për një mungesë të dikujt
+00090211 00 v 02 organizëm 0 organizoj 0 002 @ 00131856 v 0000 ~ 00023545 v 0000 01 + 00 00 | krijimi i një strukture sipas rregullave dhe ideve dhe principeve
+00090373 00 v 01 pëlqej 0 001 @ 00077811 v 0000 01 + 00 00 | kërkoj ta kem
+00090450 00 v 01 rrotullim 0 002 @ 00056928 v 0000 ~ 00106706 v 0000 01 + 00 00 | një lëvizje rreth aksit ose qëndrës
+00090572 00 v 02 klikosje 0 gudulisje 0 001 @ 00172829 v 0000 01 + 00 00 | prekje ose ledhatim butësisht
+00090678 00 v 02 i_lëmuar 0 sheshoj 0 003 @ 00141536 v 0000 ~ 00181846 v 0000 * 00049930 v 0000 01 + 00 00 | ta sheshosh ose ta bësh te lëmuar një sipërfaqe
+00090840 00 v 01 sjell_në_mend 0 000 01 + 00 00 | rikrijoj të shkuarën;
+00090915 00 v 02 merr_fund 0 rrëzoj 0 001 @ 00031227 v 0000 01 + 00 00 | të ndalosh së ndjekuri
+00091014 00 v 02 shërbim 0 përkushtim 0 001 @ 00052770 v 0000 01 + 00 00 | ta përdorësh për; gjë e dobishme
+00091128 00 v 01 nuhas 0 002 @ 00121883 v 0000 ~ 00087608 v 0000 01 + 00 00 | thith një erë ; të përceptosh me anë të organit të nuhatjes
+00091273 00 v 01 bëhem_shok 0 001 @ 00027199 v 0000 01 + 00 00 | filloj një miqësi me
+00091362 00 v 03 kapje 0 marr 0 pushtim 0 001 @ 00169350 v 0000 01 + 00 00 | të kesh sukses në një pushtim ose gjatë një ndjekje
+00091496 00 v 03 zgjat 0 zgjatje 0 arrij 0 001 @ 00188407 v 0000 01 + 00 00 | zgjat derisa
+00091587 00 v 05 marr_në_konsideratë 0 marr_me_mend 0 supozoj 0 mendoj 0 hamendësoj 0 001 @ 00130773 v 0000 01 + 00 00 | pret , beson ose supozon diçka
+00091743 00 v 03 tregoj 0 shpall 0 them 0 005 @ 00183885 v 0000 ~ 00174372 v 0000 ~ 00193037 v 0000 ~ 00088687 v 0000 ~ 00177960 v 0000 01 + 00 00 | shpreh me fjalë
+00091909 00 v 03 mblidhem 0 tkurrem 0 kontraktohem 0 000 01 + 00 00 | të bëhesh më i vogël
+00092004 00 v 01 tërheqje 0 000 01 + 00 00 | kërkon një thellësi për lundrim
+00092086 00 v 03 rrotë 0 rrokullis 0 mbështjellë 0 001 @ 00184095 v 0000 01 + 00 00 | një lëvizje përpara ose me rrokullisje
+00092217 00 v 03 hedhje 0 flakje 0 hedhurinë 0 002 @ 00185847 v 0000 ~ 00066510 v 0000 01 + 00 00 | hedh ose nxjerr jashtë
+00092342 00 v 02 zbehem 0 zverdhem 0 001 @ 00095337 v 0000 01 + 00 00 | të zbehesh nga frika
+00092436 00 v 03 dhurim 0 jep 0 dhuratë 0 002 ~ 00135343 v 0000 ~ 00134595 v 0000 01 + 00 00 | jep një dhuratë ; jep diçka
+00092563 00 v 04 çaj 0 thyej 0 ndaj 0 këputje 0 003 @ 00018040 v 0000 ~ 00116183 v 0000 ~ 00011516 v 0000 01 + 00 00 | të bëhet e ndashme në pjesëza apo fragmente
+00092732 00 v 03 kaloj 0 bëj_ballë 0 luftoj 0 001 @ 00003000 v 0000 01 + 00 00 | kalimi i një periudhe ose një seri veprimesh të suksesshme
+00092877 00 v 02 lë 0 lejoj 0 001 @ 00148204 v 0000 01 + 00 00 | aktivitet i cili lejon diçka të ndodh
+00092983 00 v 02 shkoj 0 kushtoj 0 001 @ 00041386 v 0000 01 + 00 00 | Ka një çmim të caktuar kur shitet (për një send a për një mall); vlen, bën;kërkon që të harxhohen shumë të holla, të përdoren shumë mjete etj
+00093211 00 v 03 qëndron_për 0 nënkupton 0 do_të_thotë 0 001 ~ 00145702 v 0000 01 + 00 00 | do të thotë ose tregon
+00093333 00 v 02 cekje 0 përkëdhelje 0 001 @ 00185706 v 0000 01 + 00 00 | gjuaj ose prek lehtësisht
+00093436 00 v 01 hedh 0 001 @ 00171561 v 0000 01 + 00 00 | ka një ndikim në mënyrë të vendosur
+00093536 00 v 03 pakësoj 0 ngadalësoj 0 rrëzoj 0 003 ! 00106837 v 0000 @ 00007259 v 0000 > 00166010 v 0000 01 + 00 00 | lëviz dikë ose diçka nga një vend që pakësohet
+00093712 00 v 01 ndjekje 0 000 01 + 00 00 | në kërkim të një miniere
+00093785 00 v 06 përmbaj 0 mbaj 0 kontrolloj 0 përmbajtje 0 mbaj_nën_fre 0 frenoj 0 003 ~ 00154699 v 0000 ~ 00036258 v 0000 ~ 00062634 v 0000 01 + 00 00 | zvogëloj një fuqi ; natyrë ; i përmbajtur
+00093989 00 v 02 prek 0 cek_me_pëllëmbë 0 001 ~ 00125452 v 0000 01 + 00 00 | kap ose prek me dorë
+00094091 00 v 02 oshëtin 0 tingull 0 004 @ 00159987 v 0000 ~ 00034257 v 0000 ~ 00133789 v 0000 ~ 00166529 v 0000 01 + 00 00 | emetoj zhurma
+00094232 00 v 03 bëj_shkrumb 0 djeg 0 shuaj 0 000 01 + 00 00 | shkrihet thyhet apo bëhet e papërdorshëm diçka
+00094347 00 v 03 shfaq 0 tregoj 0 shpreh 0 002 @ 00125032 v 0000 ~ 00190214 v 0000 01 + 00 00 | shprehem rreth diçkaje
+00094467 00 v 01 pergjigjem 0 001 @ 00060854 v 0000 01 + 00 00 | perputhet ose korrespondon
+00094559 00 v 02 ngrihem 0 rri_në_këmbë 0 003 ! 00135899 v 0000 @ 00143006 v 0000 * 00152672 v 0000 01 + 00 00 | rri në këmbë ose qëndroj në pozicion delikat
+00094725 00 v 04 vrapim_me_vrull 0 vrapoj 0 hov 0 lëvizje_e_shpejtë 0 001 @ 00068839 v 0000 01 + 00 00 | vrapoj ose eci shumë shpejt ose me ngut
+00094873 00 v 03 furnizoj 0 jap 0 pajis 0 001 @ 00008706 v 0000 01 + 00 00 | pajis ose furnizoj me diçka zakonisht me një qëllim të caktuar
+00095017 00 v 06 sulm 0 i_jap_fund 0 vras 0 gjakësi 0 vrasje 0 zhduk 0 001 @ 00044941 v 0000 01 + 00 00 | një vrasje me qëllim dhe me paramendim
+00095165 00 v 05 marr_mbrapsht 0 kujtoj 0 tërheq 0 përmbledh 0 thërras 0 001 ~ 00122681 v 0000 01 + 00 00 | tërheqje e njohurive nga memoria; të bë një përmbledhje
+00095337 00 v 02 çkoloroj 0 çngjyros 0 003 @ 00100890 v 0000 ~ 00092342 v 0000 ~ 00115183 v 0000 01 + 00 00 | të ndryshosh ngjyrë , zakonisht në një mënyrë të pa përcaktuar
+00095520 00 v 01 zgjatoj 0 004 ! 00139114 v 0000 @ 00176401 v 0000 ~ 00152021 v 0000 ~ 00067184 v 0000 01 + 00 00 | e bëj më të gjatë
+00095658 00 v 01 krijoj 0 002 @ 00179682 v 0000 ;c 00386132 n 0000 01 + 00 00 | krijoj ose ngre një biznes
+00095766 00 v 02 keqësim 0 dobësim 0 005 ! 00140405 v 0000 @ 00166993 v 0000 ~ 00089504 v 0000 ~ 00071523 v 0000 ~ 00168577 v 0000 01 + 00 00 | përkeqësim ; rritet e keqja
+00095942 00 v 03 kërkesë 0 marr 0 pres 0 000 01 + 00 00 | ta marrësh si pasojë e një sekuence ngjarjesh të padëshirueshme
+00096071 00 v 01 derdhet 0 001 @ 00180425 v 0000 01 + 00 00 | një rrjedhje me rrymë
+00096157 00 v 01 jap_me_qira 0 001 @ 00188986 v 0000 01 + 00 00 | vendosem,qendroj përkohësisht
+00096255 00 v 03 korrigjoj 0 ndreq 0 i_saktë 0 001 @ 00062291 v 0000 01 + 00 00 | t&apos;i bësh në rregull apo korrigjosh
+00096380 00 v 03 lartësoj 0 ngre 0 çoj_lartë 0 001 @ 00112922 v 0000 01 + 00 00 | të ngresh lartë diçka
+00096490 00 v 01 fsheh 0 001 @ 00132688 v 0000 01 + 00 00 | mbulim nga një ambjent
+00096574 00 v 03 heq_dorë_nga 0 konsfikim 0 dorëzoj 0 002 ! 00084758 v 0000 @ 00066510 v 0000 01 + 00 00 | humb ose të dorëzohesh pas një gabimi , ofendimi , ose krimi
+00096747 00 v 02 pluskues 0 mbiujës 0 002 ! 00031639 v 0000 @ 00184095 v 0000 01 + 00 00 | të qëndrosh mbi ujë ; të qëndrosh mbi një sipërfaqe të lëngshme ; jo të fundoset
+00096930 00 v 03 shkrij 0 tretem 0 zbut 0 000 01 + 00 00 | kthimi në gjendje të lë lëngët ose të butë
+00097039 00 v 01 siguroj 0 001 @ 00039242 v 0000 01 + 00 00 | kujdesem për
+00097115 00 v 03 krahasoj 0 përqas 0 barazoj 0 000 01 + 00 00 | e përshkruan si të njëjtë, të barabartë apo analoge
+00097238 00 v 03 pjell 0 riprodhim 0 shumëfishoj 0 002 @ 00152110 v 0000 ;c 00157765 n 0000 01 + 00 00 | të kesh pasardhës
+00097364 00 v 03 fitoj 0 marr 0 të_ardhura 0 001 @ 00055384 v 0000 01 + 00 00 | fitimi në një transaksion komercal ose në një biznes ; marrja e një rrogë
+00097525 00 v 03 ndryshim 0 flak 0 çokë 0 003 @ 00187130 v 0000 ~ 00126362 v 0000 ~ 00195455 v 0000 01 + 00 00 | arsyeja që të ikësh ose që të jesh i zënë me një operacion
+00097707 00 v 03 stolis 0 zbukuroj 0 pispillos 0 003 @ 00164306 v 0000 ~ 00088235 v 0000 ~ 00164807 v 0000 01 + 00 00 | të bëhesh më e bukur
+00097851 00 v 01 regjistër 0 002 @ 00148054 v 0000 ~ 00193249 v 0000 01 + 00 00 | relacion i shkruajtur ; vendos në një libër emrat ose eventet dhe transaksionet
+00098017 00 v 06 vonoj 0 shfryj 0 shtendosem 0 lëshohem 0 lehtësoj 0 çliroj 0 001 @ 00166993 v 0000 01 + 00 00 | të jesh më pak i tensionuar , relaksohesh, ose e merr më shtruar situatën
+00098211 00 v 03 llogaris 0 peshe,ngarkesë 0 lende,material 0 001 @ 00041386 v 0000 01 + 00 00 | peshoj mbaj ngarkesë te shtuar
+00098341 00 v 02 transferoj 0 transformoj 0 001 @ 00117854 v 0000 01 + 00 00 | ndryshimi i një forme në një tjetër
+00098460 00 v 02 thaj 0 tharje 0 001 @ 00100890 v 0000 01 + 00 00 | të bëhesh i thatë apo tharës
+00098561 00 v 01 shkarkoj 0 002 @ 00156080 v 0000 ~ 00060733 v 0000 01 + 00 00 | zbrazje jashtë ose shkarkim
+00098671 00 v 04 rri 0 prehem 0 mbetem 0 qëndroj 0 002 ! 00100890 v 0000 @ 00041386 v 0000 01 + 00 00 | të qëndrosh i njëjtë; të mbetesh në të njëjtë gjendje
+00098839 00 v 02 pushtoj 0 kap 0 002 ~ 00053946 v 0000 ~ 00169350 v 0000 01 + 00 00 | mban diçka në duar ose prek fizikisht
+00098965 00 v 02 zgjedhje 0 pjese 0 001 @ 00147155 v 0000 01 + 00 00 | marr pjese ose copa te vogla
+00099065 00 v 02 miratoj 0 pranoj 0 001 @ 00162222 v 0000 01 + 00 00 | pranon një grup ose një komunitet
+00099172 00 v 02 veproj 0 shfrytëzoj 0 000 01 + 00 00 | te përdoresh ose te manipulosh një avantazh ose një mundësi
+00099293 00 v 01 marr_pjesë 0 001 @ 00003000 v 0000 01 + 00 00 | marr pjesë diku
+00099376 00 v 03 zgjeroj 0 përpunoj 0 përhap 0 001 ! 00194874 v 0000 01 + 00 00 | shtoj detaje apo ide; qartësoj kuptimin e një diskutimi , zakonisht me shrim
+00099539 00 v 04 arritje 0 realizoj 0 kryej 0 arrij 0 001 @ 00109708 v 0000 01 + 00 00 | të realizosh një arritje me përpjekje
+00099669 00 v 05 mbështetem 0 kapem 0 qepem 0 lidhem 0 kapem_pas 0 002 @ 00161952 v 0000 * 00004609 v 0000 01 + 00 00 | gjendem ose jam ne një kontakt te afërt me dike ose jam bashkë dhe i rezistojmë ndarjes
+00099882 00 v 03 thartoj 0 fermentoj 0 tharbem 0 001 @ 00166993 v 0000 01 + 00 00 | bëhet i thartë ose prishet
+00099995 00 v 03 spërkë 0 spërkat 0 llokoçit 0 001 @ 00060733 v 0000 01 + 00 00 | hedhje lëngëzore kundrejt
+00100109 00 v 01 jap 0 003 @ 00010905 v 0000 * 00056928 v 0000 * 00007259 v 0000 01 + 00 00 | jap një pronë ose zotërim ose mbështes
+00100246 00 v 02 sulm 0 sulmoj 0 005 ! 00060204 v 0000 @ 00057688 v 0000 ~ 00086064 v 0000 ~ 00073073 v 0000 ~ 00125904 v 0000 01 + 00 00 | fillimi i nje gjendje lufte ose fillimi i nje betejë
+00100440 00 v 02 nuk_i_lë_trashëgim 0 mohoj 0 002 ! 00135343 v 0000 @ 00064791 v 0000 01 + 00 00 | e përjashtoj nga trashëgimia , e mohoj
+00100582 00 v 04 ndërron_qimen 0 ndërrim_i_puplave 0 lëshoj 0 lëkurë_gjarpri 0 001 @ 00186251 v 0000 01 + 00 00 | lloj floku , briri , lëkure, puple
+00100737 00 v 04 përshkruaj 0 zbuloj 0 dalloj 0 identifikoj 0 001 * 00040906 v 0000 01 + 00 00 | identifikoj si në botanik apo biologji, për shembull
+00100890 00 v 01 ndryshoj 0 028 ! 00098671 v 0000 ~ 00066614 v 0000 ~ 00008322 v 0000 ~ 00103076 v 0000 ~ 00073181 v 0000 ~ 00126492 v 0000 ~ 00135232 v 0000 ~ 00098460 v 0000 ~ 00164186 v 0000 ~ 00073413 v 0000 ~ 00166993 v 0000 ~ 00189156 v 0000 ~ 00030571 v 0000 ~ 00154089 v 0000 ~ 00078306 v 0000 ~ 00121331 v 0000 ~ 00095337 v 0000 ~ 00185926 v 0000 ~ 00104937 v 0000 ~ 00102790 v 0000 ~ 00062159 v 0000 ~ 00062291 v 0000 ~ 00076279 v 0000 ~ 00061570 v 0000 ~ 00182113 v 0000 ~ 00174602 v 0000 ~ 00141536 v 0000 ~ 00018040 v 0000 01 + 00 00 | pësoj ndryshim; në thelb do të thotë të bëhesh i ndryshëm; të humbasësh natyrën origjinale
+00101540 00 v 02 lidh 0 lidh_me_fashë 0 001 @ 00011253 v 0000 01 + 00 00 | lidh rreth e rrotull diçka ose rrethoj atë
+00101661 00 v 01 dëshiroj 0 000 01 + 00 00 | kam një dashuri të madhe ose simpati
+00101746 00 v 01 përshëndes 0 002 @ 00037910 v 0000 ~ 00051952 v 0000 01 + 00 00 | të shrpehësh urime gjatë takimit me dikë
+00101876 00 v 09 shtyj_afatin 0 tryezë 0 pengoj 0 e_le_për_me_vonë 0 largoj,heq_qafe 0 vendos_pranë 0 shtyj 0 mënjanë,bej_mënjanë 0 ve_ne_raft 0 001 @ 00052583 v 0000 01 + 00 00 | frenoj me vonesë
+00102082 00 v 02 ndëshkoj 0 dënoj 0 002 ~ 00181697 v 0000 * 00002622 v 0000 01 + 00 00 | i ngarkoj një dënim ; ndryshoj një ndëshkim
+00102221 00 v 06 kërcënoj 0 rrezikim 0 rrezikoj 0 shantazh 0 vë_jetën_në_rrezik 0 vë_në_rrezik 0 001 @ 00186027 v 0000 01 + 00 00 | Përpiqem t`i fut frikën dikujt duke e paralajmëruar se do të përdor dhunën a mjete të tjera shtrëngimi; i kanosem dikujt.
+00102490 00 v 04 zhurmon 0 uturin 0 gumëzhimë 0 fërshëllim 0 001 @ 00159987 v 0000 01 + 00 00 | krijimi i një fërshëllimë e butë ose e ëmbël
+00102642 00 v 05 hutoj 0 turbulloj 0 çrregullim 0 shqetësoj 0 çakordoj 0 001 ~ 00155195 v 0000 01 + 00 00 | arsyeja e humbjes së vet kontrollit
+00102790 00 v 01 ngrij 0 001 @ 00100890 v 0000 01 + 00 00 | të ngrish ( stepesh) Më mbetet diçka në dorë dhe nuk e lëviz dot nga habia, nga frika, nga zemërimi etj.
+00102962 00 v 03 lëkundje 0 dridhje 0 tundem 0 001 @ 00141690 v 0000 01 + 00 00 | lëvizje para pas ose tërthor
+00103076 00 v 02 tendos 0 forcoj 0 002 @ 00100890 v 0000 ~ 00075105 v 0000 01 + 00 00 | Hap një gjë të mbledhur, shtrij; ndej diçka duke e tërhequr fort nga anët ose duke e lidhur nga të dy skajet, shtrij mirë, ngreh
+00103301 00 v 02 pagëzim 0 pagëzoj 0 001 @ 00016860 v 0000 01 + 00 00 | drejtoj një pagëzim
+00103397 00 v 01 kryhen 0 001 @ 00003000 v 0000 01 + 00 00 | kryhen një detyrë ose një funksion
+00103496 00 v 03 veproj 0 sjellje 0 sillem 0 003 @ 00053397 v 0000 @ 00003000 v 0000 ~ 00120309 v 0000 01 + 00 00 | veproj sipas një mënyrë
+00103639 00 v 01 ulërij 0 001 @ 00159480 v 0000 01 + 00 00 | i folur me një ton jomiqësor
+00103732 00 v 02 grim 0 makiazh 0 001 @ 00164807 v 0000 01 + 00 00 | aplikon makiazh në fytyrë e dikujt për tu dukur më e paraqitshme
+00103870 00 v 04 risk 0 guxoj 0 rrezikoj 0 ngjarje_me_rrezik 0 001 @ 00108786 v 0000 01 + 00 00 | merr përsipër një rrezik me shpresën se diçka e mirë do të vij
+00104038 00 v 03 zhul 0 ndyj 0 fëlliq 0 002 ! 00002264 v 0000 @ 00117854 v 0000 01 + 00 00 | bëj njollë ose lyros ose ndyj
+00104164 00 v 01 kryqëzoj 0 000 01 + 00 00 | i mbledh deri sa i kryqëzoj
+00104239 00 v 01 thithje 0 001 @ 00043230 v 0000 01 + 00 00 | një tërheqje praktike e gojes për te krijuar një vakum ne goje
+00104368 00 v 03 depozitë 0 depozitoj 0 degë 0 002 ! 00024613 v 0000 @ 00011253 v 0000 01 + 00 00 | pozicion , fuqi , ose rrënjos
+00104501 00 v 02 zbuloj 0 më_kap_veshi 0 002 @ 00169943 v 0000 * 00114631 v 0000 01 + 00 00 | dëgjon , zakonisht jashtë njohurive të folësit
+00104647 00 v 04 kasaphanë 0 kosit 0 masakroj 0 ther 0 001 @ 00044941 v 0000 01 + 00 00 | vrasje e një numri të madh njerëzish pa kriter
+00104788 00 v 01 shkaktoj_humbje 0 001 ! 00186963 v 0000 01 + 00 00 | dështoj të ruaj ose të mbaj; zakonisht në një kuptim abstrakt ose fizikë
+00104937 00 v 02 zbardhet 0 ndriçoj 0 003 ! 00073413 v 0000 @ 00100890 v 0000 ~ 00124167 v 0000 01 + 00 00 | të bëhet e ndritshme
+00105070 00 v 03 rrudhë 0 zhubër 0 zhubros 0 000 01 + 00 00 | bën një rrudhë ose zhubër
+00105164 00 v 02 shkërmoq 0 thërrmoj 0 001 @ 00122511 v 0000 01 + 00 00 | thyerje apo copëtime në fragmente
+00105276 00 v 03 shter 0 dobësoj 0 ligështoj 0 001 @ 00121528 v 0000 01 + 00 00 | e bëj të dobët
+00105378 00 v 03 pozicion_vertikal 0 rri_në_këmbë 0 qëndrim 0 002 @ 00137566 v 0000 > 00094559 v 0000 01 + 00 00 | qëndron në një pozicion vertikal
+00105533 00 v 01 kulloj 0 001 @ 00028415 v 0000 01 + 00 00 | ta zbrazësh prej lëngut ; të kullosh lëng prej diçkaje
+00105654 00 v 02 i_thatë 0 thahet 0 004 ! 00155370 v 0000 @ 00117854 v 0000 ~ 00107726 v 0000 > 00098460 v 0000 01 + 00 00 | të heqësh lagështirën nga diçka dhe ta lësh të thatë
+00105841 00 v 01 lë_me_bar 0 001 @ 00040175 v 0000 01 + 00 00 | të biesh shtatzënë
+00105928 00 v 01 mbjell 0 001 @ 00137566 v 0000 01 + 00 00 | fut ose vendos mbjell brenda në tokë
+00106028 00 v 01 zhburrëroj 0 001 @ 00121661 v 0000 01 + 00 00 | të heqësh organet gjenitale të një mashkulli
+00106143 00 v 03 rekuperoj 0 rigjej 0 rimarr_veten 0 002 ! 00089504 v 0000 @ 00140405 v 0000 01 + 00 00 | të superosh një sëmundje apo një gjendje shoku
+00106300 00 v 03 këmbim 0 zëvendësoj 0 shkëmbim 0 003 @ 00022844 v 0000 ~ 00127837 v 0000 ~ 00115023 v 0000 01 + 00 00 | jap dha marr nga dikush
+00106449 00 v 04 ngjitet 0 ngrihet 0 lindje 0 del 0 001 @ 00088368 v 0000 01 + 00 00 | ngrihet , trup qiellor
+00106559 00 v 02 acarim 0 irritim 0 002 @ 00150193 v 0000 ~ 00142870 v 0000 01 + 00 00 | nxehje nga një gjendje anormale e një vendi të acaruar
+00106706 00 v 02 rrotullohem 0 vërtitem 0 001 @ 00090450 v 0000 01 + 00 00 | rrotullohet rreth një boshti ose rreth një qëndre
+00106837 00 v 04 ngritje 0 gradoj 0 rrit 0 rritje 0 003 ! 00093536 v 0000 @ 00007259 v 0000 > 00088368 v 0000 01 + 00 00 | të rritesh nga një nivel më të ulët në një nivel më të lartë
+00107031 00 v 02 qëndisje 0 trazoj 0 001 @ 00125452 v 0000 01 + 00 00 | trajte unike
+00107117 00 v 01 cilësi_karakteristike 0 001 @ 00120789 v 0000 01 + 00 00 | të tregosh qartë se ke një karakter të caktuar
+00107245 00 v 01 ngricë 0 003 ! 00191744 v 0000 @ 00166993 v 0000 * 00175714 v 0000 01 + 00 00 | kthim në akull
+00107359 00 v 02 zbres 0 heq 0 001 @ 00073615 v 0000 01 + 00 00 | bëj një zbritje
+00107443 00 v 02 energjik 0 filloj 0 000 01 + 00 00 | fillim ose filloj një lëvizje
+00107529 00 v 02 telefonoj 0 marr_në_telefon 0 001 @ 00068043 v 0000 01 + 00 00 | përpiqem të hyj ne komunikim nëpërmjet lidhjes telefonike
+00107674 00 v 01 pohoj 0 000 01 + 00 00 | i them po
+00107726 00 v 02 thahet 0 përcëlloj 0 001 @ 00105654 v 0000 01 + 00 00 | shkakton fishkje ose tharje nga ekspozimi në diell
+00107853 00 v 02 përshkon 0 çan 0 002 @ 00071391 v 0000 ~ 00111830 v 0000 01 + 00 00 | bëj një hendek brenda
+00107966 00 v 03 ndërtoj 0 hartoj 0 krijoj 0 001 @ 00152110 v 0000 01 + 00 00 | bën një kombinim të materialeve ose të pjesëve
+00108099 00 v 02 pyes 0 pyes_veten 0 001 @ 00164588 v 0000 01 + 00 00 | të vendosesh në dyshim apo të shprehësh mendime dyshuese
+00108232 00 v 05 mufatet 0 enjtje 0 bymehet 0 enjtet 0 fryrje 0 001 @ 00108349 v 0000 01 + 00 00 | zgjerim jo normal
+00108349 00 v 02 zgjeroj 0 rrit 0 002 @ 00136300 v 0000 ~ 00108232 v 0000 01 + 00 00 | rritje në përmasë , volum apo sasi
+00108474 00 v 02 shkoj,i_kam_hije 0 më_shkon 0 001 @ 00060854 v 0000 01 + 00 00 | Përshtatet a pajtohet me diçka; më bie për shtat, është e përshtatshme për diçka; më ka hije; është e drejtë, qëndron; i vete
+00108697 00 v 02 dhuroj 0 jap 0 002 ! 00005833 v 0000 @ 00033380 v 0000 01 + 00 00 | jap
+00108786 00 v 04 sprovë 0 provë 0 orvatje 0 përpiqem 0 003 @ 00003000 v 0000 ~ 00068726 v 0000 ~ 00103870 v 0000 01 + 00 00 | bën një përpjekje ose një provë
+00108952 00 v 01 bëj 0 001 @ 00117854 v 0000 01 + 00 00 | t&apos;i japësh disa karakteristika diçkaje
+00109057 00 v 01 lidhem 0 010 ~ 00068584 v 0000 ~ 00073953 v 0000 ~ 00065068 v 0000 ~ 00153972 v 0000 ~ 00011253 v 0000 ~ 00065829 v 0000 ~ 00120427 v 0000 ~ 00188681 v 0000 ~ 00058120 v 0000 > 00004609 v 0000 01 + 00 00 | arsyeja që të jesh i lidhur
+00109310 00 v 04 vazhdoj_të_jem 0 vijoj 0 mbetem 0 qëndroj 0 001 @ 00041386 v 0000 01 + 00 00 | vazhdoj në të njëjtin vend,pozitë ose situatë;Zgjat ende; zhvillohet, shkon më tej, nuk ndërpritet, nuk pushon; vijon; zgjat një kohë të caktuar nga fillimi deri në mbarim
+00109591 00 v 02 rezistoj 0 vazhdoj 0 001 @ 00026400 v 0000 01 + 00 00 | vazhdon për një periudhë të gjatë kohe
+00109708 00 v 03 ia_dal_mbanë 0 arrij_sukses 0 ia_dal 0 002 ~ 00099539 v 0000 * 00108786 v 0000 01 + 00 00 | arritje e një suksesi ose një qëllimi
+00109859 00 v 04 rryshfet 0 mitë 0 korruptoj 0 jap_rryshfet 0 002 @ 00029267 v 0000 ;c 00320178 n 0000 01 + 00 00 | jep një pagesë në këmbim të një favori
+00110021 00 v 02 mashtroj 0 gënjej 0 001 @ 00119795 v 0000 01 + 00 00 | të jesh fallco ; të mashtrosh
+00110126 00 v 01 varet 0 001 @ 00041386 v 0000 01 + 00 00 | një probabilitet i vogël
+00110213 00 v 01 lavdëroj 0 003 @ 00182348 v 0000 ~ 00051722 v 0000 ~ 00083849 v 0000 01 + 00 00 | shpreh miratim të diçkaje
+00110341 00 v 02 hare 0 gëzim 0 002 @ 00126826 v 0000 ~ 00129252 v 0000 01 + 00 00 | të ndihesh e lumtur ose hare
+00110457 00 v 02 huadhënie 0 jap_hua 0 003 ! 00048651 v 0000 @ 00033380 v 0000 ~ 00135510 v 0000 01 + 00 00 | jap përkohësisht ; jap për një kohë të limituar
+00110622 00 v 02 shkatërroj 0 asgjesoj 0 001 ~ 00055716 v 0000 01 + 00 00 | shkatërrim total ; dëm i pandreqshëm
+00110739 00 v 03 pengoj 0 ndërpres 0 ndal 0 001 @ 00014926 v 0000 01 + 00 00 | Ndërhyj për të penguar vazhdimin a zhvillimin e një veprimi, ndaloj punën e rregullt të diçkaje; nuk i jap më
+00110937 00 v 02 paraqes 0 tregoj 0 001 @ 00059109 v 0000 01 + 00 00 | I shpjegoj dikujt, me fjalë ose ia shënoj me lëvizje të dorës diçka që dëshiron ta dijë a ta mësojë; e drejtoj për atje ku duhet, i kallëzoj vendin ku ndodhet diçka etj., i dëftej. I tregoj adresën e shtëpisë. I tregoi rrugën (ndërmarrjen, institutin). Ia tregoi në hartë
+00111302 00 v 01 dizinfektoj 0 001 @ 00002264 v 0000 01 + 00 00 | të shkatërrosh mikroorganizmat nëpërmjet spastrimit
+00111424 00 v 04 kontriboj 0 dhuroj 0 jap 0 jap_hua 0 001 @ 00117854 v 0000 01 + 00 00 | jep me një cilësi të lartë
+00111544 00 v 03 mblidhem 0 reduktohem 0 ngushtohem 0 002 @ 00119441 v 0000 > 00091909 v 0000 01 + 00 00 | reduktim në përmasë; të reduktohesh fizikisht
+00111701 00 v 02 ledhatoj 0 përkëdhel 0 001 ~ 00172829 v 0000 01 + 00 00 | prekje e lehtë dhe me dashuri e mbushur me emocion
+00111830 00 v 02 shpoj 0 biroj 0 001 @ 00107853 v 0000 01 + 00 00 | bën një hendek brenda ose ndërmjet sa për ta ndarë
+00111954 00 v 03 ecje_çalë_çalë 0 çapitje 0 çalim 0 001 @ 00115332 v 0000 01 + 00 00 | ecje e limituar nga një defekt fizik ose nga një lëndim
+00112106 00 v 05 gjurmë 0 kërkoj 0 vihem_pas 0 shkoj_pas 0 ndjekje 0 001 @ 00044100 v 0000 01 + 00 00 | i vihem pas me qëllimin që ta kap
+00112248 00 v 01 fshij 0 001 @ 00022029 v 0000 01 + 00 00 | pastroj me furçë
+00112327 00 v 01 ndriçon 0 001 @ 00041386 v 0000 01 + 00 00 | të jesh i shquar ose i lartë
+00112421 00 v 07 zvogëlohem 0 i_hollë 0 dobësoj 0 ul 0 ngushtoj 0 elegant 0 holloj 0 002 ! 00113694 v 0000 @ 00166993 v 0000 01 + 00 00 | të heqësh kile të tepërta
+00112592 00 v 01 mblidhemi_bashkë 0 000 01 + 00 00 | mblidhemi bashkë , zakonisht për qëllime ose synime
+00112701 00 v 03 shkëputem 0 arrati 0 largohem 0 001 @ 00086892 v 0000 01 + 00 00 | largohem nga një izolim
+00112811 00 v 02 mbushje 0 mbush_plot 0 002 ! 00170740 v 0000 @ 00166993 v 0000 01 + 00 00 | të bëhet plotë
+00112922 00 v 03 dukem 0 shfaqem 0 në_dukje 0 003 @ 00041386 v 0000 ~ 00049270 v 0000 ~ 00096380 v 0000 01 + 00 00 | të japësh një farë përshtypje ose një aspekt tjetër
+00113099 00 v 01 demostroj 0 005 ! 00132688 v 0000 ~ 00081799 v 0000 ~ 00128620 v 0000 ~ 00030303 v 0000 > 00075319 v 0000 01 + 00 00 | e bën të dukshme ose të bjer në sy
+00113274 00 v 03 mbush 0 takoj 0 plotësoj 0 001 @ 00043346 v 0000 01 + 00 00 | mbush ose plotësoj dëshira dhe nevoja
+00113394 00 v 02 metro 0 tren 0 001 @ 00081634 v 0000 01 + 00 00 | udhëtim me tren ose metro
+00113488 00 v 01 prek 0 000 01 + 00 00 | prekje e lehtë për një kohë të shkurtër
+00113575 00 v 03 dërgoj 0 nisje 0 dërgim 0 001 @ 00171915 v 0000 01 + 00 00 | dërgoj diçka drejt një destinacioni
+00113694 00 v 02 fitoj 0 shtoj_në_peshë 0 002 ! 00112421 v 0000 @ 00166993 v 0000 01 + 00 00 | shtim (pesha e dikujt)
+00113814 00 v 04 shfaq 0 demostroj 0 vë_në_provë 0 provoj 0 000 01 + 00 00 | të vërtetosh vlershmërinë e diçkaje nëpërmjet një shembulli , eksperimenti apo shpjegimi
+00113991 00 v 01 përdredh 0 001 @ 00039760 v 0000 01 + 00 00 | formë e përdredhjes
+00114077 00 v 02 marshim 0 ecje_në_këmbë 0 002 @ 00115332 v 0000 ;c 00363223 n 0000 01 + 00 00 | ecje për një kohë të gjatë , për kënaqësi ose për ushtrime fizike
+00114252 00 v 01 lëvizje_përpara 0 001 @ 00007259 v 0000 01 + 00 00 | shkaku i lëvizjes përpara
+00114352 00 v 03 shpreh_gëzim 0 shpreh_hare 0 qesh 0 002 ! 00038098 v 0000 @ 00069694 v 0000 01 + 00 00 | të prodhosh të qeshura
+00114484 00 v 02 qëllon_që 0 përqas 0 001 @ 00018325 v 0000 01 + 00 00 | rastis qe të ndodhin gjëra të rastit gjatë rrjedhës së ngjarjeve
+00114631 00 v 01 dëgjoj 0 002 @ 00121883 v 0000 * 00169943 v 0000 01 + 00 00 | dëgjon me kujdes
+00114729 00 v 04 zbatoj 0 realizoj 0 provoj 0 bëj_realitet 0 001 @ 00152110 v 0000 01 + 00 00 | bëhet reale ose konkretizoj
+00114855 00 v 02 pranoj 0 lejoj 0 006 @ 00014265 v 0000 ~ 00028917 v 0000 ~ 00194698 v 0000 ~ 00133549 v 0000 ~ 00187252 v 0000 ~ 00173890 v 0000 01 + 00 00 | jap leje
+00115023 00 v 01 shes 0 004 ! 00145339 v 0000 @ 00106300 v 0000 ;c 00386132 n 0000 * 00033380 v 0000 01 + 00 00 | shkëmbim me para për shërbime të ndryshme
+00115183 00 v 05 skuqem 0 turpërohem 0 bëhem_i_brishtë 0 skuqje 0 kuqëloj 0 001 @ 00095337 v 0000 01 + 00 00 | të skuqesh nga turpi apo sikleti
+00115332 00 v 01 ecje 0 010 ! 00081634 v 0000 @ 00184095 v 0000 ~ 00114077 v 0000 ~ 00138217 v 0000 ~ 00042096 v 0000 ~ 00022714 v 0000 ~ 00111954 v 0000 ~ 00138415 v 0000 ~ 00140684 v 0000 ~ 00006676 v 0000 01 + 00 00 | të përdorësh këmbët për të lëvizur ; të avancosh në lëvizje
+00115624 00 v 04 vlerësoj 0 klasifikoj 0 përcaktoj_qartë 0 rendis 0 001 @ 00079249 v 0000 01 + 00 00 | vendos një vlerësim
+00115752 00 v 01 ftoj 0 000 01 + 00 00 | fton dikë në shtëpi
+00115816 00 v 01 bashkoj 0 001 @ 00179682 v 0000 01 + 00 00 | bashkohen për qëllime të përbashkëta
+00115920 00 v 02 copëtim 0 pjesëtoj 0 001 @ 00073615 v 0000 01 + 00 00 | realizon një ndarje
+00116016 00 v 05 pjerrje 0 kënd 0 anim 0 cep 0 pjerrësi 0 002 @ 00160400 v 0000 ~ 00146384 v 0000 01 + 00 00 | një pjerrësi ose një kthesë në pozicion vertikal
+00116183 00 v 03 fragmentim 0 fragmentoj 0 copëzoj 0 003 @ 00092563 v 0000 ~ 00047616 v 0000 ~ 00154516 v 0000 01 + 00 00 | copëtoj ose shkakton copëzim në pjesëza më të vogla
+00116366 00 v 02 përshëndes 0 përkulem 0 001 @ 00140925 v 0000 01 + 00 00 | gjunjëzohem ose përkul kokën
+00116477 00 v 02 çift 0 dyshe 0 001 @ 00052770 v 0000 01 + 00 00 | dy detyra ; të shërbesh në dy destinacione ose të kesh dy funksione
+00116617 00 v 01 marr 0 001 @ 00055384 v 0000 01 + 00 00 | marr në zotërim
+00116694 00 v 02 tingull_ore 0 tik_tak 0 001 @ 00159987 v 0000 01 + 00 00 | krijimi i një muzikë ose një tingull ore ose që tregon kohe
+00116834 00 v 02 përpiqem 0 përpjekje 0 001 @ 00033380 v 0000 01 + 00 00 | paraqit një miratim ose një mospranim
+00116951 00 v 03 këqyr_me_kujdes 0 analizoj 0 shqyrtoj 0 001 @ 00070165 v 0000 01 + 00 00 | të shikosh në mënyrë kritike ose kërkuese , ose në detaje
+00117108 00 v 03 rrethoj 0 anë 0 skaj 0 002 @ 00161952 v 0000 ~ 00156929 v 0000 01 + 00 00 | shtrirjen në të tërë pikëpamjen njëherësh ose vij përqark
+00117268 00 v 01 parkim 0 001 @ 00165496 v 0000 01 + 00 00 | manovër me mjet transport ne hapësirër e parkimit
+00117382 00 v 04 ngjitem 0 ngritje 0 mbi_tokë 0 fluturim 0 000 01 + 00 00 | ankorohem mbi tokë, ose qëndro mbi një sipërfaqe
+00117512 00 v 01 mbytem 0 001 @ 00044941 v 0000 01 + 00 00 | vrasje duke u fundosur nën ujë
+00117606 00 v 02 caktoj 0 organizim 0 004 @ 00137566 v 0000 ~ 00185215 v 0000 ~ 00196929 v 0000 ~ 00192301 v 0000 01 + 00 00 | cakton ose bën një organizim sistematik
+00117775 00 v 01 bindem 0 001 ~ 00080064 v 0000 01 + 00 00 | të jesh i bindur
+00117854 00 v 03 shndërroj 0 modifikoj 0 ndryshoj 0 049 ~ 00191453 v 0000 ~ 00098341 v 0000 ~ 00001937 v 0000 ~ 00149208 v 0000 ~ 00166267 v 0000 ~ 00195104 v 0000 ~ 00039760 v 0000 ~ 00186139 v 0000 ~ 00080892 v 0000 ~ 00059966 v 0000 ~ 00018586 v 0000 ~ 00121528 v 0000 ~ 00159011 v 0000 ~ 00160716 v 0000 ~ 00042741 v 0000 ~ 00059502 v 0000 ~ 00164306 v 0000 ~ 00197768 v 0000 ~ 00119441 v 0000 ~ 00071621 v 0000 ~ 00017843 v 0000 ~ 00108952 v 0000 ~ 00150193 v 0000 ~ 00153340 v 0000 ~ 00036576 v 0000 ~ 00128158 v 0000 ~ 00002264 v 0000 ~ 00016000 v 0000 ~ 00125793 v 0000 ~ 00186646 v 0000 ~ 00054191 v 0000 ~ 00135985 v 0000 ~ 00111424 v 0000 ~ 00105654 v 0000 ~ 00028415 v 0000 ~ 00155370 v 0000 ~ 00040175 v 0000 ~ 00037106 v 0000 ~ 00104038 v 0000 ~ 00008497 v 0000 ~ 00170557 v 0000 ~ 00192892 v 0000 ~ 00165677 v 0000 ~ 00176401 v 0000 ~ 00084433 v 0000 ~ 00024735 v 0000 ~ 00122985 v 0000 ~ 00016536 v 0000 > 00100890 v 0000 01 + 00 00 | cështje ndryshimi; i bëj ndryshe gjërat; shkaktoj një transformim
+00118876 00 v 02 komunikoj 0 transmetoj 0 013 @ 00179682 v 0000 ~ 00068043 v 0000 ~ 00196712 v 0000 ~ 00028051 v 0000 ~ 00009395 v 0000 ~ 00182219 v 0000 ~ 00168438 v 0000 ~ 00168674 v 0000 ~ 00064558 v 0000 ~ 00070680 v 0000 ~ 00159480 v 0000 ~ 00140925 v 0000 ~ 00042977 v 0000 01 + 00 00 | transmetimi i mendimeve që shprehin ndjenjë
+00119215 00 v 01 imitoj 0 001 @ 00033732 v 0000 01 + 00 00 | si ne sjellje dhe nga pamja e jashtme
+00119314 00 v 01 kushton_sa 0 001 @ 00041386 v 0000 01 + 00 00 | çmimi i një sendi i krahasuar me një send a diçka tjetër
+00119441 00 v 04 zvogëloj 0 minimizoj 0 ulje 0 pakësim 0 008 ! 00176401 v 0000 @ 00117854 v 0000 ~ 00057330 v 0000 ~ 00065280 v 0000 ~ 00111544 v 0000 ~ 00143134 v 0000 ~ 00194874 v 0000 ~ 00023179 v 0000 01 + 00 00 | E bëj diçka më të vogël; e pakësoj, e ul, e ngushtoj etj.
+00119725 00 v 02 nisje 0 fillim 0 000 01 + 00 00 | ndahem nga terreni
+00119795 00 v 02 bëj_viktima 0 shkaktoj_vuajtje 0 003 @ 00042349 v 0000 ~ 00110021 v 0000 ~ 00177235 v 0000 01 + 00 00 | bën viktima
+00119930 00 v 04 lexoj 0 interpretoj 0 përkthej 0 kuptoj 0 000 01 + 00 00 | të japësh kuptimin e një gjuhe
+00120041 00 v 03 shushurimë 0 mbjell 0 krijoj 0 002 @ 00137566 v 0000 ;c 00201156 n 0000 01 + 00 00 | vendi në të cilin ose terreni ku vendoset një bimë që të zhvillohet
+00120218 00 v 02 kërkesë 0 lutje 0 001 ~ 00083028 v 0000 01 + 00 00 | kërkesë urgjente
+00120309 00 v 02 pohoj 0 shpreh 0 001 @ 00103496 v 0000 01 + 00 00 | insiston ose ke një opinion për një organizim
+00120427 00 v 04 ndajshtesë 0 shtojcë 0 bashkangjit 0 shtoj 0 001 @ 00109057 v 0000 01 + 00 00 | të shtosh një fund të vërtetë
+00120561 00 v 03 mashtrim 0 falsifikoj 0 falsifikim 0 001 @ 00085207 v 0000 01 + 00 00 | bën një kopje me qëllim për mashtrim
+00120691 00 v 01 pikturë 0 002 @ 00014674 v 0000 ;c 00333111 n 0000 01 + 00 00 | bën një tablo
+00120789 00 v 02 cilësoj 0 karakterizoj 0 003 @ 00052933 v 0000 ~ 00107117 v 0000 ~ 00170288 v 0000 01 + 00 00 | përshkruaj apo portretizoj karakterin apo veçori tipike apo cilësi të dikujt apo diçkaje
+00120997 00 v 05 refuzoj 0 heq_dorë 0 nuk_pranoj 0 mohoj 0 braktis 0 002 @ 00157528 v 0000 ~ 00087750 v 0000 01 + 00 00 | mohoj ose liroj
+00121136 00 v 01 njoftoj 0 001 @ 00135737 v 0000 01 + 00 00 | njoftoj prezencën e dikujt
+00121226 00 v 01 paketoj 0 001 ! 00077559 v 0000 01 + 00 00 | rregulloj në një kuti ose një kontenier
+00121331 00 v 02 agon 0 zbardh 0 001 @ 00100890 v 0000 01 + 00 00 | bëhet ditë
+00121412 00 v 01 lexoj 0 001 @ 00034960 v 0000 01 + 00 00 | interpretimi i diçkaje që është shkruar apo shtypur
+00121528 00 v 02 dobësohem 0 ligështohem 0 003 ! 00071621 v 0000 @ 00117854 v 0000 ~ 00105276 v 0000 01 + 00 00 | më pak i fortë
+00121661 00 v 02 sterilizoj 0 bëj_shterp 0 002 @ 00042460 v 0000 ~ 00106028 v 0000 01 + 00 00 | të jesh jopjellore
+00121778 00 v 01 përsëris 0 001 @ 00058441 v 0000 01 + 00 00 | të them , shpall apo performoj sërish
+00121883 00 v 02 përfshij 0 kuptoj 0 008 ~ 00075319 v 0000 ~ 00114631 v 0000 ~ 00155774 v 0000 ~ 00151547 v 0000 ~ 00091128 v 0000 ~ 00050862 v 0000 ~ 00169943 v 0000 ~ 00070863 v 0000 01 + 00 00 | të jesh i mirëinformuar në të gjitha kuptimet
+00122132 00 v 04 shtohem 0 përhapem 0 riprodhohet 0 shumohem 0 001 @ 00136300 v 0000 01 + 00 00 | shtim i shpejtë
+00122248 00 v 02 i_takon 0 i_përkas_dikujt 0 001 @ 00129515 v 0000 01 + 00 00 | behesh pjese e
+00122344 00 v 03 festim 0 dolli 0 dëfrej 0 001 @ 00179433 v 0000 01 + 00 00 | feston me zhurmë , duke përfshirë dhe duke pirë ; angazhohem me organizimet festive
+00122511 00 v 02 zbërthehet 0 shpërbëhet 0 002 @ 00018040 v 0000 ~ 00105164 v 0000 01 + 00 00 | të ndash në pjesëza apo në përbërës ose të humbasësh unitetin
+00122681 00 v 01 njoh 0 001 @ 00095165 v 0000 01 + 00 00 | dalloj të jetë e njëjta
+00122767 00 v 01 hedhje 0 001 @ 00051332 v 0000 01 + 00 00 | projekti i hedhjes në ajër
+00122857 00 v 04 pësoj 0 kaloj 0 mbështes 0 heq 0 000 01 + 00 00 | të kalosh një situatë( për shkak të një sëmundjeje)
+00122985 00 v 03 prishje 0 dëm 0 dëmtoj 0 004 @ 00117854 v 0000 ~ 00012583 v 0000 ~ 00043553 v 0000 ~ 00015047 v 0000 01 + 00 00 | shkaktoj dëm
+00123132 00 v 02 konspektoj 0 mbaj_shënim 0 001 @ 00059260 v 0000 01 + 00 00 | Mendime, përshtypje etj. të hedhura në letër; ato që shkruajmë kur dëgjojmë një ligjëratë, një mësim, një diskutim etj. ose kur duam të mos harrojmë diçka.
+00123385 00 v 03 propozoj 0 këshilloj 0 sugjeroj 0 002 ~ 00139450 v 0000 ~ 00043670 v 0000 01 + 00 00 | paraqes një propozim, deklaroj një plan për diçka
+00123544 00 v 03 zë_vend 0 sistemoj 0 stabilizoj 0 001 @ 00164186 v 0000 01 + 00 00 | të rregullohesh apo të rehatohesh në një rezidencë apo sipas një stili jete
+00123713 00 v 05 mbaj 0 marr 0 harxhoj 0 mbledh 0 gëlltit 0 010 ! 00008087 v 0000 ~ 00051212 v 0000 ~ 00156818 v 0000 ~ 00139675 v 0000 ~ 00147155 v 0000 ~ 00043230 v 0000 ~ 00087911 v 0000 ~ 00166633 v 0000 ~ 00047992 v 0000 ~ 00167608 v 0000 01 + 00 00 | i sherbej vetes ; ose e konsumoj rregullisht
+00124016 00 v 03 eci_përpara 0 vazhdoj 0 vijoj 0 001 @ 00184095 v 0000 01 + 00 00 | eci përpara ; një udhëtim në progres në kohë ose hapësirë
+00124167 00 v 03 ndriçim 0 dritë 0 ndriçoj 0 001 @ 00104937 v 0000 01 + 00 00 | të bësh diçka të ndritshme , të kthjellët
+00124298 00 v 05 dërgoj 0 nisje 0 largohem 0 nisem 0 iki 0 000 01 + 00 00 | largohet
+00124384 00 v 04 transportim 0 kanal 0 transferim 0 përhap 0 002 @ 00007259 v 0000 ~ 00079071 v 0000 01 + 00 00 | dërgohet nga një person nga një vend në një tjetër
+00124556 00 v 02 lë_në_ngarkim 0 detyrim 0 002 @ 00164054 v 0000 ~ 00043091 v 0000 01 + 00 00 | është një detyrë që i lë dikujt për të ruajtur një diçka
+00124721 00 v 01 përball 0 001 @ 00188407 v 0000 01 + 00 00 | Në vendin përpara dikujt a diçkaje; me fytyrë në drejtim të dikujt a të diçkaje; me fytyrë njeri kundrejt tjetrit, ballë për ballë, përkundrejt, karshi
+00124949 00 v 01 shpreh 0 001 @ 00125032 v 0000 01 + 00 00 | manifestoj ose tregoj
+00125032 00 v 02 jap 0 njoftoj 0 004 ~ 00065382 v 0000 ~ 00124949 v 0000 ~ 00094347 v 0000 ~ 00152449 v 0000 01 + 00 00 | bëj të ditur; kaloj informacion
+00125188 00 v 01 hedhje 0 001 @ 00166010 v 0000 01 + 00 00 | rënie vertikale
+00125266 00 v 03 kap 0 fotografoj 0 foto_e_çastit 0 001 @ 00148054 v 0000 01 + 00 00 | regjistroj në një film fotografik
+00125390 00 v 01 lustër 0 000 01 + 00 00 | mbulim me lustër
+00125452 00 v 02 përdor 0 manipuloj 0 004 @ 00093989 v 0000 ~ 00005523 v 0000 ~ 00036966 v 0000 ~ 00107031 v 0000 01 + 00 00 | të mbash diçka në dorë dhe ta lëvizësh atë
+00125630 00 v 04 caktoj 0 emërtoj 0 atribuoj 0 deleguar 0 002 @ 00019892 v 0000 ~ 00054595 v 0000 01 + 00 00 | cakton ose emërton dike në një post ose detyrë
+00125793 00 v 02 shënoj 0 lë_gjurmë 0 002 @ 00117854 v 0000 ~ 00000789 v 0000 01 + 00 00 | lë shenjë diku
+00125904 00 v 03 rrethim 0 rrethoj 0 bej_zap 0 001 @ 00100246 v 0000 01 + 00 00 | rrethoj me force deri ne dorezimin e saj
+00126027 00 v 02 strehohem 0 sistemohem 0 001 @ 00137566 v 0000 01 + 00 00 | pozicion i përhershëm
+00126128 00 v 02 lë_pezull 0 mënjanoj 0 001 @ 00198203 v 0000 01 + 00 00 | lë pezull një çeshtje
+00126230 00 v 01 mbështetje 0 001 @ 00033380 v 0000 01 + 00 00 | një mbështetje ose një ndihmë materiale ose nga ana ekonomike
+00126362 00 v 02 hap 0 ndez 0 002 ! 00195455 v 0000 @ 00097525 v 0000 01 + 00 00 | është një operim për të kryer një veprim
+00126492 00 v 04 ndryshoj_formë 0 deformoj 0 ndryshoj_trajtë 0 shformoj 0 003 @ 00100890 v 0000 ~ 00024356 v 0000 ~ 00160400 v 0000 01 + 00 00 | pretendoj një formë apo model tjetër
+00126679 00 v 04 themeloj 0 kryej 0 shkaktoj 0 efekt 0 003 @ 00029098 v 0000 ~ 00031049 v 0000 > 00018325 v 0000 01 + 00 00 | prodhim ose fabrikim
+00126826 00 v 02 përvojë 0 ndjenja 0 006 ~ 00174287 v 0000 ~ 00059853 v 0000 ~ 00165182 v 0000 ~ 00191008 v 0000 ~ 00013581 v 0000 ~ 00110341 v 0000 01 + 00 00 | kaloj një ndjesi emocionale
+00127019 00 v 01 pikëllohem 0 001 @ 00043901 v 0000 01 + 00 00 | ndjenjë trishtimi ose pikëllimi
+00127119 00 v 01 lotim 0 001 @ 00038098 v 0000 01 + 00 00 | e mbushur në lot ose të derdhësh lot
+00127219 00 v 03 ushtroj 0 praktikoj 0 bëj_prova 0 001 @ 00075548 v 0000 01 + 00 00 | angazhohem me një provë ose praktikohem
+00127348 00 v 03 merr 0 sekuestroj 0 rrëmbej 0 002 @ 00053946 v 0000 ;c 00320178 n 0000 01 + 00 00 | merr në mënyrë arbritare ose me forcë
+00127492 00 v 02 kapje 0 kap 0 001 @ 00169350 v 0000 01 + 00 00 | bëj zap ose ndaloj një lëvizje
+00127592 00 v 04 i_jap_shtysë 0 progres 0 nxit 0 shtytje 0 001 @ 00049116 v 0000 01 + 00 00 | jep kontribut për të ec përpara
+00127722 00 v 03 premtim 0 besoj 0 betim 0 001 @ 00144103 v 0000 01 + 00 00 | kam konfidencë apo besim tek diçka
+00127837 00 v 03 transferim 0 tregti 0 shkëmbim 0 001 @ 00106300 v 0000 01 + 00 00 | shkëmbim ose jap diçka në këmbim
+00127960 00 v 01 vrapoj 0 001 @ 00004455 v 0000 01 + 00 00 | vrapoj pas topit , në futboll
+00128052 00 v 01 ekuilibër 0 001 @ 00008211 v 0000 01 + 00 00 | bëj një llogari të kredisë dhe debit
+00128158 00 v 02 parregullsi 0 rrëmujë 0 003 ! 00196929 v 0000 @ 00117854 v 0000 ~ 00050156 v 0000 01 + 00 00 | të sjellësh trazira
+00128294 00 v 02 heq 0 pres 0 001 @ 00022029 v 0000 01 + 00 00 | një hapje kirurgjikale
+00128383 00 v 03 kombinoj 0 bashkoj 0 përziej 0 001 @ 00047339 v 0000 01 + 00 00 | vendos ose bashkoj
+00128486 00 v 01 bëj 0 001 @ 00082041 v 0000 01 + 00 00 | të veprosh në një mënyrë te caktuar për të marrë (sigurosh) diçka
+00128620 00 v 03 shfaq 0 demostrim 0 ekspozoj 0 002 @ 00113099 v 0000 ~ 00031856 v 0000 01 + 00 00 | të shfaqësh, ti bësh të dukshme
+00128757 00 v 02 makinë 0 automobil 0 002 @ 00184095 v 0000 * 00081634 v 0000 01 + 00 00 | udhëtim ose transport me mjete transporti
+00128892 00 v 01 fërshëllim 0 004 @ 00159480 v 0000 ~ 00070979 v 0000 ~ 00170069 v 0000 ;c 00248613 n 0000 01 + 00 00 | krijoj tingëllim me anë të zërit
+00129051 00 v 02 larje 0 lahem 0 001 @ 00013309 v 0000 01 + 00 00 | të pastrosh trupin me sapun ose ujë
+00129157 00 v 02 parakaloj 0 kalim 0 001 @ 00163123 v 0000 01 + 00 00 | një udhëtim i kaluar
+00129252 00 v 02 mbush_me_gëzim 0 gëzoj 0 002 @ 00110341 v 0000 ~ 00020796 v 0000 01 + 00 00 | bëhem gazmor
+00129363 00 v 03 rrjedh 0 filtrues 0 pikoj 0 001 @ 00180425 v 0000 01 + 00 00 | rrjedh ose pikon ngadalë , një pikë ose një curril e paqëndrueshme
+00129515 00 v 04 shtrihem 0 jetoj 0 rri_ne_shtrat 0 qëndroj 0 001 ~ 00122248 v 0000 01 + 00 00 | krijoj
+00129620 00 v 03 qetësoj 0 zbut 0 qetësohem 0 001 @ 00166993 v 0000 01 + 00 00 | bëhet heshtje ose qetësi, zakonisht pas një gjendje shqetësimi
+00129770 00 v 01 ndërrohem 0 001 @ 00174602 v 0000 01 + 00 00 | ndërroj veshje rrobat; vesh rroba të tjera
+00129880 00 v 03 llomotis 0 dërdëllis 0 shfrej 0 001 @ 00159480 v 0000 01 + 00 00 | të flasësh në mënyrë emocionuese , të zhurmshme
+00130020 00 v 01 spekuloj 0 001 @ 00010495 v 0000 01 + 00 00 | flas me hamendësime , ose rishikoj në një mënyrë dembele apo rastësore dhe me një element dyshimi ose pa logjikën e mjaftueshme për të arritur në një konkluzion
+00130256 00 v 05 bie_me_rrëmbim 0 mizëri 0 derdhet 0 zbrazje 0 shtohem 0 001 @ 00173482 v 0000 01 + 00 00 | lëviz në numër të madh
+00130393 00 v 02 i_kushtoj_vëmendje 0 kujdesem 0 001 @ 00131856 v 0000 01 + 00 00 | përmbush një detyrim ose një detyrë
+00130518 00 v 01 e_pranueshme 0 001 @ 00041386 v 0000 01 + 00 00 | është i këndshëm dhe i pranueshëm
+00130624 00 v 04 lidhje 0 mbaj_lidhur 0 lidhem 0 ngjitem_pas 0 002 @ 00151080 v 0000 * 00011253 v 0000 01 + 00 00 | sigurohem që lidhem pas litarit
+00130773 00 v 02 parashikoj 0 pres 0 004 @ 00079249 v 0000 ~ 00023698 v 0000 ~ 00091587 v 0000 ~ 00031943 v 0000 01 + 00 00 | ta shohësh diçka si probabël për të ndodhur
+00130948 00 v 02 çrregullim 0 vegël_për_përkulje_hekuri 0 001 @ 00178826 v 0000 01 + 00 00 | një vegël për ti dhënë një forme të rregulltë metalit
+00131107 00 v 01 loje 0 004 @ 00034760 v 0000 ~ 00034869 v 0000 ~ 00147770 v 0000 ~ 00050422 v 0000 01 + 00 00 | pjesëmarrje ne një loje ose sport
+00131256 00 v 02 marr_parasysh 0 lejoj 0 000 01 + 00 00 | lejoj ose planifikoj për një mundësi të caktuar; pranoj vërtetësinë e diçkaje
+00131400 00 v 02 create_by_mental_act 0 create_mentally 0 004 @ 00152110 v 0000 ~ 00034136 v 0000 ~ 00189382 v 0000 ~ 00086692 v 0000 01 + 00 00 | create mentally and abstractly rather than with one&apos;s hands
+00131612 00 v 04 nderoj 0 respektoj 0 çmoj 0 vlerësoj 0 001 @ 00183244 v 0000 01 + 00 00 | shpreh vlerësimin e lartë dhe respektin për dikë.
+00131759 00 v 02 ushtrime 0 stërvitem 0 001 * 00056928 v 0000 01 + 00 00 | bëj ushtrime fizike
+00131856 00 v 03 dorëz 0 kujdesje 0 administroj 0 006 @ 00197249 v 0000 ~ 00009249 v 0000 ~ 00073830 v 0000 ~ 00012008 v 0000 ~ 00090211 v 0000 ~ 00130393 v 0000 01 + 00 00 | kryen një detyrë ose e heq qafe
+00132066 00 v 02 nënshtrohem 0 ia_dorëzoj 0 001 @ 00014519 v 0000 01 + 00 00 | dorëzohesh dikujt për diçka ose dorëzon diçka
+00132198 00 v 02 krah 0 fluturim 0 001 @ 00184095 v 0000 01 + 00 00 | të udhëtosh nëpër ajrit ; të jesh në fluturim
+00132320 00 v 04 ndërpres 0 shqetësoj 0 bezdis 0 trazoj 0 001 @ 00003000 v 0000 01 + 00 00 | të prishësh qetësinë e diçkaje
+00132451 00 v 03 veçoj 0 selektoj 0 zgjedh 0 006 @ 00021175 v 0000 ~ 00021493 v 0000 ~ 00050517 v 0000 ~ 00015866 v 0000 ~ 00078451 v 0000 ~ 00019046 v 0000 01 + 00 00 | të zgjedhësh apo selektosh nga një numër i madh alternativash
+00132688 00 v 02 fsheh 0 mbaj_të_fshehtë 0 004 ! 00113099 v 0000 ~ 00192149 v 0000 ~ 00096490 v 0000 ~ 00028814 v 0000 01 + 00 00 | ndaloj një ekzistencë ose një zbulim
+00132862 00 v 03 thesar 0 çmim 0 vlerë 0 002 @ 00183244 v 0000 ~ 00074899 v 0000 01 + 00 00 | çmoj shumë
+00132971 00 v 01 emërtoj 0 002 @ 00048398 v 0000 ~ 00016860 v 0000 01 + 00 00 | vendos një emër apo etiketë; caktoj një emërtim
+00133105 00 v 02 betohem 0 dëshmoj 0 000 01 + 00 00 | jap një dëshmi; deklaroj nën betim
+00133198 00 v 01 nxitje 0 001 @ 00003000 v 0000 01 + 00 00 | të kesh guximin e duhur për të bërë diçka
+00133307 00 v 04 paraqes 0 ndërtoj 0 vendos 0 instaloj 0 001 @ 00137566 v 0000 01 + 00 00 | instaloj për përdorim
+00133424 00 v 02 trajtoj 0 shërbim 0 002 @ 00026908 v 0000 ~ 00013181 v 0000 01 + 00 00 | punon ne një funksion te caktuar
+00133549 00 v 01 kujdes 0 001 @ 00114855 v 0000 01 + 00 00 | lejon pa frikë
+00133626 00 v 03 mospërputhje_mendimesh 0 kundërshtoj 0 protestë 0 001 @ 00065955 v 0000 01 + 00 00 | të shprehësh një kundërshtim me veprime ose me fjalë
+00133789 00 v 03 angullimë 0 britmë 0 kuis 0 001 @ 00094091 v 0000 01 + 00 00 | bën një tingull të lartë , një tingull i zhurmshëm
+00133928 00 v 02 përhapje 0 shpërndaj 0 001 @ 00172171 v 0000 01 + 00 00 | hap ose shpërndaj në një hapësirë
+00134044 00 v 03 ardhje 0 filloj 0 shkoj_andej_këtej 0 001 @ 00003000 v 0000 01 + 00 00 | fillimi i një sistemi i veprimesh
+00134170 00 v 03 mbush_mëndjen 0 ndikim 0 bind 0 001 @ 00171561 v 0000 01 + 00 00 | një përpjekje për një aprovim ose një përkrahje për
+00134314 00 v 03 fitore 0 fitim 0 siguroj 0 001 @ 00055384 v 0000 01 + 00 00 | fiton diçka pas një përpjekje ose mundimi
+00134438 00 v 01 djeg 0 000 01 + 00 00 | djeg, përcëllon, or ngrij(ind) duke përdorur një hekur të nxehtë , apo korrent elektrik apo lëndë gërryese
+00134595 00 v 03 kapitulloj 0 heq_dorë 0 dorëzoj 0 001 @ 00092436 v 0000 01 + 00 00 | heq dorë nga një zotërim
+00134711 00 v 01 rritje 0 005 @ 00061570 v 0000 ~ 00136300 v 0000 ~ 00031509 v 0000 ~ 00185412 v 0000 ~ 00047339 v 0000 01 + 00 00 | të rritesh në shumë
+00134867 00 v 01 notoj 0 001 @ 00184095 v 0000 01 + 00 00 | udhëtim nëpërmjet ujit
+00134953 00 v 05 vështirësi 0 gërricje 0 përleshje 0 irritohem 0 grindëm 0 001 @ 00161952 v 0000 01 + 00 00 | shkaku i një grindje
+00135090 00 v 06 eliminoj 0 shkatërroj 0 asgjësoj 0 ekzekutoj 0 shuaj 0 zhduk 0 001 @ 00044941 v 0000 01 + 00 00 | të kryesh vrasje masive
+00135232 00 v 02 largim 0 shmangem 0 001 @ 00100890 v 0000 01 + 00 00 | të lëvizësh dikë nga një shoqëri
+00135343 00 v 03 lë 0 paracaktoj 0 lë_trashëgim 0 003 ! 00100440 v 0000 @ 00092436 v 0000 ~ 00147874 v 0000 01 + 00 00 | lë ose caktoj një trashëgim pas vdekjes
+00135510 00 v 01 detyrë 0 002 @ 00110457 v 0000 ;c 00386132 n 0000 01 + 00 00 | zgjeroj një kredi
+00135610 00 v 02 refuzoj 0 kthej_mbrapa 0 002 @ 00005833 v 0000 ~ 00064791 v 0000 01 + 00 00 | përmbaj ; ia lë përgjegjësi
+00135737 00 v 02 paraqes 0 shpreh 0 004 @ 00028051 v 0000 ~ 00174883 v 0000 ~ 00121136 v 0000 ~ 00067817 v 0000 01 + 00 00 | bëj një lajmërim ; bëj të ditur
+00135899 00 v 02 rri_ulur 0 ulem 0 001 ! 00094559 v 0000 01 + 00 00 | qëndron i ulur
+00135985 00 v 04 fryhem 0 pelltum 0 e_shëndosh 0 e_majme 0 001 @ 00117854 v 0000 01 + 00 00 | te marrësh shëndet ose te bëhesh pelltum
+00136124 00 v 03 kultivoj 0 rrit 0 zhvilloj 0 002 @ 00063971 v 0000 ;c 00201156 n 0000 01 + 00 00 | rritje me anë të kultivimit , shpesh nëpërmjet një teknike agrikulture
+00136300 00 v 02 rritet 0 zhvillohet 0 006 @ 00134711 v 0000 ~ 00044640 v 0000 ~ 00108349 v 0000 ~ 00033875 v 0000 ~ 00180030 v 0000 ~ 00122132 v 0000 01 + 00 00 | të bëhesh më i madh , i gjerë ; zgjerim apo arritje
+00136520 00 v 01 dëshiroj 0 001 @ 00183885 v 0000 01 + 00 00 | të shprehësh një dëshirë
+00136614 00 v 04 venitet 0 zhdukem 0 kalon 0 shuhet 0 001 @ 00155466 v 0000 01 + 00 00 | zhdukje graduale
+00136720 00 v 03 harxhoj 0 përdor 0 konsumoj 0 001 * 00151664 v 0000 01 + 00 00 | harxhoj plotësisht
+00136823 00 v 02 kualifikim 0 është_ne_lartesine_e_duhur 0 001 @ 00049550 v 0000 01 + 00 00 | prove aftesie ose gatishmërie ;plotesoj kerkesat
+00136969 00 v 03 injoroj 0 fsheh 0 maskoj 0 001 @ 00028814 v 0000 01 + 00 00 | një fshehje e aparencës ose një maskim artificial
+00137101 00 v 03 mbyt 0 mbytem 0 asfiksoj 0 002 @ 00044941 v 0000 * 00084991 v 0000 01 + 00 00 | i marr me forcë oksigjen ose i ndaloj frymëmarrjen
+00137251 00 v 03 bashkoj 0 lidh_me 0 martohem 0 001 @ 00145045 v 0000 01 + 00 00 | arrin në martesë
+00137353 00 v 02 vend_i_mbyllur 0 mbyll 0 004 ! 00070056 v 0000 ~ 00177877 v 0000 ~ 00060107 v 0000 > 00183777 v 0000 01 + 00 00 | lëviz atë që është e hapur ose kalim që është i mbyllur ;formë e mbyllur
+00137566 00 v 03 vendos 0 vë 0 fus 0 013 @ 00007259 v 0000 ~ 00105928 v 0000 ~ 00003611 v 0000 ~ 00191146 v 0000 ~ 00117606 v 0000 ~ 00105378 v 0000 ~ 00133307 v 0000 ~ 00143294 v 0000 ~ 00120041 v 0000 ~ 00182920 v 0000 ~ 00126027 v 0000 ~ 00032744 v 0000 ~ 00046890 v 0000 01 + 00 00 | vendos në një vend të caktuar ose në një vend abstrakt
+00137915 00 v 03 njëmendësoj 0 marr_vesh 0 kuptoj 0 000 01 + 00 00 | perceptim ( i një ideje apo situate ) mendërisht
+00138037 00 v 03 rrotullohem 0 shkarje 0 rrëshqitje 0 001 @ 00051584 v 0000 01 + 00 00 | një lëvizje në pjerrësi ose tërthor , zakonisht në një mënyrë jo të kontrolluar
+00138217 00 v 01 çaj_përmes 0 001 @ 00115332 v 0000 01 + 00 00 | zakonisht ecje përmes një sipërfaqe ujore
+00138329 00 v 02 i_zënë 0 i_zënë_me_punë 0 000 01 + 00 00 | të jesh i zënë me
+00138415 00 v 03 kokosh 0 kapardisje 0 krekosje 0 001 @ 00115332 v 0000 01 + 00 00 | të ecësh me një kryelartësi ose me fodullitet
+00138550 00 v 02 gërvishtje 0 gërricje 0 001 @ 00049930 v 0000 01 + 00 00 | gërric ose gërvisht në mënyrë të vazhduar
+00138676 00 v 03 lëshoj 0 jap 0 dorëzoj 0 001 @ 00033380 v 0000 01 + 00 00 | dorëzoj ; i nënshtrohem dikujt fizikisht
+00138798 00 v 01 inkurajoj 0 001 @ 00148204 v 0000 01 + 00 00 | I jap zemër e guxim dikujt, e bëj më trim dhe e mbush me besim, e bëj ta ndiejë veten më të sigurt; e gjallëroj dhe e nxit për diçka
+00139005 00 v 01 lidhem 0 002 @ 00179682 v 0000 ~ 00027199 v 0000 01 + 00 00 | themelim i një marrëdhënie
+00139114 00 v 01 shkurtoj 0 002 ! 00095520 v 0000 @ 00143134 v 0000 01 + 00 00 | Ia zvogëloj diçkaje gjatësinë a lartësinë, e bëj më të shkurt;E bëj që të zgjatë më pak, të përfundojë më shpejt, të kryhet në një kohë më të shkurtër
+00139371 00 v 02 përpiqem 0 detyrë 0 000 01 + 00 00 | vendos ato qe përdore
+00139450 00 v 03 përkrah 0 nxis 0 rekomandoj 0 001 @ 00123385 v 0000 01 + 00 00 | shtyj për diçka
+00139551 00 v 03 ngjyrë 0 pikturoj_me_ngjyra_të_ndezura 0 nuancë 0 000 01 + 00 00 | zbukuroj me ngjyra ose lyej me bojë
+00139675 00 v 01 ha 0 002 @ 00123713 v 0000 ~ 00147155 v 0000 01 + 00 00 | ha ushqim ; merr ushqim
+00139774 00 v 02 vonoj 0 ndaloj 0 001 @ 00048944 v 0000 01 + 00 00 | të pengosh diçka ose ta vonosh
+00139876 00 v 02 ekzekutoj_me_varje 0 va 0 001 @ 00181697 v 0000 01 + 00 00 | vrasje me varje
+00139970 00 v 01 datë 0 001 @ 00039141 v 0000 01 + 00 00 | vazhdon ose ecën me kohën
+00140058 00 v 03 valëvitje 0 valë 0 vringëlloj 0 001 @ 00007259 v 0000 01 + 00 00 | lëvizje ose lëkundje para pas
+00140177 00 v 02 udhëtim 0 shëtitje 0 001 @ 00030655 v 0000 01 + 00 00 | marr përsipër një shëtitje ose një eskursion
+00140302 00 v 01 tërheq 0 001 @ 00006190 v 0000 01 + 00 00 | tërheq deri në pritje të rezistencës
+00140405 00 v 03 më_mirë 0 përmirësim 0 përmirësoj 0 004 ! 00095766 v 0000 @ 00166993 v 0000 ~ 00051855 v 0000 ~ 00106143 v 0000 01 + 00 00 | të bëhesh më mirë
+00140575 00 v 02 tregoj 0 shpall 0 002 @ 00028051 v 0000 ~ 00150928 v 0000 01 + 00 00 | të shprehesh shpejt
+00140684 00 v 03 lëkundje 0 marramendje 0 përmbysje 0 001 @ 00115332 v 0000 01 + 00 00 | humbje e kontrollit të lëvizjes gjatë ecjes
+00140822 00 v 02 merr_flakë 0 shkrumboj 0 001 @ 00018040 v 0000 01 + 00 00 | gjendje që sjell djegie
+00140925 00 v 03 gjest 0 bëj_gjeste 0 bëj_shenjë 0 003 @ 00118876 v 0000 ~ 00116366 v 0000 ~ 00085339 v 0000 01 + 00 00 | shfaq , shpreh ose drejtoj nëpërmjet lëvizjes
+00141099 00 v 06 hetoj 0 verifikoj 0 kontrolloj 0 rishikoj 0 shqyrtoj 0 interesohem 0 002 @ 00197513 v 0000 ~ 00074996 v 0000 01 + 00 00 | ekzaminoj kështu që mund të përcaktoj saktësinë , cilësinë dhe kushtet
+00141317 00 v 02 tërheq 0 mbitendosje 0 001 @ 00052398 v 0000 01 + 00 00 | tendosje jonormale
+00141412 00 v 03 shtime 0 ngritje 0 rritje 0 001 @ 00176401 v 0000 01 + 00 00 | të rrisësh nivelin apo shumën e diçkaje
+00141536 00 v 01 ndryshoj_pamjen_e_jashtme 0 003 @ 00100890 v 0000 ~ 00021643 v 0000 ~ 00090678 v 0000 01 + 00 00 | pësoj ndryshime në pamjen e jashtme
+00141690 00 v 01 lëviz_para_mbrapa 0 002 @ 00056928 v 0000 ~ 00102962 v 0000 01 + 00 00 | lëviz në një drejtim ose në një drejtim të kundërt
+00141839 00 v 05 lëviz 0 mbaj 0 zhvillohet 0 vazhdoj 0 përparoj 0 001 @ 00003000 v 0000 01 + 00 00 | vazhdon një aktivitet ose gjendje te caktuar
+00141988 00 v 01 bind 0 002 @ 00148204 v 0000 ~ 00010755 v 0000 01 + 00 00 | bëj që dikush të pranoj një pozicion, besoj apo zgjedh një rrjedhë veprimi ;
+00142148 00 v 02 bëj_rregullim_të_imët 0 përpunoj 0 002 @ 00164306 v 0000 ~ 00038604 v 0000 01 + 00 00 | përmirësoj apo përsos diçka
+00142289 00 v 02 vështrim_ngultas 0 ia_ngul_sytë 0 001 @ 00084148 v 0000 01 + 00 00 | shikoj duke fiksuar sytë
+00142403 00 v 04 pjekuri 0 rritem 0 faza_e_pjekjes 0 maturohem 0 002 @ 00180030 v 0000 ~ 00197072 v 0000 01 + 00 00 | zhvillohem dhe arrij fazën e pjekjes; kaloj maturimin
+00142576 00 v 05 shuhem 0 vdes 0 nxjerr_frymë 0 mbaroj 0 fund 0 004 ! 00066947 v 0000 @ 00166993 v 0000 ~ 00081907 v 0000 ~ 00086341 v 0000 01 + 00 00 | të ikësh nga jeta fizike dhe të humbasësh të gjithë atributet e trupit dhe funksionet e rëndësishëm që mbajnë një jetë gjallë
+00142870 00 v 03 fërkim 0 gërvishtje 0 kruajre 0 001 @ 00106559 v 0000 01 + 00 00 | fërkim ose gërvishtje e cila lehtëson kruarjen
+00143006 00 v 01 palëvizshmëri 0 002 @ 00041386 v 0000 ~ 00094559 v 0000 01 + 00 00 | nuk lëviz ; qëndron në një pozicion
+00143134 00 v 05 zbres 0 pakësoj 0 reduktoj 0 shkurtoj 0 pres 0 002 @ 00119441 v 0000 ~ 00139114 v 0000 01 + 00 00 | bëj një ndëprerje ; një reduktim diku
+00143294 00 v 02 fiksoj 0 zë_vend 0 001 @ 00137566 v 0000 01 + 00 00 | fiksoj në një pozicion , zakonisht në një sipërfaqe ose në një terren
+00143443 00 v 04 nuk_vë_re 0 tejkaloj 0 kaloj 0 shpërfill 0 001 @ 00184095 v 0000 01 + 00 00 | shpërfill , nuk vë re
+00143564 00 v 04 lëndim 0 dëmtim 0 cenoj 0 cënim 0 002 ~ 00167832 v 0000 ~ 00087139 v 0000 01 + 00 00 | lëndim emocionesh
+00143690 00 v 03 rafinoj 0 rivihem 0 përmirësoj 0 001 @ 00157240 v 0000 01 + 00 00 | të sjellurit në një gjendje më të zhvilluar, përmirësuar , rafinuar
+00143852 00 v 03 mbahem 0 mbaj 0 mbaj_ne_kembe 0 001 ~ 00053717 v 0000 01 + 00 00 | mbaj ne nje gjendje te caktuar,pozicion ose aktivitet
+00143990 00 v 02 gjej 0 zbuloj 0 001 @ 00034136 v 0000 01 + 00 00 | bëj një zbulim ose bëj një gjetje të re
+00144103 00 v 01 besoj 0 002 @ 00168187 v 0000 ~ 00127722 v 0000 01 + 00 00 | e pranoj si të vërtetë; e marr si të vërtetë
+00144232 00 v 02 rrotullohem 0 rrotull 0 001 @ 00007259 v 0000 01 + 00 00 | shkaku i lëvizjes rrotull ose në një mënyrë ciklike
+00144365 00 v 01 shkaktoj 0 001 @ 00022029 v 0000 01 + 00 00 | shkaku i një rrjedhje
+00144451 00 v 02 udhëheq 0 ndërmarr 0 002 @ 00029098 v 0000 ~ 00019274 v 0000 01 + 00 00 | ndërmarr një udhëheqje ; ose marr pjesë në një grup
+00144602 00 v 05 ngacmim 0 shpoj 0 goditje 0 nxit 0 trazoj 0 001 @ 00192033 v 0000 01 + 00 00 | ngacmoj ose godas vrazhdët
+00144726 00 v 01 zotëroj 0 001 @ 00183653 v 0000 01 + 00 00 | ka një veti , një njohje ose një dituri
+00144832 00 v 04 ndalem 0 nisem_para 0 prish 0 arrij 0 001 @ 00076279 v 0000 01 + 00 00 | ndalem para diçkaje
+00144943 00 v 03 shpjegoj 0 sqaroj 0 zgjidh 0 001 @ 00164306 v 0000 01 + 00 00 | fiksoj ose saktësoj
+00145045 00 v 02 bashkoj 0 grumbulloj 0 003 ! 00036431 v 0000 @ 00017514 v 0000 ~ 00137251 v 0000 01 + 00 00 | një marrëveshje bashkimi për qëllime të përbashkëta
+00145215 00 v 05 angullim 0 vajtoj 0 qaravitje 0 rënkim 0 grindem 0 001 @ 00038098 v 0000 01 + 00 00 | të qash butësisht
+00145339 00 v 02 gjë_e_blerë 0 blerje 0 005 ! 00115023 v 0000 @ 00055384 v 0000 ;c 00386132 n 0000 * 00029267 v 0000 * 00132451 v 0000 01 + 00 00 | siguroj diçka duke e blerë ; Marr një mall në një dyqan ose marr diçka nga një tjetër, duke e paguar me të holla
+00145611 00 v 03 ndalem 0 ndërpres 0 pushoj 0 001 @ 00036576 v 0000 01 + 00 00 | jap fund
+00145702 00 v 02 do_të_thotë 0 referohem 0 001 @ 00093211 v 0000 01 + 00 00 | merret si kuptim
+00145799 00 v 04 digjet 0 merr_zjarr 0 merr_flakë 0 vë_zjarr 0 001 @ 00166993 v 0000 01 + 00 00 | diçka që digjet shumë shpejt, që merr flakë menjëherë , papandeur
+00145972 00 v 01 fiksoj 0 000 01 + 00 00 | zbukuroj ose furnizoj ose jap diçka të lënë pezull
+00146070 00 v 0a sos_durimin 0 dobësoj_rezistencën 0 punoj_rëndshëm 0 vjetërsohem 0 i_lëshuar 0 telikos 0 mundohem 0 lodhje 0 kapis 0 konsumoj 0 001 @ 00149208 v 0000 01 + 00 00 | i këputur nga lodhja e madhe apo nga stresi
+00146301 00 v 02 kërkesë 0 lutje 0 000 01 + 00 00 | bëj një kërkesë ligjore,
+00146384 00 v 03 shpat 0 pjerrësi 0 tatëpjetë 0 001 @ 00116016 v 0000 01 + 00 00 | jam në një pjerrësi me kënd
+00146502 00 v 02 bilanc 0 baraspeshoj 0 000 01 + 00 00 | e sjell ne balanc ose ne ekuilibër
+00146595 00 v 02 jap 0 dhënie 0 001 @ 00000592 v 0000 01 + 00 00 | jap , zakonisht një çmim
+00146690 00 v 03 shndërroj 0 shkëmbej 0 ndryshoj 0 001 ~ 00016172 v 0000 01 + 00 00 | të jesh ose të bëhesh i ndryshëm në disa raste, pa humbur për një kohë të gjatë karakteristikat thelbësore
+00146896 00 v 05 qellim 0 theksoj 0 objektiv 0 detyrë 0 drejtoj 0 000 01 + 00 00 | te drejtosh diçka drejt disa qëllimeve
+00147021 00 v 01 lëkundje 0 001 @ 00007259 v 0000 01 + 00 00 | lëvizje në një kthesë ose hark, zakonisht me një qëllim suksesi
+00147155 00 v 01 ushqim 0 005 @ 00123713 v 0000 @ 00139675 v 0000 ~ 00098965 v 0000 * 00051212 v 0000 * 00006088 v 0000 01 + 00 00 | te marrësh te njëjtin ushqim rregullisht
+00147331 00 v 03 prish 0 thyej 0 dëmtoj 0 001 @ 00035103 v 0000 01 + 00 00 | të shkatërrosh integritetin e ; zakonisht me forcë; shkakton ndarje në pjesë apo fragmente
+00147505 00 v 03 pilotoj 0 fluturoj_me_avion 0 fluturim 0 003 @ 00036966 v 0000 ;c 00508747 n 0000 * 00132198 v 0000 01 + 00 00 | fluturim me avion
+00147653 00 v 03 lëviz 0 kalim 0 drejtim 0 001 ~ 00049930 v 0000 01 + 00 00 | udhëheqës ose të kalosh mbi diçka
+00147770 00 v 02 kërkesë 0 shpreh 0 002 @ 00131107 v 0000 ;c 00393263 n 0000 01 + 00 00 | bën pyetje
+00147874 00 v 01 dhuron 0 001 @ 00135343 v 0000 01 + 00 00 | i bën një vlerësim
+00147957 00 v 02 kërkoj 0 përdor 0 001 @ 00084991 v 0000 01 + 00 00 | përdor për sipërfaqen
+00148054 00 v 02 shënoj 0 regjistroj 0 004 @ 00039429 v 0000 ~ 00097851 v 0000 ~ 00025373 v 0000 ~ 00125266 v 0000 01 + 00 00 | bëj një regjistrim
+00148204 00 v 03 nxis 0 bëj_të 0 shkaktoj 0 004 ~ 00092877 v 0000 ~ 00141988 v 0000 ~ 00161720 v 0000 ~ 00138798 v 0000 01 + 00 00 | arsye për të vepruar; shkak për të vepruar në një mënyrë specifike
+00148414 00 v 01 shkarje 0 001 @ 00007259 v 0000 01 + 00 00 | lëvizje mbi një sipërfaqe të lëmuar
+00148517 00 v 01 mbetem 0 000 01 + 00 00 | fitoj një ekzistencë
+00148583 00 v 02 diskutoj 0 bind_me_diskutime 0 002 @ 00048094 v 0000 ~ 00180304 v 0000 01 + 00 00 | flas me të tjerë ne lidhje me (diçka); përfshihem në një diskutim
+00148756 00 v 04 përcaktoj 0 gjej 0 zbuloj 0 konstatoj 0 001 ~ 00014027 v 0000 01 + 00 00 | pas një analizë llogaritëse, investiguese apo eksperimentale , ose pas studimit
+00148932 00 v 03 shushurij 0 murmurij 0 fëshfërij 0 001 @ 00159480 v 0000 01 + 00 00 | të flasësh butësisht apo turbullt
+00149058 00 v 04 rrahje 0 dridhmë 0 dridhje 0 rrëqethje 0 001 @ 00088552 v 0000 01 + 00 00 | një dridhje e vrullshme , prej frikës ose emocioneve
+00149208 00 v 01 sëmurë_lehtë 0 004 @ 00117854 v 0000 ~ 00146070 v 0000 ~ 00074118 v 0000 ~ 00183441 v 0000 01 + 00 00 | rast kur nuk ndihesh shumë mirë
+00149366 00 v 02 rrahje 0 goditje 0 001 @ 00056928 v 0000 01 + 00 00 | lëvizje goditëse
+00149456 00 v 06 ngjallem 0 zgjim 0 zgjohem 0 çelen_sytë 0 i_zgjuar_(_nga_gjumi) 0 përmendem 0 002 @ 00166993 v 0000 * 00061343 v 0000 01 + 00 00 | të ndalesh së fjeturi
+00149631 00 v 05 qëlloj 0 përplas 0 ndeshem_me 0 goditje 0 gjuajtje 0 001 ~ 00005617 v 0000 01 + 00 00 | ne pritje për te qëlluar ose një gjuajtje ne befasi
+00149793 00 v 03 qetësim 0 pushim 0 çlodhje 0 002 ! 00176151 v 0000 ~ 00061343 v 0000 01 + 00 00 | të bësh pushim
+00149911 00 v 02 detyroj 0 shtytje 0 005 ! 00006190 v 0000 @ 00007259 v 0000 ~ 00192033 v 0000 * 00056928 v 0000 * 00151246 v 0000 01 + 00 00 | të lëvizësh me forcë
+00150080 00 v 02 reagoj 0 kundërshtoj 0 001 @ 00003000 v 0000 01 + 00 00 | një veprim kundër ose kundërshtoj
+00150193 00 v 06 irritoj 0 rëndoj 0 acaroj 0 i_plas_shpirtin 0 keqësohem 0 ia_sjell_në_majë_të_hundës 0 003 ! 00164306 v 0000 @ 00117854 v 0000 ~ 00106559 v 0000 01 + 00 00 | t&apos;i bësh gjërat keq
+00150401 00 v 02 bashkoj 0 pajtoj 0 001 > 00059628 v 0000 01 + 00 00 | arsyeja e të qendruarit bashkë ose i lidhur
+00150518 00 v 01 meritoj 0 001 @ 00055384 v 0000 01 + 00 00 | marr ose meritoj nga një veprim ose mundi
+00150623 00 v 01 hyrje 0 002 @ 00169530 v 0000 ~ 00173805 v 0000 01 + 00 00 | merr informacion ose rigjen informacione
+00150742 00 v 02 rrethoj 0 mbuloj 0 001 @ 00084991 v 0000 01 + 00 00 | mbështjell plotësisht
+00150837 00 v 01 dridhje 0 001 @ 00006190 v 0000 01 + 00 00 | lëvizje ose një tik nervoz
+00150928 00 v 04 shfaq 0 tregoj 0 shënoj 0 regjistroj 0 001 @ 00140575 v 0000 01 + 00 00 | tregon lexueshmërinë ; të një njësie matëse apo mjeti
+00151080 00 v 03 mbajtje 0 burgos 0 kufizoj 0 002 @ 00197768 v 0000 ~ 00130624 v 0000 01 + 00 00 | ta mbyllesh dhe ta kufizosh nga ambjenti jashtë dhe nga lëvizjet
+00151246 00 v 01 shtypje 0 000 01 + 00 00 | ushtron shtypje ose forcë ose dhunë
+00151328 00 v 01 ushtimë 0 001 @ 00159987 v 0000 01 + 00 00 | të krijosh një muzikë të njëpasnjëshme dhe të shkurtër
+00151454 00 v 01 erë 0 002 @ 00171194 v 0000 ~ 00021372 v 0000 01 + 00 00 | erë jo e mirë
+00151547 00 v 01 shikim 0 002 @ 00121883 v 0000 ~ 00035710 v 0000 01 + 00 00 | të kapësh një pamje ; dallon me sy
+00151664 00 v 03 i_rraskapitur 0 ushqej 0 konsumoj 0 001 @ 00053072 v 0000 01 + 00 00 | konsumim i burimeve ose materiale
+00151786 00 v 02 shkarje 0 rrëshqas 0 001 @ 00184095 v 0000 01 + 00 00 | lëvizje e rezervuar ose e qetë
+00151893 00 v 02 udhëheq 0 drejton 0 001 @ 00012008 v 0000 01 + 00 00 | drejtimi i një projekti ose në krye të një detyrë
+00152021 00 v 02 vazhdoj 0 zgjas 0 001 @ 00095520 v 0000 01 + 00 00 | zgjatje e kohës ,
+00152110 00 v 02 zhvillim 0 krijim 0 013 ~ 00174732 v 0000 ~ 00160998 v 0000 ~ 00181231 v 0000 ~ 00074400 v 0000 ~ 00107966 v 0000 ~ 00097238 v 0000 ~ 00012458 v 0000 ~ 00085207 v 0000 ~ 00029098 v 0000 ~ 00178445 v 0000 ~ 00131400 v 0000 ~ 00114729 v 0000 ~ 00060625 v 0000 01 + 00 00 | zhvillim arsyeja e krijimit ose fillimi i diçkaje
+00152449 00 v 01 nënkuptoj 0 003 @ 00125032 v 0000 ~ 00060385 v 0000 ~ 00057569 v 0000 01 + 00 00 | pretendoj të nënkuptoj
+00152575 00 v 02 pamjaftueshmëri 0 mungesë 0 001 ! 00183653 v 0000 01 + 00 00 | të gjendem pa
+00152672 00 v 04 çohem 0 ngjitem 0 ngritje 0 lartësohem 0 001 @ 00073181 v 0000 01 + 00 00 | të rritesh me këmbët e tua,të ecësh vetë në jetë
+00152824 00 v 03 shkelje_syri 0 kapsit_sytë 0 hap_e_mbyll_sytë 0 001 @ 00187619 v 0000 01 + 00 00 | briefly shut the eyes
+00152948 00 v 04 shpejtoj 0 eci_me_vrull 0 eci_me_shpejtësi 0 nxitoj 0 002 @ 00184095 v 0000 ~ 00004455 v 0000 01 + 00 00 | të lëvizësh shumë shpejt
+00153102 00 v 03 mizëri 0 luzmë 0 gëlon 0 001 @ 00158395 v 0000 01 + 00 00 | Del menjëherë a vërshon një shumicë e madhe njerëzish ose kafshësh, që mblidhen diku dhe lëvizin shpejt, në mënyrë të çrregullt e plot zhurmë.
+00153340 00 v 02 nxehtësi 0 nxeh 0 003 ! 00042741 v 0000 @ 00117854 v 0000 ~ 00035572 v 0000 01 + 00 00 | bëj ngrohtë
+00153461 00 v 03 kërkes 0 përshtat 0 i_përshtatshëm 0 001 @ 00009801 v 0000 01 + 00 00 | Që i plotëson kërkesat për diçka; që është në pajtim me kërkesat ose me një gjendje të caktuar; që vlen a bën për një punë.
+00153695 00 v 02 paguaj_plotësisht 0 shlyej 0 002 @ 00163434 v 0000 ~ 00175634 v 0000 01 + 00 00 | paguaj plotësisht ose shlyej debitet
+00153833 00 v 02 konkludoj 0 gjej_me_mend 0 001 @ 00001511 v 0000 01 + 00 00 | të gjesh saktësisht; të gjesh zgjidhje duke hamendësuar
+00153972 00 v 03 etiketë 0 emërtim 0 tregues 0 001 @ 00109057 v 0000 01 + 00 00 | vë një etiketë ose e emërtoj
+00154089 00 v 03 shndërroj 0 ndryshoj_formën 0 transformoj 0 001 @ 00100890 v 0000 01 + 00 00 | ndryshimi i pamjes së jashtme apo strukturës
+00154234 00 v 02 avullim 0 avulloj 0 001 @ 00018040 v 0000 01 + 00 00 | gjendje e të humburit të sasisë së lëngut nga avullimi duke lënë një tepricë te koncentruar
+00154407 00 v 01 derdhje 0 002 @ 00007259 v 0000 > 00180425 v 0000 01 + 00 00 | për shkak të shpejtësisë
+00154516 00 v 02 kërkëllim 0 kërcëlloj 0 003 @ 00116183 v 0000 ~ 00006088 v 0000 * 00049930 v 0000 01 + 00 00 | bëj kërcëllim ose krijohet një zhurmë duke i fërkuar bashkë
+00154699 00 v 01 kufizoj 0 001 @ 00093785 v 0000 01 + 00 00 | një detyrë nën kontroll ; kufizoj një të drejtë
+00154815 00 v 01 lidh 0 001 @ 00084991 v 0000 01 + 00 00 | kujdesem për veshjen
+00154896 00 v 02 e_gdhendur 0 i_skalitur 0 001 @ 00039760 v 0000 01 + 00 00 | metal ose qelq i sheshtë , me forma , i cli rrotullohet ose shkelet nga një vulë
+00155058 00 v 01 përfshij 0 004 ~ 00195289 v 0000 ~ 00045701 v 0000 ~ 00056637 v 0000 * 00183653 v 0000 01 + 00 00 | të behësh pjesë
+00155195 00 v 03 lëndim 0 vuajtje 0 dhembje 0 003 @ 00102642 v 0000 ~ 00077689 v 0000 > 00059853 v 0000 01 + 00 00 | arsyeja e një vuajtje emocionale ose të ndihesh fatkeq
+00155370 00 v 01 e_lagët 0 002 ! 00105654 v 0000 @ 00117854 v 0000 01 + 00 00 | shkakton lagie
+00155466 00 v 04 shuhem 0 zhdukem 0 largohem 0 zbehem 0 002 ! 00017744 v 0000 ~ 00136614 v 0000 01 + 00 00 | të humbasësh, në veçanti pa shpjegim apo njoftim
+00155628 00 v 02 i_nxjerr_zorrët 0 nxjerr_të_brendshmet 0 001 @ 00022029 v 0000 01 + 00 00 | të heqësh pjesët e brendshme të një organizmi
+00155774 00 v 03 dhimbje 0 lëndim 0 vuaj 0 002 @ 00121883 v 0000 ~ 00063345 v 0000 01 + 00 00 | një ndjenjë fizike vuajtje
+00155900 00 v 05 koncentroj 0 avulloj 0 reduktoj 0 lëng_barishtesh 0 nxjerr_koncentrat 0 001 ;c 00060124 n 0000 01 + 00 00 | gatuhet derisa dhe pjesa më e vogël e lëngut ikën
+00156080 00 v 02 përhapje 0 shpërndaj 0 003 ! 00157887 v 0000 ~ 00018921 v 0000 ~ 00098561 v 0000 01 + 00 00 | shpërndaj ose përhap gjerësisht
+00156228 00 v 03 shpërthej 0 tejkaloj 0 pëlcas 0 001 @ 00069694 v 0000 01 + 00 00 | fuqi e jashtme ose një çlirim i papandehur dhe shpesh një forcë e brendshme shpërthyese
+00156407 00 v 04 lind 0 prodhoj 0 lindje 0 sjell_në_jetë 0 000 01 + 00 00 | Të sjellësh në krijesë në jetë( të sapolindur)
+00156539 00 v 01 nervozoj 0 000 01 + 00 00 | një përkujdesje
+00156602 00 v 03 kanal 0 e_prere 0 brazdë 0 000 01 + 00 00 | një e prerë brenda në një kolonë
+00156702 00 v 02 caktoj 0 vendos 0 001 ~ 00162613 v 0000 01 + 00 00 | caktoj në mënyrë vendimtare ose autoritare
+00156818 00 v 04 prove 0 provoj 0 kampion 0 shije 0 001 @ 00123713 v 0000 01 + 00 00 | marre një mostër për
+00156929 00 v 03 rrethoj 0 mbyll_brenda 0 kufizoj 0 001 @ 00117108 v 0000 01 + 00 00 | rrethoj plotësisht
+00157036 00 v 01 gdhend 0 001 ~ 00175120 v 0000 01 + 00 00 | bëj një gdhendje ose një punim me gdhende ose një prerje
+00157158 00 v 01 ikën 0 001 @ 00170740 v 0000 01 + 00 00 | largohesh gradualisht
+00157240 00 v 02 perfeksionoj 0 perfekte 0 002 @ 00164306 v 0000 ~ 00143690 v 0000 01 + 00 00 | ta bësh te plotë apo perfekte diçka
+00157375 00 v 05 rrudhë 0 zhubër 0 kaçurrel 0 zhubros 0 i_dredhur 0 000 01 + 00 00 | të bësh një zhubrosje ose një rrudhosje mbi një sipërfaqja
+00157528 00 v 02 nuk_pranoj 0 përjashtoj 0 004 ! 00168187 v 0000 @ 00079249 v 0000 ~ 00120997 v 0000 ~ 00055841 v 0000 01 + 00 00 | refuzim i pranimit të diçkaje
+00157693 00 v 02 detyrim 0 faturë 0 002 @ 00008211 v 0000 ~ 00007158 v 0000 01 + 00 00 | një detyrim për tu paguar
+00157811 00 v 01 gjuajtje 0 000 01 + 00 00 | gjuajtje me këmbë ose shkelm
+00157887 00 v 03 grumbulloj 0 mbledh 0 hambar 0 003 ! 00156080 v 0000 ~ 00009691 v 0000 ~ 00074615 v 0000 01 + 00 00 | grumbulloj ose bëj bashkë
+00158034 00 v 05 ngacmoj 0 tund 0 nxit 0 trazoj 0 stimuloj 0 005 ~ 00192504 v 0000 ~ 00084842 v 0000 ~ 00197946 v 0000 ~ 00054989 v 0000 ~ 00077179 v 0000 01 + 00 00 | trazoj ndjenjat , emocionet ose qetësinë
+00158245 00 v 04 konfirmoj 0 pohoj 0 betohem 0 verifikoj 0 000 01 + 00 00 | të deklarosh ose konfirmosh solemnisht dhe formalisht një të vërtetë
+00158395 00 v 03 murmurimë 0 gurgulloj 0 zukat 0 002 @ 00041386 v 0000 ~ 00153102 v 0000 01 + 00 00 | zhurmë e lehtë që krijohet nga
+00158532 00 v 02 mbaj_mend 0 mendje 0 001 @ 00052933 v 0000 01 + 00 00 | ruaj në mendje diçka
+00158628 00 v 04 shtrihem 0 tendos 0 tërheq 0 zgjas 0 001 @ 00188219 v 0000 01 + 00 00 | të tendosësh një gjymtyrë ose muskujt , ose gjithë trupin
+00158781 00 v 02 çoj 0 shkoj 0 001 @ 00188407 v 0000 01 + 00 00 | çoj,përforcoj,jam në gjendje të hyjë
+00158890 00 v 03 përfundoj 0 kompletoj 0 fund 0 002 @ 00036576 v 0000 ~ 00031049 v 0000 01 + 00 00 | çoj deri në fund
+00159011 00 v 02 mpiks 0 ngurtësoj 0 003 ! 00166267 v 0000 @ 00117854 v 0000 > 00102790 v 0000 01 + 00 00 | E bëj më të trashë e si të ngrirë, e trash derisa bëhet si qull (duke e ngrohur a duke e ftohur, duke e përzier me diçka etj.), e lë të ngrijë e të bëhet si pelte (për lëngje të ndryshme);kthej në gjendje të ngurtë
+00159355 00 v 03 paraqes 0 luaj 0 kryej 0 002 @ 00085207 v 0000 ~ 00171085 v 0000 01 + 00 00 | luaj një rol ose një pjesë
+00159480 00 v 04 shqiptoj 0 shpreh 0 flas 0 shpreh_me_fjalë 0 012 @ 00118876 v 0000 ~ 00148932 v 0000 ~ 00190488 v 0000 ~ 00128892 v 0000 ~ 00071764 v 0000 ~ 00024029 v 0000 ~ 00048094 v 0000 ~ 00103639 v 0000 ~ 00017100 v 0000 ~ 00061971 v 0000 ~ 00129880 v 0000 ~ 00072668 v 0000 01 + 00 00 | shprehem me të folur
+00159798 00 v 01 qitje 0 001 @ 00044941 v 0000 01 + 00 00 | një gjuajte me predhë
+00159882 00 v 01 goditje 0 002 @ 00178826 v 0000 ~ 00161222 v 0000 01 + 00 00 | një gjendje pas rrahjes
+00159987 00 v 01 tingëllim 0 018 @ 00081072 v 0000 ~ 00003862 v 0000 ~ 00082923 v 0000 ~ 00116694 v 0000 ~ 00171290 v 0000 ~ 00011871 v 0000 ~ 00102490 v 0000 ~ 00162358 v 0000 ~ 00056059 v 0000 ~ 00094091 v 0000 ~ 00077426 v 0000 ~ 00169675 v 0000 ~ 00075677 v 0000 ~ 00072434 v 0000 ~ 00151328 v 0000 ~ 00195712 v 0000 ~ 00015733 v 0000 ~ 00084575 v 0000 01 + 00 00 | të kjijosh një zhurmë ose një muzikë
+00160400 00 v 02 kthesë 0 përkulje 0 003 @ 00126492 v 0000 ~ 00116016 v 0000 ~ 00076806 v 0000 01 + 00 00 | një formë e lakuar
+00160531 00 v 02 fshij 0 heq 0 001 @ 00013679 v 0000 01 + 00 00 | fshij nga lista
+00160613 00 v 01 derdh 0 001 @ 00008706 v 0000 01 + 00 00 | derdh një sasi të madhe për të ardhmen
+00160716 00 v 02 mësohem 0 ia_bë_zakon 0 001 @ 00117854 v 0000 01 + 00 00 | të përgatitesh shpirtërisht dhe fizikisht për të përdorur diçka
+00160865 00 v 02 kafshoj 0 mbërthej_me_dhëmbë 0 001 @ 00020919 v 0000 01 + 00 00 | mbërthim ose kapje me dhembë ose prej grykë
+00160998 00 v 01 kopje 0 001 @ 00152110 v 0000 01 + 00 00 | të bësh një kopje
+00161079 00 v 04 quaj 0 etiketoj 0 konsideroj 0 prononcoj 0 002 @ 00042238 v 0000 ~ 00056353 v 0000 01 + 00 00 | prononco gjykim në lidhje me
+00161222 00 v 02 farkëtoj 0 goditje 0 001 @ 00159882 v 0000 01 + 00 00 | krijohet nga goditja me çekan
+00161327 00 v 01 jam_në_borxh 0 001 @ 00041386 v 0000 01 + 00 00 | kam lekë borxh
+00161411 00 v 02 nyje 0 fjongo 0 001 @ 00176817 v 0000 01 + 00 00 | lidh ose krijoj një nyje
+00161505 00 v 02 investoj 0 vë 0 001 @ 00053072 v 0000 01 + 00 00 | bën një investim
+00161593 00 v 03 meditoj 0 kam_para_sysh 0 kam_në_mendje 0 001 @ 00190353 v 0000 01 + 00 00 | dua t&apos;i referohem diçkaje
+00161720 00 v 01 detyroj 0 003 @ 00148204 v 0000 ~ 00026072 v 0000 > 00003000 v 0000 01 + 00 00 | detyroj dikë për diçka
+00161844 00 v 03 lulëzim 0 lulëzoj 0 çel 0 001 @ 00180030 v 0000 01 + 00 00 | prodhim ose çelje e lules
+00161952 00 v 04 komunikim 0 prek 0 lidhje 0 prekje 0 004 ~ 00019163 v 0000 ~ 00099669 v 0000 ~ 00117108 v 0000 ~ 00134953 v 0000 01 + 00 00 | te kesh një kontakt fizik
+00162122 00 v 02 lëvizje 0 cek 0 001 @ 00056928 v 0000 01 + 00 00 | lëvizje mespërmes ose sipër
+00162222 00 v 02 marr 0 pranoj 0 002 @ 00055384 v 0000 ~ 00099065 v 0000 01 + 00 00 | marr ose pranoj diçka të dhuruar ose të ofruar
+00162358 00 v 02 lëkundje 0 tingullues 0 001 @ 00159987 v 0000 01 + 00 00 | muzikë me rezonancë ose tingullues
+00162472 00 v 05 progres 0 eci 0 përparoj 0 arrij 0 avancoj 0 001 @ 00180030 v 0000 01 + 00 00 | të zhvillohesh në një drejtim pozitivë
+00162613 00 v 02 përcaktoj_qartë 0 identifikoj 0 002 @ 00156702 v 0000 ~ 00039594 v 0000 01 + 00 00 | Vë shenjën e barazimit të plotë midis dy gjërave, i përqas dhe i quaj të njëjta, njëjtësoj
+00162818 00 v 03 punoj_rëndshëm 0 punë_e_rëndë 0 mundohem 0 001 @ 00026908 v 0000 01 + 00 00 | punë e rëndë
+00162934 00 v 04 hibridizim 0 hibrid 0 kryqëzoj 0 shartim 0 001 @ 00020609 v 0000 01 + 00 00 | rrit kafshë ose lule qe përdoren për hibrid nga raca të tjera dhe për shumëllojshmëri
+00163123 00 v 06 pasoj 0 çoj_përpara 0 zhvillim 0 avancim 0 përparim 0 përparoj 0 003 @ 00184095 v 0000 ~ 00089095 v 0000 ~ 00129157 v 0000 01 + 00 00 | një lëvizje e përparuar , zakonisht në një kuptim metaforik
+00163345 00 v 03 trilloj 0 pretendoj 0 bëj_sikur 0 000 01 + 00 00 | bën një pretendim
+00163434 00 v 02 pagesë 0 paguaj 0 001 ~ 00153695 v 0000 01 + 00 00 | prish ose jep borxh
+00163525 00 v 01 këpus 0 001 @ 00022029 v 0000 01 + 00 00 | ta ndash në pjesëza të vogla
+00163618 00 v 03 ngjitem 0 lidh 0 ngjit 0 001 @ 00004609 v 0000 01 + 00 00 | ngjit me vendosmëri
+00163716 00 v 02 tipizoj 0 karakteristike 0 001 @ 00170288 v 0000 01 + 00 00 | karakteristikë e
+00163813 00 v 03 përzjerje 0 përzihem 0 trazoj 0 001 @ 00195104 v 0000 01 + 00 00 | të përzihesh sëbashku
+00163924 00 v 02 i_lejoj_vetes 0 guxim 0 001 @ 00003000 v 0000 01 + 00 00 | marr ose është një akt të cilin guxoj dhe pa leje
+00164054 00 v 03 besoj 0 besim 0 i_lë_në_mirëbesim 0 002 @ 00014519 v 0000 ~ 00124556 v 0000 01 + 00 00 | diskutoj me mirëbesim
+00164186 00 v 02 fiksoj 0 stabilizoj 0 002 @ 00100890 v 0000 ~ 00123544 v 0000 01 + 00 00 | të bëhesh i qëndrueshëm
+00164306 00 v 04 rregulloj 0 përmirësim 0 ndryshoj 0 përmirësoj 0 009 ! 00150193 v 0000 @ 00117854 v 0000 ~ 00049742 v 0000 ~ 00142148 v 0000 ~ 00157240 v 0000 ~ 00097707 v 0000 ~ 00004106 v 0000 ~ 00144943 v 0000 > 00140405 v 0000 01 + 00 00 | t&apos;i bësh më mirë gjërat
+00164588 00 v 08 meditoj 0 reflektoj 0 bluaj_në_mend 0 vras_mendjen 0 arsyetoj 0 mendoj 0 bie_në_mendime 0 sajoj 0 002 @ 00024954 v 0000 ~ 00108099 v 0000 01 + 00 00 | reflektim i thellë mbi një subjekt të caktuar
+00164807 00 v 03 pastërti 0 kujdes_estetik 0 i_bërë_mirë 0 003 @ 00097707 v 0000 ~ 00013309 v 0000 ~ 00103732 v 0000 01 + 00 00 | të kujdesesh për aparencën e jashtme
+00164981 00 v 06 bredh 0 udhëtim 0 endje 0 bredharak 0 arrakat 0 përçartje 0 001 @ 00184095 v 0000 01 + 00 00 | një lëvizje e paqëllimshme ose pa asnjë drejtim në kërkim të bukës ose punës
+00165182 00 v 01 digjem 0 001 @ 00126826 v 0000 01 + 00 00 | të ndjesh një emocion të fortë , kryesisht inat ose pasion
+00165306 00 v 04 shkarkoj 0 zhbllokim 0 heq 0 nxjerr_jashtë 0 000 01 + 00 00 | eliminim (i substancave) nga trupi
+00165421 00 v 02 lind 0 rrit 0 001 @ 00029098 v 0000 01 + 00 00 | shkaktoj
+00165496 00 v 04 orientim 0 manovër 0 udhërrëfyes 0 drejtim 0 002 @ 00197249 v 0000 ~ 00117268 v 0000 01 + 00 00 | një drejtim rruge ; një përkufizim i drejtimit në udhëtim
+00165677 00 v 04 caktoj 0 vendos 0 ujdis 0 bëhem_gati 0 001 @ 00117854 v 0000 01 + 00 00 | përgatis apo sistemoj diçka për të arritur një qëllim të caktuar .
+00165843 00 v 01 mundësi 0 005 @ 00179682 v 0000 ~ 00178101 v 0000 ~ 00043787 v 0000 ~ 00035469 v 0000 ~ 00042349 v 0000 01 + 00 00 | bashkëveprim në një mënyrë
+00166010 00 v 04 zbritje 0 pësoj_rënie 0 ulem 0 rënie 0 006 ! 00088368 v 0000 @ 00184095 v 0000 ~ 00031639 v 0000 ~ 00009578 v 0000 ~ 00068338 v 0000 ~ 00125188 v 0000 01 + 00 00 | lëvizje në rënie ose në venitje por jo e rëndësishme në distancë
+00166267 00 v 02 liroj 0 ngadalësoj 0 003 ! 00159011 v 0000 @ 00117854 v 0000 ~ 00171821 v 0000 01 + 00 00 | të lirosh apo ngadalësosh
+00166405 00 v 02 ambalazh 0 mbështjell 0 001 @ 00084991 v 0000 01 + 00 00 | rregulloj ose mbështjell me kapak ose e mbron
+00166529 00 v 02 kërcitje 0 kërcas 0 001 @ 00094091 v 0000 01 + 00 00 | të bësh zhurmë kërcitëse
+00166633 00 v 02 ushqim 0 ushqim_per_kafshët 0 001 @ 00123713 v 0000 01 + 00 00 | ushqim vetëm për kafshët
+00166744 00 v 03 fushëgropë 0 gërmoj 0 bëj_gërmime 0 001 @ 00022029 v 0000 01 + 00 00 | të lëvizësh një pjesë të brendshme
+00166878 00 v 02 grisje 0 gërrisje 0 001 @ 00072885 v 0000 01 + 00 00 | veçim ose arsyeja e ndarjes me njëherë
+00166993 00 v 03 kthehem 0 kaloj 0 ndryshoj_gjendje 0 020 @ 00100890 v 0000 ~ 00170740 v 0000 ~ 00112811 v 0000 ~ 00191744 v 0000 ~ 00040482 v 0000 ~ 00002779 v 0000 ~ 00145799 v 0000 ~ 00113694 v 0000 ~ 00142576 v 0000 ~ 00089984 v 0000 ~ 00095766 v 0000 ~ 00098017 v 0000 ~ 00099882 v 0000 ~ 00149456 v 0000 ~ 00183777 v 0000 ~ 00066947 v 0000 ~ 00140405 v 0000 ~ 00129620 v 0000 ~ 00112421 v 0000 ~ 00107245 v 0000 01 + 00 00 | të kalosh një transformim ose një ndryshim vendodhjeje apo veprimi
+00167494 00 v 02 nxjerr_nga_vendi 0 përdredh 0 001 @ 00007259 v 0000 01 + 00 00 | të dalësh jashtë pozicionit
+00167608 00 v 01 tymosje 0 001 @ 00123713 v 0000 01 + 00 00 | thithja dhe nxjerrja e tymit nga cigaret ;purot
+00167718 00 v 01 kërkim 0 002 @ 00070165 v 0000 ~ 00004933 v 0000 01 + 00 00 | çeshtje për të bërë kërkime
+00167832 00 v 02 fyej 0 ofendoj 0 001 @ 00143564 v 0000 01 + 00 00 | trajtoj , apo shprehem apo flas tepër me ashpërsi
+00167953 00 v 02 shtjelloj 0 shpjegoj 0 001 @ 00028051 v 0000 01 + 00 00 | e bëj të qartë dhe të kuptueshëm
+00168066 00 v 03 ngjyrë 0 bojë 0 lyej 0 001 @ 00061199 v 0000 01 + 00 00 | kërkoj të lyej ; lyej kanalin me vaj liri
+00168187 00 v 01 pranoj 0 003 ! 00157528 v 0000 @ 00079249 v 0000 ~ 00144103 v 0000 01 + 00 00 | e konsideroj ose e mbaj si të vërtetë
+00168325 00 v 01 vallëzim 0 001 @ 00056928 v 0000 01 + 00 00 | një lëvizje e hijshme dhe në mënyrë ritmike
+00168438 00 v 03 përçoj 0 bart 0 shpreh 0 002 @ 00118876 v 0000 ~ 00076955 v 0000 01 + 00 00 | shërben si mjet për të shprehur diçka
+00168577 00 v 03 shkarje 0 përmbysem 0 dobësim 0 001 @ 00095766 v 0000 01 + 00 00 | keqësohet
+00168674 00 v 04 bisedoj 0 them 0 flas 0 muhabet 0 001 @ 00118876 v 0000 01 + 00 00 | përdor gjuhë të foluri
+00168786 00 v 03 vë_në_vijë 0 qetësoj 0 stabilizoj 0 001 @ 00067525 v 0000 01 + 00 00 | përfundimi i një diskutimi legal duk e arritur në një gjendje të stabilizuar
+00168960 00 v 02 lëvizje_e_ngadaltë 0 lëvizje_e_pandërprerë 0 001 @ 00056928 v 0000 01 + 00 00 | lëvizje e pandërprerë , e lehtë, një lëvizje rrëshqitëse
+00169127 00 v 02 hap 0 rul 0 001 @ 00071882 v 0000 01 + 00 00 | rrafshoj ose hap me rul
+00169215 00 v 02 përkrah 0 mbroj 0 001 @ 00060204 v 0000 01 + 00 00 | ti paraprihesh një rreziku , një demtimi , një shkatërrim ,
+00169350 00 v 02 kapje 0 shtrëngim 0 005 @ 00098839 v 0000 ~ 00127492 v 0000 ~ 00020919 v 0000 ~ 00091362 v 0000 ~ 00007962 v 0000 01 + 00 00 | e mbaj të kapur fort ose rrëmbej
+00169530 00 v 04 rifitoj 0 rimarr 0 rigjej 0 gjetje 0 002 @ 00055384 v 0000 ~ 00150623 v 0000 01 + 00 00 | marr ; ose e rigjej për ta përdorur
+00169675 00 v 02 fishkëllim 0 kërcitje 0 001 @ 00159987 v 0000 01 + 00 00 | zhurma e një makine kur ndizet shpejtë
+00169794 00 v 01 dëshiroj 0 001 @ 00077811 v 0000 01 + 00 00 | ndjenjë ose një pasqyrë dëshirash ose një shpresë përsa i përket të ardhmes
+00169943 00 v 01 dëgjoj 0 002 @ 00121883 v 0000 ~ 00104501 v 0000 01 + 00 00 | të përceptosh zhurma në kuptimin dëgjimor
+00170069 00 v 02 zukat 0 këndoj_nën_zë 0 001 @ 00128892 v 0000 01 + 00 00 | këndoj me buzë mbyllur
+00170173 00 v 03 përgatit 0 gatuaj 0 bëj 0 002 @ 00181231 v 0000 ~ 00182794 v 0000 01 + 00 00 | përgatit ushqim
+00170288 00 v 03 veçoj 0 dalloj 0 bëj_diferencim 0 002 @ 00120789 v 0000 ~ 00163716 v 0000 01 + 00 00 | të jesh një model , atribut apo tipar i dallueshëm
+00170448 00 v 01 humbas 0 002 ! 00088955 v 0000 ~ 00089770 v 0000 01 + 00 00 | humb një zotërim ose pronë
+00170557 00 v 03 koordinoj 0 njëtrajtshmëri 0 barazoj 0 001 @ 00117854 v 0000 01 + 00 00 | t&apos;i bësh të barabarta, të njëtrajtshme, korresponduese evë shenjën e barazimit
+00170740 00 v 02 zbrazje 0 boshatis 0 003 ! 00112811 v 0000 @ 00166993 v 0000 ~ 00157158 v 0000 01 + 00 00 | diçka që kthehet e boshatisur apo e zbrasur prej përmbajtjes së saj
+00170921 00 v 04 eksperiment 0 rezulton 0 provoj 0 ekzaminoj 0 001 @ 00079249 v 0000 01 + 00 00 | vendos për ta eksperimentuar ,për cilësinë ose për përdorim
+00171085 00 v 02 interpreton 0 bëhem_si 0 001 @ 00159355 v 0000 01 + 00 00 | pretendoj ose luaj një vepër
+00171194 00 v 01 nuhas 0 002 @ 00081072 v 0000 ~ 00151454 v 0000 01 + 00 00 | emëtoj një erë
+00171290 00 v 01 shushurimë 0 001 @ 00159987 v 0000 01 + 00 00 | krijimi i një muzikë me kërcëllima ose shushuritje
+00171411 00 v 02 njoftoj_paraprakisht 0 paralajmëroj 0 002 @ 00028051 v 0000 ~ 00001088 v 0000 01 + 00 00 | njoftoj për rrezik , apo e keqe e madhe
+00171561 00 v 02 influencë 0 ndikim 0 003 @ 00037106 v 0000 ~ 00093436 v 0000 ~ 00134170 v 0000 01 + 00 00 | bën një përpjekje për të influencuar ose për një rezultat
+00171736 00 v 01 ngricë 0 000 01 + 00 00 | kohë e ftohtë në të cilën ngrin uji
+00171821 00 v 01 zhvidhos 0 001 @ 00166267 v 0000 01 + 00 00 | liroj diçka duke e zhvidhosur
+00171915 00 v 03 dërgoj 0 transportoj 0 mbart 0 002 @ 00007259 v 0000 ~ 00113575 v 0000 01 + 00 00 | transport nga ana tregtare
+00172044 00 v 02 përshkruaj 0 raportoj 0 001 @ 00028051 v 0000 01 + 00 00 | të japësh një relacion apo prezantim me fjalë
+00172171 00 v 03 përndaj 0 pasoj 0 qarkulloj 0 002 @ 00007259 v 0000 ~ 00133928 v 0000 01 + 00 00 | shkaku i shpërndarjes
+00172295 00 v 03 kallëzoj 0 rrëfej 0 tregoj 0 001 @ 00028051 v 0000 01 + 00 00 | rrëfej ose jap me detaje një ngjarje
+00172417 00 v 05 vlere 0 numër 0 shumë 0 shtoj 0 vij 0 001 @ 00041386 v 0000 01 + 00 00 | shtoj vleren
+00172522 00 v 01 vizatim 0 001 ;c 00333111 n 0000 01 + 00 00 | një prezantim me anë të vizatimit mbi një sipërfaqe me laps ose me penel ose me shkumës
+00172679 00 v 01 krahasoj 0 001 @ 00197513 v 0000 01 + 00 00 | ekzaminoj dhe vë re ngjashmërite si dhe ndryshimet ndërmjet objekteve apo personave
+00172829 00 v 01 ledhatim 0 002 @ 00111701 v 0000 ~ 00090572 v 0000 01 + 00 00 | një prekje ose një ledhatim ne shenjë dashurie
+00172960 00 v 03 zhdëmtoj 0 kompesoj 0 dëmshpërblej 0 001 @ 00029267 v 0000 01 + 00 00 | bëj një kompesim për ; paguaj për të zhdëmtim
+00173104 00 v 02 njoh 0 prezantoj 0 001 @ 00028051 v 0000 01 + 00 00 | Bëj të njohur dikë me një tjetër të pranishëm a me një rreth shoqëror, duke thënë emrin e tij, profesionin, detyrën etj.; e njoh dikë me një tjetër për herë të parë
+00173359 00 v 02 ftoj 0 ofroj 0 001 ~ 00078093 v 0000 01 + 00 00 | kërkoj tek dikush në mënyrë miqësore të bëj diç
+00173482 00 v 02 grumbullohen 0 mblidhen 0 001 ~ 00130256 v 0000 01 + 00 00 | grumbulloj sëbashku një numër të madh
+00173602 00 v 02 drithmë 0 rrëqethje 0 001 @ 00079543 v 0000 01 + 00 00 | të dridhesh , nga të ftohtit
+00173709 00 v 02 rrah 0 përplasje 0 001 @ 00007259 v 0000 01 + 00 00 | një lëvizje goditëse
+00173805 00 v 01 hyrje 0 001 @ 00150623 v 0000 01 + 00 00 | hyrje në një kompjuter
+00173890 00 v 02 autorizoj 0 lejoj 0 001 @ 00114855 v 0000 01 + 00 00 | lënie e autorizimit
+00173983 00 v 01 shpresë_suksesi 0 001 @ 00041386 v 0000 01 + 00 00 | Besimi që kemi se do të na plotësohet një dëshirë, një qëllim a një synim; qëndrimi në pritje me një besim të tillë; ndjenja që kemi kur e shohim si të mundshme përmbushjen e një dëshire a arritjen e një qëllimi
+00174287 00 v 02 inatosem 0 inat 0 001 @ 00126826 v 0000 01 + 00 00 | bëhem me inat
+00174372 00 v 02 reagoj 0 përgjigjem 0 001 @ 00091743 v 0000 01 + 00 00 | kthej përgjigje
+00174464 00 v 01 banoj 0 001 @ 00186027 v 0000 01 + 00 00 | ekzistenca e një aktiviteti të brendshëm shpirtëror , forcë ose principe
+00174602 00 v 03 vishu 0 veshje_për_pritje 0 rrobë 0 003 @ 00100890 v 0000 ~ 00129770 v 0000 ~ 00034005 v 0000 01 + 00 00 |    
+00174732 00 v 01 përgatit 0 001 @ 00152110 v 0000 01 + 00 00 | të përgatitesh gojarisht , për më tepër të përgatitesh atë që është shkruar
+00174883 00 v 02 lajmëroj 0 shpall 0 001 @ 00135737 v 0000 01 + 00 00 | shpallje si rezultat i një investigimi Bëj të njohur botërisht e në mënyrë solemne diçka shumë të rëndësishme (zakonisht me anë të një akti zyrtar).
+00175120 00 v 03 gërvin 0 gërvishje 0 zdërvitje 0 001 @ 00157036 v 0000 01 + 00 00 | të presësh një sipërfaqe ; grihet sipërfaqja
+00175258 00 v 02 i_barabarte 0 jam 0 001 ~ 00060854 v 0000 01 + 00 00 | jan identike ose i njëjtë
+00175358 00 v 02 shkopsit 0 zbërthej 0 000 01 + 00 00 | shkopsit kopsën ose zbërthej
+00175446 00 v 01 përfshij 0 002 @ 00047339 v 0000 ;c 00276367 n 0000 01 + 00 00 | të shtohesh si pjesë e diçkaje tjetër; paraqitet si pjesë e një bashkësie , grupi , apo kategorie
+00175634 00 v 01 amortizoj 0 001 @ 00153695 v 0000 01 + 00 00 | shlyej ngadalë
+00175714 00 v 02 ngurtësoj 0 ngrij 0 003 @ 00018040 v 0000 ~ 00006988 v 0000 ;c 00350343 n 0000 01 + 00 00 | kthej në gjendje të ngurtë ; e bëj të ngurtë
+00175875 00 v 03 shpërndaj 0 drejtoj 0 administroj 0 000 01 + 00 00 | të japësh ose të aplikosh(antibiotikë)
+00175989 00 v 02 pengesë 0 autostop 0 001 @ 00081634 v 0000 01 + 00 00 | të udhëtosh pa pagesë duke u transportuar nga ndonjë makinë që ndalon rastësisht
+00176151 00 v 02 të_jesh_aktiv 0 lëvizje 0 001 ! 00149793 v 0000 01 + 00 00 | të qënurit në gjendje veprimi
+00176264 00 v 04 përfundoj 0 vë_në_vijë 0 vendos 0 shtie_në_dorë 0 001 @ 00036576 v 0000 01 + 00 00 | i jap formë përfundimtare;
+00176401 00 v 03 zmadhoj 0 shtoj 0 rritje 0 004 ! 00119441 v 0000 @ 00117854 v 0000 ~ 00095520 v 0000 ~ 00141412 v 0000 01 + 00 00 | t&apos;i rrisësh apo zgjerosh gjërat
+00176573 00 v 03 interpretoj 0 përshkruaj 0 ilustroj 0 001 ;c 00333111 n 0000 01 + 00 00 | bëj një përshkrim
+00176686 00 v 02 kthej_faqe 0 përmbys 0 001 @ 00062750 v 0000 01 + 00 00 | kthen në pozicion të drejtë ose në pozicion normal
+00176817 00 v 02 fiksoj 0 lidh 0 003 ! 00059405 v 0000 @ 00011253 v 0000 ~ 00161411 v 0000 01 + 00 00 | lidh ose fiksoj diçka mirë ose fiksoj një korde ose fill
+00176981 00 v 04 shkruaj 0 kompozoj 0 shpreh_me_fjalë 0 aftësi_për_të_shkruar 0 001 @ 00012458 v 0000 01 + 00 00 | krijimi i një pune letrare
+00177128 00 v 02 shkaktoj_humbje 0 dështoj 0 000 01 + 00 00 | shkaktoj humbje nga ana monetare në biznes
+00177235 00 v 03 mashtrues 0 grabit 0 ia_hedh 0 002 @ 00119795 v 0000 * 00110021 v 0000 01 + 00 00 | i grabit diçka dikujt duke e mashtruar
+00177376 00 v 02 caktoj 0 fiksoj 0 002 @ 00067525 v 0000 ~ 00012240 v 0000 01 + 00 00 | bëj një plan
+00177479 00 v 02 lëkundje 0 shkund 0 002 @ 00056928 v 0000 ~ 00088552 v 0000 01 + 00 00 | lëvizja ose shkaku i lëvizjes para mbrapa
+00177614 00 v 02 luaj_kumar 0 bast 0 001 @ 00050422 v 0000 01 + 00 00 | dalja e rezultatit te një ceshtje
+00177721 00 v 02 ngul_këmbë 0 insistoj 0 001 ~ 00027007 v 0000 01 + 00 00 | mbaj një qëndrim të vendosur dhe refuzoj të lëkundem prej atij qëndrimi
+00177877 00 v 01 tërheq 0 001 @ 00137353 v 0000 01 + 00 00 | lëviz ose shty deri
+00177960 00 v 04 parathënie 0 përmend_paraprak 0 paraprij 0 hyrje 0 001 @ 00091743 v 0000 01 + 00 00 | pajis me një hyrje apo parathënie
+00178101 00 v 04 i_shkoj_pas_qejfit 0 njëri_i_përkëdhelur 0 kanakar 0 llastoj 0 001 @ 00165843 v 0000 01 + 00 00 | një sjellje shumë e tepruar ; i shkoj pas qejfit
+00178270 00 v 04 dëshirë_e_ethshme 0 dëshirë 0 dëshirë_e_forte 0 vdes_nga_dëshira 0 001 @ 00077811 v 0000 01 + 00 00 | kam dëshirë, vdes urie, ose kam dëshirë për
+00178445 00 v 02 shkaktoj 0 krijoj 0 001 @ 00152110 v 0000 01 + 00 00 | e bën të mundur
+00178535 00 v 01 gënjej 0 001 @ 00019676 v 0000 01 + 00 00 | them jo të vërtetën;
+00178621 00 v 03 hetoj 0 kërkoj 0 investigoj 0 000 01 + 00 00 | drejtoj një kërkim
+00178707 00 v 04 tallës 0 qesharak 0 bëj_shaka 0 vë_në_lojë 0 001 @ 00043787 v 0000 01 + 00 00 | subjekt qesharak
+00178826 00 v 03 kallëp 0 model 0 formë 0 005 @ 00181231 v 0000 ~ 00189843 v 0000 ~ 00130948 v 0000 ~ 00024832 v 0000 ~ 00159882 v 0000 01 + 00 00 | bëj diçka ; zakonisht një funksion specifik
+00179024 00 v 02 trajnoj 0 stërvit 0 001 @ 00180579 v 0000 01 + 00 00 | jap mësim dhe mbikqyr (dikë); të veprosh si një trajnues , si në sport
+00179173 00 v 04 shpenzoj 0 harxhoj 0 shpërdoroj 0 mallra 0 002 @ 00053072 v 0000 ~ 00191318 v 0000 01 + 00 00 | shpenzim i pa menduar
+00179309 00 v 03 lë 0 lëshoj 0 jap 0 002 @ 00067525 v 0000 ~ 00186549 v 0000 01 + 00 00 | të jesh i gatshëm të japësh
+00179433 00 v 02 festë 0 kremtoj 0 002 @ 00065153 v 0000 ~ 00122344 v 0000 01 + 00 00 |    
+00179526 00 v 04 përmbaj 0 ka_të_bëj 0 shtjelloj 0 përfshij 0 001 @ 00180304 v 0000 01 + 00 00 | merrem vesh me gojë apo me disa mënyra të shprehuri
+00179682 00 v 01 bashkëveproj 0 007 @ 00003000 v 0000 ~ 00118876 v 0000 ~ 00078982 v 0000 ~ 00139005 v 0000 ~ 00165843 v 0000 ~ 00095658 v 0000 ~ 00115816 v 0000 01 + 00 00 | të veprosh me të tjerët ose për të tjerët
+00179906 00 v 03 kam_ndër_mend 0 mendoj 0 nënkuptoj 0 001 ~ 00063204 v 0000 01 + 00 00 | të kesh në mendje një qëllim
+00180030 00 v 02 zhvillim 0 rritje 0 006 @ 00136300 v 0000 ~ 00142403 v 0000 ~ 00162472 v 0000 ~ 00051118 v 0000 ~ 00161844 v 0000 ~ 00010616 v 0000 01 + 00 00 | rritje , progres, ose evolim përmes një proçesi evolucionar , rritje natyrale në një mjedis të favorshëm
+00180304 00 v 02 filloj 0 nis 0 002 @ 00148583 v 0000 ~ 00179526 v 0000 01 + 00 00 | filloj një çështje për diskutim
+00180425 00 v 04 rrjedhë 0 furnizoj 0 derdh 0 drejtim 0 003 @ 00056928 v 0000 ~ 00129363 v 0000 ~ 00096071 v 0000 01 + 00 00 | eci gjatë , i lëngshëm
+00180579 00 v 03 jap_mësim 0 instruktoj 0 mësoj 0 004 @ 00028051 v 0000 ~ 00024463 v 0000 ~ 00179024 v 0000 ~ 00026659 v 0000 01 + 00 00 | jap aftësi ose njohuri
+00180744 00 v 02 përgatit 0 bëj 0 001 @ 00064655 v 0000 01 + 00 00 | vë rregull ose sistemoj
+00180840 00 v 02 disponoj 0 shfaqet 0 003 @ 00184095 v 0000 ~ 00037910 v 0000 ~ 00068191 v 0000 01 + 00 00 | lëviz në drejtim të , udhëton në drejtim të dikujt ose të diçkaje ose një avitje
+00181039 00 v 02 kërkesë 0 kërkoj 0 000 01 + 00 00 | shtim ose rritje e mundësisë
+00181126 00 v 02 përsëritet 0 rishfaqet 0 001 @ 00018325 v 0000 01 + 00 00 | ndodh apo shfaqet sërish
+00181231 00 v 01 prodhim_nga_lënda_e_parë 0 003 @ 00152110 v 0000 ~ 00178826 v 0000 ~ 00170173 v 0000 01 + 00 00 | prodhoj nga një pikënisje
+00181376 00 v 01 zemërim 0 002 ~ 00082536 v 0000 > 00174287 v 0000 01 + 00 00 | je me inat
+00181468 00 v 05 kërkim_i_ngathët 0 punë_e_dobët 0 katranosje 0 qullos 0 ngathtësi 0 000 01 + 00 00 | ngatërroj , shkatërroj ose prish
+00181610 00 v 02 nxjerr_përfundime 0 përfundoj 0 000 01 + 00 00 | nxjerr përfundime
+00181697 00 v 01 ekzekutoj 0 003 @ 00044941 v 0000 @ 00102082 v 0000 ~ 00139876 v 0000 01 + 00 00 | një dënim me vrasje e cila jepet nga një juri
+00181846 00 v 01 limoj 0 002 @ 00090678 v 0000 * 00049930 v 0000 01 + 00 00 | lëmoj me limë
+00181940 00 v 02 kontriboj 0 ndërtoj 0 001 @ 00029267 v 0000 01 + 00 00 | siguroj
+00182023 00 v 02 ftoj 0 kërkoj 0 000 01 + 00 00 | kërkoj pjesëmarrjen apo prezencën e
+00182113 00 v 01 kaloj 0 001 @ 00100890 v 0000 01 + 00 00 | të ndryshosh nga një nivel në një tjetër
+00182219 00 v 03 hetoj 0 pyes 0 kërkoj_të_marr_vesh 0 002 @ 00118876 v 0000 ~ 00028698 v 0000 01 + 00 00 | pyes rreth diçkaje
+00182348 00 v 03 çmoj 0 caktoj_shumën 0 vlerësoj 0 002 @ 00079249 v 0000 ~ 00110213 v 0000 01 + 00 00 | vendos një vlerë; gjykon vlerën e diçkaje
+00182501 00 v 03 procedo 0 veprim 0 vepro 0 001 @ 00003000 v 0000 01 + 00 00 | ndjek një procedurë ose një kurs ose një veprim
+00182632 00 v 04 paraqitje_e_jashtme 0 veshtrim 0 pamje 0 shikim 0 001 @ 00041386 v 0000 01 + 00 00 | të shfaqësh një shprehje emocionale nëpërmjet fytyrës
+00182794 00 v 02 konservoj 0 ruaj 0 002 @ 00170173 v 0000 ~ 00025714 v 0000 01 + 00 00 | mbrojtje ( ushqimi) nga të kalburit
+00182920 00 v 03 pozicion 0 ulem 0 çlodhje 0 001 @ 00137566 v 0000 01 + 00 00 | qëndroj në pozicion horizontal
+00183034 00 v 01 shpenzim 0 001 @ 00053072 v 0000 01 + 00 00 | një shpenzim i tepruar ose prish shumë
+00183138 00 v 02 dhuroj 0 jap 0 001 @ 00072760 v 0000 01 + 00 00 | jap një bazë me cilësi ose me merit
+00183244 00 v 04 shoh 0 konsideroj 0 shqyrtoj 0 mendoj 0 006 @ 00006373 v 0000 ~ 00002138 v 0000 ~ 00131612 v 0000 ~ 00046016 v 0000 ~ 00132862 v 0000 ~ 00076539 v 0000 01 + 00 00 | jam i mendimit
+00183441 00 v 01 Lëndim 0 002 @ 00149208 v 0000 ~ 00052398 v 0000 01 + 00 00 | të jep shqetësim ose dhimbje
+00183552 00 v 03 qëlloj 0 goditje 0 bërthamë 0 001 @ 00052398 v 0000 01 + 00 00 | goditje me arme
+00183653 00 v 02 mban 0 përmban 0 003 ! 00152575 v 0000 ~ 00144726 v 0000 ~ 00063077 v 0000 01 + 00 00 | ka në përbërje
+00183777 00 v 02 mbyll 0 i_mbyllur 0 002 ! 00089984 v 0000 @ 00166993 v 0000 01 + 00 00 | të jetë mbyllur
+00183885 00 v 01 shpreh_me_fjalë 0 005 ~ 00091743 v 0000 ~ 00035205 v 0000 ~ 00136520 v 0000 ~ 00074815 v 0000 ~ 00198603 v 0000 01 + 00 00 | artikuloj; si gojarisht dhe me të qara, gërthitje , ose uturimë
+00184095 00 v 04 udhëtim 0 lëvizje 0 largohesh 0 zhvendosje 0 031 ~ 00068992 v 0000 ~ 00124016 v 0000 ~ 00092086 v 0000 ~ 00075906 v 0000 ~ 00151786 v 0000 ~ 00075440 v 0000 ~ 00038757 v 0000 ~ 00166010 v 0000 ~ 00016737 v 0000 ~ 00051584 v 0000 ~ 00058597 v 0000 ~ 00180840 v 0000 ~ 00037662 v 0000 ~ 00053794 v 0000 ~ 00115332 v 0000 ~ 00096747 v 0000 ~ 00052167 v 0000 ~ 00164981 v 0000 ~ 00088368 v 0000 ~ 00048512 v 0000 ~ 00132198 v 0000 ~ 00068839 v 0000 ~ 00143443 v 0000 ~ 00078174 v 0000 ~ 00152948 v 0000 ~ 00004842 v 0000 ~ 00134867 v 0000 ~ 00163123 v 0000 ~ 00047186 v 0000 ~ 00128757 v 0000 ~ 00044100 v 0000 01 + 00 00 | ndryshon vendndodhje ; lëviz , udhëton , ose zhvendosje
+00184792 00 v 03 dëboj 0 nxjerr 0 përjashtoj 0 000 01 + 00 00 | dëbon ose nxjerr jashtë nga një vend
+00184898 00 v 01 furnizim 0 001 @ 00008706 v 0000 01 + 00 00 | furnizoj diçka
+00184977 00 v 02 kryej 0 bëj 0 001 @ 00003000 v 0000 01 + 00 00 | përmbush një veprim, zakonisht në domethënie negative
+00185102 00 v 01 lexoj_të_dhënat 0 001 @ 00034960 v 0000 01 + 00 00 | marr të dhëna nga një shirit magnetik
+00185215 00 v 02 ia_nënshtroj_rregullave 0 rregulloj 0 001 @ 00117606 v 0000 01 + 00 00 | t&apos;i bëj rregullisht gjërat
+00185340 00 v 02 publikoj 0 shtyp 0 000 01 + 00 00 | fut për të shtyp
+00185412 00 v 02 fuqi 0 thellësi 0 002 @ 00134711 v 0000 ~ 00191901 v 0000 01 + 00 00 | të bëhet shumë intesive
+00185528 00 v 01 ushqim 0 001 @ 00043346 v 0000 01 + 00 00 | shërben ushqim për ;
+00185612 00 v 02 dërgoj 0 adresoj 0 001 @ 00007259 v 0000 01 + 00 00 | shkaku i vajtjes dike
+00185706 00 v 01 sulm 0 002 ~ 00093333 v 0000 ~ 00063678 v 0000 01 + 00 00 | jap një goditje të fortë me dorë ose me grusht ose me armë
+00185847 00 v 02 heq 0 çlirohem 0 001 ~ 00092217 v 0000 01 + 00 00 | heq qafe
+00185926 00 v 02 kap 0 prek 0 001 @ 00100890 v 0000 01 + 00 00 | të goditesh apo prekesh nga diçka
+00186027 00 v 02 ekzistoj 0 gjendem 0 002 ~ 00102221 v 0000 ~ 00174464 v 0000 01 + 00 00 | ekzistoj ose gjendem
+00186139 00 v 01 kaloj 0 001 @ 00117854 v 0000 01 + 00 00 | sjell dikë në një veprim apo gjendje të caktuar
+00186251 00 v 07 hedhje 0 liroj 0 hedh 0 lëshoj 0 flakje 0 nuk_pranoj 0 shkund 0 002 @ 00022029 v 0000 ~ 00100582 v 0000 01 + 00 00 | çlirohem ose shpëtoj
+00186409 00 v 02 përshtat 0 eci 0 001 @ 00000961 v 0000 01 + 00 00 | jam ne masen e duhur,ose ne forme,perputhem me permasat e dëshiruara
+00186549 00 v 01 fal 0 001 @ 00179309 v 0000 01 + 00 00 | ndaloj së fajësuari ose dhuroj falje
+00186646 00 v 02 zbeh 0 ul 0 002 @ 00117854 v 0000 ;c 00412503 n 0000 01 + 00 00 | ul ritmin e ( notave muzikore )
+00186761 00 v 01 rrumbullakos 0 001 @ 00035292 v 0000 01 + 00 00 | shqiptoj me një rrumbullakim të fonemit /r/;
+00186875 00 v 01 krijoj 0 001 @ 00059109 v 0000 01 + 00 00 | një formë e një lëndë
+00186963 00 v 01 mbaj 0 006 ! 00104788 v 0000 @ 00011078 v 0000 ~ 00039429 v 0000 ~ 00040771 v 0000 ~ 00005833 v 0000 ~ 00058335 v 0000 01 + 00 00 | mbaj në pronësi
+00187130 00 v 04 kurth 0 operoj 0 angazhoj 0 kyç 0 002 @ 00007259 v 0000 ~ 00097525 v 0000 01 + 00 00 | mbahem angazhuar
+00187252 00 v 07 rezistoj 0 suportoj 0 pajtohem 0 duroj 0 toleroj 0 përballoj 0 lejoj 0 001 @ 00114855 v 0000 01 + 00 00 | Pranoj mendimet, arsyetimet etj. të dikujt, bashkohem me ato që thotë ose me qëndrimet që mban dikush
+00187483 00 v 05 planifikoj 0 parashikoj 0 shqyrtoj 0 imagjinoj 0 përfytyroj 0 001 @ 00086692 v 0000 01 + 00 00 | imagjino ; konceptoj
+00187619 00 v 02 të_veprosh_ne_mënyrë_refleksive 0 të_veprosh_në_mënyrë_të_pavullnetshme 0 002 @ 00082041 v 0000 ~ 00152824 v 0000 01 + 00 00 | të veprosh në një mënyrë të pakontrolluar
+00187819 00 v 03 mbijetoj 0 mbahem_gjallë 0 rroj 0 000 01 + 00 00 | mbaj veten time ; kujdesem
+00187915 00 v 02 shtysë 0 nxitje 0 000 01 + 00 00 | detyron dikë për diçka ose i jep një mendim
+00188016 00 v 02 vlon 0 gurgullon 0 001 @ 00041386 v 0000 01 + 00 00 | të jesh në një gjendje emocionale e acaruar
+00188134 00 v 01 fshi 0 001 @ 00002264 v 0000 01 + 00 00 | të pastrosh duke fshirë
+00188219 00 v 02 i_tensionuar 0 tensionoj 0 002 @ 00080892 v 0000 ~ 00158628 v 0000 01 + 00 00 | ta bësh gjendjen të tensionuar dhe jo të lehtë, ose te acarueshme, ose me nervozizëm;
+00188407 00 v 01 ndodhem 0 010 ~ 00064088 v 0000 ~ 00198401 v 0000 ~ 00188986 v 0000 ~ 00042864 v 0000 ~ 00124721 v 0000 ~ 00084329 v 0000 ~ 00067718 v 0000 ~ 00091496 v 0000 ~ 00028565 v 0000 ~ 00158781 v 0000 01 + 00 00 | zë një pozicion te caktuar ne hapesire;jam diku
+00188681 00 v 02 fashë 0 rrip 0 001 @ 00109057 v 0000 01 + 00 00 | lidh me fashë këmbën
+00188773 00 v 02 shi_me_gjyma 0 shi 0 002 @ 00039959 v 0000 ~ 00052255 v 0000 01 + 00 00 | Reshje që formohet nga kthimi i avujve të atmosferës në ujë gjatë ftohjes dhe që bie pika-pika nga retë në tokë
+00188986 00 v 06 kasolle 0 banore 0 jetoj 0 banesë 0 populloj 0 banoj 0 002 @ 00188407 v 0000 ~ 00096157 v 0000 01 + 00 00 | Ndertoheni këtë shtepi si për veten tuaj
+00189156 00 v 01 çoksigjenoj 0 002 @ 00100890 v 0000 ;c 00276367 n 0000 01 + 00 00 | të heqësh oksigjenin nga një përbërës, ose të kundërveproj me hidrogjenin , ose të pësojë një rritje të numrit të elektroneve
+00189382 00 v 04 mendoj_për 0 imagjinoj 0 përfytyroj 0 sajoj 0 002 @ 00131400 v 0000 ~ 00061798 v 0000 01 + 00 00 | shpik ose sajoj
+00189516 00 v 04 kohë 0 mas_kohën 0 orë 0 kronometroj 0 001 @ 00076955 v 0000 01 + 00 00 | mat sasinë e kohës apo kohëzgjatjen e një ngjarjeje apo veprimi të kryer prej dikush në një periudhë të caktuar kohore
+00189738 00 v 01 shpërndaj 0 002 @ 00045233 v 0000 ~ 00000592 v 0000 01 + 00 00 | shpërndaj ose caktoj
+00189843 00 v 02 model 0 formë 0 001 @ 00178826 v 0000 01 + 00 00 | një formë nga një derdhje brenda një modeli
+00189960 00 v 02 anë, 0 shoqëroj,radhitem 0 000 01 + 00 00 | palë, njeri a grup njerëzish,që i kundërvihen një pale ose një njeriu a grupi tjetër,radhitem përkrah një tjetri në mendime e veprime,bëhem me dikë ;marr anën e; jam në anën e
+00190214 00 v 03 nënvizoj 0 theksim 0 theksoj 0 001 @ 00094347 v 0000 01 + 00 00 | të theksosh , ta zgjedhësh si më të rëndësishmin
+00190353 00 v 04 takohen_në 0 bashkoj 0 lidh 0 lidhem 0 002 @ 00024954 v 0000 ~ 00161593 v 0000 01 + 00 00 | bën një lidhje logjike
+00190488 00 v 02 ulëras 0 bërtas 0 002 ! 00071764 v 0000 @ 00159480 v 0000 01 + 00 00 | thërras me zë të lartë ; flas me zë të lartë
+00190630 00 v 04 gjykoj 0 vë_në_vijë 0 vendos 0 zgjidh 0 001 @ 00036576 v 0000 01 + 00 00 | e sjell deri në një fund; zgjidh përfundimisht
+00190775 00 v 01 pikturoj 0 001 ;c 00333111 n 0000 01 + 00 00 | bën një pikturë
+00190858 00 v 05 sëmbim 0 kafshim 0 shtrëngim 0 pickim 0 thumbim 0 001 @ 00020919 v 0000 01 + 00 00 | një shtrëngim i ngushtë ndërmjet gishtave
+00191008 00 v 03 pendohem 0 pendim 0 keqardhje 0 001 @ 00126826 v 0000 01 + 00 00 | të ndjesh keqardhje për ; të ndjesh hidhërim për
+00191146 00 v 02 gjendje 0 pozicion 0 002 @ 00137566 v 0000 ~ 00001734 v 0000 01 + 00 00 | arsyeja e vendndodhjes në një vend , në një gjendje , në një marrëdhënie
+00191318 00 v 04 prish_kot 0 prish 0 kotësi 0 harxhoj 0 002 @ 00179173 v 0000 * 00151664 v 0000 01 + 00 00 | prish kot dhe pa e matur
+00191453 00 v 02 rivendos 0 zëvendësues 0 001 @ 00117854 v 0000 01 + 00 00 | vendos një tjetër në vend të saj
+00191569 00 v 03 gjurmim 0 kërkoj 0 kërkim 0 001 ~ 00001276 v 0000 01 + 00 00 | përpiqet të gjesh ose një zbulim ose ose të zbulosh ekzistencën e diçkaje që ekziston
+00191744 00 v 01 ziej 0 002 ! 00107245 v 0000 @ 00166993 v 0000 01 + 00 00 | arrin në pikën e zierjes dhe kalon nga lëng në gjendje të gaztë ( avull )
+00191901 00 v 04 përshpejtoj 0 i_jap_më_shpejt 0 shpejtoj 0 nxitoj 0 001 @ 00185412 v 0000 01 + 00 00 | të lëvizësh më shpejt
+00192033 00 v 01 shtyrje 0 002 @ 00149911 v 0000 ~ 00144602 v 0000 01 + 00 00 | një shtytje me vrull ose me forcë
+00192149 00 v 04 mbuluar_me_mjegull 0 mbulim 0 turbullirë 0 mjegullirë 0 001 @ 00132688 v 0000 01 + 00 00 | bëhet më pak e dukshme ose jo e pastër
+00192301 00 v 01 sistemoj 0 001 @ 00117606 v 0000 01 + 00 00 | rregulloj ose fiksoj
+00192385 00 v 04 tregoj_rrugën 0 udhëheqës 0 drejtim 0 adresoj 0 000 01 + 00 00 | çon dikë në një vend ose diku
+00192504 00 v 05 zgjoj 0 kurajoj 0 gjallëroj 0 frymëzoj 0 forcoj 0 002 @ 00158034 v 0000 ~ 00041262 v 0000 01 + 00 00 | rrit ose shtoj ose nxis
+00192650 00 v 03 bëhem_fakt 0 konkretizoj 0 realizoj 0 001 @ 00018325 v 0000 01 + 00 00 | të bërit diçkaje realitet
+00192770 00 v 03 barrë 0 fundos 0 ngarkesë 0 001 @ 00059502 v 0000 01 + 00 00 | fundosem nga ngarkesa e madhe ose sasia
+00192892 00 v 06 prish 0 shkatërroj 0 korruptoj 0 dëmtoj 0 shturje 0 demoralizoj 0 001 @ 00117854 v 0000 01 + 00 00 | korruptoj nga ana morale
+00193037 00 v 02 deklaroj 0 njoftoj 0 001 @ 00091743 v 0000 01 + 00 00 | deklaroj publikisht ose zyrtarisht
+00193145 00 v 01 pyes 0 001 @ 00064558 v 0000 01 + 00 00 | drejtoj një pyetje dhe pres një përgjigje
+00193249 00 v 03 rregjistroj 0 anëtar_i_ri 0 gdhend 0 001 @ 00097851 v 0000 01 + 00 00 | rregjistrohesh në mënyrë formale për pjesëmarrje
+00193393 00 v 03 kthim_parash 0 kthej 0 kompesim 0 001 @ 00029267 v 0000 01 + 00 00 | kompesoj parat
+00193494 00 v 02 shërbim 0 shpërndaj 0 001 @ 00043346 v 0000 01 + 00 00 | shërbim
+00193579 00 v 02 dhuroj 0 jap 0 001 @ 00002622 v 0000 01 + 00 00 | vlerësimi i zgjatjes apo përfundimit të diçkaje
+00193698 00 v 04 prek 0 goditje 0 nxit 0 ngulit 0 002 ~ 00009131 v 0000 > 00126826 v 0000 01 + 00 00 | të kesh një emocion ose një efekt njohës
+00193846 00 v 03 kthehem_nga 0 ndërroj_drejtim 0 shmang 0 001 @ 00062750 v 0000 01 + 00 00 | kthehem në drejtim tjetër , një drejtim i caktuar , ose një vijë interesi
+00194019 00 v 01 pranoj 0 001 @ 00032881 v 0000 01 + 00 00 | një çeshtje diskutuese : marr një raport pozitiv , nga një komision
+00194152 00 v 01 mbuloj 0 001 @ 00029267 v 0000 01 + 00 00 | mbuloj shpenzimet
+00194231 00 v 01 goditje 0 001 ~ 00038018 v 0000 01 + 00 00 | një seri veprimesh me goditje , zakonisht me dorë ose me mjet
+00194357 00 v 04 shkëputem 0 prishem 0 ndaj 0 ndahet 0 000 01 + 00 00 | shkëput ose prish një lidhje ose një marrëveshje
+00194483 00 v 01 pritje 0 000 01 + 00 00 | qëndron në një vend për një kohë të gjatë ose pres dikë
+00194591 00 v 02 përzierje 0 përziej 0 001 @ 00047339 v 0000 01 + 00 00 | të shtosh elemente plotësues
+00194698 00 v 02 lë_të_hyj 0 pranoj 0 002 @ 00114855 v 0000 ~ 00061698 v 0000 01 + 00 00 | lejon një pjesëmarrjen ose të jesh pjesë e saj , funksionet dhe përgjegjësit
+00194874 00 v 07 prerje 0 zvogëloj 0 tkurrem 0 pakesoj 0 kontraktoj 0 reduktoj 0 shkurtoj 0 002 ! 00099376 v 0000 @ 00119441 v 0000 01 + 00 00 | te reduktosh deri ne një fare pike ku janë ruajtur elementet me te rëndësishëm
+00195104 00 v 04 përzierje 0 shkrijë_së_bashku 0 bashkoj 0 unifikoj 0 003 @ 00117854 v 0000 ~ 00031390 v 0000 ~ 00163813 v 0000 01 + 00 00 | të bashkosh ose të përzjesh sëbashku
+00195289 00 v 02 qëndron_tek 0 lidhet_me 0 001 @ 00155058 v 0000 01 + 00 00 | tregon se ku qëndron problemi që nuk realizohet një ;cila është pengesa që haset
+00195455 00 v 03 mbyll 0 shuaj 0 fik 0 002 ! 00126362 v 0000 @ 00097525 v 0000 01 + 00 00 | shkaku i mbylljes së një operacioni
+00195585 00 v 03 shpërthej 0 nxjerr 0 del 0 000 01 + 00 00 | bëhet aktiv dhe fillon të nxjerr llavë dhe gurë ( vullkanet)
+00195712 00 v 02 fishkëllim 0 fërshëllim 0 001 @ 00159987 v 0000 01 + 00 00 | bëj një tingull si angullimë , apo fishkëllyese
+00195845 00 v 02 furnizoj 0 shpërndaj 0 000 01 + 00 00 | çon në një destinacion ose bën një furnizim
+00195952 00 v 05 pengesë 0 bie_përmes 0 shteg 0 kapërcim 0 kaloj_nëpër 0 001 @ 00053794 v 0000 01 + 00 00 | kaloj nëpër ose kaloj pengesën
+00196099 00 v 02 gisht 0 gisht_i_madh 0 000 01 + 00 00 | te ndjesh ose prekesh me ane te gishtave
+00196197 00 v 03 arnoj 0 arnë 0 sajoj 0 001 @ 00004106 v 0000 01 + 00 00 | riparim duke përdorur mbushje të vendeve të grisura
+00196328 00 v 08 shkrij 0 bashkoj 0 ndërthur 0 përziej 0 bashkohem 0 trazoj 0 trazim 0 pleksem 0 001 @ 00018040 v 0000 01 + 00 00 | përziej së bashku disa elemente
+00196496 00 v 04 parathem 0 paralajmëroj 0 lajmëtar 0 shenjë_paralajmëruese 0 001 @ 00058441 v 0000 01 + 00 00 | parandiej ose kumtoj
+00196634 00 v 01 fillestar 0 001 @ 00085750 v 0000 01 + 00 00 | kërkoj punë
+00196712 00 v 01 shkruaj 0 002 @ 00118876 v 0000 ~ 00059260 v 0000 01 + 00 00 | komunikim apo shprehje nëpërmjet të shkruajturit
+00196844 00 v 01 bie 0 001 @ 00007259 v 0000 01 + 00 00 | lëre të bjerë në shesh
+00196929 00 v 01 rendit 0 003 ! 00128158 v 0000 @ 00117606 v 0000 ~ 00064655 v 0000 01 + 00 00 | të sistemosh sipas një rregulli të caktuar
+00197072 00 v 02 pjekje 0 piqem 0 001 @ 00142403 v 0000 01 + 00 00 | shtohen pjekjet
+00197157 00 v 02 nxjerr_para_nga_xhepi 0 paguaj 0 001 @ 00029267 v 0000 01 + 00 00 | paguaj
+00197249 00 v 02 kontroll 0 komandim 0 003 ~ 00131856 v 0000 ~ 00165496 v 0000 ~ 00067078 v 0000 01 + 00 00 | detyra autoritare për të kontrolluar
+00197398 00 v 03 normë 0 urdhëroj 0 jap_urdhër 0 001 @ 00021175 v 0000 01 + 00 00 | të vendosësh me autoritet
+00197513 00 v 04 studioj 0 analizoj 0 diskutoj 0 ekzaminoj 0 003 ~ 00141099 v 0000 ~ 00001857 v 0000 ~ 00172679 v 0000 01 + 00 00 | gjykoj në detaje një subjekt duke e analizuar në mënyrë tillë për të zbuluar elemente të rëndësishme brenda tij
+00197768 00 v 03 i_heq_të_drejtë 0 anulloj 0 bëj_i_paaftë 0 002 @ 00117854 v 0000 ~ 00151080 v 0000 01 + 00 00 | ta bësh të pavlefshëm kryerjen e një veprimi të caktuar
+00197946 00 v 04 frikësoj 0 lemeri 0 panik 0 trembje 0 001 @ 00158034 v 0000 01 + 00 00 | shkaku i një frike
+00198057 00 v 03 punoj 0 përpunoj 0 vazhdoj_së_punuari 0 001 @ 00054191 v 0000 01 + 00 00 | përpunoj ose i jap formë ose përmisoj materialet
+00198203 00 v 02 fiksoj 0 var 0 002 @ 00011253 v 0000 ~ 00126128 v 0000 01 + 00 00 | shkaku i varur
+00198303 00 v 02 improvizoj 0 sajoj 0 001 @ 00075548 v 0000 01 + 00 00 | performoj pa përgatitur
+00198401 00 v 05 kaloj 0 vrapoj 0 vazhdoj 0 çoj 0 shkoj 0 001 @ 00188407 v 0000 01 + 00 00 | nuk e di
+00198504 00 v 02 refuzoj 0 nuk_pranoj 0 001 ! 00014265 v 0000 01 + 00 00 | të shfaqësh mosdashje
+00198603 00 v 01 përfaqësoj 0 002 @ 00183885 v 0000 ~ 00054877 v 0000 01 + 00 00 | shërben për të shprehur kuptimin e diçkaje
+00198735 00 v 03 prish 0 zbërthej 0 thërmohet 0 001 @ 00018040 v 0000 01 + 00 00 | bën në copa të vogla
+00198844 00 v 03 heq_dore 0 tërhiqem 0 braktis 0 000 01 + 00 00 |    
+00198915 00 v 02 jap 0 dhënie 0 000 01 + 00 00 |    
+00198969 00 v 02 ia_dalë_mbanë 0 ia_kaloj 0 000 01 + 00 00 |    
+00199036 00 v 02 mbijetoj 0 vazhdoj 0 000 01 + 00 00 |    
+00199095 00 v 03 pëson 0 gjetje 0 ndesh 0 000 01 + 00 00 |    
+00199159 00 v 01 nevoje 0 000 01 + 00 00 |    

@@ -1,0 +1,1018 @@
+  01 This file is a derivation of the wn-nld-lmf.xml file; the original nld-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 version: 10
+  05 owner: http://wordpress.let.vupr.nl/odwn/
+  06 language: nld
+  07 label: Open
+00000345 00 a 01 hydrodynamisch 0 001 ;c 01397469 n 0000 |    
+00000408 00 a 02 geurloos 0 reukloos 0 001 = 01475108 n 0000 |    
+00000475 00 a 01 atomistisch 0 001 ! 00013257 a 0000 |    
+00000534 00 a 01 onverdund 0 000 |    
+00000573 00 a 04 onverdraaglijk 0 onuitstaanbaar 0 ondraaglijk 0 onaanvaardbaar 0 000 |    
+00000665 00 a 01 ongrondwettig 0 000 |    
+00000708 00 a 01 gepruikt 0 000 |    
+00000746 00 a 01 autotroof 0 001 ;c 01505302 n 0000 |    
+00000804 00 a 01 ondersteunend 0 000 |    
+00000847 00 a 01 radioactief 0 000 |    
+00000888 00 a 01 dunbevolkt 0 000 |    
+00000928 00 a 01 convex 0 001 ! 00025884 a 0000 |    
+00000982 00 a 01 socialistisch 0 000 |    
+00001025 00 a 01 ongewijd 0 001 = 00080670 n 0000 |    
+00001081 00 a 02 onveranderlijk 0 onveranderbaar 0 000 |    
+00001142 00 a 01 bijgesloten 0 000 |    
+00001183 00 a 01 geflatteerd 0 001 ! 00024812 a 0000 |    
+00001242 00 a 01 ontoegankelijk 0 001 = 00353746 n 0000 |    
+00001304 00 a 01 afgestorven 0 000 |    
+00001345 00 a 01 meerstemmig 0 001 ;c 01638088 n 0000 |    
+00001405 00 a 01 compromisloos 0 000 |    
+00001448 00 a 02 toereikend 0 voldoend 0 002 ! 00029510 a 0000 = 00762647 n 0000 |    
+00001535 00 a 01 stemhebbend 0 000 |    
+00001576 00 a 01 vreugdevol 0 000 |    
+00001616 00 a 01 tegenovergesteld 0 000 |    
+00001662 00 a 01 onspeelbaar 0 001 ! 00028723 a 0000 |    
+00001721 00 a 02 gerenommeerd 0 achtenswaardig 0 002 ! 00017129 a 0000 = 00717319 n 0000 |    
+00001816 00 a 01 insectenetend 0 003 ! 00022457 a 0000 ;c 00394257 n 0000 ;c 01404561 n 0000 |    
+00001915 00 a 01 farmaceutisch 0 000 |    
+00001958 00 a 01 herleidbaar 0 000 |    
+00001999 00 a 02 ontroostbaar 0 onvermurwbaar 0 000 |    
+00002057 00 a 01 extrinsiek 0 001 ! 00022343 a 0000 |    
+00002115 00 a 02 behulpzaam 0 nuttig 0 001 ! 00010722 a 0000 |    
+00002182 00 a 01 polytheïstisch 0 001 ! 00029913 a 0000 |    
+00002245 00 a 01 oorzakelijk 0 000 |    
+00002286 00 a 01 fataal 0 000 |    
+00002322 00 a 01 bloeddrukverhogend 0 001 ;c 00789849 n 0000 |    
+00002389 00 a 01 ondenkbaar 0 001 ! 00024138 a 0000 |    
+00002447 00 a 01 gemaakt 0 000 |    
+00002484 00 a 02 deflatoir 0 deflationistisch 0 002 ! 00009101 a 0000 ;c 00817634 n 0000 |    
+00002579 00 a 01 ongelegen 0 002 ! 00025287 a 0000 ^ 00021472 a 0000 |    
+00002654 00 a 02 eenpolig 0 unipolair 0 000 |    
+00002704 00 a 01 machteloos 0 001 = 01945171 n 0000 |    
+00002762 00 a 01 niet-overdraagbaar 0 000 |    
+00002810 00 a 01 geschoold 0 000 |    
+00002849 00 a 01 vergankelijk 0 001 ;c 00631496 n 0000 |    
+00002910 00 a 01 onwelluidend 0 000 |    
+00002952 00 a 01 inspirerend 0 001 ! 00010915 a 0000 |    
+00003011 00 a 01 onbelemmerd 0 000 |    
+00003052 00 a 02 achterdochtig 0 wantrouwend 0 000 |    
+00003109 00 a 02 gebogen 0 gekromd 0 000 |    
+00003156 00 a 02 onderdrukt 0 beheerst 0 000 |    
+00003207 00 a 01 gestopt 0 001 ! 00009295 a 0000 |    
+00003262 00 a 01 geplaveid 0 001 ! 00029856 a 0000 |    
+00003319 00 a 01 warmhartig 0 001 ^ 00007365 a 0000 |    
+00003377 00 a 01 ongedoopt 0 000 |    
+00003416 00 a 01 kalkminnend 0 000 |    
+00003457 00 a 01 chirurgisch 0 000 |    
+00003498 00 a 02 slijmachtig 0 flegmatiek 0 000 |    
+00003552 00 a 02 stipt 0 punctueel 0 000 |    
+00003599 00 a 01 begaanbaar 0 000 |    
+00003639 00 a 01 kathodisch 0 000 |    
+00003679 00 a 01 gemengd 0 001 ! 00026674 a 0000 |    
+00003734 00 a 01 verkeerd 0 002 = 00404877 n 0000 ^ 00013157 a 0000 |    
+00003808 00 a 01 niet-geleidend 0 000 |    
+00003852 00 a 01 ingeworteld 0 000 |    
+00003893 00 a 01 gesproken 0 000 |    
+00003932 00 a 02 extramuraal 0 extra 0 000 |    
+00003981 00 a 01 ongeboren 0 000 |    
+00004020 00 a 02 verheffend 0 vreugdeloos 0 001 ! 00020736 a 0000 |    
+00004092 00 a 01 onbreekbaar 0 001 ! 00029004 a 0000 |    
+00004151 00 a 02 indachtig 0 bedachtzaam 0 000 |    
+00004204 00 a 01 afneembaar 0 000 |    
+00004244 00 a 01 verslavend 0 000 |    
+00004284 00 a 01 synchroon 0 000 |    
+00004323 00 a 01 onduidelijk 0 000 |    
+00004364 00 a 01 vermoedelijk 0 001 ! 00012255 a 0000 |    
+00004424 00 a 01 onrendabel 0 001 ! 00009935 a 0000 |    
+00004482 00 a 01 onstoffelijk 0 001 = 00762925 n 0000 |    
+00004542 00 a 01 evenhoevig 0 001 ;c 00402046 n 0000 |    
+00004601 00 a 01 tevreden 0 000 |    
+00004639 00 a 01 vuurvast 0 001 ! 00014382 a 0000 |    
+00004695 00 a 01 verleidelijk 0 000 |    
+00004737 00 a 01 eenduidig 0 000 |    
+00004776 00 a 01 prenataal 0 001 ! 00005370 a 0000 |    
+00004833 00 a 01 verbazingwekkend 0 002 ! 00022800 a 0000 ^ 00016459 a 0000 |    
+00004915 00 a 01 subsonisch 0 000 |    
+00004955 00 a 01 onrealistisch 0 000 |    
+00004998 00 a 01 sarcastisch 0 001 = 01538162 n 0000 |    
+00005057 00 a 02 onschadelijk 0 ongevaarlijk 0 001 ! 00013354 a 0000 |    
+00005132 00 a 01 onbewaakt 0 000 |    
+00005171 00 a 01 ongewijzigd 0 000 |    
+00005212 00 a 01 onopzettelijk 0 000 |    
+00005255 00 a 01 tweejarig 0 001 ;c 01505302 n 0000 |    
+00005313 00 a 01 jambisch 0 001 ;c 00891491 n 0000 |    
+00005370 00 a 01 postnataal 0 001 ! 00004776 a 0000 |    
+00005428 00 a 01 fractioneel 0 000 |    
+00005469 00 a 01 feilloos 0 000 |    
+00005507 00 a 02 onoverbrugbaar 0 onoverkomelijk 0 001 ! 00013059 a 0000 |    
+00005586 00 a 01 ondervoed 0 000 |    
+00005625 00 a 02 koortsvrij 0 afebriel 0 001 ! 00009880 a 0000 |    
+00005694 00 a 01 bederfelijk 0 000 |    
+00005735 00 a 01 allesomvattend 0 000 |    
+00005779 00 a 01 galvanisch 0 000 |    
+00005819 00 a 01 emmetroop 0 000 |    
+00005858 00 a 01 geremd 0 000 |    
+00005894 00 a 02 onbewerkt 0 onveranderd 0 000 |    
+00005947 00 a 01 loodvrij 0 000 |    
+00005985 00 a 01 geocentrisch 0 001 ! 00007760 a 0000 |    
+00006045 00 a 01 endotherm 0 001 ! 00022983 a 0000 |    
+00006102 00 a 01 ongeadresseerd 0 000 |    
+00006146 00 a 01 beknopt 0 000 |    
+00006183 00 a 01 inzetbaar 0 000 |    
+00006222 00 a 01 klonisch 0 001 ;c 01515917 n 0000 |    
+00006279 00 a 01 kortschedelig 0 001 ! 00011841 a 0000 |    
+00006340 00 a 01 onhygiënisch 0 000 |    
+00006383 00 a 02 plots 0 plotseling 0 000 |    
+00006431 00 a 01 volgzaam 0 001 ! 00018305 a 0000 |    
+00006487 00 a 02 basisch 0 alkalisch 0 001 ;c 01101996 n 0000 |    
+00006555 00 a 01 inspannend 0 000 |    
+00006595 00 a 01 inwonend 0 000 |    
+00006633 00 a 02 verbijsterd 0 perplex 0 000 |    
+00006684 00 a 01 afgeleid 0 000 |    
+00006722 00 a 01 bedroefd 0 000 |    
+00006760 00 a 01 beschaamd 0 002 ! 00010449 a 0000 ^ 00010978 a 0000 |    
+00006835 00 a 01 bestaand 0 000 |    
+00006873 00 a 01 krimpvrij 0 000 |    
+00006912 00 a 01 onbevredigend 0 000 |    
+00006955 00 a 01 intracellulair 0 002 ! 00026375 a 0000 ;c 00631496 n 0000 |    
+00007036 00 a 01 humorloos 0 001 ! 00016765 a 0000 |    
+00007093 00 a 03 herkenbaar 0 aantoonbaar 0 aanwijsbaar 0 000 |    
+00007161 00 a 01 bovenmenselijk 0 000 |    
+00007205 00 a 01 afferent 0 002 ! 00030213 a 0000 ;c 00789849 n 0000 |    
+00007280 00 a 01 ondoordacht 0 000 |    
+00007321 00 a 01 onsystematisch 0 000 |    
+00007365 00 a 02 liefhebbend 0 liefdevol 0 003 ! 00023916 a 0000 ^ 00023272 a 0000 ^ 00003319 a 0000 |    
+00007472 00 a 01 ontdaan 0 000 |    
+00007509 00 a 01 eenzaadlobbig 0 002 ! 00012370 a 0000 ;c 00394257 n 0000 |    
+00007589 00 a 01 hartelijk 0 000 |    
+00007628 00 a 01 vermijdbaar 0 000 |    
+00007669 00 a 01 geurig 0 001 ! 00015071 a 0000 |    
+00007723 00 a 01 gepland 0 000 |    
+00007760 00 a 01 heliocentrisch 0 001 ! 00005985 a 0000 |    
+00007822 00 a 01 gemotiveerd 0 000 |    
+00007863 00 a 01 raszuiver 0 000 |    
+00007902 00 a 01 onderdrukkend 0 001 ! 00024712 a 0000 |    
+00007963 00 a 01 sporadisch 0 000 |    
+00008003 00 a 02 vaderlandslievend 0 patriottisch 0 000 |    
+00008065 00 a 01 ongehard 0 000 |    
+00008103 00 a 01 oriënterend 0 000 |    
+00008145 00 a 01 onbeklemtoond 0 000 |    
+00008188 00 a 01 stereofonisch 0 000 |    
+00008231 00 a 02 sensorisch 0 zintuiglijk 0 001 ! 00024596 a 0000 |    
+00008303 00 a 01 intrekbaar 0 000 |    
+00008343 00 a 01 enthousiast 0 001 ^ 00023272 a 0000 |    
+00008402 00 a 01 lafhartig 0 001 = 00424131 n 0000 |    
+00008459 00 a 02 gelijktijdig 0 gecombineerd 0 000 |    
+00008516 00 a 01 apolitiek 0 000 |    
+00008555 00 a 01 verhelderend 0 000 |    
+00008597 00 a 02 onevenredig 0 disproportioneel 0 000 |    
+00008657 00 a 01 onbeschadigd 0 003 ^ 00030288 a 0000 ^ 00008973 a 0000 ^ 00010379 a 0000 |    
+00008753 00 a 01 minst 0 000 |    
+00008788 00 a 01 ongedifferentieerd 0 000 |    
+00008836 00 a 01 geïnfecteerd 0 000 |    
+00008879 00 a 01 onopvallend 0 000 |    
+00008920 00 a 02 gestudeerd 0 bestudeerd 0 000 |    
+00008973 00 a 02 onaangetast 0 onberispelijk 0 002 ^ 00030288 a 0000 ^ 00008657 a 0000 |    
+00009066 00 a 01 aards 0 000 |    
+00009101 00 a 01 inflatoir 0 002 ! 00002484 a 0000 ;c 00817634 n 0000 |    
+00009177 00 a 01 zwijgzaam 0 001 ^ 00019620 a 0000 |    
+00009234 00 a 03 verrast 0 verbaasd 0 verwonderd 0 000 |    
+00009295 00 a 01 voortgezet 0 001 ! 00003207 a 0000 |    
+00009353 00 a 02 permeabel 0 doordringbaar 0 002 ! 00028547 a 0000 ^ 00012866 a 0000 |    
+00009444 00 a 01 bekroond 0 000 |    
+00009482 00 a 01 evident 0 002 = 00665483 n 0000 ^ 00027260 a 0000 |    
+00009555 00 a 02 onverstandig 0 onbezonnen 0 000 |    
+00009610 00 a 01 avirulent 0 000 |    
+00009649 00 a 01 ongewroken 0 000 |    
+00009689 00 a 01 neerslachtig 0 000 |    
+00009731 00 a 02 mateloos 0 overmatig 0 001 = 01221879 n 0000 |    
+00009799 00 a 03 leerrijk 0 leerzaam 0 instructief 0 001 ^ 00029196 a 0000 |    
+00009880 00 a 01 febriel 0 001 ! 00005625 a 0000 |    
+00009935 00 a 02 winstgevend 0 rendabel 0 001 ! 00004424 a 0000 |    
+00010005 00 a 01 exoterisch 0 000 |    
+00010045 00 a 01 rustgevend 0 000 |    
+00010085 00 a 01 onethisch 0 000 |    
+00010124 00 a 01 ontkleed 0 000 |    
+00010162 00 a 01 onbeheerd 0 000 |    
+00010201 00 a 01 gespecialiseerd 0 000 |    
+00010246 00 a 01 uitvoerig 0 001 = 00362404 n 0000 |    
+00010303 00 a 01 exogeen 0 000 |    
+00010340 00 a 01 geschoren 0 000 |    
+00010379 00 a 02 onbevlekt 0 smetteloos 0 001 ^ 00008657 a 0000 |    
+00010449 00 a 02 schaamteloos 0 onbeschaamd 0 001 ! 00006760 a 0000 |    
+00010523 00 a 01 zelfgemaakt 0 000 |    
+00010564 00 a 01 onderzoekend 0 001 ! 00017303 a 0000 |    
+00010624 00 a 02 suikerhoudend 0 suikerachtig 0 000 |    
+00010682 00 a 01 ruimtelijk 0 000 |    
+00010722 00 a 01 nutteloos 0 001 ! 00002115 a 0000 |    
+00010779 00 a 01 invloedrijk 0 000 |    
+00010820 00 a 01 laxerend 0 001 ! 00026880 a 0000 |    
+00010876 00 a 01 onbetwist 0 000 |    
+00010915 00 a 01 ongeïnspireerd 0 001 ! 00002952 a 0000 |    
+00010978 00 a 02 berouwvol 0 boetvaardig 0 001 ^ 00006760 a 0000 |    
+00011049 00 a 01 hoger 0 000 |    
+00011084 00 a 01 predicatief 0 002 ! 00017051 a 0000 ;c 01759802 n 0000 |    
+00011162 00 a 01 gereglementeerd 0 000 |    
+00011207 00 a 01 onvertaalbaar 0 000 |    
+00011250 00 a 01 geloofwaardig 0 002 = 00523027 n 0000 ^ 00024138 a 0000 |    
+00011329 00 a 01 beschonken 0 000 |    
+00011369 00 a 02 zorgwekkend 0 alarmerend 0 001 = 01114516 n 0000 |    
+00011441 00 a 01 homeopathisch 0 001 ! 00012697 a 0000 |    
+00011502 00 a 01 endocrien 0 000 |    
+00011541 00 a 01 horizontaal 0 001 = 01093502 n 0000 |    
+00011600 00 a 01 asyndetisch 0 001 ;c 01759802 n 0000 |    
+00011660 00 a 01 astigmatisch 0 000 |    
+00011702 00 a 01 getalenteerd 0 000 |    
+00011744 00 a 01 lineair 0 001 ;c 00322869 n 0000 |    
+00011800 00 a 01 associatief 0 000 |    
+00011841 00 a 01 langschedelig 0 001 ! 00006279 a 0000 |    
+00011902 00 a 01 verschillend 0 000 |    
+00011944 00 a 01 hebzuchtig 0 000 |    
+00011984 00 a 01 gekamd 0 000 |    
+00012020 00 a 01 onmerkbaar 0 001 ^ 00021136 a 0000 |    
+00012078 00 a 01 alcoholisch 0 000 |    
+00012119 00 a 01 onwaardig 0 000 |    
+00012158 00 a 01 catechetisch 0 001 ;c 00308861 n 0000 |    
+00012219 00 a 01 gulzig 0 000 |    
+00012255 00 a 01 onvermoed 0 001 ! 00004364 a 0000 |    
+00012312 00 a 01 hydrofiel 0 001 ;c 01101996 n 0000 |    
+00012370 00 a 01 tweezaadlobbig 0 002 ! 00007509 a 0000 ;c 00394257 n 0000 |    
+00012451 00 a 01 syntagmatisch 0 000 |    
+00012494 00 a 01 bevestigend 0 000 |    
+00012535 00 a 01 dronken 0 000 |    
+00012572 00 a 01 vergeeflijk 0 001 ! 00026996 a 0000 |    
+00012631 00 a 03 demontabel 0 inklapbaar 0 opvouwbaar 0 000 |    
+00012697 00 a 01 allopathisch 0 001 ! 00011441 a 0000 |    
+00012757 00 a 01 onbenut 0 000 |    
+00012794 00 a 02 oninbaar 0 onherstelbaar 0 001 ! 00022197 a 0000 |    
+00012866 00 a 01 doorlatend 0 001 ^ 00009353 a 0000 |    
+00012924 00 a 01 afdoend 0 001 = 01374322 n 0000 |    
+00012979 00 a 01 onpartijdig 0 000 |    
+00013020 00 a 01 naoorlogs 0 000 |    
+00013059 00 a 01 verenigbaar 0 001 ! 00005507 a 0000 |    
+00013118 00 a 01 stijlloos 0 000 |    
+00013157 00 a 01 onnauwkeurig 0 001 ^ 00003734 a 0000 |    
+00013217 00 a 01 veelvormig 0 000 |    
+00013257 00 a 01 holistisch 0 001 ! 00000475 a 0000 |    
+00013315 00 a 01 vleesloos 0 000 |    
+00013354 00 a 01 schadelijk 0 002 ! 00005057 a 0000 ^ 00021472 a 0000 |    
+00013430 00 a 01 onstuitbaar 0 000 |    
+00013471 00 a 01 herstelbaar 0 000 |    
+00013512 00 a 01 onbemand 0 000 |    
+00013550 00 a 02 coronair 0 vasculair 0 000 |    
+00013600 00 a 02 tweebenig 0 tweevoetig 0 001 ! 00028236 a 0000 |    
+00013670 00 a 01 placentair 0 000 |    
+00013710 00 a 01 ongetekend 0 000 |    
+00013750 00 a 01 sadistisch 0 001 ! 00020867 a 0000 |    
+00013808 00 a 01 ondemocratisch 0 000 |    
+00013852 00 a 01 assertief 0 001 ! 00018130 a 0000 |    
+00013909 00 a 01 geschoeid 0 001 ! 00018907 a 0000 |    
+00013966 00 a 01 onuitgegeven 0 000 |    
+00014008 00 a 01 onverpakt 0 000 |    
+00014047 00 a 01 methodistisch 0 001 ;c 01523971 n 0000 |    
+00014109 00 a 01 ongeslagen 0 000 |    
+00014149 00 a 01 ongemeubileerd 0 000 |    
+00014193 00 a 01 minimaal 0 000 |    
+00014231 00 a 02 onrechtvaardig 0 zondig 0 000 |    
+00014284 00 a 01 waterhoudend 0 001 ;c 01101996 n 0000 |    
+00014345 00 a 01 hoornen 0 000 |    
+00014382 00 a 01 brandbaar 0 001 ! 00004639 a 0000 |    
+00014439 00 a 01 autogeen 0 000 |    
+00014477 00 a 01 gewetenloos 0 000 |    
+00014518 00 a 01 onvergetelijk 0 000 |    
+00014561 00 a 01 overvloedig 0 001 = 00762647 n 0000 |    
+00014620 00 a 01 thermoplastisch 0 001 ! 00020405 a 0000 |    
+00014683 00 a 01 onvrouwelijk 0 000 |    
+00014725 00 a 01 onintelligent 0 002 = 00526092 n 0000 ^ 00019187 a 0000 |    
+00014804 00 a 01 onomstreden 0 000 |    
+00014845 00 a 02 verbitterd 0 haatdragend 0 000 |    
+00014899 00 a 01 ongeslachtelijk 0 001 = 00029497 n 0000 |    
+00014962 00 a 01 besmeurd 0 001 ^ 00027057 a 0000 |    
+00015018 00 a 02 ongeopend 0 voorverpakt 0 000 |    
+00015071 00 a 01 onwelriekend 0 001 ! 00007669 a 0000 |    
+00015131 00 a 01 eentalig 0 000 |    
+00015169 00 a 01 verteerbaar 0 003 ! 00029690 a 0000 ^ 00023159 a 0000 ^ 00023678 a 0000 |    
+00015264 00 a 02 voorzichtig 0 verstandig 0 000 |    
+00015318 00 a 01 ouderloos 0 000 |    
+00015357 00 a 01 afnemend 0 000 |    
+00015395 00 a 01 romaans 0 002 ;r 00313787 n 0000 ;c 00179829 n 0000 |    
+00015470 00 a 01 indrukwekkend 0 000 |    
+00015513 00 a 01 onverzoenlijk 0 001 ^ 00024366 a 0000 |    
+00015574 00 a 01 zusterlijk 0 000 |    
+00015614 00 a 01 catatonisch 0 001 ;c 01515917 n 0000 |    
+00015674 00 a 01 splijtbaar 0 001 ;c 01397469 n 0000 |    
+00015733 00 a 01 ongewerveld 0 002 ! 00019750 a 0000 ;c 00402046 n 0000 |    
+00015811 00 a 01 nomothetisch 0 001 ;c 00763718 n 0000 |    
+00015872 00 a 01 onverholen 0 001 ^ 00027260 a 0000 |    
+00015930 00 a 01 rookvrij 0 000 |    
+00015968 00 a 01 verkoopbaar 0 001 ! 00024264 a 0000 |    
+00016027 00 a 02 ectopisch 0 buitenbaarmoederlijk 0 001 ;c 00914751 n 0000 |    
+00016108 00 a 01 heerszuchtig 0 000 |    
+00016150 00 a 01 asymmetrisch 0 000 |    
+00016192 00 a 02 behaard 0 oorlogszuchtig 0 000 |    
+00016246 00 a 01 onlogisch 0 000 |    
+00016285 00 a 01 formalistisch 0 002 ;c 01323699 n 0000 ;c 01523971 n 0000 |    
+00016366 00 a 02 misnoegd 0 ontevreden 0 000 |    
+00016417 00 a 01 besluiteloos 0 000 |    
+00016459 00 a 01 onverwacht 0 001 ^ 00004833 a 0000 |    
+00016517 00 a 01 veeleisend 0 000 |    
+00016557 00 a 02 divalent 0 tweewaardig 0 001 ;c 01101996 n 0000 |    
+00016628 00 a 01 wispelturig 0 001 = 01781966 n 0000 |    
+00016687 00 a 01 verscholen 0 000 |    
+00016727 00 a 01 kiemvrij 0 000 |    
+00016765 00 a 02 komisch 0 humoristisch 0 002 ! 00007036 a 0000 ^ 00020150 a 0000 |    
+00016853 00 a 01 taxonomisch 0 001 ;c 00631496 n 0000 |    
+00016913 00 a 01 afgedwongen 0 000 |    
+00016954 00 a 01 deprimerend 0 001 = 02090654 n 0000 |    
+00017013 00 a 01 exocrien 0 000 |    
+00017051 00 a 01 attributief 0 002 ! 00011084 a 0000 ;c 01759802 n 0000 |    
+00017129 00 a 01 berucht 0 003 ! 00001721 a 0000 = 00717319 n 0000 ^ 00017495 a 0000 |    
+00017220 00 a 01 ongevleugeld 0 000 |    
+00017262 00 a 01 inspringend 0 000 |    
+00017303 00 a 01 verklarend 0 001 ! 00010564 a 0000 |    
+00017361 00 a 02 irreversibel 0 onomkeerbaar 0 000 |    
+00017418 00 a 01 fruitig 0 000 |    
+00017455 00 a 01 omkeerbaar 0 000 |    
+00017495 00 a 01 oneervol 0 001 ^ 00017129 a 0000 |    
+00017551 00 a 02 Haspengouws 0 leemachtig 0 000 |    
+00017605 00 a 01 aanlokkelijk 0 000 |    
+00017647 00 a 01 verspreid 0 001 ^ 00018619 a 0000 |    
+00017704 00 a 01 beschuldigend 0 001 ! 00021642 a 0000 |    
+00017765 00 a 01 isomorf 0 001 ;c 00631496 n 0000 |    
+00017821 00 a 02 geneigd 0 ongenegen 0 000 |    
+00017870 00 a 01 intercontinentaal 0 000 |    
+00017917 00 a 02 egoïstisch 0 egocentrisch 0 000 |    
+00017973 00 a 01 onbevooroordeeld 0 000 |    
+00018019 00 a 01 hoorbaar 0 002 ! 00021136 a 0000 = 01388149 n 0000 |    
+00018093 00 a 01 geolied 0 000 |    
+00018130 00 a 01 zelfbewust 0 001 ! 00013852 a 0000 |    
+00018188 00 a 01 geconstipeerd 0 000 |    
+00018231 00 a 02 divergerend 0 uiteenlopend 0 001 ! 00021584 a 0000 |    
+00018305 00 a 01 opstandig 0 001 ! 00006431 a 0000 |    
+00018362 00 a 01 conflictueus 0 000 |    
+00018404 00 a 01 ondrinkbaar 0 001 ! 00022926 a 0000 |    
+00018463 00 a 01 heuristisch 0 000 |    
+00018504 00 a 01 aviair 0 001 ;c 00402046 n 0000 |    
+00018559 00 a 01 verklaarbaar 0 001 ! 00024076 a 0000 |    
+00018619 00 a 01 distributief 0 001 ^ 00017647 a 0000 |    
+00018679 00 a 01 ongodsdienstig 0 000 |    
+00018723 00 a 01 pluimvormig 0 001 ;c 01505302 n 0000 |    
+00018783 00 a 01 betwistbaar 0 000 |    
+00018824 00 a 01 onbemind 0 000 |    
+00018862 00 a 01 onvergelijkbaar 0 000 |    
+00018907 00 a 01 ongeschoeid 0 002 ! 00013909 a 0000 ;c 01523971 n 0000 |    
+00018985 00 a 01 waarneembaar 0 000 |    
+00019027 00 a 01 anglicaans 0 001 ;c 01523971 n 0000 |    
+00019086 00 a 02 minnelijk 0 vriendschappelijk 0 000 |    
+00019145 00 a 01 matriarchaal 0 000 |    
+00019187 00 a 01 achtergebleven 0 001 ^ 00014725 a 0000 |    
+00019249 00 a 01 bloeddrukverlagend 0 000 |    
+00019297 00 a 01 multilateraal 0 000 |    
+00019340 00 a 01 binnenlands 0 000 |    
+00019381 00 a 01 ongekend 0 000 |    
+00019419 00 a 01 parttime 0 000 |    
+00019457 00 a 01 onovergankelijk 0 001 ;c 01759802 n 0000 |    
+00019521 00 a 01 zomers 0 001 ! 00022691 a 0000 |    
+00019575 00 a 01 seizoengebonden 0 000 |    
+00019620 00 a 01 eenzelvig 0 001 ^ 00009177 a 0000 |    
+00019677 00 a 02 desbetreffende 0 relevant 0 001 ! 00020021 a 0000 |    
+00019750 00 a 01 gewerveld 0 002 ! 00015733 a 0000 ;c 00402046 n 0000 |    
+00019826 00 a 01 onbeleefd 0 000 |    
+00019865 00 a 01 gemotoriseerd 0 000 |    
+00019908 00 a 01 competitief 0 000 |    
+00019949 00 a 02 geriefelijk 0 aangenaam 0 001 ;u 01713199 n 0000 |    
+00020021 00 a 02 irrelevant 0 onbelangrijk 0 001 ! 00019677 a 0000 |    
+00020094 00 a 01 verdiend 0 001 ! 00025655 a 0000 |    
+00020150 00 a 01 plezierig 0 002 ! 00025443 a 0000 ^ 00016765 a 0000 |    
+00020225 00 a 01 voorhuwelijks 0 000 |    
+00020268 00 a 01 introvert 0 000 |    
+00020307 00 a 01 concentrisch 0 000 |    
+00020349 00 a 01 gespeend 0 001 ! 00022596 a 0000 |    
+00020405 00 a 01 thermohardend 0 001 ! 00014620 a 0000 |    
+00020466 00 a 01 wapenkundig 0 000 |    
+00020507 00 a 01 onesthetisch 0 000 |    
+00020549 00 a 02 multiple 0 meerder 0 000 |    
+00020597 00 a 01 diachronisch 0 001 ;c 01348930 n 0000 |    
+00020658 00 a 01 aspecifiek 0 002 ;c 01515917 n 0000 ;c 01562106 n 0000 |    
+00020736 00 a 03 opbouwend 0 verheerlijkt 0 onverstaanbaar 0 001 ! 00004020 a 0000 |    
+00020825 00 a 01 onderliggend 0 000 |    
+00020867 00 a 01 masochistisch 0 001 ! 00013750 a 0000 |    
+00020928 00 a 01 onbevangen 0 000 |    
+00020968 00 a 01 ongerijmd 0 000 |    
+00021007 00 a 01 frivool 0 001 = 00296076 n 0000 |    
+00021062 00 a 02 onbestaand 0 niet-bestaand 0 001 = 01806280 n 0000 |    
+00021136 00 a 01 onhoorbaar 0 003 ! 00018019 a 0000 = 01388149 n 0000 ^ 00012020 a 0000 |    
+00021230 00 a 01 beweegbaar 0 000 |    
+00021270 00 a 01 opstijgend 0 000 |    
+00021310 00 a 01 onvervangbaar 0 001 ! 00026181 a 0000 |    
+00021371 00 a 01 uitgeschakeld 0 000 |    
+00021414 00 a 01 normatief 0 001 ;c 01759802 n 0000 |    
+00021472 00 a 01 nadelig 0 002 ^ 00013354 a 0000 ^ 00002579 a 0000 |    
+00021545 00 a 01 onoprecht 0 000 |    
+00021584 00 a 01 convergent 0 001 ! 00018231 a 0000 |    
+00021642 00 a 01 ontlastend 0 001 ! 00017704 a 0000 |    
+00021700 00 a 01 atonaal 0 001 ;c 01638088 n 0000 |    
+00021756 00 a 01 behendig 0 000 |    
+00021794 00 a 01 adaptief 0 001 ! 00025949 a 0000 |    
+00021850 00 a 01 glibberig 0 000 |    
+00021889 00 a 01 mensenschuw 0 002 = 01787402 n 0000 ^ 00028921 a 0000 |    
+00021966 00 a 01 uitvoerbaar 0 000 |    
+00022007 00 a 01 autogaam 0 001 ;c 01505302 n 0000 |    
+00022064 00 a 01 mononucleair 0 001 ;c 00631496 n 0000 |    
+00022125 00 a 02 driewaardig 0 trivalent 0 001 ;c 01101996 n 0000 |    
+00022197 00 a 01 verhaalbaar 0 001 ! 00012794 a 0000 |    
+00022256 00 a 02 wasbaar 0 afwasbaar 0 000 |    
+00022305 00 a 01 verzorgd 0 000 |    
+00022343 00 a 01 intrinsiek 0 001 ! 00002057 a 0000 |    
+00022401 00 a 01 maligne 0 001 ;c 01562106 n 0000 |    
+00022457 00 a 01 plantenetend 0 001 ! 00001816 a 0000 |    
+00022517 00 a 01 gehoornd 0 000 |    
+00022555 00 a 01 geadopteerd 0 000 |    
+00022596 00 a 01 begiftigd 0 001 ! 00020349 a 0000 |    
+00022653 00 a 01 homogeen 0 000 |    
+00022691 00 a 01 winters 0 001 ! 00019521 a 0000 |    
+00022746 00 a 01 humaan 0 001 = 01666381 n 0000 |    
+00022800 00 a 01 verwonderlijk 0 001 ! 00004833 a 0000 |    
+00022861 00 a 02 bronstig 0 gretig 0 001 ^ 00008343 a 0000 |    
+00022926 00 a 01 drinkbaar 0 001 ! 00018404 a 0000 |    
+00022983 00 a 01 exotherm 0 001 ! 00006045 a 0000 |    
+00023039 00 a 01 ontgoocheld 0 000 |    
+00023080 00 a 01 poreus 0 000 |    
+00023116 00 a 01 lichtgekleurd 0 000 |    
+00023159 00 a 01 eetbaar 0 002 ! 00025522 a 0000 ^ 00015169 a 0000 |    
+00023232 00 a 01 decentraal 0 000 |    
+00023272 00 a 01 gepassioneerd 0 002 ^ 00008343 a 0000 ^ 00007365 a 0000 |    
+00023351 00 a 01 ontregeld 0 000 |    
+00023390 00 a 01 incontinent 0 000 |    
+00023431 00 a 01 hiërarchisch 0 000 |    
+00023474 00 a 01 onnodig 0 001 = 00970474 n 0000 |    
+00023529 00 a 01 gewond 0 001 ! 00030288 a 0000 |    
+00023583 00 a 01 koortswerend 0 000 |    
+00023625 00 a 01 vroom 0 001 = 01420553 n 0000 |    
+00023678 00 a 01 smaakvol 0 001 ^ 00015169 a 0000 |    
+00023734 00 a 01 onbegaanbaar 0 000 |    
+00023776 00 a 01 ondoeltreffend 0 001 = 00874070 n 0000 |    
+00023838 00 a 01 eierleggend 0 002 ! 00029292 a 0000 ;c 00402046 n 0000 |    
+00023916 00 a 01 liefdeloos 0 001 ! 00007365 a 0000 |    
+00023974 00 a 01 onbevestigd 0 000 |    
+00024015 00 a 01 contrastrijk 0 001 ;c 01090671 n 0000 |    
+00024076 00 a 01 onverklaarbaar 0 001 ! 00018559 a 0000 |    
+00024138 00 a 01 denkbaar 0 002 ! 00002389 a 0000 ^ 00011250 a 0000 |    
+00024212 00 a 02 rechtvaardig 0 billijk 0 000 |    
+00024264 00 a 01 onverkoopbaar 0 001 ! 00015968 a 0000 |    
+00024325 00 a 01 ondernemend 0 000 |    
+00024366 00 a 02 genadeloos 0 meedogenloos 0 001 ^ 00015513 a 0000 |    
+00024439 00 a 01 slechtgehumeurd 0 002 = 00183116 n 0000 ^ 00027662 a 0000 |    
+00024520 00 a 01 ongetemd 0 000 |    
+00024558 00 a 01 gevraagd 0 000 |    
+00024596 00 a 01 buitenzintuiglijk 0 001 ! 00008231 a 0000 |    
+00024661 00 a 02 ongehuwd 0 ongetrouwd 0 000 |    
+00024712 00 a 01 stimulerend 0 001 ! 00007902 a 0000 |    
+00024771 00 a 01 onkwetsbaar 0 000 |    
+00024812 00 a 01 vleiend 0 001 ! 00001183 a 0000 |    
+00024867 00 a 02 episcopaal 0 bisschoppelijk 0 001 ;c 01523971 n 0000 |    
+00024943 00 a 01 magnetisch 0 000 |    
+00024983 00 a 02 slopend 0 uitputtend 0 001 ! 00025811 a 0000 |    
+00025051 00 a 01 acellulair 0 000 |    
+00025091 00 a 01 opgewekt 0 000 |    
+00025129 00 a 01 gedraaid 0 000 |    
+00025167 00 a 01 onverteerbaar 0 001 ^ 00025522 a 0000 |    
+00025228 00 a 01 dactylisch 0 001 ;c 00891491 n 0000 |    
+00025287 00 a 01 opportuun 0 001 ! 00002579 a 0000 |    
+00025344 00 a 03 kreukelig 0 rimpelig 0 gerimpeld 0 000 |    
+00025406 00 a 01 relaxed 0 000 |    
+00025443 00 a 01 onwelgevallig 0 002 ! 00020150 a 0000 ^ 00027662 a 0000 |    
+00025522 00 a 01 oneetbaar 0 003 ! 00023159 a 0000 ^ 00025167 a 0000 ^ 00029690 a 0000 |    
+00025615 00 a 01 reticulair 0 000 |    
+00025655 00 a 01 onverdiend 0 001 ! 00020094 a 0000 |    
+00025713 00 a 01 onachtzaam 0 001 = 01880529 n 0000 |    
+00025771 00 a 01 verstreken 0 000 |    
+00025811 00 a 02 versterkend 0 verkwikkend 0 001 ! 00024983 a 0000 |    
+00025884 00 a 02 holrond 0 concaaf 0 001 ! 00000928 a 0000 |    
+00025949 00 a 01 onaangepast 0 001 ! 00021794 a 0000 |    
+00026008 00 a 02 unitaristisch 0 unitair 0 001 ;c 01523971 n 0000 |    
+00026080 00 a 01 beïnvloedbaar 0 000 |    
+00026124 00 a 01 afgewogen 0 001 ! 00029629 a 0000 |    
+00026181 00 a 01 vervangbaar 0 001 ! 00021310 a 0000 |    
+00026240 00 a 02 ontoelaatbaar 0 niet-ontvankelijk 0 001 = 01538328 n 0000 |    
+00026321 00 a 01 danig 0 001 ;c 00308861 n 0000 |    
+00026375 00 a 01 extracellulair 0 002 ! 00006955 a 0000 ;c 00631496 n 0000 |    
+00026456 00 a 01 raadzaam 0 002 ! 00029101 a 0000 ^ 00015264 a 0000 |    
+00026530 00 a 01 overredend 0 000 |    
+00026570 00 a 01 luchtwaardig 0 000 |    
+00026612 00 a 01 schermbloemig 0 001 ;c 01505302 n 0000 |    
+00026674 00 a 01 ongemengd 0 001 ! 00003679 a 0000 |    
+00026731 00 a 01 geruststellend 0 001 = 01472788 n 0000 |    
+00026793 00 a 02 krullend 0 gekruld 0 000 |    
+00026841 00 a 01 insolvent 0 000 |    
+00026880 00 a 01 hardlijvig 0 001 ! 00010820 a 0000 |    
+00026938 00 a 01 ongelaagd 0 001 ;c 01507963 n 0000 |    
+00026996 00 a 01 onvergeeflijk 0 001 ! 00012572 a 0000 |    
+00027057 00 a 02 vlotjes 0 onordelijk 0 001 ^ 00014962 a 0000 |    
+00027125 00 a 01 onverzadigbaar 0 000 |    
+00027169 00 a 01 vergroot 0 000 |    
+00027207 00 a 02 daaropvolgend 0 volgend 0 000 |    
+00027260 00 a 02 uitgesproken 0 openlijk 0 001 ^ 00015872 a 0000 |    
+00027331 00 a 03 ongeschoold 0 onopgevoed 0 volks 0 000 |    
+00027393 00 a 01 verboden 0 001 = 01252553 n 0000 |    
+00027449 00 a 01 onverzekerd 0 000 |    
+00027490 00 a 01 monddood 0 000 |    
+00027528 00 a 02 optioneel 0 facultatief 0 000 |    
+00027581 00 a 01 onervaren 0 000 |    
+00027620 00 a 01 herroepelijk 0 000 |    
+00027662 00 a 03 onprettig 0 onplezierig 0 onaangenaam 0 003 ^ 00025443 a 0000 ^ 00029690 a 0000 ^ 00024439 a 0000 |    
+00027783 00 a 02 ongrammaticaal 0 grammaticaal 0 000 |    
+00027842 00 a 01 derdegraads 0 000 |    
+00027883 00 a 03 onbetwistbaar 0 onloochenbaar 0 onmiskenbaar 0 000 |    
+00027957 00 a 01 impopulair 0 001 = 01386028 n 0000 |    
+00028015 00 a 01 onvindbaar 0 000 |    
+00028055 00 a 01 onderscheidene 0 000 |    
+00028099 00 a 01 gasvormig 0 001 = 00392972 n 0000 |    
+00028156 00 a 01 onvoorbereid 0 000 |    
+00028198 00 a 01 bijziend 0 000 |    
+00028236 00 a 01 viervoetig 0 001 ! 00013600 a 0000 |    
+00028294 00 a 01 ontactisch 0 000 |    
+00028334 00 a 01 regelrecht 0 000 |    
+00028374 00 a 01 dateerbaar 0 000 |    
+00028414 00 a 02 onbevallig 0 onelegant 0 000 |    
+00028466 00 a 01 onfortuinlijk 0 000 |    
+00028509 00 a 01 purulent 0 000 |    
+00028547 00 a 01 ondoordringbaar 0 001 ! 00009353 a 0000 |    
+00028610 00 a 02 zeewaardig 0 onzeewaardig 0 001 = 01072099 n 0000 |    
+00028683 00 a 01 onleefbaar 0 000 |    
+00028723 00 a 01 speelbaar 0 001 ! 00001662 a 0000 |    
+00028780 00 a 01 ongeschoren 0 000 |    
+00028821 00 a 01 lichtvoetig 0 000 |    
+00028862 00 a 01 staalgrijs 0 001 ;c 01101996 n 0000 |    
+00028921 00 a 01 onmaatschappelijk 0 002 = 01756056 n 0000 ^ 00021889 a 0000 |    
+00029004 00 a 01 breekbaar 0 001 ! 00004092 a 0000 |    
+00029061 00 a 01 welgevormd 0 000 |    
+00029101 00 a 01 ongeraden 0 001 ! 00026456 a 0000 |    
+00029158 00 a 01 verroest 0 000 |    
+00029196 00 a 01 informatief 0 001 ^ 00009799 a 0000 |    
+00029255 00 a 01 nalatig 0 000 |    
+00029292 00 a 01 levendbarend 0 002 ! 00023838 a 0000 ;c 00402046 n 0000 |    
+00029371 00 a 01 linkshandig 0 000 |    
+00029412 00 a 02 ongebruikelijk 0 atypisch 0 000 |    
+00029467 00 a 01 laatstgenoemd 0 000 |    
+00029510 00 a 01 ontoereikend 0 002 ! 00001448 a 0000 = 00762647 n 0000 |    
+00029588 00 a 01 kwaadwillig 0 000 |    
+00029629 00 a 01 onevenwichtig 0 001 ! 00026124 a 0000 |    
+00029690 00 a 01 onverkwikkelijk 0 003 ! 00015169 a 0000 ^ 00025522 a 0000 ^ 00027662 a 0000 |    
+00029789 00 a 01 fundamentalistisch 0 001 ;c 00308861 n 0000 |    
+00029856 00 a 01 onverhard 0 001 ! 00003262 a 0000 |    
+00029913 00 a 01 monotheïstisch 0 001 ! 00002182 a 0000 |    
+00029976 00 a 02 betekenisloos 0 zinloos 0 000 |    
+00030029 00 a 01 heterozygoot 0 001 ;c 02123327 n 0000 |    
+00030090 00 a 01 onbeschermd 0 000 |    
+00030131 00 a 01 hydrostatisch 0 000 |    
+00030174 00 a 01 kruimelig 0 000 |    
+00030213 00 a 01 efferent 0 002 ! 00007205 a 0000 ;c 00789849 n 0000 |    
+00030288 00 a 01 ongedeerd 0 003 ! 00023529 a 0000 ^ 00008973 a 0000 ^ 00008657 a 0000 |    
+00030381 00 a 01 feministisch 0 000 |    
+00030423 00 a 01 cybernetisch 0 000 |    
+00030465 00 a 01 foetaal 0 000 |    
+00030502 00 a 01 Pakistaans 0 000 |    
+00030542 00 a 01 filologisch 0 000 |    
+00030583 00 a 01 misvormd 0 000 |    
+00030621 00 a 01 expansionistisch 0 000 |    
+00030667 00 a 01 gehouden 0 000 |    
+00030705 00 a 01 micro-economisch 0 000 |    
+00030751 00 a 01 gnostisch 0 000 |    
+00030790 00 a 01 stereoscopisch 0 000 |    
+00030834 00 a 01 Joegoslavisch 0 000 |    
+00030877 00 a 01 metallurgisch 0 000 |    
+00030920 00 a 01 motiverend 0 000 |    
+00030960 00 a 01 cyclopisch 0 000 |    
+00031000 00 a 01 hemorragisch 0 000 |    
+00031042 00 a 01 genotzuchtig 0 000 |    
+00031084 00 a 01 pulmonair 0 000 |    
+00031123 00 a 01 bijwoordelijk 0 000 |    
+00031166 00 a 01 centralistisch 0 000 |    
+00031210 00 a 01 paleolithisch 0 000 |    
+00031253 00 a 01 vraatzuchtig 0 000 |    
+00031295 00 a 01 dualistisch 0 000 |    
+00031336 00 a 01 hemolytisch 0 000 |    
+00031377 00 a 01 exegetisch 0 000 |    
+00031417 00 a 01 Djiboutiaans 0 000 |    
+00031459 00 a 01 Venezolaans 0 000 |    
+00031500 00 a 01 aartshertogelijk 0 000 |    
+00031546 00 a 01 raafachtig 0 000 |    
+00031586 00 a 01 stalinistisch 0 000 |    
+00031629 00 a 01 syllogistisch 0 000 |    
+00031672 00 a 01 Palestijns 0 000 |    
+00031712 00 a 01 felien 0 000 |    
+00031748 00 a 01 plantaardig 0 000 |    
+00031789 00 a 01 cardiologisch 0 000 |    
+00031832 00 a 01 voedzaam 0 000 |    
+00031870 00 a 01 antropocentrisch 0 000 |    
+00031916 00 a 01 seismologisch 0 000 |    
+00031959 00 a 01 thermodynamisch 0 000 |    
+00032004 00 a 01 Zambiaans 0 000 |    
+00032043 00 a 01 atheïstisch 0 000 |    
+00032085 00 a 01 Afgaans 0 000 |    
+00032122 00 a 01 olfactorisch 0 000 |    
+00032164 00 a 01 onrechtmatig 0 000 |    
+00032206 00 a 01 bijvoeglijk 0 000 |    
+00032247 00 a 01 demagogisch 0 000 |    
+00032288 00 a 01 zodiakaal 0 000 |    
+00032327 00 a 01 semiotisch 0 000 |    
+00032367 00 a 01 sociaal-cultureel 0 000 |    
+00032414 00 a 01 duizendjarig 0 000 |    
+00032456 00 a 01 verzoenend 0 000 |    
+00032496 00 a 01 professoraal 0 000 |    
+00032538 00 a 01 Moldavisch 0 000 |    
+00032578 00 a 01 draconisch 0 000 |    
+00032618 00 a 01 besneeuwd 0 000 |    
+00032657 00 a 01 aseptisch 0 000 |    
+00032696 00 a 01 kubusvormig 0 000 |    
+00032737 00 a 02 landbouwkundig 0 agronomisch 0 000 |    
+00032795 00 a 01 wrattig 0 000 |    
+00032832 00 a 01 Teutoons 0 000 |    
+00032870 00 a 01 entomologisch 0 000 |    
+00032913 00 a 01 interplanetair 0 000 |    
+00032957 00 a 01 klimatologisch 0 000 |    
+00033001 00 a 01 neurologisch 0 000 |    
+00033043 00 a 01 geologisch 0 000 |    
+00033083 00 a 01 macromoleculair 0 000 |    
+00033128 00 a 01 mohammedaans 0 000 |    
+00033170 00 a 01 Paraguayaans 0 000 |    
+00033212 00 a 01 naaktzadig 0 000 |    
+00033252 00 a 01 genealogisch 0 000 |    
+00033294 00 a 01 megalitisch 0 000 |    
+00033335 00 a 01 evolutionair 0 000 |    
+00033377 00 a 01 geleidend 0 000 |    
+00033416 00 a 01 geribbeld 0 000 |    
+00033455 00 a 01 Kameroens 0 000 |    
+00033494 00 a 01 preklinisch 0 000 |    
+00033535 00 a 01 terminologisch 0 000 |    
+00033579 00 a 01 soteriologisch 0 000 |    
+00033623 00 a 01 ergonomisch 0 000 |    
+00033664 00 a 01 doctrinair 0 000 |    
+00033704 00 a 01 aristotelisch 0 000 |    
+00033747 00 a 01 episch 0 000 |    
+00033783 00 a 01 Moravisch 0 000 |    
+00033822 00 a 01 monistisch 0 000 |    
+00033862 00 a 01 geslepen 0 000 |    
+00033900 00 a 01 tragisch 0 000 |    
+00033938 00 a 01 Zuid-Afrikaans 0 000 |    
+00033982 00 a 02 kegelvormig 0 conisch 0 000 |    
+00034033 00 a 01 bestuursrechtelijk 0 000 |    
+00034081 00 a 01 draadloos 0 000 |    
+00034120 00 a 01 vertebraal 0 000 |    
+00034160 00 a 01 syntactisch 0 000 |    
+00034201 00 a 01 plutocratisch 0 000 |    
+00034244 00 a 01 venerisch 0 000 |    
+00034283 00 a 01 maoïstisch 0 000 |    
+00034324 00 a 02 Nicaraguaans 0 Nigeriaans 0 000 |    
+00034379 00 a 01 lithografisch 0 000 |    
+00034422 00 a 02 symbolisch 0 iconisch 0 000 |    
+00034473 00 a 01 kankerverwekkend 0 000 |    
+00034519 00 a 01 Cubaans 0 000 |    
+00034556 00 a 01 antropologisch 0 000 |    
+00034600 00 a 01 Ecuadoraans 0 000 |    
+00034641 00 a 01 etymologisch 0 000 |    
+00034683 00 a 01 Atlantisch 0 000 |    
+00034723 00 a 01 etnologisch 0 000 |    
+00034764 00 a 01 totalitair 0 000 |    
+00034804 00 a 01 Algerijns 0 000 |    
+00034843 00 a 01 Namibisch 0 000 |    
+00034882 00 a 02 vijfhoekig 0 pentagonaal 0 000 |    
+00034936 00 a 01 Filipijns 0 000 |    
+00034975 00 a 01 propagandistisch 0 000 |    
+00035021 00 a 01 kalligrafisch 0 000 |    
+00035064 00 a 01 colloïdaal 0 000 |    
+00035105 00 a 01 nihilistisch 0 000 |    
+00035147 00 a 01 metrologisch 0 000 |    
+00035189 00 a 01 kubistisch 0 000 |    
+00035229 00 a 01 fascistisch 0 000 |    
+00035270 00 a 02 orthografisch 0 autografisch 0 000 |    
+00035328 00 a 01 monetair 0 000 |    
+00035366 00 a 01 zaaddodend 0 000 |    
+00035406 00 a 01 organisatorisch 0 000 |    
+00035451 00 a 01 utopisch 0 000 |    
+00035489 00 a 02 darwinistisch 0 darwiniaans 0 000 |    
+00035546 00 a 01 Omaans 0 000 |    
+00035582 00 a 01 radiografisch 0 000 |    
+00035625 00 a 01 Karolingisch 0 000 |    
+00035667 00 a 01 dermatologisch 0 000 |    
+00035711 00 a 01 transpolair 0 000 |    
+00035752 00 a 01 spectrografisch 0 000 |    
+00035797 00 a 01 marmerachtig 0 000 |    
+00035839 00 a 01 nautisch 0 000 |    
+00035877 00 a 01 piëzo-elektrisch 0 000 |    
+00035924 00 a 01 vaginaal 0 000 |    
+00035962 00 a 01 theosofisch 0 000 |    
+00036003 00 a 01 Atheens 0 000 |    
+00036040 00 a 01 arminiaans 0 000 |    
+00036080 00 a 01 Melanesisch 0 000 |    
+00036121 00 a 01 alfanumeriek 0 000 |    
+00036163 00 a 01 Zwitsers 0 000 |    
+00036201 00 a 01 actuarieel 0 000 |    
+00036241 00 a 02 uitspringend 0 uitstekend 0 000 |    
+00036296 00 a 01 Pruisisch 0 000 |    
+00036335 00 a 01 Tanzaniaans 0 000 |    
+00036376 00 a 01 hematologisch 0 000 |    
+00036419 00 a 01 protozoïsch 0 000 |    
+00036461 00 a 01 kwartsachtig 0 000 |    
+00036503 00 a 01 Andorraans 0 000 |    
+00036543 00 a 02 achtkantig 0 achthoekig 0 000 |    
+00036596 00 a 01 Malawisch 0 000 |    
+00036635 00 a 01 pauselijk 0 000 |    
+00036674 00 a 02 franciscaner 0 franciscaans 0 000 |    
+00036731 00 a 01 respiratoir 0 000 |    
+00036772 00 a 01 etnografisch 0 000 |    
+00036814 00 a 01 bemiddelend 0 000 |    
+00036855 00 a 01 neoplastisch 0 000 |    
+00036897 00 a 01 koppotig 0 000 |    
+00036935 00 a 01 fugatisch 0 000 |    
+00036974 00 a 01 eucharistisch 0 000 |    
+00037017 00 a 01 meteorologisch 0 000 |    
+00037061 00 a 01 proteolytisch 0 000 |    
+00037104 00 a 01 anaforisch 0 000 |    
+00037144 00 a 01 algebraïsch 0 000 |    
+00037186 00 a 01 astrofysisch 0 000 |    
+00037228 00 a 01 verloskundig 0 000 |    
+00037270 00 a 01 orkestraal 0 000 |    
+00037310 00 a 01 hermeneutisch 0 000 |    
+00037353 00 a 01 echtelijk 0 000 |    
+00037392 00 a 01 gelijknamig 0 000 |    
+00037433 00 a 01 cardiovasculair 0 000 |    
+00037478 00 a 01 psychoanalytisch 0 000 |    
+00037524 00 a 01 corpusculair 0 000 |    
+00037566 00 a 01 kreukvrij 0 000 |    
+00037605 00 a 01 Ethiopisch 0 000 |    
+00037645 00 a 01 Liechtensteins 0 000 |    
+00037689 00 a 01 neolithisch 0 000 |    
+00037730 00 a 01 positivistisch 0 000 |    
+00037774 00 a 02 biogenetisch 0 biogeen 0 000 |    
+00037826 00 a 02 Rooms 0 paaps 0 000 |    
+00037869 00 a 01 Uruguayaans 0 000 |    
+00037910 00 a 01 methodologisch 0 000 |    
+00037954 00 a 01 leverbaar 0 000 |    
+00037993 00 a 01 homeostatisch 0 000 |    
+00038036 00 a 01 immunologisch 0 000 |    
+00038079 00 a 01 antibiotisch 0 000 |    
+00038121 00 a 01 corporatistisch 0 000 |    
+00038166 00 a 01 choreografisch 0 000 |    
+00038210 00 a 01 kalkhoudend 0 000 |    
+00038251 00 a 01 arbitraal 0 000 |    
+00038290 00 a 01 histologisch 0 000 |    
+00038332 00 a 01 mitotisch 0 000 |    
+00038371 00 a 02 mediterraan 0 middellands 0 000 |    
+00038426 00 a 01 theocratisch 0 000 |    
+00038468 00 a 01 embolisch 0 000 |    
+00038507 00 a 01 Tsjechoslowaaks 0 000 |    
+00038552 00 a 01 subtropisch 0 000 |    
+00038593 00 a 01 koolstofhoudend 0 000 |    
+00038638 00 a 01 statistisch 0 000 |    
+00038679 00 a 01 paramilitair 0 000 |    
+00038721 00 a 01 aluminiumhoudend 0 000 |    
+00038767 00 a 01 audiovisueel 0 000 |    
+00038809 00 a 02 bouwkundig 0 architectonisch 0 000 |    
+00038867 00 a 01 Jemenitisch 0 000 |    
+00038908 00 a 01 confronterend 0 000 |    
+00038951 00 a 01 exponentieel 0 000 |    
+00038993 00 a 01 premenstrueel 0 000 |    
+00039036 00 a 01 lexicografisch 0 000 |    
+00039080 00 a 01 sadomasochistisch 0 000 |    
+00039127 00 a 01 gelijkaardig 0 000 |    
+00039169 00 a 01 krijtachtig 0 000 |    
+00039210 00 a 01 intergalactisch 0 000 |    
+00039255 00 a 02 eiwithoudend 0 eiwitachtig 0 000 |    
+00039311 00 a 01 ornithologisch 0 000 |    
+00039355 00 a 01 Argentijns 0 000 |    
+00039395 00 a 01 mongoloïde 0 000 |    
+00039436 00 a 01 eenwaardig 0 000 |    
+00039476 00 a 01 cognitief 0 000 |    
+00039515 00 a 01 Aziatisch 0 000 |    
+00039554 00 a 01 budgettair 0 000 |    
+00039594 00 a 01 Keniaans 0 000 |    
+00039632 00 a 01 faryngaal 0 000 |    
+00039671 00 a 01 islamitisch 0 000 |    
+00039712 00 a 01 papillair 0 000 |    
+00039751 00 a 01 schismatiek 0 000 |    
+00039792 00 a 01 postdoctoraal 0 000 |    
+00039835 00 a 01 parhelisch 0 000 |    
+00039875 00 a 02 Saudisch 0 Saudi-Arabisch 0 000 |    
+00039930 00 a 01 barometrisch 0 000 |    
+00039972 00 a 02 gratis 0 tolvrij 0 000 |    
+00040018 00 a 01 voornaamwoordelijk 0 000 |    
+00040066 00 a 01 feestelijk 0 000 |    
+00040106 00 a 01 oligarchisch 0 000 |    
+00040148 00 a 01 levitisch 0 000 |    
+00040187 00 a 01 ijzerhoudend 0 000 |    
+00040229 00 a 01 antropometrisch 0 000 |    
+00040274 00 a 01 voorchristelijk 0 000 |    
+00040319 00 a 01 vliesvleugelig 0 000 |    
+00040363 00 a 01 onomastisch 0 000 |    
+00040404 00 a 01 perceptueel 0 000 |    
+00040445 00 a 01 radiologisch 0 000 |    
+00040487 00 a 01 archivaal 0 000 |    
+00040526 00 a 01 Cyprisch 0 000 |    
+00040564 00 a 01 Samaritaans 0 000 |    
+00040605 00 a 01 geofysisch 0 000 |    
+00040645 00 a 01 gerontologisch 0 000 |    
+00040689 00 a 01 lovend 0 000 |    
+00040725 00 a 01 intermoleculair 0 000 |    
+00040770 00 a 01 cartografisch 0 000 |    
+00040813 00 a 01 elektroforetisch 0 000 |    
+00040859 00 a 01 bacteriologisch 0 000 |    
+00040904 00 a 01 Mexicaans 0 000 |    
+00040943 00 a 01 geodetisch 0 000 |    
+00040983 00 a 01 communistisch 0 000 |    
+00041026 00 a 01 existentialistisch 0 000 |    
+00041074 00 a 01 prosodisch 0 000 |    
+00041114 00 a 01 gastronomisch 0 000 |    
+00041157 00 a 01 chassidisch 0 000 |    
+00041198 00 a 01 intramusculair 0 000 |    
+00041242 00 a 01 wollen 0 000 |    
+00041278 00 a 01 missionair 0 000 |    
+00041318 00 a 01 necrotisch 0 000 |    
+00041358 00 a 01 asymptotisch 0 000 |    
+00041400 00 a 01 voorafgaand 0 000 |    
+00041441 00 a 01 fysisch 0 000 |    
+00041478 00 a 01 limbisch 0 000 |    
+00041516 00 a 01 epileptisch 0 000 |    
+00041557 00 a 01 Liberiaans 0 000 |    
+00041597 00 a 01 zeepachtig 0 000 |    
+00041637 00 a 01 honderdjarig 0 000 |    
+00041679 00 a 01 biografisch 0 000 |    
+00041720 00 a 01 educatief 0 000 |    
+00041759 00 a 01 overwonnen 0 000 |    
+00041799 00 a 01 neuralgisch 0 000 |    
+00041840 00 a 01 Venetiaans 0 000 |    
+00041880 00 a 01 Libisch 0 000 |    
+00041917 00 a 01 Ests 0 000 |    
+00041951 00 a 01 napoleontisch 0 000 |    
+00041994 00 a 01 orthopedisch 0 000 |    
+00042036 00 a 01 imperialistisch 0 000 |    
+00042081 00 a 01 essen 0 000 |    
+00042116 00 a 01 bimoleculair 0 000 |    
+00042158 00 a 01 anarchistisch 0 000 |    
+00042201 00 a 01 cilindervormig 0 000 |    
+00042245 00 a 01 tweelippig 0 000 |    
+00042285 00 a 01 stikstofhoudend 0 000 |    
+00042330 00 a 01 frenologisch 0 000 |    
+00042372 00 a 01 systematisch 0 000 |    
+00042414 00 a 01 interstellair 0 000 |    
+00042457 00 a 01 atactisch 0 000 |    
+00042496 00 a 01 therapeutisch 0 000 |    
+00042539 00 a 01 hepatisch 0 000 |    
+00042578 00 a 01 abdominaal 0 000 |    
+00042618 00 a 01 dialogisch 0 000 |    
+00042658 00 a 01 boeddhistisch 0 000 |    
+00042701 00 a 01 vierhoekig 0 000 |    
+00042741 00 a 01 uvulair 0 000 |    
+00042778 00 a 01 Florentijns 0 000 |    
+00042819 00 a 01 theïstisch 0 000 |    
+00042860 00 a 01 lumbaal 0 000 |    
+00042897 00 a 01 fylogenetisch 0 000 |    
+00042940 00 a 01 Peloponnesisch 0 000 |    
+00042984 00 a 01 tsaristisch 0 000 |    
+00043025 00 a 01 vlinderbloemig 0 000 |    
+00043069 00 a 02 mnemonisch 0 mnemotechnisch 0 000 |    
+00043126 00 a 01 folliculair 0 000 |    
+00043167 00 a 01 Zimbabwaans 0 000 |    
+00043208 00 a 01 kiezelhoudend 0 000 |    
+00043251 00 a 01 geothermisch 0 000 |    
+00043293 00 a 01 overtollig 0 000 |    
+00043333 00 a 01 expressionistisch 0 000 |    
+00043380 00 a 01 sublitoraal 0 000 |    
+00043421 00 a 01 syfilitisch 0 000 |    
+00043462 00 a 01 platonisch 0 000 |    
+00043502 00 a 01 gnomisch 0 000 |    
+00043540 00 a 01 Peruaans 0 000 |    
+00043578 00 a 01 macaronisch 0 000 |    
+00043619 00 a 01 categoriaal 0 000 |    
+00043660 00 a 01 tweewekelijks 0 000 |    
+00043703 00 a 01 epenthetisch 0 000 |    
+00043745 00 a 01 jakobijns 0 000 |    
+00043784 00 a 01 fonologisch 0 000 |    
+00043825 00 a 01 veelzeggend 0 000 |    
+00043866 00 a 01 rabbijns 0 000 |    
+00043904 00 a 01 hydro-elektrisch 0 000 |    
+00043950 00 a 01 theologisch 0 000 |    
+00043991 00 a 01 subarctisch 0 000 |    
+00044032 00 a 01 Monegaskisch 0 000 |    
+00044074 00 a 01 Seychels 0 000 |    
+00044112 00 a 01 geoxydeerd 0 000 |    
+00044152 00 a 01 macro-economisch 0 000 |    
+00044198 00 a 01 Columbiaans 0 000 |    
+00044239 00 a 02 absolutistisch 0 autarkisch 0 000 |    
+00044296 00 a 01 continentaal 0 000 |    
+00044338 00 a 01 diergeneeskundig 0 000 |    
+00044384 00 a 02 slagaderlijk 0 arterieel 0 000 |    
+00044438 00 a 01 mandibulair 0 000 |    
+00044479 00 a 01 intraveneus 0 000 |    
+00044520 00 a 01 Dalmatisch 0 000 |    
+00044560 00 a 01 fatalistisch 0 000 |    
+00044602 00 a 01 deftig 0 000 |    
+00044638 00 a 01 axiomatisch 0 000 |    
+00044679 00 a 02 supernaturalistisch 0 bovennatuurlijk 0 000 |    
+00044746 00 a 01 vierwielig 0 000 |    
+00044786 00 a 01 cyrillisch 0 000 |    
+00044826 00 a 02 veenachtig 0 turfachtig 0 000 |    
+00044879 00 a 01 rentedragend 0 000 |    
+00044921 00 a 01 isolationistisch 0 000 |    
+00044967 00 a 01 postmodern 0 000 |    
+00045007 00 a 01 kadastraal 0 000 |    
+00045047 00 a 01 tribaal 0 000 |    
+00045084 00 a 01 pedagogisch 0 000 |    
+00045125 00 a 01 eencellig 0 000 |    
+00045164 00 a 01 melaats 0 000 |    
+00045201 00 a 02 aritmetisch 0 rekenkundig 0 000 |    
+00045256 00 a 01 Guyaans 0 000 |    
+00045293 00 a 01 epifysair 0 000 |    
+00045332 00 a 01 roterend 0 000 |    
+00045370 00 a 01 Europees 0 000 |    
+00045408 00 a 01 serologisch 0 000 |    
+00045449 00 a 01 bacteriostatisch 0 000 |    
+00045495 00 a 01 Myceens 0 000 |    
+00045532 00 a 01 gynaecologisch 0 000 |    
+00045576 00 a 01 culinair 0 000 |    
+00045614 00 a 01 veelhoekig 0 000 |    
+00045654 00 a 01 articulatorisch 0 000 |    
+00045699 00 a 01 ingekapseld 0 000 |    
+00045740 00 a 01 dynastiek 0 000 |    
+00045779 00 a 01 listig 0 000 |    
+00045815 00 a 01 pyrotechnisch 0 000 |    
+00045858 00 a 01 liturgisch 0 000 |    
+00045898 00 a 01 interlineair 0 000 |    
+00045940 00 a 01 Tsjaads 0 000 |    
+00045977 00 a 01 bibliografisch 0 000 |    
+00046021 00 a 01 psycholinguïstisch 0 000 |    
+00046070 00 a 01 Oostenrijks 0 000 |    
+00046111 00 a 01 Guatemalaans 0 000 |    
+00046153 00 a 01 Californisch 0 000 |    
+00046195 00 a 01 filatelistisch 0 000 |    
+00046239 00 a 01 strategisch 0 000 |    
+00046280 00 a 01 wanordelijk 0 000 |    
+00046321 00 a 01 intracraniaal 0 000 |    
+00046364 00 a 01 buitenaards 0 000 |    
+00046405 00 a 01 Haïtiaans 0 000 |    
+00046445 00 a 01 etnocentrisch 0 000 |    
+00046488 00 a 01 Boliviaans 0 000 |    
+00046528 00 a 01 consulair 0 000 |    
+00046567 00 a 01 aderlijk 0 000 |    
+00046605 00 a 01 Chileens 0 000 |    
+00046643 00 a 01 huwelijks 0 000 |    
+00046682 00 a 01 elektrostatisch 0 000 |    
+00046727 00 a 01 Koerdisch 0 000 |    
+00046766 00 a 01 demografisch 0 000 |    
+00046808 00 a 01 hydrografisch 0 000 |    
+00046851 00 a 01 geslachtsgebonden 0 000 |    
+00046898 00 a 01 thermo-elektrisch 0 000 |    
+00046945 00 a 01 Bahamaans 0 000 |    
+00046984 00 a 01 homerisch 0 000 |    
+00047023 00 a 01 aartsbisschoppelijk 0 000 |    
+00047072 00 a 01 postcommunistisch 0 000 |    
+00047119 00 a 01 Gambiaans 0 000 |    
+00047158 00 a 01 microkosmisch 0 000 |    
+00047201 00 a 01 eutroof 0 000 |    
+00047238 00 a 01 astronautisch 0 000 |    
+00047281 00 a 01 sociologisch 0 000 |    
+00047323 00 a 01 brahmaans 0 000 |    
+00047362 00 a 01 ruitvormig 0 000 |    
+00047402 00 a 01 paramedisch 0 000 |    
+00047443 00 a 01 epidemiologisch 0 000 |    
+00047488 00 a 01 hormonaal 0 000 |    
+00047527 00 a 01 Alexandrijns 0 000 |    
+00047569 00 a 01 brisant 0 000 |    
+00047606 00 a 01 typografisch 0 000 |    
+00047648 00 a 01 idiomatisch 0 000 |    
+00047689 00 a 01 Bhutaans 0 000 |    
+00047727 00 a 01 botanisch 0 000 |    
+00047766 00 a 01 diametraal 0 000 |    
+00047806 00 a 01 fluviatiel 0 000 |    
+00047846 00 a 01 particularistisch 0 000 |    
+00047893 00 a 01 diëtisch 0 000 |    
+00047932 00 a 01 teleologisch 0 000 |    
+00047974 00 a 01 Salvadoraans 0 000 |    
+00048016 00 a 01 bolsjewistisch 0 000 |    
+00048060 00 a 01 asgrauw 0 000 |    
+00048097 00 a 01 mucoïd 0 000 |    
+00048134 00 a 01 sacramenteel 0 000 |    
+00048176 00 a 01 Zuid-Amerikaans 0 000 |    
+00048221 00 a 01 Brits 0 000 |    
+00048256 00 a 01 Cambodjaans 0 000 |    
+00048297 00 a 01 calorimetrisch 0 000 |    
+00048341 00 a 01 socratisch 0 000 |    
+00048381 00 a 01 semantisch 0 000 |    
+00048421 00 a 02 archeologisch 0 oudheidkundig 0 000 |    
+00048480 00 a 01 farmacologisch 0 000 |    
+00048524 00 a 01 Bahreins 0 000 |    
+00048562 00 a 01 samenzweerderig 0 000 |    
+00048607 00 a 01 autoritair 0 000 |    
+00048647 00 a 01 cytologisch 0 000 |    
+00048688 00 a 01 Somalisch 0 000 |    
+00048727 00 a 01 Siberisch 0 000 |    
+00048766 00 a 01 interstitieel 0 000 |    
+00048809 00 a 01 Weens 0 000 |    
+00048844 00 a 01 Bosnisch 0 000 |    
+00048882 00 a 01 Moors 0 000 |    
+00048917 00 a 01 Mauritaans 0 000 |    
+00048957 00 a 01 Boeotisch 0 000 |    
+00048996 00 a 01 thermometrisch 0 000 |    
+00049040 00 a 01 oproerig 0 000 |    
+00049078 00 a 02 hexagonaal 0 zeshoekig 0 000 |    
+00049130 00 a 01 contractueel 0 000 |    

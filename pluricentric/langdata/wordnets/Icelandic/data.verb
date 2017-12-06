@@ -1,0 +1,1004 @@
+  01 This file is a derivation of the wn-isl-lmf.xml file; the original isl-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 label: IceWordNet
+  04 language: isl
+  05 version: 10
+  06 languageCoding: ISO 639-3
+  07 owner: BY
+00000319 00 v 02 gefa_í_tekjur 0 gefa_í_aðra_hönd 0 000 01 + 00 00 |    
+00000396 00 v 02 stíga_í_stólinn 0 predika 0 000 01 + 00 00 |    
+00000465 00 v 03 rifja_upp 0 minnast 0 muna_óljóst 0 000 01 + 00 00 |    
+00000541 00 v 02 fella_að 0 laga_að 0 000 01 + 00 00 |    
+00000602 00 v 03 gera_áætlanir 0 plana 0 skipuleggja 0 003 @ 00011262 v 0000 ~ 00013973 v 0000 ~ 00049920 v 0000 01 + 00 00 |    
+00000734 00 v 02 finna_út_úr 0 leysa 0 001 @ 00058021 v 0000 01 + 00 00 |    
+00000814 00 v 04 eigna 0 kenna_um 0 saka_um 0 drótta_að 0 000 01 + 00 00 |    
+00000895 00 v 02 styrkja 0 styðja 0 000 01 + 00 00 |    
+00000953 00 v 08 bæla_niður 0 vera_umhverfis 0 lykja_um 0 kæfa 0 spenna 0 slá_hring_um 0 umlykja 0 umkringja 0 000 01 + 00 00 |    
+00001089 00 v 06 vinka 0 blakra 0 vingsa 0 sveifla 0 blaka 0 veifa 0 000 01 + 00 00 |    
+00001179 00 v 03 kremja 0 merja 0 kreista 0 001 @ 00069482 v 0000 01 + 00 00 |    
+00001262 00 v 02 læsa 0 afloka 0 001 @ 00004945 v 0000 01 + 00 00 |    
+00001335 00 v 02 snúa 0 snúast 0 000 01 + 00 00 |    
+00001391 00 v 03 vera_(e-m)_til_ánægju 0 gleðja 0 falla_(e-m)_í_geð 0 001 > 00092866 v 0000 01 + 00 00 |    
+00001505 00 v 01 gera_minna_úr 0 001 ! 00073763 v 0000 01 + 00 00 |    
+00001578 00 v 03 hljóma 0 klingja 0 óma 0 000 01 + 00 00 |    
+00001643 00 v 02 koma_með 0 hafa_meðferðis 0 000 01 + 00 00 |    
+00001712 00 v 03 hnykkla_brýrnar 0 yggla_sig 0 hleypa_brúnum 0 000 01 + 00 00 |    
+00001798 00 v 02 veita_leyfi 0 heimila 0 002 ~ 00011438 v 0000 * 00015319 v 0000 01 + 00 00 |    
+00001896 00 v 02 andvarpa 0 stynja 0 001 @ 00018635 v 0000 01 + 00 00 |    
+00001972 00 v 03 hrækja 0 skyrpa 0 spýta 0 000 01 + 00 00 |    
+00002038 00 v 02 bragða 0 smakka 0 001 @ 00056359 v 0000 01 + 00 00 |    
+00002113 00 v 0f draga_saman 0 samtaka 0 viða_að_sér 0 hlaða_saman 0 safna_að_sér 0 sanka_saman 0 salla_saman 0 safna 0 draga_að_sér 0 safna_saman 0 arka_að_sér 0 leggja_fyrir 0 samla 0 tína_saman 0 samla_saman 0 001 @ 00025185 v 0000 01 + 00 00 |    
+00002376 00 v 03 bæta 0 laga 0 gera_við 0 001 @ 00075308 v 0000 01 + 00 00 |    
+00002459 00 v 0d þveitast 0 renna 0 rása 0 hlaupa 0 steðja 0 skeiða 0 spranga 0 taka_á_rás 0 skopa 0 spinka 0 skunda 0 skokka 0 slamma 0 000 01 + 00 00 |    
+00002623 00 v 02 spila 0 leika 0 002 @ 00036840 v 0000 ;c 00192205 n 0000 01 + 00 00 |    
+00002714 00 v 02 senda 0 póstleggja 0 000 01 + 00 00 |    
+00002774 00 v 02 leggjast 0 liggja 0 001 ! 00070761 v 0000 01 + 00 00 |    
+00002850 00 v 01 stinga 0 000 01 + 00 00 |    
+00002897 00 v 01 láta_lausan 0 001 ;c 00147996 n 0000 01 + 00 00 |    
+00002969 00 v 04 hafna 0 synja 0 afneita 0 neita 0 001 @ 00086439 v 0000 01 + 00 00 |    
+00003059 00 v 01 þurfa 0 000 01 + 00 00 |    
+00003106 00 v 07 skrifa 0 rita 0 festa_á_blað 0 krota 0 draga_til_stafs 0 hripa 0 rissa 0 000 01 + 00 00 |    
+00003219 00 v 02 japla 0 tyggja 0 000 01 + 00 00 |    
+00003274 00 v 02 draga_út 0 draga 0 003 ! 00069214 v 0000 ~ 00066019 v 0000 ~ 00038408 v 0000 01 + 00 00 |    
+00003386 00 v 03 halda 0 hafa_trú_á 0 trúa 0 000 01 + 00 00 |    
+00003455 00 v 01 hjúfra_sig 0 000 01 + 00 00 |    
+00003507 00 v 02 óska_heilla 0 óska_til_hamingju 0 000 01 + 00 00 |    
+00003581 00 v 02 taka_fastan 0 handtaka 0 001 @ 00078007 v 0000 01 + 00 00 |    
+00003662 00 v 05 kræmta 0 hósta 0 kjölta 0 kjöltra 0 bofsa 0 000 01 + 00 00 |    
+00003748 00 v 02 betla 0 sníkja 0 001 @ 00035313 v 0000 01 + 00 00 |    
+00003822 00 v 06 sjá_fyrir 0 fá 0 ná_í 0 afla 0 útvega 0 skaffa 0 002 ~ 00063226 v 0000 ~ 00043447 v 0000 01 + 00 00 |    
+00003950 00 v 03 trufla 0 setja_úr_skorðum 0 kollvarpa 0 001 ~ 00066097 v 0000 01 + 00 00 |    
+00004048 00 v 03 græða 0 yrkja 0 rækta 0 001 ;c 00048520 n 0000 01 + 00 00 |    
+00004132 00 v 02 berja 0 banka 0 000 01 + 00 00 |    
+00004186 00 v 04 binda_hnút 0 ríða_hnút 0 tjasla 0 hnýta 0 001 @ 00018500 v 0000 01 + 00 00 |    
+00004289 00 v 02 ganga 0 vera_í_gangi 0 000 01 + 00 00 |    
+00004351 00 v 03 hafa_ofan_fyrir 0 gleðja 0 skemmta 0 000 01 + 00 00 |    
+00004427 00 v 01 taka_upp 0 001 ! 00036939 v 0000 01 + 00 00 |    
+00004494 00 v 06 sannfæra 0 telja_e-m_trú_um_e-ð 0 telja_e-n_á_e-ð 0 færa_e-m_heim_sanninn 0 sýna_e-m_fram_á 0 fullvissa_e-n_um_e-ð 0 001 @ 00066262 v 0000 01 + 00 00 |    
+00004676 00 v 01 springa 0 000 01 + 00 00 |    
+00004724 00 v 03 bera 0 flytja 0 halda_á 0 003 ~ 00046450 v 0000 ~ 00040972 v 0000 ~ 00037854 v 0000 01 + 00 00 |    
+00004843 00 v 04 hafa 0 hafa_undir_höndum 0 eiga 0 eiga_til 0 001 ~ 00086439 v 0000 01 + 00 00 |    
+00004945 00 v 04 treysta 0 tryggja 0 festa 0 styrkja 0 003 ~ 00092234 v 0000 ~ 00001262 v 0000 ~ 00042857 v 0000 01 + 00 00 |    
+00005075 00 v 03 kjúfa 0 rjúfa_sundur 0 fleyga_sundur 0 001 ~ 00013409 v 0000 01 + 00 00 |    
+00005172 00 v 08 áfýsa 0 örva 0 fýsa 0 uppörva 0 vera_e-s_fýsandi 0 spana 0 hvetja 0 eggja 0 000 01 + 00 00 |    
+00005292 00 v 07 láta_af_hendi 0 reiða_af_hendi 0 framselja 0 selja_af_hendi 0 fá_e-m_í_hendur 0 afhenda 0 afsala_sér 0 000 01 + 00 00 |    
+00005438 00 v 02 læra 0 nema 0 002 ~ 00019281 v 0000 * 00056104 v 0000 01 + 00 00 |    
+00005527 00 v 02 hrópa 0 kalla 0 001 @ 00018635 v 0000 01 + 00 00 |    
+00005600 00 v 02 festa_upp_(tilkynningu) 0 setja_upp_(tilkynningu) 0 000 01 + 00 00 |    
+00005690 00 v 04 bugta 0 beygja 0 bukka 0 hneigja_sig 0 000 01 + 00 00 |    
+00005767 00 v 03 klæða 0 færa_í_föt 0 væða 0 001 ! 00032152 v 0000 01 + 00 00 |    
+00005858 00 v 08 malla 0 krauma 0 sjóða 0 bulla 0 flóa 0 elda 0 seyða 0 hvera 0 000 01 + 00 00 |    
+00005963 00 v 02 gleypa_í_sig 0 háma_í_sig 0 000 01 + 00 00 |    
+00006032 00 v 02 hjálpa 0 aðstoða 0 001 ~ 00006110 v 0000 01 + 00 00 |    
+00006110 00 v 05 stjana_við 0 þjónusta 0 þéna 0 þjóna 0 ganga_um_beina 0 001 @ 00006032 v 0000 01 + 00 00 |    
+00006229 00 v 03 kasta_tölu_á 0 telja 0 koma_tölu_á 0 001 ~ 00029830 v 0000 01 + 00 00 |    
+00006326 00 v 02 draga_til_baka 0 taka_út 0 000 01 + 00 00 |    
+00006392 00 v 02 fá_(e-m_e-ð) 0 rétta 0 000 01 + 00 00 |    
+00006456 00 v 05 troðfylla 0 slétfylla 0 fullhlaða 0 fylla 0 kúffylla 0 001 @ 00007488 v 0000 01 + 00 00 |    
+00006571 00 v 06 samlaga 0 sameinast 0 sameina 0 samsama 0 flétta_saman 0 samtengja 0 000 01 + 00 00 |    
+00006679 00 v 05 spilla 0 skaða 0 veikja 0 meiða 0 lesa 0 000 01 + 00 00 |    
+00006760 00 v 02 flýja 0 sleppa 0 000 01 + 00 00 |    
+00006816 00 v 03 velja 0 kjósa 0 ákjósa 0 001 @ 00061807 v 0000 01 + 00 00 |    
+00006900 00 v 01 stilla 0 001 ~ 00057698 v 0000 01 + 00 00 |    
+00006965 00 v 02 koma_upp 0 ala_upp 0 000 01 + 00 00 |    
+00007024 00 v 03 fara_á_undan 0 vera_á_undan 0 koma_á_undan 0 000 01 + 00 00 |    
+00007110 00 v 02 nefna 0 kalla 0 000 01 + 00 00 |    
+00007164 00 v 04 láta_berast 0 dreifa 0 setja_í_umferð 0 útbreiða 0 000 01 + 00 00 |    
+00007258 00 v 05 koma_í_ljós 0 birtast 0 sjást 0 koma_í_sjónmál 0 koma_fyrir_sjónir 0 001 ! 00071958 v 0000 01 + 00 00 |    
+00007390 00 v 02 spá 0 segja_fyrir_um 0 002 @ 00017232 v 0000 ~ 00072944 v 0000 01 + 00 00 |    
+00007488 00 v 05 troðfylla 0 sléttfylla 0 fullhlaða 0 fylla 0 kúffylla 0 002 ~ 00084443 v 0000 ~ 00006456 v 0000 01 + 00 00 |    
+00007622 00 v 12 vinda_fram 0 tilfalla 0 bera_að_höndum 0 gerast 0 bera_við 0 koma_upp_á 0 henda 0 verða 0 bera_að 0 ske 0 bera_til_tíðinda 0 bera_til 0 vilja_til 0 atvikast 0 verða_til_tíðinda 0 koma_fyrir 0 fara_fram 0 eiga_sér_stað 0 001 ~ 00082441 v 0000 01 + 00 00 |    
+00007911 00 v 02 höggva 0 brytja 0 000 01 + 00 00 |    
+00007968 00 v 02 passa 0 gæta 0 001 @ 00077458 v 0000 01 + 00 00 |    
+00008040 00 v 01 velja 0 001 @ 00061807 v 0000 01 + 00 00 |    
+00008104 00 v 01 sitja_á_hækjum_sér 0 001 @ 00063564 v 0000 01 + 00 00 |    
+00008184 00 v 03 gera_að_gamni_sínu 0 grínast 0 djóka 0 001 @ 00037561 v 0000 01 + 00 00 |    
+00008283 00 v 04 vinna_að_framförum 0 vinna 0 þróa 0 framleiða 0 001 @ 00074848 v 0000 01 + 00 00 |    
+00008392 00 v 02 fara_yfir 0 endurskoða 0 000 01 + 00 00 |    
+00008456 00 v 02 blekkja 0 villa_um_fyrir 0 003 ~ 00073401 v 0000 ~ 00073763 v 0000 ~ 00082244 v 0000 01 + 00 00 |    
+00008575 00 v 03 leikstýra 0 stjórna 0 stýra 0 000 01 + 00 00 |    
+00008646 00 v 03 dansa 0 stíga_dans 0 pípóla 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00008735 00 v 02 taka_(e-ð)_óstinnt_upp 0 taka_(e-u)_illa 0 001 @ 00023039 v 0000 01 + 00 00 |    
+00008836 00 v 02 tímga 0 rækta 0 001 @ 00034197 v 0000 01 + 00 00 |    
+00008910 00 v 05 skyggnast_um 0 gera_leit_að 0 reyna_að_finna 0 grafast_fyrir_um 0 leita 0 000 01 + 00 00 |    
+00009024 00 v 0d gangast_undir 0 ganga_að 0 vera_samþykkur 0 verða_ásátt_um 0 fallast_á 0 samþykkja 0 tjá_sig_samþykkan 0 veita_samþykki_sitt_til 0 vera_sama_sinnis 0 gjalda_jákvæði_við 0 leggja_blessun_sína_y_fir 0 gangast_inn_á 0 samsinna 0 000 01 + 00 00 |    
+00009304 00 v 03 taka_ákvörðun 0 ákveða 0 afráða 0 003 ~ 00061807 v 0000 ~ 00078482 v 0000 * 00088452 v 0000 01 + 00 00 |    
+00009437 00 v 01 ættleiða 0 000 01 + 00 00 |    
+00009488 00 v 02 hleypa_af_stokkunum 0 hefja 0 000 01 + 00 00 |    
+00009556 00 v 02 svíða 0 brenna 0 001 @ 00028268 v 0000 01 + 00 00 |    
+00009631 00 v 09 gauða 0 gjálfra 0 geyja 0 gjamma 0 nauða 0 glenna 0 gelta 0 glamma 0 bofsa 0 001 @ 00018635 v 0000 01 + 00 00 |    
+00009767 00 v 03 heilla 0 hrífa 0 töfra 0 000 01 + 00 00 |    
+00009832 00 v 03 hafa_ofan_fyrir 0 gleðja 0 skemmta 0 001 ~ 00074355 v 0000 01 + 00 00 |    
+00009926 00 v 07 skífa 0 særa 0 saxa 0 sneiða 0 skera 0 rista 0 sníða 0 000 01 + 00 00 |    
+00010024 00 v 02 rölta 0 labba 0 001 @ 00053064 v 0000 01 + 00 00 |    
+00010097 00 v 02 smita 0 sýkja 0 000 01 + 00 00 |    
+00010152 00 v 02 ramma 0 innramma 0 000 01 + 00 00 |    
+00010209 00 v 03 deyja 0 drepast 0 látast 0 000 01 + 00 00 |    
+00010275 00 v 01 fara_í_verkfall 0 000 01 + 00 00 |    
+00010332 00 v 05 tæta_sundur 0 splundra 0 sundra 0 sprengja 0 tvístra 0 000 01 + 00 00 |    
+00010427 00 v 02 lakka 0 innsigla 0 001 @ 00064096 v 0000 01 + 00 00 |    
+00010502 00 v 01 koma_vel_fyrir 0 000 01 + 00 00 |    
+00010557 00 v 02 raða 0 skipa 0 000 01 + 00 00 |    
+00010611 00 v 02 telja_víst 0 gera_ráð_fyrir 0 001 @ 00061047 v 0000 01 + 00 00 |    
+00010700 00 v 11 hlaða 0 leggj_á_eyrað 0 hafa 0 berja_niður 0 brjóta_á_bak_aftur 0 beygja 0 hafa_betur 0 leggja_að_velli 0 bera_af 0 verða_ofan_á 0 bera_sigurorð_af 0 yfirbuga 0 vera_fremri 0 sigra 0 hnekkja_veldi_e-s 0 buga 0 salla_niður 0 000 01 + 00 00 |    
+00010973 00 v 02 muldra 0 tauta 0 000 01 + 00 00 |    
+00011028 00 v 04 slugsa 0 slóra 0 hanga 0 drolla 0 000 01 + 00 00 |    
+00011101 00 v 03 þjálfa 0 kenna 0 undirbúa 0 001 @ 00083330 v 0000 01 + 00 00 |    
+00011188 00 v 03 sjónvarpa 0 útvarpa 0 senda_út 0 000 01 + 00 00 |    
+00011262 00 v 02 íhuga 0 hugsa 0 004 ~ 00031231 v 0000 ~ 00088653 v 0000 ~ 00075439 v 0000 ~ 00000602 v 0000 01 + 00 00 |    
+00011389 00 v 01 tappa_af 0 000 01 + 00 00 |    
+00011438 00 v 01 viðurkenna 0 001 @ 00001798 v 0000 01 + 00 00 |    
+00011508 00 v 02 fara_í_rúmið 0 fara_í_háttinn 0 001 ! 00076875 v 0000 01 + 00 00 |    
+00011601 00 v 07 þvinga 0 neyða 0 beygja 0 beita_hörðu 0 herða_að 0 leggja_fast_að 0 knýja 0 000 01 + 00 00 |    
+00011723 00 v 03 vera_á_báðum_áttum 0 hika 0 vera_í_vafa 0 000 01 + 00 00 |    
+00011808 00 v 03 dá 0 vera_hrifinn_af 0 dást_að 0 001 @ 00061463 v 0000 01 + 00 00 |    
+00011900 00 v 03 halda_uppi 0 halda_gangandi 0 styðja 0 000 01 + 00 00 |    
+00011978 00 v 03 starfa 0 afla_sér_tekna 0 vinna 0 000 01 + 00 00 |    
+00012051 00 v 02 draga_upp 0 vinda_upp 0 001 * 00029132 v 0000 01 + 00 00 |    
+00012131 00 v 02 gefa_út 0 birta 0 000 01 + 00 00 |    
+00012188 00 v 03 missa_niður 0 hella_niður 0 úthella 0 000 01 + 00 00 |    
+00012267 00 v 04 finna 0 hitta 0 detta_ofan_á 0 rekast_á 0 000 01 + 00 00 |    
+00012349 00 v 04 tengjast 0 mægjast 0 venslast 0 bindast 0 000 01 + 00 00 |    
+00012430 00 v 03 dafna 0 blómstra 0 þrífast 0 000 01 + 00 00 |    
+00012500 00 v 06 þreyja 0 langa_ákaft 0 þyrsta_í 0 þrá 0 langa_í 0 girnast 0 001 @ 00034569 v 0000 01 + 00 00 |    
+00012623 00 v 01 setja_tappa_í 0 000 01 + 00 00 |    
+00012678 00 v 02 ljóstra_upp_um 0 fletta_ofan_af 0 000 01 + 00 00 |    
+00012751 00 v 02 grímuklæðast 0 dulbúast 0 001 @ 00062091 v 0000 01 + 00 00 |    
+00012837 00 v 04 veita_inngöngu 0 heimila_aðgang 0 hleypa_inn 0 taka_inn 0 001 @ 00052497 v 0000 01 + 00 00 |    
+00012953 00 v 02 bjóðast_til 0 gefa_kost_á 0 000 01 + 00 00 |    
+00013022 00 v 03 skælbrosa 0 brosa_breitt 0 brosa 0 001 @ 00027897 v 0000 01 + 00 00 |    
+00013114 00 v 0d launa 0 gjalda 0 snara_út 0 greiða 0 pláta 0 lúka_greiðslu 0 blæða 0 leggja_út_peninga_fyrir 0 borga 0 leggja_út_fyrir 0 inna_af_hend_greiðslu 0 punga_út_með 0 gefa_fyrir 0 004 ~ 00090138 v 0000 ~ 00046728 v 0000 ~ 00024402 v 0000 ~ 00044634 v 0000 01 + 00 00 |    
+00013409 00 v 08 springa_með_skelli 0 hvella 0 skreppa 0 smella 0 bella 0 skella 0 poppa 0 hrökkva_í 0 001 @ 00005075 v 0000 01 + 00 00 |    
+00013554 00 v 08 flíka 0 setja_fram 0 láta_ásannast 0 hafa_til_sýnis 0 draga_fram_í_dagsljósið 0 birta 0 sýna 0 benda_á 0 000 01 + 00 00 |    
+00013706 00 v 02 fá_í_arf 0 erfa 0 001 @ 00025185 v 0000 01 + 00 00 |    
+00013782 00 v 05 stöðva 0 afnema 0 fella_niður 0 hætta 0 leggja_niður 0 000 01 + 00 00 |    
+00013880 00 v 03 viðurkenna 0 ganga_við 0 játast 0 001 ! 00017452 v 0000 01 + 00 00 |    
+00013973 00 v 04 ráðgera 0 leggja_á_ráðin 0 brugga_launráð 0 skipuleggja 0 001 @ 00000602 v 0000 01 + 00 00 |    
+00014094 00 v 04 síga_niður 0 fara_í_kaf 0 sökkva 0 hverfa_niður 0 001 ! 00044880 v 0000 01 + 00 00 |    
+00014205 00 v 03 leggja_í_rúst 0 rífa 0 eyðileggja 0 000 01 + 00 00 |    
+00014283 00 v 02 græða 0 hagnast 0 001 @ 00025185 v 0000 01 + 00 00 |    
+00014359 00 v 02 tæma 0 hreinsa 0 000 01 + 00 00 |    
+00014415 00 v 02 nauðga 0 taka_nauðuga/nauðugan 0 001 @ 00028887 v 0000 01 + 00 00 |    
+00014507 00 v 01 setja_fram_tilgátu 0 001 @ 00061047 v 0000 01 + 00 00 |    
+00014585 00 v 04 hvolfa 0 steypast_fram_yfir_sig 0 velta 0 detta_um_koll 0 000 01 + 00 00 |    
+00014681 00 v 03 stafsetja 0 stauta 0 stafa 0 000 01 + 00 00 |    
+00014748 00 v 06 tjá 0 orða 0 koma_orðum_að 0 segja 0 komast_að_orði 0 framsetja 0 000 01 + 00 00 |    
+00014858 00 v 07 svipa_tl 0 líkjast 0 minna_á 0 bera_keim_af 0 sverja_sig_í_ætt_við 0 kippa_í_kynið 0 vera_líkur 0 001 @ 00028045 v 0000 01 + 00 00 |    
+00015020 00 v 0c dára 0 angra 0 egna 0 hrella 0 draga_dár_að 0 svekkja 0 gabba 0 gera_gabb_að 0 skaprauna 0 ögra 0 erta 0 stríða 0 000 01 + 00 00 |    
+00015179 00 v 03 stíga 0 aukast 0 hækka 0 000 01 + 00 00 |    
+00015244 00 v 02 ásaka 0 ákæra 0 001 @ 00083443 v 0000 01 + 00 00 |    
+00015319 00 v 03 votta 0 staðfesta 0 löggilda 0 000 01 + 00 00 |    
+00015390 00 v 06 upptendra 0 glæða 0 kalla_fram 0 vekja 0 laða_fram 0 eggja 0 000 01 + 00 00 |    
+00015492 00 v 02 bítast_um 0 keppa_um 0 001 ~ 00061271 v 0000 01 + 00 00 |    
+00015572 00 v 03 þeyta 0 fleygja 0 kasta 0 001 @ 00057763 v 0000 01 + 00 00 |    
+00015655 00 v 02 standa/sitja_hokinn 0 hokra 0 000 01 + 00 00 |    
+00015723 00 v 02 ála 0 spíra 0 000 01 + 00 00 |    
+00015777 00 v 04 stækka 0 auka 0 stæra 0 gera_stærri 0 001 ;c 00126804 n 0000 01 + 00 00 |    
+00015875 00 v 0a afmarka 0 skerða 0 marka_e-u_svið 0 reisa_skorður_við 0 marka_e-u_bás 0 marka_e-u_reit 0 takmarka 0 einskorða_við 0 skammta 0 tempra 0 001 ~ 00072150 v 0000 01 + 00 00 |    
+00016073 00 v 02 skipta_niður 0 flokka_niður 0 000 01 + 00 00 |    
+00016143 00 v 08 traðka_á 0 trampa 0 hlamsast 0 troða 0 trappa 0 þramma 0 traðjarka 0 stappa 0 001 @ 00053064 v 0000 01 + 00 00 |    
+00016282 00 v 02 stjórna 0 stýra 0 000 01 + 00 00 |    
+00016340 00 v 04 koma_við 0 orka_á 0 hafa_áhrif_á 0 taka_til 0 000 01 + 00 00 |    
+00016428 00 v 02 unna 0 elska 0 000 01 + 00 00 |    
+00016481 00 v 01 hefja_í_annað_veldi 0 001 @ 00071020 v 0000 01 + 00 00 |    
+00016561 00 v 01 skulda 0 000 01 + 00 00 |    
+00016608 00 v 08 koma_á_eftir 0 sækja_eftir 0 fara_á_eftir 0 veita_eftirför 0 ganga_í_humátt_á_eftir 0 fara_í_humátt_á_eftir 0 vera_í_humátt_á_eftir 0 elta 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00016818 00 v 03 vera_viðráðandi 0 vera_eftir 0 haldast 0 000 01 + 00 00 |    
+00016900 00 v 02 líða_yfir 0 falla_í_dá 0 000 01 + 00 00 |    
+00016967 00 v 03 blóta 0 bölva 0 ragna 0 000 01 + 00 00 |    
+00017031 00 v 02 taka_upp 0 fá_lánað 0 000 01 + 00 00 |    
+00017094 00 v 02 sparka 0 spyrna 0 001 @ 00090359 v 0000 01 + 00 00 |    
+00017168 00 v 01 færa_til_nútímahorfs 0 000 01 + 00 00 |    
+00017232 00 v 02 geta_uppá 0 geta 0 001 ~ 00007390 v 0000 01 + 00 00 |    
+00017308 00 v 03 væla 0 skæla 0 gráta 0 001 ! 00052026 v 0000 01 + 00 00 |    
+00017390 00 v 01 stökkva_í_fallhlíf 0 000 01 + 00 00 |    
+00017452 00 v 0a taka_fjarri 0 vilja_ekki_kannast_við 0 hafna 0 fortaka 0 aftaka 0 bera_á_móti 0 mótmæla 0 kveða_nei_við 0 bera_til_baka 0 neita 0 001 ! 00013880 v 0000 01 + 00 00 |    
+00017645 00 v 03 gereyðileggja 0 aleyða 0 gereyða 0 000 01 + 00 00 |    
+00017721 00 v 02 vitna_í 0 fara_með_tilvitnun 0 000 01 + 00 00 |    
+00017792 00 v 04 þola 0 standast 0 rísa_undir 0 þrauka 0 000 01 + 00 00 |    
+00017873 00 v 02 fást_við 0 takast_á_við 0 000 01 + 00 00 |    
+00017941 00 v 02 fylgja_hægt_á_eftir 0 dragast_á_eftir 0 000 01 + 00 00 |    
+00018022 00 v 02 sigta_út 0 sía_út 0 001 @ 00061807 v 0000 01 + 00 00 |    
+00018101 00 v 03 hafa_yndi_af 0 njóta 0 hafa_ánægju_af 0 000 01 + 00 00 |    
+00018182 00 v 03 ljóma 0 skína 0 geisla 0 001 @ 00051141 v 0000 01 + 00 00 |    
+00018265 00 v 03 þrífa 0 hrifsa 0 grípa 0 001 @ 00078007 v 0000 01 + 00 00 |    
+00018349 00 v 02 verða 0 breytast_í 0 001 @ 00071088 v 0000 01 + 00 00 |    
+00018428 00 v 02 vera_mismunandi 0 vera_ólíkur 0 000 01 + 00 00 |    
+00018500 00 v 02 forma 0 móta 0 001 ~ 00004186 v 0000 01 + 00 00 |    
+00018572 00 v 02 miða_út 0 staðsetja 0 000 01 + 00 00 |    
+00018635 00 v 02 reka_upp_hljóð 0 gefa_frá_sér_hljóð 0 004 ~ 00001896 v 0000 ~ 00005527 v 0000 ~ 00042390 v 0000 ~ 00080222 v 0000 01 + 00 00 |    
+00018789 00 v 02 knékrjúpa 0 krjúpa 0 000 01 + 00 00 |    
+00018851 00 v 02 hlusta_á 0 hlera 0 001 @ 00052325 v 0000 01 + 00 00 |    
+00018927 00 v 02 álasa 0 ásaka 0 000 01 + 00 00 |    
+00018983 00 v 04 glæða 0 magna 0 efla 0 auka 0 000 01 + 00 00 |    
+00019053 00 v 06 gera_útlægan 0 úthýsa 0 útskúfa 0 reka_burt 0 gera_rækan 0 útiloka 0 000 01 + 00 00 |    
+00019168 00 v 06 vera_e-s_letjandi 0 ráða_frá 0 telja_frá 0 aftra 0 telja_úr 0 letja 0 000 01 + 00 00 |    
+00019281 00 v 03 læra 0 leggja_á_minnið 0 nema 0 001 @ 00005438 v 0000 01 + 00 00 |    
+00019372 00 v 03 pantsetja 0 veðdraga 0 veðsetja 0 001 ;c 00180212 n 0000 01 + 00 00 |    
+00019465 00 v 02 keyra_of_hratt 0 fara_of_hratt 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00019554 00 v 07 sötra 0 kneyfa 0 sloka 0 súpa 0 berga 0 teyga 0 drekka 0 001 ~ 00021484 v 0000 01 + 00 00 |    
+00019669 00 v 04 byggja 0 setja_saman 0 smíða 0 búa_til 0 000 01 + 00 00 |    
+00019751 00 v 02 leka 0 drjúpa 0 001 @ 00071300 v 0000 01 + 00 00 |    
+00019824 00 v 01 taka_frá 0 001 @ 00035313 v 0000 01 + 00 00 |    
+00019892 00 v 02 mistakast 0 bregðast 0 001 ~ 00086564 v 0000 01 + 00 00 |    
+00019972 00 v 0e vanvirða 0 saurga 0 vansæma 0 sneypa 0 blamma 0 skamma 0 blammera 0 svívirða 0 flekka 0 smána 0 vanhelga 0 óvirða 0 auðmykja 0 fótumtroða 0 000 01 + 00 00 |    
+00020160 00 v 04 dafna 0 blómstra 0 þrífast 0 vaxa 0 000 01 + 00 00 |    
+00020237 00 v 03 myrða 0 kála 0 drepa 0 003 ~ 00039065 v 0000 ~ 00083846 v 0000 > 00066751 v 0000 01 + 00 00 |    
+00020354 00 v 01 leggja_undir_sig 0 000 01 + 00 00 |    
+00020411 00 v 03 vera_á_iði 0 iða 0 engjast_til_og_frá 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00020511 00 v 03 samanstanda_af 0 innihalda 0 ná_yfir 0 001 @ 00071632 v 0000 01 + 00 00 |    
+00020607 00 v 02 leggja_fæð_á 0 hata 0 002 @ 00023039 v 0000 ~ 00077835 v 0000 01 + 00 00 |    
+00020706 00 v 02 lýsa 0 sýna 0 000 01 + 00 00 |    
+00020760 00 v 03 villa 0 falsa 0 svíkja 0 000 01 + 00 00 |    
+00020824 00 v 02 fara_í_mál 0 lögsækja 0 001 ! 00080991 v 0000 01 + 00 00 |    
+00020908 00 v 02 lokka 0 freista 0 000 01 + 00 00 |    
+00020964 00 v 04 afsaka 0 verja 0 réttlæta 0 rökstyðja 0 000 01 + 00 00 |    
+00021046 00 v 05 vaka_yfir 0 gæta 0 verja 0 vernda 0 halda_hlífðarskildi_yfir 0 001 @ 00077458 v 0000 01 + 00 00 |    
+00021168 00 v 03 slíta 0 detta_í_sundur 0 brjóta 0 000 01 + 00 00 |    
+00021243 00 v 07 hrapa 0 falla 0 dúndra 0 velta 0 hníga 0 skella 0 detta 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00021359 00 v 02 setja_lög 0 lögsetja 0 000 01 + 00 00 |    
+00021422 00 v 03 steyta 0 mala 0 mylja 0 000 01 + 00 00 |    
+00021484 00 v 03 taka_sopa 0 dreypa_á 0 súpa_á 0 001 @ 00019554 v 0000 01 + 00 00 |    
+00021575 00 v 03 muna 0 geyma_í_minni 0 hafa_hugfast 0 000 01 + 00 00 |    
+00021652 00 v 02 fá_að_láni 0 fá_lánað 0 002 ! 00049843 v 0000 @ 00025185 v 0000 01 + 00 00 |    
+00021756 00 v 02 reisa 0 byggja 0 001 ! 00048595 v 0000 01 + 00 00 |    
+00021829 00 v 01 ljósrita 0 001 @ 00035984 v 0000 01 + 00 00 |    
+00021897 00 v 03 krulla 0 liða 0 skrýfa 0 000 01 + 00 00 |    
+00021962 00 v 03 afhjúpa 0 svifta_hulinni_af 0 fletta_ofan_af 0 000 01 + 00 00 |    
+00022048 00 v 02 gefa_upp_á_bátinn 0 afsala_sér 0 000 01 + 00 00 |    
+00022122 00 v 02 segja_upp 0 hætta 0 001 ~ 00071407 v 0000 01 + 00 00 |    
+00022199 00 v 02 borða 0 snæða 0 000 01 + 00 00 |    
+00022256 00 v 05 endurleysa 0 hjálpa 0 aðstoða 0 bjarga 0 frelsa 0 000 01 + 00 00 |    
+00022347 00 v 05 snjá 0 nudda 0 niða 0 nugga 0 núa 0 004 ~ 00025027 v 0000 ~ 00029385 v 0000 ~ 00064842 v 0000 * 00073602 v 0000 01 + 00 00 |    
+00022496 00 v 04 stinga_inn 0 setja_inn_í 0 stinga_inn_í 0 setja_inn 0 000 01 + 00 00 |    
+00022590 00 v 04 þverskallast 0 þrjóskast 0 þybbast_við 0 þumbast 0 000 01 + 00 00 |    
+00022685 00 v 03 fría_frá 0 losa_við 0 koma_af_sér 0 001 ~ 00033409 v 0000 01 + 00 00 |    
+00022781 00 v 03 velja 0 kjósa 0 tilnefna 0 001 @ 00061807 v 0000 01 + 00 00 |    
+00022865 00 v 04 vera_vitanlegt 0 vera_kunnugt_um 0 vera_e-s_vitandi 0 vita 0 000 01 + 00 00 |    
+00022964 00 v 02 kveikja 0 tendra 0 001 @ 00056032 v 0000 01 + 00 00 |    
+00023039 00 v 02 mislíka 0 geðjast_ekki_að 0 002 ~ 00008735 v 0000 ~ 00020607 v 0000 01 + 00 00 |    
+00023144 00 v 04 blunda 0 fá_sér_blund 0 dúra 0 fá_sér_dúr 0 000 01 + 00 00 |    
+00023232 00 v 01 vefa 0 000 01 + 00 00 |    
+00023277 00 v 02 mölva 0 brjóta 0 001 @ 00071529 v 0000 01 + 00 00 |    
+00023352 00 v 03 leynast 0 hyljast 0 fela_sig 0 000 01 + 00 00 |    
+00023421 00 v 02 setja_í_fangelsi 0 fangelsa 0 002 @ 00030155 v 0000 ;c 00065715 n 0000 01 + 00 00 |    
+00023527 00 v 06 gleypa 0 koka 0 kyngja 0 sloka 0 hvoma 0 renna_niður 0 000 01 + 00 00 |    
+00023621 00 v 02 skipta_með_sér 0 deila 0 000 01 + 00 00 |    
+00023686 00 v 03 renna 0 líða 0 svífa 0 003 @ 00085456 v 0000 ~ 00037995 v 0000 ~ 00064631 v 0000 01 + 00 00 |    
+00023804 00 v 03 kunngera 0 auglýsa 0 opinbera 0 000 01 + 00 00 |    
+00023875 00 v 03 þreyta_fangbrögð 0 þreyta_glímu 0 glíma 0 001 @ 00026559 v 0000 01 + 00 00 |    
+00023979 00 v 04 særa 0 slasa 0 meiða 0 gera_mein 0 002 ~ 00084767 v 0000 ~ 00031061 v 0000 01 + 00 00 |    
+00024090 00 v 04 seinka 0 fara_sér_hægt 0 doka_við 0 drolla 0 001 ~ 00046832 v 0000 01 + 00 00 |    
+00024194 00 v 02 sjá_fyrir_mat 0 framfleyta 0 000 01 + 00 00 |    
+00024262 00 v 02 skrá 0 skrásetja 0 001 @ 00090056 v 0000 01 + 00 00 |    
+00024339 00 v 03 þuma 0 prjóna 0 pota 0 000 01 + 00 00 |    
+00024402 00 v 04 eyða 0 spandera 0 sólunda 0 sóa 0 002 @ 00013114 v 0000 ~ 00082532 v 0000 01 + 00 00 |    
+00024513 00 v 03 hrasa 0 misstíga_sig 0 verða_fótaskortur 0 002 @ 00026019 v 0000 * 00053064 v 0000 01 + 00 00 |    
+00024633 00 v 02 draga_andann 0 anda_að_sér 0 001 @ 00041797 v 0000 01 + 00 00 |    
+00024720 00 v 03 fara_yfir 0 fara_í_gegnum 0 fara_framhjá 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00024821 00 v 01 brjótast_inn 0 000 01 + 00 00 |    
+00024875 00 v 02 klifra 0 klífa 0 001 @ 00040067 v 0000 01 + 00 00 |    
+00024949 00 v 02 flytja_upp 0 hækka 0 001 ~ 00052130 v 0000 01 + 00 00 |    
+00025027 00 v 02 þurrka 0 strjúka_af 0 002 @ 00022347 v 0000 ~ 00059934 v 0000 01 + 00 00 |    
+00025125 00 v 02 lesa_fyrir 0 stíla 0 000 01 + 00 00 |    
+00025185 00 v 03 eignast 0 fá 0 ná 0 009 ~ 00013706 v 0000 ~ 00053771 v 0000 ~ 00021652 v 0000 ~ 00028614 v 0000 ~ 00067716 v 0000 ~ 00014283 v 0000 ~ 00002113 v 0000 ~ 00078197 v 0000 ~ 00045125 v 0000 01 + 00 00 |    
+00025407 00 v 03 vísa_burt 0 vísa_á_bug 0 reka_burt 0 000 01 + 00 00 |    
+00025485 00 v 03 blása_út 0 blása_upp 0 belgja 0 000 01 + 00 00 |    
+00025558 00 v 03 blóta 0 bölva 0 formæla 0 001 ! 00039811 v 0000 01 + 00 00 |    
+00025643 00 v 01 taka_frá 0 001 @ 00035313 v 0000 01 + 00 00 |    
+00025711 00 v 01 sýkna 0 001 ! 00065288 v 0000 01 + 00 00 |    
+00025776 00 v 05 teygja_á 0 þenja 0 spenna 0 strengja 0 teygja 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00025882 00 v 02 bera 0 halda_á 0 001 @ 00071632 v 0000 01 + 00 00 |    
+00025956 00 v 02 viska_út 0 stroka_út 0 000 01 + 00 00 |    
+00026019 00 v 02 fika_sig 0 færa_sig 0 016 ~ 00020411 v 0000 ~ 00035176 v 0000 ~ 00083080 v 0000 ~ 00036587 v 0000 ~ 00038796 v 0000 ~ 00072780 v 0000 ~ 00081531 v 0000 ~ 00076385 v 0000 ~ 00033554 v 0000 ~ 00008646 v 0000 ~ 00025776 v 0000 ~ 00041144 v 0000 ~ 00029132 v 0000 ~ 00024513 v 0000 ~ 00051483 v 0000 ~ 00027113 v 0000 01 + 00 00 |    
+00026368 00 v 02 bæta_upp 0 vinna_upp 0 001 @ 00068125 v 0000 01 + 00 00 |    
+00026448 00 v 03 lýsa_með_dæmi 0 gefa_dæmi_um 0 skýra_með_dæmi 0 001 @ 00045801 v 0000 01 + 00 00 |    
+00026559 00 v 02 slást 0 berjast 0 002 ~ 00023875 v 0000 * 00015492 v 0000 01 + 00 00 |    
+00026652 00 v 02 kæfa 0 kyrkja 0 001 @ 00033634 v 0000 01 + 00 00 |    
+00026725 00 v 02 gefast_upp 0 hætta 0 000 01 + 00 00 |    
+00026785 00 v 03 beita 0 nýta 0 nota 0 000 01 + 00 00 |    
+00026846 00 v 02 skríða 0 skreiðast 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00026926 00 v 03 skipta 0 rjúfa 0 kljúfa 0 001 @ 00042637 v 0000 01 + 00 00 |    
+00027010 00 v 03 bjóða 0 blæða 0 borga 0 002 ;c 00015321 n 0000 * 00087850 v 0000 01 + 00 00 |    
+00027113 00 v 03 berja 0 lemja 0 hamra 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00027193 00 v 10 hjálpa 0 gefa_byr_undir_vængi 0 festa_í_sessi 0 stuðla_að 0 renna_stoðum_undir 0 vera_til_framdráttar 0 aðstoða 0 gefa_byr_undir_seglin 0 treysta_grundvöll_e-s 0 draga_taum_e-s 0 efla 0 hlaða_undir 0 ljá_fylgi 0 styrkja 0 styrkja_stöðu_e-s 0 styðja 0 000 01 + 00 00 |    
+00027497 00 v 01 raka 0 000 01 + 00 00 |    
+00027542 00 v 02 nikka 0 kinka_kolli 0 000 01 + 00 00 |    
+00027602 00 v 02 fara_til_baka 0 snúa_til_baka 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00027691 00 v 02 slengja_aftur 0 skella 0 001 @ 00064096 v 0000 01 + 00 00 |    
+00027772 00 v 05 rjúfa 0 moka 0 grafa 0 pæla 0 krafsa 0 000 01 + 00 00 |    
+00027851 00 v 01 halda 0 000 01 + 00 00 |    
+00027897 00 v 02 brosa 0 kíma 0 001 ~ 00013022 v 0000 01 + 00 00 |    
+00027969 00 v 02 dreifa 0 tvístra 0 001 ~ 00028540 v 0000 01 + 00 00 |    
+00028045 00 v 03 passa_saman 0 eiga_saman 0 passa_við 0 001 ~ 00014858 v 0000 01 + 00 00 |    
+00028141 00 v 02 spyrja 0 yfirheyra 0 000 01 + 00 00 |    
+00028200 00 v 02 fara_í_gegnum 0 fara__yfir 0 000 01 + 00 00 |    
+00028268 00 v 04 særa 0 slasa 0 meiða 0 gera_mein 0 001 ~ 00009556 v 0000 01 + 00 00 |    
+00028361 00 v 02 spinna_upp 0 búa_til 0 000 01 + 00 00 |    
+00028423 00 v 02 ídæla 0 sprauta 0 000 01 + 00 00 |    
+00028481 00 v 02 bletta 0 óhreinka 0 000 01 + 00 00 |    
+00028540 00 v 02 úða 0 spreyja 0 001 @ 00027969 v 0000 01 + 00 00 |    
+00028614 00 v 05 grípa 0 sölsa_til_sín 0 ná 0 harka_út 0 krækja_í 0 001 @ 00025185 v 0000 01 + 00 00 |    
+00028728 00 v 02 vera_með_hleypidóma 0 vera_með_slegjudóma 0 000 01 + 00 00 |    
+00028814 00 v 01 gera_jafntefli 0 001 * 00061271 v 0000 01 + 00 00 |    
+00028887 00 v 0d leggja_hendur_á 0 greiða_atlögu 0 ráðast_á 0 veitast_að 0 herja_á 0 fljúta_á 0 gera_hríð_að 0 gera_aðsúg_að 0 sækja_á 0 svífa_á 0 slást_upp_á 0 vega_að 0 vaða_að 0 001 ~ 00014415 v 0000 01 + 00 00 |    
+00029132 00 v 03 snúa 0 breyta_um_stefnu 0 snúa_við 0 002 @ 00026019 v 0000 ~ 00068031 v 0000 01 + 00 00 |    
+00029246 00 v 01 spinna 0 000 01 + 00 00 |    
+00029293 00 v 06 fúna 0 drafna 0 morkna 0 spillast 0 rotna 0 úldna 0 000 01 + 00 00 |    
+00029385 00 v 02 skrúbba 0 bursta 0 001 @ 00022347 v 0000 01 + 00 00 |    
+00029461 00 v 03 berja 0 lemja 0 lúberja 0 000 01 + 00 00 |    
+00029526 00 v 02 meina 0 fyrirmuna 0 000 01 + 00 00 |    
+00029584 00 v 02 skilja_eftir 0 láta_eftir 0 001 * 00066751 v 0000 01 + 00 00 |    
+00029669 00 v 07 fyrirbjóða 0 leggja_bann_við 0 banna 0 aftaka 0 forboða 0 óheimila 0 forbjóða 0 002 ! 00052497 v 0000 @ 00089453 v 0000 01 + 00 00 |    
+00029830 00 v 02 bæta_við 0 leggja_saman 0 001 @ 00006229 v 0000 01 + 00 00 |    
+00029914 00 v 04 færa_þakkir 0 tjá_þökk 0 flytja_þakkir 0 þakka 0 000 01 + 00 00 |    
+00030008 00 v 06 þvæla 0 þvætta 0 þvola 0 þvo 0 vaska 0 lauga 0 000 01 + 00 00 |    
+00030099 00 v 02 fjötra 0 binda 0 000 01 + 00 00 |    
+00030155 00 v 02 fangelsa 0 hafa_í_haldi 0 002 ! 00053677 v 0000 ~ 00023421 v 0000 01 + 00 00 |    
+00030256 00 v 03 leiða 0 stjórna 0 stýra 0 001 @ 00091832 v 0000 01 + 00 00 |    
+00030341 00 v 02 kíkja 0 gægjast 0 000 01 + 00 00 |    
+00030399 00 v 02 færast_nær 0 nálgast 0 001 * 00074449 v 0000 01 + 00 00 |    
+00030481 00 v 02 klæðast 0 vera_í 0 000 01 + 00 00 |    
+00030541 00 v 09 þjóta 0 geysast 0 fara_hratt 0 flana 0 snarast 0 rjúka 0 þeysa 0 flýta_sér 0 hendast 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00030690 00 v 02 breyta 0 falsa 0 000 01 + 00 00 |    
+00030745 00 v 04 ganga 0 mæla 0 skrefa 0 stíga 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00030835 00 v 02 fóstra 0 ala_upp 0 000 01 + 00 00 |    
+00030893 00 v 03 gera_steinhissa 0 gera_höggdofa 0 gera_agndofa 0 000 01 + 00 00 |    
+00030981 00 v 02 gera_útúrdúr 0 fara_út_fyrir_efnið 0 000 01 + 00 00 |    
+00031061 00 v 03 stinga 0 leggja 0 reka_í_gegn 0 001 @ 00023979 v 0000 01 + 00 00 |    
+00031150 00 v 03 hamla 0 aftra 0 hindra 0 001 ~ 00062629 v 0000 01 + 00 00 |    
+00031231 00 v 02 einblína_á 0 einbeita_sér 0 001 @ 00011262 v 0000 01 + 00 00 |    
+00031318 00 v 02 hreyta_út_úr_sér 0 munnhöggvast 0 000 01 + 00 00 |    
+00031394 00 v 06 opna 0 sperra_upp 0 rífa_upp 0 ljúka_upp 0 uppljúka 0 glenna_upp 0 001 ! 00064096 v 0000 01 + 00 00 |    
+00031520 00 v 02 leiða 0 stýra 0 000 01 + 00 00 |    
+00031576 00 v 04 stilla 0 sefa 0 kyrra 0 róa 0 001 @ 00081447 v 0000 01 + 00 00 |    
+00031663 00 v 02 gera_sér_ljóst 0 gera_sér_grein_fyrir 0 000 01 + 00 00 |    
+00031744 00 v 02 fagna 0 heilsa 0 000 01 + 00 00 |    
+00031799 00 v 03 eyða 0 sólunda 0 sóa 0 000 01 + 00 00 |    
+00031863 00 v 06 hrapa 0 skriðna 0 hrjóta_niður 0 falla_niður 0 detta 0 hrynja 0 000 01 + 00 00 |    
+00031969 00 v 05 skruma 0 grobba 0 raupa 0 monta_sig 0 gorta 0 001 @ 00073763 v 0000 01 + 00 00 |    
+00032071 00 v 02 gata 0 búa_til_gat_á 0 001 @ 00041238 v 0000 01 + 00 00 |    
+00032152 00 v 05 strípa 0 bera_sig 0 hátta 0 afklæða_sig 0 hátta_sig 0 001 ! 00005767 v 0000 01 + 00 00 |    
+00032267 00 v 08 segja_í_hljóði 0 kvisa 0 segja_í_hálfum_hljóðum 0 hvísla 0 hvískra 0 pukra 0 hviðra 0 pískra 0 001 ! 00088784 v 0000 01 + 00 00 |    
+00032429 00 v 04 vera_á_móti 0 veita_viðnám 0 vera_andvígur 0 vera_mótfallinn 0 000 01 + 00 00 |    
+00032536 00 v 03 hleypa_af 0 plaffa 0 skjóta 0 001 @ 00044547 v 0000 01 + 00 00 |    
+00032623 00 v 06 hampa 0 vera_meðmæltur 0 mæla_með 0 tala_máli_e-s 0 tala_fyrir_e-u 0 ívilna 0 000 01 + 00 00 |    
+00032745 00 v 01 merkja_við 0 000 01 + 00 00 |    
+00032797 00 v 02 tálma 0 hindra 0 000 01 + 00 00 |    
+00032853 00 v 10 flækjast 0 vera_iðjulaus 0 slóra 0 hanga 0 stanglast 0 híma 0 slabba 0 slækjast 0 gaufa 0 slæpast 0 ómennskast 0 dumma 0 hengslast 0 dunda 0 drolla 0 hangsa 0 001 @ 00084965 v 0000 01 + 00 00 |    
+00033075 00 v 06 fara_varhluta_af 0 sjá_af 0 láta_sér_úr_greipum_ganga 0 fara_á_mis_við 0 grípa_í_tómt 0 missa_af 0 000 01 + 00 00 |    
+00033221 00 v 02 hvessa_augun_á 0 stara_reiðilega_á 0 000 01 + 00 00 |    
+00033299 00 v 03 leka 0 hripleka 0 hripa 0 000 01 + 00 00 |    
+00033363 00 v 01 tína 0 000 01 + 00 00 |    
+00033409 00 v 02 undanskilja 0 útiloka 0 001 @ 00022685 v 0000 01 + 00 00 |    
+00033490 00 v 03 stokka 0 hræra 0 dulla 0 000 01 + 00 00 |    
+00033554 00 v 02 láta_smella 0 smella 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00033634 00 v 06 pressa 0 þrúga 0 kremja 0 merja 0 klípa 0 kreista 0 001 ~ 00026652 v 0000 01 + 00 00 |    
+00033745 00 v 0d leiða_sjónum 0 líta 0 leiða_augum 0 skima 0 koma_auga_á 0 glápa 0 sjá 0 greina 0 festa_sjónir_á 0 reka_augun_í 0 horfa_á 0 eygja 0 vera_skyggn_á 0 001 @ 00056359 v 0000 01 + 00 00 |    
+00033960 00 v 03 fara_með 0 vera_samferða 0 fylgja 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00034054 00 v 02 kalla_á 0 kveðja_til 0 000 01 + 00 00 |    
+00034117 00 v 02 herma_eftir 0 kópera 0 001 @ 00035984 v 0000 01 + 00 00 |    
+00034197 00 v 03 búa_til 0 skapa 0 framleiða 0 003 ~ 00035984 v 0000 ~ 00008836 v 0000 ~ 00091913 v 0000 01 + 00 00 |    
+00034321 00 v 02 skríða_fyrir 0 smjaðra_fyrir 0 000 01 + 00 00 |    
+00034393 00 v 01 mæla 0 002 ~ 00088016 v 0000 ~ 00088305 v 0000 01 + 00 00 |    
+00034475 00 v 03 skreppa_saman 0 minnka 0 þorna_upp 0 001 @ 00060362 v 0000 01 + 00 00 |    
+00034569 00 v 03 vilja 0 langa 0 þrá 0 002 ~ 00040857 v 0000 ~ 00012500 v 0000 01 + 00 00 |    
+00034667 00 v 07 fylla_flokk_e-s 0 heyra_til 0 teljast_til_e-s 0 tilheyra 0 fylgja 0 vera_í_eigu_e-s 0 heyra_undir 0 000 01 + 00 00 |    
+00034806 00 v 02 hætta_með 0 losa_sig_við 0 000 01 + 00 00 |    
+00034874 00 v 03 velja 0 kjósa 0 ákjósa 0 001 @ 00061807 v 0000 01 + 00 00 |    
+00034958 00 v 02 bera_vitni 0 vitna 0 001 ;c 00065715 n 0000 01 + 00 00 |    
+00035036 00 v 03 beygja 0 gera_beygju_á 0 sveigja 0 000 01 + 00 00 |    
+00035110 00 v 02 standa_andspænis 0 mæta 0 000 01 + 00 00 |    
+00035176 00 v 07 haggast 0 bifast 0 hreyfa_sig 0 hræra 0 hreyfast 0 hagga_sér 0 bæra_á_sér 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00035313 00 v 0a biðja_um 0 beiða 0 fara_bónarveg_að 0 mælast_til 0 beiðast 0 óska_eftir 0 fara_e-s_á_leit 0 kvabba 0 fara_fram_á 0 panta 0 005 ~ 00025643 v 0000 ~ 00053352 v 0000 ~ 00019824 v 0000 ~ 00003748 v 0000 ~ 00055630 v 0000 01 + 00 00 |    
+00035573 00 v 02 varpa_öndinni 0 andvarpa 0 001 @ 00071186 v 0000 01 + 00 00 |    
+00035657 00 v 02 geyma 0 leggja_til_hliðar 0 001 @ 00086439 v 0000 01 + 00 00 |    
+00035742 00 v 02 svindla_á 0 plata 0 001 @ 00060475 v 0000 01 + 00 00 |    
+00035819 00 v 04 þykja 0 líta_út 0 virðast 0 koma_fyrir_sjónir 0 000 01 + 00 00 |    
+00035910 00 v 03 hrökkva_sundur 0 slitna 0 bresta 0 000 01 + 00 00 |    
+00035984 00 v 02 endurgera 0 kópera 0 004 @ 00034197 v 0000 ~ 00034117 v 0000 ~ 00021829 v 0000 ~ 00082855 v 0000 01 + 00 00 |    
+00036116 00 v 02 skila 0 afhenda 0 001 @ 00040972 v 0000 01 + 00 00 |    
+00036190 00 v 03 borga_fyrir 0 greiða_fyrir 0 fjármagna 0 000 01 + 00 00 |    
+00036271 00 v 11 ugga 0 óttast 0 standa_stuggur_af 0 verða_uggandi 0 óa 0 vera_hræddur_við 0 hræðast 0 vera_hræddur_um 0 standa_ógn_af 0 lítast_ekki_á_blikuna 0 fyllast_geig 0 verða_ekki_um_skel 0 verða_órótt 0 hafa_beyg_af 0 skelfast 0 hrjósa_hugur_við 0 gerast_óttasleginn 0 000 01 + 00 00 |    
+00036587 00 v 02 skilja 0 fara_hvor_sína_leið 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00036676 00 v 02 renna_augum_yfir 0 skanna 0 000 01 + 00 00 |    
+00036742 00 v 04 særa 0 hneyksla 0 misbjóða 0 móðga 0 001 > 00008735 v 0000 01 + 00 00 |    
+00036840 00 v 03 flytja 0 leika 0 sýna 0 002 ~ 00002623 v 0000 ~ 00085065 v 0000 01 + 00 00 |    
+00036939 00 v 03 eyða 0 þurrka_út 0 stroka_út 0 001 ! 00004427 v 0000 01 + 00 00 |    
+00037030 00 v 01 ákvarða 0 000 01 + 00 00 |    
+00037080 00 v 04 hvolfa_af 0 hvolfa_úr 0 hella_úr 0 sturta 0 001 > 00083080 v 0000 01 + 00 00 |    
+00037182 00 v 03 gá 0 athuga 0 ganga_úr_skugga_um 0 000 01 + 00 00 |    
+00037257 00 v 02 reisa 0 ferðast_(með_faratæki) 0 001 ! 00053064 v 0000 01 + 00 00 |    
+00037349 00 v 03 stansa 0 nema_staðar 0 stoppa 0 000 01 + 00 00 |    
+00037420 00 v 02 svifta_hulinni_af 0 fletta_ofan_af 0 000 01 + 00 00 |    
+00037495 00 v 01 drukkna 0 001 @ 00066751 v 0000 01 + 00 00 |    
+00037561 00 v 03 hegða_sér 0 haga_sér 0 koma_fram 0 001 ~ 00008184 v 0000 01 + 00 00 |    
+00037655 00 v 03 útnefna 0 tilnefna 0 skipa 0 000 01 + 00 00 |    
+00037723 00 v 02 hugleiða 0 íhuga 0 001 @ 00068605 v 0000 01 + 00 00 |    
+00037800 00 v 02 enda 0 ljúka 0 000 01 + 00 00 |    
+00037854 00 v 02 toga_í 0 draga 0 001 @ 00004724 v 0000 01 + 00 00 |    
+00037928 00 v 02 herma_eftir 0 líkja_eftir 0 000 01 + 00 00 |    
+00037995 00 v 03 fara_á_skautum 0 skauta 0 falda 0 002 @ 00023686 v 0000 ;c 00170395 n 0000 01 + 00 00 |    
+00038105 00 v 01 veita_umboð 0 000 01 + 00 00 |    
+00038158 00 v 03 heimta 0 ætlast_til 0 krefjast 0 001 @ 00055630 v 0000 01 + 00 00 |    
+00038248 00 v 04 safna 0 leggja_fyrir 0 spara 0 leggja_til_hliðar 0 000 01 + 00 00 |    
+00038338 00 v 03 vera_án 0 sjá_af 0 missa_af 0 000 01 + 00 00 |    
+00038408 00 v 02 laða_að 0 draga_að 0 001 @ 00003274 v 0000 01 + 00 00 |    
+00038488 00 v 02 sýna 0 benda 0 000 01 + 00 00 |    
+00038542 00 v 02 vísa_úr_landi 0 gera_brottrækan 0 000 01 + 00 00 |    
+00038617 00 v 01 tileinka 0 000 01 + 00 00 |    
+00038666 00 v 02 koma_upp 0 ala_upp 0 000 01 + 00 00 |    
+00038725 00 v 02 loka 0 hylja 0 001 ~ 00076119 v 0000 01 + 00 00 |    
+00038796 00 v 09 hverfa 0 fara_burt 0 verða_á_brott 0 hafa_sig_á_brott 0 fara_af_stað 0 hafa_sig_á_burt 0 fara 0 snáfa 0 koma_sér 0 002 ! 00041238 v 0000 @ 00026019 v 0000 01 + 00 00 |    
+00038992 00 v 02 pirra 0 trufla 0 001 ~ 00040602 v 0000 01 + 00 00 |    
+00039065 00 v 02 hálshöggva 0 afhöfða 0 001 @ 00020237 v 0000 01 + 00 00 |    
+00039148 00 v 02 helga_sig 0 einbeita_sér_að_e-u 0 000 01 + 00 00 |    
+00039222 00 v 03 sjá_fyrir_sér 0 gera_sér_í_hugarlund 0 ímynda_sér 0 000 01 + 00 00 |    
+00039318 00 v 04 sættast 0 jafna_e-ð_með_sér 0 semja_sátt 0 semja_frið 0 000 01 + 00 00 |    
+00039418 00 v 10 heilsa_upp_á 0 stinga_við_stafni 0 heimsækja 0 fara_til 0 fara_að_finna 0 fara_á_vit_e-s 0 sækja_heim 0 líta_inn_hjá 0 gista_e-n 0 fara_á_fund_e-s 0 ganga_við_hjá 0 vitja 0 reka_inn_nefið 0 koma_við_hjá 0 líta_inn_til 0 vísítera 0 001 ~ 00045225 v 0000 01 + 00 00 |    
+00039722 00 v 02 fara_fram_yfir 0 fara_fram_úr 0 001 @ 00060475 v 0000 01 + 00 00 |    
+00039811 00 v 03 hafa_yfir_blessunarorðin 0 signa 0 blessa 0 001 ! 00025558 v 0000 01 + 00 00 |    
+00039912 00 v 05 ljóma 0 glóa 0 glitra 0 geisla 0 glampa 0 000 01 + 00 00 |    
+00039994 00 v 02 fága 0 pússa 0 001 * 00022347 v 0000 01 + 00 00 |    
+00040067 00 v 03 stíga 0 aukast 0 hækka 0 003 @ 00085456 v 0000 ~ 00048023 v 0000 ~ 00024875 v 0000 01 + 00 00 |    
+00040186 00 v 09 skjálfa 0 blikra 0 skakast 0 hristast 0 titra 0 gnötra 0 riða 0 pipra 0 nötra 0 001 @ 00081531 v 0000 01 + 00 00 |    
+00040326 00 v 06 umfaðma 0 spenna_örmum 0 lykja_örmum 0 umvefja 0 faðma 0 taka_utan_um 0 000 01 + 00 00 |    
+00040440 00 v 02 búa_til 0 framleiða 0 000 01 + 00 00 |    
+00040502 00 v 04 hverfa 0 líða_hjá 0 linna 0 ganga_yfir 0 001 @ 00074449 v 0000 01 + 00 00 |    
+00040602 00 v 03 hrella 0 ónáða 0 áreita 0 001 @ 00038992 v 0000 01 + 00 00 |    
+00040688 00 v 0a hnigna 0 daprast 0 hrörna 0 lasna 0 draga_af 0 hrumast 0 kopa 0 hraka 0 fara_aftur 0 versna 0 002 ! 00047900 v 0000 @ 00044273 v 0000 01 + 00 00 |    
+00040857 00 v 04 þreyja 0 lengja_eftir 0 þrá 0 sakna 0 002 @ 00034569 v 0000 * 00089132 v 0000 01 + 00 00 |    
+00040972 00 v 05 bera 0 færa 0 veita 0 koma_með 0 flytja 0 002 @ 00004724 v 0000 ~ 00036116 v 0000 01 + 00 00 |    
+00041090 00 v 02 geysa 0 æða 0 000 01 + 00 00 |    
+00041144 00 v 04 snúa 0 hverfa 0 hringsnúa 0 venda 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00041238 00 v 03 fara_inn 0 ganga_inn 0 koma_inn 0 003 ! 00038796 v 0000 ~ 00073157 v 0000 ~ 00032071 v 0000 01 + 00 00 |    
+00041364 00 v 17 amra 0 berja_lóminn 0 sífra 0 kvarta 0 sakast_um 0 breka 0 kæra 0 mögla 0 æðrast_yfir 0 bera_sig_upp_um 0 vola_volgra 0 nöldra 0 kveina 0 klaga 0 fárast_yfir 0 kveinka_sér 0 ambra 0 barma_sér_yfir 0 víla 0 berja_sér 0 mjálma 0 bera_sig_illa 0 bera_sig_upp_undan 0 000 01 + 00 00 |    
+00041679 00 v 01 koma_sök_á 0 000 01 + 00 00 |    
+00041732 00 v 01 hiksta 0 001 @ 00071186 v 0000 01 + 00 00 |    
+00041797 00 v 02 finna_lykt_af 0 lykta_af 0 002 @ 00056359 v 0000 ~ 00024633 v 0000 01 + 00 00 |    
+00041898 00 v 02 ná 0 snerta 0 000 01 + 00 00 |    
+00041951 00 v 02 afmarka 0 breyta 0 001 ;c 00207005 n 0000 01 + 00 00 |    
+00042027 00 v 02 rennbleyta 0 gegnbleyta 0 000 01 + 00 00 |    
+00042091 00 v 02 segja 0 halda_fram 0 003 ~ 00080281 v 0000 ~ 00075171 v 0000 ~ 00046223 v 0000 01 + 00 00 |    
+00042204 00 v 07 skýra 0 útlista 0 túlka 0 útskýra 0 skilgreina 0 greina 0 skýrgreina 0 000 01 + 00 00 |    
+00042319 00 v 03 berja 0 hýða 0 húðstrýkja 0 000 01 + 00 00 |    
+00042390 00 v 04 hvina 0 drynja 0 gnýja 0 bylja 0 001 @ 00018635 v 0000 01 + 00 00 |    
+00042480 00 v 06 hýrga 0 veita 0 færa_að_gjöf 0 gefa 0 hygla 0 láta_í_té 0 003 ~ 00067487 v 0000 ~ 00063145 v 0000 ~ 00058870 v 0000 01 + 00 00 |    
+00042637 00 v 02 spjara_sig 0 bjarga_sér 0 001 ~ 00026926 v 0000 01 + 00 00 |    
+00042720 00 v 04 meina 0 merkja 0 eiga_við 0 þýða 0 000 01 + 00 00 |    
+00042797 00 v 02 slá_laust 0 klappa 0 000 01 + 00 00 |    
+00042857 00 v 01 krækja 0 001 @ 00004945 v 0000 01 + 00 00 |    
+00042923 00 v 04 ógna 0 skelfa 0 hræða 0 skjóta_skelk_í_bringu 0 001 @ 00092021 v 0000 01 + 00 00 |    
+00043032 00 v 0e komast_fyrir 0 finna 0 grafa_upp 0 ráða_í 0 leiða_í_ljos 0 hafa_upp_á 0 sjá 0 uppdaga 0 spyrja_upp 0 komast_á_snoðir_um 0 þefa_uppi 0 gera_sér_ljóst 0 uppgötva 0 komast_að 0 000 01 + 00 00 |    
+00043258 00 v 04 rísa 0 rísa_upp 0 standa_upp 0 standa 0 002 ! 00063564 v 0000 * 00070761 v 0000 01 + 00 00 |    
+00043374 00 v 02 hlaða 0 lesta 0 001 @ 00064343 v 0000 01 + 00 00 |    
+00043447 00 v 02 útbúa 0 búa 0 001 @ 00003822 v 0000 01 + 00 00 |    
+00043520 00 v 02 endurkastast 0 endurspeglast 0 000 01 + 00 00 |    
+00043589 00 v 02 gera_mishátt_undir_höfði 0 mismuna 0 000 01 + 00 00 |    
+00043667 00 v 02 egna 0 espa 0 001 ~ 00066977 v 0000 01 + 00 00 |    
+00043737 00 v 04 hafa_skipti_á 0 skipta 0 víxla 0 býtta 0 000 01 + 00 00 |    
+00043819 00 v 02 þrykkja 0 prenta 0 000 01 + 00 00 |    
+00043877 00 v 0e vera_e-ð_í_fersku_minni 0 vera_e-ð_í_minni 0 hafa_í_huga 0 muna 0 vera_ógleyminn_á_e-ð 0 reka_minni_til 0 geyma_í_minni 0 hafa_hugfast 0 minnast 0 vera_e-s_minnugur 0 setja_á_sig 0 vera_e-ð_minnisstætt 0 láta_sér_ekki_úr_minni_líða 0 koma_e-u_fyrir_sig 0 002 ! 00082705 v 0000 ~ 00056744 v 0000 01 + 00 00 |    
+00044223 00 v 01 mótmæla 0 000 01 + 00 00 |    
+00044273 00 v 02 hnigna 0 fara_aftur 0 001 ~ 00040688 v 0000 01 + 00 00 |    
+00044351 00 v 02 áfrýja 0 skjóta_til_æðri_dómstóls 0 000 01 + 00 00 |    
+00044432 00 v 03 filma 0 mynda 0 kvikmynda 0 000 01 + 00 00 |    
+00044498 00 v 01 dveljast 0 000 01 + 00 00 |    
+00044547 00 v 03 hleypa_af 0 plaffa 0 skjóta 0 001 ~ 00032536 v 0000 01 + 00 00 |    
+00044634 00 v 03 launa 0 endurgjalda 0 umbuna 0 001 @ 00013114 v 0000 01 + 00 00 |    
+00044721 00 v 01 lýsa_e-ð_leynilegt,_óaðgengilegt 0 000 01 + 00 00 |    
+00044798 00 v 03 yppa_öxlum 0 lyfta_öxlum 0 yppta_öxlum 0 000 01 + 00 00 |    
+00044880 00 v 02 fljóta 0 vera_á_floti 0 002 ! 00014094 v 0000 @ 00085456 v 0000 01 + 00 00 |    
+00044980 00 v 03 affrysta 0 afísa 0 þýða 0 000 01 + 00 00 |    
+00045048 00 v 04 dreifa 0 stækka 0 þenja_út 0 auka 0 000 01 + 00 00 |    
+00045125 00 v 02 þéna 0 vinna_sér_inn 0 002 @ 00025185 v 0000 ~ 00059573 v 0000 01 + 00 00 |    
+00045225 00 v 01 fara_í_skoðunarferð 0 001 @ 00039418 v 0000 01 + 00 00 |    
+00045306 00 v 02 slaka_á 0 slappa_af 0 000 01 + 00 00 |    
+00045367 00 v 02 skipta_máli 0 vera_mikilsvert 0 000 01 + 00 00 |    
+00045438 00 v 03 afsaka 0 forláta 0 fyrirgefa 0 000 01 + 00 00 |    
+00045508 00 v 02 vinna_saman 0 hafa_samvinnu 0 000 01 + 00 00 |    
+00045576 00 v 02 notafæra_sér 0 hagnýta_sér 0 000 01 + 00 00 |    
+00045647 00 v 01 taka_þátt 0 000 01 + 00 00 |    
+00045699 00 v 03 laða_að_sér 0 draga_að_sér 0 laða_að 0 001 ~ 00074718 v 0000 01 + 00 00 |    
+00045801 00 v 02 fjölyrða_um 0 fara_nánar_út_í 0 003 ! 00090803 v 0000 @ 00086106 v 0000 ~ 00026448 v 0000 01 + 00 00 |    
+00045930 00 v 02 gera 0 afreka 0 000 01 + 00 00 |    
+00045984 00 v 02 valda_vonbrigðum 0 bregðast_vonum 0 000 01 + 00 00 |    
+00046060 00 v 02 færa_sig_um_set 0 flytja 0 001 ! 00089862 v 0000 01 + 00 00 |    
+00046144 00 v 03 láta_undan 0 gefa_eftir 0 láta_eftir 0 000 01 + 00 00 |    
+00046223 00 v 01 bera_fram 0 001 @ 00042091 v 0000 01 + 00 00 |    
+00046291 00 v 02 trítla 0 tipla 0 001 @ 00053064 v 0000 01 + 00 00 |    
+00046365 00 v 05 snúa 0 snara 0 túlka 0 þýða 0 útleggja 0 000 01 + 00 00 |    
+00046450 00 v 02 bera 0 halda_á 0 002 @ 00004724 v 0000 * 00026019 v 0000 01 + 00 00 |    
+00046542 00 v 01 hanna 0 000 01 + 00 00 |    
+00046588 00 v 01 klappa 0 001 * 00015319 v 0000 01 + 00 00 |    
+00046653 00 v 02 sætta_sig_við 0 beygja_sig_undir 0 000 01 + 00 00 |    
+00046728 00 v 02 borga_með_kreditkorti 0 færa_til_skuldar_á 0 001 @ 00013114 v 0000 01 + 00 00 |    
+00046832 00 v 03 seinka 0 skjóta_á_frest 0 fresta 0 002 @ 00024090 v 0000 * 00090538 v 0000 01 + 00 00 |    
+00046943 00 v 05 áfellast 0 fyrirdæma 0 fordæma 0 dómfella 0 bannfæra 0 000 01 + 00 00 |    
+00047041 00 v 11 sekta 0 tugta 0 taka_e-n_til_bæna 0 hegna 0 tyfta 0 hirta 0 refsa 0 víta 0 taka_í_lurginn_á 0 jafna_um_e-n 0 taka_í 0 gefa_e-m_ráðningu 0 taka_í_hnakkadrambið_á 0 aga 0 biskupa 0 straffa 0 klekkja_á_e-m 0 001 ~ 00083846 v 0000 01 + 00 00 |    
+00047313 00 v 06 hlaðast_upp 0 hrannast_upp 0 koma_saman 0 hrúgast_upp 0 safnast_saman 0 hópast 0 000 01 + 00 00 |    
+00047435 00 v 03 rugga 0 velta 0 vagga 0 000 01 + 00 00 |    
+00047497 00 v 03 taka_sénsinn 0 taka_áhættu 0 hætta_á 0 001 @ 00049339 v 0000 01 + 00 00 |    
+00047597 00 v 02 dreyra 0 blæða 0 000 01 + 00 00 |    
+00047654 00 v 03 koma_í_staðinn_fyrir 0 leysa_af_hólmi 0 leysa_af 0 000 01 + 00 00 |    
+00047746 00 v 03 þurrka_upp 0 grafa 0 ræsa_fram 0 000 01 + 00 00 |    
+00047819 00 v 02 planta 0 gróðursetja 0 001 @ 00064343 v 0000 01 + 00 00 |    
+00047900 00 v 05 hjarna_við 0 batna 0 ná_sér 0 rétta_úr_kútnum. 0 jafna_sig 0 001 ! 00040688 v 0000 01 + 00 00 |    
+00048023 00 v 06 reisa_sig 0 rísa 0 lyftast 0 stíga_upp 0 hefja_sig 0 koma_upp 0 002 ! 00078728 v 0000 @ 00040067 v 0000 01 + 00 00 |    
+00048163 00 v 03 reisa 0 lyfta 0 hefja 0 002 ~ 00069595 v 0000 > 00040067 v 0000 01 + 00 00 |    
+00048261 00 v 0c dára 0 angra 0 egna 0 hrella 0 draga_dár_að 0 svekkja 0 gabba 0 gera_gabb_að 0 skaprauna 0 ögra 0 erta 0 stríða 0 000 01 + 00 00 |    
+00048420 00 v 07 velta_þæfa 0 hnuðla 0 hnulla 0 troða 0 hnoða 0 hnauka 0 elta 0 000 01 + 00 00 |    
+00048526 00 v 02 láta_yfir_sér 0 leyfa_sér 0 000 01 + 00 00 |    
+00048595 00 v 04 rífa_niður 0 jafna_við_jörðu 0 eyðileggja 0 brjóta_niður 0 001 ! 00021756 v 0000 01 + 00 00 |    
+00048718 00 v 03 prófa 0 gera_tilraun 0 prufa 0 000 01 + 00 00 |    
+00048788 00 v 02 frysta 0 frostkæla 0 000 01 + 00 00 |    
+00048848 00 v 02 hringja 0 síma 0 000 01 + 00 00 |    
+00048904 00 v 01 fasta 0 000 01 + 00 00 |    
+00048950 00 v 03 stokka 0 blanda 0 raða_af_handahófi 0 000 01 + 00 00 |    
+00049028 00 v 03 kara 0 lepja 0 sleikja 0 001 @ 00050311 v 0000 01 + 00 00 |    
+00049109 00 v 02 íhuga 0 velta_fyrir_sér 0 001 @ 00075439 v 0000 01 + 00 00 |    
+00049193 00 v 09 svella 0 hlaupa_upp 0 uppbólgna 0 bólgna 0 þrútna 0 tútna 0 blása_upp 0 belgjast_út 0 belgjast_upp 0 000 01 + 00 00 |    
+00049339 00 v 02 reyna 0 gera_tilraun_til 0 001 ~ 00047497 v 0000 01 + 00 00 |    
+00049422 00 v 01 passa_við 0 001 @ 00086344 v 0000 01 + 00 00 |    
+00049491 00 v 02 endast 0 duga 0 000 01 + 00 00 |    
+00049545 00 v 02 mölva 0 brjóta 0 000 01 + 00 00 |    
+00049602 00 v 04 fá_fullvissu_um 0 komast_eftir 0 ganga_úr_skugga_um 0 komast_að 0 000 01 + 00 00 |    
+00049709 00 v 02 vera_undir_e-u_kominn 0 ráðast_af 0 000 01 + 00 00 |    
+00049785 00 v 02 koma_með 0 kynna 0 000 01 + 00 00 |    
+00049843 00 v 03 lána 0 fá 0 ljá 0 001 ! 00021652 v 0000 01 + 00 00 |    
+00049920 00 v 03 annast 0 leggja_á_ráðin 0 skipuleggja 0 001 @ 00000602 v 0000 01 + 00 00 |    
+00050019 00 v 04 veiða 0 hremma 0 fanga 0 ná 0 000 01 + 00 00 |    
+00050089 00 v 04 hafa_umsjón_með 0 leiða 0 stjórna 0 stýra 0 000 01 + 00 00 |    
+00050176 00 v 01 flytja_inn 0 002 ! 00063469 v 0000 ;c 00180212 n 0000 01 + 00 00 |    
+00050264 00 v 01 hræra 0 000 01 + 00 00 |    
+00050311 00 v 04 gæla_við 0 kjassa 0 klappa 0 strjúka 0 002 @ 00073602 v 0000 ~ 00049028 v 0000 01 + 00 00 |    
+00050427 00 v 02 gata 0 búa_til_gat_á 0 000 01 + 00 00 |    
+00050490 00 v 06 skýra 0 þyrma 0 vægja 0 hlífa 0 verja 0 spara 0 001 @ 00091410 v 0000 01 + 00 00 |    
+00050598 00 v 02 safna 0 safna_saman 0 000 01 + 00 00 |    
+00050658 00 v 02 eltast_við 0 elta 0 000 01 + 00 00 |    
+00050717 00 v 02 henda 0 losa_sig_við 0 000 01 + 00 00 |    
+00050779 00 v 0c bjargast 0 forða_sér 0 draga_undan 0 komast_úr_klóm_e-s 0 komast_undan 0 bera_undan 0 ganga_e-m_úr_grepum 0 flýja 0 sleppa 0 verða_undankomu_auðið 0 komast_af 0 losna 0 000 01 + 00 00 |    
+00050995 00 v 02 renna_stoðum_undir 0 styðja 0 001 ~ 00051833 v 0000 01 + 00 00 |    
+00051083 00 v 02 halda 0 viðhalda 0 000 01 + 00 00 |    
+00051141 00 v 04 þykja 0 líta_út 0 virðast 0 koma_fyrir_sjónir 0 001 ~ 00018182 v 0000 01 + 00 00 |    
+00051250 00 v 07 glepja 0 fipa 0 ónáða 0 pirra 0 trufla 0 ruska 0 raska_ró_e-s 0 000 01 + 00 00 |    
+00051356 00 v 01 eitra 0 001 @ 00088219 v 0000 01 + 00 00 |    
+00051420 00 v 02 gata 0 búa_til_gat_á 0 000 01 + 00 00 |    
+00051483 00 v 03 skoppa 0 stökkva 0 hoppa 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00051567 00 v 01 stela_verkum_annarra 0 001 ;c 00147996 n 0000 01 + 00 00 |    
+00051647 00 v 07 nema_úr_gildi 0 eyða 0 afnema 0 ryðja_úr_vegi 0 reka_burt 0 útrýma 0 leggja_niður 0 000 01 + 00 00 |    
+00051776 00 v 02 skríða 0 sigla 0 000 01 + 00 00 |    
+00051833 00 v 02 sanna 0 sýna_fram_á 0 001 @ 00050995 v 0000 01 + 00 00 |    
+00051913 00 v 02 fara_í_langa_gönguferð 0 þramma 0 002 @ 00053064 v 0000 ;c 00170395 n 0000 01 + 00 00 |    
+00052026 00 v 04 hlæja 0 reka_upp_hlátur 0 flissa 0 skríkja 0 001 ! 00017308 v 0000 01 + 00 00 |    
+00052130 00 v 04 vilja_fremur 0 vilja_heldur 0 kjósa_fremur 0 kjósa_heldur 0 001 @ 00024949 v 0000 01 + 00 00 |    
+00052248 00 v 03 bera_brigður_á 0 rengja 0 vefengja 0 000 01 + 00 00 |    
+00052325 00 v 05 leggja_við_hlustir 0 leggja_við_eyra 0 ljá_eðu_eyra 0 hlusta 0 hlýða_á 0 003 @ 00056359 v 0000 ~ 00018851 v 0000 * 00078418 v 0000 01 + 00 00 |    
+00052497 00 v 02 veita_leyfi 0 leyfa 0 004 ! 00029669 v 0000 ~ 00012837 v 0000 ~ 00090734 v 0000 ~ 00087574 v 0000 01 + 00 00 |    
+00052629 00 v 09 bera_upp 0 velja 0 tilkveðja 0 tilnefna 0 tiltaka 0 gera_e-n_að_e-u 0 benda_á 0 nefna_til 0 skipa 0 000 01 + 00 00 |    
+00052770 00 v 04 versla 0 koma_í_peninga 0 koma_í_verð 0 selja 0 002 ! 00067716 v 0000 ;c 00180212 n 0000 01 + 00 00 |    
+00052896 00 v 04 setja_rauðan 0 verða_rauður 0 roðna 0 setja_dreyrrauðan 0 000 01 + 00 00 |    
+00052997 00 v 02 verðskulda 0 eiga_skilið 0 000 01 + 00 00 |    
+00053064 00 v 02 ganga 0 labba 0 009 ! 00037257 v 0000 @ 00085456 v 0000 ~ 00016143 v 0000 ~ 00070680 v 0000 ~ 00051913 v 0000 ~ 00067346 v 0000 ~ 00010024 v 0000 ~ 00072314 v 0000 ~ 00046291 v 0000 01 + 00 00 |    
+00053280 00 v 03 raða 0 skipa_í_röð 0 fylkja 0 000 01 + 00 00 |    
+00053352 00 v 02 bjóða 0 bjóða_heim 0 001 @ 00035313 v 0000 01 + 00 00 |    
+00053433 00 v 02 vera_í_fyrirsvari_fyrir 0 vera_fulltrúi 0 000 01 + 00 00 |    
+00053515 00 v 05 samræma 0 skipa_niður 0 koma_skipulagi_á 0 skipuleggja 0 kerfa 0 000 01 + 00 00 |    
+00053621 00 v 02 halla 0 hallast 0 000 01 + 00 00 |    
+00053677 00 v 03 sleppa 0 gefa_lausan 0 láta_lausan 0 001 ! 00030155 v 0000 01 + 00 00 |    
+00053771 00 v 03 hljóta 0 vera_veitt 0 fá 0 001 @ 00025185 v 0000 01 + 00 00 |    
+00053856 00 v 02 draga_út 0 toga_út 0 000 01 + 00 00 |    
+00053917 00 v 02 grafa_undan 0 veikja 0 000 01 + 00 00 |    
+00053978 00 v 01 leggja 0 000 01 + 00 00 |    
+00054025 00 v 03 bæta_við 0 auka 0 hækka 0 001 @ 00075308 v 0000 01 + 00 00 |    
+00054110 00 v 02 raða 0 skipa 0 003 @ 00064343 v 0000 ~ 00089054 v 0000 ~ 00083722 v 0000 01 + 00 00 |    
+00054218 00 v 05 lút_e-m 0 gegna 0 hlýða 0 sýna_auðsveipni 0 hlýðnast 0 002 @ 00086344 v 0000 ~ 00077616 v 0000 01 + 00 00 |    
+00054354 00 v 02 drepa_tittlinga 0 blikka 0 000 01 + 00 00 |    
+00054419 00 v 03 falla 0 gefa_eftir 0 hrynja 0 000 01 + 00 00 |    
+00054487 00 v 02 bera 0 þola 0 000 01 + 00 00 |    
+00054540 00 v 03 minnka 0 draga_úr 0 fækka 0 002 ~ 00066900 v 0000 ~ 00090803 v 0000 01 + 00 00 |    
+00054644 00 v 18 andmæla 0 bægja_á_bug 0 anda_í_drukkinn 0 antigna 0 mæla_á_móti 0 taka_fjarri 0 hafa_á_móti 0 vísa_á_bug 0 rísa_gegn 0 rísa_öndverður 0 mögla 0 hreyfa_mótmælum 0 bera_fram_mótmæli 0 jafnkýta 0 víkja_á_bug 0 koma_með_mótbárur 0 hrekja 0 andæfa 0 mótmæla 0 veita_mótðstöðu 0 bera_á_m´toi 0 standa_á_móti 0 neita 0 malda_í_móinn 0 001 ~ 00065925 v 0000 01 + 00 00 |    
+00055067 00 v 03 ná_ekki_andanum 0 vera_að_kafna 0 standa_á_öndinni 0 000 01 + 00 00 |    
+00055162 00 v 03 launa 0 endurgjalda 0 umbuna 0 000 01 + 00 00 |    
+00055231 00 v 03 hætta_við 0 falla_frá 0 yfirgefa 0 000 01 + 00 00 |    
+00055307 00 v 03 vigta 0 vera_að_þyngd 0 vega 0 000 01 + 00 00 |    
+00055378 00 v 05 henda 0 þeyta 0 varpa 0 fleygja 0 kasta 0 001 @ 00057914 v 0000 01 + 00 00 |    
+00055477 00 v 02 ásækja 0 sækja_að 0 000 01 + 00 00 |    
+00055539 00 v 02 sá 0 sáldra 0 002 @ 00064343 v 0000 ;c 00094078 n 0000 01 + 00 00 |    
+00055630 00 v 02 heimta 0 krefjast 0 002 @ 00035313 v 0000 ~ 00038158 v 0000 01 + 00 00 |    
+00055724 00 v 02 fara_framúr 0 fara_framhjá 0 000 01 + 00 00 |    
+00055793 00 v 01 falsa 0 000 01 + 00 00 |    
+00055839 00 v 01 mála 0 001 ;c 00154048 n 0000 01 + 00 00 |    
+00055904 00 v 02 losa_undan 0 frelsa 0 000 01 + 00 00 |    
+00055964 00 v 03 búa_um 0 pakka 0 pakka_inn 0 000 01 + 00 00 |    
+00056032 00 v 02 loga 0 brenna 0 001 ~ 00022964 v 0000 01 + 00 00 |    
+00056104 00 v 02 stauta 0 lesa 0 000 01 + 00 00 |    
+00056158 00 v 02 baka 0 seyða 0 000 01 + 00 00 |    
+00056212 00 v 02 hrapa 0 brotlenda 0 000 01 + 00 00 |    
+00056270 00 v 03 setjast_að 0 hola_sér_niður 0 koma_sér_fyrir 0 000 01 + 00 00 |    
+00056359 00 v 0c verða_e-s_áskynja 0 verða_var_við 0 finna_til 0 verða_e-s_var 0 finna 0 finna_á_sér 0 vita_af 0 greina 0 hafa_veður_af 0 skynja 0 nema 0 taka_eftir 0 006 ~ 00033745 v 0000 ~ 00052325 v 0000 ~ 00072239 v 0000 ~ 00041797 v 0000 ~ 00078418 v 0000 ~ 00002038 v 0000 01 + 00 00 |    
+00056663 00 v 02 nema_á_brott 0 ræna 0 001 ;c 00147996 n 0000 01 + 00 00 |    
+00056744 00 v 02 þekkja 0 bera_kennsl_á 0 002 @ 00043877 v 0000 * 00093244 v 0000 01 + 00 00 |    
+00056845 00 v 05 henda 0 þeyta 0 varpa 0 fleygja 0 kasta 0 002 ~ 00057763 v 0000 ~ 00057914 v 0000 01 + 00 00 |    
+00056962 00 v 04 stinga_uppá 0 kallsa 0 gera_tillögu_um 0 leggja_til 0 000 01 + 00 00 |    
+00057056 00 v 02 biðjast_afsökunar 0 biðjast_velvirðingar 0 001 * 00013880 v 0000 01 + 00 00 |    
+00057159 00 v 03 hreyfa_sig 0 þjálfa 0 æfa 0 000 01 + 00 00 |    
+00057228 00 v 06 bera_birtu 0 gefa_birtu 0 birta 0 lýsa 0 geisla 0 bjarma 0 000 01 + 00 00 |    
+00057326 00 v 03 yfirgefa 0 leggja_af_stað 0 fara 0 000 01 + 00 00 |    
+00057400 00 v 02 færa 0 flytja 0 000 01 + 00 00 |    
+00057455 00 v 04 yfirþyrma 0 gagntaka 0 yfirbuga 0 buga 0 001 @ 00060475 v 0000 01 + 00 00 |    
+00057553 00 v 02 fylla_af_andagift 0 fylla_af_hugmóði 0 000 01 + 00 00 |    
+00057632 00 v 02 standa_andspænis 0 mæta 0 000 01 + 00 00 |    
+00057698 00 v 01 stilla 0 001 @ 00006900 v 0000 01 + 00 00 |    
+00057763 00 v 03 þeyta 0 varpa 0 kasta 0 002 @ 00056845 v 0000 ~ 00015572 v 0000 01 + 00 00 |    
+00057862 00 v 01 hreyfa_við 0 000 01 + 00 00 |    
+00057914 00 v 04 henda 0 þeyta 0 varpa 0 kasta 0 002 @ 00056845 v 0000 ~ 00055378 v 0000 01 + 00 00 |    
+00058021 00 v 1d bera_skynbragð_á 0 kunna_skyn_á 0 gera_sér_skiljanlegt 0 hafa_skyn_á 0 ráða_fram_úr 0 skilja 0 ráða_í 0 botna_í 0 hafa_skynbragð_á 0 gríða 0 sjá 0 átta_sig_á 0 öðlast_skilning_á 0 renna_upp_fyrir 0 greina 0 bera_skyn_á 0 leggja_e-n_skilning_í 0 grynna_í 0 vita_skyn_á 0 komast_til_botns_í 0 gera_sér_ljóst 0 fatta 0 gera_sér_grein_fyrir 0 fá_botn_í 0 koma_e-u_heim_og_saman 0 verða_ljóst 0 ná_tökum_á 0 komast_til_skilings 0 glöggva_sig_á 0 001 ~ 00000734 v 0000 01 + 00 00 |    
+00058557 00 v 02 heita 0 lofa_hátíðlega 0 000 01 + 00 00 |    
+00058623 00 v 02 gefa_kost_á_sér 0 bjóða_sig_fram 0 000 01 + 00 00 |    
+00058700 00 v 02 gera_upptækan 0 taka_í_vörslu_sína 0 000 01 + 00 00 |    
+00058779 00 v 04 mega 0 líða 0 heilsast 0 vegna 0 001 ~ 00089132 v 0000 01 + 00 00 |    
+00058870 00 v 03 dreifa 0 útbýta 0 deila 0 001 @ 00042480 v 0000 01 + 00 00 |    
+00058954 00 v 02 vera_ósammála 0 greina_á_um 0 000 01 + 00 00 |    
+00059025 00 v 02 grípa 0 handsama 0 001 @ 00078007 v 0000 01 + 00 00 |    
+00059101 00 v 02 sleppa_úr 0 fella_undan 0 000 01 + 00 00 |    
+00059166 00 v 03 reiða_sig_á 0 treysta 0 stóla_á 0 000 01 + 00 00 |    
+00059242 00 v 04 hafa_skipti_á 0 skipta_á 0 víxla 0 býtta 0 000 01 + 00 00 |    
+00059327 00 v 02 taka_lim_af 0 aflima 0 001 ;c 00093328 n 0000 01 + 00 00 |    
+00059407 00 v 03 gróa 0 græða 0 lækna 0 002 ;c 00093328 n 0000 * 00083182 v 0000 01 + 00 00 |    
+00059509 00 v 02 hafa_til_sýnis 0 sýna 0 000 01 + 00 00 |    
+00059573 00 v 08 græða 0 ábatast 0 þéna 0 hafa_ábata_af 0 hafa_hag_af 0 hafa_upp_úr_krafsinu 0 auðgast 0 hagnast 0 001 @ 00045125 v 0000 01 + 00 00 |    
+00059735 00 v 02 keyra 0 aka 0 002 @ 00085456 v 0000 * 00037257 v 0000 01 + 00 00 |    
+00059823 00 v 08 söngla 0 kvaka 0 kveða 0 syngja 0 kyra 0 raula 0 taka_lagið 0 tóna 0 000 01 + 00 00 |    
+00059934 00 v 08 skara 0 sópa 0 kústa 0 hreinsa 0 dusta 0 sófla 0 raka 0 buska 0 001 @ 00025027 v 0000 01 + 00 00 |    
+00060057 00 v 02 þvo 0 lauga 0 000 01 + 00 00 |    
+00060110 00 v 03 fara_fram_úr 0 kyfirstíga 0 skjóta_e-m_aftur_fyrir_sig 0 001 @ 00074449 v 0000 01 + 00 00 |    
+00060226 00 v 02 halla 0 hallast 0 000 01 + 00 00 |    
+00060282 00 v 02 gera_útúrdúr 0 fara_út_fyrir_efnið 0 000 01 + 00 00 |    
+00060362 00 v 04 dvína 0 minnka 0 lækka 0 draga_úr 0 002 ! 00062983 v 0000 ~ 00034475 v 0000 01 + 00 00 |    
+00060475 00 v 14 hrósa_sigri 0 fara_með_sigur_af_hólmi 0 hotnast_sigur 0 hafa_sigur 0 bera_hærra_hlut 0 hafa_betur 0 fá_sigur 0 bera_hærri_hlut 0 leggja_að_velli 0 leggja_á_eyrað 0 bera_sigur_af_hólmi 0 bera_af 0 fagna_sigri 0 bera_sigurorð_af 0 vinna 0 hljóta_sigur 0 sigra 0 vinna_sigur_á 0 bera_ofurliði 0 salla_niður 0 004 ~ 00057455 v 0000 ~ 00035742 v 0000 ~ 00039722 v 0000 * 00072690 v 0000 01 + 00 00 |    
+00060906 00 v 03 sveima 0 flykkjast 0 hópast 0 000 01 + 00 00 |    
+00060975 00 v 03 vera_heppilegur 0 hæfa 0 henta 0 000 01 + 00 00 |    
+00061047 00 v 03 sjá_fram_á 0 búast_við 0 gera_ráð_fyrir 0 002 ~ 00010611 v 0000 ~ 00014507 v 0000 01 + 00 00 |    
+00061169 00 v 01 róa 0 000 01 + 00 00 |    
+00061214 00 v 02 breikka 0 víkka 0 000 01 + 00 00 |    
+00061271 00 v 02 spila 0 leika 0 001 @ 00015492 v 0000 01 + 00 00 |    
+00061343 00 v 04 steypast_fram_yfir_sig 0 velta 0 kollsteypast 0 detta_um_koll 0 001 @ 00069214 v 0000 01 + 00 00 |    
+00061463 00 v 04 bera_virðingu_fyrir 0 meta_mikils 0 virða 0 hafa_gott_álit_á 0 001 ~ 00011808 v 0000 01 + 00 00 |    
+00061586 00 v 02 benda_á 0 vísa_veginn 0 000 01 + 00 00 |    
+00061650 00 v 02 fljúga 0 svífa 0 002 @ 00085456 v 0000 ~ 00082935 v 0000 01 + 00 00 |    
+00061743 00 v 02 hafa_til_sýnis 0 sýna 0 000 01 + 00 00 |    
+00061807 00 v 02 velja 0 taka 0 006 @ 00009304 v 0000 ~ 00022781 v 0000 ~ 00006816 v 0000 ~ 00018022 v 0000 ~ 00034874 v 0000 ~ 00008040 v 0000 01 + 00 00 |    
+00061968 00 v 02 passa 0 standast 0 000 01 + 00 00 |    
+00062025 00 v 02 hlaupa_yfir 0 sjást_yfir 0 000 01 + 00 00 |    
+00062091 00 v 03 leyna 0 hylja 0 fela 0 002 ~ 00089957 v 0000 ~ 00012751 v 0000 01 + 00 00 |    
+00062188 00 v 02 eiðfesta 0 sverja 0 000 01 + 00 00 |    
+00062247 00 v 05 voga_sér 0 dirfast 0 hætta_á 0 þora 0 áræða 0 000 01 + 00 00 |    
+00062338 00 v 02 lífga_við 0 vekja_til_lífs 0 000 01 + 00 00 |    
+00062408 00 v 02 stilla 0 setja_upp 0 001 @ 00064343 v 0000 01 + 00 00 |    
+00062485 00 v 05 hægja 0 samsa 0 seinka 0 dolsa 0 tefja 0 000 01 + 00 00 |    
+00062565 00 v 01 kæla 0 001 @ 00081531 v 0000 01 + 00 00 |    
+00062629 00 v 13 stemma_stigu_við 0 leggja_stein_í_götu_e-s 0 hamla_á_móti 0 meina 0 tálma 0 aftra 0 vera_til_fyrirstöðu 0 bregða_fæti_fyrir 0 hefta 0 koma_í_veg_fyrir 0 tefja 0 varna 0 leggja_höft_á 0 skjóta_loku_fyrir 0 standa_gegn 0 reisa_skorður_við_sporna_við 0 tovelda 0 hindra 0 fyrirmuna 0 001 @ 00031150 v 0000 01 + 00 00 |    
+00062983 00 v 02 aukast 0 stækka 0 001 ! 00060362 v 0000 01 + 00 00 |    
+00063058 00 v 03 fleyta_sér 0 synda 0 svamla 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00063145 00 v 02 ánafna 0 láta_í_arf 0 001 @ 00042480 v 0000 01 + 00 00 |    
+00063226 00 v 02 hlaða 0 umhlaða 0 001 @ 00003822 v 0000 01 + 00 00 |    
+00063302 00 v 02 koma_á_eftir 0 fylgja 0 000 01 + 00 00 |    
+00063365 00 v 05 ummynda 0 umsnúa 0 hafa_endaskipti_á 0 gerbreyta 0 snúa_við 0 000 01 + 00 00 |    
+00063469 00 v 01 flytja_út_vörur 0 002 ! 00050176 v 0000 ;c 00180212 n 0000 01 + 00 00 |    
+00063564 00 v 02 vera_í_sæti 0 sitja 0 002 ! 00043258 v 0000 ~ 00008104 v 0000 01 + 00 00 |    
+00063662 00 v 02 rækta 0 framleiða 0 001 ;c 00094078 n 0000 01 + 00 00 |    
+00063741 00 v 02 braska 0 bralla 0 000 01 + 00 00 |    
+00063797 00 v 03 hneyksla 0 sjokkera 0 ganga_fram_af 0 000 01 + 00 00 |    
+00063873 00 v 01 vera_hæfur_til 0 000 01 + 00 00 |    
+00063929 00 v 02 reka_áfram 0 hvetja 0 000 01 + 00 00 |    
+00063990 00 v 02 fara_halloka_fyrir_e-m 0 tapa 0 002 ! 00072690 v 0000 * 00015492 v 0000 01 + 00 00 |    
+00064096 00 v 06 byrgja 0 láta_aftur 0 lykja 0 loka 0 ljúka_aftur 0 leggja_aftur 0 003 ! 00031394 v 0000 ~ 00010427 v 0000 ~ 00027691 v 0000 01 + 00 00 |    
+00064256 00 v 04 hrasa 0 skrika 0 hnjóta 0 verða_fótaskortur 0 000 01 + 00 00 |    
+00064343 00 v 02 setja 0 leggja 0 007 ~ 00047819 v 0000 ~ 00054110 v 0000 ~ 00062408 v 0000 ~ 00043374 v 0000 ~ 00080757 v 0000 ~ 00055539 v 0000 ~ 00084619 v 0000 01 + 00 00 |    
+00064524 00 v 06 skilja 0 finna 0 verða_áskynja 0 sjá 0 átta_sig_á 0 uppgötva 0 000 01 + 00 00 |    
+00064631 00 v 08 skruna 0 renna 0 skrika 0 skreppa 0 skripla 0 skrensa 0 skransa 0 skriðna 0 001 @ 00023686 v 0000 01 + 00 00 |    
+00064764 00 v 03 sneiða_hjá 0 forðast 0 komast_hjá 0 000 01 + 00 00 |    
+00064842 00 v 04 skafa 0 sarga 0 skrapa 0 yrja 0 001 @ 00022347 v 0000 01 + 00 00 |    
+00064930 00 v 02 útskrifast 0 brautskrást 0 000 01 + 00 00 |    
+00064997 00 v 03 stöðvast 0 bila 0 drepast 0 000 01 + 00 00 |    
+00065065 00 v 08 áfýsa 0 örva 0 fýsa 0 uppörva 0 vera_e-s_fýsandi 0 spana 0 hvetja 0 eggja 0 000 01 + 00 00 |    
+00065185 00 v 03 komast_inn_í 0 smjúga_inn_í 0 fara_inn_í 0 001 @ 00074449 v 0000 01 + 00 00 |    
+00065288 00 v 07 bera_sakir_á 0 bera_sökum 0 XXXdæma_sekan;_fordæma 0 sakfella 0 ákæraXXX 0 bera_sök_á 0 sækja_til_saka 0 002 ! 00025711 v 0000 ;c 00065715 n 0000 01 + 00 00 |    
+00065477 00 v 06 púa 0 hvása 0 stynja 0 mása 0 blása 0 dæsa 0 000 01 + 00 00 |    
+00065565 00 v 02 missa_niður 0 hella_niður 0 001 @ 00083080 v 0000 01 + 00 00 |    
+00065651 00 v 03 vanda_um_við 0 áminna 0 minna_á 0 000 01 + 00 00 |    
+00065726 00 v 01 róla 0 000 01 + 00 00 |    
+00065772 00 v 02 byrja 0 hefja 0 001 ~ 00089219 v 0000 01 + 00 00 |    
+00065844 00 v 02 sættast_á_málamiðlun 0 fara_milliveg 0 000 01 + 00 00 |    
+00065925 00 v 02 hafa_á_móti 0 standa_ekki_á_sama 0 001 @ 00054644 v 0000 01 + 00 00 |    
+00066019 00 v 03 hala 0 toga 0 draga 0 001 @ 00003274 v 0000 01 + 00 00 |    
+00066097 00 v 03 koma_róti_á 0 raska 0 trufla 0 001 @ 00003950 v 0000 01 + 00 00 |    
+00066186 00 v 01 skipa_í_hlutverk 0 001 * 00044432 v 0000 01 + 00 00 |    
+00066262 00 v 06 sannfæra 0 telja_e-m_trú_um_e-ð 0 telja_e-n_á_e-ð 0 færa_e-m_heim_sanninn 0 sýna_e-m_fram_á 0 fullvissa_e-n_um_e-ð 0 002 ! 00091759 v 0000 ~ 00004494 v 0000 01 + 00 00 |    
+00066462 00 v 03 fægja 0 gera_gljáandi 0 bóna 0 001 @ 00075308 v 0000 01 + 00 00 |    
+00066552 00 v 02 starblína 0 stara 0 000 01 + 00 00 |    
+00066611 00 v 0a dafna 0 þroskast 0 spretta 0 þróast 0 tímgast 0 þrífast 0 stækka 0 gróga 0 vaxa 0 ávaxtast 0 000 01 + 00 00 |    
+00066751 00 v 03 deyja 0 drepast 0 látast 0 001 ~ 00037495 v 0000 01 + 00 00 |    
+00066835 00 v 02 kiða_sér 0 klóra_sér 0 000 01 + 00 00 |    
+00066900 00 v 02 minnka 0 draga_úr 0 001 @ 00054540 v 0000 01 + 00 00 |    
+00066977 00 v 04 særa 0 hneyksla 0 misbjóða 0 móðga 0 001 @ 00043667 v 0000 01 + 00 00 |    
+00067075 00 v 03 misþyrma 0 leika_grátt 0 fara_illa_með 0 001 @ 00076023 v 0000 01 + 00 00 |    
+00067175 00 v 03 gerast_liðhlaupi 0 svíkjast_undan_merkjum 0 yfirgefa 0 000 01 + 00 00 |    
+00067270 00 v 03 koma_í_gang 0 virkja 0 gera_virkan 0 000 01 + 00 00 |    
+00067346 00 v 03 stika 0 skrefa 0 skálma 0 001 @ 00053064 v 0000 01 + 00 00 |    
+00067429 00 v 02 finna 0 uppgötva 0 000 01 + 00 00 |    
+00067487 00 v 02 láta_af_hendi_rakna 0 gefa 0 001 @ 00042480 v 0000 01 + 00 00 |    
+00067573 00 v 01 koma_fram_í_fyrsta_sinn 0 000 01 + 00 00 |    
+00067638 00 v 02 hafa_fé_af 0 kúga 0 001 @ 00078843 v 0000 01 + 00 00 |    
+00067716 00 v 02 festa_kaup_á 0 kaupa 0 005 ! 00052770 v 0000 @ 00025185 v 0000 ;c 00180212 n 0000 * 00013114 v 0000 * 00061807 v 0000 01 + 00 00 |    
+00067869 00 v 03 kunna 0 geta 0 vita 0 001 ~ 00073501 v 0000 01 + 00 00 |    
+00067947 00 v 03 segja_upp 0 sparka 0 reka 0 001 ! 00073231 v 0000 01 + 00 00 |    
+00068031 00 v 04 snúa 0 hverfa 0 hringsnúa 0 venda 0 001 @ 00029132 v 0000 01 + 00 00 |    
+00068125 00 v 02 koma_í_jafnvægi 0 halda_í_jafnvægi 0 001 ~ 00026368 v 0000 01 + 00 00 |    
+00068222 00 v 04 umhverfa 0 breyta 0 ummynda 0 umbreyta 0 000 01 + 00 00 |    
+00068301 00 v 02 borða 0 éta 0 002 * 00023527 v 0000 * 00003219 v 0000 01 + 00 00 |    
+00068391 00 v 04 bramla 0 skemma 0 mola 0 brjóta 0 001 ~ 00075712 v 0000 01 + 00 00 |    
+00068482 00 v 02 ábyrgjast 0 tryggja 0 000 01 + 00 00 |    
+00068543 00 v 03 rugga 0 velta 0 vagga 0 000 01 + 00 00 |    
+00068605 00 v 0e tala_um 0 gera_að_umtalsefni 0 fjalla_um 0 skiptast_á_skoðunum 0 ræða 0 þinga_um 0 ráðslaga 0 skeggræða 0 sita_á_rökstólum 0 skrafa 0 fara_út_í 0 spjalla 0 rökræða 0 bollaleggja 0 002 ~ 00088452 v 0000 ~ 00037723 v 0000 01 + 00 00 |    
+00068877 00 v 02 kæra_sig_um 0 skeyta_um 0 000 01 + 00 00 |    
+00068942 00 v 03 bregða_blundi 0 létta_svefni 0 vakna 0 000 01 + 00 00 |    
+00069021 00 v 02 hóta 0 ógna 0 001 @ 00079242 v 0000 01 + 00 00 |    
+00069093 00 v 04 komast_í_kast_við 0 skella_saman 0 ljósta_saman 0 rekast_á 0 001 @ 00073602 v 0000 01 + 00 00 |    
+00069214 00 v 07 þvinga 0 þröngva 0 þrúga 0 neyða 0 þrýsta_á 0 nauðbeygja 0 skylda 0 005 ! 00003274 v 0000 ~ 00075092 v 0000 ~ 00061343 v 0000 * 00026019 v 0000 * 00069482 v 0000 01 + 00 00 |    
+00069420 00 v 02 kunna_að_meta 0 meta 0 000 01 + 00 00 |    
+00069482 00 v 03 pressa_á 0 þrýsta_á 0 styðja_á 0 002 @ 00073602 v 0000 ~ 00001179 v 0000 01 + 00 00 |    
+00069595 00 v 02 dæla 0 pumpa 0 001 @ 00048163 v 0000 01 + 00 00 |    
+00069667 00 v 17 láta_sér_gott_þykja 0 sætta_sig_við 0 láta_við_sitja 0 líta 0 una_e-u 0 taka_gilt 0 gera_sér_að_góðu 0 taka_því_sem_að_höndum_ber 0 láta_sér_vel_líka 0 láta_sér_lynda 0 taka_e-u 0 láta_bjóða_sér 0 þykja_vel_sem_er 0 sæta 0 eira 0 gera_sig_ánægðan_með 0 láta_sér_sóma 0 láta_sér_e-nægja 0 láta_viðgangast 0 láta_yfir_sig_ganga 0 láta_gott_heita 0 sakast_ekki_um 0 notast_við 0 001 @ 00087574 v 0000 01 + 00 00 |    
+00070141 00 v 03 tvífalda 0 tvöfalda 0 dobla 0 000 01 + 00 00 |    
+00070211 00 v 04 öskra 0 hrópa 0 kalla 0 baula 0 001 @ 00088784 v 0000 01 + 00 00 |    
+00070301 00 v 03 sveima 0 líða 0 svífa 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00070384 00 v 01 dáleiða 0 000 01 + 00 00 |    
+00070434 00 v 03 leiða 0 stjórna 0 stýra 0 000 01 + 00 00 |    
+00070501 00 v 02 efast_um 0 efa 0 000 01 + 00 00 |    
+00070556 00 v 03 velja 0 kjósa 0 tilnefna 0 000 01 + 00 00 |    
+00070622 00 v 02 vera_án 0 skorta 0 000 01 + 00 00 |    
+00070680 00 v 03 ganga 0 arka 0 marsera 0 001 @ 00053064 v 0000 01 + 00 00 |    
+00070761 00 v 03 standa_upp 0 standa_á_fætur 0 rísa_á_fætur 0 001 ! 00002774 v 0000 01 + 00 00 |    
+00070867 00 v 03 slá_laust 0 banka 0 slá_létt 0 000 01 + 00 00 |    
+00070939 00 v 02 koma_í_staðinn_fyrir 0 leysa_af_hólmi 0 000 01 + 00 00 |    
+00071020 00 v 01 margfalda 0 001 ~ 00016481 v 0000 01 + 00 00 |    
+00071088 00 v 04 breyta 0 umskapa 0 umbreyta 0 gerbreyta 0 001 ~ 00018349 v 0000 01 + 00 00 |    
+00071186 00 v 02 draga_andann 0 anda 0 003 ~ 00076280 v 0000 ~ 00035573 v 0000 ~ 00041732 v 0000 01 + 00 00 |    
+00071300 00 v 04 buna 0 skenkja 0 hella 0 demba 0 002 ~ 00019751 v 0000 > 00083080 v 0000 01 + 00 00 |    
+00071407 00 v 01 fara_á_eftirlaun 0 001 @ 00022122 v 0000 01 + 00 00 |    
+00071483 00 v 01 setja 0 000 01 + 00 00 |    
+00071529 00 v 05 tæja 0 rjúfa 0 slíta 0 sprengja 0 brjóta 0 001 ~ 00023277 v 0000 01 + 00 00 |    
+00071632 00 v 03 rúma 0 ná_yfir 0 taka_til 0 002 ~ 00020511 v 0000 ~ 00025882 v 0000 01 + 00 00 |    
+00071736 00 v 03 egna 0 erta 0 stríða 0 001 * 00045984 v 0000 01 + 00 00 |    
+00071817 00 v 08 ganga 0 ná_framgangi 0 verða_framgengt 0 heppnast 0 fara_vel_úr_hendi 0 takast 0 lánast 0 hafast 0 000 01 + 00 00 |    
+00071958 00 v 03 hverfa 0 gufa_upp 0 verða_á_bak_og_burt 0 002 ! 00007258 v 0000 ~ 00077925 v 0000 01 + 00 00 |    
+00072076 00 v 02 hossa 0 hossast 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00072150 00 v 02 halda_aftur_af 0 hafa_hemil_á 0 001 @ 00015875 v 0000 01 + 00 00 |    
+00072239 00 v 02 líða 0 þjást 0 001 @ 00056359 v 0000 01 + 00 00 |    
+00072314 00 v 04 trampa 0 stampa 0 spinka 0 stappa 0 001 @ 00053064 v 0000 01 + 00 00 |    
+00072406 00 v 04 prófa 0 reyna 0 kanna 0 prufa 0 000 01 + 00 00 |    
+00072477 00 v 03 falla 0 hrasa 0 kollsteypast 0 000 01 + 00 00 |    
+00072546 00 v 02 rukka 0 innheimta 0 000 01 + 00 00 |    
+00072604 00 v 04 leigja 0 taka_á_leigu 0 fá_leigt 0 fá_inni 0 000 01 + 00 00 |    
+00072690 00 v 02 vinna 0 sigra 0 002 ! 00063990 v 0000 * 00015492 v 0000 01 + 00 00 |    
+00072780 00 v 03 þeyta 0 varpa 0 kasta 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00072861 00 v 02 horfa_á 0 fylgjast_með 0 001 * 00033745 v 0000 01 + 00 00 |    
+00072944 00 v 02 leggja_e-ð_undir 0 veðja 0 001 @ 00007390 v 0000 01 + 00 00 |    
+00073029 00 v 02 klára 0 ljúka 0 000 01 + 00 00 |    
+00073085 00 v 02 hörfa 0 hopa 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00073157 00 v 01 stíga_um_borð 0 001 @ 00041238 v 0000 01 + 00 00 |    
+00073231 00 v 02 ráða 0 vista 0 001 ! 00067947 v 0000 01 + 00 00 |    
+00073304 00 v 02 bita 0 vera_á_beit 0 002 @ 00085148 v 0000 ;c 00164726 n 0000 01 + 00 00 |    
+00073401 00 v 05 blekkja 0 ginna 0 tæla 0 gabba 0 svíkja 0 001 @ 00008456 v 0000 01 + 00 00 |    
+00073501 00 v 03 tileinka_sér 0 sigrast_á 0 ná_tökum_á 0 001 @ 00067869 v 0000 01 + 00 00 |    
+00073602 00 v 03 koma_við 0 nema_við 0 snerta 0 005 ~ 00082132 v 0000 ~ 00090359 v 0000 ~ 00050311 v 0000 ~ 00069093 v 0000 ~ 00069482 v 0000 01 + 00 00 |    
+00073763 00 v 0c færa_í_ýkjur 0 stílfæra 0 segja_ofsögum_af 0 geipa 0 gera_of_mikið_úr 0 kríta_liðugt 0 skálda 0 ýkja 0 öfga 0 ofherma 0 auka 0 auka_orðum 0 003 ! 00001505 v 0000 @ 00008456 v 0000 ~ 00031969 v 0000 01 + 00 00 |    
+00074009 00 v 02 standa_fyrir 0 tákna 0 000 01 + 00 00 |    
+00074071 00 v 01 undirstrika 0 000 01 + 00 00 |    
+00074123 00 v 05 blekkja 0 ginna 0 tæla 0 gabba 0 svíkja 0 000 01 + 00 00 |    
+00074205 00 v 03 lærsa_í_tönnum 0 glefsa 0 bíta 0 000 01 + 00 00 |    
+00074280 00 v 03 endurgera 0 taka_afrit_af 0 afrita 0 000 01 + 00 00 |    
+00074355 00 v 02 halda_veislu 0 taka_á_móti_gestum 0 001 @ 00009832 v 0000 01 + 00 00 |    
+00074449 00 v 05 halda_áfram 0 riðlast_fram 0 sækja_fram 0 komast_áfram 0 færa_sig_fram 0 005 ! 00083944 v 0000 @ 00085456 v 0000 ~ 00040502 v 0000 ~ 00060110 v 0000 ~ 00065185 v 0000 01 + 00 00 |    
+00074655 00 v 02 eldast 0 verða_gamall 0 000 01 + 00 00 |    
+00074718 00 v 02 heilla 0 hrífa 0 001 @ 00045699 v 0000 01 + 00 00 |    
+00074792 00 v 01 halda_fast_við 0 000 01 + 00 00 |    
+00074848 00 v 04 gera 0 búa_til 0 skapa 0 framleiða 0 001 ~ 00008283 v 0000 01 + 00 00 |    
+00074943 00 v 01 semja_(tónlist) 0 001 ;c 00192205 n 0000 01 + 00 00 |    
+00075019 00 v 03 lýsa_yfir 0 tilkynna 0 kunngera 0 000 01 + 00 00 |    
+00075092 00 v 02 ýta_á 0 styðja_á 0 001 @ 00069214 v 0000 01 + 00 00 |    
+00075171 00 v 02 nefna 0 minnast_á 0 001 @ 00042091 v 0000 01 + 00 00 |    
+00075248 00 v 02 ráðast_í 0 hefja 0 000 01 + 00 00 |    
+00075308 00 v 02 bæta 0 gera_betra 0 004 ~ 00080598 v 0000 ~ 00066462 v 0000 ~ 00054025 v 0000 ~ 00002376 v 0000 01 + 00 00 |    
+00075439 00 v 03 hugsa_um 0 íhuga 0 velta_fyrir_sér 0 002 @ 00011262 v 0000 ~ 00049109 v 0000 01 + 00 00 |    
+00075552 00 v 0b svingla 0 göltra 0 vafra 0 eigra 0 sveima 0 flaskjast_um 0 rangla 0 kreika 0 ráfa 0 reika 0 slangra 0 001 @ 00085456 v 0000 01 + 00 00 |    
+00075712 00 v 03 mölbrjóta 0 mölva 0 brjóta 0 001 @ 00068391 v 0000 01 + 00 00 |    
+00075801 00 v 09 láta_greipar_sópa 0 fara_ránshendi_um 0 hrifsa 0 nema_brott 0 stela 0 hnupla 0 taka_ránshendi 0 rupla 0 ræna 0 000 01 + 00 00 |    
+00075955 00 v 03 hefjast 0 rísa 0 koma_fram 0 000 01 + 00 00 |    
+00076023 00 v 02 fara_með 0 höndla 0 002 ~ 00067075 v 0000 ~ 00081963 v 0000 01 + 00 00 |    
+00076119 00 v 03 búa_um 0 pakka 0 pakka_inn 0 001 @ 00038725 v 0000 01 + 00 00 |    
+00076205 00 v 03 grafa_holu 0 hola_að_innan 0 hola 0 000 01 + 00 00 |    
+00076280 00 v 04 gapa 0 rífa_lönguhaus 0 geispa 0 draga_ýsur 0 001 @ 00071186 v 0000 01 + 00 00 |    
+00076385 00 v 05 heykja 0 beygja 0 kreppa 0 sveigja 0 hneykja 0 001 @ 00026019 v 0000 01 + 00 00 |    
+00076488 00 v 02 púa 0 reykja 0 000 01 + 00 00 |    
+00076542 00 v 0d skýra 0 koma_e-m_í_skilning_um 0 útlista 0 túlka 0 gera_grein_fyrir 0 útskýra 0 útþýða 0 skilgreina 0 þýða 0 gera_skiljanlegt 0 leiða_fyrir_sjónir 0 útmála 0 útleggja 0 001 ~ 00086106 v 0000 01 + 00 00 |    
+00076785 00 v 06 uppmála 0 penta 0 kústa 0 farða 0 lita 0 mála 0 000 01 + 00 00 |    
+00076875 00 v 02 koma_sér_á_lappir 0 fara_á_fætur 0 001 ! 00011508 v 0000 01 + 00 00 |    
+00076970 00 v 02 telja_upp 0 búa_til_lista 0 000 01 + 00 00 |    
+00077037 00 v 02 viðurkenna_ósigur 0 viðurkenna 0 000 01 + 00 00 |    
+00077111 00 v 10 mæla 0 rabba 0 speka 0 kvaka 0 tala 0 babla 0 ræða 0 segja 0 kjafta 0 mala 0 rausa 0 hjala 0 spjalla 0 snakka 0 skvaldra 0 skjala 0 000 01 + 00 00 |    
+00077284 00 v 0a semja_um 0 útkljá 0 skera_úr_um 0 bíta_að_fullu 0 gera_út_um 0 gera_upp 0 leysa 0 ljúka 0 ríða_baggamuninn 0 taka_af_skarið 0 000 01 + 00 00 |    
+00077458 00 v 05 vaka_yfir 0 gæta 0 verja 0 vernda 0 halda_hlífðarskildi_yfir 0 003 ~ 00087937 v 0000 ~ 00021046 v 0000 ~ 00007968 v 0000 01 + 00 00 |    
+00077616 00 v 02 fara_eftir 0 fylgja 0 001 @ 00054218 v 0000 01 + 00 00 |    
+00077694 00 v 01 kemba 0 001 * 00022685 v 0000 01 + 00 00 |    
+00077758 00 v 04 bugta 0 beygja 0 bukka 0 hneigja_sig 0 000 01 + 00 00 |    
+00077835 00 v 02 fyrirlíta 0 hafa_andstyggð_á 0 001 @ 00020607 v 0000 01 + 00 00 |    
+00077925 00 v 03 blikna 0 visna 0 fölna 0 001 @ 00071958 v 0000 01 + 00 00 |    
+00078007 00 v 08 góma 0 hreppa 0 greipa 0 hremma 0 festa_hönd_á 0 grípa 0 ná_tangarhaldi_á 0 ná_tökum_á 0 003 ~ 00059025 v 0000 ~ 00018265 v 0000 ~ 00003581 v 0000 01 + 00 00 |    
+00078197 00 v 03 endurkrafa 0 endurheimta 0 tilkalla 0 001 @ 00025185 v 0000 01 + 00 00 |    
+00078291 00 v 03 kvíslast 0 skiptast 0 greinast 0 000 01 + 00 00 |    
+00078363 00 v 02 lenda 0 setjst 0 000 01 + 00 00 |    
+00078418 00 v 01 heyra 0 001 @ 00056359 v 0000 01 + 00 00 |    
+00078482 00 v 02 reyna_fyrir_rétti 0 dæma_í_máli 0 001 @ 00009304 v 0000 01 + 00 00 |    
+00078576 00 v 02 elda 0 matbúa 0 001 ~ 00084533 v 0000 01 + 00 00 |    
+00078649 00 v 02 ræða 0 rökræða 0 001 ;c 00065715 n 0000 01 + 00 00 |    
+00078728 00 v 05 ganga_til_viðar 0 setjast 0 lenda 0 ganga_undir 0 síga 0 001 ! 00048023 v 0000 01 + 00 00 |    
+00078843 00 v 01 leggja_of_mikið_á 0 002 ~ 00067638 v 0000 * 00072546 v 0000 01 + 00 00 |    
+00078939 00 v 03 þekkja 0 nefna 0 bera_kennsl_á 0 000 01 + 00 00 |    
+00079012 00 v 03 lykta 0 anga 0 þefja 0 000 01 + 00 00 |    
+00079074 00 v 02 skrifast_á 0 eiga_í_bréfaskriftum 0 001 * 00091548 v 0000 01 + 00 00 |    
+00079169 00 v 02 endurnýja 0 færa_til_nýs_hors 0 000 01 + 00 00 |    
+00079242 00 v 02 aðvara 0 vara_við 0 001 ~ 00069021 v 0000 01 + 00 00 |    
+00079320 00 v 02 vera_kalt 0 frjósa 0 000 01 + 00 00 |    
+00079380 00 v 02 gera_grein_fyrir 0 segja_frá 0 000 01 + 00 00 |    
+00079450 00 v 0f brjála 0 fipa 0 ringla 0 aflaga 0 vingla 0 villa_um_fyrir 0 trufla 0 brengla 0 gera_utan_við_sig 0 svarfa 0 gera_áttavilltan 0 stokka_strúa 0 fækja 0 hagga 0 rugla 0 000 01 + 00 00 |    
+00079659 00 v 02 teikna 0 draga_upp_mynd 0 002 ~ 00084374 v 0000 ;c 00154048 n 0000 01 + 00 00 |    
+00079760 00 v 02 hvíla 0 hvíla_sig 0 001 @ 00086261 v 0000 01 + 00 00 |    
+00079838 00 v 02 jafna_við 0 bera_saman 0 000 01 + 00 00 |    
+00079902 00 v 01 hafa_áhyggjur 0 000 01 + 00 00 |    
+00079957 00 v 03 grafa_niður 0 kasa 0 grafa 0 001 * 00038725 v 0000 01 + 00 00 |    
+00080043 00 v 02 kunngera 0 kynna 0 000 01 + 00 00 |    
+00080100 00 v 09 skjálfa 0 blikra 0 skakast 0 hristast 0 titra 0 gnötra 0 riða 0 pipra 0 nötra 0 000 01 + 00 00 |    
+00080222 00 v 02 vipra 0 fá_viprur 0 000 01 + 00 00 |    
+00080281 00 v 06 íþætta 0 gegna 0 andsvara 0 taka_undir_við 0 svara 0 ansa 0 001 @ 00042091 v 0000 01 + 00 00 |    
+00080401 00 v 02 rispa 0 klóra 0 000 01 + 00 00 |    
+00080456 00 v 02 vísa_til 0 skírskota_til 0 000 01 + 00 00 |    
+00080523 00 v 03 spinna_upp 0 skálda 0 skálda_upp 0 000 01 + 00 00 |    
+00080598 00 v 02 betra 0 bæta 0 001 @ 00075308 v 0000 01 + 00 00 |    
+00080670 00 v 02 launa 0 styrkja_(með_umbun) 0 001 @ 00083330 v 0000 01 + 00 00 |    
+00080757 00 v 03 fyrirgera 0 týna 0 glata 0 001 @ 00064343 v 0000 01 + 00 00 |    
+00080841 00 v 02 vera_aktífur 0 hreyfa_sig 0 000 01 + 00 00 |    
+00080908 00 v 03 fella_saman 0 leggja_saman 0 brjóta_saman 0 000 01 + 00 00 |    
+00080991 00 v 05 forsvara 0 taka_upp_vörn_fyrir 0 berjast_fyrir 0 verja 0 gerast_málsvari_e-s 0 001 ! 00020824 v 0000 01 + 00 00 |    
+00081128 00 v 02 verpast 0 snúast_(til_annarrar_trúar) 0 000 01 + 00 00 |    
+00081208 00 v 03 safna 0 leggja_fyrir 0 leggja_til_hliðar 0 000 01 + 00 00 |    
+00081290 00 v 02 verða_vanfær 0 verða_barnshafandi 0 000 01 + 00 00 |    
+00081367 00 v 03 hunsa 0 hafa_að_engu 0 gefa_engan_gaum 0 000 01 + 00 00 |    
+00081447 00 v 03 sefa 0 hughreysta 0 hugga 0 001 ~ 00031576 v 0000 01 + 00 00 |    
+00081531 00 v 02 hrista 0 skekja 0 003 @ 00026019 v 0000 ~ 00040186 v 0000 ~ 00062565 v 0000 01 + 00 00 |    
+00081641 00 v 02 endurvinna 0 endurnýta 0 000 01 + 00 00 |    
+00081705 00 v 02 leggja_e-ð_undir 0 veðja 0 000 01 + 00 00 |    
+00081772 00 v 02 heimta 0 krefjast 0 000 01 + 00 00 |    
+00081830 00 v 0a hnigna 0 daprast 0 hrörna 0 lasna 0 draga_af 0 hrumast 0 kopa 0 hraka 0 fara_aftur 0 versna 0 000 01 + 00 00 |    
+00081963 00 v 03 spilla 0 ofdekra 0 dekra 0 001 @ 00076023 v 0000 01 + 00 00 |    
+00082046 00 v 03 streitast_gegn 0 sporna_við 0 veita_viðnám 0 000 01 + 00 00 |    
+00082132 00 v 05 minnast_við 0 flensa 0 mynnast_við 0 kjassa 0 kyssa 0 001 @ 00073602 v 0000 01 + 00 00 |    
+00082244 00 v 02 ljúga 0 skrökva 0 001 @ 00008456 v 0000 01 + 00 00 |    
+00082320 00 v 02 forma 0 móta 0 000 01 + 00 00 |    
+00082374 00 v 01 þjálfa 0 001 @ 00083330 v 0000 01 + 00 00 |    
+00082441 00 v 02 falla_saman 0 vera_á_sama_tíma 0 001 @ 00007622 v 0000 01 + 00 00 |    
+00082532 00 v 03 eyða 0 sólunda 0 sóa 0 002 @ 00024402 v 0000 ~ 00082632 v 0000 01 + 00 00 |    
+00082632 00 v 01 splæsa_á_sig 0 001 @ 00082532 v 0000 01 + 00 00 |    
+00082705 00 v 03 lást 0 gleyma 0 týna_niður 0 001 ! 00043877 v 0000 01 + 00 00 |    
+00082793 00 v 02 meðhöndla 0 höndla 0 000 01 + 00 00 |    
+00082855 00 v 02 endurtaka 0 tvöfalda 0 001 @ 00035984 v 0000 01 + 00 00 |    
+00082935 00 v 03 hækka_sig 0 rísa 0 stíga_upp 0 001 @ 00061650 v 0000 01 + 00 00 |    
+00083025 00 v 02 betla 0 biðja 0 000 01 + 00 00 |    
+00083080 00 v 03 renna 0 streyma 0 flæða 0 002 @ 00026019 v 0000 ~ 00065565 v 0000 01 + 00 00 |    
+00083182 00 v 02 hafa_til_meðferðar 0 meðhöndla 0 000 01 + 00 00 |    
+00083257 00 v 01 markaðssetja 0 001 ;c 00180212 n 0000 01 + 00 00 |    
+00083330 00 v 02 leiðbeina 0 kenna 0 003 ~ 00011101 v 0000 ~ 00082374 v 0000 ~ 00080670 v 0000 01 + 00 00 |    
+00083443 00 v 03 staðhæfa 0 fullherma 0 fullyrða 0 001 ~ 00015244 v 0000 01 + 00 00 |    
+00083536 00 v 03 vera_á_sveimi 0 svífa 0 voka 0 001 * 00040067 v 0000 01 + 00 00 |    
+00083625 00 v 05 þeytast 0 hringsnúast 0 snúast 0 snarsnúast 0 spinna 0 000 01 + 00 00 |    
+00083722 00 v 05 samræma 0 skipa_niður 0 koma_skipulagi_á 0 skipuleggja 0 kerfa 0 001 @ 00054110 v 0000 01 + 00 00 |    
+00083846 00 v 02 drepa 0 taka_af_lífi 0 002 @ 00020237 v 0000 @ 00047041 v 0000 01 + 00 00 |    
+00083944 00 v 02 hætta_við 0 draga_sig_til_baka 0 002 ! 00074449 v 0000 @ 00085456 v 0000 01 + 00 00 |    
+00084053 00 v 04 ákalla 0 árna 0 bæna_sig 0 biðja 0 000 01 + 00 00 |    
+00084130 00 v 05 bera_fram_spurningu 0 fregna 0 spyrja 0 frétta 0 inna_eftir 0 000 01 + 00 00 |    
+00084231 00 v 03 slá 0 kýla 0 reka_hnefahögg 0 001 @ 00090359 v 0000 01 + 00 00 |    
+00084320 00 v 02 virða 0 meta 0 000 01 + 00 00 |    
+00084374 00 v 01 kortleggja 0 001 @ 00079659 v 0000 01 + 00 00 |    
+00084443 00 v 04 renna 0 flóa 0 fossa 0 flæða 0 001 @ 00007488 v 0000 01 + 00 00 |    
+00084533 00 v 03 varðveita 0 halda 0 vernda 0 001 @ 00078576 v 0000 01 + 00 00 |    
+00084619 00 v 03 leggja_frá_sér 0 leggja 0 leggja_niður 0 001 @ 00064343 v 0000 01 + 00 00 |    
+00084719 00 v 01 skrúfa 0 000 01 + 00 00 |    
+00084767 00 v 03 særa 0 meiða 0 gera_mein 0 001 @ 00023979 v 0000 01 + 00 00 |    
+00084852 00 v 06 samlaga 0 binda_saman 0 tengja_saman 0 skeyta_saman 0 samtengja 0 tengja 0 000 01 + 00 00 |    
+00084965 00 v 03 frílysta_sig 0 leika_sér 0 skemmta_sér 0 001 ~ 00032853 v 0000 01 + 00 00 |    
+00085065 00 v 01 leika 0 002 @ 00036840 v 0000 ;c 00234936 n 0000 01 + 00 00 |    
+00085148 00 v 03 mata 0 fóðra 0 ala 0 002 ~ 00073304 v 0000 > 00068301 v 0000 01 + 00 00 |    
+00085245 00 v 02 rétta_af 0 rétta 0 000 01 + 00 00 |    
+00085304 00 v 04 gella 0 ymja_bylja 0 klingja 0 gjalla 0 000 01 + 00 00 |    
+00085382 00 v 02 gera_útlægan 0 gera_brottrækan 0 000 01 + 00 00 |    
+00085456 00 v 08 ganga 0 ferðast 0 halda 0 hreyfast 0 halda_leiðar_sinnar 0 fara_leiðar_sinnar 0 fara 0 feta 0 022 ~ 00030745 v 0000 ~ 00070301 v 0000 ~ 00033960 v 0000 ~ 00019465 v 0000 ~ 00023686 v 0000 ~ 00026846 v 0000 ~ 00083944 v 0000 ~ 00016608 v 0000 ~ 00024720 v 0000 ~ 00053064 v 0000 ~ 00044880 v 0000 ~ 00075552 v 0000 ~ 00040067 v 0000 ~ 00061650 v 0000 ~ 00027602 v 0000 ~ 00021243 v 0000 ~ 00030541 v 0000 ~ 00073085 v 0000 ~ 00063058 v 0000 ~ 00074449 v 0000 ~ 00059735 v 0000 ~ 00072076 v 0000 01 + 00 00 |    
+00085987 00 v 06 vísa_burt 0 vísa_á_bug 0 stökkva_burt 0 víkja_á_bug 0 bægja_frá 0 reka 0 000 01 + 00 00 |    
+00086106 00 v 07 skýra 0 varpa_ljósi_á 0 túlka 0 útskýra 0 skilgreina 0 ráða 0 glöggva 0 002 @ 00076542 v 0000 ~ 00045801 v 0000 01 + 00 00 |    
+00086261 00 v 02 gera_hlé 0 staldra_við 0 001 ~ 00079760 v 0000 01 + 00 00 |    
+00086344 00 v 02 aðhæfa 0 aðlaga 0 002 ~ 00054218 v 0000 ~ 00049422 v 0000 01 + 00 00 |    
+00086439 00 v 03 halda 0 geyma 0 halda_til_haga 0 003 @ 00004843 v 0000 ~ 00002969 v 0000 ~ 00035657 v 0000 01 + 00 00 |    
+00086564 00 v 20 kollsigla_sig 0 verða_ekkert_úr 0 fara_í_súginn 0 mislukkaast 0 renna_út_í_sandinn 0 mistakast 0 fara_í_handskolum 0 missa_tangarhald_á 0 ónýtast 0 bregðast 0 fara_á_skjön 0 fatrast 0 steyta_á_skeri 0 misheppnast 0 missa_tök_á 0 fara_úr_skorðum 0 fara_úr_reipunum 0 fá_illan_endi 0 fara_upp_í_loft 0 verða_ekki_kápan_úr_því_klæðingu 0 fatast 0 fara_úr_böndum 0 glappast 0 verða_að_reyk 0 glapna 0 fara_í_hund_og_kött 0 fara_til_ónlýtis 0 klikka 0 reiða_illa_af 0 fara_norður_og_niður 0 verða_til_einskis 0 fara_flatt 0 002 @ 00019892 v 0000 * 00085456 v 0000 01 + 00 00 |    
+00087197 00 v 05 setja_á_sig 0 athuga 0 veita_eftirtekt 0 höggva_eftir 0 taka_eftir 0 001 * 00056359 v 0000 01 + 00 00 |    
+00087324 00 v 07 nagga 0 rífast 0 kirna 0 þræta 0 vargast 0 karpa 0 deila 0 000 01 + 00 00 |    
+00087424 00 v 0a hafna 0 synja 0 aftaka 0 kveða_nei_við 0 afsegja 0 afþakka 0 afneita 0 vilja_ekki 0 afbiðja 0 afsala_sér 0 000 01 + 00 00 |    
+00087574 00 v 04 taka 0 þola 0 umbera 0 afbera 0 002 @ 00052497 v 0000 ~ 00069667 v 0000 01 + 00 00 |    
+00087681 00 v 05 stýfa 0 þverskera 0 stúfa 0 stytta 0 búta_af 0 000 01 + 00 00 |    
+00087770 00 v 03 fara_frá 0 skilja 0 segja_skilið_við 0 000 01 + 00 00 |    
+00087850 00 v 03 semja 0 verða_ásátt_um 0 koma_sér_saman_um 0 000 01 + 00 00 |    
+00087937 00 v 02 vátryggja 0 tryggja 0 001 @ 00077458 v 0000 01 + 00 00 |    
+00088016 00 v 02 vigta 0 vega 0 001 @ 00034393 v 0000 01 + 00 00 |    
+00088087 00 v 04 þenja 0 spenna 0 strengja 0 teygja 0 000 01 + 00 00 |    
+00088163 00 v 02 meykja 0 þynna 0 000 01 + 00 00 |    
+00088219 00 v 01 gefa_lyf 0 002 ~ 00051356 v 0000 ;c 00093328 n 0000 01 + 00 00 |    
+00088305 00 v 03 tímasetja 0 dagsetja 0 taka_tímann 0 001 @ 00034393 v 0000 01 + 00 00 |    
+00088400 00 v 01 gleypa_við 0 000 01 + 00 00 |    
+00088452 00 v 07 kappræða 0 ræða 0 snörkringja 0 dispútera 0 rökræða 0 ræða_um 0 deila_um 0 001 @ 00068605 v 0000 01 + 00 00 |    
+00088594 00 v 01 leggja_áherslu_á 0 000 01 + 00 00 |    
+00088653 00 v 06 samlaga 0 binda_saman 0 tengja_saman 0 skeyta_saman 0 samtengja 0 tengja 0 001 @ 00011262 v 0000 01 + 00 00 |    
+00088784 00 v 03 öskra 0 hrópa 0 kalla 0 002 ! 00032267 v 0000 ~ 00070211 v 0000 01 + 00 00 |    
+00088884 00 v 03 stingast 0 stinga_sér 0 steypa_sér 0 000 01 + 00 00 |    
+00088961 00 v 06 pressa 0 þrúga 0 kremja 0 merja 0 klípa 0 kreista 0 000 01 + 00 00 |    
+00089054 00 v 02 hlaða 0 heygeymsla 0 001 @ 00054110 v 0000 01 + 00 00 |    
+00089132 00 v 03 iðra 0 sjá_eftir 0 iðrast 0 001 @ 00058779 v 0000 01 + 00 00 |    
+00089219 00 v 03 koma_á 0 innleiða 0 kynna 0 001 @ 00065772 v 0000 01 + 00 00 |    
+00089305 00 v 03 gleypa 0 taka_í_sig 0 sjúga_í_sig 0 000 01 + 00 00 |    
+00089382 00 v 02 gera_sér_upp 0 setja_á_svið 0 000 01 + 00 00 |    
+00089453 00 v 05 valdbjóða 0 stjórna 0 stýra 0 skipa 0 fyrirskkipa 0 001 ~ 00029669 v 0000 01 + 00 00 |    
+00089565 00 v 04 hafna 0 synja 0 afneita 0 neita 0 000 01 + 00 00 |    
+00089637 00 v 02 grauta_saman 0 blanda_af_handahófi 0 000 01 + 00 00 |    
+00089713 00 v 02 koma_í_staðinn_fyrir 0 hlaupa_í_skarðið 0 000 01 + 00 00 |    
+00089798 00 v 02 leita_eftir 0 leita_að 0 000 01 + 00 00 |    
+00089862 00 v 03 halda_kyrru_fyrir 0 vera 0 vera_kyrr 0 001 ! 00046060 v 0000 01 + 00 00 |    
+00089957 00 v 02 gera_ógreinilegan 0 gera_óskýranlegan 0 001 @ 00062091 v 0000 01 + 00 00 |    
+00090056 00 v 02 ganga_í 0 skrá_sig_í 0 001 ~ 00024262 v 0000 01 + 00 00 |    
+00090138 00 v 02 endurgreiða 0 endurgjalda 0 001 @ 00013114 v 0000 01 + 00 00 |    
+00090223 00 v 02 framreiða 0 bera_fram 0 000 01 + 00 00 |    
+00090286 00 v 02 þeyta 0 sópa 0 001 @ 00090359 v 0000 01 + 00 00 |    
+00090359 00 v 08 slá 0 berja 0 kýla 0 lemja 0 höggva 0 knýja 0 ljósta 0 skella 0 004 @ 00073602 v 0000 ~ 00017094 v 0000 ~ 00090286 v 0000 ~ 00084231 v 0000 01 + 00 00 |    
+00090538 00 v 02 afboða 0 aflýsa 0 000 01 + 00 00 |    
+00090596 00 v 05 bíða 0 dveljast 0 töldra 0 tefja 0 þruma 0 000 01 + 00 00 |    
+00090681 00 v 02 tikka 0 tifa 0 000 01 + 00 00 |    
+00090734 00 v 01 telja_með 0 001 @ 00052497 v 0000 01 + 00 00 |    
+00090803 00 v 02 stýfa 0 stytta 0 002 ! 00045801 v 0000 @ 00054540 v 0000 01 + 00 00 |    
+00090895 00 v 02 ljósta 0 slá_(með_flötum_lófa) 0 000 01 + 00 00 |    
+00090971 00 v 05 drottna_yfir 0 ráða_yfir 0 ráða_fyrir 0 ríkja 0 ráða_ríkjum 0 000 01 + 00 00 |    
+00091079 00 v 02 koma_til_skila 0 afhenda 0 000 01 + 00 00 |    
+00091144 00 v 02 skrá 0 skrásetja 0 000 01 + 00 00 |    
+00091203 00 v 02 ógilda 0 afturkalla 0 000 01 + 00 00 |    
+00091264 00 v 03 sætta_sig_við 0 þola 0 umbera 0 000 01 + 00 00 |    
+00091337 00 v 03 samlaga 0 sameina 0 blanda_saman 0 000 01 + 00 00 |    
+00091410 00 v 02 leysa_undan 0 frelsa 0 001 ~ 00050490 v 0000 01 + 00 00 |    
+00091489 00 v 01 fá_nýja_meðlimi 0 000 01 + 00 00 |    
+00091548 00 v 07 skrifa 0 rita 0 festa_á_blað 0 krota 0 draga_til_stafs 0 hripa 0 rissa 0 001 ~ 00092388 v 0000 01 + 00 00 |    
+00091679 00 v 03 sleppa 0 láta_falla 0 láta_e-ð_gossa 0 000 01 + 00 00 |    
+00091759 00 v 02 aftra 0 hindra 0 001 ! 00066262 v 0000 01 + 00 00 |    
+00091832 00 v 02 skipa_fyrir 0 stjórna 0 001 ~ 00030256 v 0000 01 + 00 00 |    
+00091913 00 v 04 leggja_fram 0 gefa 0 inna_af_hendi 0 láta_í_té 0 001 @ 00034197 v 0000 01 + 00 00 |    
+00092021 00 v 0c kinsa 0 draga_kjark_úr 0 styggja 0 hrella 0 mokka 0 æra 0 drepa_dug_úr 0 fæla 0 skelfa 0 hræða 0 smeykja 0 skjóta_skelk_í_bringu 0 002 ~ 00042923 v 0000 > 00036271 v 0000 01 + 00 00 |    
+00092234 00 v 03 upphengja 0 hengja 0 láta_hanga 0 001 @ 00004945 v 0000 01 + 00 00 |    
+00092325 00 v 03 synja 0 aftaka 0 neita 0 000 01 + 00 00 |    
+00092388 00 v 01 skrifa_undir 0 001 @ 00091548 v 0000 01 + 00 00 |    
+00092459 00 v 06 ása_út 0 gleikka 0 auka 0 rýmka 0 breikka 0 víkka 0 000 01 + 00 00 |    
+00092553 00 v 02 falla_saman 0 hníga_niður 0 000 01 + 00 00 |    
+00092621 00 v 08 stofna 0 setja_á_stofn 0 koma_fótum_undir 0 koma_á_laggirnar 0 mynda 0 koma_á_fót 0 setja_á_laggirnar 0 stofnsetja 0 000 01 + 00 00 |    
+00092782 00 v 03 halda_upp_á 0 halda_hátíðlega 0 minnast 0 000 01 + 00 00 |    
+00092866 00 v 02 kunna_við 0 líka_við 0 000 01 + 00 00 |    
+00092930 00 v 02 hafa_ráð_á 0 hafa_efni_á 0 000 01 + 00 00 |    
+00092999 00 v 02 breiða_út 0 breiða_úr 0 000 01 + 00 00 |    
+00093065 00 v 03 hafa_samkennd_með 0 setja_sig_í_annars_spor 0 hafa_samúð_með 0 000 01 + 00 00 |    
+00093171 00 v 03 hafna 0 losa_sig_við 0 útrýma 0 000 01 + 00 00 |    
+00093244 00 v 02 þekkja 0 kunna_skil_á 0 000 01 + 00 00 |    
+00093308 00 v 04 tæta_sundur 0 splundra 0 mola_sundur 0 sprengja 0 000 01 + 00 00 |    
+00093397 00 v 02 hitta 0 kynnast 0 000 01 + 00 00 |    

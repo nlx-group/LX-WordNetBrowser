@@ -1,0 +1,11 @@
+  01 This file is a derivation of the wn-nno-lmf.xml file; the original nno-10- wordnet
+  02 Please refer to the Read_Me file which provides information about the developing team, licenses and the original project
+  03 languageCoding: ISO 639-3
+  04 owner: wordnet
+  05 version: 10
+  06 label: Norwegian
+  07 language: nno
+00000323 00 a 01 yngling 0 001 ! 00000378 a 0000 |    
+00000378 00 a 01 senior 0 001 ! 00000323 a 0000 |    
+00000432 00 a 01 single 0 000 |    
+00000468 00 a 01 springe 0 000 |    

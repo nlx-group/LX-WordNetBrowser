@@ -1,0 +1,2118 @@
+sæll a 1 1 ^ 1 0 00023747
+hlutbundinn a 2 1 ! 2 0 00000741 00004419
+angursamur a 2 2 = ^ 2 0 00015400 00034386
+sannlegur a 1 2 ^ ! 1 0 00002470
+þræsingslegur a 1 3 = ^ ! 1 0 00058051
+umburðarsamur a 1 1 ^ 1 0 00045113
+sem_tök_eru_ásem_verða_kann a 1 1 = 1 0 00020357
+veiklulegur a 1 2 = ^ 1 0 00011845
+þolgóður a 1 1 ^ 1 0 00020099
+uggsamur a 1 1 = 1 0 00036878
+óendanlegur a 2 1 & 2 0 00021362 00026468
+sameignar- a 1 0 1 0 00027415
+vel_til_fallinn a 1 1 ^ 1 0 00061561
+ískaldur a 1 3 = ^ ! 1 0 00058051
+búfastur a 1 0 1 0 00021608
+svinnur a 1 1 ! 1 0 00021119
+afskiptalaus a 1 0 1 0 00002872
+eindrægur a 1 0 1 0 00006248
+lekker a 1 1 & 1 0 00000319
+herstjórnarlegur a 1 0 1 0 00064298
+auðugur a 1 1 ^ 1 0 00041154
+þéttur_fyrir a 1 3 = ! & 1 0 00048163
+bóklegur a 1 0 1 0 00062042
+mannblendinn a 1 2 ;c ^ 1 0 00022697
+vís a 1 0 1 0 00044420
+lávaxinn a 1 2 = ! 1 0 00042219
+gagnsær a 1 0 1 0 00035718
+pervisinn a 1 1 ! 1 0 00058686
+réttilegur a 1 0 1 0 00049085
+ranglátur a 1 2 ^ ! 1 0 00033826
+stjórnskipulegur a 1 1 & 1 0 00041696
+takmarkaður a 2 1 ^ 2 0 00007987 00042948
+kunnuglegur a 1 0 1 0 00043173
+lygn a 1 0 1 0 00052327
+sterklegur a 1 1 ^ 1 0 00054153
+aftur a 1 0 1 0 00040619
+angurmóður a 1 1 ! 1 0 00046533
+óþroskaður a 1 1 ! 1 0 00009723
+rammefldur a 1 1 ^ 1 0 00054153
+sem_getur_gerst a 1 1 = 1 0 00020357
+einmana a 1 0 1 0 00025009
+fjárhags a 1 0 1 0 00041252
+hupplegur a 1 0 1 0 00061189
+fallinn_til a 1 1 ^ 1 0 00061561
+nýstárlegastur a 1 0 1 0 00008940
+náttúruvísindalegur a 1 0 1 0 00057631
+mjór a 1 1 ! 1 0 00058686
+hlutvandur a 1 0 1 0 00049085
+innlendur a 2 0 2 0 00002016 00031709
+afarljótur a 1 0 1 0 00060384
+gulbrúnn a 1 0 1 0 00009793
+óvar a 1 0 1 0 00032183
+aukalegur a 1 1 ! 1 0 00006819
+klúr a 2 0 2 0 00010332 00030383
+visinn a 1 1 & 1 0 00059865
+fastur_fyrir a 2 3 = ! & 2 0 00006248 00048163
+ísætur a 1 2 ^ ! 1 0 00039305
+ófær a 2 1 & 2 0 00027014 00052368
+náinn a 5 1 ^ 5 0 00015099 00016493 00037695 00038476 00043971
+djúpur a 1 1 ! 1 0 00053091
+þykkjuþungur a 1 0 1 0 00050761
+mótfallinn a 1 0 1 0 00003006
+sjálfráða a 1 1 ;c 1 0 00014723
+hagstæður a 2 0 2 0 00044777 00053252
+afdráttarlaus a 1 0 1 0 00015755
+bágstaddur a 1 0 1 0 00006488
+fjölbreyttur a 1 1 = 1 0 00008197
+óstýrilátur a 2 0 2 0 00049838 00056683
+loginn a 1 2 = ! 1 0 00019672
+mikilhæfur a 1 0 1 0 00025106
+örugglegur a 3 2 = ! 3 0 00001520 00041952 00044420
+öfundsjúkur a 1 0 1 0 00016865
+ljóshærður a 1 0 1 0 00010130
+smeykur a 1 1 = 1 0 00036878
+bráður a 1 1 ! 1 0 00013173
+gagnverkandi a 2 0 2 0 00020738 00054996
+hrikalegur a 3 3 ^ ! & 3 0 00001253 00038930 00060384
+gaumgæfilegur a 5 1 ^ 5 0 00015099 00016493 00026153 00038476 00043971
+oddhvass a 1 1 ! 1 0 00055147
+myndarlegur a 1 2 ^ & 1 0 00018766
+fara_á_eftirlaun a 1 0 1 0 00009490
+dæll a 1 1 ^ 1 0 00055681
+vendilegur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+órólegur a 1 1 ^ 1 0 00023404
+forréttinda- a 1 1 ^ 1 0 00004645
+þreklaus a 1 2 = ^ 1 0 00011845
+án_endurgjalds a 1 0 1 0 00059264
+margræður a 1 0 1 0 00032916
+sérfræðilegur a 1 0 1 0 00063929
+eldgamall a 1 2 = ^ 1 0 00042494
+grunnfærnislegur a 1 1 ! 1 0 00006819
+spenntur a 1 0 1 0 00019415
+siðlaus a 1 0 1 0 00045432
+einsleitur a 1 0 1 0 00050145
+blíður a 4 3 = ^ ! 4 0 00009144 00015400 00030715 00034386
+óvinveittur a 1 1 ^ 1 0 00014865
+réttur a 2 0 2 0 00018688 00042304
+altillegur a 1 1 ^ 1 0 00055681
+ríkis- a 1 0 1 0 00012719
+óttafullur a 1 1 = 1 0 00036878
+meinlegur a 1 1 ! 1 0 00003691
+nytsamlegur a 2 2 ^ ! 2 0 00017941 00024615
+viðskipta- a 1 1 = 1 0 00016128
+sljór a 2 1 ! 2 0 00029728 00045274
+líkur a 1 0 1 0 00005479
+fastheldinn a 1 3 = ^ ! 1 0 00040289
+iðn- a 2 1 ^ 2 0 00052131 00064153
+samstæður a 2 1 ^ 2 0 00053160 00064044
+hugsjúkur a 1 0 1 0 00036680
+ánægður a 5 2 ^ ! 5 0 00008422 00021522 00023083 00023747 00023935
+stærðfræðilegur a 1 0 1 0 00063628
+sár a 1 0 1 0 00054930
+fávíslegur a 2 1 ! 2 0 00006819 00012756
+spennandi a 1 2 = ^ 1 0 00060925
+grísefldur a 1 1 ^ 1 0 00054153
+þróttsamur a 1 0 1 0 00032034
+ónæmur a 1 0 1 0 00004881
+óduglegur a 1 1 ! 1 0 00019512
+skaðvænn a 1 1 ! 1 0 00003691
+vanskapaður a 1 1 & 1 0 00022491
+aðframkominn a 1 0 1 0 00044348
+tiginn a 1 0 1 0 00055054
+vandlátur a 1 2 ^ & 1 0 00014562
+hirfnæmur a 2 2 = ^ 2 0 00015400 00034386
+skítugur a 1 1 ! 1 0 00031276
+skussalegur a 1 0 1 0 00007631
+grannvaxinn a 1 1 ! 1 0 00058686
+útþvældur a 1 0 1 0 00037118
+hlutlaus a 1 0 1 0 00010541
+hræddur a 1 1 = 1 0 00036878
+reglulegur a 1 1 ^ 1 0 00011716
+styggur a 1 0 1 0 00050761
+í_rauðabítið a 1 2 ^ & 1 0 00051519
+óheppilegur a 1 1 ^ 1 0 00049622
+tær a 1 0 1 0 00038887
+nenningarlaus a 1 0 1 0 00007631
+merkilegur a 1 1 ^ 1 0 00013668
+sterkur a 5 2 ^ ! 5 0 00033254 00033680 00037955 00054153 00054743
+í_morgunsárið a 1 2 ^ & 1 0 00051519
+hulinn_sjónum a 1 1 ! 1 0 00018421
+auður a 5 2 ! & 5 0 00005409 00021268 00040457 00040520 00041101
+einhugi_um a 1 0 1 0 00006248
+mikilsráðandi a 1 0 1 0 00023985
+utanverður a 1 1 ! 1 0 00013091
+yfirgangssamur a 1 1 ^ 1 0 00060716
+huglægur a 1 1 ! 1 0 00008688
+hrukkulaus a 1 2 ^ ! 1 0 00031864
+nákominn a 2 0 2 0 00037695 00043069
+traustur a 2 0 2 0 00044420 00051450
+rangur a 3 2 = ! 3 0 00009844 00019672 00034206
+í_ætt_við a 1 0 1 0 00014283
+þrekmikill a 1 0 1 0 00032034
+öngur a 2 3 = ^ ! 2 0 00005175 00053882
+svipaður a 1 0 1 0 00005479
+hærri a 1 1 = 1 0 00039818
+sem_hægt_er_að_koma_til_leiðar a 1 1 = 1 0 00020357
+kræsinn a 1 2 ^ & 1 0 00014562
+áþekkur a 1 0 1 0 00005479
+spunastuttur a 1 2 ^ ! 1 0 00056967
+hæfur a 2 1 ^ 2 0 00029354 00061561
+hljóðlaus a 1 2 ^ ! 1 0 00017841
+ferlegur a 2 2 ^ ! 2 0 00001253 00060384
+ógurlegur a 1 2 ^ ! 1 0 00001253
+trúhneigður a 1 0 1 0 00038392
+sællegur a 1 3 ^ ! & 1 0 00013999
+sjaldgæfur a 1 0 1 0 00039400
+hugheill a 1 0 1 0 00015755
+í_föstu_formi a 1 3 = ^ ! 1 0 00005750
+háttprúður a 1 0 1 0 00061189
+hýrlegur a 1 1 ^ 1 0 00055681
+verulegur a 2 2 = ^ 2 0 00032255 00060814
+fyndinn a 1 0 1 0 00036815
+ern a 1 1 ! 1 0 00054743
+glópslegur a 1 1 ! 1 0 00006819
+súbjektívur a 1 1 ! 1 0 00008688
+ljúffengur a 1 2 ^ & 1 0 00048432
+umboðs a 1 0 1 0 00044971
+gjaldfrjálst a 1 0 1 0 00059264
+umhverfis- a 1 0 1 0 00064044
+klaksár a 2 2 = ^ 2 0 00015400 00034386
+veglyndur a 2 0 2 0 00059465 00060305
+gagnslaus a 1 1 ! 1 0 00019512
+sagnafár a 1 0 1 0 00034309
+hægur a 4 3 ! ^ & 4 0 00019868 00029833 00046796 00056507
+skrautlegur a 1 0 1 0 00033086
+fremri a 1 1 = 1 0 00039818
+frálaus a 1 2 ^ ! 1 0 00028492
+sanngjarn a 2 2 ^ ! 2 0 00002470 00049085
+kynlegur a 2 1 & 2 0 00006134 00051812
+snemmbært a 1 2 ^ & 1 0 00051519
+tilvonandi a 1 1 ! 1 0 00025627
+fær a 3 2 ^ & 3 0 00004950 00029354 00031380
+uppbelgdur a 1 1 & 1 0 00058398
+útilokaður a 1 0 1 0 00027014
+þröngsýnn a 1 2 ^ & 1 0 00019932
+sleipur a 1 1 ^ 1 0 00045358
+grannur a 1 1 ! 1 0 00058686
+mægður a 1 0 1 0 00043069
+líklegur a 1 1 ! 1 0 00017023
+síðastur a 2 1 ^ 2 0 00026539 00049231
+óskaddaður a 1 2 = ^ 1 0 00057144
+gagnlegur a 2 2 ^ ! 2 0 00017941 00024615
+lögráða a 1 1 ;c 1 0 00014723
+stríður a 2 2 = ! 2 0 00014414 00059530
+iðnaðar- a 1 1 ^ 1 0 00052131
+nostursamur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+ákjósanlegur a 1 0 1 0 00050066
+viðsnúinn a 1 2 = ! 1 0 00019672
+iðjulítill a 1 0 1 0 00007631
+bernskur a 1 0 1 0 00012756
+nærgætinn a 2 0 2 0 00026100 00061189
+grunnsær a 1 0 1 0 00048712
+kaldur a 2 3 = ^ ! 2 0 00027160 00058051
+dreifbýlis- a 1 0 1 0 00063283
+súr a 2 3 ^ ! & 2 0 00020820 00046181
+silalegur a 1 0 1 0 00029833
+áreiðanlegur a 7 1 ^ 7 0 00015099 00016493 00038476 00043971 00044420 00045717 00051450
+albúinn a 1 1 = 1 0 00031057
+rýmis- a 1 0 1 0 00023890
+vökull a 1 1 ^ 1 0 00008592
+tignarlegur a 1 0 1 0 00028946
+tónvís a 1 0 1 0 00046742
+rotinn a 1 0 1 0 00049773
+laus a 5 4 ! = ^ & 5 0 00004131 00005409 00024196 00041101 00054664
+hreinlegur a 2 2 ^ ! 2 0 00000857 00026383
+stórfeinginn a 1 1 ^ 1 0 00030481
+árvakur a 1 1 ^ 1 0 00008592
+skammt_undan a 1 2 = ! 1 0 00012042
+uppnæmur a 2 2 = ^ 2 0 00015400 00034386
+tiltölulegur a 1 0 1 0 00004419
+bagalegur a 2 2 ^ ! 2 0 00003691 00049622
+lagalegur a 1 1 ! 1 0 00002092
+tattinn a 1 1 & 1 0 00058398
+vitsmunalegur a 2 1 ^ 2 0 00025461 00037845
+asnalegur a 1 1 ! 1 0 00006819
+algildur a 1 1 ^ 1 0 00053504
+réttmætur a 3 2 ^ ! 3 0 00002470 00005040 00049085
+þýðlegur a 1 1 ^ 1 0 00055681
+greiðvikinn a 1 1 ^ 1 0 00003382
+uppgefinn a 1 0 1 0 00037118
+ógeðfelldur a 1 1 ^ 1 0 00049622
+óháður a 2 2 ^ ! 2 0 00010541 00040975
+í_réttu_hlutfalli a 1 0 1 0 00004419
+rannsókna- a 1 0 1 0 00062232
+ósjáanlegur a 1 1 ! 1 0 00018421
+vandaður a 1 0 1 0 00015755
+óeðlilegur a 2 1 ! 2 0 00003100 00053014
+lífsglaður a 1 1 ^ 1 0 00023747
+fljótfær a 1 1 & 1 0 00016794
+kraftamikill a 1 1 ^ 1 0 00054153
+óhjákvæmilegur a 2 1 ^ 2 0 00021995 00036524
+óbeinn a 1 0 1 0 00002835
+eðlislegur a 2 2 ^ ! 2 0 00022202 00057336
+á_móti_lögum a 1 2 ! & 1 0 00055519
+ríflegur a 1 1 & 1 0 00009401
+skammlaus a 1 1 ^ 1 0 00045532
+slæmur a 2 0 2 0 00032859 00045432
+vondur a 3 0 3 0 00032859 00045432 00050761
+hindrunarlaus a 1 2 = ^ 1 0 00004131
+röskur a 1 1 ^ 1 0 00037566
+látinn a 1 1 ! 1 0 00057759
+neitandi a 1 0 1 0 00043782
+horaður a 1 1 ! 1 0 00058686
+uggandi a 1 1 = 1 0 00036878
+inni_við a 1 1 ! 1 0 00050971
+foreldra- a 1 0 1 0 00050932
+innangátta a 1 1 ! 1 0 00050971
+marglitur a 1 0 1 0 00030029
+rennilegur a 1 1 ! 1 0 00058686
+framarlegur a 1 1 ^ 1 0 00036390
+latur a 1 0 1 0 00007631
+réttlátur a 3 2 ^ ! 3 0 00002470 00048927 00049085
+dramblátur a 1 1 & 1 0 00058398
+lítill a 1 2 = ! 1 0 00042219
+guðhræddur a 1 0 1 0 00038392
+fávís a 1 0 1 0 00038825
+digurbarkalegur a 1 1 & 1 0 00058398
+skelkaður a 1 1 = 1 0 00036878
+jötunefldur a 1 1 ^ 1 0 00054153
+raddsterkur a 1 3 = ^ ! 1 0 00045823
+óviðeigandi a 2 1 ! 2 0 00041305 00043895
+þarfur a 2 1 ^ 2 0 00006488 00036524
+rausnarlegur a 1 0 1 0 00060305
+átakanlegur a 1 1 ^ 1 0 00025810
+rétlaus a 1 2 ! & 1 0 00055519
+fábjánalegur a 1 1 ! 1 0 00006819
+hávær a 1 3 = ^ ! 1 0 00045823
+laraður a 1 0 1 0 00037118
+nærstaddur a 1 2 = ! 1 0 00034741
+afgerandi a 2 0 2 0 00006248 00021310
+stæðilegur a 1 3 = ! & 1 0 00048163
+einurðarlaus a 1 2 = ! 1 0 00047511
+sveitastjórnar- a 1 0 1 0 00064216
+andstyggilegur a 1 0 1 0 00052442
+móðins a 1 0 1 0 00041588
+fitumukill a 1 3 ^ ! & 1 0 00013999
+siðferðilegur a 1 1 & 1 0 00022491
+varanlegur a 3 3 ^ ! & 3 0 00028057 00035360 00043225
+ókeypis a 1 0 1 0 00059264
+að_kostnaðalausu a 1 0 1 0 00059264
+úr_leik a 1 0 1 0 00044348
+strekktur a 1 1 ^ 1 0 00008998
+glataður a 1 1 ^ 1 0 00052249
+stranglegur a 1 0 1 0 00057894
+þrálátur a 3 1 ! 3 0 00010460 00028057 00043225
+óvæntur a 2 2 ^ ! 2 0 00009936 00033826
+sjúkur a 1 2 ! & 1 0 00048991
+fullur a 3 1 ! 3 0 00023083 00029618 00031655
+lerka a 1 0 1 0 00037118
+heilbrigður a 2 3 = ^ ! 2 0 00000610 00054743
+heimskulegur a 1 1 ! 1 0 00006819
+hjassalegur a 1 3 ^ ! & 1 0 00013999
+óbreyttur_borgari a 1 0 1 0 00036311
+hefðgróinn a 1 0 1 0 00035013
+sýnilegur a 1 1 ! 1 0 00033386
+kunnugur a 1 0 1 0 00043173
+fulltrúa- a 1 0 1 0 00044971
+praktískur a 2 2 ^ & 2 0 00024615 00046796
+þeldökkur a 1 1 ! 1 0 00042063
+gallaður a 1 0 1 0 00033626
+ólöglegur a 2 2 ! & 2 0 00006745 00055519
+arfhelgur a 1 0 1 0 00035013
+útlimagrannur a 1 1 ! 1 0 00058686
+fúinn a 1 0 1 0 00049773
+kátur a 1 1 ^ 1 0 00058987
+viðkvæmur a 3 2 = ^ 3 0 00015400 00034386 00051177
+torfundinn a 1 0 1 0 00039400
+tíðkanlegur a 2 2 ^ ! 2 0 00022202 00057336
+einslegur a 1 0 1 0 00025009
+léttur a 2 4 = ^ ! & 2 0 00046300 00046796
+landfræðilegur a 1 0 1 0 00062186
+stálsleginn a 1 1 ! 1 0 00054743
+aldraður a 1 2 = ^ 1 0 00042494
+nothæfur a 1 1 ^ 1 0 00024615
+hlutfallslegur a 1 0 1 0 00004419
+rétt_hjá a 1 2 = ! 1 0 00012042
+lokinn a 1 0 1 0 00032533
+skömmustulegur a 1 0 1 0 00013578
+hreinn a 3 2 ^ ! 3 0 00015755 00026383 00038887
+nútímalegur a 1 0 1 0 00041588
+ungur a 1 0 1 0 00041904
+þrautreyndur a 1 1 ^ 1 0 00049304
+hrár a 2 0 2 0 00013269 00046373
+nýtilkominn a 1 2 = ^ 1 0 00060168
+fálátur a 1 0 1 0 00021797
+hnýsinn a 1 2 ^ ! 1 0 00016925
+innri a 2 2 ^ ! 2 0 00012633 00052690
+grunnfær a 1 0 1 0 00048712
+réttkvaddur a 1 1 ^ 1 0 00061561
+skikkanlegur a 1 1 ^ 1 0 00020629
+sem_tekur_á_taugrnar a 1 2 = ^ 1 0 00060925
+allsráðandi a 1 1 = 1 0 00006061
+ekki_sá_sami a 1 1 ^ 1 0 00039930
+klassískur a 1 0 1 0 00028646
+handviss a 1 1 = 1 0 00001520
+svæðisbundinn a 1 0 1 0 00062603
+ekta a 2 2 ^ & 2 0 00032119 00058298
+einstakur a 2 0 2 0 00018109 00027612
+umvindur a 1 2 = ! 1 0 00059530
+falsaður a 1 2 = ! 1 0 00019672
+kaldranalegur a 1 2 ^ ! 1 0 00056967
+sem_á_vel_við a 1 1 ! 1 0 00041399
+bókmenntalegur a 1 0 1 0 00062096
+jötunsterkur a 1 1 ^ 1 0 00054153
+hæverskur a 2 0 2 0 00040011 00061189
+ahrákaldur a 1 3 = ^ ! 1 0 00058051
+dimmur a 1 1 ! 1 0 00057759
+hvimleiður a 1 1 ! 1 0 00051247
+forynjulegur a 1 0 1 0 00060384
+handsterkur a 1 1 ^ 1 0 00054153
+athyglisverður a 1 1 ^ 1 0 00031785
+afskræmilegur a 1 0 1 0 00060384
+upplásinn a 1 1 & 1 0 00058398
+galopinn a 1 0 1 0 00028845
+sameiginlegur a 3 2 ^ ! 3 0 00025185 00027415 00033979
+þjáður a 1 2 ! & 1 0 00048991
+nægjanlegur a 1 2 ^ ! 1 0 00024512
+vandalaus a 1 1 ! 1 0 00056507
+torfenginn a 1 0 1 0 00039400
+fylkis- a 1 0 1 0 00013905
+sem_gera_má_ráð_fyrir a 1 1 ! 1 0 00025627
+umkomulaus a 1 0 1 0 00005121
+sérstakur a 2 2 ^ ! 2 0 00002470 00027612
+óhlutstæður a 1 1 ! 1 0 00008688
+arfgenginn a 1 0 1 0 00035013
+voldugur a 1 1 ^ 1 0 00033680
+fámáll a 1 0 1 0 00034309
+viðkunnanlegur a 2 3 ^ ! & 2 0 00022922 00056085
+afarstór a 1 1 & 1 0 00038930
+innanverður a 1 2 ^ ! 1 0 00012633
+ljóslitaður a 1 1 ^ 1 0 00047244
+sem_skammast_sín a 1 0 1 0 00013578
+skír a 1 0 1 0 00030670
+skrifaður a 1 0 1 0 00059412
+ósjálfstæður a 1 1 ! 1 0 00040751
+seinlátur a 1 0 1 0 00029833
+lítilmótlegur a 1 0 1 0 00026953
+þíður a 1 3 = ^ ! 1 0 00011500
+nútíma- a 1 1 ^ 1 0 00039730
+knár a 1 1 ^ 1 0 00054153
+fjármála- a 1 0 1 0 00041252
+meinsamur a 1 1 ! 1 0 00003691
+ótæpur a 1 1 ^ 1 0 00030481
+flatur a 1 1 & 1 0 00005696
+þýður a 1 1 ^ 1 0 00055681
+öruggur a 6 4 = ^ ! & 6 0 00001520 00016308 00037566 00041952 00044420 00061131
+sofinn a 1 1 ! 1 0 00019237
+hljóðlegur a 1 3 = ^ ! 1 0 00047132
+svalur a 2 3 = ^ ! 2 0 00027160 00058051
+bráðskemmtilegur a 1 0 1 0 00048335
+lífs a 1 0 1 0 00025958
+afturhaldssamur a 1 3 = ^ ! 1 0 00040289
+ráhugaverður a 1 0 1 0 00005858
+styrkur a 1 1 ^ 1 0 00054153
+hlutverulegur a 2 3 = ^ ! 2 0 00000741 00032255
+lýðhollur a 2 0 2 0 00008492 00052496
+framur a 1 2 ^ & 1 0 00007465
+ágengur a 2 1 ^ 2 0 00034886 00052894
+grófur a 2 2 ^ ! 2 0 00004530 00010332
+byggingar- a 1 0 1 0 00061820
+keisaralegur a 1 0 1 0 00064584
+friðsæll a 1 1 ^ 1 0 00042132
+átakamikill a 1 1 ^ 1 0 00054153
+ólaglegur a 1 3 ^ ! & 1 0 00028279
+félaus a 1 0 1 0 00006488
+heflaður_í_framkomu a 1 0 1 0 00061189
+metorðagjarn a 1 1 = 1 0 00040193
+hrappur a 2 3 = ^ ! 2 0 00005175 00053882
+penn a 1 1 ^ 1 0 00000857
+meinfullur a 1 1 ! 1 0 00003691
+aldauða a 1 0 1 0 00059126
+siðaður a 1 0 1 0 00061189
+stofnað a 1 0 1 0 00047991
+ranglegur a 3 2 = ! 3 0 00009844 00019672 00034206
+sem_getur_átt_sér_stað a 1 1 = 1 0 00020357
+vinsæll a 1 0 1 0 00052496
+góður a 4 3 = ^ ! 4 0 00027080 00030715 00048927 00055681
+feitur a 2 3 ^ ! & 2 0 00013999 00022112
+stafrænn a 1 0 1 0 00063079
+tregur a 1 2 = ! 1 0 00059530
+strembinn a 2 2 = ! 2 0 00017699 00059530
+seinvirkur a 1 0 1 0 00029833
+vatn a 1 2 = ! 1 0 00008078
+ljúflegur a 1 1 ^ 1 0 00055681
+óframur a 1 2 = ! 1 0 00047511
+sérstæður a 4 2 ! & 4 0 00018109 00027612 00035813 00059969
+hættulegur a 1 2 ^ ! 1 0 00032744
+feikilegur a 1 1 & 1 0 00038930
+óyggjandi a 1 0 1 0 00044420
+svellur a 1 2 = ! 1 0 00059530
+hamingjusamur a 1 1 ^ 1 0 00023747
+miðju- a 1 0 1 0 00011992
+myndrænn a 1 1 & 1 0 00018175
+fyrstnefndur a 1 1 ^ 1 0 00023506
+aðgengilegur a 3 2 ^ ! 3 0 00002470 00017490 00056507
+hniginn_á_efri_aldur a 1 2 = ^ 1 0 00042494
+dreissugur a 1 1 & 1 0 00058398
+fyrir_utan a 1 1 ! 1 0 00005937
+gáfaður a 1 1 ! 1 0 00014349
+þrásækinn a 2 1 ! 2 0 00028057 00043225
+saurugur a 1 1 ! 1 0 00031276
+þunglyndur a 1 0 1 0 00036680
+ruddalegur a 3 0 3 0 00010332 00040074 00060384
+torskiljanlegur a 1 0 1 0 00017699
+ónenninn a 1 0 1 0 00007631
+vikulegur a 1 2 = ^ 1 0 00011845
+belgingslegur a 1 1 & 1 0 00058398
+ómissandi a 1 1 ^ 1 0 00036524
+einfaldur a 1 0 1 0 00012756
+ofsalegur a 1 3 = ^ ! 1 0 00035257
+sem_gerist_sjálfkrafa a 1 0 1 0 00050462
+samofið a 1 1 ^ 1 0 00037845
+kartinn a 1 2 ^ & 1 0 00007465
+léttvægur a 1 0 1 0 00035718
+meiri a 1 1 = 1 0 00039818
+mannhættur a 1 0 1 0 00050185
+févana a 1 0 1 0 00006488
+samur a 2 1 ^ 2 0 00053160 00064044
+andstæður a 1 0 1 0 00003006
+hitabeltis- a 1 0 1 0 00062702
+yfirgnæfandi a 1 1 ^ 1 0 00030481
+æsandi a 1 2 = ^ 1 0 00060925
+talhlýðinn a 1 1 ! 1 0 00040751
+geðslegur a 2 2 ^ & 2 0 00000857 00018766
+sprækur a 1 2 ^ ! 1 0 00031523
+þráfelldur a 1 0 1 0 00024255
+gegnheill a 1 0 1 0 00019301
+fullbúinn a 2 2 = ^ 2 0 00031057 00037743
+gangfræðilegur a 1 0 1 0 00003963
+skýr a 3 3 ! ^ & 3 0 00001890 00003220 00008289
+skyndilegur a 1 1 ! 1 0 00013173
+normal a 1 2 ^ ! 1 0 00044842
+samræmur a 1 0 1 0 00011647
+alúðlegur a 2 2 ^ ! 2 0 00027830 00055681
+varmur a 2 3 = ^ ! 2 0 00011500 00032637
+vandmeðfarinn a 2 2 = ^ 2 0 00015400 00034386
+fátíður a 1 0 1 0 00039400
+fullkomlegur a 1 1 ! 1 0 00033466
+aðlaðandi a 3 3 ! ^ & 3 0 00000319 00018766 00056085
+sífelldur a 2 2 ^ & 2 0 00004030 00041696
+ljúfur a 2 2 ^ ! 2 0 00035623 00055681
+lögmætur a 2 2 ^ ! 2 0 00002092 00005040
+ódeigur a 1 1 ! 1 0 00027497
+ærlegur a 2 1 ^ 2 0 00033165 00056746
+jafn a 5 2 ^ ! 5 0 00031864 00036461 00053160 00053318 00064044
+seinn a 1 0 1 0 00029833
+hlutlægur a 1 1 ! 1 0 00000741
+fallegur a 2 3 ^ ! & 2 0 00000319 00053715
+skreipur a 1 1 ^ 1 0 00045358
+fernings- a 1 1 ! 1 0 00030822
+þreyttur a 1 0 1 0 00037118
+þægilegur a 2 2 = ^ 2 0 00050617 00055681
+heimslegur a 1 2 ! & 1 0 00016308
+hrekklaus a 1 0 1 0 00001391
+langur a 3 3 = ^ ! 3 0 00015019 00025296 00034051
+húsnæðis- a 1 0 1 0 00061987
+vorkunnsamur a 2 1 ^ 2 0 00022922 00045113
+vélrænn a 1 0 1 0 00009334
+mælskur a 1 0 1 0 00011019
+skæður a 2 2 ^ ! 2 0 00003691 00032744
+víðfaðma a 1 2 ^ & 1 0 00021659
+hóflegur a 1 0 1 0 00040011
+markverður a 1 1 ^ 1 0 00013668
+einarður a 2 0 2 0 00006248 00015755
+þjóðernislegur a 1 1 & 1 0 00028412
+geðþóttalegur a 1 0 1 0 00002193
+venslaður a 1 0 1 0 00043069
+árangursríkur a 1 0 1 0 00051095
+segul- a 1 0 1 0 00061934
+tyrfinn a 1 0 1 0 00017699
+skammsýnn a 1 2 ^ & 1 0 00019932
+dýrkeyptur a 1 2 ^ ! 1 0 00036200
+játandi a 1 1 ! 1 0 00050349
+ótíma- a 1 1 & 1 0 00010390
+sjálfkrafa a 2 2 ^ ! 2 0 00043420 00050462
+herfilegur a 2 3 ^ ! & 2 0 00028279 00060384
+þakksamur a 1 0 1 0 00029300
+ár a 1 2 ^ & 1 0 00051519
+óhikandi a 1 0 1 0 00006248
+hryllilegur a 1 0 1 0 00060384
+sammála a 1 0 1 0 00032183
+algengur a 4 2 ^ ! 4 0 00022202 00024255 00053419 00057336
+búskaparlegur a 1 0 1 0 00062466
+vonglaður a 1 0 1 0 00060115
+trúr a 2 1 = 2 0 00011800 00026668
+öflugur a 1 1 ^ 1 0 00054153
+nýr a 2 2 = ^ 2 0 00039197 00060168
+hæsta_stig a 1 1 ! 1 0 00013754
+siðprúður a 1 0 1 0 00061189
+ótímabær a 3 2 ! & 3 0 00010390 00041305 00043895
+í_nánd a 1 2 = ! 1 0 00012042
+sundurleitur a 2 1 = 2 0 00008197 00026857
+hvatorður a 1 0 1 0 00025886
+jákvæður a 2 1 ! 2 0 00050349 00053826
+skaðsamur a 1 1 ! 1 0 00003691
+alþýða a 1 0 1 0 00036311
+frakkur a 2 2 ^ & 2 0 00007465 00034886
+errinn a 2 2 ^ ! 2 0 00038159 00056262
+endingargóður a 1 3 ^ ! & 1 0 00035360
+metnaðargjarn a 1 1 = 1 0 00040193
+raunsær a 1 2 ^ & 1 0 00023297
+afundinn a 2 2 ^ ! 2 0 00038159 00056262
+liðugur a 1 0 1 0 00024406
+gagnkvæmur a 1 0 1 0 00020738
+frítt a 1 0 1 0 00059264
+staðfastlegur a 2 1 ^ 2 0 00013331 00050256
+trauður a 1 2 = ! 1 0 00059530
+napur a 1 3 = ^ ! 1 0 00058051
+áleitinn a 2 2 ^ & 2 0 00007465 00052894
+nafnlaus a 1 0 1 0 00053588
+ítarlegur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+óhlutlægur a 1 1 ! 1 0 00008688
+rímannlegur a 1 1 ^ 1 0 00041154
+sjálfviljugur a 1 1 ^ 1 0 00011203
+silakeppslegur a 1 0 1 0 00029833
+siðfræðilegur a 1 0 1 0 00046696
+vinstri a 1 1 ^ 1 0 00038300
+ósanngjarn a 1 2 ^ ! 1 0 00033826
+heimspekilegur a 2 1 ^ 2 0 00022792 00063000
+tornæmur a 1 0 1 0 00004881
+fagurmáll a 1 0 1 0 00061189
+vingóður a 1 0 1 0 00052496
+daufur a 1 0 1 0 00013823
+hýr a 1 1 ^ 1 0 00055681
+harðsvíraður a 1 1 ! 1 0 00027497
+sniðugur a 1 1 ^ 1 0 00024615
+samþáttað a 1 1 ^ 1 0 00037845
+þriflegur a 2 3 ! ^ & 2 0 00000857 00013999
+aðgerðalaus a 1 0 1 0 00002872
+heimilis- a 1 0 1 0 00063505
+göfuglyndur a 1 0 1 0 00059465
+siðrænn a 1 1 & 1 0 00022491
+concerned_with_concrete_problems_or_data a 1 0 1 0 00023665
+lágur a 2 1 ! 2 0 00027366 00032456
+seinförull a 1 0 1 0 00029833
+pestkynjaður a 1 1 ! 1 0 00003691
+kitlandi a 1 2 = ^ 1 0 00060925
+pattaralegur a 1 3 ^ ! & 1 0 00013999
+skipulagður a 1 1 ^ 1 0 00049549
+ofurseldur a 1 0 1 0 00019014
+spordrjúgur a 1 2 = ! 1 0 00025296
+líflegur a 1 2 ^ ! 1 0 00031523
+staðbundinn a 1 0 1 0 00062603
+bersögull a 1 0 1 0 00015755
+saddur a 1 0 1 0 00023083
+skarpur a 1 1 ! 1 0 00061747
+annarlegur a 3 2 ! & 3 0 00006134 00018888 00051812
+aðskilinn a 1 2 ^ ! 1 0 00028492
+fullkominn a 2 2 ^ ! 2 0 00030144 00033466
+útfarinn a 1 1 ^ 1 0 00049304
+ófallvaltur a 1 0 1 0 00044420
+óþarfur a 1 1 ! 1 0 00019512
+ófullnægjandi a 2 2 ! & 2 0 00021415 00060627
+eftirgjaldlaust a 1 0 1 0 00059264
+ólíkur a 2 0 2 0 00026857 00054079
+barnshafandi a 1 0 1 0 00034960
+innanvert a 1 1 ! 1 0 00052690
+grunnhygginn a 2 0 2 0 00012756 00048712
+djúpvitur a 1 1 ! 1 0 00021119
+góðlyndur a 1 2 = ! 1 0 00030715
+eðlilegur a 1 2 ^ ! 1 0 00044842
+megnugur a 2 3 = ^ & 2 0 00020357 00033539
+vinalegur a 1 1 ^ 1 0 00055681
+strangur a 1 0 1 0 00057894
+töfrandi a 1 1 & 1 0 00036083
+opinn a 2 1 ^ 2 0 00028845 00055436
+fælinn a 1 0 1 0 00038777
+unaðsfagur a 1 1 & 1 0 00036083
+illa_stæður a 1 0 1 0 00006488
+ylgja a 1 2 = ! 1 0 00008078
+gallalaus a 1 0 1 0 00042442
+smálegur a 1 1 & 1 0 00010207
+hnattrænn a 1 1 & 1 0 00012345
+bjartur_á_hár a 1 0 1 0 00010130
+spilaður a 1 3 ^ ! & 1 0 00013999
+týpískur a 1 1 ^ 1 0 00023010
+lélegur a 1 0 1 0 00032859
+hættur_störfum_sökum_aldurs a 1 0 1 0 00009490
+altækur a 1 1 ^ 1 0 00052026
+samkeppnishæfur a 1 0 1 0 00008894
+akfeitur a 1 1 & 1 0 00022112
+formfastur a 2 1 ^ 2 0 00008360 00011716
+þjóðfélagsbyltingar- a 1 0 1 0 00019064
+iðulegur a 1 0 1 0 00024255
+sígildur a 1 0 1 0 00028646
+staðlaus a 2 2 = ! 2 0 00009844 00019672
+nennulaus a 1 0 1 0 00007631
+hversdagslegur a 3 2 ^ ! 3 0 00013942 00022202 00057336
+rótgróinn a 1 0 1 0 00035013
+sagnfræðilegur a 1 0 1 0 00043610
+óskýr a 2 1 ! 2 0 00013018 00032578
+sem_koma_skal a 1 1 ! 1 0 00025627
+margfaldur a 1 0 1 0 00043669
+forkunnarfagur a 1 1 & 1 0 00036083
+torskilinn a 1 0 1 0 00017699
+lasburða a 1 2 = ^ 1 0 00011845
+flónskulegur a 1 1 ! 1 0 00006819
+fínn a 1 3 = ^ ! 1 0 00028730
+vandfýsa a 1 2 ^ & 1 0 00014562
+hliðstæður a 1 1 ^ 1 0 00059187
+flónskur a 1 1 ! 1 0 00006819
+tilgengilegur a 1 1 ^ 1 0 00017490
+yearly a 1 0 1 0 00050761
+víxlverkandi a 1 0 1 0 00054996
+bitlítill a 1 1 ! 1 0 00029728
+spaugilegur a 1 0 1 0 00036815
+daufeggjaður a 1 1 ! 1 0 00029728
+nálægur a 4 3 = ! & 4 0 00012042 00025627 00034741 00047851
+allverulegur a 1 1 ^ 1 0 00054529
+torsóttur a 1 2 = ! 1 0 00059530
+stór- a 1 1 & 1 0 00021002
+bókstaflegur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+máttlaus a 1 1 & 1 0 00059865
+þéttur a 1 0 1 0 00002343
+upptekinn a 1 0 1 0 00004315
+fjarski a 2 3 = ^ ! 2 0 00034112 00044254
+samrýmanlegur a 1 0 1 0 00011647
+ófrísk a 1 0 1 0 00034960
+eftirvæntingarfullur a 1 0 1 0 00019415
+nettlegur a 1 2 = ^ 1 0 00010871
+loka- a 1 0 1 0 00033778
+sjaldheyrður a 1 0 1 0 00039400
+heiðarlegur a 3 1 ^ 3 0 00001391 00050528 00056746
+kvalafullur a 1 0 1 0 00054930
+meinafullur a 1 1 ! 1 0 00003691
+hrokamikill a 1 1 & 1 0 00058398
+hryggilegur a 1 0 1 0 00049901
+uppvaxandi a 1 0 1 0 00041904
+fornleifafræðilegur a 1 0 1 0 00064514
+hljóður a 1 1 ^ 1 0 00030080
+þurfugur a 1 0 1 0 00006488
+vanafastur a 1 3 = ^ ! 1 0 00040289
+fágæfur a 1 0 1 0 00039400
+bjálfalegur a 1 1 ! 1 0 00006819
+óþægilegur a 3 2 ^ ! 3 0 00038159 00049622 00056262
+megindlegur a 1 0 1 0 00063450
+purkunarsamur a 2 2 = ^ 2 0 00015400 00034386
+á_næstu_grösum a 1 2 = ! 1 0 00012042
+byrstur a 2 3 = ^ ! 2 0 00000610 00050761
+gerræðisfullur a 1 1 ^ 1 0 00060716
+ratalegur a 1 1 ! 1 0 00006819
+útlendur a 1 0 1 0 00033310
+happadrjúgur a 1 0 1 0 00012480
+viðurkvæmlegur a 1 1 ! 1 0 00041399
+frjálshuga a 1 3 = ^ ! 1 0 00017237
+afskaplegur a 1 1 & 1 0 00038930
+undurfallegur a 1 1 & 1 0 00036083
+að_niðurlotum_kominn a 1 0 1 0 00037118
+leiðinlegur a 1 1 ! 1 0 00051247
+ellihniginn a 1 2 = ^ 1 0 00042494
+síðari a 1 0 1 0 00055383
+stæltur a 1 1 ^ 1 0 00054153
+endanlegur a 1 0 1 0 00033778
+þröngur a 3 4 = ^ ! & 3 0 00005175 00019932 00053882
+andhælislegur a 1 1 ! 1 0 00006819
+blíðlyndur a 1 1 ^ 1 0 00055681
+einmanalegur a 1 0 1 0 00025009
+harður a 5 2 ^ ! 5 0 00003691 00006248 00018584 00027497 00057894
+lygilegur a 2 2 = & 2 0 00002239 00048855
+frumlægur a 3 3 = ^ ! 3 0 00008688 00032255 00050349
+harðráður a 1 0 1 0 00057894
+smágerður a 1 2 = ^ 1 0 00010871
+hlutafélags- a 1 0 1 0 00063827
+væta a 1 2 = ! 1 0 00008078
+landlægur a 1 3 ^ ! & 1 0 00035360
+ylvolgur a 1 3 = ^ ! 1 0 00011500
+risavaxinn a 1 1 & 1 0 00038930
+innanstokks a 1 1 ! 1 0 00050971
+gamlaður a 1 2 = ^ 1 0 00042494
+einstæður a 2 1 & 2 0 00025009 00059969
+erfður a 1 0 1 0 00035013
+holdmikill a 1 3 ^ ! & 1 0 00013999
+gætinn a 1 1 ^ 1 0 00026153
+óvita a 1 1 ! 1 0 00045274
+dagstæður a 1 1 & 1 0 00000319
+óheimill a 1 2 ! & 1 0 00055519
+grafalvarlegur a 1 0 1 0 00010010
+dyggilegur a 1 1 = 1 0 00026668
+áhyggjufullur a 1 1 ^ 1 0 00023404
+arfhelgaður a 1 0 1 0 00035013
+uppstökkur a 2 2 = ^ 2 0 00015400 00034386
+þrekaður a 1 0 1 0 00037118
+sérkennilegur a 1 1 & 1 0 00006134
+feitlaginn a 1 3 ^ ! & 1 0 00013999
+garralegur a 1 3 = ^ ! 1 0 00045823
+örmagna a 1 0 1 0 00037118
+móður a 1 0 1 0 00037118
+óhlífinn a 1 0 1 0 00057894
+lögur a 1 2 = ! 1 0 00008078
+smáfelldur a 1 2 = ^ 1 0 00010871
+bíræfinn a 1 2 ^ & 1 0 00007465
+hvítur a 2 2 ^ ! 2 0 00001809 00047814
+óskarpur a 1 1 ! 1 0 00029728
+einlægur a 1 0 1 0 00015755
+aðfinnslusamur a 1 0 1 0 00050688
+hvíldarlaus a 1 0 1 0 00045717
+sjálfráður a 1 2 = ^ 1 0 00004131
+ókennilegur a 1 1 & 1 0 00051812
+bugðulaus a 1 0 1 0 00018688
+handgóður a 1 1 ^ 1 0 00054153
+opinspjallur a 1 0 1 0 00015755
+skrafhreifinn a 1 0 1 0 00038092
+hrífandi a 1 2 = ^ 1 0 00060925
+lýðræðislegur a 1 0 1 0 00008492
+heiður a 1 0 1 0 00030670
+illræmdur a 1 0 1 0 00052197
+andkaldur a 1 3 = ^ ! 1 0 00058051
+billegur a 1 1 ! 1 0 00013498
+öndverðlega a 1 2 ^ & 1 0 00051519
+snuðrinn a 1 2 ^ ! 1 0 00016925
+fallbeinn a 1 3 = ^ ! 1 0 00023189
+realitískur a 1 2 ^ & 1 0 00023297
+utarlegur a 1 1 ^ 1 0 00036390
+vesall a 1 0 1 0 00006488
+mólekúl- a 1 1 ;c 1 0 00052822
+kynjafullur a 1 1 & 1 0 00051812
+ónógur a 2 2 ! & 2 0 00021415 00060627
+yfirgripsmikill a 1 2 ^ & 1 0 00021659
+almennings- a 2 1 ^ 2 0 00011295 00052026
+haldgóður a 1 0 1 0 00044420
+virðulegur a 1 0 1 0 00028946
+arftekinn a 1 0 1 0 00035013
+tiltækur a 2 1 ^ 2 0 00017490 00024196
+gegn a 1 0 1 0 00018688
+spóalegur a 1 1 ! 1 0 00058686
+lamaður a 1 1 & 1 0 00059865
+dugandi a 1 1 ^ 1 0 00029354
+lama a 1 1 & 1 0 00059865
+afkastamikill a 1 1 ^ 1 0 00021863
+hógvær a 1 0 1 0 00040011
+drjúgur a 2 3 ^ ! & 2 0 00035360 00054529
+örðugur a 1 2 = ! 1 0 00059530
+einn a 1 0 1 0 00025009
+kurteis a 2 1 ^ 2 0 00026790 00061189
+annar a 1 1 ^ 1 0 00039930
+grimmur a 2 0 2 0 00040074 00052442
+samsíða a 1 1 ^ 1 0 00017630
+glænýr a 1 1 ^ 1 0 00039197
+blindur a 1 1 & 1 0 00035993
+einkennandi a 1 1 ^ 1 0 00003150
+krokulegur a 1 2 = ^ 1 0 00011845
+amalyndur a 1 0 1 0 00036680
+brösóttur a 1 2 = ! 1 0 00059530
+meðvitaður a 1 1 ^ 1 0 00029017
+veraldarvanur a 1 1 ^ 1 0 00049304
+ankringislegur a 1 1 & 1 0 00051812
+fjölbýlis- a 1 0 1 0 00063986
+fullur_ákafa a 1 1 ^ 1 0 00018360
+segulmagnaður a 1 0 1 0 00061934
+viðstaddur a 1 2 = ! 1 0 00034741
+svangur a 1 1 ! 1 0 00025383
+kjánalegur a 2 2 ! & 2 0 00006819 00051812
+hringlaga a 1 1 ! 1 0 00039125
+kringlóttur a 1 1 ! 1 0 00039125
+grandalaus a 1 0 1 0 00001391
+stoltur a 2 1 & 2 0 00043709 00058398
+opinskár a 2 1 ^ 2 0 00015755 00055436
+hagsýnn a 1 1 ^ 1 0 00024615
+óhreinsaður a 1 0 1 0 00013269
+frjálshugaður a 1 3 = ^ ! 1 0 00017237
+dasaður a 1 0 1 0 00037118
+tilgerðarlegur a 1 1 & 1 0 00046029
+harðger a 1 1 ! 1 0 00054743
+objektívur a 1 1 ! 1 0 00000741
+farsæll a 1 0 1 0 00051095
+tvísýnn a 1 1 = 1 0 00004792
+viðmiðaður a 1 1 ! 1 0 00049475
+alvarlegur a 2 1 = 2 0 00004792 00010010
+fjölfjóðlegur a 1 0 1 0 00014499
+blífanlegur a 1 3 ^ ! & 1 0 00035360
+getulaus a 1 1 & 1 0 00052368
+brjóstgóður a 1 0 1 0 00027080
+árásargjarn a 1 1 ^ 1 0 00052894
+sjaldhittur a 1 0 1 0 00039400
+stjórnsamur a 1 0 1 0 00057894
+risalegur a 1 1 & 1 0 00038930
+óskaddur a 1 2 = ^ 1 0 00057144
+fjárráða a 1 1 ;c 1 0 00014723
+óttasleginn a 1 1 = 1 0 00036878
+skaðsamlegur a 1 1 ! 1 0 00003691
+linur a 1 1 ! 1 0 00011437
+einkennilegur a 4 2 ! & 4 0 00006134 00018888 00027612 00051812
+nærverandi a 1 2 = ! 1 0 00034741
+hárlaus a 1 0 1 0 00017093
+eldri a 1 2 ^ ! 1 0 00033006
+sem_vera_ber a 1 2 ^ ! 1 0 00000432
+vandalítill a 1 1 ! 1 0 00056507
+sem_nauðsyn_ber_til a 1 1 ^ 1 0 00036524
+lífrænn a 1 0 1 0 00008553
+glæsilegur a 2 1 ^ 2 0 00030960 00033086
+glaðlyndur a 1 1 ^ 1 0 00058987
+á_verði a 1 1 ^ 1 0 00008592
+fáheyrður a 1 0 1 0 00039400
+innborinn a 2 0 2 0 00002016 00031709
+sjaldéður a 1 0 1 0 00039400
+þokkasæll a 1 0 1 0 00052496
+vissulegur a 1 1 = 1 0 00001520
+fæðingi a 2 0 2 0 00002016 00031709
+volgur a 1 3 = ^ ! 1 0 00011500
+eiginkvongaður a 1 1 ! 1 0 00003554
+fátækur a 1 0 1 0 00006488
+ákveðinn a 7 2 = ^ 7 0 00001520 00006248 00021310 00037566 00051736 00057894 00061131
+ótilheyrilegur a 1 2 ^ ! 1 0 00033826
+verslegur a 1 2 ! & 1 0 00016308
+sem_í_vændum_er a 1 1 ! 1 0 00025627
+gagntakandi a 1 2 = ^ 1 0 00060925
+slæptur a 1 0 1 0 00037118
+sneyptur a 1 0 1 0 00013578
+sjó- a 1 0 1 0 00063397
+smábrotinn a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+næmur a 2 2 = ^ 2 0 00015400 00034386
+eindreginn a 1 0 1 0 00006248
+ófyrirséður a 2 2 ^ ! 2 0 00009936 00033826
+glaður a 2 2 ^ ! 2 0 00021522 00023747
+séður a 1 1 ^ 1 0 00024615
+vaskur a 1 2 = ^ 1 0 00016200
+eiturblandinn a 1 0 1 0 00028891
+límkenndur a 1 0 1 0 00001190
+fjandalegur a 1 1 ^ 1 0 00014865
+éttlegur a 1 0 1 0 00002343
+skrifræðis- a 1 0 1 0 00062545
+skilvirkur a 2 1 ^ 2 0 00021863 00027929
+enda- a 1 1 ^ 1 0 00026539
+frjáls a 2 2 = ^ 2 0 00004131 00041101
+í_bítið a 1 2 ^ & 1 0 00051519
+eirinn a 1 1 ^ 1 0 00020099
+tilbúinn a 2 2 = ^ 2 0 00031057 00037743
+seigur a 1 1 ^ 1 0 00018584
+leikrænn a 1 0 1 0 00062339
+göfugur a 2 0 2 0 00055054 00059465
+fágaður a 3 1 ^ 3 0 00026790 00030960 00061189
+yngri a 1 1 ! 1 0 00022644
+framandlegur a 1 0 1 0 00033310
+ósoðinn a 1 0 1 0 00046373
+stórættaður a 1 0 1 0 00055054
+rökrænn a 1 1 ^ 1 0 00011089
+stuttur a 2 2 = ! 2 0 00032456 00047511
+happasæll a 1 0 1 0 00051095
+andrænn a 1 0 1 0 00043782
+langvinnur a 5 3 ! ^ & 5 0 00010670 00028057 00035360 00041696 00043225
+vitur a 1 1 ! 1 0 00021119
+fyrirtækis- a 1 0 1 0 00063827
+klár a 2 2 = ! 2 0 00014349 00031057
+staðlaður a 1 1 ^ 1 0 00004720
+nytjalaus a 1 1 ! 1 0 00019512
+hirtinn a 1 1 ^ 1 0 00000857
+afstæður a 1 1 ! 1 0 00049475
+rökréttur a 1 1 ^ 1 0 00011089
+háll a 1 1 ^ 1 0 00045358
+teknískur a 1 0 1 0 00063559
+sauðarlegur a 1 1 ! 1 0 00006819
+holdugur a 1 3 ^ ! & 1 0 00013999
+djúpúðugur a 1 1 ! 1 0 00021119
+núgildandi a 1 1 ^ 1 0 00012403
+álfu- a 1 0 1 0 00063118
+traustlegur a 1 0 1 0 00044420
+menningarlegur a 1 0 1 0 00063885
+geysistór a 1 1 & 1 0 00038930
+varfærinn a 1 1 ^ 1 0 00026153
+listfengur a 1 0 1 0 00063168
+venjubundinn a 1 0 1 0 00035013
+vanær a 1 1 & 1 0 00052368
+efnahagslegur a 1 0 1 0 00064378
+agalegur a 1 2 ^ ! 1 0 00001253
+hégómafullur a 1 1 & 1 0 00046029
+íhaldssamur a 1 3 = ^ ! 1 0 00040289
+skemmdur a 1 0 1 0 00043369
+vitandi a 1 0 1 0 00007920
+gulleitur a 1 0 1 0 00009793
+auðgefinn a 1 1 ! 1 0 00056507
+affarsæll a 1 0 1 0 00051095
+heppilegur a 1 0 1 0 00053252
+dapur a 1 0 1 0 00036680
+tilfinningasamu a 1 0 1 0 00007856
+töluverður a 2 1 ^ 2 0 00054529 00060814
+hæfilátur a 1 2 ^ ! 1 0 00002470
+kostulegur a 2 1 ! 2 0 00018888 00048335
+margbrotinn a 1 1 ^ 1 0 00056882
+fyrirstöðulaus a 1 2 = ^ 1 0 00004131
+að_þrotum_kominn a 1 0 1 0 00037118
+hæfileikamikill a 2 1 & 2 0 00025106 00031380
+seinastur a 1 0 1 0 00049231
+aftastur a 1 0 1 0 00049231
+sem_skiptir_máli a 1 1 ! 1 0 00041399
+elskulegur a 1 1 ^ 1 0 00055681
+boðlegur a 1 1 ^ 1 0 00045532
+gullarldar- a 1 0 1 0 00028646
+sæmilegur a 2 2 ^ ! 2 0 00041399 00045532
+rétt a 1 1 ^ 1 0 00028183
+ríkmannlegur a 1 1 ^ 1 0 00030481
+þver a 1 0 1 0 00010460
+óréttur a 2 2 = ! 2 0 00009844 00019672
+áþreifanlegur a 2 3 = ^ ! 2 0 00009610 00032255
+almennur a 5 2 ^ ! 5 0 00022202 00033979 00052026 00053419 00057336
+lerkaður a 1 0 1 0 00037118
+sléttur a 2 2 ^ ! 2 0 00031864 00036461
+smekklegur a 1 1 ^ 1 0 00030960
+uppbyggilegur a 1 1 ! 1 0 00050349
+krókalaus a 1 0 1 0 00018688
+aflmikill a 1 1 ^ 1 0 00054153
+amalegur a 2 1 ^ 2 0 00036680 00049622
+soltinn a 1 1 ! 1 0 00025383
+slyppur_og_snauður a 1 0 1 0 00006488
+hófsamur a 1 2 ^ ! 1 0 00002470
+nettvaxinn a 1 1 ! 1 0 00058686
+sjáanlegur a 1 1 ! 1 0 00033386
+beint a 1 0 1 0 00039270
+hlýlegur a 1 1 ^ 1 0 00055681
+innfæddur a 2 0 2 0 00002016 00031709
+skaddaður a 1 0 1 0 00043369
+ástugur a 1 1 ^ 1 0 00047721
+hár a 2 2 = ! 2 0 00018048 00034051
+forseta- a 1 0 1 0 00063767
+til_reiðu a 1 1 = 1 0 00031057
+xxxkvæntur a 1 1 ! 1 0 00003554
+háður a 2 1 ! 2 0 00019014 00040751
+einfeldningslegur a 1 0 1 0 00012756
+ótvílugur a 1 0 1 0 00006248
+amasamur a 1 2 = ! 1 0 00059530
+máttdreginn a 1 0 1 0 00037118
+gamalreyndur a 1 1 ^ 1 0 00049304
+hvatlegur a 1 2 ^ ! 1 0 00031523
+beygjulegur a 1 0 1 0 00051177
+gefins a 1 0 1 0 00059264
+almanna- a 1 1 ^ 1 0 00011295
+vandgæfur a 1 0 1 0 00039400
+hrufulaus a 1 2 ^ ! 1 0 00031864
+seinfær a 1 0 1 0 00029833
+leiður a 2 1 ! 2 0 00046533 00051247
+fálegur a 1 2 ^ ! 1 0 00056967
+taugaveiklaður a 2 1 ^ 2 0 00026539 00063677
+sem_verða_má a 1 1 = 1 0 00020357
+makráður a 1 0 1 0 00007631
+eins_og_vera_ber a 1 2 ^ ! 1 0 00000432
+altilbúinn a 1 1 = 1 0 00031057
+viðbótar- a 1 1 & 1 0 00037499
+tilkomumikill a 2 2 ^ & 2 0 00007275 00007388
+harðfengur a 1 1 ! 1 0 00054743
+gagnrýninn a 1 0 1 0 00050688
+spengilegur a 1 1 ! 1 0 00058686
+hégómagjarn a 1 1 & 1 0 00046029
+torfengur a 1 0 1 0 00039400
+vel_tilhafður a 1 1 ^ 1 0 00000857
+þunglegur a 1 2 = ! 1 0 00059530
+upphaflegur a 1 1 ^ 1 0 00045021
+innanlands- a 1 0 1 0 00057703
+hátalaður a 1 3 = ^ ! 1 0 00045823
+tálmunarlaus a 1 2 = ^ 1 0 00004131
+viðurkvæmilegur a 1 2 ^ ! 1 0 00000432
+hamrammur a 1 1 ^ 1 0 00054153
+vingjarnlegur a 2 3 ! ^ & 2 0 00055681 00056085
+ætlaður_fáum_úvöldum a 1 0 1 0 00048543
+þroskaður a 2 3 = ^ ! 2 0 00026027 00047392
+einskisnýtur a 1 1 ! 1 0 00019512
+aðgætinn a 1 1 ^ 1 0 00030311
+geðfelldur a 2 3 ^ ! & 2 0 00022922 00056085
+múttulegur a 1 1 = 1 0 00020357
+nýtískulegur a 1 0 1 0 00041588
+meinsamlegur a 1 1 ! 1 0 00003691
+óaðfinnanlegr a 1 1 ^ 1 0 00030144
+saklaus a 1 0 1 0 00001391
+ljótur a 1 3 ^ ! & 1 0 00028279
+sóðalegur a 1 1 ! 1 0 00031276
+ríkulegur a 1 1 ^ 1 0 00030481
+langvarandi a 1 1 ^ 1 0 00010670
+arfgengur a 1 0 1 0 00035013
+vinfastur a 1 1 = 1 0 00026668
+nöturlegur a 2 3 = ^ ! 2 0 00049901 00058051
+atvinnu- a 2 0 2 0 00062952 00064153
+handhægur a 2 3 ! ^ & 2 0 00046796 00056507
+eirðarlaus a 1 0 1 0 00045717
+skyldur a 1 0 1 0 00014283
+hjálplegur a 1 1 ^ 1 0 00003382
+ganglaus a 1 0 1 0 00029833
+þóttalegur a 1 1 & 1 0 00058398
+veill a 1 2 = ^ 1 0 00011845
+litríkur a 1 0 1 0 00030029
+hvetjandi a 1 1 ^ 1 0 00056439
+sýrður a 1 2 ^ ! 1 0 00020820
+meðfærilegur a 1 2 ^ & 1 0 00046796
+vandlegur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+áhrifamikill a 3 2 = ^ 3 0 00023985 00025810 00060925
+ýfinn a 2 2 = ^ 2 0 00015400 00034386
+álfalegur a 1 1 ! 1 0 00006819
+skínandi a 1 0 1 0 00001057
+glópskulegur a 1 1 ! 1 0 00006819
+starfs- a 3 0 3 0 00062417 00062952 00064153
+lóðréttur a 1 3 = ^ ! 1 0 00023189
+negatívur a 1 0 1 0 00043782
+fastur a 2 3 = ^ ! 2 0 00005750 00006248
+hrokafullur a 1 1 & 1 0 00058398
+fornfræðilegur a 1 0 1 0 00064514
+silkimjúkur a 1 2 ^ ! 1 0 00031864
+ofstopafullur a 1 1 & 1 0 00058398
+frír a 1 2 = ^ 1 0 00004131
+felmtsfullur a 1 1 = 1 0 00036878
+tengdur a 1 0 1 0 00043069
+ráðdeildarsamur a 1 1 ^ 1 0 00024615
+viðbundinn a 1 0 1 0 00004315
+hentugur a 1 2 ^ & 1 0 00046796
+óáfengur a 1 0 1 0 00059825
+pósitífur a 1 1 ! 1 0 00050349
+ómóttækilegur a 1 0 1 0 00004881
+grunnur a 2 1 ! 2 0 00005354 00048712
+nýtísku- a 1 1 ^ 1 0 00039730
+hálfvitalegur a 1 1 ! 1 0 00006819
+búhygginn a 1 1 ^ 1 0 00024615
+verðmikill a 1 2 ^ ! 1 0 00036200
+arfbundinn a 1 0 1 0 00035013
+orða- a 1 0 1 0 00043021
+yfirgænfanlegur a 1 1 ^ 1 0 00030481
+innanhandar a 1 1 & 1 0 00047851
+heilagur a 2 1 ^ 2 0 00025562 00055274
+ilmandi a 1 0 1 0 00017443
+dýr a 1 2 ^ ! 1 0 00036200
+byltingar- a 1 0 1 0 00019064
+happsamur a 1 0 1 0 00012480
+útenginn;_gefinxxx a 1 1 ! 1 0 00003554
+fjarstæður a 1 1 & 1 0 00051812
+smásálarlegur a 1 1 & 1 0 00010207
+stanslaus a 2 2 ^ & 2 0 00004030 00041696
+skilbrúnn a 1 0 1 0 00057833
+línulegur a 1 0 1 0 00022882
+fáskiptinn a 1 0 1 0 00021797
+kvongaður a 1 1 ! 1 0 00003554
+fákænn a 2 0 2 0 00012756 00038825
+veikur a 1 2 ! & 1 0 00048991
+raunréttur a 1 2 = ^ 1 0 00032255
+greinilegur a 2 3 ! ^ & 2 0 00001890 00003220
+mögulegur a 1 1 = 1 0 00020357
+þunskilinn a 1 0 1 0 00017699
+sorgmæddur a 1 1 ! 1 0 00046533
+utan_við_efnið a 1 1 ! 1 0 00042362
+efnalaus a 1 0 1 0 00006488
+raunvísindalegur a 1 0 1 0 00057631
+mjúkur a 3 2 ^ ! 3 0 00011437 00043566 00055681
+ófrjáls a 1 1 ! 1 0 00040751
+sjávar- a 1 0 1 0 00063397
+hrjúfur a 1 2 ^ ! 1 0 00004530
+dæmalaus a 2 0 2 0 00018109 00039400
+aldæla a 1 1 ! 1 0 00056507
+nógur a 3 2 ^ ! 3 0 00002930 00024512 00030481
+siðlátur a 1 0 1 0 00061189
+óalgengur a 1 0 1 0 00039400
+vitlaus a 3 2 = ! 3 0 00009844 00019672 00045274
+nýmóðins a 1 0 1 0 00041588
+andlegur a 1 1 ^ 1 0 00037845
+frískur a 1 3 = ^ ! 1 0 00000610
+skapandi a 1 0 1 0 00028597
+sósíalískur a 1 1 ^ 1 0 00001658
+nákvæmur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+mannlegur a 1 0 1 0 00062743
+æðri a 2 3 = ^ ! 2 0 00033006 00039818
+bjartsýnn a 1 0 1 0 00060115
+þrautseigur a 2 1 ^ 2 0 00018584 00020099
+viðsjáll a 1 2 ^ ! 1 0 00032744
+fyrstur a 1 1 ^ 1 0 00023506
+sóknar- a 1 1 ^ 1 0 00040665
+þögull a 1 2 ^ ! 1 0 00017841
+prúðbúinn a 1 1 ^ 1 0 00000857
+skriffinsku- a 1 0 1 0 00062545
+tilþrifalaus a 1 0 1 0 00011365
+önnum_kafinn a 1 0 1 0 00004315
+þakklátur a 1 0 1 0 00029300
+sem_kemur_til_mála a 1 1 = 1 0 00020357
+landsbyggðar- a 1 0 1 0 00063283
+votur a 1 2 ! & 1 0 00029105
+ókunnur a 1 0 1 0 00033310
+þungsóttur a 1 2 = ! 1 0 00059530
+vandræðalegur a 1 1 ^ 1 0 00055211
+afrdráttarlaus a 1 0 1 0 00006248
+bragðlaus a 1 0 1 0 00011365
+ótíður a 1 0 1 0 00039400
+stöðugur a 5 2 ^ & 5 0 00004030 00013331 00027271 00041696 00050256
+sem_er_á_milli a 1 0 1 0 00048801
+tímabundinn a 2 1 ! 2 0 00004315 00031451
+her- a 1 0 1 0 00061875
+kvenlegur a 1 0 1 0 00055321
+rúm- a 1 0 1 0 00023890
+ástsæll a 1 0 1 0 00052496
+hraustur a 1 1 ! 1 0 00054743
+kominn_á_efri_ár a 1 2 = ^ 1 0 00042494
+ósjáandi a 1 1 & 1 0 00035993
+saknæmur a 1 1 ! 1 0 00003691
+verðlítill a 1 1 ! 1 0 00013498
+sjálfboða a 1 1 ^ 1 0 00011203
+lögfræðilegur a 1 1 ! 1 0 00002092
+áhrifaríkur a 2 2 = ^ 2 0 00027929 00060925
+einfeldnislegur a 1 0 1 0 00012756
+litblindur a 1 1 & 1 0 00041846
+dómharður a 1 0 1 0 00050688
+reiðubúinn a 1 1 = 1 0 00031057
+varkár a 1 1 ^ 1 0 00026153
+alþýðlegur a 2 2 ^ ! 2 0 00022202 00057336
+til_frambúðar a 1 3 ^ ! & 1 0 00035360
+svifaseinn a 1 0 1 0 00029833
+sjón- a 1 0 1 0 00062793
+taugasnæmur a 2 2 = ^ 2 0 00015400 00034386
+vinsamlegur a 1 1 ^ 1 0 00055681
+öndverður a 2 1 ^ 2 0 00003006 00014865
+fullnægjandi a 1 2 ^ ! 1 0 00024512
+skaðvænlegur a 1 1 ! 1 0 00003691
+snemmendis a 1 2 ^ & 1 0 00051519
+ráðvandur a 2 1 ^ 2 0 00050528 00056746
+óskemmdur a 1 0 1 0 00042442
+ósvífinn a 1 2 ^ & 1 0 00007465
+ólmur a 2 0 2 0 00049838 00056683
+hniginn_að_aldri a 1 2 = ^ 1 0 00042494
+tæpitungulaus a 1 0 1 0 00025886
+frá a 1 0 1 0 00037118
+umdeilanlegur a 1 0 1 0 00018305
+vinmargur a 1 0 1 0 00052496
+ókvæntur a 1 1 ! 1 0 00049984
+sýkn a 1 0 1 0 00001391
+talsverður a 2 1 ^ 2 0 00054529 00060814
+ójafn a 1 0 1 0 00054079
+hleypidómalaus a 1 1 ^ 1 0 00045113
+formlegur a 1 0 1 0 00008360
+verslunar- a 1 1 = 1 0 00016128
+hugrænn a 1 1 ! 1 0 00008688
+stór a 2 3 = ! & 2 0 00009401 00048163
+hæfugr a 1 1 ^ 1 0 00029479
+ríkur a 1 1 ^ 1 0 00041154
+spakur a 1 1 ! 1 0 00021119
+tilvalinn a 1 0 1 0 00053252
+spekingslegur a 2 1 ^ 2 0 00022792 00063000
+lífshættulegur a 2 1 = 2 0 00004792 00050185
+andvígur a 1 0 1 0 00003006
+samvinnuþýður a 1 1 ^ 1 0 00052626
+álfslegur a 1 1 ! 1 0 00006819
+óskiptur a 1 2 = ^ 1 0 00057144
+torgætur a 1 0 1 0 00039400
+myndandi a 1 0 1 0 00028597
+tiltalslegur a 1 0 1 0 00004419
+kostavandur a 1 2 ^ & 1 0 00014562
+ódæll a 1 0 1 0 00056683
+gerlegur a 1 1 = 1 0 00020357
+firð a 2 3 = ^ ! 2 0 00034112 00044254
+þrjóskur a 1 0 1 0 00010460
+með_skalla a 1 0 1 0 00017093
+greindur a 1 1 ! 1 0 00021119
+ósýnilegur a 1 1 ! 1 0 00018421
+lipur a 2 1 & 2 0 00018523 00024406
+vísindalegur a 1 0 1 0 00046987
+flytjanlegur a 1 0 1 0 00029186
+eftirtakanlegur a 1 0 1 0 00027612
+látprúður a 1 0 1 0 00061189
+jarðlegur a 1 2 ! & 1 0 00016308
+hégómlegur a 1 1 & 1 0 00046029
+erfðafræðis- a 1 0 1 0 00063352
+þolinmóður a 2 1 ^ 2 0 00020099 00045113
+fagur a 2 3 ^ ! & 2 0 00033086 00053715
+álíka a 1 0 1 0 00005479
+miðaldar- a 1 0 1 0 00064113
+óskertur a 1 2 = ^ 1 0 00057144
+vandvirkur a 1 1 ^ 1 0 00026153
+bálreiður a 1 0 1 0 00050761
+heyrnarlaus a 1 0 1 0 00013823
+minnisstæður a 1 0 1 0 00005858
+nýstárlegur a 2 2 = ^ 2 0 00039400 00060168
+ljómandi a 1 0 1 0 00001057
+fagurfræðilegur a 1 0 1 0 00057572
+trúfastur a 1 1 = 1 0 00026668
+vel_máli_farinn a 1 0 1 0 00011019
+skammur a 1 2 = ! 1 0 00047511
+fáséður a 1 0 1 0 00039400
+félagslyndur a 1 2 ;c ^ 1 0 00022697
+torveldur a 1 2 = ! 1 0 00059530
+vakandi_fyrir a 1 0 1 0 00007920
+ferskeyttur a 1 1 ! 1 0 00030822
+friðsamlegur a 1 1 ^ 1 0 00042132
+torræður a 1 0 1 0 00017699
+framkvæmdalítill a 1 0 1 0 00007631
+gjaldfallinn a 1 0 1 0 00046491
+rakalaus a 1 1 ! 1 0 00017160
+tíður a 4 2 ^ ! 4 0 00022202 00024255 00052496 00057336
+lítilmannlegur a 1 1 & 1 0 00010207
+siðspilltur a 1 0 1 0 00040074
+auðveldur a 3 3 ! ^ & 3 0 00017490 00046796 00056507
+hiklaus a 1 0 1 0 00006248
+afskræmdur a 1 1 & 1 0 00022491
+hefðhelgaður a 1 0 1 0 00035013
+reyndur a 2 1 ^ 2 0 00004950 00049304
+þagmælskur a 1 0 1 0 00034309
+grófgerður a 1 2 ^ ! 1 0 00004530
+aldurhniginn a 1 2 = ^ 1 0 00042494
+þjóðlegur a 2 1 & 2 0 00028412 00064472
+massívur a 1 0 1 0 00019301
+munnlegur a 2 0 2 0 00023150 00043021
+smáger a 1 2 = ^ 1 0 00010871
+árásar- a 1 1 ^ 1 0 00040665
+máttvana a 1 1 & 1 0 00059865
+sjálfstæður a 1 2 ^ ! 1 0 00040975
+auðséður a 1 0 1 0 00008289
+apur a 1 0 1 0 00019146
+þrásamur a 2 1 ! 2 0 00028057 00043225
+sjálfvirkur a 2 2 ^ ! 2 0 00009334 00043420
+tæknilegur a 1 0 1 0 00063559
+alræmdur a 1 0 1 0 00052197
+fullþroska a 2 3 = ^ ! 2 0 00026027 00047392
+fullgerður a 1 1 ^ 1 0 00037743
+ónefndur a 1 0 1 0 00053588
+viðbrigðinn a 2 2 = ^ 2 0 00015400 00034386
+umtalsverður a 2 1 ^ 2 0 00054529 00060814
+framsýnn a 1 1 ^ 1 0 00024615
+spikaður a 1 1 & 1 0 00022112
+tilfinningalegur a 1 0 1 0 00007856
+viðeigandi a 2 2 ^ ! 2 0 00000432 00041399
+villtur a 1 0 1 0 00049838
+jússulegur a 1 3 ^ ! & 1 0 00013999
+raunverulegur a 1 2 = ^ 1 0 00032255
+burðastór a 1 1 ^ 1 0 00054153
+miðstéttar a 1 1 = 1 0 00020297
+láglendur a 1 0 1 0 00027366
+felmsfullur a 1 1 = 1 0 00036878
+heimsálfu- a 1 0 1 0 00063118
+snögglegur a 1 1 ! 1 0 00013173
+heiftugur a 1 0 1 0 00050761
+háttvís a 2 0 2 0 00026100 00061189
+forn a 1 2 = ^ 1 0 00042494
+kominn_til_ára_sinna a 1 2 = ^ 1 0 00042494
+lundþungur a 1 0 1 0 00036680
+fær_um a 1 1 ^ 1 0 00061561
+spaklegur a 1 1 ! 1 0 00021119
+grandvar a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+burðasterkur a 1 1 ^ 1 0 00054153
+magnaður a 1 0 1 0 00033254
+fálkalegur a 1 1 ! 1 0 00006819
+umburðarlyndur a 2 1 ^ 2 0 00020099 00045113
+hirðulaus a 1 1 & 1 0 00016794
+óréttmætur a 2 3 ^ ! & 2 0 00033826 00055519
+tiginborinn a 1 0 1 0 00055054
+kleifur a 1 1 = 1 0 00020357
+sársaukafullur a 1 0 1 0 00054930
+fáfróður a 1 0 1 0 00038825
+ófeilinn a 1 2 ^ & 1 0 00007465
+innanríkis- a 1 0 1 0 00057703
+opinber a 2 1 ^ 2 0 00043858 00052026
+taugaóstyrkur a 2 1 ^ 2 0 00026539 00063677
+aumur a 1 0 1 0 00006488
+auðtrúa a 1 0 1 0 00012756
+tilhlýðilegur a 1 2 ^ ! 1 0 00000432
+fjölskyldu- a 1 0 1 0 00063505
+hollur a 1 1 = 1 0 00026668
+ódýr a 1 1 ! 1 0 00013498
+lögráður a 1 1 ;c 1 0 00014723
+ósýnn a 1 1 & 1 0 00035993
+andríkur a 1 1 ^ 1 0 00022792
+ófrávíkjanlegur a 1 0 1 0 00021995
+nærliggjandi a 1 2 = ! 1 0 00012042
+vel_búinn a 1 1 ^ 1 0 00000857
+fulltraustur a 1 0 1 0 00044420
+þegnlegur a 1 0 1 0 00062285
+duglítill a 1 1 ! 1 0 00019512
+feiminn a 1 2 = ! 1 0 00047511
+heyrnardaufur a 1 0 1 0 00013823
+laga- a 1 0 1 0 00062903
+lágvaxinn a 1 1 ! 1 0 00032456
+dæmafár a 2 0 2 0 00027612 00039400
+ólíklegur a 1 1 ! 1 0 00026309
+aðkrepptur a 2 3 = ^ ! 2 0 00005175 00053882
+hámark a 1 1 ! 1 0 00013754
+í_jafnvægi a 1 0 1 0 00052767
+kappnógur a 1 1 ^ 1 0 00030481
+kuldalegur a 2 2 ^ ! 2 0 00022402 00056967
+eftirfarandi a 1 0 1 0 00055383
+stórfelldur a 1 1 ! 1 0 00037955
+alvörugefinn a 1 0 1 0 00010010
+fáhittur a 1 0 1 0 00039400
+þrifinn a 2 3 ! ^ & 2 0 00000857 00013999
+hæfileikaríkur a 1 0 1 0 00025106
+réttbær a 1 1 ^ 1 0 00061561
+framkvæmdalaus a 1 0 1 0 00007631
+móralskur a 1 1 & 1 0 00022491
+nauðljótur a 1 0 1 0 00060384
+auðnotaður a 1 1 ^ 1 0 00017490
+hæfilegur a 4 2 ^ ! 4 0 00000432 00002470 00020629 00041399
+einbeittur a 2 1 = 2 0 00001520 00006248
+lífvænlegur a 1 0 1 0 00034254
+félegur a 1 1 ^ 1 0 00000857
+blár a 1 0 1 0 00012756
+milli- a 1 0 1 0 00048801
+stúrlyndur a 1 0 1 0 00036680
+vitænn a 1 1 ^ 1 0 00025461
+hagkvæmur_handbær a 1 2 ^ & 1 0 00046796
+íheldinn a 1 3 = ^ ! 1 0 00040289
+auvirðilegur a 1 0 1 0 00026953
+þrálegur a 1 0 1 0 00024255
+blóðugur a 1 0 1 0 00001757
+óþekktur a 1 0 1 0 00009570
+einsær a 1 1 ^ 1 0 00020901
+siðferðilega_rangur a 1 0 1 0 00045432
+merkilegur_með_sig a 1 1 & 1 0 00058398
+efnalítill a 1 0 1 0 00006488
+öðruvísi a 2 0 2 0 00026857 00054079
+hraður a 2 1 ;c 2 0 00002403 00014414
+sannur a 2 4 = ^ ! & 2 0 00042304 00044620
+sennilegur a 1 1 ! 1 0 00017023
+ættgöfugur a 1 0 1 0 00055054
+undurfagur a 1 1 & 1 0 00036083
+úldinn a 1 0 1 0 00049773
+hress a 1 2 ^ ! 1 0 00031523
+gæddur_persónutöfrum a 1 1 & 1 0 00046420
+furðulegur a 3 2 ! & 3 0 00002239 00018888 00051812
+sifjaður a 1 0 1 0 00043069
+sofandi a 1 1 ! 1 0 00019237
+indæll a 1 2 ^ ! 1 0 00035623
+kjörgengur a 1 1 ^ 1 0 00029479
+formgerðar- a 1 0 1 0 00061820
+næmgeðja a 2 2 = ^ 2 0 00015400 00034386
+hrjúfgerður a 1 2 ^ ! 1 0 00004530
+margslunginn a 1 1 ^ 1 0 00056882
+lífvænn a 1 0 1 0 00034254
+staddur_við a 1 2 = ! 1 0 00034741
+náttúrlegur a 1 2 ^ ! 1 0 00044842
+lifandi a 2 1 & 2 0 00018175 00025958
+greiður a 2 1 ! 2 0 00014414 00056507
+heiðvirður a 1 1 ^ 1 0 00056746
+vant_við_látinn a 1 0 1 0 00004315
+aðal- a 2 3 ^ ! & 2 0 00060059 00061426
+stjórnmálalegur a 1 0 1 0 00012956
+stórskemmtilegur a 1 0 1 0 00048335
+bjarthærður a 1 0 1 0 00010130
+ómannblendinn a 1 2 = ! 1 0 00047511
+skrímslislegur a 1 0 1 0 00060384
+ferðbúinn a 1 1 = 1 0 00031057
+brúnn a 1 0 1 0 00057833
+hörkulegur a 1 3 = ^ ! 1 0 00000610
+gamall a 1 2 = ^ 1 0 00042494
+ör a 1 2 ^ ! 1 0 00047313
+heppinn a 1 0 1 0 00012480
+tapaður a 1 1 ^ 1 0 00052249
+trúaður a 1 0 1 0 00038392
+vandfýsinn a 1 2 ^ & 1 0 00014562
+hungraður a 1 1 ! 1 0 00025383
+óhultur a 1 1 ! 1 0 00041952
+þjóðhöfðingja- a 1 0 1 0 00063767
+aldinn a 1 2 = ^ 1 0 00042494
+stálpaður a 1 2 = ^ 1 0 00047392
+þrönglendur a 2 3 = ^ ! 2 0 00005175 00053882
+ástríðufullur a 1 1 ^ 1 0 00047721
+heitur a 4 4 = ^ ! & 4 0 00002757 00011500 00032637 00050761
+viðunandi a 1 1 ^ 1 0 00047045
+auðfenginn a 1 1 ^ 1 0 00017490
+gervi a 1 0 1 0 00003100
+örlátur a 1 0 1 0 00060305
+nýjastur a 1 0 1 0 00008940
+óviðkomandi a 1 1 ! 1 0 00042362
+sértekinn a 1 1 ! 1 0 00035813
+t´rimanlega a 1 2 ^ & 1 0 00051519
+aðdráttasamur a 1 1 ^ 1 0 00024615
+undirferilslaus a 1 0 1 0 00015755
+dýrseldur a 1 2 ^ ! 1 0 00036200
+geðrænn a 1 0 1 0 00062378
+afmarkaður a 2 1 ^ 2 0 00007987 00042948
+mennskur a 1 0 1 0 00062743
+stórkostlegur a 1 0 1 0 00007388
+ástsamlegur a 1 1 ^ 1 0 00055681
+hávaxinn a 1 1 ^ 1 0 00015019
+erfiður a 1 2 = ! 1 0 00059530
+hissa a 1 0 1 0 00020053
+öldurmannlegur a 1 2 = ^ 1 0 00042494
+móbrúnn a 1 0 1 0 00057833
+haðrskeyttur a 1 1 ! 1 0 00027497
+sól- a 1 0 1 0 00062141
+undangenginn a 1 1 ! 1 0 00012219
+angandi a 1 0 1 0 00017443
+valfrjáls a 1 0 1 0 00056045
+megn a 2 1 & 2 0 00033254 00046181
+neyðarlegur a 1 1 ^ 1 0 00049622
+veikburða a 1 2 = ^ 1 0 00011845
+mánaðarlegur a 1 1 & 1 0 00022491
+eignalítill a 1 0 1 0 00006488
+öfugur a 1 2 = ! 1 0 00019672
+búinn a 2 1 = 2 0 00031057 00032533
+fag- a 1 0 1 0 00064153
+bæjarstjórnar- a 1 0 1 0 00064216
+fádæma a 1 0 1 0 00039400
+arfþeginn a 1 0 1 0 00035013
+giftur a 1 1 ! 1 0 00003554
+skelfingu_lostinn a 1 1 = 1 0 00036878
+sögulegur a 1 0 1 0 00043610
+sjaldfenginn a 1 0 1 0 00039400
+væntanlegur a 1 1 ! 1 0 00025627
+megin- a 3 3 ! ^ & 3 0 00042845 00060059 00061426
+nærtækur a 1 1 & 1 0 00047851
+skrýtinn a 1 1 & 1 0 00051812
+mátulegur a 1 1 ! 1 0 00002930
+dásamlegur a 1 0 1 0 00001057
+ófrjálslyndur a 1 2 ^ & 1 0 00019932
+sykraður a 1 2 ^ ! 1 0 00039305
+fullveðja a 1 1 ;c 1 0 00014723
+fýsilegur a 1 0 1 0 00050066
+skaplegur a 1 1 ^ 1 0 00047045
+atóm- a 1 0 1 0 00048663
+rúinn_að_fjármunum a 1 0 1 0 00006488
+óhentugur a 1 1 ^ 1 0 00049622
+óflýjandi a 1 0 1 0 00021995
+rólfær a 1 1 = 1 0 00017366
+afbrigðilegur a 2 2 ^ ! 2 0 00002470 00053014
+óvenjulegur a 3 2 ^ ! 3 0 00002470 00027612 00039400
+bitlaus a 1 1 ! 1 0 00029728
+sómasamlegur a 1 1 ^ 1 0 00045532
+örvandi a 1 1 ^ 1 0 00056439
+sem_leið a 1 1 ! 1 0 00012219
+ósennilegur a 2 2 = ! 2 0 00026309 00048855
+útivið a 1 1 ! 1 0 00029672
+undirstöðu- a 2 1 ^ 2 0 00038034 00042845
+mollulegur a 1 1 & 1 0 00002757
+aðsniðinn a 2 3 = ^ ! 2 0 00005175 00053882
+grandvarlegur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+óbreyttur a 2 2 ^ ! 2 0 00022202 00057336
+eftirgefanlegur a 1 2 ^ ! 1 0 00002470
+hryssingslegur a 4 3 = ^ ! 4 0 00038159 00056262 00056967 00058051
+eilífur a 1 1 & 1 0 00026468
+einróma a 1 0 1 0 00032183
+röklegur a 2 1 ^ 2 0 00011089 00025461
+miðlægur a 1 0 1 0 00011992
+lauslegur a 1 1 ! 1 0 00054664
+undraverður a 1 1 & 1 0 00002239
+kveifarlegur a 2 2 = ^ 2 0 00015400 00034386
+fánalegur a 1 1 ! 1 0 00006819
+sameindar- a 1 1 ;c 1 0 00052822
+lamur a 1 1 & 1 0 00059865
+dyggðugur a 1 0 1 0 00048927
+innanhúss a 1 1 ! 1 0 00050971
+óformlegur a 1 0 1 0 00046259
+mismunandi a 2 0 2 0 00026857 00054079
+tækur a 1 1 ^ 1 0 00017490
+morkinn a 1 0 1 0 00049773
+víðtækur a 1 2 ^ & 1 0 00021659
+virðingarverður a 1 1 ^ 1 0 00045532
+þarflegur a 1 1 ^ 1 0 00036524
+teprulegur a 1 1 & 1 0 00046029
+límugur a 1 0 1 0 00001190
+velkominn a 1 0 1 0 00024460
+rélegur a 1 0 1 0 00049085
+barnalegur a 2 0 2 0 00012756 00048712
+ónotalegur a 2 2 ^ ! 2 0 00038159 00056262
+afkárlegur a 1 0 1 0 00060384
+þykkheyrður a 1 0 1 0 00013823
+ytri a 2 1 ! 2 0 00005937 00013091
+mikill a 2 2 = ! 2 0 00018048 00037955
+nægur a 1 1 ! 1 0 00002930
+sem_í_hönd_fer a 1 1 ! 1 0 00025627
+ótrauður a 2 1 ^ 2 0 00006248 00037566
+ánauðarlaus a 1 2 = ^ 1 0 00004131
+hlýr a 3 3 = ^ ! 3 0 00011500 00027830 00032637
+eldri_en_tvævetur a 1 1 ^ 1 0 00049304
+skorinorður a 2 1 ^ 2 0 00025886 00037566
+kámugur a 2 1 ! 2 0 00001190 00031276
+ásættanlegur a 1 1 ^ 1 0 00047045
+flónslegur a 1 1 ! 1 0 00006819
+tilfinnanlegur a 1 0 1 0 00060814
+sköllóttur a 1 0 1 0 00017093
+andsnúinn a 1 0 1 0 00003006
+þarfsamlegur a 1 1 ^ 1 0 00036524
+vessi a 1 2 = ! 1 0 00008078
+upprunalegur a 1 1 ^ 1 0 00045021
+tígulegur a 1 1 ^ 1 0 00030960
+fljótur a 2 1 ;c 2 0 00002403 00014414
+góplyndur a 1 1 ^ 1 0 00055681
+feilinn a 1 2 = ! 1 0 00047511
+kjötvaxinn a 1 3 ^ ! & 1 0 00013999
+sam- a 1 0 1 0 00027415
+framandi a 1 0 1 0 00033310
+slækinn a 1 0 1 0 00007631
+fínlegur a 3 3 = ^ ! 3 0 00010871 00028730 00055321
+tískur a 1 0 1 0 00041588
+þyrstur a 1 1 ! 1 0 00047935
+hagkvæmur a 3 1 ^ 3 0 00024615 00044777 00064378
+tölfræðilegur a 1 0 1 0 00062840
+vakandi a 2 2 ^ ! 2 0 00029017 00030220
+skipulegur a 2 1 ^ 2 0 00011716 00049549
+sáttur a 1 0 1 0 00023935
+búsettur a 1 0 1 0 00021608
+óframgjarn a 1 2 = ! 1 0 00047511
+gramur a 2 0 2 0 00036680 00050761
+frosinn a 1 0 1 0 00048615
+hreinskilinn a 2 1 ^ 2 0 00015755 00050528
+sömuættar a 1 0 1 0 00014283
+alteita a 1 1 ^ 1 0 00055681
+vel_til_fundið a 1 1 ! 1 0 00041399
+hreyfifræðilegur a 1 0 1 0 00003963
+skoplegur a 1 0 1 0 00036815
+umdeildur a 1 0 1 0 00018305
+kureislegur a 1 0 1 0 00061189
+hugulsamur a 1 0 1 0 00048112
+faglegur a 1 0 1 0 00063929
+illur a 3 1 ^ 3 0 00045432 00049622 00050761
+bjánalegur a 1 1 ! 1 0 00006819
+aktífur a 1 3 = ^ & 1 0 00015999
+herkænsku- a 1 0 1 0 00064298
+bragðlítill a 2 1 ! 2 0 00011365 00051247
+málsnjall a 1 0 1 0 00011019
+djarfur a 1 1 ^ 1 0 00037566
+fjarlægur a 3 3 = ^ ! 3 0 00021797 00034112 00044254
+einarðlegur a 1 0 1 0 00015755
+ómildur a 1 0 1 0 00057894
+bernskulegur a 1 0 1 0 00012756
+hermanna- a 1 0 1 0 00061875
+þráæskilegur a 1 0 1 0 00024255
+krakkalegur a 1 0 1 0 00012756
+vel_þokkaður a 1 0 1 0 00052496
+snyrtilegur a 1 1 ^ 1 0 00000857
+hughraustur a 1 2 = ^ 1 0 00016200
+sannleikur a 1 4 = ^ ! & 1 0 00044620
+sér a 1 0 1 0 00027612
+fáanlegur a 1 0 1 0 00024196
+fullorðinn a 1 2 = ^ 1 0 00047392
+skelfdur a 1 1 = 1 0 00036878
+daglegur a 1 1 & 1 0 00000319
+grænn a 2 1 ! 2 0 00009723 00012756
+falslaus a 1 0 1 0 00015755
+risa- a 1 1 & 1 0 00021002
+íhugull a 1 0 1 0 00048112
+þegjandi a 1 2 ^ ! 1 0 00017841
+freðinn a 1 0 1 0 00048615
+gildur a 1 1 ^ 1 0 00005040
+árla a 1 2 ^ & 1 0 00051519
+beiskur a 2 1 & 2 0 00019146 00046181
+innandyra a 1 1 ! 1 0 00050971
+illa_til_fundið a 2 1 ! 2 0 00041305 00043895
+snúinn a 1 2 = ! 1 0 00059530
+ofbeldisfullur a 1 1 ^ 1 0 00060716
+lúinn a 1 0 1 0 00037118
+skjallegur a 1 0 1 0 00059412
+alger a 1 2 = ^ 1 0 00057144
+háskalegur a 1 2 ^ ! 1 0 00032744
+reiður a 1 0 1 0 00050761
+árlegur a 1 0 1 0 00050761
+þagmáll a 1 0 1 0 00034309
+dáðrakkur a 1 1 ! 1 0 00054743
+mjúkhendur a 1 1 ^ 1 0 00030311
+ljúfmannlegur a 1 1 ^ 1 0 00055681
+sviplegur a 1 1 ! 1 0 00013173
+hnugginn a 1 1 ! 1 0 00046533
+fimur a 2 1 & 2 0 00018523 00024406
+aðsúgsmikill a 2 4 ! = ^ & 2 0 00007275 00045823
+gagnvikur a 1 0 1 0 00020738
+jafnvægur a 1 0 1 0 00052767
+höfuð- a 1 0 1 0 00060059
+háskólaegur a 1 1 ! 1 0 00003691
+frábrugðinn a 1 0 1 0 00026857
+ósvikull a 1 1 = 1 0 00026668
+snemma a 1 2 ^ & 1 0 00051519
+stórvaxinn a 1 1 ^ 1 0 00015019
+alhliða a 1 2 ^ & 1 0 00021659
+gagnhverfur a 1 0 1 0 00020738
+kraftmikill a 1 1 ^ 1 0 00054153
+löggjafar- a 1 0 1 0 00062903
+afkastasamur a 1 1 ^ 1 0 00021863
+víður a 1 1 & 1 0 00009401
+magnbundinn a 1 0 1 0 00063450
+ber a 1 0 1 0 00021268
+brotinn a 1 1 = 1 0 00008817
+tilfinninganæmur a 2 2 = ^ 2 0 00015400 00034386
+strengdur a 1 1 ! 1 0 00058686
+lokaður a 1 0 1 0 00040619
+ferskur a 1 1 ^ 1 0 00039197
+vafasamur a 1 0 1 0 00032916
+útdauður a 1 0 1 0 00059126
+hefðbundinn a 3 2 = ^ 3 0 00005622 00035013 00053504
+tiltekinn a 3 1 ! 3 0 00027612 00031451 00051736
+þráheldinn a 3 3 = ^ ! 3 0 00028057 00040289 00043225
+endalaus a 1 0 1 0 00021362
+hættulaus a 1 1 ! 1 0 00041952
+undrunarverður a 1 1 & 1 0 00002239
+meyr a 4 3 = ^ ! 4 0 00009144 00015400 00034386 00043566
+leyfislaus a 1 2 ! & 1 0 00055519
+safi a 1 2 = ! 1 0 00008078
+sannsýnn a 1 2 ^ ! 1 0 00002470
+týndur a 1 1 ^ 1 0 00052249
+veikbyggður a 1 0 1 0 00051177
+óþreyjufullur a 1 0 1 0 00019415
+grannholda a 1 1 ! 1 0 00058686
+vandfísa a 1 2 ^ & 1 0 00014562
+handknúinn a 1 1 ! 1 0 00027771
+ómyrkur a 2 3 ! ^ & 2 0 00001890 00003220
+glöggur a 2 3 ! ^ & 2 0 00001890 00003220
+vandfisa a 1 2 ^ & 1 0 00014562
+dræmur a 2 1 ^ 2 0 00019868 00029833
+framhleypinn a 2 2 ^ & 2 0 00007465 00034886
+ólánsamur a 1 0 1 0 00023612
+notalegur a 2 3 = ^ ! 2 0 00035623 00050617
+tómur a 3 2 ! & 3 0 00005409 00040457 00040520
+kvenskur a 1 0 1 0 00055321
+útsjónarsamur a 1 1 ^ 1 0 00024615
+skeleggur a 2 1 ^ 2 0 00006248 00037566
+mennta- a 1 0 1 0 00063220
+viðhlítandi a 1 1 ^ 1 0 00045532
+duglegur a 1 1 ^ 1 0 00021863
+veiklaður a 2 2 = ^ 2 0 00015400 00034386
+árstíðabundinn a 1 0 1 0 00040852
+örðulaus a 1 2 ^ ! 1 0 00031864
+fjörmikill a 1 2 ^ ! 1 0 00031523
+lagaður a 2 2 = ^ 2 0 00031057 00061561
+snemmt a 1 2 ^ & 1 0 00051519
+helgur a 2 1 ^ 2 0 00025562 00055274
+roskinn a 1 2 = ^ 1 0 00042494
+sjónar- a 1 0 1 0 00062793
+ljós a 5 3 ^ ! & 5 0 00001809 00001890 00003220 00010591 00047244
+eftir_sig a 1 0 1 0 00037118
+forvitinn a 2 2 ^ ! 2 0 00016925 00019198
+aðskorinn a 2 3 = ^ ! 2 0 00005175 00053882
+smálimaður a 1 1 ! 1 0 00058686
+viðtekinn a 2 1 ^ 2 0 00035013 00053504
+pottheldur a 1 0 1 0 00044420
+gegnsær a 1 0 1 0 00035718
+mikilfenglegur a 3 2 ^ & 3 0 00007275 00007388 00048057
+kynstofns- a 1 0 1 0 00030906
+forljótur a 1 0 1 0 00060384
+óþýður a 1 2 ^ ! 1 0 00056967
+fánýtur a 1 1 ! 1 0 00019512
+villur a 1 1 ^ 1 0 00043512
+frekur a 1 2 ^ & 1 0 00007465
+taugastrekktur a 3 1 ^ 3 0 00019415 00026539 00063677
+rökfastur a 1 1 ^ 1 0 00011089
+ósvikinn a 3 2 ^ & 3 0 00032119 00042304 00058298
+augsýnilegur a 1 1 ^ 1 0 00020901
+viðvarandi a 1 3 ^ ! & 1 0 00035360
+innanveggja a 1 1 ! 1 0 00050971
+fast a 1 0 1 0 00047991
+tignari a 1 1 = 1 0 00039818
+fákalegur a 1 1 ! 1 0 00006819
+umboðsfær a 1 1 ;c 1 0 00014723
+þróttmikill a 4 4 ! = ^ & 4 0 00015999 00032034 00054153 00054743
+hugsunar- a 1 1 ^ 1 0 00037845
+bitur a 1 0 1 0 00019146
+vanefna a 1 0 1 0 00006488
+óhlutbundinn a 2 2 ^ ! 2 0 00035813 00040975
+nútíðar a 1 1 ! 1 0 00029242
+ólögmætur a 2 2 ! & 2 0 00006745 00055519
+kyrr a 2 1 ^ 2 0 00030080 00052327
+reiginn a 1 1 & 1 0 00058398
+fágætur a 1 0 1 0 00039400
+almennilegur a 2 1 ^ 2 0 00033165 00055681
+þjakaður a 1 0 1 0 00037118
+rómantískur a 1 0 1 0 00057293
+með_lífi a 1 0 1 0 00025958
+spikfeitur a 1 1 & 1 0 00022112
+skellibjöllulegur a 1 3 = ^ ! 1 0 00045823
+undarlegur a 2 2 ! & 2 0 00018888 00051812
+án_mjólkur_og_sykurs a 1 0 1 0 00003492
+vandasamur a 2 3 = ! & 2 0 00035556 00059530
+láréttur a 1 3 = ! & 1 0 00024903
+góðhjartaður a 1 0 1 0 00027080
+innvortis a 1 1 ! 1 0 00052690
+viðstöðulaus a 1 1 ^ 1 0 00004030
+áhugaverður a 2 2 = ^ 2 0 00031785 00060925
+magur a 1 1 ! 1 0 00058686
+samræmdur a 1 1 ^ 1 0 00004720
+frækinn a 1 2 = ^ 1 0 00016200
+frábær a 1 0 1 0 00048057
+blautur a 1 2 ! & 1 0 00029105
+fjörugur a 2 4 ! = ^ & 2 0 00015999 00031523
+rélegru a 1 2 ^ ! 1 0 00002470
+afbrýðisamur a 1 0 1 0 00016865
+þaninn a 1 1 ^ 1 0 00008998
+beinn a 3 1 & 3 0 00015755 00018688 00020227
+rafrænn a 1 0 1 0 00064434
+réttsýnn a 1 0 1 0 00049085
+óblíður a 1 2 ^ ! 1 0 00056967
+verndaður a 1 2 ! & 1 0 00016308
+pervisalegur a 1 1 ! 1 0 00058686
+bær_um a 1 1 ^ 1 0 00061561
+glánalegu a 1 1 ! 1 0 00006819
+hvumpinn a 1 0 1 0 00038777
+prívat- a 1 1 & 1 0 00024046
+annar_til a 1 1 ^ 1 0 00039930
+útbúinn a 1 1 = 1 0 00031057
+bljúgur a 1 2 = ! 1 0 00047511
+skakkur a 2 2 = ! 2 0 00009844 00019672
+viss a 2 1 = 2 0 00001520 00061131
+þurr a 2 1 ! 2 0 00017160 00051247
+sérhlífinn a 1 0 1 0 00007631
+vökvi a 1 2 = ! 1 0 00008078
+vélgengur a 1 0 1 0 00009334
+gerður a 1 1 = 1 0 00031057
+hyskinn a 1 0 1 0 00007631
+órór a 1 1 ^ 1 0 00023404
+mótdrægur a 1 1 ^ 1 0 00014865
+rekstrar- a 1 0 1 0 00062417
+hefðfestur a 1 0 1 0 00035013
+vænn a 2 3 ^ ! & 2 0 00013999 00027080
+hlutkenndur a 2 2 ^ ! 2 0 00000741 00009610
+hreyfanlegur a 2 1 ! 2 0 00013442 00054664
+úrsvalur a 2 3 = ^ ! 2 0 00027160 00058051
+gerhugull a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+hugaður a 1 2 = ^ 1 0 00016200
+ósmár a 1 0 1 0 00060814
+framsækinn a 1 1 ^ 1 0 00010670
+sameinaður a 1 2 ^ ! 1 0 00025185
+æruverðugur a 1 0 1 0 00028946
+dulur a 1 2 = ! 1 0 00047511
+staðlegur a 1 0 1 0 00062603
+skvapholda a 1 3 ^ ! & 1 0 00013999
+óunninn a 1 0 1 0 00013269
+leiðigjarn a 1 1 ! 1 0 00051247
+vammlaus a 1 0 1 0 00001391
+þéttbýlis- a 1 0 1 0 00063986
+fjandsamlegur a 1 1 ^ 1 0 00014865
+fríðinda- a 1 1 ^ 1 0 00004645
+hömlulaus a 1 2 = ^ 1 0 00004131
+uppbyggjandi a 1 0 1 0 00053826
+veraldlegur a 1 2 ! & 1 0 00016308
+fáráðlingslegur a 1 1 ! 1 0 00006819
+kærkominn a 1 0 1 0 00024460
+tilgreindur a 1 0 1 0 00051736
+hlédrægur a 1 2 = ! 1 0 00047511
+vanabundinn a 4 3 = ^ ! 4 0 00005622 00022202 00035013 00057336
+hóp- a 1 0 1 0 00027415
+dýrlegur a 1 0 1 0 00001057
+þungur a 2 2 = ! 2 0 00005549 00059530
+þjóðfélagslegur a 2 2 ^ & 2 0 00001658 00009216
+hugsanlegur a 1 1 = 1 0 00020357
+fjarstaddur a 1 2 = ! 1 0 00035902
+þvælinn a 1 2 = ! 1 0 00059530
+dýrgripur a 1 1 ^ 1 0 00024119
+digur a 2 3 ^ ! & 2 0 00013999 00019352
+sveitafélaga- a 1 0 1 0 00064216
+auka- a 1 1 & 1 0 00037499
+sem_er_ekkert_að_vanbúnaði a 1 1 = 1 0 00031057
+drægjulegur a 1 0 1 0 00029833
+skrítinn a 2 2 ! & 2 0 00006134 00018888
+þolugur a 1 1 ^ 1 0 00020099
+ítækur a 1 1 ^ 1 0 00061561
+hluta- a 1 1 ! 1 0 00040139
+ríkjandi a 1 1 = 1 0 00006061
+brattur a 1 1 ^ 1 0 00021064
+kjarnorku- a 1 0 1 0 00048663
+lágkúrulegur a 1 0 1 0 00030383
+samfelldur a 1 1 & 1 0 00027271
+óstilltur a 1 0 1 0 00045717
+sneypilegur a 1 0 1 0 00013578
+félagslegur a 2 2 ^ & 2 0 00001658 00009216
+tryggur a 2 1 = 2 0 00011800 00026668
+jarganlegur a 1 1 ! 1 0 00051247
+gangfær a 1 1 = 1 0 00017366
+hreinlyndur a 1 0 1 0 00015755
+ófullkominn a 2 2 ! & 2 0 00021415 00033626
+bleytulaus a 1 1 ! 1 0 00017160
+torráðinn a 1 0 1 0 00017699
+persónulegur a 1 1 & 1 0 00059969
+almennur_borgari a 1 0 1 0 00036311
+sýnn a 2 2 ^ ! 2 0 00020901 00033386
+á_næsta_leiti a 1 2 = ! 1 0 00012042
+búinn_að_vera a 1 0 1 0 00044348
+fáránlegur a 2 1 & 2 0 00051812 00060384
+grennlulegur a 1 1 ! 1 0 00058686
+mildur a 3 3 = ^ ! 3 0 00009144 00011500 00030715
+hræðilegur a 2 2 ^ ! 2 0 00001253 00049901
+djúpsettur a 1 1 ! 1 0 00053091
+þrár a 1 0 1 0 00010460
+flókinn a 2 1 ^ 2 0 00017699 00056882
+sjálfboðinn a 1 1 ^ 1 0 00011203
+fábrotinn a 1 0 1 0 00013942
+geðþekkur a 1 0 1 0 00022922
+marflatur a 1 3 = ! & 1 0 00024903
+venjulegur a 3 2 ^ ! 3 0 00022202 00044842 00057336
+hagnýtur a 2 1 ^ 2 0 00023665 00024615
+vanur a 3 2 ^ ! 3 0 00022202 00049304 00057336
+gjafmildur a 1 0 1 0 00060305
+fílósófískur a 1 0 1 0 00063000
+minniháttar a 2 2 ! & 2 0 00016308 00053638
+þekkilegur a 1 3 ^ ! & 1 0 00056085
+kaldsamur a 1 3 = ^ ! 1 0 00058051
+vandur a 2 3 = ! & 2 0 00035556 00059530
+afleitur a 1 0 1 0 00045432
+sem_gerist_skref_fyrir_skref a 1 2 ^ ! 1 0 00053318
+fyrirhugaður a 1 1 ! 1 0 00025627
+grundvallar- a 2 1 ^ 2 0 00038034 00042845
+hrumur a 1 2 = ^ 1 0 00042494
+óvær a 1 0 1 0 00045717
+magnmikill a 1 1 ^ 1 0 00054153
+fullráða a 1 1 ;c 1 0 00014723
+menningar- a 1 0 1 0 00063220
+fíflalegur a 1 1 ! 1 0 00006819
+þulbaldalegur a 1 1 ! 1 0 00051247
+þrælheppinn a 1 0 1 0 00012480
+deigur a 1 1 = 1 0 00036878
+hellur a 1 3 = ^ ! 1 0 00045823
+óhræsilegur a 1 0 1 0 00060384
+sleitulaus a 1 1 & 1 0 00027271
+smávægilegur a 1 0 1 0 00035718
+skaðlegur a 1 1 ! 1 0 00003691
+virkur a 1 3 = ^ & 1 0 00015999
+þóttafullur a 1 1 & 1 0 00058398
+ókunnugt_um a 1 0 1 0 00032183
+borgarlegur a 1 0 1 0 00062285
+bragðgóður a 1 2 ^ & 1 0 00048432
+lítilsháttar a 2 2 ! & 2 0 00016308 00053638
+fríður a 1 3 ^ ! & 1 0 00053715
+vanalegur a 3 2 ^ ! 3 0 00022202 00024255 00057336
+harðsnúinn a 1 1 ^ 1 0 00018584
+mikilvægur a 3 1 ^ 3 0 00009065 00010794 00013668
+dæmiger a 1 1 ^ 1 0 00003150
+óumflýjanlegur a 1 0 1 0 00021995
+skemmtilegur a 1 1 & 1 0 00040899
+meðvitandi a 1 0 1 0 00007920
+teygður a 1 1 ! 1 0 00058686
+rúmgóður a 1 1 & 1 0 00009401
+spakvitur a 1 1 ! 1 0 00021119
+reikningslegur a 1 0 1 0 00062840
+þrásamlegur a 3 1 ! 3 0 00024255 00028057 00043225
+áreitinn a 2 2 ^ ! 2 0 00038159 00056262
+nöturkaldur a 1 3 = ^ ! 1 0 00058051
+gasalegur a 1 2 ^ ! 1 0 00001253
+hernaðarlistar- a 1 0 1 0 00064298
+vikaseinn a 1 0 1 0 00029833
+sér- a 1 1 & 1 0 00024046
+gersemi a 1 1 ^ 1 0 00024119
+efri a 1 1 = 1 0 00039818
+hernaðar- a 1 0 1 0 00061875
+úrvinda a 1 0 1 0 00037118
+ósannur a 1 2 = ! 1 0 00019672
+staðar- a 1 0 1 0 00062603
+sæmandi a 1 1 ! 1 0 00041399
+forkostulegur a 2 0 2 0 00033086 00048335
+kæfandi a 1 1 & 1 0 00002757
+mikilvirkur a 1 1 ^ 1 0 00021863
+harðfenginn a 1 1 ! 1 0 00054743
+þungbær a 1 2 = ! 1 0 00059530
+fjarverandi a 1 2 = ! 1 0 00035902
+göngumóður a 1 0 1 0 00037118
+bjargarlaus a 1 0 1 0 00005121
+óviturlegur a 1 1 ! 1 0 00006819
+samkynhneigður a 1 0 1 0 00012572
+æfður a 2 1 ^ 2 0 00004950 00049304
+umsnúinn a 1 2 = ! 1 0 00019672
+nýtískur a 1 0 1 0 00041588
+friðsamur a 1 1 ^ 1 0 00042132
+hljóðlátur a 1 3 = ^ ! 1 0 00047132
+ömurlegur a 1 0 1 0 00049901
+dauflegur a 1 1 ! 1 0 00051247
+dáðlaus a 1 0 1 0 00007631
+hagsamur a 1 1 ^ 1 0 00024615
+hinstur a 1 0 1 0 00049231
+allmikill a 1 1 ^ 1 0 00054529
+einhleypur a 1 1 ! 1 0 00049984
+bilaður a 1 1 = 1 0 00008817
+dæmigerður a 1 1 ^ 1 0 00023010
+pottþéttur a 1 0 1 0 00044420
+sæ- a 1 0 1 0 00063397
+ferhyrndur a 1 1 ! 1 0 00030822
+einsamall a 2 0 2 0 00025009 00026261
+samhliða a 1 1 ^ 1 0 00017630
+tvíbentur a 1 0 1 0 00032916
+týra a 1 1 ! 1 0 00010591
+ártryggilegur a 1 1 ! 1 0 00041952
+hómósexúal a 1 0 1 0 00012572
+gagnorður a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+undrandi a 1 0 1 0 00020053
+tilheyrilegur a 1 2 ^ ! 1 0 00000432
+satt a 1 1 ^ 1 0 00028183
+þýðingarmikill a 2 1 ^ 2 0 00009065 00010794
+óhreinn a 1 1 ! 1 0 00031276
+yfirfljótanlegur a 1 1 ^ 1 0 00030481
+blíðlegur a 1 2 ^ ! 1 0 00027830
+í_tengslum_við a 1 0 1 0 00043069
+síðastliðinn a 1 1 ! 1 0 00012219
+hulin a 1 1 ! 1 0 00013018
+frjálslyndur a 2 3 = ^ ! 2 0 00017237 00045113
+fíngerður a 2 3 = ^ ! 2 0 00010871 00028730
+pjattaður a 1 1 & 1 0 00046029
+stimamjúkur a 1 0 1 0 00061189
+milliliðalaus a 1 1 & 1 0 00020227
+líkamlegur a 1 0 1 0 00059073
+vinveittur a 1 1 ^ 1 0 00055681
+hóflátur a 1 2 ^ ! 1 0 00002470
+krymtinn a 1 2 ^ & 1 0 00014562
+frambærilegur a 1 1 ^ 1 0 00045532
+flekklaus a 1 0 1 0 00001391
+langlífur a 1 2 = ^ 1 0 00042494
+sparsamur a 1 1 ^ 1 0 00024615
+á_lífi a 1 0 1 0 00025958
+óvægilegur a 2 1 ! 2 0 00027497 00057894
+rækilegur a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+dreyrugur a 1 0 1 0 00001757
+sérlegur a 1 0 1 0 00027612
+ónothæfur a 1 1 ! 1 0 00019512
+syndlaus a 1 0 1 0 00001391
+réttvís a 1 0 1 0 00049085
+löglegur a 1 1 ! 1 0 00002092
+kynferðislegur a 1 1 = 1 0 00018242
+aflþrunginn a 1 1 ^ 1 0 00054153
+stífur a 2 0 2 0 00008360 00010460
+ógiftur a 1 1 ! 1 0 00049984
+réttskiptinn a 1 0 1 0 00049085
+hægfara a 1 0 1 0 00029833
+ásáttur a 1 1 ^ 1 0 00008422
+endurgjaldslaust a 1 0 1 0 00059264
+ómjúkur a 1 1 ! 1 0 00003691
+sætur a 2 3 ^ ! & 2 0 00000319 00039305
+hávaðasamur a 1 3 = ^ ! 1 0 00045823
+siðgæðislegur a 1 1 & 1 0 00022491
+beittur a 1 1 ! 1 0 00061747
+eftirminnilegur a 1 0 1 0 00005858
+smásmugulegur a 1 1 & 1 0 00010207
+fyrirsjáanlegur a 1 0 1 0 00030435
+alþjóðlegur a 1 0 1 0 00014499
+ferðmikill a 1 0 1 0 00014414
+eftirsóknarverður a 1 0 1 0 00050066
+léttvaxinn a 1 1 ! 1 0 00058686
+slyttinn a 1 0 1 0 00007631
+sjónlaus a 1 1 & 1 0 00035993
+rinn a 1 1 ^ 1 0 00054529
+tilfinningaríkur a 2 2 = ^ 2 0 00015400 00034386
+viturlegur a 1 1 ! 1 0 00021119
+lýsandi a 1 1 & 1 0 00001134
+hrollkaldur a 1 3 = ^ ! 1 0 00058051
+glóra a 1 1 ! 1 0 00010591
+hvass a 2 1 ! 2 0 00055147 00061747
+tilrauna- a 1 0 1 0 00062232
+ómögulegur a 1 0 1 0 00027014
+næmlyndur a 2 2 = ^ 2 0 00015400 00034386
+hörundsár a 2 2 = ^ 2 0 00015400 00034386
+djásn a 1 1 ^ 1 0 00024119
+umliðinn a 1 1 ! 1 0 00012219
+allur a 1 2 = ^ 1 0 00057144
+sveita- a 1 0 1 0 00063283
+tröllslegur a 2 1 & 2 0 00038930 00060384
+án_átvinnu a 1 0 1 0 00037443
+lágmarks a 1 1 ! 1 0 00029561
+tvíræður a 1 0 1 0 00032916
+banvænn a 1 0 1 0 00050185
+ófrýnilegur a 1 3 ^ ! & 1 0 00028279
+allslaus a 1 0 1 0 00006488
+mettur a 1 0 1 0 00023083
+golubelgdur a 1 1 & 1 0 00058398
+þykkjufullur a 1 0 1 0 00050761
+vorkunnlátur a 1 1 ^ 1 0 00045113
+tilbærilegur a 1 1 ^ 1 0 00045532
+listrænn a 2 0 2 0 00057572 00063168
+heill a 2 2 = ^ 2 0 00015755 00057144
+þykkur a 3 3 ^ ! & 3 0 00002343 00013999 00019352
+óheppinn a 1 0 1 0 00023612
+óljós a 4 1 ! 4 0 00013018 00017699 00032578 00032916
+drambsfullur a 1 1 & 1 0 00058398
+af_léttasta_skeiði a 1 2 = ^ 1 0 00042494
+máttfarinn a 1 0 1 0 00037118
+ákafur a 3 3 = ^ ! 3 0 00035257 00046628 00047313
+óviðunandi a 1 1 ! 1 0 00060627
+siðavandr a 1 0 1 0 00057894
+háróma a 1 3 = ^ ! 1 0 00045823
+glúrinn a 1 1 ^ 1 0 00024615
+neikvæður a 2 1 ! 2 0 00006002 00043782
+auðsær a 2 1 ^ 2 0 00008289 00020901
+heimskur a 1 1 ! 1 0 00045274
+undanfarinn a 1 1 ! 1 0 00012219
+metnaðarfullur a 1 1 = 1 0 00040193
+sólar- a 1 0 1 0 00062141
+pempíulegur a 1 1 & 1 0 00046029
+snemmbúinn a 1 2 ^ & 1 0 00051519
+nettur a 1 2 = ^ 1 0 00010871
+kaldlyndur a 1 2 ^ ! 1 0 00022402
+svartsýnn a 1 0 1 0 00036680
+eitraður a 1 0 1 0 00028891
+ómerkilegur a 2 1 & 2 0 00010207 00035718
+hulinn a 1 1 ! 1 0 00018421
+umbyltingar- a 1 0 1 0 00019064
+ánægjulegur a 1 1 & 1 0 00040899
+stakur a 1 0 1 0 00026261
+dauður a 2 1 ! 2 0 00057759 00059126
+margvíslegur a 1 1 = 1 0 00008197
+fullviss a 1 1 = 1 0 00001520
+langsamur a 1 1 ! 1 0 00051247
+kröftugur a 2 1 ^ 2 0 00032034 00054153
+órifinn a 1 2 = ^ 1 0 00057144
+nauðsynlegur a 3 1 ^ 3 0 00010794 00021995 00036524
+ofnógur a 1 1 ^ 1 0 00030481
+eðlislægur a 1 2 ^ ! 1 0 00044842
+ræðinn a 1 0 1 0 00038092
+holdlegur a 1 0 1 0 00059073
+viðlátur a 1 2 = ! 1 0 00034741
+gríðarmikill a 1 1 & 1 0 00038930
+óframfærinn a 1 2 = ! 1 0 00047511
+íbúðar- a 1 0 1 0 00061987
+tilviljanakenndur a 1 0 1 0 00010083
+viðmótsþýður a 1 3 ^ ! & 1 0 00056085
+ábyrgur a 1 0 1 0 00045717
+allsherjar- a 1 1 ^ 1 0 00052026
+liðinn a 1 1 ! 1 0 00012219
+ósekur a 1 0 1 0 00001391
+einka- a 1 1 & 1 0 00024046
+mjósleginn a 1 1 ! 1 0 00058686
+sem_hefð_er_fyrir a 1 0 1 0 00047991
+lingeðja a 2 2 = ^ 2 0 00015400 00034386
+duglaus a 1 0 1 0 00007631
+vel_til_fallið a 1 1 ! 1 0 00041399
+nærri a 1 2 = ! 1 0 00012042
+einskorðaður a 3 1 ^ 3 0 00007987 00042948 00048543
+slympinn a 1 0 1 0 00012480
+valdamikill a 1 1 ^ 1 0 00033680
+áfjáður a 1 1 ^ 1 0 00046628
+liðtækur a 3 2 ^ & 3 0 00029479 00033539 00061561
+felmtraður a 1 1 = 1 0 00036878
+þynnkulegur a 1 1 ! 1 0 00006819
+málgefinn a 1 0 1 0 00038092
+stuttaralegur a 1 2 ^ ! 1 0 00056967
+rúmlítill a 2 3 = ^ ! 2 0 00005175 00053882
+eiginkvæntur a 1 1 ! 1 0 00003554
+augljós a 4 3 ! ^ & 4 0 00001890 00003220 00008289 00020901
+látlaus a 2 1 & 2 0 00027271 00041696
+skíma a 1 1 ! 1 0 00010591
+hortugur a 1 0 1 0 00034886
+stjórnarskrárlegur a 1 1 & 1 0 00041696
+óbrigðull a 2 0 2 0 00044420 00051450
+þvældur a 1 0 1 0 00037118
+krangalegur a 1 1 ! 1 0 00058686
+feiknarmikill a 1 1 & 1 0 00038930
+menntunar- a 1 0 1 0 00063220
+téður a 1 0 1 0 00051736
+þreytandi a 1 1 ! 1 0 00051247
+felmtri_sleginn a 1 1 = 1 0 00036878
+viðskotaillur a 2 2 ^ ! 2 0 00038159 00056262
+æsilegur a 1 2 = ^ 1 0 00060925
+harðgerður a 1 1 ! 1 0 00054743
+jarðneskur a 1 2 ! & 1 0 00016308
+órækur a 1 0 1 0 00006248
+óræður a 1 0 1 0 00032578
+svartur a 2 1 ! 2 0 00003492 00042063
+rammur a 2 2 ^ & 2 0 00046181 00054153
+atvinnulaus a 1 0 1 0 00037443
+dóm- a 1 0 1 0 00062510
+armur a 1 0 1 0 00006488
+kræfur a 1 1 ^ 1 0 00018584
+vanefnaður a 1 0 1 0 00006488
+vinstrisinnaður a 1 1 ^ 1 0 00038300
+banginn a 1 1 = 1 0 00036878
+hnitmaiðaður a 4 1 ^ 4 0 00015099 00016493 00038476 00043971
+músíkalskur a 1 0 1 0 00046742
+risastór a 1 1 & 1 0 00038930
+raunsannur a 1 2 = ^ 1 0 00032255
+þráfaldlegur a 1 0 1 0 00024255
+brjóstheill a 1 0 1 0 00015755
+kynþátta- a 1 0 1 0 00030906
+veiklyndur a 2 2 = ^ 2 0 00015400 00034386
+gullaldarlegur a 1 0 1 0 00028646
+trúrækinn a 1 0 1 0 00038392
+í_lagi a 1 1 = 1 0 00017366
+viðráðanlegur a 2 3 ! ^ & 2 0 00046796 00056507
+trekktur a 2 1 ^ 2 0 00026539 00063677
+pólitískur a 1 0 1 0 00012956
+yfirsterkari a 1 1 = 1 0 00039818
+staðhátta- a 1 0 1 0 00062603
+þurrlegur a 1 1 ! 1 0 00051247
+dauðþreyttur a 1 0 1 0 00037118
+sambærilegur a 1 1 ^ 1 0 00059187
+órúmlegur a 2 3 = ^ ! 2 0 00005175 00053882
+félags- a 1 0 1 0 00027415
+fræðilegur a 3 0 3 0 00046987 00062042 00063559
+byrlegur a 1 0 1 0 00044777
+samkvæmur a 1 0 1 0 00011647
+ónýtur a 2 2 = ! 2 0 00008817 00019512
+sem_snýr_út a 1 1 ! 1 0 00013091
+færanlegur a 2 0 2 0 00013442 00029186
+framfarasinnaður a 1 1 ^ 1 0 00010670
