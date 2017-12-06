@@ -49,6 +49,7 @@ function languageSettings(type, language) {
             'formLabel': 'traduzir para: ',
             'searchInput': 'pesquisar uma palavra',
             'search': 'pesquisa',
+            'mismatchText': 'Incompatibilidade de par interlingue',
             'globe': 'traduções',
             'startPhrase': 'línguas: ',
             'languageChange': 'selecionar língua',
@@ -104,13 +105,69 @@ function languageSettings(type, language) {
             'formLabel': 'translations to: ',
             'searchInput': 'search for a word',
             'search': 'search',
+            'mismatchText': 'Interlingual paring mismatch',
             'globe': 'translations',
             'startPhrase': 'translations to: ',
             'languageChange': 'change the display language',
             'noTransLangSelected': 'no languages selected',
             'collision': 'The word you are searching for appears in more than one language. Choose which one you would'+
-            ' like to explore in the dropdown menu below.',
+            ' like to explore through in the menu below.',
             'langSelect': 'Select a language'
+        },
+        'فارسى': {
+            'concept': 'مفاهیم مرتبط',
+            'relationsMenu': {
+                'translation': 'ترجمه ها',
+                'directHypernym': 'انتقالی',
+                'inheritedHypernym': 'پدر های مستقیم',
+                'directHyponym': 'انتقالی',
+                'fullHyponym': 'فرزند های مستقیم',
+                'directTroponym': 'انتقالی',
+                'fullTroponym': 'تروپونیم های مستقیم',
+                'memberHolonym': 'هولونیم عضویت',
+                'substanceHolonym': 'هولونیم جنس',
+                'partHolonym': 'هولونیم بخش',
+                'memberMeronym': 'مرونیم عضویت',
+                'substanceMeronym': 'مرونیم ماده',
+                'partMeronym': 'مرونیم بخش',
+                'antonym': 'تضاد',
+                'instanceHypernym': 'نمونه ای است از ...',
+                'instanceHyponym': 'نمونه ای دارد از ...',
+                'attribute': 'ویژگی',
+                'derivationallyRelatedForm': 'اشتقاق',
+                'entailment': 'استلزام',
+                'cause': 'علت',
+                'alsoSee': 'همچنین مشاهده کنید',
+                'verbGroup': 'گروه فعلی',
+                'similarTo': 'شبیه به',
+                'participleOfVerb': 'وجه وصفی فعل',
+                'pertainym': 'pertainym',
+                'derivedFromAdjective': 'مشتق از صفت',
+                'domainCategory': 'رده حوزه',
+                'domainTermCategory': 'رده حوزه لغوی',
+                'domainRegion': 'حوزه ناحیه',
+                'domainTermRegion': 'حوزه ناحیه لغوی',
+                'domainUsage': 'حوزه کاربرد',
+                'domainTermUsage': 'حوزه کاربرد لغوی',
+                'noRelations': 'رابطه ای بین این گروه معنایی و گروه دیگری ثبت نشده است',
+                'derivationallyRelatedFormDisplay': 'مرتبط با',
+                'concept': 'مفهوم',
+                'overview': 'مرور',
+                'sentenceFrame': 'ساختمان جمله',
+            },
+            'searchNotFound': 'جستجو موفق به پیدا کردن کلمه مورد نظر نشد',
+            'defLabel': 'معنا',
+            'transConcept': 'مفهوم',
+            'formLabel': 'ترجمه ها به',
+            'searchInput': 'جستجو برای کلمه',
+            'search': 'جستجو',
+            'mismatchText': 'عدم تناسب جفت های میان زبانی',
+            'globe': 'ترجمه ها',
+            'startPhrase': 'ترجمه ها به:',
+            'languageChange': 'تغییر زبان',
+            'noTransLangSelected': 'زبانی انتخاب نشده است',
+            'collision': 'کلمه مورد نظر شما در بیش از یک زبان یافت شد.  زبان مورد نظر را از لیست زیر انتخاب نمایید',
+            'langSelect': 'زبان مورد نظر را انتخاب نمایید'
         }
     };
     return languageList[language][type];
@@ -127,10 +184,10 @@ function languageList(){
 }
 
 function implementedLanguageList(){
-    return ['Portuguese', 'English'];
+    return ['Portuguese', 'English', 'فارسى'];
 }
 
-function countryCodes(language) {
+function CodeToCountry(language) {
     const countryCodeList = {
         'Portuguese': {
             'en':'Inglês', 'fin':'Finlandês', 'afr':'Africâner', 'arb': 'Árabe','ast':'Asturiano','aze':'Azerbaijano',
@@ -154,10 +211,39 @@ function countryCodes(language) {
             'lat':'Latin','lav':'Latvian','lit':'Lithuanian','mkd':'Macedonian','nld':'Dutch','nno':'Nynorsk',
             'nob':'Bokmål','pol':'Polish','ron':'Romanian','rus':'Russian','slk':'Slovak','slv':'Slovene',
             'spa':'Spanish','swa':'Swahili','swe':'Swedish','tel':'Telugu','tha':'Thai','tur':'Turkish',
-            'ukr':'Ukrainian','urd':'Urdu','vie':'Vietnamese','vol':'Volapük','zsm':'Malaysian'
+            'ukr':'Ukrainian','urd':'Urdu','vie':'Vietnamese','vol':'Volapük','zsm':'Malaysian', 'qcn': 'Taiwan Chinese',
+            'por': 'Português'
+        },
+        'فارسى': {
+            'en': 'انگلیسی', 'fin': 'فنلاندی', 'afr': 'آفریقایی', 'arb': 'عربی', 'ast': 'آستوریان', 'aze': 'آٔذربایجانی',
+            'bel': 'بلاروس', 'ben': 'بنگلادشی', 'bre': 'برتون', 'bul': 'بلغارستانی', 'cat': 'کاتالان', 'ces': 'چک',
+            'cmn': 'چینی', 'cym': 'ولز', 'dan': 'دانمارکی', 'deu': 'آلمانی', 'ell': 'یونانی', 'epo': 'اسپرانتو',
+            'est': 'استونیایی', 'eus': 'باسک', 'fao': 'فاروئی', 'fas': 'فارسی', 'fra': 'فرانسوی', 'gla': 'گالیک اسکاتلندی',
+            'gle': 'ایرلندی', 'glg': 'گالیسیایی', 'hbs': 'سروو کرواتی', 'heb': 'عبری', 'hin': 'هندی', 'hun': 'مجارستانی',
+            'ind': 'اندونزیایی', 'isl': 'ایسلندی', 'ita': 'ایتالیایی', 'jpn': 'ژاپنی', 'kat': 'گرجستانی', 'kor': 'کره ای',
+            'lat': 'لاتین', 'lav': 'لتونی', 'lit': 'لیتوانیایی', 'mkd': 'مقدونی', 'nld': 'هلندی', 'nno': 'نینورسک',
+            'nob': 'بوکمال', 'pol': 'لهستانی', 'ron': 'رمانیایی', 'rus': 'روسی', 'slk': 'اسلواکی', 'slv': 'اسلوونیایی',
+            'spa': 'اسپانیایی', 'swa': 'سواحیلی', 'swe': 'سوئدی', 'tel': 'Telugu', 'tha': 'تایلندی', 'tur': 'ترکی',
+            'ukr': 'اکراینی', 'urd': 'اردو', 'vie': 'ویتنامی', 'vol': 'والاپاک', 'zsm': 'مالزیایی', 'por': 'پرتغالی'
         }
     };
-    return countryCodeList[language]
+    return countryCodeList[language];
+}
+
+function CountryToCode(language) {
+    const codeList = {'English': 'en', 'Finnish': 'fin', 'Afrikaans': 'afr', 'Arabic': 'arb', 'Asturian': 'ast',
+                  'Azerbaijani': 'aze', 'Belarusian': 'bel', 'Bengali': 'ben', 'Breton': 'bre', 'Bulgarian': 'bul',
+                  'Catalan': 'cat', 'Czech': 'ces', 'Chinese': 'cmn', 'Welsh': 'cym', 'Danish': 'dan', 'German': 'deu',
+                  'Greek': 'ell', 'Esperanto': 'epo', 'Estonian': 'est', 'Basque': 'eus', 'Faroese': 'fao',
+                  'Farsi': 'fas', 'French': 'fra', 'Scottish Gaelic': 'gla', 'Irish': 'gle', 'Galician': 'glg',
+                  'Serbo-Croatian': 'hbs', 'Hebrew': 'heb', 'Hindi': 'hin', 'Hungarian': 'hun', 'Indonesian': 'ind',
+                  'Icelandic': 'isl', 'Italian': 'ita', 'Japanese': 'jpn', 'Georgian': 'kat', 'Korean': 'kor',
+                  'Latin': 'lat', 'Latvian': 'lav', 'Lithuanian': 'lit', 'Macedonian': 'mkd', 'Dutch': 'nld',
+                  'Nynorsk': 'nno', 'Bokmål': 'nob', 'Polish': 'pol', 'Romanian': 'ron', 'Russian': 'rus',
+                  'Slovak': 'slk', 'Slovene': 'slv', 'Spanish': 'spa', 'Swahili': 'swa', 'Swedish': 'swe',
+                  'Telugu': 'tel', 'Thai': 'tha', 'Turkish': 'tur', 'Ukrainian': 'ukr', 'Urdu': 'urd',
+                  'Vietnamese': 'vie', 'Volapük': 'vol', 'Malaysian': 'zsm', 'Taiwan Chinese':'qcn', 'Português': 'por'};
+    return codeList[language];
 }
 
 function wikipediaLinkList(language) {
@@ -240,7 +326,8 @@ function wikipediaLinkList(language) {
             'zsm':'https://en.wikipedia.org/wiki/Malaysian_language'
         }
     };
-    return wikipediaList[language];
+    if (wikipediaList.hasOwnProperty(language)) return wikipediaList[language];
+    else return wikipediaList['English'];
 }
 
 function partOfSpeechList(language) {
@@ -256,7 +343,14 @@ function partOfSpeechList(language) {
             'Adj': 'Adjective',
             'Verb': 'Verb',
             'Adv': 'Adverb'
+        },
+        'فارسى': {
+            'Noun': 'اسم',
+            'Adj': 'فعل',
+            'Verb': 'صفت',
+            'Adv': 'قید'
         }
     };
-    return posList[language];
+    if (posList.hasOwnProperty(language)) return posList[language];
+    else return posList['English'];
 }

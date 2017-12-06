@@ -213,6 +213,18 @@ function CodeToCountry(language) {
             'spa':'Spanish','swa':'Swahili','swe':'Swedish','tel':'Telugu','tha':'Thai','tur':'Turkish',
             'ukr':'Ukrainian','urd':'Urdu','vie':'Vietnamese','vol':'Volapük','zsm':'Malaysian', 'qcn': 'Taiwan Chinese',
             'por': 'Português'
+        },
+        'فارسى': {
+            'en': 'انگلیسی', 'fin': 'فنلاندی', 'afr': 'آفریقایی', 'arb': 'عربی', 'ast': 'آستوریان', 'aze': 'آٔذربایجانی',
+            'bel': 'بلاروس', 'ben': 'بنگلادشی', 'bre': 'برتون', 'bul': 'بلغارستانی', 'cat': 'کاتالان', 'ces': 'چک',
+            'cmn': 'چینی', 'cym': 'ولز', 'dan': 'دانمارکی', 'deu': 'آلمانی', 'ell': 'یونانی', 'epo': 'اسپرانتو',
+            'est': 'استونیایی', 'eus': 'باسک', 'fao': 'فاروئی', 'fas': 'فارسی', 'fra': 'فرانسوی', 'gla': 'گالیک اسکاتلندی',
+            'gle': 'ایرلندی', 'glg': 'گالیسیایی', 'hbs': 'سروو کرواتی', 'heb': 'عبری', 'hin': 'هندی', 'hun': 'مجارستانی',
+            'ind': 'اندونزیایی', 'isl': 'ایسلندی', 'ita': 'ایتالیایی', 'jpn': 'ژاپنی', 'kat': 'گرجستانی', 'kor': 'کره ای',
+            'lat': 'لاتین', 'lav': 'لتونی', 'lit': 'لیتوانیایی', 'mkd': 'مقدونی', 'nld': 'هلندی', 'nno': 'نینورسک',
+            'nob': 'بوکمال', 'pol': 'لهستانی', 'ron': 'رمانیایی', 'rus': 'روسی', 'slk': 'اسلواکی', 'slv': 'اسلوونیایی',
+            'spa': 'اسپانیایی', 'swa': 'سواحیلی', 'swe': 'سوئدی', 'tel': 'Telugu', 'tha': 'تایلندی', 'tur': 'ترکی',
+            'ukr': 'اکراینی', 'urd': 'اردو', 'vie': 'ویتنامی', 'vol': 'والاپاک', 'zsm': 'مالزیایی', 'por': 'پرتغالی'
         }
     };
     return countryCodeList[language];
@@ -314,7 +326,8 @@ function wikipediaLinkList(language) {
             'zsm':'https://en.wikipedia.org/wiki/Malaysian_language'
         }
     };
-    return wikipediaList[language];
+    if (wikipediaList.hasOwnProperty(language)) return wikipediaList[language];
+    else return wikipediaList['English'];
 }
 
 function partOfSpeechList(language) {
@@ -330,7 +343,14 @@ function partOfSpeechList(language) {
             'Adj': 'Adjective',
             'Verb': 'Verb',
             'Adv': 'Adverb'
+        },
+        'فارسى': {
+            'Noun': 'اسم',
+            'Adj': 'فعل',
+            'Verb': 'صفت',
+            'Adv': 'قید'
         }
     };
-    return posList[language];
+    if (posList.hasOwnProperty(language)) return posList[language];
+    else return posList['English'];
 }
