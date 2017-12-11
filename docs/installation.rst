@@ -105,32 +105,33 @@ If you don't have apache2 on your machine, you can either scour through the web 
 
 Create a configuration file on sites-available, on ubuntu it's on ``/etc/apache2/sites-available``, the content should be the following:
 
-``
-<VirtualHost *:80>
+.. code-block:: apacheconf
 
-	ServerAdmin email
+	<VirtualHost *:80>
 
-	ErrorLog ${APACHE_LOG_DIR}/error.log
-	CustomLog ${APACHE_LOG_DIR}/access.log combined
+		ServerAdmin email
 
-	ProxyPass /static/ !
-	ProxyPass / http://localhost:8000/
+		ErrorLog ${APACHE_LOG_DIR}/error.log
+		CustomLog ${APACHE_LOG_DIR}/access.log combined
 
-	Alias /static/ COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER
+		ProxyPass /static/ !
+		ProxyPass / http://localhost:8000/
 
-	<Directory COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER>
-		Options Indexes FollowSymLinks
-		AllowOverride None
-		Require all granted
-	</Directory>
-</VirtualHost>
-``
+		Alias /static/ COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER
+
+		<Directory COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER>
+			Options Indexes FollowSymLinks
+			AllowOverride None
+			Require all granted
+		</Directory>
+	</VirtualHost>
 
 After creating your config file run the following commands:
 
 ``sudo a2dissite 000-default`` and ``sudo a2ensite [config_file_name]`` name without extension. Then to restart apache2 run ``sudo apache2ctl restart``.
 
 And it should be serving everything correctly.
+
 Run
 ^^^
 To run on a development environment, cd int the project directory and run the following command ``python manage.py runserver IP:PORT``.	

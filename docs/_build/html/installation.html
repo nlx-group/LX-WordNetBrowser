@@ -99,6 +99,8 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#apache-configuration">Apache Configuration</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#gunicorn-installation-and-setup">gUnicorn Installation and Setup</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#apache-reverse-proxy">Apache Reverse Proxy</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#run">Run</a></li>
 </ul>
 </li>
@@ -238,10 +240,45 @@
 </div>
 <div class="section" id="apache-configuration">
 <h2>Apache Configuration<a class="headerlink" href="#apache-configuration" title="Permalink to this headline">¶</a></h2>
-<p>Forthcoming.</p>
+<p>We are going to use Apache on the front end of the server that is going to act as a reverse proxy to a WSGI server running on gUnicorn.</p>
+<div class="section" id="gunicorn-installation-and-setup">
+<h3>gUnicorn Installation and Setup<a class="headerlink" href="#gunicorn-installation-and-setup" title="Permalink to this headline">¶</a></h3>
+<p>To install gUnicorn simply run the command <code class="docutils literal"><span class="pre">pip3</span> <span class="pre">install</span> <span class="pre">gunicorn</span></code>.</p>
+<p>Setup/run is extremely easy, just run the command <code class="docutils literal"><span class="pre">gunicorn</span> <span class="pre">projectname.wsgi</span></code> in your project folder and it will start up the server. The server is started on 127.0.0.1:8000.</p>
+<p>More info here: <a class="reference external" href="https://docs.djangoproject.com/ko/1.11/howto/deployment/wsgi/gunicorn/">https://docs.djangoproject.com/ko/1.11/howto/deployment/wsgi/gunicorn/</a></p>
+</div>
+<div class="section" id="apache-reverse-proxy">
+<h3>Apache Reverse Proxy<a class="headerlink" href="#apache-reverse-proxy" title="Permalink to this headline">¶</a></h3>
+<p>If you don’t have apache2 on your machine, you can either scour through the web for the installer if you’re on a Windows machine or if you’re on ubuntu you can most likely install it through <code class="docutils literal"><span class="pre">apt-get</span> <span class="pre">install</span> <span class="pre">apache2</span></code>.</p>
+<p>Create a configuration file on sites-available, on ubuntu it’s on <code class="docutils literal"><span class="pre">/etc/apache2/sites-available</span></code>, the content should be the following:</p>
+<div class="highlight-apacheconf"><div class="highlight"><pre><span></span><span class="nt">&lt;VirtualHost</span> <span class="s">*:80</span><span class="nt">&gt;</span>
+
+        <span class="nb">ServerAdmin</span> <span class="k">email</span>
+
+        <span class="nb">ErrorLog</span> ${APACHE_LOG_DIR}/error.log
+        <span class="nb">CustomLog</span> ${APACHE_LOG_DIR}/access.log combined
+
+        <span class="nb">ProxyPass</span> <span class="sx">/static/</span> !
+        <span class="nb">ProxyPass</span> / http://localhost:8000/
+
+        <span class="nb">Alias</span> <span class="sx">/static/</span> COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER
+
+        <span class="nt">&lt;Directory</span> <span class="s">COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER</span><span class="nt">&gt;</span>
+                <span class="nb">Options</span> Indexes FollowSymLinks
+                <span class="nb">AllowOverride</span> <span class="k">None</span>
+                <span class="nb">Require</span> <span class="k">all</span> granted
+        <span class="nt">&lt;/Directory&gt;</span>
+<span class="nt">&lt;/VirtualHost&gt;</span>
+</pre></div>
+</div>
+<p>After creating your config file run the following commands:</p>
+<p><code class="docutils literal"><span class="pre">sudo</span> <span class="pre">a2dissite</span> <span class="pre">000-default</span></code> and <code class="docutils literal"><span class="pre">sudo</span> <span class="pre">a2ensite</span> <span class="pre">[config_file_name]</span></code> name without extension. Then to restart apache2 run <code class="docutils literal"><span class="pre">sudo</span> <span class="pre">apache2ctl</span> <span class="pre">restart</span></code>.</p>
+<p>And it should be serving everything correctly.</p>
+</div>
 <div class="section" id="run">
 <h3>Run<a class="headerlink" href="#run" title="Permalink to this headline">¶</a></h3>
 <p>To run on a development environment, cd int the project directory and run the following command <code class="docutils literal"><span class="pre">python</span> <span class="pre">manage.py</span> <span class="pre">runserver</span> <span class="pre">IP:PORT</span></code>.</p>
+<p>To run on a production environment, refer to the explanation above.</p>
 </div>
 </div>
 </div>
