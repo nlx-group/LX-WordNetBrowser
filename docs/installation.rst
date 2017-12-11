@@ -136,5 +136,5 @@ Run
 ^^^
 To run on a development environment, cd int the project directory and run the following command ``python manage.py runserver IP:PORT``.	
 
-To run on a production environment, refer to the explanation above.
+To run on a production environment, refer to the explanation above. The website will be reachable on your IP port 80.
 
