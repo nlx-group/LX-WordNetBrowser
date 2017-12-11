@@ -140,22 +140,22 @@ Create a configuration file on sites-available, on ubuntu it's on ``/etc/apache2
 ```apacheconf
 <VirtualHost *:80>
 
-		ServerAdmin email
+	ServerAdmin email
 
-		ErrorLog ${APACHE_LOG_DIR}/error.log
-		CustomLog ${APACHE_LOG_DIR}/access.log combined
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
 
-		ProxyPass /static/ !
-		ProxyPass / http://localhost:8000/
+	ProxyPass /static/ !
+	ProxyPass / http://localhost:8000/
 
-		Alias /static/ COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER
+	Alias /static/ COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER
 
-		<Directory COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER>
-			Options Indexes FollowSymLinks
-			AllowOverride None
-			Require all granted
-		</Directory>
-	</VirtualHost>
+	<Directory COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER>
+		Options Indexes FollowSymLinks
+		AllowOverride None
+		Require all granted
+	</Directory>
+</VirtualHost>
 ```
 After creating your config file run the following commands:
 
