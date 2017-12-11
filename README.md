@@ -117,5 +117,48 @@ If you have the two installations running you will have to have seperate CDN ser
 
 To run the server, make sure to have your working directory inside your project folder. To start the server, run the following command ```python manage.py runserver IP:PORT```.
 
-Forthcoming: Integration with Apache web server for a production grade configuration.
+To run on a production environment, refer to the explanation below. The website will be reachable on your IP port 80.
 
+## Apache Configuration
+
+We are going to use Apache on the front end of the server that is going to act as a reverse proxy to a WSGI server running on gUnicorn.
+
+## gUnicorn Installation and Setup
+
+To install gUnicorn simply run the command ``pip3 install gunicorn``.
+
+Setup/run is extremely easy, just run the command ``gunicorn projectname.wsgi`` in your project folder and it will start up the server. The server is started on 127.0.0.1:8000.
+
+More info here: https://docs.djangoproject.com/ko/1.11/howto/deployment/wsgi/gunicorn/
+
+## Apache Reverse Proxy
+
+If you don't have apache2 on your machine, you can either scour through the web for the installer if you're on a Windows machine or if you're on ubuntu you can most likely install it through ``apt-get install apache2``.
+
+Create a configuration file on sites-available, on ubuntu it's on ``/etc/apache2/sites-available``, the content should be the following:
+
+```apacheconf
+<VirtualHost *:80>
+
+		ServerAdmin email
+
+		ErrorLog ${APACHE_LOG_DIR}/error.log
+		CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+		ProxyPass /static/ !
+		ProxyPass / http://localhost:8000/
+
+		Alias /static/ COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER
+
+		<Directory COMPLETE_PATH_TO_YOUR_PROJECT_STATIC_FOLDER>
+			Options Indexes FollowSymLinks
+			AllowOverride None
+			Require all granted
+		</Directory>
+	</VirtualHost>
+```
+After creating your config file run the following commands:
+
+``sudo a2dissite 000-default`` and ``sudo a2ensite [config_file_name]`` name without extension. Then to restart apache2 run ``sudo apache2ctl restart``.
+
+And it should be serving everything correctly.
