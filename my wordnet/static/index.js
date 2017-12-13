@@ -7,7 +7,15 @@ const relationsShort = {'DirectHypernym': 'dhype', 'DirectHyponym': 'dhypo', 'Di
 const partOfSpeech = {'n': 'noun', 'v': 'verb', 'a': 'adj', 's': 'adj', 'r': 'adv'};
 const main_language = 'English';
 
+
+/**
+ * Formats and appends data retrieved from an AJAX request to the server for relation searches
+ * @param data is an object
+ * @param event is an event object
+ * @param remove is a boolean
+ */
 function expandedSearchFormatter(data,event,remove) {
+	// save relations information from data
 	for (var elem in data.relations) {
 		for (var element in data.relations[elem]) {
 			if (!info.hasOwnProperty(elem)) {
@@ -20,11 +28,15 @@ function expandedSearchFormatter(data,event,remove) {
 	}
 	var language = localStorage.getItem('language');
 	if (remove) {
+		// Remove to override previous result
 		$(event.target.parentNode.children[2]).remove();
 	}
+	// Append the results
 	$(event.target.parentNode).append('<ul>' + data.line + '</ul>');
+	// Differentiate between search types as there are different indices depending on them
 	if (event.target.className === 'DirectHypernym' || event.target.className === 'DirectHyponym' || event.target.className === 'InheritedHypernym' || event.target.className === 'FullHyponym' || event.target.className === 'DirectTroponym' || event.target.className == 'FullTroponym') {
 		$(event.target.parentNode.children[2]).find('a').click(function(event){expand(event)});
+		// the line comes with the names with a class 'mark' so as to substitute them with a link
 		$("span.mark").each(function() {
 			var lemma = $(this).text();
 			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma +'&search=normal">' + lemma + '</a>');
@@ -40,6 +52,7 @@ function expandedSearchFormatter(data,event,remove) {
 		});
 		if (event.target.className === 'DerivationallyRelatedForm') {
 			var relationsMenu = languageSettings('relationsMenu', language);
+			// translation for a menu line
 			$("span.derformMark").each(function() {
 				$(this).replaceWith(relationsMenu['derivationallyRelatedFormDisplay']);
 			});
@@ -47,14 +60,25 @@ function expandedSearchFormatter(data,event,remove) {
 		$(event.target.parentNode.children[1]).addClass(event.target.className + ' search');
 		$(event.target.parentNode.children[1]).find("ul").addClass('search');
 	}
+	// tooltip
 	$(".concept").prop('title', languageSettings('concept', language));
 	$('[data-tool-tip=tooltip]').tooltip({trigger:'hover', container:'body'});
 }
 
+/**
+ * Appends the result from a sentence frame search
+ * @param data is an object
+ * @param event is an event object
+ */
 function sentenceFrameFormatter(data, event) {
 	$(event.target.parentNode).append(data.line);
 }
 
+/**
+ * Sends a AJAX request to the server to retrieve information upon a relation search from the expanded menu
+ * @param event is an event object
+ * @param remove is a boolean
+ */
 function expandRequest(event, remove=false) {
 	var searchTypeParsed = relationsShort[event.target.className];
 	var className = $(event.target.parentNode).parent().parent().prop('class');
@@ -75,6 +99,10 @@ function expandRequest(event, remove=false) {
 	}
 }
 
+/**
+ * Checks whether the search request is valid (or if the results should be hidden)
+ * @param event is an event object
+ */
 function expandedSearch(event) {
 	if (event.target.className !== 'otherLangSearch') {
 		if ($(event.target.parentNode).find("ul.search").length !== 0) {
@@ -182,10 +210,18 @@ function expand(event) {
 	}
 }
 
+/**
+ * Renders a result not found message
+ * @param data is an object from a ajax result call
+ */
 function notFound(data) {
 	$("#results").append(languageSettings('searchNotFound', localStorage.getItem('language')));
 }
 
+/**
+ * Formats and displays results from a word query
+ * @param result is an object
+ */
 function formattedResults(result) {
 	for (var elem in result.relations) {
 		if (!info.hasOwnProperty(elem)) {
@@ -220,6 +256,10 @@ function formattedResults(result) {
 	});
 }
 
+/**
+ * Renders result boxes and requests a word search
+ * @param searchTerm is a String
+ */
 function search(searchTerm) {
 	var found;
 	currentSearchTerm = searchTerm;
@@ -231,6 +271,10 @@ function search(searchTerm) {
     var result = $.ajax({type:'GET',url:'.', data:'s=' + String(searchTerm) + '&st=norm1'}).done(function(data){if(data.found === 1){formattedResults(data);found=true;} else{notFound(data);found=false;}});
 }
 
+/**
+ * Renders the results of a translation request for a first time
+ * @param data is an Object
+ */
 function advancedSearchLangsAppender(data) {
 	var language = localStorage.getItem('language');
 	var countryCodeList = countryCodes(language);
@@ -264,6 +308,10 @@ function advancedSearchLangsAppender(data) {
     }
 }
 
+/**
+ * Renders results from a translation request for a single language(added on top of the already displayed)
+ * @param data is an Object
+ */
 function advancedSearchSingleLang(data) {
 	var language = localStorage.getItem('language');
 	var countryCodeList = countryCodes(language);
@@ -287,6 +335,11 @@ function advancedSearchSingleLang(data) {
 	}
 }
 
+/**
+ * Upon a translation request by the user, the server will be queried for results
+ * @param event is an Object
+ * @param classKnown is a boolean
+ */
 function advancedSearchLangs(event, classKnown=false) {
 	var offset;
 	var pos;
