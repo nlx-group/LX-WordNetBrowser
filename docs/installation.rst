@@ -64,6 +64,7 @@ Back to /static/views.py, search for 'display limit', which will be a comment se
 
 **IMPORTANT** Read the *Files* section in this document (:doc:`developer-documentation-general`) of developer documentation to understand how the file locations and format works.
 
+**ALSO IMPORTANT** At the end of these configurations run the command ``python3 manage.py migrate`` to migrate changes.
 
 WordNet Content Delivery Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
