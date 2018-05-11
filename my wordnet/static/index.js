@@ -81,7 +81,7 @@ function expandedSearchFormatter(data, event, remove) {
 		// the line comes with the names with a class 'mark' so as to substitute them with a link
 		$("span.mark").each(function () {
 			var lemma = $(this).text();
-			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma + '&search=normal">' + lemma + '</a>');
+			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="/search/s=' + lemma + '&search=normal">' + lemma + '</a>');
 		});
 		$(event.target.parentNode.children[2]).addClass(event.target.className + ' search');
 		$(event.target.parentNode.children[2]).find("ul").addClass('search');
@@ -91,7 +91,7 @@ function expandedSearchFormatter(data, event, remove) {
 		});
 		$("span.mark").each(function () {
 			var lemma = $(this).text();
-			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma + '&search=normal">' + lemma + '</a>');
+			$(this).replaceWith('<a style="color:black;font-weight:bold;" href="/search/s=' + lemma + '&search=normal">' + lemma + '</a>');
 		});
 		if (event.target.className === 'DerivationallyRelatedForm') {
 			var relationsMenu = languageSettings('relationsMenu', language);
@@ -309,7 +309,7 @@ function formattedResults(result) {
 	});
 	$("span.mark").each(function () {
 		var lemma = $(this).text();
-		$(this).replaceWith('<a style="color:black;font-weight:bold;" href="http://' + location.hostname + ':' + location.port + '/search/s=' + lemma + '&search=normal">' + lemma + '</a>');
+		$(this).replaceWith('<a style="color:black;font-weight:bold;" href="/search/s=' + lemma + '&search=normal">' + lemma + '</a>');
 	});
 	$(".concept").prop('title', languageSettings('concept', localStorage.getItem('language')));
 	$('[data-tool-tip=tooltip]').tooltip({
@@ -364,7 +364,7 @@ function search(searchTerm) {
  */
 function advancedSearchLangsAppender(data) {
 	var language = localStorage.getItem('language');
-	var countryCodeList = countryCodes(language);
+	var countryCodeList = CodeToCountry(language);
 	var wikipediaList = wikipediaLinkList(language);
 	var deflabel = languageSettings('defLabel', language);
 	if ($("#langResults div").length === 0) {
@@ -401,7 +401,7 @@ function advancedSearchLangsAppender(data) {
  */
 function advancedSearchSingleLang(data) {
 	var language = localStorage.getItem('language');
-	var countryCodeList = countryCodes(language);
+	var countryCodeList = CodeToCountry(language);
 	var wikipediaList = wikipediaLinkList(language);
 	var deflabel = languageSettings('defLabel', language);
 	if ($("#langResults div").length === 0) {
@@ -496,7 +496,7 @@ function main() {
 	$("#globe").prop('title', languageSettings('globe', language));
 	$("#advanced-search").prop('title', languageSettings('search', language));
 	$("#langSelectBox").prop('title', languageSettings('languageChange', language));
-	var countryCodeList = countryCodes(language);
+	var countryCodeList = CodeToCountry(language);
 	for (var elem in countryCodeList) {
 		if (countryCodeList[elem] !== main_language) {
 			$(".langmenu").append('<option value="' + elem + '">' + countryCodeList[elem] + '</option>');
@@ -635,7 +635,7 @@ function main() {
 		$("#langSelectList").append('<option value="' + languages[i] + '">' + languages[i] + '</option>');
 	}
 	$("#langSelectList").select2();
-	$("#references").prop("href", 'http://' + location.hostname + ':' + location.port + '/references.html');
+	$("#references").prop("href", '/references.html');
 
 }
 $(document).ready(function () {
