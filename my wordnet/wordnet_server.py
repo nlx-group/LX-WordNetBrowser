@@ -13,7 +13,8 @@ class WordNet:
         self.browser_type = browser_type
         self.wordnet_content = self.wordnet_loader()
         self.tab_content = self.tab_loader()
-        self.pair_content = self.pair_loader()
+        if browser_type == "pluricentric":
+            self.pair_content = self.pair_loader()
 
     def wordnet_loader(self):
         if self.browser_type == 'pluricentric':
