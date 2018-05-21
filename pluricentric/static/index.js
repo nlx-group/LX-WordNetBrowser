@@ -557,7 +557,7 @@ function main() {
 		} else {
 			$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><a href="http://lx-wordnetbrowser.readthedocs.io/en/latest/translations.html"' +
 				'target="_blank" class="topRight"><img class="popup-img" src="/static/assets/images/GitHub-Mark-120px-plus.png">' +
-				'</a><i class="material-icons close" id="popup-close">' +
+				'</a><i class="material-icons close" style="color: black" id="popup-close">' +
 				'cancel</i><p class="pop-up-p">' + $(this).text() + ' is not ' +
 				'implemented yet. If you are fluent and would like to help, click on the image above to find out more.' +
 				'</p></div></div></div>');
@@ -688,7 +688,7 @@ function main() {
 		} else {
 			$('body').append('<div class="pop-up"><div class="content"><div class="popup-container"><a href="http://lx-wordnetbrowser.readthedocs.io/en/latest/translations.html"' +
 				'target="_blank" class="topRight"><img class="popup-img" src="/static/assets/images/GitHub-Mark-120px-plus.png">' +
-				'</a><i class="material-icons close" id="popup-close">' +
+				'</a><i class="material-icons close" style="color: black" id="popup-close">' +
 				'cancel</i><p class="pop-up-p">' + $("#langSelectList").val() + ' is not ' +
 				'implemented yet. If you are fluent and would like to help, click on the image above to find out more.' +
 				'</p></div></div></div>');
