@@ -52,7 +52,7 @@ You will need to have the virtual environment activated while the web server is 
 
 With all the dependencies installed, you can start to configure the wordnet browser.
 
-CD to the folder where your project is, and execute the command ```django-adming.py startproject webapp```.
+CD to the folder where your project is, and execute the command ```django-admin.py startproject webapp```.
 
 Copy the folders on the downloaded code (not requirements.txt) into the folder your project is on. 
 
