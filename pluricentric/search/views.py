@@ -55,7 +55,8 @@ code_to_language = {
 }
 
 pivot_language = 'English'  # Pivot language
-wordnet_server = xmlrpc.client.ServerProxy('http://127.0.0.1:9004')  # Change port to the one you're using
+wordnet_server = xmlrpc.client.ServerProxy(
+    'http://127.0.0.1:9004')  # Change port to the one you're using
 
 
 class Parsers:
@@ -77,11 +78,12 @@ class Parsers:
             # split_line[4:4 + int(split_line[3], 16) * 2:2] gets all the names
             html_line = '<li class="' + offset + '-' + split_line[
                 2] + '"><a class="concept" data-tool-tip="tooltip" style="cursor:pointer">rels </a> <span style="color:red">(' + \
-                        split_line[2] + ')</span>' + ''.join(
+                split_line[2] + ')</span>' + ''.join(
                 [' ' + '<span class="mark">' + name.replace('_', ' ') + '</span>' + ',' for name in
                  split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + '<span class="mark">' + split_line[
-                            4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
-            gloss_split = line.split('|')[1].split(';')  # Get the gloss by splitting the line by '|'
+                4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
+            # Get the gloss by splitting the line by '|'
+            gloss_split = line.split('|')[1].split(';')
             # Descriptions concatenated with examples gives you the whole formatted gloss
             descriptions = list(
                 map(lambda x: x[(1 if x[0] == ' ' else 0):], list(filter(lambda x: '"' not in x, gloss_split))))
@@ -92,21 +94,23 @@ class Parsers:
         else:
             html_line = '<li class="' + offset + '-' + split_line[
                 2] + '"><a class="concept" data-tool-tip="tooltip" style="cursor:pointer">rels </a> <span style="color:red">(' + \
-                        split_line[2] + ')</span>'
+                split_line[2] + ')</span>'
             # Derivationaly related forms have source lemma and target lemma, that have to be identified
             source_word, target_word = ('', '')
             for i in range(5 + int(history[3], 16) * 2,
                            5 + int(history[3], 16) * 2 + int(history[4 + int(history[3], 16) * 2]) * 4, 4):
                 if history[i + 1] == offset:
                     # Search for the relation that targets synset and choose the target word
-                    source_word, target_word = (int(history[i + 3][0:2]), int(history[i + 3][2:]))
+                    source_word, target_word = (
+                        int(history[i + 3][0:2]), int(history[i + 3][2:]))
                     break
             if target_word == 0:
                 # If target word is 00 then it means its targeting all lemmas
                 html_line += ''.join([' ' + '<span class="mark">' + name.replace('_', ' ') + '</span>' + ',' for name in
                                       split_line[
                                       4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + '<span class="mark">' + \
-                             split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
+                             split_line[4 + int(split_line[3], 16)
+                                        * 2 - 2].replace('_', ' ') + '</span>'
             else:
                 # Else target word indice
                 html_line += '<span class="mark"> ' + split_line[4:4 + int(split_line[3], 16) * 2:2][
@@ -115,10 +119,12 @@ class Parsers:
             if source_word == 0:
                 # If source word is 00 then its targeting all lemmas
                 html_line += ' [<span class="derformMark"></span>' + ''.join([' ' + '<span class="mark">' +
-                                                                              name.replace('_', ' ') + '</span>' + ','
+                                                                              name.replace(
+                                                                                  '_', ' ') + '</span>' + ','
                                                                               for name in history[4:4 + int(history[3],
                                                                                                             16) * 2 - 2:2]]) + ' ' + '<span class="mark">' + \
-                             history[4 + int(history[3], 16) * 2 - 2].replace('_', ' ') + '</span>]'
+                             history[4 + int(history[3], 16) * 2 -
+                                     2].replace('_', ' ') + '</span>]'
             else:
                 # Else target word indice
                 html_line += ' [<span class="derformMark"></span> ' + '<span class="mark">' + \
@@ -153,9 +159,10 @@ class Parsers:
         """
         word_count = int(self.split_line[3], 16)
         pointer_count = int(self.split_line[3 + word_count * 2 + 1])
-        frames_count = int(self.split_line[word_count * 2 + pointer_count * 4 + 5])
+        frames_count = int(
+            self.split_line[word_count * 2 + pointer_count * 4 + 5])
         return list(map(lambda x: str(int(x)), self.split_line[
-                                               7 + word_count * 2 + pointer_count * 4: 7 + word_count * 2 + pointer_count * 4 + 3 * frames_count: 3]))
+            7 + word_count * 2 + pointer_count * 4: 7 + word_count * 2 + pointer_count * 4 + 3 * frames_count: 3]))
 
     def offsets(self):
         """
@@ -184,15 +191,19 @@ class SearchRoutines:
         Ensures: A dictionary with an HTML formatted line, having line as its key and a dictionary with
         the relations present in that offset with relations as its key.
         """
-        relations = {part_of_speech[pos]: {offset: []}}  # Relations dictionary organised by POS
+        relations = {part_of_speech[pos]: {offset: []}
+                     }  # Relations dictionary organised by POS
         line = ''  # HTML Line
-        synset_line = Parsers(wordnet_server.get_data(language, part_of_speech[pos], offset))  # Instanciate the parser
+        synset_line = Parsers(wordnet_server.get_data(
+            language, part_of_speech[pos], offset))  # Instanciate the parser
         split_line = synset_line.split_line  # Get the list of the line split
         for i in synset_line.pointers():
             if split_line[i] not in relations[part_of_speech[pos]][offset]:
                 # If the relation isn't recorded yet in the POS:Offset, add it in
                 relations[part_of_speech[pos]][offset].append(split_line[i])
-        line += '<ul>' + Parsers.line_parser(split_line, synset_line.line, offset, search_type, '') + '</ul>'
+        line += '<ul>' + \
+            Parsers.line_parser(split_line, synset_line.line,
+                                offset, search_type, '') + '</ul>'
         return {'line': line, 'relations': relations}
 
     def full_search(self, language, pos, offset, search_type, depth, history, max_depth=None, max_length=None):
@@ -208,12 +219,14 @@ class SearchRoutines:
         formatted line of the search and the other key containing another dictionary which serves as referral
         dictionaries, having each offset map and the relations it has.
         """
-        pointer = pointer_map[pointer_name_map[search_type]]  # Get the pointer symbol
+        pointer = pointer_map[pointer_name_map[search_type]
+                              ]  # Get the pointer symbol
         relations = {}  # relations for POS:SYNSET
         line = ''  # HTML Line
         first = True
         idnum2 = 0  # Just a counter for indices
-        synset_line = Parsers(wordnet_server.get_data(language, part_of_speech[pos], offset))  # Instanciate the parser
+        synset_line = Parsers(wordnet_server.get_data(
+            language, part_of_speech[pos], offset))  # Instanciate the parser
         split_line = synset_line.split_line  # Get the split line
         relations_offset = []
         for i in synset_line.pointers():
@@ -223,19 +236,22 @@ class SearchRoutines:
             if split_line[i] == pointer:
                 # If the pointer targeted is the same pointer for the relation search, add the synset offset to the list
                 # relations_offset to display results and go further down the graph
-                relations_offset.append(split_line[i + 1] + '-' + split_line[i + 2])
+                relations_offset.append(
+                    split_line[i + 1] + '-' + split_line[i + 2])
             if split_line[0] not in relations[part_of_speech[pos]]:
                 # If the current synset(split_line[0]) isn't in the relations dictionary, it gets added
                 relations[part_of_speech[pos]][split_line[0]] = [split_line[i]]
             else:
                 if split_line[i] not in relations[part_of_speech[pos]][split_line[0]]:
                     # Else if the relation pointer isn't in the relations table, it gets added to POS:Synset
-                    relations[part_of_speech[pos]][split_line[0]].append(split_line[i])
+                    relations[part_of_speech[pos]
+                              ][split_line[0]].append(split_line[i])
         max_local_length = 0
         if max_length is not None:
             # This is one of the restrictions that you can use if you don't wish to transverse the whole graph searching
             # for relations
-            max_local_length = (len(relations_offset) if max_length > len(relations_offset) else max_length)
+            max_local_length = (len(relations_offset) if max_length > len(
+                relations_offset) else max_length)
         else:
             max_local_length = len(relations_offset)
         if max_depth == None:
@@ -252,7 +268,8 @@ class SearchRoutines:
                         first = False
                     # Recursive function, it follows down the line till the end for each node
                     result = self.full_search(language, relations_offset[idnum2].split("-")[1],
-                                              relations_offset[idnum2].split("-")[0], search_type,
+                                              relations_offset[idnum2].split(
+                                                  "-")[0], search_type,
                                               str(int(depth) + 1),
                                               (
                                                   split_line if search_type == 'derform' and history == '' else history),
@@ -265,14 +282,17 @@ class SearchRoutines:
                         for offset in result['relations'][key]:
                             if offset not in relations[key]:
                                 relations[key][offset] = result['relations'][key][offset]
-                    line += result['line'] + '</li>'  # Since the parser returns an <li> that is unclosed, we close it
+                    # Since the parser returns an <li> that is unclosed, we close it
+                    line += result['line'] + '</li>'
                     idnum2 += 1
                 return {'relations': relations, 'line': line + '</ul>'}
             else:
                 # If there's no synset relations then it just returns an empty relation table and returns
                 if split_line[0] not in relations[part_of_speech[pos]]:
                     relations[part_of_speech[pos]][split_line[0]] = []
-                line += '<ul>' + Parsers.line_parser(split_line, synset_line.line, split_line[0], search_type, history)
+                line += '<ul>' + \
+                    Parsers.line_parser(
+                        split_line, synset_line.line, split_line[0], search_type, history)
                 return {'line': line + '</li></ul>', 'relations': relations}
         else:
             # This follows the same thought track as the branch above but this time its restricted in depth and
@@ -284,7 +304,8 @@ class SearchRoutines:
                     first = False
                 for _ in range(max_local_length):
                     result = self.full_search(language, relations_offset[idnum2].split("-")[1],
-                                              relations_offset[idnum2].split("-")[0], search_type,
+                                              relations_offset[idnum2].split(
+                                                  "-")[0], search_type,
                                               str(int(depth) + 1),
                                               (
                                                   split_line if search_type == 'derform' and history == '' else history),
@@ -336,7 +357,8 @@ class SearchRoutines:
         Requires: Language is a string, offset is a string.
         Ensures: A dictionary with one key:value pair, being the HTML formatted line.
         """
-        synset_line = Parsers(wordnet_server.get_data(language, 'verb', offset))  # Instanciate the parser
+        synset_line = Parsers(wordnet_server.get_data(
+            language, 'verb', offset))  # Instanciate the parser
         html_line = '<ul class="search">'  # HTML Line
         names = []
         verbs_with_examples = {}
@@ -370,7 +392,8 @@ class SearchRoutines:
             for frame in synset_line.frames():
                 line = wordnet_server.get_frame(language, frame)
                 if line is not None:
-                    html_line += '<li>' + line[len(line.split()[0]) + 1:] + '</li>'
+                    html_line += '<li>' + \
+                        line[len(line.split()[0]) + 1:] + '</li>'
         return {'line': html_line + '</ul>'}
 
     @staticmethod
@@ -387,18 +410,22 @@ class SearchRoutines:
         data_lines = []
         html_line = ''
         relations = {}
-        result = {'relations': {}, 'line': ''}  # Result dictionary like seen before
-        file_types = wordnet_server.pos_available(language)  # Check POS available in that language
+        # Result dictionary like seen before
+        result = {'relations': {}, 'line': ''}
+        file_types = wordnet_server.pos_available(
+            language)  # Check POS available in that language
         for pos in file_types:
             if pos != 'vrb':
                 # Instanciate the parser with the index line
-                synset_index = Parsers(wordnet_server.get_index(language, pos, lemma))
+                synset_index = Parsers(
+                    wordnet_server.get_index(language, pos, lemma))
                 index_line = synset_index.line
                 if index_line is not None:
                     offsets = synset_index.offsets()
                     for offset in offsets:
                         # Append to a list the data lines of each synset whose lemma is found
-                        data_lines.append(wordnet_server.get_data(language, pos, offset))
+                        data_lines.append(
+                            wordnet_server.get_data(language, pos, offset))
                     for line in data_lines:
                         synset_line = Parsers(line)
                         split_line = synset_line.split_line
@@ -412,31 +439,34 @@ class SearchRoutines:
                         # <li> for each result in each pos
                         html_line += '<li class="' + split_line[
                             0] + '-' + split_line[
-                                         2] + '"><a class="concept" data-tool-tip="tooltip" style="cursor:pointer">rels </a> <span style="color:red">(' + \
-                                     split_line[2] + ')</span>' + ''.join(
+                            2] + '"><a class="concept" data-tool-tip="tooltip" style="cursor:pointer">rels </a> <span style="color:red">(' + \
+                            split_line[2] + ')</span>' + ''.join(
                             [' ' + '<span class="mark">' + name.replace('_', ' ') + '</span>' + ',' for name in
                              split_line[4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + '<span class="mark">' + \
-                                     split_line[
-                                         4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
+                            split_line[
+                            4 + int(split_line[3], 16) * 2 - 2].replace('_', ' ') + '</span>'
                         # Build the gloss
                         gloss_split = synset_line.line.split('|')[1].split(';')
                         descriptions = list(
                             map(lambda x: x[(1 if x[0] == ' ' else 0):],
                                 list(filter(lambda x: '"' not in x, gloss_split))))
-                        examples = list(filter(lambda x: '"' in x, gloss_split))
+                        examples = list(
+                            filter(lambda x: '"' in x, gloss_split))
                         html_line += ' (' + ';'.join(descriptions).rstrip() + ') ' + ';'.join(
                             list(map(lambda x: '<span style="font-style:italic">' + x + '</span>', examples)))
                     # After having gone through each data line, encapsulate the <li>'s in a <ul> which pertains to
                     # The pos
                     result['line'] += ('<h2 class="pos">' + pos[0].upper() + pos[
-                                                                             1:] + '</h2>' if not overview else '') + html_line + '</li>'
-                    result['relations'][(pos if pos != 's' else 'adj')] = relations
+                        1:] + '</h2>' if not overview else '') + html_line + '</li>'
+                    result['relations'][(
+                        pos if pos != 's' else 'adj')] = relations
                     result['found'] = 1
                     index_line = ''
                     data_lines = []
                     html_line = ''
                     relations = {}
-        result['line'] = ('<h1>' + language + '</h1>' if not overview else '') + result['line']
+        result['line'] = ('<h1>' + language +
+                          '</h1>' if not overview else '') + result['line']
         result['language'] = language
         result['conflict'] = 0
         result['found'] = 1
@@ -464,7 +494,8 @@ class SearchRoutines:
             found = False
             while not found and i < len(pos_available):
                 if pos_available[i] != 'vrb':
-                    line = wordnet_server.get_index(language, pos_available[i], lemma)
+                    line = wordnet_server.get_index(
+                        language, pos_available[i], lemma)
                     # If there's an index line for lemma, then it means it appears in that language
                     if line is not None:
                         found = True
@@ -494,18 +525,22 @@ class SearchRoutines:
         pair_info_status = False
         pivot_language_offsets = []
         if pivot_language != source_language:
-            pair_info = wordnet_server.get_pair(source_language, offset, pos)  # Gets pair from pair file, if exists
+            # Gets pair from pair file, if exists
+            pair_info = wordnet_server.get_pair(source_language, offset, pos)
             if pair_info is None:
                 # If no pair info, then will have to obtain information from tab files
-                split_line = wordnet_server.get_data(source_language, part_of_speech[pos], offset).split()
+                split_line = wordnet_server.get_data(
+                    source_language, part_of_speech[pos], offset).split()
                 lemmas = split_line[4:4 + int(split_line[3], 16) * 2:2]
-                tab_lines = wordnet_server.get_whole_tab(language_codes[source_language])
+                tab_lines = wordnet_server.get_whole_tab(
+                    language_codes[source_language])
                 for elem in tab_lines:
                     lines = tab_lines[elem]
                     for line in lines:
                         line = line.split()
                         if line[0] != '#' and line[0].split('-')[1] == pos and ' '.join(line[2:]) in lemmas:
-                            pivot_language_offsets.append((' '.join(line[2:]), line[0]))
+                            pivot_language_offsets.append(
+                                (' '.join(line[2:]), line[0]))
                         if len(lemmas) == len(pivot_language_offsets):
                             break
                 senses = {}
@@ -520,7 +555,8 @@ class SearchRoutines:
                             else:
                                 senses[tup[1]] += 1
                                 lemma_in_sense[tup[1]].append(lemma)
-                max_sense = [k for k, v in senses.items() if v == max(senses.values())]
+                max_sense = [k for k, v in senses.items() if v ==
+                             max(senses.values())]
                 if len(max_sense) == 1:
                     pivot_language_offset = max_sense[0]
                 elif len(max_sense) > 1:
@@ -528,33 +564,37 @@ class SearchRoutines:
             else:
                 # Else store pair info
                 pivot_language_offset = pair_info
-                pair_info_status = True
         else:
             pivot_language_offset = offset + "-" + pos
         for language in languages:
             html_lines[language] = {'lemma': [], 'def': []}
             if pivot_language_offset != '':
-                if pair_info_status:
-                    # If there's pair info then there's also wordnet data, so you can get the information from there
-                    # Directly
+                # If there's pair info then there's also wordnet data, so you can get the information from there
+                # Directly
+                language_synset = wordnet_server.lookup_eq_pair(
+                    code_to_language[language], pivot_language_offset.split("-")[0], pivot_language_offset.split("-")[1])
+                if language_synset is not None:
                     line = wordnet_server.get_data(code_to_language[language],
-                                                   part_of_speech[pivot_language_offset.split("-")[1]],
-                                                   pivot_language_offset.split("-")[0])
+                                                    part_of_speech[language_synset.split(
+                                                        "-")[1]],
+                                                    language_synset.split("-")[0])
                     split_line = line.split()
                     html_lines[language]['lemma'].append(''.join([' ' + name.replace('_', ' ') + ',' for name in
-                                                                  split_line[
-                                                                  4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' + \
-                                                         split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_',
+                                                                    split_line[
+                                                                    4:4 + int(split_line[3], 16) * 2 - 2:2]]) + ' ' +
+                                                            split_line[4 + int(split_line[3], 16) * 2 - 2].replace('_',
                                                                                                                 ' '))
-                    html_lines[language]['def'].append(''.join(
-                        [split_line[split_line.index('|') + 1:][0]] + [' ' + elem for elem in
-                                                                       split_line[
-                                                                       split_line.index(
-                                                                           '|') + 2:]]))
+                    if len(split_line[split_line.index('|') + 1:]) > 0:
+                        html_lines[language]['def'].append(''.join(
+                            [split_line[split_line.index('|') + 1:][0]] + [' ' + elem for elem in
+                                                                        split_line[
+                                                                            split_line.index(
+                                                                                '|') + 2:]]))
+                                        
                 else:
                     # Else gets info from the tab files
                     line = wordnet_server.get_tab(language, pivot_language_offset.split("-")[0],
-                                                  pivot_language_offset.split("-")[1])
+                                                    pivot_language_offset.split("-")[1])
                     if line is not None:
                         synline = line[0].split()
                         html_lines[language]['lemma'].append(synline[2])
@@ -611,7 +651,8 @@ class Initializer:
                                                    request_object['t']))
             elif request_object['st'] == 'stframe':
                 return JsonResponse(
-                    SearchRoutines().sentence_frame_search(request_object['language'], request_object['o'])
+                    SearchRoutines().sentence_frame_search(
+                        request_object['language'], request_object['o'])
                 )
         else:
             return Renders.index(request)
