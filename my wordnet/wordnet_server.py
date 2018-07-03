@@ -16,130 +16,136 @@ class WordNet:
         if browser_type == "pluricentric":
             self.pair_content = self.pair_loader()
 
+    def _wordnet_pluri_loader(self):
+        wordnet_content = {}
+        languages = os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets'))
+        for language in languages:
+            if language[0] != '.':
+                wordnet_content[language] = {}
+                files_present = self.check_file_types(os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets', language)))
+                for file in files_present:
+                    wordnet_content[language][file] = {}
+                    if file != 'vrb':
+                        with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'index.' + file)) as file_reader:
+                            wordnet_content[language][file]['index'] = {}
+                            for line in file_reader:
+                                if line[0] != '#' and line[0] != ' ':
+                                    wordnet_content[language][file]['index'][line.split()[0]] = line.rstrip('\n')
+                        with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'data.' + file)) as file_reader:
+                            wordnet_content[language][file]['data'] = {}
+                            for line in file_reader:
+                                if line[0] != '#' and line[0] != ' ':
+                                    wordnet_content[language][file]['data'][line.split()[0]] = line.rstrip('\n')
+                    else:
+                        files = os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets', language))
+                        if 'sentidx.vrb' in files:
+                            wordnet_content[language][file]['sentidx'] = {}
+                            with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'sentidx.vrb')) as file_reader:
+                                for line in file_reader:
+                                    wordnet_content[language][file]['sentidx'][line.split('%')[0]] = line.rstrip('\n')
+                        if 'sents.vrb' in files:
+                            wordnet_content[language][file]['sents'] = {}
+                            with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'sents.vrb')) as file_reader:
+                                for line in file_reader:
+                                    wordnet_content[language][file]['sents'][line.split()[0]] = line.rstrip('\n')
+                        if 'frames.vrb' in files:
+                            wordnet_content[language][file]['frames'] = {}
+                            with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'frames.vrb')) as file_reader:
+                                for line in file_reader:
+                                    wordnet_content[language][file]['frames'][line.split()[0]] = line.rstrip('\n')
+        print('WordNet content loaded')
+        logging.info('WordNet content loaded')
+        return wordnet_content
+
+    def _wordnet_basic_loader(self):
+        wordnet_content = {}
+        # main language
+        files_present_main = self.check_file_types(
+            os.listdir(os.path.join(self.browser_path, 'langdata', 'main')))
+        wordnet_content['main'] = {}
+        for file in files_present_main:
+            wordnet_content['main'][file] = {}
+            if file != 'vrb':
+                with open(os.path.join(self.browser_path, 'langdata', 'main',
+                                        'index.' + file)) as file_reader:
+                    wordnet_content['main'][file]['index'] = {}
+                    for line in file_reader:
+                        if line[0] != '#' and line[0] != ' ':
+                            wordnet_content['main'][file]['index'][line.split()[0]] = line.rstrip('\n')
+                with open(os.path.join(self.browser_path, 'langdata', 'main',
+                                        'data.' + file)) as file_reader:
+                    wordnet_content['main'][file]['data'] = {}
+                    for line in file_reader:
+                        if line[0] != '#' and line[0] != ' ':
+                            wordnet_content['main'][file]['data'][line.split()[0]] = line.rstrip('\n')
+            else:
+                files = os.listdir(os.path.join(self.browser_path, 'langdata', 'main'))
+                if 'sentidx.vrb' in files:
+                    wordnet_content['main'][file]['sentidx'] = {}
+                    with open(os.path.join(self.browser_path, 'langdata', 'main',
+                                            'sentidx.vrb')) as file_reader:
+                        for line in file_reader:
+                            wordnet_content['main'][file]['sentidx'][line.split('%')[0]] = line.rstrip('\n')
+                if 'sents.vrb' in files:
+                    wordnet_content['main'][file]['sents'] = {}
+                    with open(os.path.join(self.browser_path, 'langdata', 'main',
+                                            'sents.vrb')) as file_reader:
+                        for line in file_reader:
+                            wordnet_content['main'][file]['sents'][line.split()[0]] = line.rstrip('\n')
+                if 'frames.vrb' in files:
+                    wordnet_content['main'][file]['frames'] = {}
+                    with open(os.path.join(self.browser_path, 'langdata', 'main',
+                                            'frames.vrb')) as file_reader:
+                        for line in file_reader:
+                            wordnet_content['main'][file]['frames'][line.split()[0]] = line.rstrip('\n')
+        # pivot
+        files_present_pivot = self.check_file_types(
+            os.listdir(os.path.join(self.browser_path, 'langdata', 'pivot')))
+        wordnet_content['pivot'] = {}
+        for file in files_present_pivot:
+            wordnet_content['pivot'][file] = {}
+            if file != 'vrb':
+                with open(os.path.join(self.browser_path, 'langdata', 'pivot',
+                                        'index.' + file)) as file_reader:
+                    wordnet_content['pivot'][file]['index'] = {}
+                    for line in file_reader:
+                        if line[0] != '#' and line[0] != ' ':
+                            wordnet_content['pivot'][file]['index'][line.split()[0]] = line.rstrip('\n')
+                with open(os.path.join(self.browser_path, 'langdata', 'pivot',
+                                        'data.' + file)) as file_reader:
+                    wordnet_content['pivot'][file]['data'] = {}
+                    for line in file_reader:
+                        if line[0] != '#' and line[0] != ' ':
+                            wordnet_content['pivot'][file]['data'][line.split()[0]] = line.rstrip('\n')
+            else:
+                files = os.listdir(os.path.join(self.browser_path, 'langdata', 'pivot'))
+                if 'sentidx.vrb' in files:
+                    wordnet_content['pivot'][file]['sentidx'] = {}
+                    with open(os.path.join(self.browser_path, 'langdata', 'pivot',
+                                            'sentidx.vrb')) as file_reader:
+                        for line in file_reader:
+                            wordnet_content['pivot'][file]['sentidx'][line.split('%')[0]] = line.rstrip('\n')
+                if 'sents.vrb' in files:
+                    wordnet_content['pivot'][file]['sents'] = {}
+                    with open(os.path.join(self.browser_path, 'langdata', 'pivot',
+                                            'sents.vrb')) as file_reader:
+                        for line in file_reader:
+                            wordnet_content['pivot'][file]['sents'][line.split()[0]] = line.rstrip('\n')
+                if 'frames.vrb' in files:
+                    wordnet_content['pivot'][file]['frames'] = {}
+                    with open(os.path.join(self.browser_path, 'langdata', 'pivot',
+                                            'frames.vrb')) as file_reader:
+                        for line in file_reader:
+                            wordnet_content['pivot'][file]['frames'][line.split()[0]] = line.rstrip('\n')
+        print('WordNet content loaded')
+        logging.info("WordNet content loaded")
+        return wordnet_content
+
     def wordnet_loader(self):
         if self.browser_type == 'pluricentric':
-            wordnet_content = {}
-            languages = os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets'))
-            for language in languages:
-                if language[0] != '.':
-                    wordnet_content[language] = {}
-                    files_present = self.check_file_types(os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets', language)))
-                    for file in files_present:
-                        wordnet_content[language][file] = {}
-                        if file != 'vrb':
-                            with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'index.' + file)) as file_reader:
-                                wordnet_content[language][file]['index'] = {}
-                                for line in file_reader:
-                                    if line[0] != '#' and line[0] != ' ':
-                                        wordnet_content[language][file]['index'][line.split()[0]] = line.rstrip('\n')
-                            with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'data.' + file)) as file_reader:
-                                wordnet_content[language][file]['data'] = {}
-                                for line in file_reader:
-                                    if line[0] != '#' and line[0] != ' ':
-                                        wordnet_content[language][file]['data'][line.split()[0]] = line.rstrip('\n')
-                        else:
-                            files = os.listdir(os.path.join(self.browser_path, 'langdata', 'wordnets', language))
-                            if 'sentidx.vrb' in files:
-                                wordnet_content[language][file]['sentidx'] = {}
-                                with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'sentidx.vrb')) as file_reader:
-                                    for line in file_reader:
-                                        wordnet_content[language][file]['sentidx'][line.split('%')[0]] = line.rstrip('\n')
-                            if 'sents.vrb' in files:
-                                wordnet_content[language][file]['sents'] = {}
-                                with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'sents.vrb')) as file_reader:
-                                    for line in file_reader:
-                                        wordnet_content[language][file]['sents'][line.split()[0]] = line.rstrip('\n')
-                            if 'frames.vrb' in files:
-                                wordnet_content[language][file]['frames'] = {}
-                                with open(os.path.join(self.browser_path, 'langdata', 'wordnets', language, 'frames.vrb')) as file_reader:
-                                    for line in file_reader:
-                                        wordnet_content[language][file]['frames'][line.split()[0]] = line.rstrip('\n')
-            print('WordNet content loaded')
-            logging.info('WordNet content loaded')
-            return wordnet_content
+            return self._wordnet_pluri_loader()
         else:
-            wordnet_content = {}
-            # main language
-            files_present_main = self.check_file_types(
-                os.listdir(os.path.join(self.browser_path, 'langdata', 'main')))
-            wordnet_content['main'] = {}
-            for file in files_present_main:
-                wordnet_content['main'][file] = {}
-                if file != 'vrb':
-                    with open(os.path.join(self.browser_path, 'langdata', 'main',
-                                           'index.' + file)) as file_reader:
-                        wordnet_content['main'][file]['index'] = {}
-                        for line in file_reader:
-                            if line[0] != '#' and line[0] != ' ':
-                                wordnet_content['main'][file]['index'][line.split()[0]] = line.rstrip('\n')
-                    with open(os.path.join(self.browser_path, 'langdata', 'main',
-                                           'data.' + file)) as file_reader:
-                        wordnet_content['main'][file]['data'] = {}
-                        for line in file_reader:
-                            if line[0] != '#' and line[0] != ' ':
-                                wordnet_content['main'][file]['data'][line.split()[0]] = line.rstrip('\n')
-                else:
-                    files = os.listdir(os.path.join(self.browser_path, 'langdata', 'main'))
-                    if 'sentidx.vrb' in files:
-                        wordnet_content['main'][file]['sentidx'] = {}
-                        with open(os.path.join(self.browser_path, 'langdata', 'main',
-                                               'sentidx.vrb')) as file_reader:
-                            for line in file_reader:
-                                wordnet_content['main'][file]['sentidx'][line.split('%')[0]] = line.rstrip('\n')
-                    if 'sents.vrb' in files:
-                        wordnet_content['main'][file]['sents'] = {}
-                        with open(os.path.join(self.browser_path, 'langdata', 'main',
-                                               'sents.vrb')) as file_reader:
-                            for line in file_reader:
-                                wordnet_content['main'][file]['sents'][line.split()[0]] = line.rstrip('\n')
-                    if 'frames.vrb' in files:
-                        wordnet_content['main'][file]['frames'] = {}
-                        with open(os.path.join(self.browser_path, 'langdata', 'main',
-                                               'frames.vrb')) as file_reader:
-                            for line in file_reader:
-                                wordnet_content['main'][file]['frames'][line.split()[0]] = line.rstrip('\n')
-            # pivot
-            files_present_pivot = self.check_file_types(
-                os.listdir(os.path.join(self.browser_path, 'langdata', 'pivot')))
-            wordnet_content['pivot'] = {}
-            for file in files_present_pivot:
-                wordnet_content['pivot'][file] = {}
-                if file != 'vrb':
-                    with open(os.path.join(self.browser_path, 'langdata', 'pivot',
-                                           'index.' + file)) as file_reader:
-                        wordnet_content['pivot'][file]['index'] = {}
-                        for line in file_reader:
-                            if line[0] != '#' and line[0] != ' ':
-                                wordnet_content['pivot'][file]['index'][line.split()[0]] = line.rstrip('\n')
-                    with open(os.path.join(self.browser_path, 'langdata', 'pivot',
-                                           'data.' + file)) as file_reader:
-                        wordnet_content['pivot'][file]['data'] = {}
-                        for line in file_reader:
-                            if line[0] != '#' and line[0] != ' ':
-                                wordnet_content['pivot'][file]['data'][line.split()[0]] = line.rstrip('\n')
-                else:
-                    files = os.listdir(os.path.join(self.browser_path, 'langdata', 'pivot'))
-                    if 'sentidx.vrb' in files:
-                        wordnet_content['pivot'][file]['sentidx'] = {}
-                        with open(os.path.join(self.browser_path, 'langdata', 'pivot',
-                                               'sentidx.vrb')) as file_reader:
-                            for line in file_reader:
-                                wordnet_content['pivot'][file]['sentidx'][line.split('%')[0]] = line.rstrip('\n')
-                    if 'sents.vrb' in files:
-                        wordnet_content['pivot'][file]['sents'] = {}
-                        with open(os.path.join(self.browser_path, 'langdata', 'pivot',
-                                               'sents.vrb')) as file_reader:
-                            for line in file_reader:
-                                wordnet_content['pivot'][file]['sents'][line.split()[0]] = line.rstrip('\n')
-                    if 'frames.vrb' in files:
-                        wordnet_content['pivot'][file]['frames'] = {}
-                        with open(os.path.join(self.browser_path, 'langdata', 'pivot',
-                                               'frames.vrb')) as file_reader:
-                            for line in file_reader:
-                                wordnet_content['pivot'][file]['frames'][line.split()[0]] = line.rstrip('\n')
-            print('WordNet content loaded')
-            logging.info("WordNet content loaded")
-            return wordnet_content
+            return self._wordnet_basic_loader()
 
     def tab_loader(self):
         tab_content = {}
@@ -173,6 +179,13 @@ class WordNet:
     def get_pair(self, language, offset, pos):
         if language in self.pair_content and pos in self.pair_content[language] and offset in self.pair_content[language][pos]:
             return self.pair_content[language][pos][offset]
+        return None
+
+    def lookup_eq_pair(self, language, pivot_offset, pos):
+        if language in self.pair_content and pos in self.pair_content[language]:
+            for synset in self.pair_content[language][pos]:
+                if self.pair_content[language][pos][synset] == pivot_offset + "-" + pos:
+                    return synset + "-" + pos
         return None
 
     def get_index(self, language, pos, lemma):
